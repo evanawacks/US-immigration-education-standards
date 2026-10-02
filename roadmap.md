@@ -78,7 +78,20 @@
 
 For any state listed in `data/needs_manual.csv` (blocked or JS-only sites):
 
-1. Save files into `data/raw/<ABBR>/` using the two-letter postal code in uppercase (e.g. `data/raw/FL/`, DC = `DC`).
+0. Easiest: drop files into `inbox/` and ask Claude to organize them (moves into `data/raw/<ABBR>/` and registers them).
+1. Or save files directly into `data/raw/<ABBR>/` using the two-letter postal code in uppercase (e.g. `data/raw/FL/`, DC = `DC`).
 2. Keep the original filename (don't rename; grade info in names like `Grade_5.pdf` is used later). Accepted: `.pdf`, `.docx`, `.doc`, `.xlsx`, `.xls`, or a saved `.html` page when the standards only exist as web pages.
 3. Optional: add `data/raw/<ABBR>/sources.txt` with one line per file: `<filename> <source url>`.
 4. Run `python scripts/register_manual.py` to add them to `data/manifest.csv` (deduped by SHA-256).
+
+## Phase 2 design note: agent-based segmentation
+
+Each document will be read and split into segments by a Claude agent (not rule-based parsing alone). Before running anything we agree on a segment schema, covering at least:
+
+- Provenance: `jurisdiction`, `document_id`, `source_url`, `page_start`, `page_end`
+- Placement: `grade_level(s)` (K, 1-12, bands expanded), `course`, `subject/strand` (history, civics, geography, economics), `domain/theme`
+- Content: `standard_code`, `standard_text`, `sub-items/indicators`, `examples/clarifications`, `segment_type` (standard, intro, glossary, appendix)
+- Agent output: `immigration_relevance` flag (kept separate from Phase 3 analysis), `confidence`, `notes`
+- Mechanics: how long documents are windowed (by page ranges), how agent output is validated against a JSON schema, how results are merged and re-run per document.
+
+The schema is to be drafted and agreed upon (test on 3 representative states: one-file-per-grade, grade-band, all-grades-in-one) before the full run.

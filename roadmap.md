@@ -73,3 +73,12 @@
 - Provenance: every chunk traces back to document, page, and source URL.
 - Versioning: standards change (several states are mid-revision), so record the retrieval date and the adoption year of each document.
 - Legal/ethical: public documents; be polite to servers (rate limits, robots awareness).
+
+## Manual download format (Phase 1)
+
+For any state listed in `data/needs_manual.csv` (blocked or JS-only sites):
+
+1. Save files into `data/raw/<ABBR>/` using the two-letter postal code in uppercase (e.g. `data/raw/FL/`, DC = `DC`).
+2. Keep the original filename (don't rename; grade info in names like `Grade_5.pdf` is used later). Accepted: `.pdf`, `.docx`, `.doc`, `.xlsx`, `.xls`, or a saved `.html` page when the standards only exist as web pages.
+3. Optional: add `data/raw/<ABBR>/sources.txt` with one line per file: `<filename> <source url>`.
+4. Run `python scripts/register_manual.py` to add them to `data/manifest.csv` (deduped by SHA-256).

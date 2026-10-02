@@ -129,3 +129,71 @@ WI,https://dpi.wi.gov/sites/default/files/imce/standards/New%20pdfs/Standards%20
 WI,https://dpi.wi.gov/sites/default/files/imce/social-studies/WMAS%20for%20Social%20Studies.pdf,https://dpi.wi.gov/sites/default/files/imce/social-studies/pdf/WMAS%20for%20Social%20Studies.pdf,data/raw/WI/WMAS_for_Social_Studies_9f7a60.pdf,pdf,3012942,815b69d1719af02a2bd77a2a28ae0526d878c2afb52cb652738fd2d124957619,crawled:https://dpi.wi.gov/social-studies/standards,2026-10-02T18:38:35+00:00
 WI,https://www.councilforeconed.org/wp-content/uploads/2012/03/voluntary-national-content-standards-2010.pdf,https://www.councilforeconed.org/wp-content/uploads/2012/03/voluntary-national-content-standards-2010.pdf,data/raw/WI/voluntary-national-content-standards-2010_4ed1ed.pdf,pdf,1165849,c0772f053997ad8224a0fabd73930309b420486c688d880512cb126e2bfc3a09,crawled:https://dpi.wi.gov/social-studies/standards,2026-10-02T18:38:36+00:00
 WY,https://edu.wyoming.gov/wp-content/uploads/2018/12/Social-Studies-Standards-20142018-additions_FINAL.pdf,https://edu.wyoming.gov/wp-content/uploads/2018/12/Social-Studies-Standards-20142018-additions_FINAL.pdf,data/raw/WY/Social-Studies-Standards-20142018-additions_FINAL_f5341c.pdf,pdf,526729,3ac4f6abd104eae0ff7e0a0e7c32f5f17019fa4331b98d4e792ff468d3d37ba5,direct,2026-10-02T18:38:39+00:00
+AR,,,data/raw/AR/AR_African_American_History_Standards_2022_LS.pdf,pdf,922602,a31d9b8a7ab59ac2c8c57fb86e8ae3d952c202fcfc54fe45ab3df2cc31db6731,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Civics_Standards_2022_LS.pdf,pdf,914751,0bd05369801bed1b12197fc329c8bbcb7f4cdef9233ccb408434ef1ff45f99c1,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Economics_with_Personal_Finance_Standards_2022_LS.pdf,pdf,928155,af09076e3d7fe455cbec9aa4f8e86aef71a3f346ee70e1f733c1405f7b018570,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grade_7_Social_Studies_Standards_2022_LS.pdf,pdf,951585,a4c5d2244a581b0e141b1f448f0ee5d6273397c88788dd08683d342ed1cb7fb4,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grade_8_Social_Studies_Standards_2022_LS.pdf,pdf,917842,9a79bde45c0010ac3005eda563fa3794f7eaf8f6ab93dfd735f3ec9d6771c72c,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grades_5-6_Social_Studies_Standards_2022_LS.pdf,pdf,1074757,ad4a0718ab4375a83e058a0aaac910bdf06b66942ee9454a441005f2a4e2844a,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grades_7-8_Arkansas_History_Standards_2022_LS.pdf,pdf,932221,e6de7f7f003933341933e48408e490c584b43aa6f843f945a6dcbbb8da381af7,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grades_9-12_Arkansas_History_Standards_2022_LS.pdf,pdf,928277,eae18b03549b89dd0254997250bade2734138c712da32ba2fa4abcef62c0b62f,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf,pdf,985490,db8892f2dd31b60828c7cbce27703bbc69efcbf6436e53accd16ad69bb3189f5,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Psychology_Standards_2022_LS.pdf,pdf,899940,c66e82523b54559788c6cba7de5d06c57592b3bdd3ec346fa9296f69f5f5f604,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_Sociology_Standards_2022_LS.pdf,pdf,899010,8ef75a33aa6eadc7aa9e863cbf30db353bac2266588cc77d1d02c5b5106533cf,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_US_Government_Standards_2022_LS.pdf,pdf,918047,4785e45b001c3c3632e5bc6125537f6af652f92820e8cc2084b2e39d7b6b5542,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_US_History_since_1929_Standards_2022_LS.pdf,pdf,938206,11f97159c8d32d02602127660856cc6c7db9e88abde8f621d612e4de8b396994,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_World_Geography_Standards_2022_LS.pdf,pdf,905211,5b596a61f9bf7b87288a819c68272fb66ee17ea3b97b92c5410b40963022ba60,manual,2026-10-02T23:16:33+00:00
+AR,,,data/raw/AR/AR_World_History_since_1450_Standards_2022_LS.pdf,pdf,914743,79fc7ff3f01232ac37030f2cd4fe6b4cb983ac91b63edacb99a0e4f03b717129,manual,2026-10-02T23:16:33+00:00
+AZ,,,data/raw/AZ/AZ 2018 History and Social Science Standards _Update8.23.19.pdf,pdf,1456070,4db7662d7f6f67e191a8b7ec404c11cbcb6092687dc0719937f58246a1621908,manual,2026-10-02T23:16:33+00:00
+CA,,,data/raw/CA/CA_hssframeworkwhole_k-12.pdf,pdf,11834775,49bedb100bb28af00e4533b8360ce1e1e9d439dcfbd2788e06bc3f44719b9fa5,manual,2026-10-02T23:16:33+00:00
+DE,,,data/raw/DE/DE-K-12-Civics-Standards-2018.docx,docx,23669,e887139ca56c1beceb23f4328a926a07b5bc1fc2f66c6d9ca29deb36ad766eff,manual,2026-10-02T23:16:33+00:00
+DE,,,data/raw/DE/DE-K-12-Economics-Standards-2018.docx,docx,22303,36fa0a8d5143a58527faef761fa0d71cae222e5433aa73da5619b4dcaf1de3c7,manual,2026-10-02T23:16:33+00:00
+DE,,,data/raw/DE/DE-K-12-Geography-Standards-2018.docx,docx,22858,73474bfd67efce2e32e529b6411f8fb9edf481f0cc3323f2eec66d562f2753fa,manual,2026-10-02T23:16:33+00:00
+DE,,,data/raw/DE/DE-K-12-History-Standards-2018.docx,docx,24680,04d6c5e02182128520ffbef1120c868f03334ac915b827a97c73caa55c777a5d,manual,2026-10-02T23:16:33+00:00
+FL,,,data/raw/FL/florida_k-12_social_studies.pdf,pdf,2417950,fa94c69f4f5b08b82c33eca39273d6a4b83b7ea636fa28afe7cf42f2b067205c,manual,2026-10-02T23:16:33+00:00
+GA,,,data/raw/GA/GA Social Studies K-12.pdf,pdf,1651157,6a3fcc2ccf1f23c9a9b8287f07fb28eb1c90814574244aed3660ebcb24ededf0,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_AmericanProblems.pdf,pdf,183611,d07daf4cdfca616dd2f6c1c644c68c6c7e67aed6ddbc0a00b54ec38dfbd18280,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_CulturalAnthropology.pdf,pdf,173150,383fde944ccba02a8888bacc47913d8e34dc44b4834a725dc81cb324291aaa89,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_Humanities.pdf,pdf,173604,006da29b19db814e7a99b98e48f6626ef473484e236c20ce9409729f03139a83,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_PoliticalScience_Government.pdf,pdf,179836,50989bb264e09656afd6e51054f8df22075a4c73e0b7be952e6e75076a3e28dd,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_Psychology.pdf,pdf,158388,0c03094ef4b84fe692a1cf4d98a211bc2ff1f5b7f46364b70a1d0ab61a569a94,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCPSIII_Sociology.pdf,pdf,179272,b93a6243605d21e6726eb2aaffd77041d0b5d71ca7fbd3f3982f34d0341fc673,manual,2026-10-02T23:16:33+00:00
+HI,,,data/raw/HI/HI HCSSSDemocracy.pdf,pdf,136814,7d6ef92c2d2760643f73a0e0e0bee191dd231420c77f61882eaefd208e4ef25a,manual,2026-10-02T23:16:33+00:00
+KS,,,data/raw/KS/KS hgss-standards-benchmarks-and-appendices.pdf,pdf,2468493,fa565d2781f2b130ae4b601e345ea9d85d7419e383fe6a742ffd7b8927e873b4,manual,2026-10-02T23:16:33+00:00
+MN,,,data/raw/MN/MN k12 social science and studies 2021.pdf,pdf,701419,b83ff0bfadc6f4dab895f84b6003fe884287f3577d0a314bba49369ced560d0e,manual,2026-10-02T23:16:33+00:00
+MO,,,data/raw/MO/curr-MO-standards-ss-6-12-sboe-2016_AOD.pdf,pdf,1501969,622928d82e77a113c1d44c41fa9aab5b7899e031ca82fb8673bc2e17287b7895,manual,2026-10-02T23:16:33+00:00
+MO,,,data/raw/MO/curr-MO-standards-ss-k-5-sboe-2016_AOD.pdf,pdf,730854,46068349694cf467ca29d529fde3060de46756ab2db717f414e09f01110617a0,manual,2026-10-02T23:16:33+00:00
+MO,,,data/raw/MO/curr-mls-standards-ss-k-12-sboe-2016.xlsx,xlsx,82782,41d4bde558929478e93b7b8e2f9c88cddf7fdebc7a508710405ba087b4b826a9,manual,2026-10-02T23:16:33+00:00
+MS,,,data/raw/MS/MS k12 social studies.pdf,pdf,4595456,bca3cf8ec295e12dacd39e8a55f467a37cdd0de1e8c4fdde07c7dedda26fc676,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 1st SS Standards - A.pdf,pdf,143212,779be278b976b242afcb17c5f929c19e5f432cdca4129db77dd52b5332f77878,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 2nd SS Standards - A.pdf,pdf,141429,e04fa5eb3951be082f12275f7082243c914cef844d22799921de86d843038eb9,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 3rd SS Standards - A.pdf,pdf,154205,709c4548d3e7cb05cbda0dbae347a07ee540a764a94420064d6b4ba08fb49de3,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 4th SS Standards - A.pdf,pdf,144867,2ecb1a1486e2ea1779b58f3bc8264f5105de3d379d98d12146e28b31708acaf5,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 5th SS Standards - A.pdf,pdf,148385,7f7989cd32de0b3613e33a08e5f67934b56f15e86429acde4a67cc55545c1a52,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 6th SS Standards - A.pdf,pdf,155605,efcfcb9c46e50af571ac253845886d84e78ac3e7bcbee813f5d6082c227d90c8,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 7th SS Standards - A.pdf,pdf,142852,2b3a98beef69da908977619c420ba540652c4a564036d203184f24f562043f9f,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC 8th SS Standards - A.pdf,pdf,150797,2e572a9f0c6c63fb46a0042a000398f7196307ff1281269ed33e97480e31f644,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC American History SS Standards - A.pdf,pdf,164769,232e96bf8870dda670260d53bb773f54abac443febbbcac8270f46f597786ee7,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC Economics and Personal Finance SS Standards - A.pdf,pdf,141535,8590ef5e6fe7a2ff83370b69003396aedc8b356b379c899fee13b451766275ac,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC Founding Principles SS Standards - A.pdf,pdf,169500,67ea613dd57813f11e79d4c11b8a4385265d96052603ab49d8025b13eed7edc0,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC K SS Standards - A.pdf,pdf,126226,75313b2850528b8e7c8020551199e939e78b1890f12acbf4425ac7f1e4b18b3d,manual,2026-10-02T23:16:33+00:00
+NC,,,data/raw/NC/NC World History SS Standards - A.pdf,pdf,155615,298ce9e965be9ef3298d7d57b91eb754cb968e8482565c3156798e588d549c73,manual,2026-10-02T23:16:33+00:00
+NM,,,data/raw/NM/NM-Standards-508.pdf,pdf,1580285,7a43a430d942e29d10cea998494db8757889923aa646deb733927e265154729d,manual,2026-10-02T23:16:33+00:00
+NY,,,data/raw/NY/NY ss-framework-k-8a2.pdf,pdf,1269954,029c37e4eb45691d7ae724cd6e47e025ce3d4a2d442f61920a3de9960d927e14,manual,2026-10-02T23:16:33+00:00
+NY,,,data/raw/NY/ny ss framework-9-12-with-2017-updates.pdf,pdf,635189,39943bd4c5abf8d56021a326e5cd4db2f39e45d81ddc749a5843334270aea889,manual,2026-10-02T23:16:33+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:16:33+00:00
+SC,,,data/raw/SC/SC 2019-SCSSCCR Standards-Final with appendices.pdf,pdf,1852634,aa4939e73c354569f67ad814bfcd7381f0fc83b9dd771a3a1e41c92bf50b22b9,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT FifthGrade SS.pdf,pdf,208968,f773838ee8b8cc11fa68bb21f5e183f75b1ef0da3c83509ce51240d33e61c575,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT FirstGrade SS.pdf,pdf,183017,04a7c4191d3cf46857c9d3a7c0270b08857594fa5af69c8214eaa533a8ea21c9,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT FourthGrade SS.pdf,pdf,198038,9b700bc422f51b74f6404dad241e8068132fb642850a3ba04d4e790a29f95b76,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT Kindergarten SS.pdf,pdf,178833,03452fe43ad87aab1d00d90e583b604ba728c0e33d8f00fc643b4769f993ca4d,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT SecondGrade SS.pdf,pdf,188690,bf332547f9c46e60e086be1c1db56f152ee0210ae72ef1c9e19469c5db891764,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT SixthGrade SS.pdf,pdf,202808,880a4d34c91238a5553feef72a1b52f5e58bdf513e02d551b67b0553f340eba3,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT ThirdGrade SS.pdf,pdf,188559,aec6afe56140beb1f89cdb8faaf921f269c730748a01651704d59a706086d70b,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT USGovernment SS highschool.pdf,pdf,69733,6b070eac13f8a19d09027731abb3f39ffcebd5d31b04fe7af3836267abec4295,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT USHistory1 SS highschool.pdf,pdf,78664,b7826cea36cf29a843656704b7e4814cefa358b2a97652a73c6840392b02d914,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT USHistory2 SS highschool.pdf,pdf,85350,360271c79eb342deb59b49bce2803a0dac65a585ce6db7e9e9ca39a7ba08b4b5,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT UtahStudies SS highschool.pdf,pdf,76886,6e27d84952a186bc52d50347def88260bb7211d2ab46e3ff52c88f1e802f07f2,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT WorldGeography SS highschool.pdf,pdf,68251,5e9b0a6e7cc7fcf9c7295ea04296f5a0eaec38d21d3f95b1f008503454a7dbaf,manual,2026-10-02T23:16:33+00:00
+UT,,,data/raw/UT/UT WorldHistory SS highschool.pdf,pdf,82771,0be23dc651fdd7a9985382079f1c39fe0a7daf8e43a7256c40cbf37fb4583b31,manual,2026-10-02T23:16:33+00:00
+VA,,,data/raw/VA/VA 2023 HSS SOL FINAL 03.11.25.docx,docx,581291,b4caf1d7871f033db534476743add8935a6a3bb169cc1e895db8b4d5240152d0,manual,2026-10-02T23:16:33+00:00

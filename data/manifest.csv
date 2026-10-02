@@ -197,3 +197,37 @@ UT,,,data/raw/UT/UT UtahStudies SS highschool.pdf,pdf,76886,6e27d84952a186bc52d5
 UT,,,data/raw/UT/UT WorldGeography SS highschool.pdf,pdf,68251,5e9b0a6e7cc7fcf9c7295ea04296f5a0eaec38d21d3f95b1f008503454a7dbaf,manual,2026-10-02T23:16:33+00:00
 UT,,,data/raw/UT/UT WorldHistory SS highschool.pdf,pdf,82771,0be23dc651fdd7a9985382079f1c39fe0a7daf8e43a7256c40cbf37fb4583b31,manual,2026-10-02T23:16:33+00:00
 VA,,,data/raw/VA/VA 2023 HSS SOL FINAL 03.11.25.docx,docx,581291,b4caf1d7871f033db534476743add8935a6a3bb169cc1e895db8b4d5240152d0,manual,2026-10-02T23:16:33+00:00
+CO,,,data/raw/CO/ColoradoAcademicStandards-SocialStudiesStandardsP-12adopted2022_1.pdf,pdf,1208663,be2570b3fcd5f347a86be22dd97f942876106f33cce2435d768409eed7865b67,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI FilipinoHistoryCultureCourseStandards.pdf,pdf,105770,adfa0ded808e6105f4d67e5e71326b672c3f7bbdf830dccfe84a73b6165b9fe6,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCPSIII_AsianStudies.pdf,pdf,172059,a8a2a41304478dfeca89f5dbdcd2715ac48bfe21af2f9b76cf6b845c33978429,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCPSIII_Economics.pdf,pdf,174137,e83ab28877d4c783440ecbe3842ccb0a19472a702cc7ae409bd08f4888c0aebf,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCPSIII_EuropeanStudies.pdf,pdf,183929,61ec0c3b37cd823ed06b549150d6c2fea074a17b23a6697a3ee98df0bef37fd3,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCPSIII_Geography.pdf,pdf,162770,0609ea96ee9efada52014da2d358bfddd59cae4db8b800e4706c842e60c5845b,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCPSIII_GlobalStudies.pdf,pdf,171074,6b228c5e707ac37f346ecdcefb86323a16d3d5adc2c5b011ad503dbad4cff068,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSHawaiianKingdom.pdf,pdf,108592,17530ea932903acec93a98035376fadcc2f54232c0947e6e30bb5a8c4b14ece4,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSModernHistoryHawaii.pdf,pdf,292059,2bdc31688fc5924e931fdfb444cc5f132ce4c21baeecc9bddff702ec1659a619,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSPacificIslandStudies.pdf,pdf,52719,505fa35f0529271b005535016147cec95ef93784a525fe0a7a3811c67429ef30,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSUSHistoryGovernment.pdf,pdf,360321,5b515616b1859929b8579690eba206ab32891c726da2db653b74cf0e9afbf08d,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSWorldHistoryCulture.pdf,pdf,330631,7a3d3fd039ba4954ae6c2a7302e372d46032f63a97bcc5309330c8d0fa57248e,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr1.pdf,pdf,104281,e6219923e9a357da44c275ef08db7015ba4800a6de1e349d4fc36bd8fcb14b15,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr2.pdf,pdf,107720,456443d0551956502b03ac065f7dc84ffa5183c991f829c3651a5d9360393fab,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr3.pdf,pdf,110991,a8096aeb06e9952be8a04382e8173387aff4f911d26494ce2d576025f54bf6a6,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr4.pdf,pdf,178316,d0a0b31eb0475bc3e34c94c19ffbb8a93f42d39b1ca693f1ae628b0361705c40,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr5.pdf,pdf,168153,8ffb0137ac26112f8611fb58fd1edb9fb1a6696dcdf2c282e77477b903e1d4a8,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr6WorldHist.pdf,pdf,326961,f7f17e1f5401317d8722e665c023ef22d15de5f884265eddda7b3d13d7ceb922,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgr8USHist.pdf,pdf,177546,70d3d71b8016121f7fe63b89556402dda2e744192638bd3a1223b26f4019a65b,manual,2026-10-02T23:18:49+00:00
+HI,,,data/raw/HI/HI HCSSSgrK.pdf,pdf,93368,1947e972bffc2ab139e2ac32d454f5ff68b2fcdaeb99db5478e47bb0cf07688c,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 2nd.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 3rd.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 4th.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 5th.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 6th.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 7th.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 8th.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 American Govt highschool.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 American History highschool.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 Contemporary World Issues highschool.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 Modern World History highschool.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019 World Geography highschool.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+OH,,,data/raw/OH/Ohio-s-Learning-Standards-for-Social-Studies_01-2019.pdf,pdf,690963,cc5ad09bb26f8d12bab37e5ed96b47ff28b73b554c8209e688017277b85e3fa5,manual,2026-10-02T23:18:49+00:00
+WI,,,data/raw/WI/2018_WI_Social_Studies_Standards_6bd3f2.pdf,pdf,1489050,81156aa9cffdc10c3dc7f1bcfac2b2b9e0fbe22323db3fac98b008d82dfa091e,manual,2026-10-02T23:19:01+00:00

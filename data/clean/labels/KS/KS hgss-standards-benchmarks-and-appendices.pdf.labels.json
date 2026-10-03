@@ -1,0 +1,1328 @@
+{
+ "state": "KS",
+ "file": "KS hgss-standards-benchmarks-and-appendices.pdf",
+ "structure": "Single PDF: front matter (board, committee, TOC), then K-12 Standards 1-5 (each with description, bulleted aspects, 'Benchmark:' 1.1-5.4), best practices, suggested scope-and-sequence tables (K-5 one table per grade, 6-8 and 9-12 tables with Focus/Teaching and Reinforcing standard columns), instructional steps, then Appendices. Appendices have one section per grade K-5 (Focus Standard N, repeated benchmarks 1-4, Instructional Best Practices, Course Description, Expanding on Past / Connecting with Future Learning, Culturally Relevant Pedagogy, Suggested Units: History/Civics/Geography/Economics units with Suggested topics), middle-school courses (6 Ancient World History, 7 Global Geography, 7 Kansas History, 8 US History 1789-1898) and HS courses (World Civilizations, US History 1898-Present, Governments of the US) with course description and suggested units but no formal standard text, then elective course list and elective examples (Economics, World Geography, Psychology), glossary table and contact page. Grades from headings and running page text; K-12 standards apply to all grades. No standard codes beyond 1.1-5.4.",
+ "labels": [
+  {
+   "units": "u1-u186",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, board/staff lists, purpose, acknowledgements, committee, table of contents"
+  },
+  {
+   "units": "u188-u193",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Mission statement and page header"
+  },
+  {
+   "units": "u194-u218",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 1-2 with benchmarks (K-12)"
+  },
+  {
+   "units": "u219",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u220-u241",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 3-4 with benchmarks (K-12)"
+  },
+  {
+   "units": "u242",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u243-u252",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standard 5 with benchmarks (K-12)"
+  },
+  {
+   "units": "u253-u292",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "HGSS best practices, effective classroom practices, inquiry, scope and sequence intro"
+  },
+  {
+   "units": "u293-u299",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade K"
+  },
+  {
+   "units": "u300-u306",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade 1"
+  },
+  {
+   "units": "u307-u313",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade 2"
+  },
+  {
+   "units": "u314-u320",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade 3"
+  },
+  {
+   "units": "u321-u327",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade 4"
+  },
+  {
+   "units": "u328-u334",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Suggested scope and sequence table: content focus / focus standard, grade 5"
+  },
+  {
+   "units": "u337",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u338",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 middle level heading"
+  },
+  {
+   "units": "u339-u342",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 scope table header row"
+  },
+  {
+   "units": "u343-u346",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "standards",
+   "section": "Scope table row: Grade 6"
+  },
+  {
+   "units": "u347-u350",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "standards",
+   "section": "Scope table row: Grade 7 Global Geography"
+  },
+  {
+   "units": "u351-u354",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "standards",
+   "section": "Scope table row: Grade 7 Kansas History"
+  },
+  {
+   "units": "u355-u358",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "standards",
+   "section": "Scope table row: Grade 8"
+  },
+  {
+   "units": "u359",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on elective courses"
+  },
+  {
+   "units": "u360",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 high level heading"
+  },
+  {
+   "units": "u361-u363",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 scope table header row"
+  },
+  {
+   "units": "u364-u366",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "standards",
+   "section": "Scope table row: World Civilization and History"
+  },
+  {
+   "units": "u367-u369",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "standards",
+   "section": "Scope table row: US History"
+  },
+  {
+   "units": "u370-u372",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "standards",
+   "section": "Scope table row: Governments of the U.S."
+  },
+  {
+   "units": "u373-u458",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnotes, instructional steps, appendices divider and appendix TOC"
+  },
+  {
+   "units": "u460",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u461-u471",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K Sense of Self: Focus Standard 1 and benchmarks"
+  },
+  {
+   "units": "u472-u487",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list; page header"
+  },
+  {
+   "units": "u488-u491",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K course description, expanding on / connecting with learning"
+  },
+  {
+   "units": "u492-u498",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u499-u509",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K suggested units: history, civics, geography, economics"
+  },
+  {
+   "units": "u512",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u513-u524",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Role of Individuals: Focus Standard 2 and benchmarks"
+  },
+  {
+   "units": "u525-u537",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u538-u543",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 course description, expanding/connecting"
+  },
+  {
+   "units": "u544-u552",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes; header"
+  },
+  {
+   "units": "u553-u564",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 suggested units"
+  },
+  {
+   "units": "u567",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u568-u580",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 Then and Now: Focus Standard 4 and benchmarks"
+  },
+  {
+   "units": "u581-u593",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u594-u599",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 course description, expanding/connecting"
+  },
+  {
+   "units": "u600-u608",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes; header"
+  },
+  {
+   "units": "u609-u620",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 suggested units"
+  },
+  {
+   "units": "u623",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u624-u635",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 Local and National Communities: Focus Standard 3 and benchmarks"
+  },
+  {
+   "units": "u636-u651",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list; page header"
+  },
+  {
+   "units": "u652-u655",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 course description, expanding/connecting"
+  },
+  {
+   "units": "u656-u663",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes; header"
+  },
+  {
+   "units": "u664-u675",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 suggested units"
+  },
+  {
+   "units": "u678",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u679-u693",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Kansas and Regions of the US: Focus Standard 5 and benchmarks"
+  },
+  {
+   "units": "u694-u709",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list; page header"
+  },
+  {
+   "units": "u710-u713",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 course description, expanding/connecting"
+  },
+  {
+   "units": "u714-u721",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes; header"
+  },
+  {
+   "units": "u722-u727",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 suggested units: history, civics"
+  },
+  {
+   "units": "u730",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u731-u737",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 suggested units: geography, economics"
+  },
+  {
+   "units": "u740",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u741-u742",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 United States History: Early North American People Groups to 1789 C.E. (title)"
+  },
+  {
+   "units": "u743-u744",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 course description"
+  },
+  {
+   "units": "u745-u760",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Instructional best practices list; page header"
+  },
+  {
+   "units": "u761-u768",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 expanding on / connecting with learning"
+  },
+  {
+   "units": "u769-u775",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes; header"
+  },
+  {
+   "units": "u776-u799",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 suggested units and topics (the unit titles list u776-u781, narratives)"
+  },
+  {
+   "units": "u802",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u803-u804",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "standards",
+   "section": "Grade 6 Ancient World History: Early Civilizations to 1300 C.E. (title)"
+  },
+  {
+   "units": "u805-u806",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "examples",
+   "section": "Grade 6 course description"
+  },
+  {
+   "units": "u807-u819",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u820-u825",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "examples",
+   "section": "Grade 6 expanding/connecting"
+  },
+  {
+   "units": "u826-u830",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u831-u836",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "examples",
+   "section": "Grade 6 suggested unit titles"
+  },
+  {
+   "units": "u839",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u840-u847",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "examples",
+   "section": "Grade 6 suggested units: civilizations"
+  },
+  {
+   "units": "u850",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u851-u855",
+   "grades": "6",
+   "course": "Ancient World History",
+   "cat": "examples",
+   "section": "Grade 6 suggested units: East Asia, Europe/SW Asia"
+  },
+  {
+   "units": "u858",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u859-u860",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "standards",
+   "section": "Grade 7 Global Geography (title)"
+  },
+  {
+   "units": "u861-u862",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "examples",
+   "section": "Grade 7 Global Geography course description"
+  },
+  {
+   "units": "u863-u875",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u876-u877",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "examples",
+   "section": "Expanding/connecting"
+  },
+  {
+   "units": "u880-u885",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "backup",
+   "section": "Page header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u886-u893",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "examples",
+   "section": "Suggested topics list; Physical Geography: Earth and Landforms"
+  },
+  {
+   "units": "u896",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u897-u905",
+   "grades": "7",
+   "course": "Global Geography",
+   "cat": "examples",
+   "section": "Suggested units: physical systems, human geography, human impact"
+  },
+  {
+   "units": "u908",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u909-u910",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "standards",
+   "section": "Grade 7 Kansas History: Prehistoric to Present (title)"
+  },
+  {
+   "units": "u911",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "examples",
+   "section": "Course description"
+  },
+  {
+   "units": "u912-u925",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u926-u927",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "examples",
+   "section": "Expanding/connecting"
+  },
+  {
+   "units": "u930-u935",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u936-u943",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "examples",
+   "section": "Suggested unit titles list"
+  },
+  {
+   "units": "u946",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u947-u954",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "examples",
+   "section": "Suggested units: early Kansas to 1890s"
+  },
+  {
+   "units": "u957",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u958-u965",
+   "grades": "7",
+   "course": "Kansas History: Prehistoric to Present",
+   "cat": "examples",
+   "section": "Suggested units: 1890s to present"
+  },
+  {
+   "units": "u968",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u969-u970",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "standards",
+   "section": "Grade 8 United States History 1789-1898 (title)"
+  },
+  {
+   "units": "u971",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "examples",
+   "section": "Course description"
+  },
+  {
+   "units": "u972-u984",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u985-u986",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "examples",
+   "section": "Expanding/connecting"
+  },
+  {
+   "units": "u989-u993",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u994-u1010",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "examples",
+   "section": "Suggested unit list and units 1789-1865"
+  },
+  {
+   "units": "u1013",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1014-u1017",
+   "grades": "8",
+   "course": "United States History 1789 C.E. - 1898 C.E.",
+   "cat": "examples",
+   "section": "Suggested units: Reconstruction, industrialization"
+  },
+  {
+   "units": "u1020-u1021",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "standards",
+   "section": "World Civilizations and History title and course code"
+  },
+  {
+   "units": "u1022",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Course description"
+  },
+  {
+   "units": "u1023-u1035",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u1036-u1038",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Expanding on prior learning"
+  },
+  {
+   "units": "u1041",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1042",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Connecting with future learning"
+  },
+  {
+   "units": "u1043-u1046",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1047-u1053",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested unit titles"
+  },
+  {
+   "units": "u1056",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1057-u1064",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1067",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1068-u1073",
+   "grades": "9-12",
+   "course": "World Civilizations and History 1000 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1076-u1077",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "standards",
+   "section": "U.S. History 1898-Present title and course code"
+  },
+  {
+   "units": "u1078",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Course description"
+  },
+  {
+   "units": "u1079-u1091",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u1092-u1093",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Expanding/connecting"
+  },
+  {
+   "units": "u1096-u1100",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1101-u1109",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested unit titles"
+  },
+  {
+   "units": "u1112",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1113-u1120",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1123",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1124-u1131",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1134",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1135-u1138",
+   "grades": "9-12",
+   "course": "U.S. History 1898 C.E. - Present",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1141",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1142-u1143",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "standards",
+   "section": "Governments of the United States title and course code"
+  },
+  {
+   "units": "u1144",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "examples",
+   "section": "Course description"
+  },
+  {
+   "units": "u1145-u1157",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "backup",
+   "section": "Instructional best practices list"
+  },
+  {
+   "units": "u1158-u1160",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "examples",
+   "section": "Expanding/connecting"
+  },
+  {
+   "units": "u1163-u1167",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1168-u1175",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "examples",
+   "section": "Suggested unit titles and units"
+  },
+  {
+   "units": "u1178",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1179-u1186",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1189",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1190-u1191",
+   "grades": "9-12",
+   "course": "Governments of the United States",
+   "cat": "examples",
+   "section": "Suggested unit"
+  },
+  {
+   "units": "u1194-u1196",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Upper-level electives divider"
+  },
+  {
+   "units": "u1199",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1200-u1246",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Examples of elective course titles by area"
+  },
+  {
+   "units": "u1248-u1249",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Footer and page header"
+  },
+  {
+   "units": "u1250-u1276",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Elective course titles (cont.); generic elective course description"
+  },
+  {
+   "units": "u1279-u1282",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy"
+  },
+  {
+   "units": "u1285",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1286-u1287",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Upper-level elective Economics title and course code"
+  },
+  {
+   "units": "u1288-u1291",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Course description, connecting with past/future learning"
+  },
+  {
+   "units": "u1294-u1300",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1301-u1307",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Suggested unit titles"
+  },
+  {
+   "units": "u1310",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1311-u1322",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1325",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1326-u1330",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1333",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Upper-level elective World Geography title and course code"
+  },
+  {
+   "units": "u1336-u1338",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Course description, connecting with past/future learning"
+  },
+  {
+   "units": "u1341-u1347",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Header; culturally relevant pedagogy; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1348-u1358",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Suggested unit titles"
+  },
+  {
+   "units": "u1361",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1362-u1373",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Suggested units"
+  },
+  {
+   "units": "u1376",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1377-u1394",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Suggested regional units"
+  },
+  {
+   "units": "u1397",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1398-u1416",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Suggested regional units"
+  },
+  {
+   "units": "u1419",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1420-u1421",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Upper-level elective Psychology title and course code"
+  },
+  {
+   "units": "u1422-u1424",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Course description, connecting with past/future learning"
+  },
+  {
+   "units": "u1425-u1427",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Culturally relevant pedagogy"
+  },
+  {
+   "units": "u1430-u1433",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Header; suggested units intro; CBA notes"
+  },
+  {
+   "units": "u1434-u1447",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Suggested unit titles; Perspectives of Psychology"
+  },
+  {
+   "units": "u1450-u1452",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header fragments (garbled)"
+  },
+  {
+   "units": "u1453-u1476",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Biology and Behavior; Life Development"
+  },
+  {
+   "units": "u1479",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1480-u1500",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Life Development content outline"
+  },
+  {
+   "units": "u1502-u1503",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Footer and page header"
+  },
+  {
+   "units": "u1504-u1528",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Memory and Learning"
+  },
+  {
+   "units": "u1531",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1532-u1556",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Learning; Social Interaction; Sociocultural Diversity"
+  },
+  {
+   "units": "u1559",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1560-u1582",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Diversity; Personality; Mental Health"
+  },
+  {
+   "units": "u1585",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Page header"
+  },
+  {
+   "units": "u1586-u1603",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Treatment; stress and coping; health"
+  },
+  {
+   "units": "u1606-u1685",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary and closing contact information"
+  }
+ ],
+ "issues": [
+  "Guide says 'Governments of the US' etc.; verified HS courses match (u364-u372 table, u1020-u1191 appendices). Table lists 'World Civilization and History'/'Governments of the U.S.'; appendix titles used as course strings.",
+  "u12, u42, u45, u57: garbled/extraction-noise text in the board/staff cover page (backup).",
+  "u1450-u1452: Psychology page header split into fragments by extraction.",
+  "u1315, u1320, u1328: stray bullet questions inside Economics suggested units; labeled examples.",
+  "Grades 5-8 appendix pages have only course title as 'standards'; formal standard text exists only as K-12 Standards 1-5 (u194-u252); grade-level focus standards for 6-8 and HS appear only in scope tables (u339-u372).",
+  "Course strings for grades 6-8 (Ancient World History; Global Geography; Kansas History: Prehistoric to Present; United States History 1789 C.E. - 1898 C.E.) assigned from appendix titles; grade 7 has two courses. Grade 5 'United States History' left as grade-level (course null).",
+  "u1021/u1077/u1143/u1287/u1335/u1421: Kansas course code lines, labeled with the course title as standards.",
+  "u1200-u1272 elective course-title lists labeled examples (course titles, not standards). u1273-u1276 generic elective course description has no specific course (course null).",
+  "u359, u373: footnote 'Elective Courses will teach and reinforce all five standards' labeled backup.",
+  "Scope tables: grade 7 has two rows (u347-u354) for Global Geography and Kansas History; rows are table cells with grade column '7' for both."
+ ]
+}

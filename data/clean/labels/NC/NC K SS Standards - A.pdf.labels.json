@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC K SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Kindergarten Social Studies"
+  },
+  {
+   "units": "u2",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (The World Around Us)"
+  },
+  {
+   "units": "u3-u8",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u9",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry K-2 heading"
+  },
+  {
+   "units": "u10",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u11-u26",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry K-2 table (I.1.1-I.1.9)"
+  },
+  {
+   "units": "u27-u45",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table K.B, K.C&G, K.E, K.G, K.H"
+  }
+ ],
+ "issues": [
+  "u22: 'Starting in Grade 3' is the Developing Claims row; no K-2 indicator exists (kept with inquiry table).",
+  "u37: continuation row of K.C&G.1 objectives (K.C&G.1.4) split across pages with empty standard cell; belongs to K.C&G.1."
+ ]
+}

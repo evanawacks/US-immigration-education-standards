@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC 8th SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Eighth Grade Social Studies"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (North Carolina and United States History)"
+  },
+  {
+   "units": "u4-u9",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u10",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 6-8 heading"
+  },
+  {
+   "units": "u11",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u12-u27",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 6-8 table (I.1.1-I.1.11)"
+  },
+  {
+   "units": "u28-u59",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table 8.B, 8.C&G, 8.E, 8.G, 8.H"
+  }
+ ],
+ "issues": [
+  "u51-u52: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade.",
+  "u48: code '8.G1.5' typo in source."
+ ]
+}

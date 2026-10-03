@@ -1,0 +1,453 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr2_cc4e98.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades K-2 Inquiry Standards' (Anchor Standards 1-5, codes SS.K-2.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.2.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "We The People: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Rights and Responsibilities"
+  },
+  {
+   "units": "u47",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "We The People > Rights and Responsibilities: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Rights and Responsibilities"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Principles and Values of Democracy"
+  },
+  {
+   "units": "u54",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "We The People > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Principles and Values of Democracy"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u61",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "We The People > Historical Perspectives and Interpretations: sample content/concepts"
+  },
+  {
+   "units": "u62-u63",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "We The People > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u64",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u65",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past"
+  },
+  {
+   "units": "u66-u68",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Looking Into Our Past: sample compelling questions"
+  },
+  {
+   "units": "u69-u75",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past"
+  },
+  {
+   "units": "u76-u77",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Interdependence"
+  },
+  {
+   "units": "u78",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Looking Into Our Past > Interdependence: sample content/concepts"
+  },
+  {
+   "units": "u79-u83",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Interdependence"
+  },
+  {
+   "units": "u84-u85",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Chronological Thinking"
+  },
+  {
+   "units": "u86",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Looking Into Our Past > Chronological Thinking: sample content/concepts"
+  },
+  {
+   "units": "u87-u90",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Chronological Thinking"
+  },
+  {
+   "units": "u91-u92",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u93",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Looking Into Our Past > Historical Perspectives and Interpretations: sample content/concepts"
+  },
+  {
+   "units": "u94-u95",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Looking Into Our Past > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u96",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u97",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use"
+  },
+  {
+   "units": "u98-u100",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use: sample compelling questions"
+  },
+  {
+   "units": "u101-u107",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use"
+  },
+  {
+   "units": "u108-u109",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Role and Functions of Markets"
+  },
+  {
+   "units": "u110",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use > Role and Functions of Markets: sample content/concepts"
+  },
+  {
+   "units": "u111-u114",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Role and Functions of Markets"
+  },
+  {
+   "units": "u115-u116",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Interdependence"
+  },
+  {
+   "units": "u117",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use > Interdependence: sample content/concepts"
+  },
+  {
+   "units": "u118-u120",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Interdependence"
+  },
+  {
+   "units": "u121-u122",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Economic Role of Government"
+  },
+  {
+   "units": "u123",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use > Economic Role of Government: sample content/concepts"
+  },
+  {
+   "units": "u124-u127",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Economic Role of Government"
+  },
+  {
+   "units": "u128-u129",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Land and Water"
+  },
+  {
+   "units": "u130",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use > Land and Water: sample content/concepts"
+  },
+  {
+   "units": "u131-u134",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Land and Water"
+  },
+  {
+   "units": "u135-u136",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Interactions and Impact"
+  },
+  {
+   "units": "u137",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "What We Make and Use > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u138-u141",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "What We Make and Use > Interactions and Impact"
+  },
+  {
+   "units": "u142",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Interactions and Impact"
+  },
+  {
+   "units": "u143",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can"
+  },
+  {
+   "units": "u144-u146",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Together We Can: sample compelling questions"
+  },
+  {
+   "units": "u147-u153",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can"
+  },
+  {
+   "units": "u154-u155",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Limited Resources and Choices"
+  },
+  {
+   "units": "u156",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Together We Can > Limited Resources and Choices: sample content/concepts"
+  },
+  {
+   "units": "u157-u160",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Limited Resources and Choices"
+  },
+  {
+   "units": "u161-u162",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Interactions and Impact"
+  },
+  {
+   "units": "u163",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Together We Can > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u164-u169",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Interactions and Impact"
+  },
+  {
+   "units": "u170-u171",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Civic Participation"
+  },
+  {
+   "units": "u172",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Together We Can > Civic Participation: sample content/concepts"
+  },
+  {
+   "units": "u173-u176",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Civic Participation"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Limited Resources and Choice"
+  },
+  {
+   "units": "u179",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Together We Can > Limited Resources and Choice: sample content/concepts"
+  },
+  {
+   "units": "u180-u182",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Together We Can > Limited Resources and Choice"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u18, u20: Anchor Standard 3 shows 'Begins in grades 3-5' placeholders; labeled K-2 standards."
+ ]
+}

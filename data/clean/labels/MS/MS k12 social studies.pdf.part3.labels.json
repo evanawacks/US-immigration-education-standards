@@ -1,0 +1,1771 @@
+{
+ "state": "MS",
+ "file": "MS k12 social studies.pdf",
+ "range": "u4942-u5297",
+ "structure": "MS (Mississippi College- and Career-Readiness Standards for the Social Studies 2018). This range (pp. 450-481) is the end of the Economics course and the high-school elective courses. Each course has a title table: course title, credit (1 or 1/2 Carnegie credit), 'STRANDS: ...' line, then a two-column table STANDARD | OBJECTIVE(S). Standard codes are course-abbreviation.number (E.6, AWG.1, PAD.1, HAME.1, AAS.1, PSY.1, SOC.1, LRE.1, MIN.1, HUM.1); column C1 holds the standard statement with '(Strands: ...)', C2 (or C3 when split by line) holds the numbered objectives. No grade is given for these courses, so grades=9-12 and course=title as written. The running header 'MISSISSIPPI COLLEGE- and CAREER-READINESS STANDARDS ...' appears as a unit on every page. Economics pages 450-452 are a redline revision with old and new text merged. Page 481 holds closing support-documents text.",
+ "labels": [
+  {
+   "units": "u4942",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u4943",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.6 E.8 standard statement"
+  },
+  {
+   "units": "u4944-u4973",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.6 E.8 objectives"
+  },
+  {
+   "units": "u4975",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u4976",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.7 E.9 standard statement"
+  },
+  {
+   "units": "u4977",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.7 E.9 objectives"
+  },
+  {
+   "units": "u4978",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.8 E.10 standard statement"
+  },
+  {
+   "units": "u4979",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.8 E.10 objectives"
+  },
+  {
+   "units": "u4981",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u4982",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.9 E.11 standard statement"
+  },
+  {
+   "units": "u4983-u4995",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E.9 E.11 objectives"
+  },
+  {
+   "units": "u4997",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u4998",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > course title"
+  },
+  {
+   "units": "u4999",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "Advanced World Geography > credit value"
+  },
+  {
+   "units": "u5000",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > strands line"
+  },
+  {
+   "units": "u5001-u5002",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "Advanced World Geography > table column header"
+  },
+  {
+   "units": "u5003",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.1 standard statement"
+  },
+  {
+   "units": "u5004",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.1 objectives"
+  },
+  {
+   "units": "u5005",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.2 standard statement"
+  },
+  {
+   "units": "u5006",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.2 objectives"
+  },
+  {
+   "units": "u5007",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.3 standard statement"
+  },
+  {
+   "units": "u5008",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.3 objectives"
+  },
+  {
+   "units": "u5009",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.4 standard statement"
+  },
+  {
+   "units": "u5010",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.4 objectives"
+  },
+  {
+   "units": "u5012",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5013",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.5 standard statement"
+  },
+  {
+   "units": "u5014",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.5 objectives"
+  },
+  {
+   "units": "u5015",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.6 standard statement"
+  },
+  {
+   "units": "u5016",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.6 objectives"
+  },
+  {
+   "units": "u5017",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.7 standard statement"
+  },
+  {
+   "units": "u5018",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.7 objectives"
+  },
+  {
+   "units": "u5019",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.8 standard statement"
+  },
+  {
+   "units": "u5020",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.8 objectives"
+  },
+  {
+   "units": "u5022",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5023",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.9 standard statement"
+  },
+  {
+   "units": "u5024",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.9 objectives"
+  },
+  {
+   "units": "u5025",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.10 standard statement"
+  },
+  {
+   "units": "u5026",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.10 objectives"
+  },
+  {
+   "units": "u5027",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.11 standard statement"
+  },
+  {
+   "units": "u5028",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.11 objectives"
+  },
+  {
+   "units": "u5029",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.12 standard statement"
+  },
+  {
+   "units": "u5030",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "Advanced World Geography > AWG.12 objectives"
+  },
+  {
+   "units": "u5032",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5033",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > course title"
+  },
+  {
+   "units": "u5034",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "backup",
+   "section": "Problems in American Democracy > credit value"
+  },
+  {
+   "units": "u5035",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > strands line"
+  },
+  {
+   "units": "u5036-u5037",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "backup",
+   "section": "Problems in American Democracy > table column header"
+  },
+  {
+   "units": "u5038",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.1 standard statement"
+  },
+  {
+   "units": "u5039",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.1 objectives"
+  },
+  {
+   "units": "u5040",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.2 standard statement"
+  },
+  {
+   "units": "u5041",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.2 objectives"
+  },
+  {
+   "units": "u5043",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5044",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.3 standard statement"
+  },
+  {
+   "units": "u5045",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.3 objectives"
+  },
+  {
+   "units": "u5046",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.4 standard statement"
+  },
+  {
+   "units": "u5047",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.4 objectives"
+  },
+  {
+   "units": "u5048",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.5 standard statement"
+  },
+  {
+   "units": "u5049",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.5 objectives"
+  },
+  {
+   "units": "u5051",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5052",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.6 standard statement"
+  },
+  {
+   "units": "u5053",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.6 objectives"
+  },
+  {
+   "units": "u5054",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.7 standard statement"
+  },
+  {
+   "units": "u5055",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.7 objectives"
+  },
+  {
+   "units": "u5056",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.8 standard statement"
+  },
+  {
+   "units": "u5057",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.8 objectives"
+  },
+  {
+   "units": "u5059",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5060",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.9 standard statement"
+  },
+  {
+   "units": "u5061",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.9 objectives"
+  },
+  {
+   "units": "u5062",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.10 standard statement"
+  },
+  {
+   "units": "u5063",
+   "grades": "9-12",
+   "course": "Problems in American Democracy",
+   "cat": "standards",
+   "section": "Problems in American Democracy > PAD.10 objectives"
+  },
+  {
+   "units": "u5065",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5066",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > course title"
+  },
+  {
+   "units": "u5067",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "backup",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > credit value"
+  },
+  {
+   "units": "u5068",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > strands line"
+  },
+  {
+   "units": "u5069-u5070",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "backup",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > table column header"
+  },
+  {
+   "units": "u5071",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.1 standard statement"
+  },
+  {
+   "units": "u5072",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.1 objectives"
+  },
+  {
+   "units": "u5073",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.2 standard statement"
+  },
+  {
+   "units": "u5074",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.2 objectives"
+  },
+  {
+   "units": "u5075",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.3 standard statement"
+  },
+  {
+   "units": "u5076",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.3 objectives"
+  },
+  {
+   "units": "u5077",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.4 standard statement"
+  },
+  {
+   "units": "u5078",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.4 objectives"
+  },
+  {
+   "units": "u5080",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5081",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.5 standard statement"
+  },
+  {
+   "units": "u5082",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.5 objectives"
+  },
+  {
+   "units": "u5083",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.6 standard statement"
+  },
+  {
+   "units": "u5084",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.6 objectives"
+  },
+  {
+   "units": "u5085",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.7 standard statement"
+  },
+  {
+   "units": "u5086",
+   "grades": "9-12",
+   "course": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.",
+   "cat": "standards",
+   "section": "HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D. > HAME.7 objectives"
+  },
+  {
+   "units": "u5088",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5089",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > course title"
+  },
+  {
+   "units": "u5090",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "African American Studies > credit value"
+  },
+  {
+   "units": "u5091",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > strands line"
+  },
+  {
+   "units": "u5092-u5093",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "African American Studies > table column header"
+  },
+  {
+   "units": "u5094",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.1 standard statement"
+  },
+  {
+   "units": "u5095",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.1 objectives"
+  },
+  {
+   "units": "u5096",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.2 standard statement"
+  },
+  {
+   "units": "u5097",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.2 objectives"
+  },
+  {
+   "units": "u5098",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.3 standard statement"
+  },
+  {
+   "units": "u5099",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.3 objectives"
+  },
+  {
+   "units": "u5100",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.4 standard statement"
+  },
+  {
+   "units": "u5101",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.4 objectives"
+  },
+  {
+   "units": "u5103",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5104",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.5 standard statement"
+  },
+  {
+   "units": "u5105",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.5 objectives"
+  },
+  {
+   "units": "u5106",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.6 standard statement"
+  },
+  {
+   "units": "u5107",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.6 objectives"
+  },
+  {
+   "units": "u5108",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.7 standard statement"
+  },
+  {
+   "units": "u5109",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.7 objectives"
+  },
+  {
+   "units": "u5111",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5112",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.8 standard statement"
+  },
+  {
+   "units": "u5113",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.8 objectives"
+  },
+  {
+   "units": "u5114",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.9 standard statement"
+  },
+  {
+   "units": "u5115-u5126",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "African American Studies > AAS.9 objectives"
+  },
+  {
+   "units": "u5128",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5129",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > course title"
+  },
+  {
+   "units": "u5130",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > credit value"
+  },
+  {
+   "units": "u5131",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > strands line"
+  },
+  {
+   "units": "u5132-u5133",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > table column header"
+  },
+  {
+   "units": "u5134",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.1 standard statement"
+  },
+  {
+   "units": "u5135",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.1 objectives"
+  },
+  {
+   "units": "u5136",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.2 standard statement"
+  },
+  {
+   "units": "u5137",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.2 objectives"
+  },
+  {
+   "units": "u5138",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.3 standard statement"
+  },
+  {
+   "units": "u5139",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.3 objectives"
+  },
+  {
+   "units": "u5140",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.4 standard statement"
+  },
+  {
+   "units": "u5141",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.4 objectives"
+  },
+  {
+   "units": "u5143",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5144",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.5 standard statement"
+  },
+  {
+   "units": "u5145",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.5 objectives"
+  },
+  {
+   "units": "u5146",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.6 standard statement"
+  },
+  {
+   "units": "u5147",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.6 objectives"
+  },
+  {
+   "units": "u5148",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.7 standard statement"
+  },
+  {
+   "units": "u5149",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.7 objectives"
+  },
+  {
+   "units": "u5150",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.8 standard statement"
+  },
+  {
+   "units": "u5151",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.8 objectives"
+  },
+  {
+   "units": "u5152",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.9 standard statement"
+  },
+  {
+   "units": "u5153",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.9 objectives"
+  },
+  {
+   "units": "u5155",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5156",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.10 standard statement"
+  },
+  {
+   "units": "u5157",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.10 objectives"
+  },
+  {
+   "units": "u5158",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.11 standard statement"
+  },
+  {
+   "units": "u5159",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.11 objectives"
+  },
+  {
+   "units": "u5160",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.12 standard statement"
+  },
+  {
+   "units": "u5161",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.12 objectives"
+  },
+  {
+   "units": "u5163",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5164",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.13 standard statement"
+  },
+  {
+   "units": "u5165",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.13 objectives"
+  },
+  {
+   "units": "u5166",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.14 standard statement"
+  },
+  {
+   "units": "u5167",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.14 objectives"
+  },
+  {
+   "units": "u5168",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.15 standard statement"
+  },
+  {
+   "units": "u5169",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.15 objectives"
+  },
+  {
+   "units": "u5171",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5172",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.16 standard statement"
+  },
+  {
+   "units": "u5173-u5179",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > PSY.16 objectives"
+  },
+  {
+   "units": "u5181",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5182",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > course title"
+  },
+  {
+   "units": "u5183",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "backup",
+   "section": "SOCIOLOGY > credit value"
+  },
+  {
+   "units": "u5184",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > strands line"
+  },
+  {
+   "units": "u5185-u5186",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "backup",
+   "section": "SOCIOLOGY > table column header"
+  },
+  {
+   "units": "u5187",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.1 standard statement"
+  },
+  {
+   "units": "u5188",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.1 objectives"
+  },
+  {
+   "units": "u5189",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.2 standard statement"
+  },
+  {
+   "units": "u5190",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.2 objectives"
+  },
+  {
+   "units": "u5192",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5193",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.3 standard statement"
+  },
+  {
+   "units": "u5194",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.3 objectives"
+  },
+  {
+   "units": "u5195",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.4 standard statement"
+  },
+  {
+   "units": "u5196",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.4 objectives"
+  },
+  {
+   "units": "u5197",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.5 standard statement"
+  },
+  {
+   "units": "u5198",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.5 objectives"
+  },
+  {
+   "units": "u5200",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5201",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.6 standard statement"
+  },
+  {
+   "units": "u5202",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.6 objectives"
+  },
+  {
+   "units": "u5203",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.7 standard statement"
+  },
+  {
+   "units": "u5204",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.7 objectives"
+  },
+  {
+   "units": "u5205",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.8 standard statement"
+  },
+  {
+   "units": "u5206",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.8 objectives"
+  },
+  {
+   "units": "u5207",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.9 standard statement"
+  },
+  {
+   "units": "u5208",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.9 objectives"
+  },
+  {
+   "units": "u5209",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.10 standard statement"
+  },
+  {
+   "units": "u5210",
+   "grades": "9-12",
+   "course": "SOCIOLOGY",
+   "cat": "standards",
+   "section": "SOCIOLOGY > SOC.10 objectives"
+  },
+  {
+   "units": "u5212",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5213",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > course title"
+  },
+  {
+   "units": "u5214",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "backup",
+   "section": "LAW RELATED EDUCATION > credit value"
+  },
+  {
+   "units": "u5215",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > strands line"
+  },
+  {
+   "units": "u5216-u5217",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "backup",
+   "section": "LAW RELATED EDUCATION > table column header"
+  },
+  {
+   "units": "u5218",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.1 standard statement"
+  },
+  {
+   "units": "u5219",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.1 objectives"
+  },
+  {
+   "units": "u5220",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.2 standard statement"
+  },
+  {
+   "units": "u5221",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.2 objectives"
+  },
+  {
+   "units": "u5222",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.3 standard statement"
+  },
+  {
+   "units": "u5223",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.3 objectives"
+  },
+  {
+   "units": "u5225",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5226",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.4 standard statement"
+  },
+  {
+   "units": "u5227",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.4 objectives"
+  },
+  {
+   "units": "u5228",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.5 standard statement"
+  },
+  {
+   "units": "u5229",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.5 objectives"
+  },
+  {
+   "units": "u5230",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.6 standard statement"
+  },
+  {
+   "units": "u5231",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.6 objectives"
+  },
+  {
+   "units": "u5233",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5234",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.7 standard statement"
+  },
+  {
+   "units": "u5235-u5240",
+   "grades": "9-12",
+   "course": "LAW RELATED EDUCATION",
+   "cat": "standards",
+   "section": "LAW RELATED EDUCATION > LRE.7 objectives"
+  },
+  {
+   "units": "u5242",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5243",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > course title"
+  },
+  {
+   "units": "u5244",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "Minority Studies > credit value"
+  },
+  {
+   "units": "u5245",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > strands line"
+  },
+  {
+   "units": "u5246-u5247",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "Minority Studies > table column header"
+  },
+  {
+   "units": "u5248",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.1 standard statement"
+  },
+  {
+   "units": "u5249",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.1 objectives"
+  },
+  {
+   "units": "u5250",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.2 standard statement"
+  },
+  {
+   "units": "u5251",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.2 objectives"
+  },
+  {
+   "units": "u5252",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.3 standard statement"
+  },
+  {
+   "units": "u5253",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.3 objectives"
+  },
+  {
+   "units": "u5255",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5256",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.4 standard statement"
+  },
+  {
+   "units": "u5257",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.4 objectives"
+  },
+  {
+   "units": "u5258",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.5 standard statement"
+  },
+  {
+   "units": "u5259",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.5 objectives"
+  },
+  {
+   "units": "u5260",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.6 standard statement"
+  },
+  {
+   "units": "u5261",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.6 objectives"
+  },
+  {
+   "units": "u5262",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.7 standard statement"
+  },
+  {
+   "units": "u5263",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.7 objectives"
+  },
+  {
+   "units": "u5265",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5266",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.8 standard statement"
+  },
+  {
+   "units": "u5267",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.8 objectives"
+  },
+  {
+   "units": "u5268",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.9 standard statement"
+  },
+  {
+   "units": "u5269",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "Minority Studies > MIN.9 objectives"
+  },
+  {
+   "units": "u5271",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5272",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > course title"
+  },
+  {
+   "units": "u5273",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "backup",
+   "section": "HUMANITIES > credit value"
+  },
+  {
+   "units": "u5274",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > strands line"
+  },
+  {
+   "units": "u5275-u5276",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "backup",
+   "section": "HUMANITIES > table column header"
+  },
+  {
+   "units": "u5277",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.1 standard statement"
+  },
+  {
+   "units": "u5278",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.1 objectives"
+  },
+  {
+   "units": "u5279",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.2 standard statement"
+  },
+  {
+   "units": "u5280",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.2 objectives"
+  },
+  {
+   "units": "u5281",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.3 standard statement"
+  },
+  {
+   "units": "u5282",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.3 objectives"
+  },
+  {
+   "units": "u5284",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header"
+  },
+  {
+   "units": "u5285",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.4 standard statement"
+  },
+  {
+   "units": "u5286",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.4 objectives"
+  },
+  {
+   "units": "u5287",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.5 standard statement"
+  },
+  {
+   "units": "u5288",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.5 objectives"
+  },
+  {
+   "units": "u5289",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.6 standard statement"
+  },
+  {
+   "units": "u5290",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.6 objectives"
+  },
+  {
+   "units": "u5291",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.7 standard statement"
+  },
+  {
+   "units": "u5292",
+   "grades": "9-12",
+   "course": "HUMANITIES",
+   "cat": "standards",
+   "section": "HUMANITIES > HUM.7 objectives"
+  },
+  {
+   "units": "u5294-u5296",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Support documents and resources"
+  }
+ ],
+ "issues": [
+  "u4942-u5296: the view contains the repeated running header 'MISSISSIPPI COLLEGE- and CAREER-READINESS STANDARDS for the Social Studies • 2018' as its own unit on every page (u4942, u4975, ...); labeled backup, grades 9-12, course null. They are not removed by the view despite the guide's note.",
+  "u4943-u4995 (Economics, pp. 450-452): the source is a redline/tracked-changes revision; struck and inserted text is merged in the extraction (e.g. 'E.6 E.8', 'E.7 E.9', '22. Identify Explain', 'Compare and contrast Describe'), objective numbers are non-sequential or repeat across the old and new versions, and the objective columns land in C2 or C3 inconsistently. Content kept as standards; old/new wording cannot be separated.",
+  "u4977 and u4979: all objectives of E.9 (old E.7) and E.10 (old E.8) are in one cell (C2) rather than split per line; units are not splittable.",
+  "u4936-u4940 are outside this range (previous part); u4942 begins at page 450.",
+  "u4998-u5296: all high-school elective courses (Advanced World Geography, Problems in American Democracy, History of the Ancient Middle East, African American Studies, Psychology, Sociology, Law Related Education, Minority Studies, Humanities) have no grade assigned in the document; labeled grades 9-12 with course titles as written (some in upper case: HISTORY OF THE ANCIENT MIDDLE EAST, 2000 B.C. TO 1000 A.D.; SOCIOLOGY; LAW RELATED EDUCATION; HUMANITIES). Casing of the course string may differ from other parts' conventions for mixed-case titles.",
+  "Objective numbering in several courses starts above 1 (e.g. PAD.1 starts at 9, SOC.1 at 9, HUM.4 at 9) because objectives were carried over from a larger source; the first objectives are absent in the document (u5039, u5188, u5286 etc.).",
+  "u5115-u5126 and u5173-u5179, u5235-u5240: objectives split line by line in C3 (no C2 cell); u5115 is the first objective of AAS.9 (C3), grouped with the standard in row 2.",
+  "Count of Carnegie credit: Economics, Psychology, Sociology, Law Related Education, Minority Studies, Humanities are 1/2 credit; others 1 credit (u4999 etc., labeled backup).",
+  "u5294-u5296: 'Support Documents and Resources' closing page; labeled backup grades 9-12 (document-wide closing matter, could be 'all'). u5297 does not exist in the view (last unit is u5296).",
+  "u5000, u5035 etc.: 'STRANDS: CIVICS, ECONOMICS, ...' line labeled standards (strand heading); column headers 'STANDARD'/'OBJECTIVE(S)' and credit lines labeled backup.",
+  "Problems in American Democracy PAD.1 (u5038) has an extra opening parenthesis '((Strands:' in the source."
+ ]
+}

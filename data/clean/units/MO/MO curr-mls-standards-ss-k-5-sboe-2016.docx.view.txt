@@ -1,0 +1,584 @@
+u1 The Department of Elementary and Secondary Education does not discriminate on the basis of race, color, religion, gender, gender identity, sexual orientation, national origin, age, veteran status, mental or physical disability, or any other basis prohibited by statute in its programs and activities. Inquiries related to department programs and to the location of services, activities, and facilities that are accessible by persons with disabilities may be directed to the Jefferson State Office Building, Director of Civil Rights Compliance and MOA Coordinator (Title VI/Title VII/Title IX/504/ADA/ADAAA/Age Act/GINA/USDA Title VI), 5th Floor, 205 Jefferson Street, P.O. Box 480, Jefferson City, MO 65102-0480; telephone number 573-526-4757 or TTY 800-735-2966; email civilrights@dese.mo.gov
+u2 [T1 R1 C1] 1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States
+u3 [T1 R2 C1] CONCEPTS
+u4 [T1 R2 C3] GRADE K
+u5 [T1 R2 C6] GRADE 1
+u6 [T1 R2 C9] GRADE 2
+u7 [T1 R2 C12] GRADE 3
+u8 [T1 R2 C14] GRADE 4
+u9 [T1 R2 C18] GRADE 5
+u10 [T1 R3 C1] A.
+u11 [T1 R3 C14] With assistance, read and analyze the text of the Declaration of Independence to determine important principles that it contains including inalienable rights, government by the consent of the governed and the redress of grievances.
+u12 [T1 R3 C18] Apply the principles of the Declaration of Independence to the historical time periods being studied and to current events.
+u13 [T1 R4 C1] Purposes and principles of the Declaration of Independence
+u14 [T1 R4 C14] With assistance, read and analyze the text of the Declaration of Independence to determine important principles that it contains including inalienable rights, government by the consent of the governed and the redress of grievances.
+u15 [T1 R4 C18] Apply the principles of the Declaration of Independence to the historical time periods being studied and to current events.
+u16 [T1 R7 C1] B.
+u17 [T1 R7 C3] Identify reasons for making rules within the school.
+u18 [T1 R7 C6] Identify and explain why cities make laws.
+u19 [T1 R7 C9] Explain and give examples of how laws and rules are made and changed within a community.
+u20 [T1 R7 C12] Explain and give examples of how laws are made and changed within the state. Explain the major purposes of the Missouri Constitution.
+u21 [T1 R7 C14] Explain the major purposes of the U.S. Constitution. With assistance, research and analyze the text of the U.S. Constitution to determine important principles such as limited government, rule of law, majority rules, minority rights, separation of powers, checks and balances and popular sovereignty.
+u22 [T1 R7 C18] Apply the principles of the U.S. Constitution to the historical time periods being studied and to current events.
+u23 [T1 R8 C1] Purposes and principles of the Constitution
+u24 [T1 R8 C3] Identify reasons for making rules within the school.
+u25 [T1 R8 C6] Identify and explain why cities make laws.
+u26 [T1 R8 C9] Explain and give examples of how laws and rules are made and changed within a community.
+u27 [T1 R8 C12] Explain and give examples of how laws are made and changed within the state. Explain the major purposes of the Missouri Constitution.
+u28 [T1 R8 C14] Explain the major purposes of the U.S. Constitution. With assistance, research and analyze the text of the U.S. Constitution to determine important principles such as limited government, rule of law, majority rules, minority rights, separation of powers, checks and balances and popular sovereignty.
+u29 [T1 R8 C18] Apply the principles of the U.S. Constitution to the historical time periods being studied and to current events.
+u30 [T1 R11 C1] C.
+u31 [T1 R11 C3] Discuss the concept of individual rights.
+u32 [T1 R11 C6] Discuss how individual rights are protected.
+u33 [T1 R11 C9] Examine how individual rights are protected within a community.
+u34 [T1 R11 C12] Examine how individual rights are protected within our state.
+u35 [T1 R11 C14] Explain the major purpose of the Bill of Rights. Identify important principles in the Bill of Rights.
+u36 [T1 R11 C18] Apply the principles of the Bill of Rights to historical time periods being studied and to current events.
+u37 [T1 R12 C1] Purposes and principles of the Bill of Rights
+u38 [T1 R12 C3] Discuss the concept of individual rights.
+u39 [T1 R12 C6] Discuss how individual rights are protected.
+u40 [T1 R12 C9] Examine how individual rights are protected within a community.
+u41 [T1 R12 C12] Examine how individual rights are protected within our state.
+u42 [T1 R12 C14] Explain the major purpose of the Bill of Rights. Identify important principles in the Bill of Rights.
+u43 [T1 R12 C18] Apply the principles of the Bill of Rights to historical time periods being studied and to current events.
+u44 [T1 R15 C1] 1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t)
+u45 [T1 R16 C1] CONCEPTS
+u46 [T1 R16 C4] GRADE K
+u47 [T1 R16 C7] GRADE 1
+u48 [T1 R16 C10] GRADE 2
+u49 [T1 R16 C13] GRADE 3
+u50 [T1 R16 C15] GRADE 4
+u51 [T1 R16 C17] GRADE 5
+u52 [T1 R17 C1] D.
+u53 [T1 R17 C7] Give examples of being an active and informed citizen in your classroom or community.
+u54 [T1 R17 C10] Analyze how being an active and informed citizen makes a difference in your community. List the consequences of citizens not actively participating in their communities.
+u55 [T1 R17 C13] Explain how the State of Missouri relies on responsible citizen participation and draw implications for how people should participate.
+u56 [T1 R17 C15] Examine ways by which citizens have effectively voiced opinions, monitored government, and brought about change both past and present.
+u57 [T1 R17 C17] Analyze ways by which citizens have effectively voiced opinions, monitored government, and brought about change both past and present.
+u58 [T1 R18 C1] Role of citizens and governments in carrying out constitutional principles
+u59 [T1 R18 C7] Give examples of being an active and informed citizen in your classroom or community.
+u60 [T1 R18 C10] Analyze how being an active and informed citizen makes a difference in your community. List the consequences of citizens not actively participating in their communities.
+u61 [T1 R18 C13] Explain how the State of Missouri relies on responsible citizen participation and draw implications for how people should participate.
+u62 [T1 R18 C15] Examine ways by which citizens have effectively voiced opinions, monitored government, and brought about change both past and present.
+u63 [T1 R18 C17] Analyze ways by which citizens have effectively voiced opinions, monitored government, and brought about change both past and present.
+u64 [T1 R21 C1] E.
+u65 [T1 R21 C4] Describe the character traits of role models within your family or school.
+u66 [T1 R21 C7] Describe the character traits of role models within your community.
+u67 [T1 R21 C10] Describe the character traits and civic attitudes of inventors or pioneers in their field who influenced progress in the nation. See teacher resources for illustrative examples.
+u68 [T1 R21 C13] Describe the character traits and civic attitudes of influential Missourians. See teacher resources for illustrative examples.
+u69 [T1 R21 C15] Describe the character traits and civic attitudes of historically significant individuals in American history prior to c. 1800. See teacher resources for illustrative examples.
+u70 [T1 R21 C17] Describe the character traits and civic attitudes of historically significant individuals in the United States history from c. 1800 – 2000. See teacher resources for illustrative examples.
+u71 [T1 R22 C1] Character traits and civic attitudes of significant individuals
+u72 [T1 R22 C4] Describe the character traits of role models within your family or school.
+u73 [T1 R22 C7] Describe the character traits of role models within your community.
+u74 [T1 R22 C10] Describe the character traits and civic attitudes of inventors or pioneers in their field who influenced progress in the nation. See teacher resources for illustrative examples.
+u75 [T1 R22 C13] Describe the character traits and civic attitudes of influential Missourians. See teacher resources for illustrative examples.
+u76 [T1 R22 C15] Describe the character traits and civic attitudes of historically significant individuals in American history prior to c. 1800. See teacher resources for illustrative examples.
+u77 [T1 R22 C17] Describe the character traits and civic attitudes of historically significant individuals in the United States history from c. 1800 – 2000. See teacher resources for illustrative examples.
+u78 [T1 R25 C1] F.
+u79 [T1 R25 C4] Identify the flag as a symbol of our nation. Recite the Pledge of Allegiance.
+u80 [T1 R25 C7] Recognize and explain the significance of the Statue of Liberty, U.S. Capitol, Bald Eagle and the Liberty Bell. Recognize and explain the significance of symbols of your local community.
+u81 [T1 R25 C10] Describe the importance of the Pledge of Allegiance. Recognize and explain the significance of national symbols including national landmarks, national parks, and important memorials. See teacher resources for illustrative examples)
+u82 [T1 R25 C13] Explain how the National Anthem symbolizes our nation. Recognize and explain the significance of the Gateway Arch and the Great Seal of Missouri and other symbols of our state.
+u83 [T1 R25 C15] Recognize and explain the significance of national symbols associated with historical events and time periods being studied.
+u84 [T1 R25 C17] Recognize and explain the significance of national symbols associated with historical events and time periods being studied.
+u85 [T1 R26 C1] Knowledge of the symbols of our state and nation
+u86 [T1 R26 C4] Identify the flag as a symbol of our nation. Recite the Pledge of Allegiance.
+u87 [T1 R26 C7] Recognize and explain the significance of the Statue of Liberty, U.S. Capitol, Bald Eagle and the Liberty Bell. Recognize and explain the significance of symbols of your local community.
+u88 [T1 R26 C10] Describe the importance of the Pledge of Allegiance. Recognize and explain the significance of national symbols including national landmarks, national parks, and important memorials. See teacher resources for illustrative examples)
+u89 [T1 R26 C13] Explain how the National Anthem symbolizes our nation. Recognize and explain the significance of the Gateway Arch and the Great Seal of Missouri and other symbols of our state.
+u90 [T1 R26 C15] Recognize and explain the significance of national symbols associated with historical events and time periods being studied.
+u91 [T1 R26 C17] Recognize and explain the significance of national symbols associated with historical events and time periods being studied.
+u92 [T1 R29 C1] 2. Knowledge of principles and processes of governance systems
+u93 [T1 R30 C1] CONCEPTS
+u94 [T1 R30 C2] GRADE K
+u95 [T1 R30 C5] GRADE 1
+u96 [T1 R30 C8] GRADE 2
+u97 [T1 R30 C11] GRADE 3
+u98 [T1 R30 C14] GRADE 4
+u99 [T1 R30 C16] GRADE 5
+u100 [T1 R31 C1] A.
+u101 [T1 R31 C11] Explain how governments balance individual rights with common good to solve local community or state issues.
+u102 [T1 R31 C14] Explain how the purpose and roles of government were debated c. early settlements to 1800.
+u103 [T1 R31 C16] Explain how the purpose and roles of government have been debated across historical time periods to current times.
+u104 [T1 R32 C1] Purposes and roles of government
+u105 [T1 R32 C11] Explain how governments balance individual rights with common good to solve local community or state issues.
+u106 [T1 R32 C14] Explain how the purpose and roles of government were debated c. early settlements to 1800.
+u107 [T1 R32 C16] Explain how the purpose and roles of government have been debated across historical time periods to current times.
+u108 [T1 R35 C1] B.
+u109 [T1 R35 C11] Analyze peaceful resolution of disputes by the courts, or other legitimate authorities in Missouri.
+u110 [T1 R35 C14] Analyze peaceful resolution of disputes by courts or other legitimate authorities in U.S. history from early settlement to c. 1800.
+u111 [T1 R35 C16] Analyze peaceful resolution of disputes by courts or other legitimate authorities in U.S. history from c. 1800 –2000.
+u112 [T1 R36 C1] Dispute resolution
+u113 [T1 R36 C11] Analyze peaceful resolution of disputes by the courts, or other legitimate authorities in Missouri.
+u114 [T1 R36 C14] Analyze peaceful resolution of disputes by courts or other legitimate authorities in U.S. history from early settlement to c. 1800.
+u115 [T1 R36 C16] Analyze peaceful resolution of disputes by courts or other legitimate authorities in U.S. history from c. 1800 –2000.
+u116 [T1 R39 C1] C.
+u117 [T1 R39 C2] Describe why groups need to make decisions and how those decisions are made in families and classrooms.
+u118 [T1 R39 C5] Describe how authoritative decisions are made, enforced and interpreted within schools and local communities.
+u119 [T1 R39 C8] Distinguish the responsibilities and powers of government officials at various levels and branches of government in authoritative decision making.
+u120 [T1 R39 C11] Describe how authoritative decisions are made, enforced and interpreted by the state government across historical time periods and/or in current events.
+u121 [T1 R39 C14] Explain how authoritative decisions are made, enforced and interpreted by the federal government across historical time periods and/or current events.
+u122 [T1 R39 C16] Analyze how authoritative decisions are made, enforced and interpreted by the federal government across historical time periods and current events.
+u123 [T1 R40 C1] Processes of governmental systems in decision making
+u124 [T1 R40 C2] Describe why groups need to make decisions and how those decisions are made in families and classrooms.
+u125 [T1 R40 C5] Describe how authoritative decisions are made, enforced and interpreted within schools and local communities.
+u126 [T1 R40 C8] Distinguish the responsibilities and powers of government officials at various levels and branches of government in authoritative decision making.
+u127 [T1 R40 C11] Describe how authoritative decisions are made, enforced and interpreted by the state government across historical time periods and/or in current events.
+u128 [T1 R40 C14] Explain how authoritative decisions are made, enforced and interpreted by the federal government across historical time periods and/or current events.
+u129 [T1 R40 C16] Analyze how authoritative decisions are made, enforced and interpreted by the federal government across historical time periods and current events.
+u130 [T1 R43 C1] D.
+u131 [T1 R43 C2] Describe roles and responsibilities of people in authority in families and in groups.
+u132 [T1 R43 C5] Describe roles and responsibilities of people in government, such as a judge, mayor, police, city council member, in a community.
+u133 [T1 R43 C8] Identify and explain the concept of branches and functions of government.
+u134 [T1 R43 C11] Identify and explain the functions of the three branches of government in Missouri.
+u135 [T1 R43 C14] Identify and explain the functions of the three branches of government in the federal government.
+u136 [T1 R43 C16] Distinguish between powers and functions of local, state and national government in the past and present.
+u137 [T1 R44 C1] Functions of governmental systems
+u138 [T1 R44 C2] Describe roles and responsibilities of people in authority in families and in groups.
+u139 [T1 R44 C5] Describe roles and responsibilities of people in government, such as a judge, mayor, police, city council member, in a community.
+u140 [T1 R44 C8] Identify and explain the concept of branches and functions of government.
+u141 [T1 R44 C11] Identify and explain the functions of the three branches of government in Missouri.
+u142 [T1 R44 C14] Identify and explain the functions of the three branches of government in the federal government.
+u143 [T1 R44 C16] Distinguish between powers and functions of local, state and national government in the past and present.
+u144 [T2 R1 C1] 3a. Knowledge of continuity and change in the history of Missouri and the United States
+u145 [T2 R2 C1] CONCEPTS
+u146 [T2 R2 C2] GRADE K
+u147 [T2 R2 C3] GRADE 1
+u148 [T2 R2 C4] GRADE 2
+u149 [T2 R2 C5] GRADE 3
+u150 [T2 R2 C6] GRADE 4
+u151 [T2 R2 C7] GRADE 5
+u152 [T2 R3 C1] A.
+u153 [T2 R3 C4] Compare the culture and people in our community across multiple time periods.
+u154 [T2 R3 C5] Describe the migration of native Americans to Missouri prior to European settlement in the state. Describe the discovery, exploration and early settlement of Missouri by European immigrants. Describe the reasons African peoples were enslaved and brought to Missouri.
+u155 [T2 R3 C6] Describe the migrations of native Americans prior to 1800. Describe the discovery, exploration and early settlement of America by Europeans prior to 1800. Describe the reasons African peoples were enslaved and brought to the Americas prior to 1800.
+u156 [T2 R3 C7] Outline the territorial expansion of the United States. Describe the impact of migration on immigrants and the United States c. 1800-2000.
+u157 [T2 R4 C1] Understand the movement of people from many regions of the world to North America
+u158 [T2 R4 C4] Compare the culture and people in our community across multiple time periods.
+u159 [T2 R4 C5] Describe the migration of native Americans to Missouri prior to European settlement in the state. Describe the discovery, exploration and early settlement of Missouri by European immigrants. Describe the reasons African peoples were enslaved and brought to Missouri.
+u160 [T2 R4 C6] Describe the migrations of native Americans prior to 1800. Describe the discovery, exploration and early settlement of America by Europeans prior to 1800. Describe the reasons African peoples were enslaved and brought to the Americas prior to 1800.
+u161 [T2 R4 C7] Outline the territorial expansion of the United States. Describe the impact of migration on immigrants and the United States c. 1800-2000.
+u162 [T2 R7 C1] B.
+u163 [T2 R7 C2] Create a personal history. Compare your family’s life in the past and present.
+u164 [T2 R7 C3] Compare and contrast our community in the past and the present.
+u165 [T2 R7 C4] Compare and contrast the changing habitats, resources, art and daily lives of native American people in regions of the U.S.
+u166 [T2 R7 C5] Examine cultural interactions and conflicts among Native Americans, European immigrants and enslaved and free African-Americans in Missouri. Examine changing cultural interactions and conflicts among Missourians after the Civil War.
+u167 [T2 R7 C6] Examine cultural interactions and conflicts among Native Americans, Immigrants from Europe, and enslaved and free Africans and African Americans prior to c. 1800.
+u168 [T2 R7 C7] Examine cultural interactions and conflicts among Native Americans, European Americans and African Americans from c. 1800 – 2000.
+u169 [T2 R8 C1] Historical perspective / Thinking / Passage of time
+u170 [T2 R8 C2] Create a personal history. Compare your family’s life in the past and present.
+u171 [T2 R8 C3] Compare and contrast our community in the past and the present.
+u172 [T2 R8 C4] Compare and contrast the changing habitats, resources, art and daily lives of native American people in regions of the U.S.
+u173 [T2 R8 C5] Examine cultural interactions and conflicts among Native Americans, European immigrants and enslaved and free African-Americans in Missouri. Examine changing cultural interactions and conflicts among Missourians after the Civil War.
+u174 [T2 R8 C6] Examine cultural interactions and conflicts among Native Americans, Immigrants from Europe, and enslaved and free Africans and African Americans prior to c. 1800.
+u175 [T2 R8 C7] Examine cultural interactions and conflicts among Native Americans, European Americans and African Americans from c. 1800 – 2000.
+u176 [T3 R1 C1] 3a. Knowledge of continuity and change in the history of Missouri and the United States
+u177 [T3 R2 C1] CONCEPTS
+u178 [T3 R2 C2] GRADE K
+u179 [T3 R2 C3] GRADE 1
+u180 [T3 R2 C4] GRADE 2
+u181 [T3 R2 C5] GRADE 3
+u182 [T3 R2 C6] GRADE 4
+u183 [T3 R2 C7] GRADE 5
+u184 [T3 R3 C1] C.
+u185 [T3 R3 C2] Describe the contributions of people typically studied in K-5 programs associated with national holidays. (See teacher resources for illustrative examples)
+u186 [T3 R3 C3] Describe the contributions of people typically studied in K-5 programs associated with national holidays. (See teacher resources for illustrative examples)
+u187 [T3 R3 C4] Describe the contributions of inventors or pioneers in their field who influenced progress in our nation. (See teacher resources for illustrative examples)
+u188 [T3 R3 C5] Identify and describe the historical significance of the individuals from Missouri who have made contributions to our state and nation. (See teacher resources for illustrative examples)
+u189 [T3 R3 C6] Identify and describe the contributions of historically significant individuals to America and the United States prior to c. 1800. (See teacher resources for illustrative examples)
+u190 [T3 R3 C7] Identify and describe the contributions of historically significant individuals to the United States from c. 1800 – 2000. (See teacher resources for illustrative examples)
+u191 [T3 R4 C1] Knowledge of the contributions of significant persons in U.S. history.
+u192 [T3 R4 C2] Describe the contributions of people typically studied in K-5 programs associated with national holidays. (See teacher resources for illustrative examples)
+u193 [T3 R4 C3] Describe the contributions of people typically studied in K-5 programs associated with national holidays. (See teacher resources for illustrative examples)
+u194 [T3 R4 C4] Describe the contributions of inventors or pioneers in their field who influenced progress in our nation. (See teacher resources for illustrative examples)
+u195 [T3 R4 C5] Identify and describe the historical significance of the individuals from Missouri who have made contributions to our state and nation. (See teacher resources for illustrative examples)
+u196 [T3 R4 C6] Identify and describe the contributions of historically significant individuals to America and the United States prior to c. 1800. (See teacher resources for illustrative examples)
+u197 [T3 R4 C7] Identify and describe the contributions of historically significant individuals to the United States from c. 1800 – 2000. (See teacher resources for illustrative examples)
+u198 [T3 R7 C1] D.
+u199 [T3 R7 C6] Explain the causes of the American Revolution, including the perspectives of patriots, loyalists, Native Americans, African Americans and European allies. Explain the factors that contributed to the colonists’ success.
+u200 [T3 R8 C1] Perspectives on the American Revolution
+u201 [T3 R8 C6] Explain the causes of the American Revolution, including the perspectives of patriots, loyalists, Native Americans, African Americans and European allies. Explain the factors that contributed to the colonists’ success.
+u202 [T4 R1 C1] 3a. Knowledge of continuity and change in the history of Missouri and the United States
+u203 [T4 R2 C1] CONCEPTS
+u204 [T4 R2 C2] GRADE K
+u205 [T4 R2 C3] GRADE 1
+u206 [T4 R2 C4] GRADE 2
+u207 [T4 R2 C5] GRADE 3
+u208 [T4 R2 C6] GRADE 4
+u209 [T4 R2 C7] GRADE 5
+u210 [T4 R3 C1] E.
+u211 [T4 R3 C5] Discuss the causes and consequences of the Dred Scott decision on Missouri and the nation.
+u212 [T4 R3 C6] Describe the historical context for the drafting of the Declaration of Independence, the Constitution and the Bill of Rights. Explain how the Declaration of Independence, the Constitution and the Bill of Rights affected people in the United States prior to c. 1800.
+u213 [T4 R3 C7] Explain the causes and consequences of major political developments and reform in U.S. history from c. 1800-2000
+u214 [T4 R4 C1] Political developments and reform movements in the U.S.
+u215 [T4 R4 C5] Discuss the causes and consequences of the Dred Scott decision on Missouri and the nation.
+u216 [T4 R4 C6] Describe the historical context for the drafting of the Declaration of Independence, the Constitution and the Bill of Rights. Explain how the Declaration of Independence, the Constitution and the Bill of Rights affected people in the United States prior to c. 1800.
+u217 [T4 R4 C7] Explain the causes and consequences of major political developments and reform in U.S. history from c. 1800-2000
+u218 [T4 R7 C1] F
+u219 [T4 R7 C5] Describe the importance of the Louisiana Purchase and the expedition of Lewis and Clark. Evaluate the impact of westward expansion on the Native Americans in Missouri. Discuss issues of Missouri statehood. (See teacher resources for illustrative examples)
+u220 [T4 R7 C6] Investigate the causes and consequences of westward expansion prior to 1800.
+u221 [T4 R7 C7] Investigate the causes and consequences of westward expansion c. 1800-2000.
+u222 [T4 R8 C1] Westward Expansion and settlement in the US
+u223 [T4 R8 C5] Describe the importance of the Louisiana Purchase and the expedition of Lewis and Clark. Evaluate the impact of westward expansion on the Native Americans in Missouri. Discuss issues of Missouri statehood. (See teacher resources for illustrative examples)
+u224 [T4 R8 C6] Investigate the causes and consequences of westward expansion prior to 1800.
+u225 [T4 R8 C7] Investigate the causes and consequences of westward expansion c. 1800-2000.
+u226 [T5 R1 C1] 3a. Knowledge of continuity and change in the history of Missouri and the United States
+u227 [T5 R2 C1] CONCEPTS
+u228 [T5 R2 C3] GRADE K
+u229 [T5 R2 C5] GRADE 1
+u230 [T5 R2 C7] GRADE 2
+u231 [T5 R2 C9] GRADE 3
+u232 [T5 R2 C11] GRADE 4
+u233 [T5 R2 C12] GRADE 5
+u234 [T5 R3 C1] G.
+u235 [T5 R3 C9] Explain Missouri’s role in the Civil War, including the concept of a border state. Describe the consequences of the Civil War in Missouri including on education, transportation, and communication.
+u236 [T5 R3 C12] Identify political, economic and social causes and consequences of the Civil War and Reconstruction.
+u237 [T5 R4 C1] Understanding the causes and consequences of the Civil War
+u238 [T5 R4 C9] Explain Missouri’s role in the Civil War, including the concept of a border state. Describe the consequences of the Civil War in Missouri including on education, transportation, and communication.
+u239 [T5 R4 C12] Identify political, economic and social causes and consequences of the Civil War and Reconstruction.
+u240 [T5 R7 C1] H.
+u241 [T5 R7 C12] Identify political, economic, and social causes and consequences of the Great Depression.
+u242 [T5 R8 C1] Major economic developments in the United States
+u243 [T5 R8 C12] Identify political, economic, and social causes and consequences of the Great Depression.
+u244 [T5 R11 C1] I.
+u245 [T5 R11 C12] Identify political, economic, and social causes and consequences of World War I and WWII on the United States. Identify the political, economic and social consequences of the Cold War on the United States.
+u246 [T5 R12 C1] Causes, comparisons, and results of major twentieth-century wars
+u247 [T5 R12 C12] Identify political, economic, and social causes and consequences of World War I and WWII on the United States. Identify the political, economic and social consequences of the Cold War on the United States.
+u248 [T5 R15 C1] 4. Knowledge of economic concepts and principles
+u249 [T5 R16 C1] CONCEPTS
+u250 [T5 R16 C2] GRADE K
+u251 [T5 R16 C4] GRADE 1
+u252 [T5 R16 C6] GRADE 2
+u253 [T5 R16 C8] GRADE 3
+u254 [T5 R16 C10] GRADE 4
+u255 [T5 R16 C12] GRADE 5
+u256 [T5 R17 C1] A.
+u257 [T5 R17 C2] Describe examples of scarcity within your family and school. Describe examples of opportunity cost within your family and school. Describe examples of needs and wants within your family and school.
+u258 [T5 R17 C4] Describe examples of scarcity within your school and community. Describe examples of goods and services within your school and community. Describe consumers and producers and the relationship to goods and services within your school and community.
+u259 [T5 R17 C6] Describe consumption and production and the relationship to goods and services within your region. Demonstrate how people use money to buy and sell goods and services. Demonstrate how people barter to exchange goods and services. Explain the relationship of income, labor, and wages.
+u260 [T5 R17 C8] Compare and contrast private and public goods and services. Define natural, capital and human resources. Define economy. Explain supply and demand.
+u261 [T5 R17 C10] Compare and contrast saving and financial investment. Explain the relationship between profit and loss in economic decisions. Distinguish among natural, capital and human resources.
+u262 [T5 R17 C12] Explain how scarcity, supply and demand, opportunity costs, income, labor, wages and other economic concepts affect our nation’s past, present and future.
+u263 [T5 R18 C1] Knowledge of basic economic concepts
+u264 [T5 R18 C2] Describe examples of scarcity within your family and school. Describe examples of opportunity cost within your family and school. Describe examples of needs and wants within your family and school.
+u265 [T5 R18 C4] Describe examples of scarcity within your school and community. Describe examples of goods and services within your school and community. Describe consumers and producers and the relationship to goods and services within your school and community.
+u266 [T5 R18 C6] Describe consumption and production and the relationship to goods and services within your region. Demonstrate how people use money to buy and sell goods and services. Demonstrate how people barter to exchange goods and services. Explain the relationship of income, labor, and wages.
+u267 [T5 R18 C8] Compare and contrast private and public goods and services. Define natural, capital and human resources. Define economy. Explain supply and demand.
+u268 [T5 R18 C10] Compare and contrast saving and financial investment. Explain the relationship between profit and loss in economic decisions. Distinguish among natural, capital and human resources.
+u269 [T5 R18 C12] Explain how scarcity, supply and demand, opportunity costs, income, labor, wages and other economic concepts affect our nation’s past, present and future.
+u270 [T5 R21 C1] B.
+u271 [T5 R21 C6] Describe a personal cost-benefit situation.
+u272 [T5 R21 C8] Conduct a personal cost-benefit analysis.
+u273 [T5 R21 C10] Conduct a public cost- benefit analysis.
+u274 [T5 R22 C1] Understanding the consequences of economic decisions
+u275 [T5 R22 C6] Describe a personal cost-benefit situation.
+u276 [T5 R22 C8] Conduct a personal cost-benefit analysis.
+u277 [T5 R22 C10] Conduct a public cost- benefit analysis.
+u278 [T5 R25 C1] C.
+u279 [T5 R25 C8] Define taxes and explain how taxes are generated and used.
+u280 [T5 R25 C10] Explain how the government utilizes taxes to provide goods and services.
+u281 [T5 R26 C1] Understanding various types of taxes and their purposes
+u282 [T5 R26 C8] Define taxes and explain how taxes are generated and used.
+u283 [T5 R26 C10] Explain how the government utilizes taxes to provide goods and services.
+u284 [T6 R1 C1] D.
+u285 [T6 R1 C5] Explain factors, past and present, that influence changes in our state’s economy.
+u286 [T6 R1 C6] Explain factors, past and present, that influence changes in state and regional economies.
+u287 [T6 R1 C7] Explain factors, past and present, that influence changes in our nation’s economy. Use an economic lens to describe the impact of migration on the immigrants and the United States c. 1800-2000.
+u288 [T6 R2 C1] Factors that influence the economy
+u289 [T6 R2 C5] Explain factors, past and present, that influence changes in our state’s economy.
+u290 [T6 R2 C6] Explain factors, past and present, that influence changes in state and regional economies.
+u291 [T6 R2 C7] Explain factors, past and present, that influence changes in our nation’s economy. Use an economic lens to describe the impact of migration on the immigrants and the United States c. 1800-2000.
+u292 [T7 R1 C1] 5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment
+u293 [T7 R2 C1] CONCEPTS
+u294 [T7 R2 C2] GRADE K
+u295 [T7 R2 C3] GRADE 1
+u296 [T7 R2 C4] GRADE 2
+u297 [T7 R2 C5] GRADE 3
+u298 [T7 R2 C6] GRADE 4
+u299 [T7 R2 C7] GRADE 5
+u300 [T7 R3 C1] A.
+u301 [T7 R3 C2] Identify maps as representations of real places. With assistance, read, construct, and use maps of familiar places such as the classroom, the home, the bedroom etc. Match legend symbols to map features.
+u302 [T7 R3 C3] Identify globes as representations of real places. With assistance, read, construct, and use maps which have a title and key. Describe how maps are created for different purposes such as a school fire drill, a trip to the zoo etc. Use a compass rose to identify cardinal directions on a map.
+u303 [T7 R3 C4] Read and construct maps with title and key. Identify the properties and use of different types of maps for a variety of purposes.
+u304 [T7 R3 C5] Read and construct historical and current maps.
+u305 [T7 R3 C6] Construct and interpret historical and current maps
+u306 [T7 R3 C7] Use geographic sources to acquire information, answer questions and solve problems. Construct maps for relevant social studies topics.
+u307 [T7 R4 C1] Reading and constructing maps
+u308 [T7 R4 C2] Identify maps as representations of real places. With assistance, read, construct, and use maps of familiar places such as the classroom, the home, the bedroom etc. Match legend symbols to map features.
+u309 [T7 R4 C3] Identify globes as representations of real places. With assistance, read, construct, and use maps which have a title and key. Describe how maps are created for different purposes such as a school fire drill, a trip to the zoo etc. Use a compass rose to identify cardinal directions on a map.
+u310 [T7 R4 C4] Read and construct maps with title and key. Identify the properties and use of different types of maps for a variety of purposes.
+u311 [T7 R4 C5] Read and construct historical and current maps.
+u312 [T7 R4 C6] Construct and interpret historical and current maps
+u313 [T7 R4 C7] Use geographic sources to acquire information, answer questions and solve problems. Construct maps for relevant social studies topics.
+u314 [T7 R7 C1] B.
+u315 [T7 R7 C2] Apply positional words to locations within the classroom
+u316 [T7 R7 C3] Locate a place by pointing it out on a map and by describing its relative location.
+u317 [T7 R7 C4] Name and locate the regions in your community. Name and locate regions of the world.
+u318 [T7 R7 C5] Name and locate major cities, rivers, regions, and states which border Missouri. Describe and use absolute location using a grid system.
+u319 [T7 R7 C6] Name and locate specific regions, states, capitals, river systems and mountain ranges in the United States based on historical or current topics.
+u320 [T7 R7 C7] Name and locate specific regions, states, capitals, river systems and mountain ranges in the United States based on historical or current topics. Locate and describe real places, using absolute and relative location.
+u321 [T7 R8 C1] Understanding the concept of location to make predictions and solve problems.
+u322 [T7 R8 C2] Apply positional words to locations within the classroom
+u323 [T7 R8 C3] Locate a place by pointing it out on a map and by describing its relative location.
+u324 [T7 R8 C4] Name and locate the regions in your community. Name and locate regions of the world.
+u325 [T7 R8 C5] Name and locate major cities, rivers, regions, and states which border Missouri. Describe and use absolute location using a grid system.
+u326 [T7 R8 C6] Name and locate specific regions, states, capitals, river systems and mountain ranges in the United States based on historical or current topics.
+u327 [T7 R8 C7] Name and locate specific regions, states, capitals, river systems and mountain ranges in the United States based on historical or current topics. Locate and describe real places, using absolute and relative location.
+u328 [T8 R1 C1] 5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment
+u329 [T8 R2 C1] CONCEPTS
+u330 [T8 R2 C2] GRADE K
+u331 [T8 R2 C3] GRADE 1
+u332 [T8 R2 C4] GRADE 2
+u333 [T8 R2 C5] GRADE 3
+u334 [T8 R2 C6] GRADE 4
+u335 [T8 R2 C7] GRADE 5
+u336 [T8 R3 C1] C.
+u337 [T8 R3 C3] Identify physical characteristics of your community. (See teacher resources for illustrative examples) Describe human characteristics of your community. (See teacher resources for illustrative examples)
+u338 [T8 R3 C4] Identify and describe physical characteristics of the world. (See teacher resources for illustrative examples) Identify and describe physical characteristics of the student’s region in Missouri. (See teacher resources for illustrative examples) Describe human characteristics of the student’s region in Missouri. (See teacher resources for illustrative examples)
+u339 [T8 R3 C5] Identify and compare physical geographic characteristics of Missouri. (See teacher resources for illustrative examples) Describe human geographic characteristics of Missouri. (See teacher resources for illustrative examples)
+u340 [T8 R3 C6] Identify and compare physical characteristics of specific regions within the nation. Identify and compare diverse human geographic characteristics of the nation.
+u341 [T8 R3 C7] Describe and analyze physical characteristics of the nation. Describe and analyze diverse human characteristics of the nation.
+u342 [T8 R4 C1] Understanding the concept of place
+u343 [T8 R4 C3] Identify physical characteristics of your community. (See teacher resources for illustrative examples) Describe human characteristics of your community. (See teacher resources for illustrative examples)
+u344 [T8 R4 C4] Identify and describe physical characteristics of the world. (See teacher resources for illustrative examples) Identify and describe physical characteristics of the student’s region in Missouri. (See teacher resources for illustrative examples) Describe human characteristics of the student’s region in Missouri. (See teacher resources for illustrative examples)
+u345 [T8 R4 C5] Identify and compare physical geographic characteristics of Missouri. (See teacher resources for illustrative examples) Describe human geographic characteristics of Missouri. (See teacher resources for illustrative examples)
+u346 [T8 R4 C6] Identify and compare physical characteristics of specific regions within the nation. Identify and compare diverse human geographic characteristics of the nation.
+u347 [T8 R4 C7] Describe and analyze physical characteristics of the nation. Describe and analyze diverse human characteristics of the nation.
+u348 [T8 R7 C1] D.
+u349 [T8 R7 C5] Describe how people of Missouri are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u350 [T8 R7 C6] Analyze how people are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u351 [T8 R7 C7] Evaluate how people are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u352 [T8 R8 C1] Relationships within places Human- Environment Interactions
+u353 [T8 R8 C5] Describe how people of Missouri are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u354 [T8 R8 C6] Analyze how people are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u355 [T8 R8 C7] Evaluate how people are affected by, depend on, adapt to and change their physical environments in the past and in the present.
+u356 [T9 R1 C1] 5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment
+u357 [T9 R2 C1] CONCEPTS
+u358 [T9 R2 C2] GRADE K
+u359 [T9 R2 C3] GRADE 1
+u360 [T9 R2 C4] GRADE 2
+u361 [T9 R2 C5] GRADE 3
+u362 [T9 R2 C6] GRADE 4
+u363 [T9 R2 C7] GRADE 5
+u364 [T9 R3 C1] E.
+u365 [T9 R3 C4] Describe different types of communication and transportation and identify their advantages and disadvantages. Describe how transportation and communication systems have facilitated the movement of people, products, and ideas.
+u366 [T9 R3 C5] Describe how changes in communication and transportation technologies affect people’s lives.
+u367 [T9 R3 C6] Analyze how changes in communication and transportation technologies affect people’s lives.
+u368 [T9 R3 C7] Evaluate how changes in communication and transportation technologies affect people’s lives.
+u369 [T9 R4 C1] Understanding relationships between and among places
+u370 [T9 R4 C4] Describe different types of communication and transportation and identify their advantages and disadvantages. Describe how transportation and communication systems have facilitated the movement of people, products, and ideas.
+u371 [T9 R4 C5] Describe how changes in communication and transportation technologies affect people’s lives.
+u372 [T9 R4 C6] Analyze how changes in communication and transportation technologies affect people’s lives.
+u373 [T9 R4 C7] Evaluate how changes in communication and transportation technologies affect people’s lives.
+u374 [T9 R7 C1] F.
+u375 [T9 R7 C4] Define the concept of regions as places which have unifying political, physical, or cultural characteristics. Identify examples of different regions in Missouri. (See teacher resources for illustrative examples) Describe why people of different groups settle more in one place or region than another.
+u376 [T9 R7 C5] Identify regions in Missouri. Compare regions in Missouri. (See teacher resources for illustrative examples)
+u377 [T9 R7 C6] Identify different regions in the United States and analyze how their characteristics affect people who live there.
+u378 [T9 R7 C7] Describe different regions in the United States and analyze how their characteristics affect people who live there.
+u379 [T9 R8 C1] Understanding relationships between and among regions
+u380 [T9 R8 C4] Define the concept of regions as places which have unifying political, physical, or cultural characteristics. Identify examples of different regions in Missouri. (See teacher resources for illustrative examples) Describe why people of different groups settle more in one place or region than another.
+u381 [T9 R8 C5] Identify regions in Missouri. Compare regions in Missouri. (See teacher resources for illustrative examples)
+u382 [T9 R8 C6] Identify different regions in the United States and analyze how their characteristics affect people who live there.
+u383 [T9 R8 C7] Describe different regions in the United States and analyze how their characteristics affect people who live there.
+u384 [T10 R1 C1] 5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment
+u385 [T10 R2 C1] CONCEPTS
+u386 [T10 R2 C2] GRADE K
+u387 [T10 R2 C3] GRADE 1
+u388 [T10 R2 C4] GRADE 2
+u389 [T10 R2 C5] GRADE 3
+u390 [T10 R2 C6] GRADE 4
+u391 [T10 R2 C7] GRADE 5
+u392 [T10 R3 C1] G.
+u393 [T10 R3 C4] Explain how geography affects the way people live today.
+u394 [T10 R3 C5] Explain how geography affected important events in Missouri history.
+u395 [T10 R3 C6] Use geography to interpret the past and predict future consequences as appropriate to topics or eras discussed.
+u396 [T10 R3 C7] Use geography to interpret the past, explain the present and plan for the future as appropriate to topics or eras discussed. Use a geographic lens to describe the impact of migration on the immigrants and the United States c. 1800-2000.
+u397 [T10 R4 C1] Using geography to interpret, explain and predict
+u398 [T10 R4 C4] Explain how geography affects the way people live today.
+u399 [T10 R4 C5] Explain how geography affected important events in Missouri history.
+u400 [T10 R4 C6] Use geography to interpret the past and predict future consequences as appropriate to topics or eras discussed.
+u401 [T10 R4 C7] Use geography to interpret the past, explain the present and plan for the future as appropriate to topics or eras discussed. Use a geographic lens to describe the impact of migration on the immigrants and the United States c. 1800-2000.
+u402 [T11 R1 C1] 6. Knowledge of relationships of the individual and groups to institutions and cultural traditions
+u403 [T11 R2 C1] CONCEPTS
+u404 [T11 R2 C2] GRADE K
+u405 [T11 R2 C3] GRADE 1
+u406 [T11 R2 C4] GRADE 2
+u407 [T11 R2 C5] GRADE 3
+u408 [T11 R2 C6] GRADE 4
+u409 [T11 R2 C7] GRADE 5
+u410 [T11 R3 C1] A.
+u411 [T11 R3 C2] Describe cultural characteristics of your family and class members including language, celebrations, customs, holidays, artistic expression, food, dress, and traditions.
+u412 [T11 R3 C3] Describe cultural characteristics of your school and community. (See teacher resources for illustrative examples)
+u413 [T11 R3 C4] Compare the cultural characteristics of regions in the state. (See teacher resources for illustrative examples)
+u414 [T11 R3 C5] Compare the cultural characteristics of regions in Missouri. (See teacher resources for illustrative examples)
+u415 [T11 R3 C6] Compare cultural characteristics across historical time periods in U.S. history prior to c. 1800. (See teacher resources for illustrative examples)
+u416 [T11 R3 C7] Compare cultural characteristics across historical time periods in the U.S. post c.1800 (See teacher resources for illustrative examples) Describe the cultural impact of migration on the immigrants and the United States c. 1800-2000.
+u417 [T11 R4 C1] Cultural characteristics of all people
+u418 [T11 R4 C2] Describe cultural characteristics of your family and class members including language, celebrations, customs, holidays, artistic expression, food, dress, and traditions.
+u419 [T11 R4 C3] Describe cultural characteristics of your school and community. (See teacher resources for illustrative examples)
+u420 [T11 R4 C4] Compare the cultural characteristics of regions in the state. (See teacher resources for illustrative examples)
+u421 [T11 R4 C5] Compare the cultural characteristics of regions in Missouri. (See teacher resources for illustrative examples)
+u422 [T11 R4 C6] Compare cultural characteristics across historical time periods in U.S. history prior to c. 1800. (See teacher resources for illustrative examples)
+u423 [T11 R4 C7] Compare cultural characteristics across historical time periods in the U.S. post c.1800 (See teacher resources for illustrative examples) Describe the cultural impact of migration on the immigrants and the United States c. 1800-2000.
+u424 [T11 R7 C1] B.
+u425 [T11 R7 C2] Explain how to resolve disputes peacefully in the classroom and on the playground.
+u426 [T11 R7 C3] Propose peaceful resolutions of disputes in the classroom and on the playground.
+u427 [T11 R7 C4] Demonstrate a peaceful resolution to a dispute.
+u428 [T11 R7 C5] Take part in a constructive process or method for resolving conflicts.
+u429 [T11 R7 C6] Apply constructive processes or methods for resolving conflicts.
+u430 [T11 R7 C7] Evaluate constructive processes or methods for resolving conflicts.
+u431 [T11 R8 C1] Methods of resolving conflicts
+u432 [T11 R8 C2] Explain how to resolve disputes peacefully in the classroom and on the playground.
+u433 [T11 R8 C3] Propose peaceful resolutions of disputes in the classroom and on the playground.
+u434 [T11 R8 C4] Demonstrate a peaceful resolution to a dispute.
+u435 [T11 R8 C5] Take part in a constructive process or method for resolving conflicts.
+u436 [T11 R8 C6] Apply constructive processes or methods for resolving conflicts.
+u437 [T11 R8 C7] Evaluate constructive processes or methods for resolving conflicts.
+u438 [T11 R11 C1] C.
+u439 [T11 R11 C2] Share stories related to your family cultural traditions and family lore.
+u440 [T11 R11 C3] Recount stories about locations, people, and cultural events in your community.
+u441 [T11 R11 C4] Recall stories and songs that reflect the cultural history of peoples from various regions in the United States including regional folk figures, Native American legends and African American folktales.
+u442 [T11 R11 C5] Research stories and songs that reflect the cultural history of Missouri.
+u443 [T11 R11 C6] Research stories and songs that reflect the cultural history of the early United States prior to 1800.
+u444 [T11 R11 C7] Research stories and songs that reflect the cultural history of the United States c. 1800-2000.
+u445 [T11 R12 C1] Ideas and beliefs of different cultures
+u446 [T11 R12 C2] Share stories related to your family cultural traditions and family lore.
+u447 [T11 R12 C3] Recount stories about locations, people, and cultural events in your community.
+u448 [T11 R12 C4] Recall stories and songs that reflect the cultural history of peoples from various regions in the United States including regional folk figures, Native American legends and African American folktales.
+u449 [T11 R12 C5] Research stories and songs that reflect the cultural history of Missouri.
+u450 [T11 R12 C6] Research stories and songs that reflect the cultural history of the early United States prior to 1800.
+u451 [T11 R12 C7] Research stories and songs that reflect the cultural history of the United States c. 1800-2000.
+u452 [T11 R15 C1] 6. Knowledge of relationships of the individual and groups to institutions and cultural traditions
+u453 [T11 R16 C1] CONCEPTS
+u454 [T11 R16 C2] GRADE K
+u455 [T11 R16 C3] GRADE 1
+u456 [T11 R16 C4] GRADE 2
+u457 [T11 R16 C5] GRADE 3
+u458 [T11 R16 C6] GRADE 4
+u459 [T11 R16 C7] GRADE 5
+u460 [T11 R17 C1] D.
+u461 [T11 R17 C2] Describe how you and your family remember and commemorate your cultural heritage.
+u462 [T11 R17 C3] Describe how your community commemorates its cultural heritage.
+u463 [T11 R17 C4] Describe how regions commemorate cultural heritage.
+u464 [T11 R17 C5] Describe how people in Missouri preserve their cultural heritage.
+u465 [T11 R17 C6] Analyze the preservation of cultural life, celebrations, traditions, and commemorations over time.
+u466 [T11 R17 C7] Analyze the preservation of cultural life, celebrations, traditions, and commemorations over time.
+u467 [T11 R18 C1] Cultural heritage and preservation
+u468 [T11 R18 C2] Describe how you and your family remember and commemorate your cultural heritage.
+u469 [T11 R18 C3] Describe how your community commemorates its cultural heritage.
+u470 [T11 R18 C4] Describe how regions commemorate cultural heritage.
+u471 [T11 R18 C5] Describe how people in Missouri preserve their cultural heritage.
+u472 [T11 R18 C6] Analyze the preservation of cultural life, celebrations, traditions, and commemorations over time.
+u473 [T11 R18 C7] Analyze the preservation of cultural life, celebrations, traditions, and commemorations over time.
+u474 [T11 R21 C1] E.
+u475 [T11 R21 C5] Examine the changing roles of Native Americans, Immigrants, African Americans, women and others in Missouri history.
+u476 [T11 R21 C6] Examine roles among Native Americans, Immigrants, African Americans, women and others from early migrations to c. 1800.
+u477 [T11 R21 C7] Examine the changing roles among Native Americans, Immigrants, African Americans, women and others from 1800-2000.
+u478 [T11 R22 C1] Changing of roles of various groups
+u479 [T11 R22 C5] Examine the changing roles of Native Americans, Immigrants, African Americans, women and others in Missouri history.
+u480 [T11 R22 C6] Examine roles among Native Americans, Immigrants, African Americans, women and others from early migrations to c. 1800.
+u481 [T11 R22 C7] Examine the changing roles among Native Americans, Immigrants, African Americans, women and others from 1800-2000.
+u482 [T12 R1 C1] 7. Knowledge of the use of tools of social science inquiry
+u483 [T12 R2 C1] CONCEPTS
+u484 [T12 R2 C2] GRADE K
+u485 [T12 R2 C3] GRADE 1
+u486 [T12 R2 C4] GRADE 2
+u487 [T12 R2 C5] GRADE 3
+u488 [T12 R2 C6] GRADE 4
+u489 [T12 R2 C7] GRADE 5
+u490 [T12 R3 C1] A.
+u491 [T12 R3 C2] Label and analyze different social studies’ sources with guidance and support from an adult. Use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u492 [T12 R3 C3] Identify and analyze primary and secondary social studies’ sources in classroom discussion with guidance and support from an adult. Identify and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u493 [T12 R3 C4] Describe and analyze primary and secondary social studies’ sources in classroom discussion with guidance and support. Select and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u494 [T12 R3 C5] Select and analyze primary and secondary social studies’ sources to determine importance with guidance and support. Create and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u495 [T12 R3 C6] Select, analyze, and evaluate primary and secondary social studies’ sources with guidance and support. Analyze and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u496 [T12 R3 C7] Identify, select, analyze, and evaluate resources to create a product of social science inquiry. Evaluate and use artifacts to share information on social studies' topics. (See teacher resources for illustrative examples)
+u497 [T12 R4 C1] Identify, select, analyze, and evaluate resources to create a product of social science inquiry
+u498 [T12 R4 C2] Label and analyze different social studies’ sources with guidance and support from an adult. Use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u499 [T12 R4 C3] Identify and analyze primary and secondary social studies’ sources in classroom discussion with guidance and support from an adult. Identify and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u500 [T12 R4 C4] Describe and analyze primary and secondary social studies’ sources in classroom discussion with guidance and support. Select and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u501 [T12 R4 C5] Select and analyze primary and secondary social studies’ sources to determine importance with guidance and support. Create and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u502 [T12 R4 C6] Select, analyze, and evaluate primary and secondary social studies’ sources with guidance and support. Analyze and use artifacts to share information on social studies’ topics. (See teacher resources for illustrative examples)
+u503 [T12 R4 C7] Identify, select, analyze, and evaluate resources to create a product of social science inquiry. Evaluate and use artifacts to share information on social studies' topics. (See teacher resources for illustrative examples)
+u504 [T12 R7 C1] B.
+u505 [T12 R7 C2] Use visual tools to communicate information.
+u506 [T12 R7 C3] Create visual tools to communicate information.
+u507 [T12 R7 C4] Use visual tools and informational texts to communicate information.
+u508 [T12 R7 C5] With guidance and support, use visual tools and informational texts to interpret, draw conclusions, make predictions, and communicate information and ideas.
+u509 [T12 R7 C6] Use visual tools and informational texts to interpret, draw conclusions, make predictions, and communicate information and ideas with guidance and support, as needed. Create products such as maps, graphs, timelines, charts and models, diagrams etc. to communicate information and understanding.
+u510 [T12 R7 C7] Use visual tools to interpret, draw conclusions, make predictions, and communicate information and ideas. Create and present products such as maps, graphs, timelines, charts and models, diagrams etc. to communicate information and understanding on social studies’ topics.
+u511 [T12 R8 C1] Use visual tools to communicate information and ideas
+u512 [T12 R8 C2] Use visual tools to communicate information.
+u513 [T12 R8 C3] Create visual tools to communicate information.
+u514 [T12 R8 C4] Use visual tools and informational texts to communicate information.
+u515 [T12 R8 C5] With guidance and support, use visual tools and informational texts to interpret, draw conclusions, make predictions, and communicate information and ideas.
+u516 [T12 R8 C6] Use visual tools and informational texts to interpret, draw conclusions, make predictions, and communicate information and ideas with guidance and support, as needed. Create products such as maps, graphs, timelines, charts and models, diagrams etc. to communicate information and understanding.
+u517 [T12 R8 C7] Use visual tools to interpret, draw conclusions, make predictions, and communicate information and ideas. Create and present products such as maps, graphs, timelines, charts and models, diagrams etc. to communicate information and understanding on social studies’ topics.
+u518 [T13 R1 C1] 7. Knowledge of the use of tools of social science inquiry
+u519 [T13 R2 C1] CONCEPTS
+u520 [T13 R2 C2] GRADE K
+u521 [T13 R2 C3] GRADE 1
+u522 [T13 R2 C4] GRADE 2
+u523 [T13 R2 C5] GRADE 3
+u524 [T13 R2 C6] GRADE 4
+u525 [T13 R2 C7] GRADE 5
+u526 [T13 R3 C1] C.
+u527 [T13 R3 C4] Explain the difference between fact and opinion in social studies’ topics. Explain the concept of point of view in social studies’ topics.
+u528 [T13 R3 C5] Identify facts and opinions in social studies’ topics. Identify point of view in social studies’ topics.
+u529 [T13 R3 C6] Distinguish between fact and opinion and recognize bias and point of view in social studies’ topics.
+u530 [T13 R3 C7] Explain how facts and opinions affect point of view and/or bias in social studies’ topics. Identify, research, and defend a point of view/position on a social studies’ topic.
+u531 [T13 R4 C1] Understanding and supporting fact, opinion, bias and point of view in sources.
+u532 [T13 R4 C4] Explain the difference between fact and opinion in social studies’ topics. Explain the concept of point of view in social studies’ topics.
+u533 [T13 R4 C5] Identify facts and opinions in social studies’ topics. Identify point of view in social studies’ topics.
+u534 [T13 R4 C6] Distinguish between fact and opinion and recognize bias and point of view in social studies’ topics.
+u535 [T13 R4 C7] Explain how facts and opinions affect point of view and/or bias in social studies’ topics. Identify, research, and defend a point of view/position on a social studies’ topic.
+u536 [T13 R7 C1] D.
+u537 [T13 R7 C2] Share findings about a social studies’ topic.
+u538 [T13 R7 C3] Share findings about a social studies’ topic.
+u539 [T13 R7 C4] Share research about a social studies’ topic.
+u540 [T13 R7 C5] Present social studies’ research to an audience using appropriate sources.
+u541 [T13 R7 C6] With assistance, conduct and present social studies’ research to an audience using appropriate sources.
+u542 [T13 R7 C7] Conduct and present social studies’ research to an audience using appropriate sources.
+u543 [T13 R8 C1] Conducting and presenting research with appropriate resources.
+u544 [T13 R8 C2] Share findings about a social studies’ topic.
+u545 [T13 R8 C3] Share findings about a social studies’ topic.
+u546 [T13 R8 C4] Share research about a social studies’ topic.
+u547 [T13 R8 C5] Present social studies’ research to an audience using appropriate sources.
+u548 [T13 R8 C6] With assistance, conduct and present social studies’ research to an audience using appropriate sources.
+u549 [T13 R8 C7] Conduct and present social studies’ research to an audience using appropriate sources.
+u550 [T14 R1 C1] 7. Knowledge of the use of tools of social science inquiry
+u551 [T14 R2 C1] CONCEPTS
+u552 [T14 R2 C2] GRADE K
+u553 [T14 R2 C3] GRADE 1
+u554 [T14 R2 C4] GRADE 2
+u555 [T14 R2 C5] GRADE 3
+u556 [T14 R2 C6] GRADE 4
+u557 [T14 R2 C7] GRADE 5
+u558 [T14 R3 C1] E.
+u559 [T14 R3 C2] Ask questions and find answers, with assistance.
+u560 [T14 R3 C3] Ask supporting questions and find answers about social studies’ topics, with assistance.
+u561 [T14 R3 C4] Develop supporting questions about social studies’ topics, with assistance. Describe a process to answer those questions Discuss types of sources that would be helpful in exploring social studies’ questions.
+u562 [T14 R3 C5] Generate supporting questions about social studies’ topics. Use steps in a process to investigate a social studies’ question. Use appropriate sources to investigate social studies’ questions.
+u563 [T14 R3 C6] Generate compelling research questions about a social studies’ topic. Apply a research process to a compelling social studies’ question. Identify and use appropriate resources for investigating a compelling social studies’ question.
+u564 [T14 R3 C7] Generate compelling research questions about a social studies’ topic. Create and apply a research process to investigate a compelling social studies’ question. Evaluate and use appropriate resources for investigating a compelling social studies’ question.
+u565 [T14 R4 C1] Developing a research plan and identifying resources
+u566 [T14 R4 C2] Ask questions and find answers, with assistance.
+u567 [T14 R4 C3] Ask supporting questions and find answers about social studies’ topics, with assistance.
+u568 [T14 R4 C4] Develop supporting questions about social studies’ topics, with assistance. Describe a process to answer those questions Discuss types of sources that would be helpful in exploring social studies’ questions.
+u569 [T14 R4 C5] Generate supporting questions about social studies’ topics. Use steps in a process to investigate a social studies’ question. Use appropriate sources to investigate social studies’ questions.
+u570 [T14 R4 C6] Generate compelling research questions about a social studies’ topic. Apply a research process to a compelling social studies’ question. Identify and use appropriate resources for investigating a compelling social studies’ question.
+u571 [T14 R4 C7] Generate compelling research questions about a social studies’ topic. Create and apply a research process to investigate a compelling social studies’ question. Evaluate and use appropriate resources for investigating a compelling social studies’ question.
+u572 [T14 R7 C1] F.
+u573 [T14 R7 C5] Investigate an appropriate social studies’ question and share results with assistance, if needed.
+u574 [T14 R7 C6] Research an appropriate social studies’ question and share results with an audience.
+u575 [T14 R7 C7] Conduct and present research on a social studies’ question to an audience, using appropriate sources.
+u576 [T14 R8 C1] Conducting and presenting research with appropriate resources
+u577 [T14 R8 C5] Investigate an appropriate social studies’ question and share results with assistance, if needed.
+u578 [T14 R8 C6] Research an appropriate social studies’ question and share results with an audience.
+u579 [T14 R8 C7] Conduct and present research on a social studies’ question to an audience, using appropriate sources.
+u580 [T14 R11 C1] G.
+u581 [T14 R11 C7] Research and defend a point of view/position on a social studies’ question.
+u582 [T14 R12 C1] Supporting a point of view
+u583 [T14 R12 C7] Research and defend a point of view/position on a social studies’ question.
+u584 aaaa

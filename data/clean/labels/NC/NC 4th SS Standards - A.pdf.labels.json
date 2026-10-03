@@ -1,0 +1,59 @@
+{
+ "state": "NC",
+ "file": "NC 4th SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Fourth Grade Social Studies"
+  },
+  {
+   "units": "u2-u6",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (North Carolina History)"
+  },
+  {
+   "units": "u7-u9",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u10",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 3-5 heading"
+  },
+  {
+   "units": "u11-u14",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u15-u28",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 3-5 table (I.1.1-I.1.11)"
+  },
+  {
+   "units": "u31-u60",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table 4.B, 4.C&G, 4.E, 4.G, 4.H"
+  }
+ ],
+ "issues": [
+  "u41-u49, u58-u60: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade (4.E.1.2/4.E.1.3, 4.G.1.2 tails)."
+ ]
+}

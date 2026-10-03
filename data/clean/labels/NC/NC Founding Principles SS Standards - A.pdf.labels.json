@@ -1,0 +1,62 @@
+{
+ "state": "NC",
+ "file": "NC Founding Principles SS Standards - A.pdf",
+ "structure": "High-school course file. Page 1: title, course overview narrative, LEA disclaimer, strand legend. Inquiry 9-12 table (Category | Indicator, unnumbered bullets; shared by all HS courses). Then Standards | Objectives table: column 1 = standard (e.g. AH.B.1), column 2 = bulleted objectives (AH.B.1.1 ...). Header row repeats on each page; page-break fragments appear as stray small tables.",
+ "labels": [
+  {
+   "units": "u1-u2",
+   "grades": "9-12",
+   "course": "Founding Principles of the United States of America and North Carolina: Civic Literacy",
+   "cat": "standards",
+   "section": "Title: Founding Principles of the United States and North Carolina: Civic Literacy"
+  },
+  {
+   "units": "u3-u7",
+   "grades": "9-12",
+   "course": "Founding Principles of the United States of America and North Carolina: Civic Literacy",
+   "cat": "examples",
+   "section": "Course overview narrative"
+  },
+  {
+   "units": "u8-u14",
+   "grades": "9-12",
+   "course": "Founding Principles of the United States of America and North Carolina: Civic Literacy",
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u17",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 heading"
+  },
+  {
+   "units": "u18",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u19-u35",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 table (shared HS skills)"
+  },
+  {
+   "units": "u38-u78",
+   "grades": "9-12",
+   "course": "Founding Principles of the United States of America and North Carolina: Civic Literacy",
+   "cat": "standards",
+   "section": "Content standards CL.B, CL.C&G, CL.E, CL.G, CL.H"
+  }
+ ],
+ "issues": [
+  "u9-u12: disclaimer sentence is split into a bogus 4-row table by the extractor; labeled backup.",
+  "u46-u47, u52, u57-u59, u69-u72: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade.",
+  "Title wording differs: heading says 'Founding Principles of the United States and North Carolina: Civic Literacy', body says '... of the United States of America and North Carolina: Civic Literacy'; body wording used as course.",
+  "u31: continuation row of Developing Claims indicators (empty category cell)."
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC 2nd SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Second Grade Social Studies"
+  },
+  {
+   "units": "u2-u4",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (America: Our Nation)"
+  },
+  {
+   "units": "u5-u10",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u11",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry K-2 heading"
+  },
+  {
+   "units": "u12-u13",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u14-u30",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry K-2 table (I.1.1-I.1.9)"
+  },
+  {
+   "units": "u31-u48",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table 2.B, 2.C&G, 2.E, 2.G, 2.H"
+  }
+ ],
+ "issues": [
+  "u47-u48: stray page-break fragment ('goods.') of 2.E.1.2, labeled grade 2 standards.",
+  "u26: 'Starting in Grade 3' row."
+ ]
+}

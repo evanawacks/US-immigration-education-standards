@@ -1,0 +1,482 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr3_83ae9b.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 3-5 Inquiry Standards' (Anchor Standards 1-5, codes SS.3-5.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.3.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u34",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u35",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u36",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws"
+  },
+  {
+   "units": "u37-u38",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rules and Laws: sample compelling questions"
+  },
+  {
+   "units": "u39-u45",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws"
+  },
+  {
+   "units": "u46-u47",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws > Rights and Responsibilities"
+  },
+  {
+   "units": "u48",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rules and Laws > Rights and Responsibilities: sample content/concepts"
+  },
+  {
+   "units": "u49",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws > Rights and Responsibilities"
+  },
+  {
+   "units": "u50-u51",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws > Governance, Power, and Authority"
+  },
+  {
+   "units": "u52",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rules and Laws > Governance, Power, and Authority: sample content/concepts"
+  },
+  {
+   "units": "u53",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws > Governance, Power, and Authority"
+  },
+  {
+   "units": "u54-u55",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rules and Laws > Causes and Effects in History"
+  },
+  {
+   "units": "u56",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rules and Laws > Causes and Effects in History: sample content/concepts"
+  },
+  {
+   "units": "u57-u60",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rules and Laws > Causes and Effects in History"
+  },
+  {
+   "units": "u61",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Causes and Effects in History"
+  },
+  {
+   "units": "u62",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens"
+  },
+  {
+   "units": "u63-u65",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens: sample compelling questions"
+  },
+  {
+   "units": "u66-u72",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens"
+  },
+  {
+   "units": "u73-u74",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Role and Functions of Markets"
+  },
+  {
+   "units": "u75",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens > Role and Functions of Markets: sample content/concepts"
+  },
+  {
+   "units": "u76-u81",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Role and Functions of Markets"
+  },
+  {
+   "units": "u82",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens > Role and Functions of Markets: sample content/concepts"
+  },
+  {
+   "units": "u83-u86",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Role and Functions of Markets"
+  },
+  {
+   "units": "u87-u88",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Principles and Values of Democracy"
+  },
+  {
+   "units": "u89",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u90-u95",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Principles and Values of Democracy"
+  },
+  {
+   "units": "u96",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u97-u100",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Principles and Values of Democracy"
+  },
+  {
+   "units": "u101-u102",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Governance, Power, and Authority"
+  },
+  {
+   "units": "u103",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Rights and Responsibilities of Citizens > Governance, Power, and Authority: sample content/concepts"
+  },
+  {
+   "units": "u104-u106",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Rights and Responsibilities of Citizens > Governance, Power, and Authority"
+  },
+  {
+   "units": "u107",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Governance, Power, and Authority"
+  },
+  {
+   "units": "u108",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration"
+  },
+  {
+   "units": "u109-u111",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration: sample compelling questions"
+  },
+  {
+   "units": "u112-u118",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration"
+  },
+  {
+   "units": "u119-u120",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Spatial Representation"
+  },
+  {
+   "units": "u121",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration > Spatial Representation: sample content/concepts"
+  },
+  {
+   "units": "u122-u127",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Spatial Representation"
+  },
+  {
+   "units": "u128-u129",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Movement"
+  },
+  {
+   "units": "u130",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration > Movement: sample content/concepts"
+  },
+  {
+   "units": "u131-u135",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Movement"
+  },
+  {
+   "units": "u136-u137",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Interdependence"
+  },
+  {
+   "units": "u138",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration > Interdependence: sample content/concepts"
+  },
+  {
+   "units": "u139-u144",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Interdependence"
+  },
+  {
+   "units": "u145-u146",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Interactions and Impact"
+  },
+  {
+   "units": "u147",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u148-u152",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Interactions and Impact"
+  },
+  {
+   "units": "u153-u154",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Chronological Thinking"
+  },
+  {
+   "units": "u155",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Migration > Chronological Thinking: sample content/concepts"
+  },
+  {
+   "units": "u156-u158",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Migration > Chronological Thinking"
+  },
+  {
+   "units": "u159",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Chronological Thinking"
+  },
+  {
+   "units": "u160",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World"
+  },
+  {
+   "units": "u161-u163",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Changing World: sample compelling questions"
+  },
+  {
+   "units": "u164-u170",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World"
+  },
+  {
+   "units": "u171-u172",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Limited Resources and Choice"
+  },
+  {
+   "units": "u173",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Changing World > Limited Resources and Choice: sample content/concepts"
+  },
+  {
+   "units": "u174-u177",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Limited Resources and Choice"
+  },
+  {
+   "units": "u178-u179",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Interactions and Impact"
+  },
+  {
+   "units": "u180",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Changing World > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u181-u185",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Interactions and Impact"
+  },
+  {
+   "units": "u186-u187",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Disasters"
+  },
+  {
+   "units": "u188",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Changing World > Disasters: sample content/concepts"
+  },
+  {
+   "units": "u189-u194",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Disasters"
+  },
+  {
+   "units": "u195-u196",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Historical Inquiry"
+  },
+  {
+   "units": "u197",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Changing World > Historical Inquiry: sample content/concepts"
+  },
+  {
+   "units": "u198-u199",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Changing World > Historical Inquiry"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades 3-5 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u57-u60: orphan fragments (separate table) of the sample-content cell of u56/u48 ('belts, voting rights, wearing helmets when riding bikes, women's suffrage') extracted at the end of page 3; labeled examples.",
+  "u37: 'Sample Compelling Questions' label is in one cell (Theme 1)."
+ ]
+}

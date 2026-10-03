@@ -1,0 +1,762 @@
+{
+ "state": "HI",
+ "file": "HCSSSWorldHistoryCulture_aebfd5.pdf",
+ "structure": "Social studies standards with a common layout: u1 = course title; first table = 'Inquiry Standards' (Anchor Standards 1-5, codes SS.9-12.n.m, anchor standard names split across rows of C1); then numbered Themes. Each Theme: a header row (Theme N + title), 'Sample Compelling Questions' row (label split into 'Sample Compelling' / 'Questions' cells plus bullets), a 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (History/Civics/Geography/Economics) with Anchor Standard number and name split into following C1 rows, C2 topic, C3 'Content Standard SS.WH.t.a.n' statement, C4 bullet sample content/concepts. High school course 'World History and Culture' (codes SS.WH) with 8 themes.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Origins of Global Exploration: 1450–1700: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Causes of Exploration"
+  },
+  {
+   "units": "u47",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Origins of Global Exploration: 1450–1700 > Causes of Exploration: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Causes of Exploration"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Effects of Global Exploration"
+  },
+  {
+   "units": "u54",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Origins of Global Exploration: 1450–1700 > Effects of Global Exploration: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Effects of Global Exploration"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Atlantic Slave Trading"
+  },
+  {
+   "units": "u61",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Origins of Global Exploration: 1450–1700 > Atlantic Slave Trading: sample content/concepts"
+  },
+  {
+   "units": "u62-u66",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Atlantic Slave Trading"
+  },
+  {
+   "units": "u67-u68",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Columbian Exchange and Consequences"
+  },
+  {
+   "units": "u69",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Origins of Global Exploration: 1450–1700 > Columbian Exchange and Consequences: sample content/concepts"
+  },
+  {
+   "units": "u70-u74",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Origins of Global Exploration: 1450–1700 > Columbian Exchange and Consequences"
+  },
+  {
+   "units": "u75",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 2 > Columbian Exchange and Consequences"
+  },
+  {
+   "units": "u76",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700"
+  },
+  {
+   "units": "u77-u79",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Early Modern Empires: 1450–1700: sample compelling questions"
+  },
+  {
+   "units": "u80-u86",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700"
+  },
+  {
+   "units": "u87-u88",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700 > Political Structures Compared"
+  },
+  {
+   "units": "u89",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Early Modern Empires: 1450–1700 > Political Structures Compared: sample content/concepts"
+  },
+  {
+   "units": "u90-u93",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700 > Political Structures Compared"
+  },
+  {
+   "units": "u94-u95",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700 > European Expansion and Trade"
+  },
+  {
+   "units": "u96",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Early Modern Empires: 1450–1700 > European Expansion and Trade: sample content/concepts"
+  },
+  {
+   "units": "u97-u101",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Early Modern Empires: 1450–1700 > European Expansion and Trade"
+  },
+  {
+   "units": "u102",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 3 > European Expansion and Trade"
+  },
+  {
+   "units": "u103",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900"
+  },
+  {
+   "units": "u104-u106",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Industrial Revolutions: 1750–1900: sample compelling questions"
+  },
+  {
+   "units": "u107-u113",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900"
+  },
+  {
+   "units": "u114-u115",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900 > Causes of Industrial Revolution"
+  },
+  {
+   "units": "u116",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Industrial Revolutions: 1750–1900 > Causes of Industrial Revolution: sample content/concepts"
+  },
+  {
+   "units": "u117-u120",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900 > Causes of Industrial Revolution"
+  },
+  {
+   "units": "u121-u122",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900 > Global Effects of Industrial Revolution"
+  },
+  {
+   "units": "u123",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Industrial Revolutions: 1750–1900 > Global Effects of Industrial Revolution: sample content/concepts"
+  },
+  {
+   "units": "u124-u125",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Industrial Revolutions: 1750–1900 > Global Effects of Industrial Revolution"
+  },
+  {
+   "units": "u126",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 4 > Global Effects of Industrial Revolution"
+  },
+  {
+   "units": "u127",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914"
+  },
+  {
+   "units": "u128-u130",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Imperialism and Global Interdependence: 1800–1914: sample compelling questions"
+  },
+  {
+   "units": "u131-u137",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914"
+  },
+  {
+   "units": "u138-u139",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Motives for New Imperialism"
+  },
+  {
+   "units": "u140",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Motives for New Imperialism: sample content/concepts"
+  },
+  {
+   "units": "u141-u144",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Motives for New Imperialism"
+  },
+  {
+   "units": "u145-u146",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Imperialist Methods"
+  },
+  {
+   "units": "u147",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Imperialist Methods: sample content/concepts"
+  },
+  {
+   "units": "u148-u153",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Imperialist Methods"
+  },
+  {
+   "units": "u154-u155",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Consequences of Imperialism"
+  },
+  {
+   "units": "u156",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Consequences of Imperialism: sample content/concepts"
+  },
+  {
+   "units": "u157-u161",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Imperialism and Global Interdependence: 1800–1914 > Consequences of Imperialism"
+  },
+  {
+   "units": "u162",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 5 > Consequences of Imperialism"
+  },
+  {
+   "units": "u163",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917"
+  },
+  {
+   "units": "u164-u166",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Political Ideas and Revolutions: 1770–1917: sample compelling questions"
+  },
+  {
+   "units": "u167-u173",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917"
+  },
+  {
+   "units": "u174-u175",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Rise of Scientific Revolution"
+  },
+  {
+   "units": "u176",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Rise of Scientific Revolution: sample content/concepts"
+  },
+  {
+   "units": "u177-u180",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Rise of Scientific Revolution"
+  },
+  {
+   "units": "u181-u182",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Enlightenment Ideas"
+  },
+  {
+   "units": "u183",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Enlightenment Ideas: sample content/concepts"
+  },
+  {
+   "units": "u184-u186",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Enlightenment Ideas"
+  },
+  {
+   "units": "u187-u188",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Early Democratic Revolutions"
+  },
+  {
+   "units": "u189",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Early Democratic Revolutions: sample content/concepts"
+  },
+  {
+   "units": "u190-u192",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Early Democratic Revolutions"
+  },
+  {
+   "units": "u193-u200",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Political Ideas and Revolutions: 1770–1917 > Early Democratic Revolutions"
+  },
+  {
+   "units": "u201",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 6 > Early Democratic Revolutions"
+  },
+  {
+   "units": "u202",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945"
+  },
+  {
+   "units": "u203-u205",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945: sample compelling questions"
+  },
+  {
+   "units": "u206-u212",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945"
+  },
+  {
+   "units": "u213-u214",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War I"
+  },
+  {
+   "units": "u215",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War I: sample content/concepts"
+  },
+  {
+   "units": "u216-u219",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War I"
+  },
+  {
+   "units": "u220-u221",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War II"
+  },
+  {
+   "units": "u222",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War II: sample content/concepts"
+  },
+  {
+   "units": "u223-u226",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Causes of World War II"
+  },
+  {
+   "units": "u227-u228",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Turning Points of World War II"
+  },
+  {
+   "units": "u229",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Turning Points of World War II: sample content/concepts"
+  },
+  {
+   "units": "u230-u233",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Turning Points of World War II"
+  },
+  {
+   "units": "u234-u235",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Human Costs of World War II"
+  },
+  {
+   "units": "u236",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Human Costs of World War II: sample content/concepts"
+  },
+  {
+   "units": "u237-u239",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Global Conflicts, Depression, and Totalitarianism: 1914–1945 > Human Costs of World War II"
+  },
+  {
+   "units": "u240",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 7 > Human Costs of World War II"
+  },
+  {
+   "units": "u241",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980"
+  },
+  {
+   "units": "u242-u244",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980: sample compelling questions"
+  },
+  {
+   "units": "u245-u251",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980"
+  },
+  {
+   "units": "u252-u253",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Decolonization After World War II"
+  },
+  {
+   "units": "u254",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Decolonization After World War II: sample content/concepts"
+  },
+  {
+   "units": "u255-u258",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Decolonization After World War II"
+  },
+  {
+   "units": "u259-u260",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Action for Independence"
+  },
+  {
+   "units": "u261",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Action for Independence: sample content/concepts"
+  },
+  {
+   "units": "u262-u265",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Action for Independence"
+  },
+  {
+   "units": "u266-u267",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > United Nations Influence"
+  },
+  {
+   "units": "u268",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > United Nations Influence: sample content/concepts"
+  },
+  {
+   "units": "u269-u272",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > United Nations Influence"
+  },
+  {
+   "units": "u273-u274",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Cold War Global Conflicts"
+  },
+  {
+   "units": "u275",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Cold War Global Conflicts: sample content/concepts"
+  },
+  {
+   "units": "u276-u277",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Post-World War Decolonization and Conflict: 1945–1980 > Cold War Global Conflicts"
+  },
+  {
+   "units": "u278",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Theme 8 > Cold War Global Conflicts"
+  },
+  {
+   "units": "u279",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present"
+  },
+  {
+   "units": "u280-u282",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Contemporary World: 1990–Present: sample compelling questions"
+  },
+  {
+   "units": "u283-u289",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present"
+  },
+  {
+   "units": "u290-u291",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present > Resources and Sustainability"
+  },
+  {
+   "units": "u292",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Contemporary World: 1990–Present > Resources and Sustainability: sample content/concepts"
+  },
+  {
+   "units": "u293-u295",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present > Resources and Sustainability"
+  },
+  {
+   "units": "u296-u297",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present > Global Human Rights"
+  },
+  {
+   "units": "u298",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "examples",
+   "section": "Contemporary World: 1990–Present > Global Human Rights: sample content/concepts"
+  },
+  {
+   "units": "u299-u301",
+   "grades": "9-12",
+   "course": "World History and Culture",
+   "cat": "standards",
+   "section": "Contemporary World: 1990–Present > Global Human Rights"
+  }
+ ],
+ "issues": [
+  "Course name written in capitals in the document; normalized to title case.",
+  "Inquiry standards table (u2-u32) headed 'Grades 9-12 Inquiry Standards': labeled course null, grades 9-12 as shared HS skills.",
+  "u193-u200 (page 7): orphan fragments of the Theme 5 'Early Democratic Revolutions' sample-content cell (American Revolution; French Revolution, Haitian Revolution, Latin American independence movements; revolutions, redistribution of wealth and power across social classes, reformed government institutions and processes) extracted as separate tables; labeled examples.",
+  "u235 reads 'Content Standards SS.WH.6.17.4' (plural) in the source."
+ ]
+}

@@ -5,7 +5,7 @@ Read these first, fully:
 2. data/clean/guides/WA.md — state-specific notes (which files to use, the row grade clusters, known structure). Verify the notes against the documents; the documents win if they disagree (record disagreements in issues).
 
 Your scope: state WA, these files (from data/clean/state_config.json, value "use"):
-- ospi_socstudies_standards_2019_7b61b4.pdf
+- OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx
 
 For each file: read its view data/clean/units/WA/<file>.view.txt IN FULL with the Read tool (use offset/limit chunks until the end; never skim or sample), work out the document's internal schema (how grades, courses, strands, standard codes, examples and front matter are marked), write that schema in "structure", then write data/clean/labels/WA/<file>.labels.json (create the directory if needed).
 

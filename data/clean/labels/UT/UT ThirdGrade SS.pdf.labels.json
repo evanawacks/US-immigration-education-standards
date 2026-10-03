@@ -1,0 +1,90 @@
+{
+ "state": "UT",
+ "file": "UT ThirdGrade SS.pdf",
+ "structure": "Single-grade Utah Core Standards for Elementary Social Studies (adopted Dec 2022). Pages 1-7 are front matter shared by every elementary file (cover, board list, introduction, organization of standards, one-paragraph overviews of K-6). Then one grade section with four or more strands (GRADE STRAND n: HISTORY/GEOGRAPHY/CIVICS/ECONOMICS) each with a strand description sentence ('Students will ...'), a bulleted list of Compelling Questions (marked with ']'), and numbered standards 'Standard G.S.N: text' (G=grade, S=strand, N=number). The 'Standard G.S.N' label and its text are sometimes split into two units (label at x=75, text at x=189), and in several files the label is missing from the units (it was moved to the running header) leaving just the text. Parenthetical 'for example' lists stay inside the standard unit. In third grade the 'Compelling Questions:' heading is a separate unit and strand titles may be split across two units.",
+ "labels": [
+  {
+   "units": "u1-u75",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, title page, Board of Education list"
+  },
+  {
+   "units": "u77-u119",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Utah Elementary Social Studies Standards introduction, organization of standards, grade-by-grade overview"
+  },
+  {
+   "units": "u121-u124",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third grade title, Strand 1 Types of Government and the US and Utah Constitutions heading and description"
+  },
+  {
+   "units": "u125-u130",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 1 compelling questions"
+  },
+  {
+   "units": "u131-u143",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 3.1.1-3.1.5 (Government); Strand 2 Your Community heading and description"
+  },
+  {
+   "units": "u144-u151",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 2 compelling questions"
+  },
+  {
+   "units": "u152-u162",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 3.2.1-3.2.4 (Your Community); Strand 3 Your Rights and Responsibilities as a Community Member heading and description"
+  },
+  {
+   "units": "u163-u172",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 3 compelling questions"
+  },
+  {
+   "units": "u174-u193",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 3.3.1-3.3.8 (Rights and Responsibilities); Strand 4 Connecting Your Community to the World heading and description"
+  },
+  {
+   "units": "u194-u201",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 4 compelling questions"
+  },
+  {
+   "units": "u204-u212",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 3.4.1-3.4.5 (Connecting Your Community to the World)"
+  }
+ ],
+ "issues": [
+  "Standard labels for 3.1.5, 3.3.1, 3.3.6-3.3.8 and 3.4.1-3.4.5 are missing from the units (appear only in running headers); u140, u174-u176, u186, u188, u190, u204-u212 are bare standard texts. Numbering inferred from running headers and order.",
+  "Standard 3.3.1 text is split across a page break (u174 on p.9, u176 on p.10).",
+  "Shared K-6 overview paragraphs (u104-u119) are front matter identical in every elementary file; labeled backup/all.",
+  "Strand 3 and Strand 4 (3.4.1-3.4.5) explicitly address students' own communities, culture, heritage, and immigrants (3.4.4); labeled standards/examples as appropriate."
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "state": "NC",
+ "file": "NC American History SS Standards - A.pdf",
+ "structure": "High-school course file. Page 1: title, course overview narrative, LEA disclaimer, strand legend. Inquiry 9-12 table (Category | Indicator, unnumbered bullets; shared by all HS courses). Then Standards | Objectives table: column 1 = standard (e.g. AH.B.1), column 2 = bulleted objectives (AH.B.1.1 ...). Header row repeats on each page; page-break fragments appear as stray small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "Title: American History"
+  },
+  {
+   "units": "u2-u7",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "Course overview narrative"
+  },
+  {
+   "units": "u8-u10",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u13",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 heading"
+  },
+  {
+   "units": "u14",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u15-u31",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 table (shared HS skills)"
+  },
+  {
+   "units": "u34-u67",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "Content standards AH.B, AH.C&G, AH.E, AH.G, AH.H"
+  }
+ ],
+ "issues": [
+  "u40-u41: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade.",
+  "u27: continuation row of Developing Claims and Using Evidence indicators (empty category cell), labeled with inquiry table.",
+  "u49: code 'AH.C&G. 2.2' spacing typo."
+ ]
+}

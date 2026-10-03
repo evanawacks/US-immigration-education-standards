@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC World History SS Standards - A.pdf",
+ "structure": "High-school course file. Page 1: title, course overview narrative, LEA disclaimer, strand legend. Inquiry 9-12 table (Category | Indicator, unnumbered bullets; shared by all HS courses). Then Standards | Objectives table: column 1 = standard (e.g. AH.B.1), column 2 = bulleted objectives (AH.B.1.1 ...). Header row repeats on each page; page-break fragments appear as stray small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Title: World History"
+  },
+  {
+   "units": "u2-u6",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Course overview narrative"
+  },
+  {
+   "units": "u7-u8",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note and strand legend (merged in u8)"
+  },
+  {
+   "units": "u9",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 heading"
+  },
+  {
+   "units": "u12",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u13-u29",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 9-12 table (shared HS skills)"
+  },
+  {
+   "units": "u30-u59",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Content standards WH.B, WH.C&G, WH.E, WH.G, WH.H"
+  }
+ ],
+ "issues": [
+  "u25: continuation row of Developing Claims indicators (empty category cell).",
+  "u49: code 'WH.E. 1.4' spacing typo."
+ ]
+}

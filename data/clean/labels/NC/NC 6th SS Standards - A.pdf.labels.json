@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC 6th SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Sixth Grade Social Studies"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (World Studies I)"
+  },
+  {
+   "units": "u4-u10",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Intent statement, LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u11",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 6-8 heading"
+  },
+  {
+   "units": "u12",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u13-u28",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 6-8 table (I.1.1-I.1.11)"
+  },
+  {
+   "units": "u31-u69",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table 6.B, 6.C&G, 6.E, 6.G, 6.H"
+  }
+ ],
+ "issues": [
+  "u39-u49, u58-u69: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade (6.B.1.x, 6.C&G.1.x, 6.E.1.2, 6.G.1.x tails; 6.G.1.4 repeated word-by-word in u66-u69).",
+  "u13-u14, u17: inquiry table header row separated from body by page break."
+ ]
+}

@@ -1,0 +1,6343 @@
+{
+ "state": "FL",
+ "file": "florida_k-12_social_studies.pdf",
+ "structure": "Single PDF, Florida's State Academic Standards for Social Studies 2025 (6A-1.09401, F.A.C.). Front matter (cover, TOC, s.1003.42 statutory introduction, Four Priorities of Civics Education, Six Essential Elements of Geography, coding scheme, e.g./i.e. explanation, K-12 progression table) = u1-u172. Then three parts: 'Standards for Social Studies K-5' (u173; separate Kindergarten, Grade 1-5 sections), 'Social Studies 6-8' (u964; a 'Grades 6-8' band section with African American History and Holocaust Education, SS.68.*, then separate Grade 6, 7, 8 sections), and 'Social Studies Grades 9-12' (u1793; '9-12 Course Overview' then 12 banded courses). Each K-8 grade section opens with a 'In grade N, instructional time will emphasize:' bullet narrative, then subject-strand headings (American History, African American History, Civics and Government, Economics, Financial Literacy, Geography, Holocaust Education, World History, History of Communism). Codes: SS.<grade>.<strand>.<standard>.<benchmark>; grade is K,1-8, '68' (6-8 band) or '912'; strands A, AA, W, HE, HC, CG, E, FL, G, H, P, S. A 'SS.g.X.n' unit is a standard (topic) heading; 'SS.g.X.n.m' is the benchmark number, whose text is a separate unit (side-by-side blocks, x position) and the order of code and text units is often swapped in the extraction. 'Benchmark Clarifications: Clarification 1: ...' blocks (and 'Example:' blocks in HS Financial Literacy / History of Communism) follow the benchmark and are labeled examples. The 9-12 courses (American History, African American History, World History, History of Communism, Holocaust Education, Civics and Government, Economics, Financial Literacy, Geography, Humanities, Psychology, Sociology) are each course-based with grades 9-12 and course = course title; no shared 9-12 skills section exists outside the course overview. Page markers carry the same running header on every page (no grade information), so grade is taken from section headings and codes.",
+ "labels": [
+  {
+   "units": "u1-u170",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, intro, coding scheme, progression table"
+  },
+  {
+   "units": "u173",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "K-5 section divider"
+  },
+  {
+   "units": "u176",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K (clarifications/examples)"
+  },
+  {
+   "units": "u179-u202",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > American History"
+  },
+  {
+   "units": "u203-u206",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > African American History"
+  },
+  {
+   "units": "u207-u210",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u211",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u212-u213",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u214",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u215-u217",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u218",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u223",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u224-u227",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u228",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u229-u230",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Civics and Government"
+  },
+  {
+   "units": "u231-u232",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u233-u242",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Economics"
+  },
+  {
+   "units": "u245-u266",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Geography"
+  },
+  {
+   "units": "u269",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1"
+  },
+  {
+   "units": "u270-u271",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 (clarifications/examples)"
+  },
+  {
+   "units": "u272-u295",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > American History"
+  },
+  {
+   "units": "u296-u299",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > African American History"
+  },
+  {
+   "units": "u300-u303",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u304",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u305-u306",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u307",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u310-u312",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u313",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u314-u315",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u316",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u317-u318",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u319",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u320-u321",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u322",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u323-u324",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u325",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u328-u330",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u331",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u332-u333",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics and Government"
+  },
+  {
+   "units": "u334",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u335-u348",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics"
+  },
+  {
+   "units": "u349-u364",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography"
+  },
+  {
+   "units": "u367",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2"
+  },
+  {
+   "units": "u368-u369",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 (clarifications/examples)"
+  },
+  {
+   "units": "u370-u397",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > American History"
+  },
+  {
+   "units": "u398-u403",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > African American History"
+  },
+  {
+   "units": "u404-u407",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u408",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u411-u412",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u413",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u414-u416",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u417",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u420",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u421-u422",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u423",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u424-u425",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u426",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u429-u430",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u431",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u432-u434",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics and Government"
+  },
+  {
+   "units": "u435",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u436-u445",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics"
+  },
+  {
+   "units": "u446-u457",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography"
+  },
+  {
+   "units": "u460",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3"
+  },
+  {
+   "units": "u461-u462",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 (clarifications/examples)"
+  },
+  {
+   "units": "u463-u470",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > American History"
+  },
+  {
+   "units": "u471-u474",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > African American History"
+  },
+  {
+   "units": "u477-u480",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u481",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u482-u483",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u484",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u485-u487",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u488",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u489-u490",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u491",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u492-u493",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u494",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u497-u498",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u499",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u500-u501",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u502",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u503-u505",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u506",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u507-u508",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics and Government"
+  },
+  {
+   "units": "u509",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u512-u521",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics"
+  },
+  {
+   "units": "u522-u564",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography"
+  },
+  {
+   "units": "u567",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4"
+  },
+  {
+   "units": "u568-u569",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 (clarifications/examples)"
+  },
+  {
+   "units": "u570-u641",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > American History"
+  },
+  {
+   "units": "u642-u645",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > African American History"
+  },
+  {
+   "units": "u648-u651",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u652",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u653-u655",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u656",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u657-u658",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u659",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u660-u661",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u662",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u663-u665",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u666",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u667-u668",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics and Government"
+  },
+  {
+   "units": "u671",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u672-u677",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics"
+  },
+  {
+   "units": "u678-u685",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Financial Literacy"
+  },
+  {
+   "units": "u686",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u687-u747",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Financial Literacy"
+  },
+  {
+   "units": "u748-u757",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography"
+  },
+  {
+   "units": "u760",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5"
+  },
+  {
+   "units": "u761-u762",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 (clarifications/examples)"
+  },
+  {
+   "units": "u763-u839",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > American History"
+  },
+  {
+   "units": "u842-u845",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > African American History"
+  },
+  {
+   "units": "u846",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u847-u852",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > African American History"
+  },
+  {
+   "units": "u853",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u854-u857",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > African American History"
+  },
+  {
+   "units": "u858",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u859-u862",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Holocaust Education"
+  },
+  {
+   "units": "u863",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u866-u869",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u870",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u871-u872",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u873",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u874-u875",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u876",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u877-u878",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u879",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u882-u884",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u885",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u886-u887",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u888",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u889-u890",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u891",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u892-u893",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u894",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u897-u898",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u899",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u900-u901",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u902",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u903-u905",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u906",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u907-u908",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u909",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u910-u911",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u912",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u915-u916",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u917",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u918-u919",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u920",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u921-u922",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics and Government"
+  },
+  {
+   "units": "u923",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u924-u934",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics"
+  },
+  {
+   "units": "u937-u961",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography"
+  },
+  {
+   "units": "u964",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "6-8 section divider"
+  },
+  {
+   "units": "u967",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band"
+  },
+  {
+   "units": "u968",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 band"
+  },
+  {
+   "units": "u969",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band (clarifications/examples)"
+  },
+  {
+   "units": "u970-u974",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u975",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u976-u979",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u980",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u983-u984",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u985",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u986-u994",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u995",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u996-u997",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u998",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u999-u1000",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u1001",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u1002-u1007",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u1008",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > African American History (clarifications/examples)"
+  },
+  {
+   "units": "u1009-u1012",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > African American History"
+  },
+  {
+   "units": "u1013-u1016",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 6-8 band > Holocaust Education"
+  },
+  {
+   "units": "u1017",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band > Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u1020",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6"
+  },
+  {
+   "units": "u1021-u1022",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 (clarifications/examples)"
+  },
+  {
+   "units": "u1023-u1126",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > World History"
+  },
+  {
+   "units": "u1127-u1130",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1131",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1134-u1135",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1136",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1137-u1138",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1139",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1140-u1141",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1142",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1143-u1164",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1165-u1226",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography"
+  },
+  {
+   "units": "u1229-u1232",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History of Communism"
+  },
+  {
+   "units": "u1233",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u1236",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7"
+  },
+  {
+   "units": "u1237-u1238",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 (clarifications/examples)"
+  },
+  {
+   "units": "u1239-u1242",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1243",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1246-u1247",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1248",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1249-u1250",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1251",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1252-u1253",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1254",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1255-u1256",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1257",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1260-u1261",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1262",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1263-u1264",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1265",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1266-u1267",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1268",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1271-u1272",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1273",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1274-u1275",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1276",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1277-u1278",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1279",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1280-u1282",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1283",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1286-u1287",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1288-u1289",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1290-u1291",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1292",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1293-u1294",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1295",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1296-u1297",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1298",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1301-u1302",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1303",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1304-u1305",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1306",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1307-u1308",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1309",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1310-u1311",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1312",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1313-u1314",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1315",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1318-u1321",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1322",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1323-u1324",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1325",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1326-u1327",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1328",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1331-u1332",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1333",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1336",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1337-u1338",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1339",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1340-u1341",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1342",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1343-u1344",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1345",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1348-u1349",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1350",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1351-u1352",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1353",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1354-u1355",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1356",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1357-u1358",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1359",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1362-u1363",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1364",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1365-u1366",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1367",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1368-u1369",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1370",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1371-u1373",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1374",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1377-u1378",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1379",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1380-u1381",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1382",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1383-u1384",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics and Government"
+  },
+  {
+   "units": "u1385",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1388-u1424",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics"
+  },
+  {
+   "units": "u1425-u1457",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography"
+  },
+  {
+   "units": "u1458-u1461",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History of Communism"
+  },
+  {
+   "units": "u1462",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u1465",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8"
+  },
+  {
+   "units": "u1466-u1467",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 (clarifications/examples)"
+  },
+  {
+   "units": "u1468-u1596",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > American History"
+  },
+  {
+   "units": "u1597-u1601",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1602",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1603-u1604",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1605",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1608-u1609",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1610",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1611-u1613",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1614",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1615-u1616",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1617",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1618-u1619",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1620",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1621-u1624",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1625",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1628-u1629",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1630",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1631-u1633",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics and Government"
+  },
+  {
+   "units": "u1634",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u1635-u1651",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics"
+  },
+  {
+   "units": "u1652-u1738",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Financial Literacy"
+  },
+  {
+   "units": "u1741-u1783",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography"
+  },
+  {
+   "units": "u1786-u1789",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History of Communism"
+  },
+  {
+   "units": "u1790",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u1793",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "9-12 section divider"
+  },
+  {
+   "units": "u1796-u1799",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "9-12 Course Overview (graduation requirements, assessments)"
+  },
+  {
+   "units": "u1800-u1992",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History"
+  },
+  {
+   "units": "u1995-u1998",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u1999",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2000-u2001",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2002",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2003-u2004",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2007",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2008-u2009",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2010",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2011-u2012",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2013",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2014-u2015",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2016",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2019-u2020",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2021",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2022-u2023",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2024",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2025-u2026",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2027",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2028-u2031",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2034",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2035-u2039",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2040",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2041-u2042",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2043",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2044-u2045",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2048",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2049-u2050",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2051",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2052-u2053",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2054",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2055-u2056",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2057-u2060",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2061-u2062",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2063",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2064-u2065",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2066",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2067-u2068",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2069",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2072-u2073",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2074",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2075",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2076",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2077-u2078",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2079",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2082-u2083",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2084",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2085-u2087",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2088",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2089-u2093",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2096",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2097-u2098",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2099",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2100-u2101",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2102",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2103-u2104",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2107",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2108-u2109",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2110",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2111-u2112",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2113",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2114-u2115",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2118",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2119-u2120",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2121",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2122-u2123",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2124",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2125-u2133",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2134",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2135-u2136",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2137",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2138-u2140",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2143",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2144-u2145",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2146",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2147-u2150",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2151",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2152-u2153",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2154",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2155-u2156",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2159",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2160-u2161",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2162",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2163-u2166",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2167",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2168-u2169",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2172",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2173-u2176",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2177",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2178-u2179",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "African American History"
+  },
+  {
+   "units": "u2180",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "African American History (clarifications/examples)"
+  },
+  {
+   "units": "u2183-u2422",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History"
+  },
+  {
+   "units": "u2425-u2427",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2428",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2429-u2430",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2431",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2432-u2433",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2434",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2435-u2436",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2437",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2440-u2441",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2442",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2443-u2444",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2445",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2446-u2447",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2448",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2449-u2450",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2451",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2454-u2455",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2456",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2457",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2458",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2459-u2460",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2461",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2462-u2463",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2464",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2467-u2469",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2470",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2471-u2472",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2473-u2475",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2478-u2479",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2480",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2481-u2482",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2483",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2484-u2485",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2486",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2489-u2490",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2491-u2492",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2493-u2494",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2495",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2496-u2512",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2513-u2515",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2516-u2518",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2519",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2520-u2521",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2522",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2525-u2526",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2527",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2528-u2529",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2530",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2531-u2532",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2533",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2536-u2537",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2538",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2539-u2540",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2541",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2542-u2543",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2544",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2547",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2548",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2549",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2550",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2551",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2552",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2555",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2556",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2557",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2558",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2559-u2560",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2561",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2562-u2563",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2564",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2567-u2570",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2571",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2572",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2573",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2574",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2575",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2578",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2579",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2580",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2581",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2582",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2583",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2584",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2585",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2588-u2589",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2590",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2591-u2592",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2593",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2594-u2595",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2596",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2597",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2598",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2601-u2602",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2603",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2604-u2605",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2606",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2607-u2608",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2609",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2610-u2611",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2612",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2615",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2616",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2617",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2618",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2619-u2620",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2621",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2624-u2626",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2627",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2628",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2629",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2630-u2631",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2632",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2635",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2636",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2637-u2638",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2639",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2640",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2641",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2644-u2645",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2646",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2647",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2648",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2649",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2650",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2651",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2652",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2655",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2656",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2657-u2658",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2659",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2660-u2661",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2662",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2663-u2664",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2665",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2668-u2671",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2672",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2673-u2674",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2675",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2676-u2677",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2678",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2681",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2682",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2683-u2684",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2685",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2686-u2687",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2688",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2691-u2692",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2693",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2694",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2695",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2696",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2697",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2700",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2701",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2702-u2704",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2705",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2706",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2707",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2710-u2711",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2712",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2713",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2714",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2715-u2718",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2719",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2722",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2723",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2724",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2725",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2726-u2727",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2728",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2731-u2732",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2733",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2734-u2735",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2736",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2737-u2738",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2739",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2742-u2744",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2745",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2746-u2747",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2748",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2749-u2750",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2751",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2752-u2754",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2755",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2758-u2759",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2760",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2761-u2764",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2765",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2766",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2767",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2770",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2771",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2772-u2773",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2774",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2775",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2776",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2777-u2778",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "standards",
+   "section": "History of Communism"
+  },
+  {
+   "units": "u2779",
+   "grades": "9-12",
+   "course": "History of Communism",
+   "cat": "examples",
+   "section": "History of Communism (clarifications/examples)"
+  },
+  {
+   "units": "u2782-u2786",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2787",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2788-u2789",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2790",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2791-u2792",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2793",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2796-u2797",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2798",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2799-u2800",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2801",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2802-u2803",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2804",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2805-u2806",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2809",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2810-u2812",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2813",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2814-u2815",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2816",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2817-u2818",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2821",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2822-u2823",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2824",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2825-u2826",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2827",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2828-u2829",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2830",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2831-u2832",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2833",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2836-u2837",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2838",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2839-u2840",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2841",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2842-u2843",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2844",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2845-u2846",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2847",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2850-u2851",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2852",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2853-u2854",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2855",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2856-u2857",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2858",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2861-u2862",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2863",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2864-u2866",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2867",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2868-u2869",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2870",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2873-u2874",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2875",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2876-u2877",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2878",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2879-u2880",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "standards",
+   "section": "Holocaust Education"
+  },
+  {
+   "units": "u2881",
+   "grades": "9-12",
+   "course": "Holocaust Education",
+   "cat": "examples",
+   "section": "Holocaust Education (clarifications/examples)"
+  },
+  {
+   "units": "u2884-u2887",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2888",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2889-u2890",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2891",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2892-u2893",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2894",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2895-u2896",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2899",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2900-u2901",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2902",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2903-u2905",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2906",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2907-u2908",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2911-u2912",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2913-u2914",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2915",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2916-u2917",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2918",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2919-u2920",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2921-u2924",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2925-u2926",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2927",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2928-u2929",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2930",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2931-u2932",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2933",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2934-u2935",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2938",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2939-u2940",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2941",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2942-u2943",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2944",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2945-u2946",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2947",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2950-u2951",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2952",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2953-u2955",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2956",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2957-u2958",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2959",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2960-u2961",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2964",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2965-u2966",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2967",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2968-u2969",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2970",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2971-u2972",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2975",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2976-u2977",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2978",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2979-u2980",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2981",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2982-u2983",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2984",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2987",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2988",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2989-u2990",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2991",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2992-u2993",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2994",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u2995-u2996",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u2999",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3000-u3001",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3002",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3003-u3004",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3005",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3006-u3008",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3011",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3012-u3013",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3014",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3015-u3016",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3017",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3018-u3019",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3020",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3021-u3022",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "Civics and Government"
+  },
+  {
+   "units": "u3025",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "Civics and Government (clarifications/examples)"
+  },
+  {
+   "units": "u3028-u3107",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics"
+  },
+  {
+   "units": "u3110-u3113",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3114",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3115-u3116",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3117",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3118-u3125",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3126",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3127-u3128",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3131-u3132",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3133-u3134",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3135",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3136-u3139",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3140-u3142",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3143-u3144",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3145-u3151",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3152-u3153",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3154",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3155-u3156",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3157",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3158-u3159",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3160-u3162",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3165-u3166",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3167",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3168-u3169",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3170",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3171-u3172",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3173",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3174-u3175",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3178",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3179",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3180",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3181",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3182-u3183",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3184-u3185",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3186-u3188",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3189",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3190-u3194",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3195-u3197",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3198-u3200",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3201-u3202",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3203",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3204-u3205",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3206-u3208",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3209-u3210",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3213-u3216",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3217-u3218",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3219-u3221",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3222-u3223",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3224-u3225",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3226-u3227",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3228-u3232",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3233-u3234",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3235",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3236-u3237",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3238-u3239",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3240-u3241",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3242",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3243",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3244",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3247-u3248",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3249",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3250-u3252",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3253",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3254-u3255",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3256",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3257-u3258",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3259",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3260-u3261",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3264-u3266",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3267-u3268",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3269",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3270-u3271",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3272-u3273",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3274-u3275",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3276-u3277",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3278-u3279",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3280",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3283-u3284",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3285",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3286-u3287",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3288",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3289-u3291",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3292",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3293-u3294",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3295",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3298-u3299",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3300",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3301-u3302",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3303",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3304-u3305",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3306-u3308",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3309-u3310",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3311",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3312-u3313",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3314-u3316",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3319-u3320",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3321",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3322-u3323",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3324-u3326",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3327-u3328",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3329-u3330",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3331-u3332",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3333",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3334-u3335",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3336-u3338",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3341-u3342",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3343-u3346",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3347-u3348",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3349-u3351",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3352-u3353",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3354",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3355-u3356",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3357",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3358-u3359",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3362",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3363-u3365",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3366",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3367-u3368",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3369-u3371",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3372-u3373",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3374-u3375",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3376-u3377",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3380-u3381",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3382-u3383",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3384-u3386",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3387-u3388",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3389-u3390",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3391-u3392",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3393-u3395",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3396-u3397",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3398",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3399-u3400",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3403-u3405",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3406-u3407",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3408",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3409-u3410",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3411",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3412-u3413",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3414-u3415",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3416-u3417",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3418",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3419-u3420",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3423",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3424-u3427",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3428-u3429",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3430-u3431",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3432",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3433",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3434-u3436",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3439-u3440",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3441-u3442",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3443-u3444",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3445-u3447",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3448-u3449",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3450-u3452",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3453-u3454",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3455",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3456",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3457-u3460",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3461-u3462",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3463-u3465",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3466",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3467-u3469",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3470-u3471",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3472",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3473-u3474",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3475",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3478-u3479",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3480",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3481",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3482",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3483",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy"
+  },
+  {
+   "units": "u3484-u3486",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy (clarifications/examples)"
+  },
+  {
+   "units": "u3489-u3571",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography"
+  },
+  {
+   "units": "u3574-u3610",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities"
+  },
+  {
+   "units": "u3613-u4078",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology"
+  },
+  {
+   "units": "u4081-u4263",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology"
+  }
+ ],
+ "issues": [
+  "u1-u172: Cover, TOC, statutory introduction and coding scheme are document-wide backup (grades 'all'); the K-12 progression table (u149-u170) lost its shaded cells in extraction, only the strand names remain (the C index of each strand cell hints at the first grade, e.g. R7 C7 World History starts at grade 6, R17 C5 Financial Literacy starts at grade 4); labeled backup.",
+  "u173, u964, u1793: part dividers ('Standards for Social Studies K-5', 'Social Studies 6-8', 'Social Studies Grades 9-12') labeled backup with the band grades.",
+  "u177-u178, u270-u271, u368-u369, u461-u462, u568-u569, u761-u762, u969, u1021-u1022, u1237-u1238, u1466-u1467: 'instructional time will emphasize' narratives labeled examples (content narrative); u968 (local control paragraph for the 6-8 band) labeled backup.",
+  "Throughout K-8 and 9-12: benchmark codes (SS.x.y.n.m) and benchmark text are separate side-by-side units and their order is often swapped or the code precedes/follows the wrong text (e.g. u180-u195, u198-u206, u273-u284); all are labeled standards within the same strand, no grade ambiguity results.",
+  "u226, u1623: unit mixes the end of a Benchmark Clarification with the next benchmark code (SS.K.CG.2.4, SS.8.CG.2.5); labeled standards (units are not split).",
+  "u3294-u3295: 'Clarification 1/2' (SS.912.FL.5.2) lacks the 'Benchmark Clarifications:' lead-in; labeled examples. Several clarification/example blocks continue across pages or are split into continuation units without a marker (e.g. u2060, u2492, u2514-u2515, u3132, u3141, u3214-u3215, u3325-u3326, u3344-u3345, u3485); continuation units are labeled examples with the block they belong to.",
+  "u3250, u3289, u3363: source typo 'SS.91.FL.4/5/6' for SS.912.FL.x; treated as 912 (Financial Literacy course).",
+  "u3887-u3911 vs u3912: SS.912.P.11 and SS.912.P.12 carry the same title text in the source (memory); labeled as in source, Psychology course.",
+  "u970-u1017 (SS.68.AA, SS.68.HE): grades 6-8 band content that the document says is generally taught in grade 8 / grades 6-8 depending on district; labeled grades '6-8', course null.",
+  "u1800-u1992 etc.: 9-12 courses are labeled grades 9-12 with the course title as written in the document; the 9-12 Course Overview (u1796-u1799, graduation credits and assessments) is backup 9-12 with no course.",
+  "u2715 (SS.912.HC.8.5), u2507-u2508 (HC.3.6-3.7), u2757 etc.: some benchmarks consist only of code+text with no clarification; no extraction problem, noted for completeness.",
+  "u1788-u1789, u1129-u1130 and similar: benchmark code and statement text are in one split unit pair (code unit followed by continuation line); labeled standards.",
+  "Guide check: state guide row clusters K,1-8,9-12 and listed topics/courses all confirmed; document additionally has a 6-8 band (African American History, Holocaust Education) not tied to one grade."
+ ]
+}

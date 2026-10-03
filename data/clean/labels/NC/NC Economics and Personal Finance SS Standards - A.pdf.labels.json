@@ -1,0 +1,69 @@
+{
+ "state": "NC",
+ "file": "NC Economics and Personal Finance SS Standards - A.pdf",
+ "structure": "High-school course file. Page 1: title, course overview narrative, LEA disclaimer, strand legend. No Inquiry table; five strands E, IE, MCM, FP, CC. Then Standards | Objectives table: column 1 = standard (e.g. AH.B.1), column 2 = bulleted objectives (AH.B.1.1 ...). Header row repeats on each page; page-break fragments appear as stray small tables.",
+ "labels": [
+  {
+   "units": "u1-u2",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Title: Economics and Personal Finance"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Course overview narrative"
+  },
+  {
+   "units": "u5-u10",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "backup",
+   "section": "LEA disclaimer, strand legend (E, IE, MCM, FP, CC)"
+  },
+  {
+   "units": "u11-u25",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "EPF.E strand and EPF.IE.1 start"
+  },
+  {
+   "units": "u26-u33",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "EPF.IE strand"
+  },
+  {
+   "units": "u34-u45",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "EPF.MCM strand"
+  },
+  {
+   "units": "u46-u47",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "EPF.FP strand"
+  },
+  {
+   "units": "u48-u55",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "EPF.CC strand"
+  }
+ ],
+ "issues": [
+  "Title u1 begins with stray word 'Give' ('Give North Carolina Content Standards ...').",
+  "u38-u39: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade.",
+  "No Inquiry strand in this course; no shared inquiry table.",
+  "u30-u33: page 4 table has no row R2 (extraction); EPF.IE.1 is complete on page 3 (u26-u27)."
+ ]
+}

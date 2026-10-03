@@ -920,9 +920,9 @@
    "11-12"
   ],
   "files": {
-   "OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx": "skip: same standards as master PDF in other formats/subsets",
+   "OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx": "use",
    "SocialStudiesScopeandSequence2020Web_dd2e73.pdf": "skip: same standards as master PDF in other formats/subsets",
-   "ospi_socstudies_standards_2019_7b61b4.pdf": "use",
+   "ospi_socstudies_standards_2019_7b61b4.pdf": "skip: same standards as the Word master; PDF puts several grades in one table cell, the Word version keeps grades in separate cells",
    "ss-standards-2019_grades-6-8_civics_de7415.pdf": "skip: same standards as master PDF in other formats/subsets",
    "ss-standards-2019_grades-6-8_economics_b7b91f.pdf": "skip: same standards as master PDF in other formats/subsets",
    "ss-standards-2019_grades-6-8_geography_503913.pdf": "skip: same standards as master PDF in other formats/subsets",

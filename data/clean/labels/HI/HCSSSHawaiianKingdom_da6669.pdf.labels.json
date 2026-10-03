@@ -1,0 +1,389 @@
+{
+ "state": "HI",
+ "file": "HCSSSHawaiianKingdom_da6669.pdf",
+ "structure": "Social studies standards with a common layout: u1 = course title; first table = 'Inquiry Standards' (Anchor Standards 1-5, codes SS.6-8.n.m, anchor standard names split across rows of C1); then numbered Themes. Each Theme: a header row (Theme N + title), 'Sample Compelling Questions' row (label split into 'Sample Compelling' / 'Questions' cells plus bullets), a 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (History/Civics/Geography/Economics) with Anchor Standard number and name split into following C1 rows, C2 topic, C3 'Content Standard SS.7HHK.t.a.n' statement, C4 bullet sample content/concepts. Grade 7 course 'History of the Hawaiian Kingdom' (codes SS.7HHK).",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Unification of the Hawaiian Kingdom: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Unification of the Hawaiian Islands"
+  },
+  {
+   "units": "u47",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Unification of the Hawaiian Kingdom > Unification of the Hawaiian Islands: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Unification of the Hawaiian Islands"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Arrival of James Cook"
+  },
+  {
+   "units": "u54",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Unification of the Hawaiian Kingdom > Arrival of James Cook: sample content/concepts"
+  },
+  {
+   "units": "u55-u57",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Arrival of James Cook"
+  },
+  {
+   "units": "u58-u59",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Hawaiian Kingdom Under Kamehameha I"
+  },
+  {
+   "units": "u60",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Unification of the Hawaiian Kingdom > Hawaiian Kingdom Under Kamehameha I: sample content/concepts"
+  },
+  {
+   "units": "u61-u63",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Unification of the Hawaiian Kingdom > Hawaiian Kingdom Under Kamehameha I"
+  },
+  {
+   "units": "u64",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Hawaiian Kingdom Under Kamehameha I"
+  },
+  {
+   "units": "u65",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom"
+  },
+  {
+   "units": "u66-u68",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Developing Hawaiian Kingdom: sample compelling questions"
+  },
+  {
+   "units": "u69-u75",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom"
+  },
+  {
+   "units": "u76-u77",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > End of the Kapu System"
+  },
+  {
+   "units": "u78",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Developing Hawaiian Kingdom > End of the Kapu System: sample content/concepts"
+  },
+  {
+   "units": "u79-u82",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > End of the Kapu System"
+  },
+  {
+   "units": "u83-u84",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Arrival of Missionaries"
+  },
+  {
+   "units": "u85",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Developing Hawaiian Kingdom > Arrival of Missionaries: sample content/concepts"
+  },
+  {
+   "units": "u86-u89",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Arrival of Missionaries"
+  },
+  {
+   "units": "u90-u91",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Development of a Market Economy"
+  },
+  {
+   "units": "u92",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Developing Hawaiian Kingdom > Development of a Market Economy: sample content/concepts"
+  },
+  {
+   "units": "u93-u96",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Development of a Market Economy"
+  },
+  {
+   "units": "u97-u98",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Western Influence"
+  },
+  {
+   "units": "u99",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Developing Hawaiian Kingdom > Western Influence: sample content/concepts"
+  },
+  {
+   "units": "u100-u103",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Developing Hawaiian Kingdom > Western Influence"
+  },
+  {
+   "units": "u104",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Western Influence"
+  },
+  {
+   "units": "u105",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom"
+  },
+  {
+   "units": "u106-u108",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Late Hawaiian Kingdom: sample compelling questions"
+  },
+  {
+   "units": "u109-u115",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom"
+  },
+  {
+   "units": "u116-u117",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Mass Immigration"
+  },
+  {
+   "units": "u118",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Late Hawaiian Kingdom > Mass Immigration: sample content/concepts"
+  },
+  {
+   "units": "u119-u123",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Mass Immigration"
+  },
+  {
+   "units": "u124-u125",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Constitutional Monarchy"
+  },
+  {
+   "units": "u126",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Late Hawaiian Kingdom > Constitutional Monarchy: sample content/concepts"
+  },
+  {
+   "units": "u127-u130",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Constitutional Monarchy"
+  },
+  {
+   "units": "u131-u132",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Changes in Land Tenure"
+  },
+  {
+   "units": "u133",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "The Late Hawaiian Kingdom > Changes in Land Tenure: sample content/concepts"
+  },
+  {
+   "units": "u134-u136",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "The Late Hawaiian Kingdom > Changes in Land Tenure"
+  },
+  {
+   "units": "u137",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Changes in Land Tenure"
+  },
+  {
+   "units": "u138",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom"
+  },
+  {
+   "units": "u139-u141",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Overthrow of the Hawaiian Kingdom: sample compelling questions"
+  },
+  {
+   "units": "u142-u148",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom"
+  },
+  {
+   "units": "u149-u150",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom > Causes of the Overthrow"
+  },
+  {
+   "units": "u151",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Overthrow of the Hawaiian Kingdom > Causes of the Overthrow: sample content/concepts"
+  },
+  {
+   "units": "u152-u154",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom > Causes of the Overthrow"
+  },
+  {
+   "units": "u155-u156",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom > Overthrow"
+  },
+  {
+   "units": "u157",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Overthrow of the Hawaiian Kingdom > Overthrow: sample content/concepts"
+  },
+  {
+   "units": "u158-u159",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Overthrow of the Hawaiian Kingdom > Overthrow"
+  }
+ ],
+ "issues": [
+  "Grade assignment: course is grade 7 (codes SS.7HHK, state guide: Grade 7 Hawaiian Kingdom); the inquiry standards table is headed 'Grades 6-8 Inquiry Standards' so u2-u32 are labeled 6-8.",
+  "Anchor-standard names for each content row are split across later C1 rows (e.g. u48-u50) and interleave with row content; labeled standards."
+ ]
+}

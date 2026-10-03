@@ -1,0 +1,307 @@
+{
+ "state": "HI",
+ "file": "HCSSSgrK_26da93.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades K-2 Inquiry Standards' (Anchor Standards 1-5, codes SS.K-2.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.K.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together"
+  },
+  {
+   "units": "u35-u36",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Working Together: sample compelling questions"
+  },
+  {
+   "units": "u37-u43",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together"
+  },
+  {
+   "units": "u44-u45",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together > Rights and Responsibilities"
+  },
+  {
+   "units": "u46",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Working Together > Rights and Responsibilities: sample content/concepts"
+  },
+  {
+   "units": "u47-u49",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together > Rights and Responsibilities"
+  },
+  {
+   "units": "u50-u51",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together > Principles and Values of Democracy"
+  },
+  {
+   "units": "u52",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Working Together > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u53-u55",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Working Together > Principles and Values of Democracy"
+  },
+  {
+   "units": "u56",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Working Together > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u57",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Principles and Values of Democracy"
+  },
+  {
+   "units": "u58",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family"
+  },
+  {
+   "units": "u59-u61",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Myself and My Family: sample compelling questions"
+  },
+  {
+   "units": "u62-u68",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family"
+  },
+  {
+   "units": "u69-u70",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Chronological Thinking"
+  },
+  {
+   "units": "u71",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Myself and My Family > Chronological Thinking: sample content/concepts"
+  },
+  {
+   "units": "u72-u75",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Chronological Thinking"
+  },
+  {
+   "units": "u76-u77",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Cause and Effect"
+  },
+  {
+   "units": "u78",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Myself and My Family > Cause and Effect: sample content/concepts"
+  },
+  {
+   "units": "u79-u82",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Cause and Effect"
+  },
+  {
+   "units": "u83-u84",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Differing Viewpoints"
+  },
+  {
+   "units": "u85",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Myself and My Family > Differing Viewpoints: sample content/concepts"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Myself and My Family > Differing Viewpoints"
+  },
+  {
+   "units": "u88",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Differing Viewpoints"
+  },
+  {
+   "units": "u89",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places"
+  },
+  {
+   "units": "u90-u92",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Needs and Wants, Spaces and Places: sample compelling questions"
+  },
+  {
+   "units": "u93-u99",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places"
+  },
+  {
+   "units": "u100-u101",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Choice"
+  },
+  {
+   "units": "u102",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Needs and Wants, Spaces and Places > Choice: sample content/concepts"
+  },
+  {
+   "units": "u103-u106",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Choice"
+  },
+  {
+   "units": "u107-u108",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Limited Resources and Choice"
+  },
+  {
+   "units": "u109",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Needs and Wants, Spaces and Places > Limited Resources and Choice: sample content/concepts"
+  },
+  {
+   "units": "u110-u113",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Limited Resources and Choice"
+  },
+  {
+   "units": "u114-u115",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Spatial Representation"
+  },
+  {
+   "units": "u116",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Needs and Wants, Spaces and Places > Spatial Representation: sample content/concepts"
+  },
+  {
+   "units": "u117-u122",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Spatial Representation"
+  },
+  {
+   "units": "u123-u124",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Movement"
+  },
+  {
+   "units": "u125",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Needs and Wants, Spaces and Places > Movement: sample content/concepts"
+  },
+  {
+   "units": "u126-u129",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Needs and Wants, Spaces and Places > Movement"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u18, u20: Anchor Standard 3 (Creating Claims) shows 'Begins in grades 3-5' placeholders instead of standards; labeled K-2 standards.",
+  "u35: 'Sample Compelling Questions' label is in one cell (Theme 1), elsewhere it is split across two cells."
+ ]
+}

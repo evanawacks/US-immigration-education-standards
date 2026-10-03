@@ -1,0 +1,60 @@
+{
+ "state": "NC",
+ "file": "NC 3rd SS Standards - A.pdf",
+ "structure": "Grade-level course file. Page 1: title line (u1), course overview narrative, LEA disclaimer, strand legend (I, B, C&G, E, G, H). Then an Inquiry band table (Category | Indicator; codes I.1.n; band K-2, 3-5 or 6-8 as headed) shared by all grades in the band. Then a Standards | Objectives table: column 1 = strand standard (e.g. 4.B.1 = grade.strand.standard), column 2 = bulleted objectives (4.B.1.1 ...). Strands B, C&G, E, G, H. Table header row repeats on each page. Page-break table fragments (stray bullets and split sentence tails) appear as extra small tables.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Title: Third Grade Social Studies"
+  },
+  {
+   "units": "u2-u4",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Course overview narrative (Our Community and State)"
+  },
+  {
+   "units": "u7-u9",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "LEA disclaimer, inquiry-strand note, strand legend"
+  },
+  {
+   "units": "u10",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 3-5 heading"
+  },
+  {
+   "units": "u11-u13",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry indicators usage note"
+  },
+  {
+   "units": "u14-u27",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry 3-5 table (I.1.1-I.1.11)"
+  },
+  {
+   "units": "u30-u52",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Content standards table 3.B, 3.C&G, 3.E, 3.G, 3.H"
+  }
+ ],
+ "issues": [
+  "u40-u46: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade (3.B.1.1 tail; 3.G.1 statement text split across a table).",
+  "Page 4/5: 3.G.1 statement appears both in u38-u39 and in fragmented form u43-u46."
+ ]
+}

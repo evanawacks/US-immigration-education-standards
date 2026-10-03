@@ -1,0 +1,319 @@
+{
+ "state": "HI",
+ "file": "HCSSSPacificIslandStudies_d85df1.pdf",
+ "structure": "Social studies standards with a common layout: u1 = course title; first table = 'Inquiry Standards' (Anchor Standards 1-5, codes SS.6-8.n.m, anchor standard names split across rows of C1); then numbered Themes. Each Theme: a header row (Theme N + title), 'Sample Compelling Questions' row (label split into 'Sample Compelling' / 'Questions' cells plus bullets), a 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (History/Civics/Geography/Economics) with Anchor Standard number and name split into following C1 rows, C2 topic, C3 'Content Standard SS.7PI.t.a.n' statement, C4 bullet sample content/concepts. Middle school course 'Pacific Island Studies' (codes SS.7PI).",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Early Pacific People: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Origins and Settlement"
+  },
+  {
+   "units": "u47",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Early Pacific People > Origins and Settlement: sample content/concepts"
+  },
+  {
+   "units": "u48-u53",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Origins and Settlement"
+  },
+  {
+   "units": "u54-u55",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Technology and Innovation"
+  },
+  {
+   "units": "u56",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Early Pacific People > Technology and Innovation: sample content/concepts"
+  },
+  {
+   "units": "u57-u61",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Technology and Innovation"
+  },
+  {
+   "units": "u62-u63",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Social Organization and Cultural Expression"
+  },
+  {
+   "units": "u64",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Early Pacific People > Social Organization and Cultural Expression: sample content/concepts"
+  },
+  {
+   "units": "u65-u67",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Early Pacific People > Social Organization and Cultural Expression"
+  },
+  {
+   "units": "u68",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Theme 2 > Social Organization and Cultural Expression"
+  },
+  {
+   "units": "u69",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific"
+  },
+  {
+   "units": "u70-u72",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Historic Encounters and Exchanges in the Pacific: sample compelling questions"
+  },
+  {
+   "units": "u73-u79",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific"
+  },
+  {
+   "units": "u80-u81",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Early Encounters"
+  },
+  {
+   "units": "u82",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Historic Encounters and Exchanges in the Pacific > Early Encounters: sample content/concepts"
+  },
+  {
+   "units": "u83-u86",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Early Encounters"
+  },
+  {
+   "units": "u87-u88",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Foreign Exchanges"
+  },
+  {
+   "units": "u89",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Historic Encounters and Exchanges in the Pacific > Foreign Exchanges: sample content/concepts"
+  },
+  {
+   "units": "u90-u93",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Foreign Exchanges"
+  },
+  {
+   "units": "u94-u95",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Colonization and Imperialism through WWII"
+  },
+  {
+   "units": "u96",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Historic Encounters and Exchanges in the Pacific > Colonization and Imperialism through WWII: sample content/concepts"
+  },
+  {
+   "units": "u97-u99",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Colonization and Imperialism through WWII"
+  },
+  {
+   "units": "u100-u101",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Post-WWII Political Development"
+  },
+  {
+   "units": "u102",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "Historic Encounters and Exchanges in the Pacific > Post-WWII Political Development: sample content/concepts"
+  },
+  {
+   "units": "u103-u105",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Historic Encounters and Exchanges in the Pacific > Post-WWII Political Development"
+  },
+  {
+   "units": "u106",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "Theme 3 > Post-WWII Political Development"
+  },
+  {
+   "units": "u107",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific"
+  },
+  {
+   "units": "u108-u110",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "The Contemporary Pacific: sample compelling questions"
+  },
+  {
+   "units": "u111-u117",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific"
+  },
+  {
+   "units": "u118-u119",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Impact of Militarization and Nuclear Testing"
+  },
+  {
+   "units": "u120",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "The Contemporary Pacific > Impact of Militarization and Nuclear Testing: sample content/concepts"
+  },
+  {
+   "units": "u121-u125",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Impact of Militarization and Nuclear Testing"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Contemporary Migration"
+  },
+  {
+   "units": "u128",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "The Contemporary Pacific > Contemporary Migration: sample content/concepts"
+  },
+  {
+   "units": "u129-u132",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Contemporary Migration"
+  },
+  {
+   "units": "u133-u134",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Contemporary Solutions"
+  },
+  {
+   "units": "u135",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "examples",
+   "section": "The Contemporary Pacific > Contemporary Solutions: sample content/concepts"
+  },
+  {
+   "units": "u136-u138",
+   "grades": "7",
+   "course": "Pacific Island Studies",
+   "cat": "standards",
+   "section": "The Contemporary Pacific > Contemporary Solutions"
+  }
+ ],
+ "issues": [
+  "Grade assignment: codes SS.7PI indicate grade 7; treated as course 'Pacific Island Studies' at grade 7. Inquiry standards table (u2-u32) is headed 'Grades 6-8 Inquiry Standards': labeled 6-8, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards."
+ ]
+}

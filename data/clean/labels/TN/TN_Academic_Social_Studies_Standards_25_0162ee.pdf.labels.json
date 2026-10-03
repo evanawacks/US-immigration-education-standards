@@ -1,0 +1,6936 @@
+{
+ "state": "TN",
+ "file": "TN_Academic_Social_Studies_Standards_25_0162ee.pdf",
+ "structure": "Single combined K-12 PDF (Tennessee Academic Standards for Social Studies, adopted 2024, effective 2027-28). Front matter (u1-u275): table of contents, introduction/process, how-to-read, Table 1 (grade titles and descriptions K-8), Table 2 (high-school course codes, titles, descriptions), Table 3 (i.e./e.g./such as conventions), Table 4 (seven content strands C,E,G,H,P,T,TCA), Table 5 (six Social Studies Practices SSP.01-SSP.06 in grade bands K-2, 3-5, 6-8, 9-12), narrative on literacy, geography, Tennessee history and civics requirements. Grade/course sections follow, each starting with a title unit ('K | KINDERGARTEN...', '1 | FIRST GRADE...', ... '8 | EIGHTH GRADE...', then 'Grades 9-12 AAH | AFRICAN AMERICAN HISTORY' and 'AH | ANCIENT HISTORY', CI, E, P, S, TN, GC, US, WG, W), a Course Description paragraph, and a repeating page footer legend of strand codes (C/E/G/H/P/T/TCA). Each grade or course repeats the applicable SSP table (K-2 copy in K, 1, 2; 3-5 copy in 3, 4, 5; 6-8 copy in 6, 7, 8; 9-12 copy in every HS course) introduced by an 'Social Studies Practices Overview' note. Content is organised into topics (era or domain), each introduced by a unit 'Topic title Overview: ...' (or a separate heading unit followed by 'Overview: ...'), then a table with columns Standard Number | Content Standard | Content Strand. Standard codes are grade.number for K-8 (K.01, 3.14, 8.74; grade 5 spans Part 1 Tennessee History 5.01-5.31 and Part 2 Geography 5.32-5.46) and COURSE.number for HS courses (AAH.01-56, AH.01-60, CI.01-22, E.01-47, P.01-61, S.01-43, TN.01-67, GC.01-47, US.01-94, WG.01-46, W.01-76). K-2 tables have no strand column (strands are the topic headings Culture, Economics, Geography, Government and Civics, History). Examples/lists appear inline inside standards text with 'e.g.', 'i.e.', 'including:' and bullet lists, so are not separate units. T.C.A. statute citations are inline in standards text. In extraction, the code cell is often placed after (or on a different row than) its standard text cell in the HS tables and in grades 5-8, so the code and text units are adjacent but code order can be shifted by one row; both are labeled standards for the same topic.",
+ "labels": [
+  {
+   "units": "u1-u24",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u25-u55",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: process, purpose, how to read the standards"
+  },
+  {
+   "units": "u56-u57",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 1 caption"
+  },
+  {
+   "units": "u58-u60",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 1 column headers"
+  },
+  {
+   "units": "u61-u63",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade K title and description"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 1 title and description"
+  },
+  {
+   "units": "u67-u69",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 2 title and description"
+  },
+  {
+   "units": "u70-u72",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 3 title and description"
+  },
+  {
+   "units": "u73-u75",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 4 title and description"
+  },
+  {
+   "units": "u76-u80",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 5 title and description"
+  },
+  {
+   "units": "u81-u83",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 6 title and description"
+  },
+  {
+   "units": "u84-u86",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 7 title and description"
+  },
+  {
+   "units": "u87-u89",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Table 1 Standards Progression and Course Descriptions: grade 8 title and description"
+  },
+  {
+   "units": "u90-u94",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 2 caption and column headers"
+  },
+  {
+   "units": "u95-u97",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: African American History"
+  },
+  {
+   "units": "u98-u100",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Ancient History"
+  },
+  {
+   "units": "u101-u103",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Contemporary Issues"
+  },
+  {
+   "units": "u104-u106",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Economics"
+  },
+  {
+   "units": "u107-u109",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: United States Government and Civics"
+  },
+  {
+   "units": "u110-u112",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Psychology"
+  },
+  {
+   "units": "u113-u115",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Sociology"
+  },
+  {
+   "units": "u116-u118",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: Tennessee History"
+  },
+  {
+   "units": "u119-u121",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: United States History and Geography: Post-Reconstruction to the Present"
+  },
+  {
+   "units": "u122-u124",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: World Geography"
+  },
+  {
+   "units": "u125-u127",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "examples",
+   "section": "Table 2 Course Descriptions: World History and Geography: The Industrial Revolution to the Contemporary World"
+  },
+  {
+   "units": "u128",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 2 note (required for graduation)"
+  },
+  {
+   "units": "u129-u155",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Examples found within the standards (Table 3: i.e., e.g., such as)"
+  },
+  {
+   "units": "u156-u184",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Content strands (Table 4)"
+  },
+  {
+   "units": "u185-u186",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Social Studies Practices introduction"
+  },
+  {
+   "units": "u187-u193",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 5 caption and column headers"
+  },
+  {
+   "units": "u194",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.01: grades K-2"
+  },
+  {
+   "units": "u195",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.01: grades 3-5"
+  },
+  {
+   "units": "u196",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.01: grades 6-8"
+  },
+  {
+   "units": "u197",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.01: grades 9-12"
+  },
+  {
+   "units": "u198",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.01: practice code"
+  },
+  {
+   "units": "u199",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.02: grades K-2"
+  },
+  {
+   "units": "u200",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.02: grades 3-5"
+  },
+  {
+   "units": "u201",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.02: grades 6-8"
+  },
+  {
+   "units": "u202",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.02: grades 9-12"
+  },
+  {
+   "units": "u203",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.02: practice code"
+  },
+  {
+   "units": "u204-u209",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 5 column headers (continued)"
+  },
+  {
+   "units": "u210",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.03: grades K-2"
+  },
+  {
+   "units": "u211",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.03: grades 3-5"
+  },
+  {
+   "units": "u212",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.03: grades 6-8"
+  },
+  {
+   "units": "u213",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.03: grades 9-12"
+  },
+  {
+   "units": "u214",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.03: practice code"
+  },
+  {
+   "units": "u215",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.04: grades K-2"
+  },
+  {
+   "units": "u216",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.04: grades 3-5"
+  },
+  {
+   "units": "u217",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.04: grades 6-8"
+  },
+  {
+   "units": "u218",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.04: grades 9-12"
+  },
+  {
+   "units": "u219",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.04: practice code"
+  },
+  {
+   "units": "u220-u225",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 5 column headers (continued)"
+  },
+  {
+   "units": "u226",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.05: grades K-2"
+  },
+  {
+   "units": "u227",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.05: grades 3-5"
+  },
+  {
+   "units": "u228",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.05: grades 6-8"
+  },
+  {
+   "units": "u229",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.05: grades 9-12"
+  },
+  {
+   "units": "u230",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.05: practice code"
+  },
+  {
+   "units": "u231-u236",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 5 column headers (continued)"
+  },
+  {
+   "units": "u237",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.06: grades K-2"
+  },
+  {
+   "units": "u238",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.06: grades 3-5"
+  },
+  {
+   "units": "u239",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.06: grades 6-8"
+  },
+  {
+   "units": "u240",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.06: grades 9-12"
+  },
+  {
+   "units": "u241",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Table 5 Social Studies Practices SSP.06: practice code"
+  },
+  {
+   "units": "u242-u275",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Interconnectedness, literacy, geography, Tennessee history and civics requirements (general narrative, Table 6)"
+  },
+  {
+   "units": "u276",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: heading 'K | KINDERGARTEN SOCIAL STUDIES'"
+  },
+  {
+   "units": "u277",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: heading 'The World Around Us'"
+  },
+  {
+   "units": "u278",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: course description"
+  },
+  {
+   "units": "u279",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u280",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Social Studies Practices overview note"
+  },
+  {
+   "units": "u281-u283",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u284-u289",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u290",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u291-u293",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u294-u299",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u300",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u301",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Culture (topic heading with overview)"
+  },
+  {
+   "units": "u302-u304",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u305-u308",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Culture"
+  },
+  {
+   "units": "u309",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (topic heading with overview)"
+  },
+  {
+   "units": "u310-u312",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u313-u322",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics"
+  },
+  {
+   "units": "u323",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u324",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (topic heading with overview)"
+  },
+  {
+   "units": "u325-u327",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u328-u333",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography"
+  },
+  {
+   "units": "u334",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u335",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Government and Civics (topic heading with overview)"
+  },
+  {
+   "units": "u336-u338",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u339-u346",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Government and Civics"
+  },
+  {
+   "units": "u347",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u348",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (topic heading with overview)"
+  },
+  {
+   "units": "u349-u351",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: table column header"
+  },
+  {
+   "units": "u352-u359",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History"
+  },
+  {
+   "units": "u360",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: content strand key (page footer)"
+  },
+  {
+   "units": "u361",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: heading '1 | FIRST GRADE SOCIAL STUDIES Tennessee’s Place in the Unit'"
+  },
+  {
+   "units": "u362",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: course description"
+  },
+  {
+   "units": "u363",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u364",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Social Studies Practices overview note"
+  },
+  {
+   "units": "u365-u367",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u368-u373",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u374",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u375-u380",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u381",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u382",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Culture (topic heading with overview)"
+  },
+  {
+   "units": "u383-u385",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u386-u391",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Culture"
+  },
+  {
+   "units": "u392",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u393",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (topic heading with overview)"
+  },
+  {
+   "units": "u394-u396",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u397-u406",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics"
+  },
+  {
+   "units": "u407",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u408",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (topic heading with overview)"
+  },
+  {
+   "units": "u409-u411",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u412-u421",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography"
+  },
+  {
+   "units": "u422",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u423",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Government and Civics (topic heading with overview)"
+  },
+  {
+   "units": "u424-u426",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u427-u440",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Government and Civics"
+  },
+  {
+   "units": "u441",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u442",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (topic heading with overview)"
+  },
+  {
+   "units": "u443-u445",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: table column header"
+  },
+  {
+   "units": "u446-u453",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History"
+  },
+  {
+   "units": "u454",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: content strand key (page footer)"
+  },
+  {
+   "units": "u455",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: grade/course title with course description"
+  },
+  {
+   "units": "u456",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u457",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: Social Studies Practices overview note"
+  },
+  {
+   "units": "u458-u460",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u461-u466",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u467",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u468-u473",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u474",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u475",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Culture (topic heading with overview)"
+  },
+  {
+   "units": "u476-u478",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u479-u482",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Culture"
+  },
+  {
+   "units": "u483",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u484",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (topic heading with overview)"
+  },
+  {
+   "units": "u485-u487",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u488-u501",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics"
+  },
+  {
+   "units": "u502",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u503",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (topic heading with overview)"
+  },
+  {
+   "units": "u504-u506",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u507-u520",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography"
+  },
+  {
+   "units": "u521",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u522-u524",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u525-u526",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography"
+  },
+  {
+   "units": "u527",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u528",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Government and Civics (topic heading with overview)"
+  },
+  {
+   "units": "u529-u531",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u532-u547",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Government and Civics"
+  },
+  {
+   "units": "u548",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u549",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (topic heading with overview)"
+  },
+  {
+   "units": "u550-u552",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: table column header"
+  },
+  {
+   "units": "u553-u558",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History"
+  },
+  {
+   "units": "u559",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: content strand key (page footer)"
+  },
+  {
+   "units": "u560",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: grade/course title with course description"
+  },
+  {
+   "units": "u561",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u562",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Social Studies Practices overview note"
+  },
+  {
+   "units": "u563-u565",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u566-u571",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u572",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u573-u575",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u576-u581",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u582",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u583",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Indigenous Peoples Through European Exploration (Prior to 1585) (topic heading with overview)"
+  },
+  {
+   "units": "u584-u587",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u588-u602",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Indigenous Peoples Through European Exploration (Prior to 1585)"
+  },
+  {
+   "units": "u603",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u604",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Early North American Settlements (1585-1600s) (topic heading with overview)"
+  },
+  {
+   "units": "u605-u608",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u609-u632",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Early North American Settlements (1585-1600s)"
+  },
+  {
+   "units": "u633",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u634",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > The War for Independence (1700-1780s) (topic heading with overview)"
+  },
+  {
+   "units": "u635-u638",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u639-u653",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > The War for Independence (1700-1780s)"
+  },
+  {
+   "units": "u654",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u655-u658",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u659-u667",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > The War for Independence (1700-1780s)"
+  },
+  {
+   "units": "u668",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u669",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Creating a New Government (1781-1789) (topic heading with overview)"
+  },
+  {
+   "units": "u670-u673",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u674-u685",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Creating a New Government (1781-1789)"
+  },
+  {
+   "units": "u686",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u687-u689",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u690-u692",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Creating a New Government (1781-1789)"
+  },
+  {
+   "units": "u693",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u694",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Growth of the Republic (1800s-1850) (topic heading with overview)"
+  },
+  {
+   "units": "u695-u698",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: table column header"
+  },
+  {
+   "units": "u699-u719",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Growth of the Republic (1800s-1850)"
+  },
+  {
+   "units": "u720",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: content strand key (page footer)"
+  },
+  {
+   "units": "u721",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: heading '4 | FOURTH GRADE SOCIAL STUDIES The History of the United St'"
+  },
+  {
+   "units": "u722",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: course description"
+  },
+  {
+   "units": "u723",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u724",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Social Studies Practices overview note"
+  },
+  {
+   "units": "u725-u727",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u728-u733",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u734",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u735-u737",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u738-u743",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u744",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u745",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The United States Prior the Civil War (1820s-1861) (topic heading with overview)"
+  },
+  {
+   "units": "u746-u749",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u750-u758",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The United States Prior the Civil War (1820s-1861)"
+  },
+  {
+   "units": "u759",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u760-u763",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u764-u769",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The United States Prior the Civil War (1820s-1861)"
+  },
+  {
+   "units": "u770",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u771",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The Civil War and Reconstruction (1861-1870s) (topic heading with overview)"
+  },
+  {
+   "units": "u772-u775",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u776-u799",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The Civil War and Reconstruction (1861-1870s)"
+  },
+  {
+   "units": "u800",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u801-u804",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u805-u819",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > The Civil War and Reconstruction (1861-1870s)"
+  },
+  {
+   "units": "u820",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u821",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Industrialization, the Gilded Age, and the Progressive Era (1870s-1910s) (topic heading with overview)"
+  },
+  {
+   "units": "u822-u825",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u826-u846",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Industrialization, the Gilded Age, and the Progressive Era (1870s-1910s)"
+  },
+  {
+   "units": "u847",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u848-u851",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u852-u857",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Industrialization, the Gilded Age, and the Progressive Era (1870s-1910s)"
+  },
+  {
+   "units": "u858",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u859",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > World War I and Between the Wars (1920s-1940s) (topic heading with overview)"
+  },
+  {
+   "units": "u860-u863",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u864-u878",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > World War I and Between the Wars (1920s-1940s)"
+  },
+  {
+   "units": "u879",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u880-u883",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u884-u892",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > World War I and Between the Wars (1920s-1940s)"
+  },
+  {
+   "units": "u893",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u894",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > World War II (1930s-1940s) (topic heading with overview)"
+  },
+  {
+   "units": "u895-u898",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u899-u913",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > World War II (1930s-1940s)"
+  },
+  {
+   "units": "u914",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u915",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Post-World War II and the Civil Rights Movement (1940s-1960s) (topic heading with overview)"
+  },
+  {
+   "units": "u916-u919",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: table column header"
+  },
+  {
+   "units": "u920-u928",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Post-World War II and the Civil Rights Movement (1940s-1960s)"
+  },
+  {
+   "units": "u929",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: content strand key (page footer)"
+  },
+  {
+   "units": "u930",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History: grade/course title with course description"
+  },
+  {
+   "units": "u931",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u932",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: Social Studies Practices overview note"
+  },
+  {
+   "units": "u933-u935",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u936-u941",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u942",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u943-u945",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u946-u951",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u952",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u953",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee Prior to Statehood (pre-1796) (topic heading with overview)"
+  },
+  {
+   "units": "u954-u957",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u958-u984",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee Prior to Statehood (pre-1796)"
+  },
+  {
+   "units": "u985",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u986",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Statehood and Early History (1796-1849) (topic heading with overview)"
+  },
+  {
+   "units": "u987-u990",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u991-u1008",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Statehood and Early History (1796-1849)"
+  },
+  {
+   "units": "u1009",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u1010",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History: heading 'Tennessee During the Civil War Era (1850s-1900)'"
+  },
+  {
+   "units": "u1011",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee During the Civil War Era (1850s-1900) > topic overview"
+  },
+  {
+   "units": "u1012-u1015",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u1016-u1036",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee During the Civil War Era (1850s-1900)"
+  },
+  {
+   "units": "u1037",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u1038-u1041",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u1042-u1044",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee During the Civil War Era (1850s-1900)"
+  },
+  {
+   "units": "u1045",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u1046",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee in the 20th Century (1900-present) (topic heading with overview)"
+  },
+  {
+   "units": "u1047-u1050",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u1051-u1071",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee in the 20th Century (1900-present)"
+  },
+  {
+   "units": "u1072",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u1073-u1076",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: table column header"
+  },
+  {
+   "units": "u1077-u1079",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 1 Tennessee History > Tennessee in the 20th Century (1900-present)"
+  },
+  {
+   "units": "u1080",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 1 Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u1081",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography: heading '5 | FIFTH GRADE SOCIAL STUDIES, PART 2 Geography'"
+  },
+  {
+   "units": "u1082",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 Part 2 Geography: course description"
+  },
+  {
+   "units": "u1083",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u1084",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > Geography: Maps and Globes (topic heading with overview)"
+  },
+  {
+   "units": "u1085-u1088",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: table column header"
+  },
+  {
+   "units": "u1089-u1106",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > Geography: Maps and Globes"
+  },
+  {
+   "units": "u1107",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u1108",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > United States and Tennessee Geography (topic heading with overview)"
+  },
+  {
+   "units": "u1109-u1112",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: table column header"
+  },
+  {
+   "units": "u1113-u1127",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > United States and Tennessee Geography"
+  },
+  {
+   "units": "u1128",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u1129",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > World Geography (topic heading with overview)"
+  },
+  {
+   "units": "u1130-u1133",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: table column header"
+  },
+  {
+   "units": "u1134-u1145",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Part 2 Geography > World Geography"
+  },
+  {
+   "units": "u1146",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 Part 2 Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u1147",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: grade/course title with course description"
+  },
+  {
+   "units": "u1148",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1149",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Social Studies Practices overview note"
+  },
+  {
+   "units": "u1150-u1152",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1153-u1158",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1159",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1160-u1162",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1163-u1168",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1169",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1170",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Foundations of Human Civilization: c. 10,000-3500 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1171-u1174",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1175-u1183",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Foundations of Human Civilization: c. 10,000-3500 BC"
+  },
+  {
+   "units": "u1184",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1185-u1188",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1189-u1191",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Foundations of Human Civilization: c. 10,000-3500 BC"
+  },
+  {
+   "units": "u1192",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1193",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Mesopotamia: c. 3500-1700 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1194-u1197",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1198-u1218",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Mesopotamia: c. 3500-1700 BC"
+  },
+  {
+   "units": "u1219",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1220-u1223",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1224-u1229",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Mesopotamia: c. 3500-1700 BC"
+  },
+  {
+   "units": "u1230",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1231",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Egypt: c. 3000-700 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1232-u1235",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1236-u1250",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Egypt: c. 3000-700 BC"
+  },
+  {
+   "units": "u1251",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1252-u1255",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1256-u1261",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Egypt: c. 3000-700 BC"
+  },
+  {
+   "units": "u1262",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1263",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Israel: c. 2000-500 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1264-u1267",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1268-u1282",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Israel: c. 2000-500 BC"
+  },
+  {
+   "units": "u1283",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1284",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient India: c. 2500-400 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1285-u1288",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1289-u1303",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient India: c. 2500-400 BC"
+  },
+  {
+   "units": "u1304",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1305-u1308",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1309-u1314",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient India: c. 2500-400 BC"
+  },
+  {
+   "units": "u1315",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1316",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: heading 'Ancient China: c. 2500 BC-200 AD'"
+  },
+  {
+   "units": "u1317",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Ancient China: c. 2500 BC-200 AD > topic overview"
+  },
+  {
+   "units": "u1318-u1321",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1322-u1339",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient China: c. 2500 BC-200 AD"
+  },
+  {
+   "units": "u1340",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1341-u1344",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1345-u1350",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient China: c. 2500 BC-200 AD"
+  },
+  {
+   "units": "u1351",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1352",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Greece: c. 800-300 BC (topic heading with overview)"
+  },
+  {
+   "units": "u1353-u1356",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1357-u1368",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Greece: c. 800-300 BC"
+  },
+  {
+   "units": "u1369",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1370-u1373",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1374-u1391",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Greece: c. 800-300 BC"
+  },
+  {
+   "units": "u1392",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1393",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Rome: c. 500 BC-500 AD (topic heading with overview)"
+  },
+  {
+   "units": "u1394-u1397",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1398-u1409",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Rome: c. 500 BC-500 AD"
+  },
+  {
+   "units": "u1410",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1411-u1414",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1415-u1432",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Rome: c. 500 BC-500 AD"
+  },
+  {
+   "units": "u1433",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1434-u1437",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: table column header"
+  },
+  {
+   "units": "u1438-u1443",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Ancient Rome: c. 500 BC-500 AD"
+  },
+  {
+   "units": "u1444",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: content strand key (page footer)"
+  },
+  {
+   "units": "u1445",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: heading '7 | SEVENTH GRADE SOCIAL STUDIES World History and Geography'"
+  },
+  {
+   "units": "u1446",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: course description"
+  },
+  {
+   "units": "u1447",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: course description (continued)"
+  },
+  {
+   "units": "u1448",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1449",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: Social Studies Practices overview note"
+  },
+  {
+   "units": "u1450-u1452",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1453-u1458",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1459",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1460-u1462",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1463-u1468",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1469",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1470",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Byzantine Empire: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1471-u1474",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1475-u1483",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Byzantine Empire: 400-1500s AD"
+  },
+  {
+   "units": "u1484",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1485",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia and North Africa: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1486-u1489",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1490-u1501",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia and North Africa: 400-1500s AD"
+  },
+  {
+   "units": "u1502",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1503-u1506",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1507-u1512",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia and North Africa: 400-1500s AD"
+  },
+  {
+   "units": "u1513",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1514",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > West Africa: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1515-u1518",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1519-u1536",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > West Africa: 400-1500s AD"
+  },
+  {
+   "units": "u1537",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1538",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > East Asia: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1539-u1542",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1543-u1563",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > East Asia: 400-1500s AD"
+  },
+  {
+   "units": "u1564",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1565-u1568",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1569-u1580",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > East Asia: 400-1500s AD"
+  },
+  {
+   "units": "u1581",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1582",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Middle Ages in Western Europe: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1583-u1586",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1587-u1607",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Middle Ages in Western Europe: 400-1500s AD"
+  },
+  {
+   "units": "u1608",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1609-u1612",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1613-u1630",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Middle Ages in Western Europe: 400-1500s AD"
+  },
+  {
+   "units": "u1631",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1632",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: heading 'Early Modern Europe: 1400-1700s AD'"
+  },
+  {
+   "units": "u1633",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Early Modern Europe: 1400-1700s AD > The Renaissance > topic overview"
+  },
+  {
+   "units": "u1634-u1637",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1638-u1652",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Early Modern Europe: 1400-1700s AD > The Renaissance"
+  },
+  {
+   "units": "u1653",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1654",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: heading 'The Protestant Reformation'"
+  },
+  {
+   "units": "u1655-u1658",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1659-u1676",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Early Modern Europe: 1400-1700s AD > The Protestant Reformation"
+  },
+  {
+   "units": "u1677",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1678",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: heading 'The Scientific Revolution'"
+  },
+  {
+   "units": "u1679-u1682",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1683-u1691",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Early Modern Europe: 1400-1700s AD > The Scientific Revolution"
+  },
+  {
+   "units": "u1692",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1693",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Indigenous Civilizations of the Americas: 400-1500s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1694-u1697",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1698-u1712",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Indigenous Civilizations of the Americas: 400-1500s AD"
+  },
+  {
+   "units": "u1713",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1714",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > The Age of Exploration: 1400-1700s AD (topic heading with overview)"
+  },
+  {
+   "units": "u1715-u1718",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1719-u1736",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > The Age of Exploration: 1400-1700s AD"
+  },
+  {
+   "units": "u1737",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1738-u1741",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: table column header"
+  },
+  {
+   "units": "u1742-u1744",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > The Age of Exploration: 1400-1700s AD"
+  },
+  {
+   "units": "u1745",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: content strand key (page footer)"
+  },
+  {
+   "units": "u1746",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: grade/course title with course description"
+  },
+  {
+   "units": "u1747",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1748",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: Social Studies Practices overview note"
+  },
+  {
+   "units": "u1749-u1751",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1752-u1757",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1758",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1759-u1761",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1762-u1767",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u1768",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1769",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Colonization (1607-1750) (topic heading with overview)"
+  },
+  {
+   "units": "u1770-u1773",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1774-u1791",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Colonization (1607-1750)"
+  },
+  {
+   "units": "u1792",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1793-u1796",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1797-u1814",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Colonization (1607-1750)"
+  },
+  {
+   "units": "u1815",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1816",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The American Revolution (1700-1783) (topic heading with overview)"
+  },
+  {
+   "units": "u1817-u1820",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1821-u1838",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The American Revolution (1700-1783)"
+  },
+  {
+   "units": "u1839",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1840-u1843",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1844-u1852",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The American Revolution (1700-1783)"
+  },
+  {
+   "units": "u1853",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1854",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The New Nation (1775-1800) (topic heading with overview)"
+  },
+  {
+   "units": "u1855-u1858",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1859-u1873",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The New Nation (1775-1800)"
+  },
+  {
+   "units": "u1874",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1875-u1878",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1879-u1884",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The New Nation (1775-1800)"
+  },
+  {
+   "units": "u1885",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1886",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Growth of a Young Nation (1800-1820) (topic heading with overview)"
+  },
+  {
+   "units": "u1887-u1890",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1891-u1908",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Growth of a Young Nation (1800-1820)"
+  },
+  {
+   "units": "u1909",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1910-u1913",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1914-u1934",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Growth of a Young Nation (1800-1820)"
+  },
+  {
+   "units": "u1935",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1936",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Sectionalism and Reform (1790s-1850s) (topic heading with overview)"
+  },
+  {
+   "units": "u1937-u1940",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1941-u1958",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Sectionalism and Reform (1790s-1850s)"
+  },
+  {
+   "units": "u1959",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1960-u1963",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1964-u1975",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Sectionalism and Reform (1790s-1850s)"
+  },
+  {
+   "units": "u1976",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1977",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Expansion and Division of the Nation (1820s-1860s) (topic heading with overview)"
+  },
+  {
+   "units": "u1978-u1981",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u1982-u1996",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Expansion and Division of the Nation (1820s-1860s)"
+  },
+  {
+   "units": "u1997",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u1998-u2001",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u2002-u2016",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Expansion and Division of the Nation (1820s-1860s)"
+  },
+  {
+   "units": "u2017",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u2018",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The Civil War (1860-1865) (topic heading with overview)"
+  },
+  {
+   "units": "u2019-u2022",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u2023-u2041",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The Civil War (1860-1865)"
+  },
+  {
+   "units": "u2042",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u2043-u2046",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u2047-u2052",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > The Civil War (1860-1865)"
+  },
+  {
+   "units": "u2053",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u2054",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Reconstruction (1865-1877) (topic heading with overview)"
+  },
+  {
+   "units": "u2055-u2058",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: table column header"
+  },
+  {
+   "units": "u2059-u2073",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Reconstruction (1865-1877)"
+  },
+  {
+   "units": "u2074",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: content strand key (page footer)"
+  },
+  {
+   "units": "u2075",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History: heading 'Grades 9-12 AAH | AFRICAN AMERICAN HISTORY'"
+  },
+  {
+   "units": "u2076",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "AAH African American History: course description"
+  },
+  {
+   "units": "u2077",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2078",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: Social Studies Practices overview note"
+  },
+  {
+   "units": "u2079-u2081",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2082-u2087",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2088",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2089-u2091",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2092-u2097",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2098",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2099",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African History and the Origins of the African Slave Trade (pre-1619) (topic heading with overview)"
+  },
+  {
+   "units": "u2100-u2103",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2104-u2121",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African History and the Origins of the African Slave Trade (pre-1619)"
+  },
+  {
+   "units": "u2122",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2123",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History: heading 'African American Life Prior to the Civil War (1619-1860)'"
+  },
+  {
+   "units": "u2124",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "AAH African American History > African American Life Prior to the Civil War (1619-1860) > topic overview"
+  },
+  {
+   "units": "u2125-u2128",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2129-u2152",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life Prior to the Civil War (1619-1860)"
+  },
+  {
+   "units": "u2153",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2154-u2157",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2158-u2166",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life Prior to the Civil War (1619-1860)"
+  },
+  {
+   "units": "u2167",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2168",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African Americans during the Civil War and Reconstruction (1861-1890s) (topic heading with overview)"
+  },
+  {
+   "units": "u2169-u2172",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2173-u2190",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African Americans during the Civil War and Reconstruction (1861-1890s)"
+  },
+  {
+   "units": "u2191",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2192",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life after Emancipation through World War I (1890s-1920s) (topic heading with overview)"
+  },
+  {
+   "units": "u2193-u2196",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2197-u2217",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life after Emancipation through World War I (1890s-1920s)"
+  },
+  {
+   "units": "u2218",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2219-u2222",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2223-u2228",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life after Emancipation through World War I (1890s-1920s)"
+  },
+  {
+   "units": "u2229",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2230",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African Americans and the Harlem Renaissance (1920s-1930s) (topic heading with overview)"
+  },
+  {
+   "units": "u2231-u2234",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2235-u2246",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African Americans and the Harlem Renaissance (1920s-1930s)"
+  },
+  {
+   "units": "u2247",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2248",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life during the Great Depression and World War II (1930s-1940s) (topic heading with overview)"
+  },
+  {
+   "units": "u2249-u2252",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2253-u2267",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Life during the Great Depression and World War II (1930s-1940s)"
+  },
+  {
+   "units": "u2268",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2269",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > The Modern Civil Rights Movement (1950s-1960s) (topic heading with overview)"
+  },
+  {
+   "units": "u2270-u2273",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2274-u2300",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > The Modern Civil Rights Movement (1950s-1960s)"
+  },
+  {
+   "units": "u2301",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2302",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Issues in Contemporary Times (1970s-present) (topic heading with overview)"
+  },
+  {
+   "units": "u2303-u2306",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: table column header"
+  },
+  {
+   "units": "u2307-u2324",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "AAH African American History > African American Issues in Contemporary Times (1970s-present)"
+  },
+  {
+   "units": "u2325",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "backup",
+   "section": "AAH African American History: content strand key (page footer)"
+  },
+  {
+   "units": "u2326",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History: grade/course title with course description"
+  },
+  {
+   "units": "u2327",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2328",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: Social Studies Practices overview note"
+  },
+  {
+   "units": "u2329-u2331",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2332-u2337",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2338",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2339-u2341",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2342-u2347",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2348",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2349",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Human Origins and Early Civilizations: Prehistory to 1000 BC (topic heading with overview)"
+  },
+  {
+   "units": "u2350-u2353",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2354-u2377",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Human Origins and Early Civilizations: Prehistory to 1000 BC"
+  },
+  {
+   "units": "u2378",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2379",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Early Civilizations and the Rise of Religious Traditions: 1000 BC-500 AD (topic heading with overview)"
+  },
+  {
+   "units": "u2380-u2383",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2384-u2404",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Early Civilizations and the Rise of Religious Traditions: 1000 BC-500 AD"
+  },
+  {
+   "units": "u2405",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2406-u2409",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2410-u2421",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Early Civilizations and the Rise of Religious Traditions: 1000 BC-500 AD"
+  },
+  {
+   "units": "u2422",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2423",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > The Classical Civilizations of Greece and Rome: 1000-500 BC (topic heading with overview)"
+  },
+  {
+   "units": "u2424-u2427",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2428-u2451",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > The Classical Civilizations of Greece and Rome: 1000-500 BC"
+  },
+  {
+   "units": "u2452",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2453-u2456",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2457-u2474",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > The Classical Civilizations of Greece and Rome: 1000-500 BC"
+  },
+  {
+   "units": "u2475",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2476",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Post-Classical Civilizations: 300-1000 AD (topic heading with overview)"
+  },
+  {
+   "units": "u2477-u2480",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2481-u2507",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Post-Classical Civilizations: 300-1000 AD"
+  },
+  {
+   "units": "u2508",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2509-u2512",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2513-u2524",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Post-Classical Civilizations: 300-1000 AD"
+  },
+  {
+   "units": "u2525",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2526",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Regional Interactions: 1000-1500 AD (topic heading with overview)"
+  },
+  {
+   "units": "u2527-u2530",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2531-u2560",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Regional Interactions: 1000-1500 AD"
+  },
+  {
+   "units": "u2561",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2562-u2565",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: table column header"
+  },
+  {
+   "units": "u2566-u2577",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "standards",
+   "section": "AH Ancient History > Regional Interactions: 1000-1500 AD"
+  },
+  {
+   "units": "u2578",
+   "grades": "9-12",
+   "course": "Ancient History",
+   "cat": "backup",
+   "section": "AH Ancient History: content strand key (page footer)"
+  },
+  {
+   "units": "u2579",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues: heading 'CI | CONTEMPORARY ISSUES'"
+  },
+  {
+   "units": "u2580",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "examples",
+   "section": "CI Contemporary Issues: course description"
+  },
+  {
+   "units": "u2581",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2582",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: Social Studies Practices overview note"
+  },
+  {
+   "units": "u2583-u2585",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2586-u2591",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2592",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2593-u2595",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2596-u2601",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2602",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2603",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Source Analysis Skills (topic heading with overview)"
+  },
+  {
+   "units": "u2604-u2607",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2608-u2625",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Source Analysis Skills"
+  },
+  {
+   "units": "u2626",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2627",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Geography and Environment (topic heading with overview)"
+  },
+  {
+   "units": "u2628-u2631",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2632-u2646",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Geography and Environment"
+  },
+  {
+   "units": "u2647",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2648",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Historical Impacts (topic heading with overview)"
+  },
+  {
+   "units": "u2649-u2652",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2653-u2661",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Historical Impacts"
+  },
+  {
+   "units": "u2662",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2663",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Politics (topic heading with overview)"
+  },
+  {
+   "units": "u2664-u2667",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2668-u2676",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Politics"
+  },
+  {
+   "units": "u2677",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2678",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Culture and Innovation (topic heading with overview)"
+  },
+  {
+   "units": "u2679-u2682",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: table column header"
+  },
+  {
+   "units": "u2683-u2697",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "standards",
+   "section": "CI Contemporary Issues > Culture and Innovation"
+  },
+  {
+   "units": "u2698",
+   "grades": "9-12",
+   "course": "Contemporary Issues",
+   "cat": "backup",
+   "section": "CI Contemporary Issues: content strand key (page footer)"
+  },
+  {
+   "units": "u2699",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics: heading 'E | ECONOMICS'"
+  },
+  {
+   "units": "u2700",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "E Economics: course description"
+  },
+  {
+   "units": "u2701",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2702",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: Social Studies Practices overview note"
+  },
+  {
+   "units": "u2703-u2705",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2706-u2711",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2712",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2713-u2715",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2716-u2721",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2722",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2723",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Scarcity and Economic Reasoning (topic heading with overview)"
+  },
+  {
+   "units": "u2724-u2727",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2728-u2751",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Scarcity and Economic Reasoning"
+  },
+  {
+   "units": "u2752",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2753",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Supply and Demand (topic heading with overview)"
+  },
+  {
+   "units": "u2754-u2757",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2758-u2772",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Supply and Demand"
+  },
+  {
+   "units": "u2773",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2774",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Market Structures (topic heading with overview)"
+  },
+  {
+   "units": "u2775-u2778",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2779-u2814",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Market Structures"
+  },
+  {
+   "units": "u2815",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2816",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > The Role of Government (topic heading with overview)"
+  },
+  {
+   "units": "u2817-u2820",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2821-u2850",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > The Role of Government"
+  },
+  {
+   "units": "u2851",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2852",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > National Economic Performance (topic heading with overview)"
+  },
+  {
+   "units": "u2853-u2856",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2857-u2874",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > National Economic Performance"
+  },
+  {
+   "units": "u2875",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2876",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Trade (topic heading with overview)"
+  },
+  {
+   "units": "u2877-u2880",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: table column header"
+  },
+  {
+   "units": "u2881-u2898",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "E Economics > Trade"
+  },
+  {
+   "units": "u2899",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "E Economics: content strand key (page footer)"
+  },
+  {
+   "units": "u2900",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology: heading 'P | PSYCHOLOGY'"
+  },
+  {
+   "units": "u2901",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "P Psychology: course description"
+  },
+  {
+   "units": "u2902",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2903",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: Social Studies Practices overview note"
+  },
+  {
+   "units": "u2904-u2906",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2907-u2912",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2913",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2914-u2916",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2917-u2922",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u2923",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2924",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Scientific Inquiry Domain Research Methods, Measurement, and Statistics (topic heading with overview)"
+  },
+  {
+   "units": "u2925-u2927",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2928-u2947",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Scientific Inquiry Domain Research Methods, Measurement, and Statistics"
+  },
+  {
+   "units": "u2948",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2949",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Biopsychology Domain Biological Bases of Behavior (topic heading with overview)"
+  },
+  {
+   "units": "u2950-u2952",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2953-u2966",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Biopsychology Domain Biological Bases of Behavior"
+  },
+  {
+   "units": "u2967",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2968",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Sensation & Perception (topic heading with overview)"
+  },
+  {
+   "units": "u2969-u2971",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2972-u2981",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Sensation & Perception"
+  },
+  {
+   "units": "u2982",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u2983",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Consciousness (topic heading with overview)"
+  },
+  {
+   "units": "u2984-u2986",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u2987-u3000",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Consciousness"
+  },
+  {
+   "units": "u3001",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3002",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Lifespan Development (topic heading with overview)"
+  },
+  {
+   "units": "u3003-u3005",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u3006-u3025",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Lifespan Development"
+  },
+  {
+   "units": "u3026",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3027",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Social Interactions (topic heading with overview)"
+  },
+  {
+   "units": "u3028-u3030",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u3031-u3040",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Social Interactions"
+  },
+  {
+   "units": "u3041",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3042",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Sociocultural Diversity (topic heading with overview)"
+  },
+  {
+   "units": "u3043-u3045",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u3046-u3051",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Sociocultural Diversity"
+  },
+  {
+   "units": "u3052",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3053",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Learning, Memory, and Intelligence (topic heading with overview)"
+  },
+  {
+   "units": "u3054-u3056",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u3057-u3076",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Learning, Memory, and Intelligence"
+  },
+  {
+   "units": "u3077",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3078",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Psychological Disorders (topic heading with overview)"
+  },
+  {
+   "units": "u3079-u3081",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: table column header"
+  },
+  {
+   "units": "u3082-u3089",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "P Psychology > Psychological Disorders"
+  },
+  {
+   "units": "u3090",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "P Psychology: content strand key (page footer)"
+  },
+  {
+   "units": "u3091",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology: grade/course title with course description"
+  },
+  {
+   "units": "u3092",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3093",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: Social Studies Practices overview note"
+  },
+  {
+   "units": "u3094-u3096",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3097-u3102",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3103",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3104-u3106",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3107-u3112",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3113",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3114",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > The Sociological Point of View (topic heading with overview)"
+  },
+  {
+   "units": "u3115-u3118",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3119-u3139",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > The Sociological Point of View"
+  },
+  {
+   "units": "u3140",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3141",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > The Role of Culture in Society (topic heading with overview)"
+  },
+  {
+   "units": "u3142-u3145",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3146-u3166",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > The Role of Culture in Society"
+  },
+  {
+   "units": "u3167",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3168",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Groups, Deviance, and Social Control (topic heading with overview)"
+  },
+  {
+   "units": "u3169-u3172",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3173-u3199",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Groups, Deviance, and Social Control"
+  },
+  {
+   "units": "u3200",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3201",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Self and Socialization (topic heading with overview)"
+  },
+  {
+   "units": "u3202-u3205",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3206-u3214",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Self and Socialization"
+  },
+  {
+   "units": "u3215",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3216",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Functions and Structures of Social Institutions (topic heading with overview)"
+  },
+  {
+   "units": "u3217-u3220",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3221-u3259",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Functions and Structures of Social Institutions"
+  },
+  {
+   "units": "u3260",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3261",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology: heading 'Stratification and Social Inequality'"
+  },
+  {
+   "units": "u3262",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "S Sociology > Stratification and Social Inequality > topic overview"
+  },
+  {
+   "units": "u3263-u3266",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: table column header"
+  },
+  {
+   "units": "u3267-u3278",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "S Sociology > Stratification and Social Inequality"
+  },
+  {
+   "units": "u3279",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "S Sociology: content strand key (page footer)"
+  },
+  {
+   "units": "u3280",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History: heading 'TN | TENNESSEE HISTORY'"
+  },
+  {
+   "units": "u3281",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "examples",
+   "section": "TN Tennessee History: course description"
+  },
+  {
+   "units": "u3282",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3283-u3284",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: Social Studies Practices overview note"
+  },
+  {
+   "units": "u3285-u3287",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3288-u3293",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3294",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3295-u3297",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3298-u3303",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3304",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3305",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Indigenous Peoples of Tennessee (c. 10,000-1,000 BC) (topic heading with overview)"
+  },
+  {
+   "units": "u3306-u3309",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3310-u3324",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Indigenous Peoples of Tennessee (c. 10,000-1,000 BC)"
+  },
+  {
+   "units": "u3325",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3326",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > The Struggle for Tennessee’s Frontier (1600s-1700s) (topic heading with overview)"
+  },
+  {
+   "units": "u3327-u3330",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3331-u3342",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > The Struggle for Tennessee’s Frontier (1600s-1700s)"
+  },
+  {
+   "units": "u3343",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3344",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History: heading 'From Territory to Statehood (1784-1796)'"
+  },
+  {
+   "units": "u3345",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "examples",
+   "section": "TN Tennessee History > From Territory to Statehood (1784-1796) > topic overview"
+  },
+  {
+   "units": "u3346-u3349",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3350-u3364",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > From Territory to Statehood (1784-1796)"
+  },
+  {
+   "units": "u3365",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3366",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee’s Coming of Age (1796-1812) (topic heading with overview)"
+  },
+  {
+   "units": "u3367-u3370",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3371-u3391",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee’s Coming of Age (1796-1812)"
+  },
+  {
+   "units": "u3392",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3393",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee’s Golden Age (1800-1860) (topic heading with overview)"
+  },
+  {
+   "units": "u3394-u3397",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3398-u3418",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee’s Golden Age (1800-1860)"
+  },
+  {
+   "units": "u3419",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3420",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee: A Time of Troubles (1860-1865) (topic heading with overview)"
+  },
+  {
+   "units": "u3421-u3424",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3425-u3439",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee: A Time of Troubles (1860-1865)"
+  },
+  {
+   "units": "u3440",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3441",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History: heading 'Tennessee during Reconstruction (1865-1880)'"
+  },
+  {
+   "units": "u3442",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "examples",
+   "section": "TN Tennessee History > Tennessee during Reconstruction (1865-1880) > topic overview"
+  },
+  {
+   "units": "u3443-u3446",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3447-u3470",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee during Reconstruction (1865-1880)"
+  },
+  {
+   "units": "u3471",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3472",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee in the New South (1880-1890s) (topic heading with overview)"
+  },
+  {
+   "units": "u3473-u3476",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3477-u3494",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee in the New South (1880-1890s)"
+  },
+  {
+   "units": "u3495",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3496",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History: heading 'Tennessee: Reform and War (1900-1945)'"
+  },
+  {
+   "units": "u3497",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "examples",
+   "section": "TN Tennessee History > Tennessee: Reform and War (1900-1945) > topic overview"
+  },
+  {
+   "units": "u3498-u3501",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3502-u3528",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee: Reform and War (1900-1945)"
+  },
+  {
+   "units": "u3529",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3530",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee in Modern Times (1945-present) (topic heading with overview)"
+  },
+  {
+   "units": "u3531-u3534",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3535-u3552",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee in Modern Times (1945-present)"
+  },
+  {
+   "units": "u3553",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3554-u3557",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: table column header"
+  },
+  {
+   "units": "u3558-u3572",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "standards",
+   "section": "TN Tennessee History > Tennessee in Modern Times (1945-present)"
+  },
+  {
+   "units": "u3573",
+   "grades": "9-12",
+   "course": "Tennessee History",
+   "cat": "backup",
+   "section": "TN Tennessee History: content strand key (page footer)"
+  },
+  {
+   "units": "u3574",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics: heading 'GC | UNITED STATES GOVERNMENT AND CIVICS'"
+  },
+  {
+   "units": "u3575",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "examples",
+   "section": "GC US Government and Civics: course description"
+  },
+  {
+   "units": "u3576",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3577",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: Social Studies Practices overview note"
+  },
+  {
+   "units": "u3578-u3580",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3581-u3586",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3587",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3588-u3590",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3591-u3596",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3597",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3598",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Foundations of Constitutional Government (topic heading with overview)"
+  },
+  {
+   "units": "u3599-u3602",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3603-u3635",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Foundations of Constitutional Government"
+  },
+  {
+   "units": "u3636",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3637",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Legislative Branch (topic heading with overview)"
+  },
+  {
+   "units": "u3638-u3641",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3642-u3662",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Legislative Branch"
+  },
+  {
+   "units": "u3663",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3664",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Executive Branch (topic heading with overview)"
+  },
+  {
+   "units": "u3665-u3668",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3669-u3686",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Executive Branch"
+  },
+  {
+   "units": "u3687",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3688",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Judicial Branch (topic heading with overview)"
+  },
+  {
+   "units": "u3689-u3692",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3693-u3704",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > The Judicial Branch"
+  },
+  {
+   "units": "u3705",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3706",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Civil Rights and Civil Liberties (topic heading with overview)"
+  },
+  {
+   "units": "u3707-u3710",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3711-u3731",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Civil Rights and Civil Liberties"
+  },
+  {
+   "units": "u3732",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3733-u3736",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3737-u3745",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Civil Rights and Civil Liberties"
+  },
+  {
+   "units": "u3746",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3747",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Tennessee State and Local Government (topic heading with overview)"
+  },
+  {
+   "units": "u3748-u3751",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3752-u3760",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Tennessee State and Local Government"
+  },
+  {
+   "units": "u3761",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3762",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Citizen Participation (topic heading with overview)"
+  },
+  {
+   "units": "u3763-u3766",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: table column header"
+  },
+  {
+   "units": "u3767-u3784",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "standards",
+   "section": "GC US Government and Civics > Citizen Participation"
+  },
+  {
+   "units": "u3785",
+   "grades": "9-12",
+   "course": "United States Government and Civics",
+   "cat": "backup",
+   "section": "GC US Government and Civics: content strand key (page footer)"
+  },
+  {
+   "units": "u3786",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography: heading 'US | UNITED STATES HISTORY AND GEOGRAPHY Post-Reconstruction'"
+  },
+  {
+   "units": "u3787",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "examples",
+   "section": "US History and Geography: course description"
+  },
+  {
+   "units": "u3788-u3791",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "examples",
+   "section": "US History and Geography: course description (continued)"
+  },
+  {
+   "units": "u3792",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3793",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: Social Studies Practices overview note"
+  },
+  {
+   "units": "u3794-u3796",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3797-u3802",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3803",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3804-u3806",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3807-u3812",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u3813",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3814",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Rise of Industrialization (1877-1900) (topic heading with overview)"
+  },
+  {
+   "units": "u3815",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography: heading 'Reconstruction'"
+  },
+  {
+   "units": "u3816-u3819",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3820-u3828",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Rise of Industrialization (1877-1900) > Reconstruction"
+  },
+  {
+   "units": "u3829",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography: heading 'Westward Expansion'"
+  },
+  {
+   "units": "u3830-u3833",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3834-u3842",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Rise of Industrialization (1877-1900) > Westward Expansion"
+  },
+  {
+   "units": "u3843",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3844",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography: heading 'Gilded Age'"
+  },
+  {
+   "units": "u3845-u3848",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3849-u3860",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Rise of Industrialization (1877-1900) > Gilded Age"
+  },
+  {
+   "units": "u3861",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3862",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Progressive Era (1890-1920) (topic heading with overview)"
+  },
+  {
+   "units": "u3863-u3866",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3867-u3887",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Progressive Era (1890-1920)"
+  },
+  {
+   "units": "u3888",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3889-u3892",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3893-u3901",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Progressive Era (1890-1920)"
+  },
+  {
+   "units": "u3902",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3903",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Imperialism and World War I (1890-1920) (topic heading with overview)"
+  },
+  {
+   "units": "u3904-u3907",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3908-u3928",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Imperialism and World War I (1890-1920)"
+  },
+  {
+   "units": "u3929",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3930-u3933",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3934-u3939",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Imperialism and World War I (1890-1920)"
+  },
+  {
+   "units": "u3940",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3941",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The 1920s (1920-1929) (topic heading with overview)"
+  },
+  {
+   "units": "u3942-u3945",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3946-u3966",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The 1920s (1920-1929)"
+  },
+  {
+   "units": "u3967",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3968-u3971",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3972-u3983",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The 1920s (1920-1929)"
+  },
+  {
+   "units": "u3984",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u3985",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Great Depression and New Deal (1929-1941) (topic heading with overview)"
+  },
+  {
+   "units": "u3986-u3989",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u3990-u4007",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Great Depression and New Deal (1929-1941)"
+  },
+  {
+   "units": "u4008",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4009",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > World War II (1936-1945) (topic heading with overview)"
+  },
+  {
+   "units": "u4010-u4013",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4014-u4028",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > World War II (1936-1945)"
+  },
+  {
+   "units": "u4029",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4030-u4033",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4034-u4051",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > World War II (1936-1945)"
+  },
+  {
+   "units": "u4052",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4053",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Cold War (1947-1991) (topic heading with overview)"
+  },
+  {
+   "units": "u4054-u4057",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4058-u4072",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Cold War (1947-1991)"
+  },
+  {
+   "units": "u4073",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4074",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > 1950s at Home (1950s-1963) (topic heading with overview)"
+  },
+  {
+   "units": "u4075-u4078",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4079-u4099",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > 1950s at Home (1950s-1963)"
+  },
+  {
+   "units": "u4100",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4101",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Kennedy and Johnson Years (1961-1969) (topic heading with overview)"
+  },
+  {
+   "units": "u4102-u4105",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4106-u4117",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Kennedy and Johnson Years (1961-1969)"
+  },
+  {
+   "units": "u4118",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4119",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Civil Rights Movement (1950s-1960s) (topic heading with overview)"
+  },
+  {
+   "units": "u4120-u4123",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4124-u4141",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > Civil Rights Movement (1950s-1960s)"
+  },
+  {
+   "units": "u4142",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4143",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Vietnam War (1950s-1970s) (topic heading with overview)"
+  },
+  {
+   "units": "u4144-u4147",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4148-u4156",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Vietnam War (1950s-1970s)"
+  },
+  {
+   "units": "u4157",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4158",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Modern United States (1970s-present) (topic heading with overview)"
+  },
+  {
+   "units": "u4159-u4162",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4163-u4180",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Modern United States (1970s-present)"
+  },
+  {
+   "units": "u4181",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4182-u4185",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: table column header"
+  },
+  {
+   "units": "u4186-u4203",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "standards",
+   "section": "US History and Geography > The Modern United States (1970s-present)"
+  },
+  {
+   "units": "u4204",
+   "grades": "9-12",
+   "course": "United States History and Geography: Post-Reconstruction to the Present",
+   "cat": "backup",
+   "section": "US History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4205",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography: heading 'WG | WORLD GEOGRAPHY'"
+  },
+  {
+   "units": "u4206",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "WG World Geography: course description"
+  },
+  {
+   "units": "u4207",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4208",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: Social Studies Practices overview note"
+  },
+  {
+   "units": "u4209-u4211",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4212-u4217",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u4218",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4219-u4221",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4222-u4227",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u4228",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4229",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Geographic Skills and Tools (topic heading with overview)"
+  },
+  {
+   "units": "u4230-u4233",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4234-u4257",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Geographic Skills and Tools"
+  },
+  {
+   "units": "u4258",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4259-u4262",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4263-u4271",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Geographic Skills and Tools"
+  },
+  {
+   "units": "u4272",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4273",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Physical Process, Natural Resources, and the Environment (topic heading with overview)"
+  },
+  {
+   "units": "u4274-u4277",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4278-u4292",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Physical Process, Natural Resources, and the Environment"
+  },
+  {
+   "units": "u4293",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4294",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Population and Migration (topic heading with overview)"
+  },
+  {
+   "units": "u4295-u4298",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4299-u4316",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Population and Migration"
+  },
+  {
+   "units": "u4317",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4318",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography: heading 'Regional Geography'"
+  },
+  {
+   "units": "u4319",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "WG World Geography > Regional Geography > topic overview"
+  },
+  {
+   "units": "u4320-u4323",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4324-u4347",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Regional Geography"
+  },
+  {
+   "units": "u4348",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4349",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Political Geography (topic heading with overview)"
+  },
+  {
+   "units": "u4350-u4353",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4354-u4368",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Political Geography"
+  },
+  {
+   "units": "u4369",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4370",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Economic Development and Interdependence (topic heading with overview)"
+  },
+  {
+   "units": "u4371-u4374",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4375-u4392",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Economic Development and Interdependence"
+  },
+  {
+   "units": "u4393",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4394",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Urbanization (topic heading with overview)"
+  },
+  {
+   "units": "u4395-u4398",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: table column header"
+  },
+  {
+   "units": "u4399-u4413",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "WG World Geography > Urbanization"
+  },
+  {
+   "units": "u4414",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "WG World Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4415",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography: heading 'W | WORLD HISTORY AND GEOGRAPHY'"
+  },
+  {
+   "units": "u4416",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "examples",
+   "section": "W World History and Geography: course description"
+  },
+  {
+   "units": "u4417",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "examples",
+   "section": "W World History and Geography: course description (continued)"
+  },
+  {
+   "units": "u4418",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4419",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: Social Studies Practices overview note"
+  },
+  {
+   "units": "u4420-u4422",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4423-u4428",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u4429",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4430-u4432",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4433-u4438",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Social Studies Practices SSP.01-SSP.06"
+  },
+  {
+   "units": "u4439",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4440",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Age of Revolution (1750-1850) (topic heading with overview)"
+  },
+  {
+   "units": "u4441-u4444",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4445-u4462",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Age of Revolution (1750-1850)"
+  },
+  {
+   "units": "u4463",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4464",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > The Industrial Revolution (1750s-1900s) (topic heading with overview)"
+  },
+  {
+   "units": "u4465-u4468",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4469-u4489",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > The Industrial Revolution (1750s-1900s)"
+  },
+  {
+   "units": "u4490",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4491",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Nationalism and Imperialism (1850-1914) (topic heading with overview)"
+  },
+  {
+   "units": "u4492-u4495",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4496-u4522",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Nationalism and Imperialism (1850-1914)"
+  },
+  {
+   "units": "u4523",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4524-u4527",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4528-u4548",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Nationalism and Imperialism (1850-1914)"
+  },
+  {
+   "units": "u4549",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4550",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > World War I through the Depression (1910s-1930s) (topic heading with overview)"
+  },
+  {
+   "units": "u4551-u4554",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4555-u4572",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > World War I through the Depression (1910s-1930s)"
+  },
+  {
+   "units": "u4573",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4574-u4577",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4578-u4589",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > World War I through the Depression (1910s-1930s)"
+  },
+  {
+   "units": "u4590",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4591",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Rise of Totalitarianism and World War II (1930s-1945) (topic heading with overview)"
+  },
+  {
+   "units": "u4592-u4595",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4596-u4613",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Rise of Totalitarianism and World War II (1930s-1945)"
+  },
+  {
+   "units": "u4614",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4615-u4618",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4619-u4639",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Rise of Totalitarianism and World War II (1930s-1945)"
+  },
+  {
+   "units": "u4640",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4641-u4644",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4645-u4653",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Rise of Totalitarianism and World War II (1930s-1945)"
+  },
+  {
+   "units": "u4654",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4655",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Cold War (1945-1991) (topic heading with overview)"
+  },
+  {
+   "units": "u4656-u4659",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4660-u4683",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Cold War (1945-1991)"
+  },
+  {
+   "units": "u4684",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4685-u4688",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4689-u4694",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Cold War (1945-1991)"
+  },
+  {
+   "units": "u4695",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4696",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Creation of New States, Decolonization and the Creation of New States (1940s-1980s) (topic heading with overview)"
+  },
+  {
+   "units": "u4697-u4700",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4701-u4724",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Creation of New States, Decolonization and the Creation of New States (1940s-1980s)"
+  },
+  {
+   "units": "u4725",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  },
+  {
+   "units": "u4726",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Understanding the Contemporary World (1980s- present) (topic heading with overview)"
+  },
+  {
+   "units": "u4727-u4730",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: table column header"
+  },
+  {
+   "units": "u4731-u4740",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "standards",
+   "section": "W World History and Geography > Understanding the Contemporary World (1980s- present)"
+  },
+  {
+   "units": "u4741",
+   "grades": "9-12",
+   "course": "World History and Geography: The Industrial Revolution to the Contemporary World",
+   "cat": "backup",
+   "section": "W World History and Geography: content strand key (page footer)"
+  }
+ ],
+ "issues": [
+  "u1-u24: Table of contents labeled backup; page numbers refer to the printed document, not the unit order.",
+  "Social Studies Practices (SSP.01-SSP.06) are repeated verbatim in every grade/course section. Each in-section copy is labeled with that section's grade (K, 1, 2, 3, ... 8) or HS course (grades 9-12 with course set); the master Table 5 (u194-u241) is additionally labeled standards with band ranges K-2, 3-5, 6-8, 9-12 (code cells K-12). Assembler may see duplicate SSP text in a grade row because of both Table 5 and the section copy.",
+  "Topic units of the form 'Topic title Overview: ...' merge a topic heading with its overview narrative; because units are not split they are labeled standards (heading + overview). Units that begin with 'Overview:' (heading is a separate unit) are labeled examples (topic overview narrative) and the separate heading unit is standards. Impact: overview narrative text sits in standards for most topics.",
+  "u1633: 'Overview: ...' unit also contains the trailing sub-heading text 'The Renaissance' (extraction merged the sub-heading into the overview); labeled examples. Sub-headings u1654 (The Protestant Reformation) and u1678 (The Scientific Revolution) are standards headings under Early Modern Europe.",
+  "Grade titles merged with course description in one unit (u361, u455, u560, u721, u930, u1081, u1147, u1746, u2326, u3091) are labeled standards (title + description mixed); the description-only units (starting 'Course Description:') are examples.",
+  "Table 1 (u61-u89) and Table 2 (u95-u127) course/grade descriptions in the front matter labeled examples (descriptive narrative, duplicating section course descriptions); Table 1 grade 5 rows u76-u80 cover Part 1 and Part 2, both grade 5.",
+  "Grade 5 is split into Part 1 Tennessee History (5.01-5.31, u930-u1080) and Part 2 Geography (5.32-5.46, u1081-u1146); both labeled grade 5, course null (they are parts of a grade, not named courses).",
+  "Grades 6, 7, 8 titles are 'World History and Geography...' / 'United States History and Geography...' but are grade-level content: course null.",
+  "HS course strings follow Table 2 titles with credit/asterisk notes removed: Economics, United States Government and Civics, United States History and Geography: Post-Reconstruction to the Present, World History and Geography: The Industrial Revolution to the Contemporary World. Table 2 lists the civics course code as 'GC' and the sections also use GC.",
+  "Table column header cells (Standard, Content Standard, Content Strand, Number, Practice, Social Studies Practice, Standard Number) and the repeated strand-key page footer ('C-Culture, E-Economics, ...') are labeled backup in the surrounding grade/course.",
+  "u2029 (8.63): standard text split across table cells u2027 and u2029 ('...decision to' / 'secede.'); both standards.",
+  "u2110 (AAH.03 text), u2112-u2113 and similar HS/Grade-5 table pages: in the extraction the standard code units (e.g. AAH.03, E.13, P.01) sit in a different row than their text, and some codes have no adjacent text unit or follow their text; every text and code unit is labeled standards in its topic, but pairing of code to text should be done by order, not adjacency.",
+  "u4733-u4734: code 'W.74' split into two cells ('W.' and '74'); standards.",
+  "Content-strand cells with typos/odd spacing (u1024 'C. H.P, T,', u3317 'C. E, G, H, P, T', u4388 'E, G,') kept as-is, labeled standards.",
+  "u2021, u2025, u2028, u2032, u2035, u2038, u2041 (8.62-8.67): strand cell appears in column C7 instead of C5; table layout shifted, grade 8 Civil War topic.",
+  "Standard 8.16 (u1831) and several others have multi-column bullet lists flattened in interleaved order (e.g. u1831, u4023, u4133, u4166, u4186, u4437-area) so bullet items appear out of reading order; kept as a single standards unit.",
+  "State guide check: guide says grade groupings [0]..[9-12] with 'Grade 5 split into two parts' - confirmed; electives and courses are all 9-12; guide mentions Geography/History/Civics topics - confirmed. Psychology, Sociology, African American History, Contemporary Issues, Ancient History, Economics, Tennessee History, US Government and Civics, US History and Geography, World Geography, World History and Geography are the 11 HS courses. Appendix A (CCSSO graphic, intro) is referenced but not present in the text.",
+  "Civics requirements text (u273-u275: T.C.A. civics assessment, citizenship/immigration test) and Tennessee history requirements (u257-u272) are statutory/context narrative, labeled backup."
+ ]
+}

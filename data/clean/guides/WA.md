@@ -28,3 +28,5 @@ Known structure (from the corpus survey; verify against the document):
 - Grade groupings found: [0],[1],[2],[3],[4],[5],[6-8],[9-10],[11-12]
 - Topics/courses: Civics, Economics, Geography, History (incl. Washington State History, US History), social studies skills
 - Notes: 18 files: master PDF and docx (same content) plus per-band/per-discipline extracts of the same standards, and a 1-page scope & sequence
+
+UPDATE (reviewer): use the Word master (`OSPI_SocStudies_Standards_MASTER_...docx`), not the PDF. In the Word tables each grade has its own cell beginning "By the end of Kindergarten / Grade 1 / ... , students will:" followed by coded standards (SSS1.K.1, C1.3.2 ... second part = grade). Label each cell with its grade. Grades 6-8 cells ("By the end of grade 8") → 6-8; high school cells → 9-10 / 11-12 if the document separates them ("By the end of grade 10/12"), otherwise 9-12. "Pathways" cross-reference lines (e.g. "SSS1.K.1-4: Pathways 1 (1-4)...") → backup with their grade. Since Time Immemorial / Native Knowledge 360 cross-references → examples.

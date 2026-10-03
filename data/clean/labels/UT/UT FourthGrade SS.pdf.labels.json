@@ -1,0 +1,104 @@
+{
+ "state": "UT",
+ "file": "UT FourthGrade SS.pdf",
+ "structure": "Single-grade Utah Core Standards for Elementary Social Studies (adopted Dec 2022). Pages 1-7 are front matter shared by every elementary file (cover, board list, introduction, organization of standards, one-paragraph overviews of K-6). Then one grade section with four or more strands (GRADE STRAND n: HISTORY/GEOGRAPHY/CIVICS/ECONOMICS) each with a strand description sentence ('Students will ...'), a bulleted list of Compelling Questions (marked with ']'), and numbered standards 'Standard G.S.N: text' (G=grade, S=strand, N=number). The 'Standard G.S.N' label and its text are sometimes split into two units (label at x=75, text at x=189), and in several files the label is missing from the units (it was moved to the running header) leaving just the text. Parenthetical 'for example' lists stay inside the standard unit. Fourth grade has five strands: Utah's Unique Geography; Pre-Expansion (before 1847); Expansion (1847-1896); Post-Statehood (1896-1999); A New Millenia (2000-present).",
+ "labels": [
+  {
+   "units": "u1-u75",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, title page, Board of Education list"
+  },
+  {
+   "units": "u77-u119",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Utah Elementary Social Studies Standards introduction, organization of standards, grade-by-grade overview"
+  },
+  {
+   "units": "u120-u122",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth grade title, Strand 1 Utah's Unique Geography heading and description"
+  },
+  {
+   "units": "u124-u126",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 1 compelling questions"
+  },
+  {
+   "units": "u128-u134",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 4.1.1-4.1.3 (Geography); Strand 2 Pre-Expansion heading and description"
+  },
+  {
+   "units": "u137-u145",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 2 compelling questions"
+  },
+  {
+   "units": "u146-u155",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 4.2.1-4.2.4 (Pre-Expansion); Strand 3 Expansion 1847-1896 heading and description"
+  },
+  {
+   "units": "u158-u166",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 3 compelling questions (incl. immigrant communities)"
+  },
+  {
+   "units": "u168-u184",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 4.3.1-4.3.7 (Expansion); Strand 4 Post-Statehood heading and description"
+  },
+  {
+   "units": "u186-u192",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 4 compelling questions"
+  },
+  {
+   "units": "u194-u208",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 4.4.1-4.4.6 (Post-Statehood); Strand 5 A New Millenia heading and description"
+  },
+  {
+   "units": "u210-u215",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 5 compelling questions (incl. ethnic/religious communities maintaining cultures)"
+  },
+  {
+   "units": "u216-u230",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 4.5.1-4.5.6 (A New Millenia, incl. 4.5.4 immigrants then and now)"
+  }
+ ],
+ "issues": [
+  "Standard labels missing from units (only in running headers) for 4.1.1-4.1.3, 4.3.1-4.3.7, 4.4.1, 4.4.5, 4.4.6, 4.5.4-4.5.6; bare text units u128,u130,u132,u168-u180,u194,u202,u205,u224,u226,u228,u230. Numbering inferred from running headers and order.",
+  "Standard 4.5.5 text is split across a page break (u226 p.12, u228 p.13).",
+  "Strand 2 compelling-question bullet u137 continues in u139 across a page break; u140-u145 continue; all examples.",
+  "Shared K-6 overview paragraphs (u104-u119) are front matter identical in every elementary file; labeled backup/all."
+ ]
+}

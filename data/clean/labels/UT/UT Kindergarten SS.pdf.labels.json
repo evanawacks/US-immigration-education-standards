@@ -1,0 +1,89 @@
+{
+ "state": "UT",
+ "file": "UT Kindergarten SS.pdf",
+ "structure": "Single-grade Utah Core Standards for Elementary Social Studies (adopted Dec 2022). Pages 1-7 are front matter shared by every elementary file (cover, board list, introduction, organization of standards, one-paragraph overviews of K-6). Then one grade section with four or more strands (GRADE STRAND n: HISTORY/GEOGRAPHY/CIVICS/ECONOMICS) each with a strand description sentence ('Students will ...'), a bulleted list of Compelling Questions (marked with ']'), and numbered standards 'Standard G.S.N: text' (G=grade, S=strand, N=number). The 'Standard G.S.N' label and its text are sometimes split into two units (label at x=75, text at x=189), and in several files the label is missing from the units (it was moved to the running header) leaving just the text. Parenthetical 'for example' lists stay inside the standard unit.",
+ "labels": [
+  {
+   "units": "u1-u75",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, title page, Board of Education list"
+  },
+  {
+   "units": "u77-u119",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Utah Elementary Social Studies Standards introduction, organization of standards, grade-by-grade overview"
+  },
+  {
+   "units": "u121-u123",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title, Strand 1 History heading and description"
+  },
+  {
+   "units": "u125-u130",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 1 History compelling questions"
+  },
+  {
+   "units": "u131-u138",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards K.1.1-K.1.3 (History); Strand 2 Geography heading and description"
+  },
+  {
+   "units": "u141-u143",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 2 Geography compelling questions"
+  },
+  {
+   "units": "u145-u153",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards K.2.1-K.2.4 (Geography); Strand 3 Civics heading and description"
+  },
+  {
+   "units": "u155-u160",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 3 Civics compelling questions (incl. belonging in school and community)"
+  },
+  {
+   "units": "u161-u172",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards K.3.1-K.3.4 (Civics); Strand 4 Economics heading and description"
+  },
+  {
+   "units": "u174-u177",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 4 Economics compelling questions"
+  },
+  {
+   "units": "u178-u183",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards K.4.1-K.4.3 (Economics)"
+  }
+ ],
+ "issues": [
+  "Shared K-6 overview paragraphs (u104-u119) are front matter identical in every elementary file; labeled backup/all even though some paragraphs describe one grade.",
+  "Compelling-question bullets can be split over two units (a question continues in the next unit); all labeled examples.",
+  "Standard K.3.4 label (u167) and text (u168) are separate units; both standards."
+ ]
+}

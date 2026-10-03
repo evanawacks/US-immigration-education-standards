@@ -1,0 +1,189 @@
+{
+ "state": "NM",
+ "file": "NM-Standards-508.pdf",
+ "structure": "Single K-12 document of tables. Order: cover, TOC, introduction/how to read, color-coded anchor standards table (Anchor Standards 1-27: Civics 1-4, Economics/Personal Financial Literacy 5-10, Geography 11-14, History 15-19, Ethnic Cultural and Identity Studies 20-22, Inquiry 23-27), then one section per grade (heading 'Kindergarten', 'First Grade' ... 'Eighth Grade') and per HS course (headings 'HS Civics', 'HS Economics', 'HS Geography', 'HS New Mexico History', 'HS U.S. History', 'HS World History', 'Ethnic, Cultural, and Identity Studies'). Each section begins with an Inquiry table (Anchor Standards 23-27) followed by Theme tables ('Theme N: title'). Each table has header cells 'Anchor Standard / Performance Standard'; column C1 holds strand + anchor standard number and name (wrapped over several rows), column C2 holds the performance standards with codes (K.1, 1.1 ... 8.105; HS 9-12.Civ.n, 9-12.Econ.n, 9-12.Geo.n, 9-12.NMH.n, 9-12.US.n, 9-12.WH.n, 9-12.ECI.n). HS World History also has a Sample Topics/Themes by Time Period table. Back matter: glossary. No separate examples blocks apart from the World History sample table.",
+ "labels": [
+  {
+   "units": "u1-u255",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, table of contents"
+  },
+  {
+   "units": "u256-u270",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, overview, guiding principles, color coding explanation"
+  },
+  {
+   "units": "u271-u286",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Color-coding table (strand colors)"
+  },
+  {
+   "units": "u287-u305",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "How to read the document; anchor standards explanation"
+  },
+  {
+   "units": "u306-u340",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Anchor standards overview table (strands: Civics 1-4, Economics 5-10, Geography 11-14, History 15-19, ECI 20-22, Inquiry 23-27)"
+  },
+  {
+   "units": "u341-u428",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u429-u525",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u526-u633",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u634-u728",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u729-u836",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u837-u953",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u954-u1111",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Inquiry and Themes 1-6"
+  },
+  {
+   "units": "u1112-u1359",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Inquiry and Themes 1-9"
+  },
+  {
+   "units": "u1360-u1643",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Inquiry and Themes 1-11"
+  },
+  {
+   "units": "u1644-u1685",
+   "grades": "9-12",
+   "course": "HS Civics",
+   "cat": "standards",
+   "section": "HS Civics: Inquiry and Civics 1-4"
+  },
+  {
+   "units": "u1686-u1737",
+   "grades": "9-12",
+   "course": "HS Economics",
+   "cat": "standards",
+   "section": "HS Economics: Inquiry and Economics 5-10"
+  },
+  {
+   "units": "u1738-u1782",
+   "grades": "9-12",
+   "course": "HS Geography",
+   "cat": "standards",
+   "section": "HS Geography: Inquiry and Geography 11-14"
+  },
+  {
+   "units": "u1783-u1953",
+   "grades": "9-12",
+   "course": "HS New Mexico History",
+   "cat": "standards",
+   "section": "HS New Mexico History: Inquiry and Themes 1-8"
+  },
+  {
+   "units": "u1954-u2243",
+   "grades": "9-12",
+   "course": "HS U.S. History",
+   "cat": "standards",
+   "section": "HS U.S. History: Inquiry and Themes 1-11"
+  },
+  {
+   "units": "u2244-u2245",
+   "grades": "9-12",
+   "course": "HS World History",
+   "cat": "standards",
+   "section": "HS World History heading"
+  },
+  {
+   "units": "u2246-u2258",
+   "grades": "9-12",
+   "course": "HS World History",
+   "cat": "examples",
+   "section": "HS World History: Sample Topics / Sample Themes by Time Period (tables)"
+  },
+  {
+   "units": "u2259-u2336",
+   "grades": "9-12",
+   "course": "HS World History",
+   "cat": "standards",
+   "section": "HS World History: Inquiry and standards"
+  },
+  {
+   "units": "u2337-u2367",
+   "grades": "9-12",
+   "course": "Ethnic, Cultural, and Identity Studies",
+   "cat": "standards",
+   "section": "Ethnic, Cultural, and Identity Studies course: Inquiry and ECI 20-22"
+  },
+  {
+   "units": "u2368-u2425",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary"
+  }
+ ],
+ "issues": [
+  "Grade/course sections are tables with a header row [Inquiry|Theme N: ...], then 'Anchor Standard | Performance Standard' header cells; every unit in a grade/course section is a standard, so each grade section is one 'standards' range.",
+  "u1-u255: cover and table of contents (TOC lists Grade 5 Theme 2 as 'Inequality and Justice'; u877 heading says 'Inequity', u890 'Inequality' - heading inconsistency in source).",
+  "u305: explanatory paragraph on anchor standards labeled backup in the gap before the anchor-standard table (u306-u340), which is labeled standards K-12 (anchor standards apply to every grade and course).",
+  "u1677-u1685: page break splits the Civics 2 row (continuation text u1677 has only C2 text, no strand label) - belongs to Civics 2. Processes, Rules, and Laws (HS Civics).",
+  "u1732-u1737: HS Economics 9-12.Econ.54 sentence is split across the page break (u1732 ends mid-sentence, u1737 continues); both in Economics/Personal Financial Literacy 10.",
+  "u2131: page-break continuation of Theme 7 World War II History 15 row (9-12.US.77), no strand label on this page.",
+  "u1026: Grade 6 Theme 3 header says 'Content Standard' instead of 'Performance Standard' (source variation).",
+  "Course names use the section headings as written in the document (HS Civics, HS Economics, HS Geography, HS New Mexico History, HS U.S. History, HS World History) plus 'Ethnic, Cultural, and Identity Studies'; page tables title them 'High School ...'. Inquiry tables of each HS course carry the same course name with grades 9-12.",
+  "u2245-u2258: HS World History 'Sample Topics by Time Period' / 'Sample Themes by Time Period' table labeled examples (suggested topics and themes, not standards); heading u2245 labeled standards as the course title.",
+  "u288-u303 'How to Read' contains a sample Kindergarten Theme 2 layout (e.g., K.10-K.14 with garbled text); treated as backup, duplicates real K standards at u368-u383.",
+  "u1362-u1385: Grade 8 Inquiry table continues across a page break ('Inquiry (Continued)'); same grade 8 inquiry strand.",
+  "u1674, u2241: code typography varies in source ('9-12 Civ.23', '9-12 US.131' without period) - source typos, no effect on labeling."
+ ]
+}

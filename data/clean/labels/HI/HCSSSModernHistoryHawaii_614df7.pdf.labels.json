@@ -1,0 +1,411 @@
+{
+ "state": "HI",
+ "file": "HCSSSModernHistoryHawaii_614df7.pdf",
+ "structure": "Social studies standards with a common layout: u1 = course title; first table = 'Inquiry Standards' (Anchor Standards 1-5, codes SS.9-12.n.m, anchor standard names split across rows of C1); then numbered Themes. Each Theme: a header row (Theme N + title), 'Sample Compelling Questions' row (label split into 'Sample Compelling' / 'Questions' cells plus bullets), a 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (History/Civics/Geography/Economics) with Anchor Standard number and name split into following C1 rows, C2 topic, C3 'Content Standard SS.MHH.t.a.n' statement, C4 bullet sample content/concepts. High school course 'Modern History of Hawaiʻi' (codes SS.MHH).",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Overthrow of Hawaiian Monarchy: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Causes of the Overthrow"
+  },
+  {
+   "units": "u47",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Overthrow of Hawaiian Monarchy > Causes of the Overthrow: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Causes of the Overthrow"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Effects of the Overthrow"
+  },
+  {
+   "units": "u54",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Overthrow of Hawaiian Monarchy > Effects of the Overthrow: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Effects of the Overthrow"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Annexation"
+  },
+  {
+   "units": "u61",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Overthrow of Hawaiian Monarchy > Annexation: sample content/concepts"
+  },
+  {
+   "units": "u62-u65",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Annexation"
+  },
+  {
+   "units": "u66-u67",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Perspectives on Overthrow and Annexation"
+  },
+  {
+   "units": "u68",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Overthrow of Hawaiian Monarchy > Perspectives on Overthrow and Annexation: sample content/concepts"
+  },
+  {
+   "units": "u69-u70",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Overthrow of Hawaiian Monarchy > Perspectives on Overthrow and Annexation"
+  },
+  {
+   "units": "u71",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Theme 2 > Perspectives on Overthrow and Annexation"
+  },
+  {
+   "units": "u72",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System"
+  },
+  {
+   "units": "u73-u75",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Late 19th and 20th Century Plantation System: sample compelling questions"
+  },
+  {
+   "units": "u76-u82",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System"
+  },
+  {
+   "units": "u83-u84",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Social Effects of Post- Overthrow Immigration"
+  },
+  {
+   "units": "u85",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Late 19th and 20th Century Plantation System > Social Effects of Post- Overthrow Immigration: sample content/concepts"
+  },
+  {
+   "units": "u86-u90",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Social Effects of Post- Overthrow Immigration"
+  },
+  {
+   "units": "u91-u92",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Organized Labor"
+  },
+  {
+   "units": "u93",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Late 19th and 20th Century Plantation System > Organized Labor: sample content/concepts"
+  },
+  {
+   "units": "u94-u97",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Organized Labor"
+  },
+  {
+   "units": "u98-u99",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Environmental Effects of the Plantation System"
+  },
+  {
+   "units": "u100",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Late 19th and 20th Century Plantation System > Environmental Effects of the Plantation System: sample content/concepts"
+  },
+  {
+   "units": "u101-u104",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Late 19th and 20th Century Plantation System > Environmental Effects of the Plantation System"
+  },
+  {
+   "units": "u105",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Theme 3 > Environmental Effects of the Plantation System"
+  },
+  {
+   "units": "u106",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution"
+  },
+  {
+   "units": "u107-u109",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "World War II and Democratic Revolution: sample compelling questions"
+  },
+  {
+   "units": "u110-u116",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution"
+  },
+  {
+   "units": "u117-u118",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Hawaiʻi’s Geopolitical Position"
+  },
+  {
+   "units": "u119",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "World War II and Democratic Revolution > Hawaiʻi’s Geopolitical Position: sample content/concepts"
+  },
+  {
+   "units": "u120-u125",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Hawaiʻi’s Geopolitical Position"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Local Effects of Pearl Harbor"
+  },
+  {
+   "units": "u128",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "World War II and Democratic Revolution > Local Effects of Pearl Harbor: sample content/concepts"
+  },
+  {
+   "units": "u129-u132",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Local Effects of Pearl Harbor"
+  },
+  {
+   "units": "u133-u134",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Political Effects of WWII in Hawaiʻi"
+  },
+  {
+   "units": "u135",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "World War II and Democratic Revolution > Political Effects of WWII in Hawaiʻi: sample content/concepts"
+  },
+  {
+   "units": "u136-u139",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Political Effects of WWII in Hawaiʻi"
+  },
+  {
+   "units": "u140-u141",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Democratic Revolution"
+  },
+  {
+   "units": "u142",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "World War II and Democratic Revolution > Democratic Revolution: sample content/concepts"
+  },
+  {
+   "units": "u143-u145",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "World War II and Democratic Revolution > Democratic Revolution"
+  },
+  {
+   "units": "u146",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Theme 4 > Democratic Revolution"
+  },
+  {
+   "units": "u147",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues"
+  },
+  {
+   "units": "u148-u150",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Contemporary Issues: sample compelling questions"
+  },
+  {
+   "units": "u151-u157",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues"
+  },
+  {
+   "units": "u158-u159",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues > Contemporary Socioeconomic Changes"
+  },
+  {
+   "units": "u160",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Contemporary Issues > Contemporary Socioeconomic Changes: sample content/concepts"
+  },
+  {
+   "units": "u161-u164",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues > Contemporary Socioeconomic Changes"
+  },
+  {
+   "units": "u165-u166",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues > The Hawaiian Renaissance"
+  },
+  {
+   "units": "u167",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "examples",
+   "section": "Contemporary Issues > The Hawaiian Renaissance: sample content/concepts"
+  },
+  {
+   "units": "u168-u170",
+   "grades": "9-12",
+   "course": "Modern History of Hawaiʻi",
+   "cat": "standards",
+   "section": "Contemporary Issues > The Hawaiian Renaissance"
+  }
+ ],
+ "issues": [
+  "Course name written in capitals in the document ('MODERN HISTORY OF HAWAIʻI'); normalized to title case.",
+  "Inquiry standards table (u2-u32) headed 'Grades 9-12 Inquiry Standards': labeled course null, grades 9-12 as shared HS skills.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards."
+ ]
+}

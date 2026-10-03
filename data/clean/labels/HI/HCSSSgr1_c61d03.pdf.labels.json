@@ -1,0 +1,419 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr1_c61d03.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades K-2 Inquiry Standards' (Anchor Standards 1-5, codes SS.K-2.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.1.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Community: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Principles and Values of Democracy"
+  },
+  {
+   "units": "u47",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Community > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Principles and Values of Democracy"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Civic Participation"
+  },
+  {
+   "units": "u54",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Community > Civic Participation: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Civic Participation"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Spatial Representation"
+  },
+  {
+   "units": "u61",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Community > Spatial Representation: sample content/concepts"
+  },
+  {
+   "units": "u62-u66",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Community > Spatial Representation"
+  },
+  {
+   "units": "u67",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Spatial Representation"
+  },
+  {
+   "units": "u68",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth"
+  },
+  {
+   "units": "u69-u71",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth: sample compelling questions"
+  },
+  {
+   "units": "u72-u78",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth"
+  },
+  {
+   "units": "u79-u80",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Limited Resources"
+  },
+  {
+   "units": "u81",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth > Limited Resources: sample content/concepts"
+  },
+  {
+   "units": "u82-u85",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Limited Resources"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Land and Water"
+  },
+  {
+   "units": "u88",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth > Land and Water: sample content/concepts"
+  },
+  {
+   "units": "u89-u94",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Land and Water"
+  },
+  {
+   "units": "u95-u96",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Interactions and Impact"
+  },
+  {
+   "units": "u97",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u98-u104",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Interactions and Impact"
+  },
+  {
+   "units": "u105",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth > Interactions and Impact: sample content/concepts"
+  },
+  {
+   "units": "u106-u110",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Interactions and Impact"
+  },
+  {
+   "units": "u111-u112",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Principles and Values of Democracy"
+  },
+  {
+   "units": "u113",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Blue Earth > Principles and Values of Democracy: sample content/concepts"
+  },
+  {
+   "units": "u114-u116",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Blue Earth > Principles and Values of Democracy"
+  },
+  {
+   "units": "u117",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Principles and Values of Democracy"
+  },
+  {
+   "units": "u118",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past"
+  },
+  {
+   "units": "u119-u121",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Past: sample compelling questions"
+  },
+  {
+   "units": "u122-u128",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past"
+  },
+  {
+   "units": "u129-u130",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Historical Inquiry"
+  },
+  {
+   "units": "u131",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Past > Historical Inquiry: sample content/concepts"
+  },
+  {
+   "units": "u132-u135",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Historical Inquiry"
+  },
+  {
+   "units": "u136-u137",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u138",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Past > Historical Perspectives and Interpretations: sample content/concepts"
+  },
+  {
+   "units": "u139-u141",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Historical Perspectives and Interpretations"
+  },
+  {
+   "units": "u142-u143",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Chronological Thinking"
+  },
+  {
+   "units": "u144",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Our Past > Chronological Thinking: sample content/concepts"
+  },
+  {
+   "units": "u145-u147",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Our Past > Chronological Thinking"
+  },
+  {
+   "units": "u148",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Chronological Thinking"
+  },
+  {
+   "units": "u149",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices"
+  },
+  {
+   "units": "u150-u152",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Making Choices: sample compelling questions"
+  },
+  {
+   "units": "u153-u159",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices"
+  },
+  {
+   "units": "u160-u161",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices > Role and Functions of Markets"
+  },
+  {
+   "units": "u162",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Making Choices > Role and Functions of Markets: sample content/concepts"
+  },
+  {
+   "units": "u163-u168",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices > Role and Functions of Markets"
+  },
+  {
+   "units": "u169",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Making Choices > Role and Functions of Markets: sample content/concepts"
+  },
+  {
+   "units": "u170-u173",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices > Role and Functions of Markets"
+  },
+  {
+   "units": "u174-u175",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices > Cause and Effect"
+  },
+  {
+   "units": "u176",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Making Choices > Cause and Effect: sample content/concepts"
+  },
+  {
+   "units": "u177-u179",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Making Choices > Cause and Effect"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u18, u20: Anchor Standard 3 shows 'Begins in grades 3-5' placeholders; labeled K-2 standards.",
+  "u130 code printed as 'SS 1.3.17.1' (missing period) in source."
+ ]
+}

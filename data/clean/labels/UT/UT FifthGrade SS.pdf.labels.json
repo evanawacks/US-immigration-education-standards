@@ -1,0 +1,117 @@
+{
+ "state": "UT",
+ "file": "UT FifthGrade SS.pdf",
+ "structure": "Single-grade Utah Core Standards for Elementary Social Studies (adopted Dec 2022). Pages 1-7 are front matter shared by every elementary file (cover, board list, introduction, organization of standards, one-paragraph overviews of K-6). Then one grade section with four or more strands (GRADE STRAND n: HISTORY/GEOGRAPHY/CIVICS/ECONOMICS) each with a strand description sentence ('Students will ...'), a bulleted list of Compelling Questions (marked with ']'), and numbered standards 'Standard G.S.N: text' (G=grade, S=strand, N=number). The 'Standard G.S.N' label and its text are sometimes split into two units (label at x=75, text at x=189), and in several files the label is missing from the units (it was moved to the running header) leaving just the text. Parenthetical 'for example' lists stay inside the standard unit. Fifth grade has six strands (impacts of geography; road to self-government; US government and citizenship; 19th century; 20th century to now; current national issues); 'Compelling Questions' heading is a separate unit.",
+ "labels": [
+  {
+   "units": "u1-u75",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, title page, Board of Education list"
+  },
+  {
+   "units": "u77-u119",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Utah Elementary Social Studies Standards introduction, organization of standards, grade-by-grade overview"
+  },
+  {
+   "units": "u121-u124",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth grade title, Strand 1 heading and description"
+  },
+  {
+   "units": "u125-u133",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 1 compelling questions"
+  },
+  {
+   "units": "u134-u145",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.1.1-5.1.4 (Geography/Early colonization); Strand 2 Road to Self-Government heading and description"
+  },
+  {
+   "units": "u146-u152",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 2 compelling questions"
+  },
+  {
+   "units": "u153-u163",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.2.1-5.2.4; Strand 3 US Government and Citizenship heading and description"
+  },
+  {
+   "units": "u165-u171",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 3 compelling questions"
+  },
+  {
+   "units": "u173-u185",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.3.1-5.3.6 (incl. 5.3.5 amendments extending rights to immigrants); Strand 4 19th Century heading and description"
+  },
+  {
+   "units": "u187-u191",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 4 compelling questions"
+  },
+  {
+   "units": "u192-u209",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.4.1-5.4.7 (incl. 5.4.2 immigration); Strand 5 20th Century to Now heading and description"
+  },
+  {
+   "units": "u211-u219",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 5 compelling questions"
+  },
+  {
+   "units": "u220-u230",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.5.1-5.5.4; Strand 6 Current National Issues heading and description"
+  },
+  {
+   "units": "u231-u236",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand 6 compelling questions"
+  },
+  {
+   "units": "u239-u246",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards 5.6.1-5.6.4 (Current national issues, incl. 5.6.4 minority communities)"
+  }
+ ],
+ "issues": [
+  "Standard labels missing from units (only in running headers) for 5.3.1-5.3.6, 5.4.7, 5.6.1, 5.6.3, 5.6.4; bare text units u173-u183,u205,u239,u244,u246. Numbering inferred from running headers and order.",
+  "Strand 6 standard label for 5.6.1 is absent; u239 is its text.",
+  "Shared K-6 overview paragraphs (u104-u119) are front matter identical in every elementary file; labeled backup/all."
+ ]
+}

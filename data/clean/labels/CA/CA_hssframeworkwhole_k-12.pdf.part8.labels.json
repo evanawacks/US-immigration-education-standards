@@ -98,7 +98,7 @@
   {
    "units": "u8258-u8270",
    "grades": "12",
-   "course": "Economics",
+   "course": "Principles of Economics",
    "cat": "backup",
    "section": "Appendix G: EEI curriculum units, Grade 12 Economics"
   },
@@ -127,6 +127,7 @@
  "issues": [
   "u8077-u8270: Appendix G quoted standards and unit descriptions labeled backup per state guide (appendix G = backup) though they are grade-specific; grade assigned from section heading.",
   "u8246-u8270: Grade 12 courses named 'Principles of American Democracy' and 'Economics' in headings (Appendix C uses 'Principles of Economics'); used heading names as written.",
-  "u8059-u8076: unit range begins mid Appendix G (page 806, EP&C Principle III concept c)."
+  "u8059-u8076: unit range begins mid Appendix G (page 806, EP&C Principle III concept c).",
+  "Reviewer: harmonized course names across parts (grades 10 and 11 are grade rows; grade 12 courses = Principles of American Democracy / Principles of Economics)."
  ]
 }

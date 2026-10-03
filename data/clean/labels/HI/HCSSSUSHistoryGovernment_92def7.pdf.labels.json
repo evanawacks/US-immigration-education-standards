@@ -1,0 +1,1071 @@
+{
+ "state": "HI",
+ "file": "HCSSSUSHistoryGovernment_92def7.pdf",
+ "structure": "Social studies standards with a common layout: u1 = course title; first table = 'Inquiry Standards' (Anchor Standards 1-5, codes SS.9-12.n.m, anchor standard names split across rows of C1); then numbered Themes. Each Theme: a header row (Theme N + title), 'Sample Compelling Questions' row (label split into 'Sample Compelling' / 'Questions' cells plus bullets), a 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (History/Civics/Geography/Economics) with Anchor Standard number and name split into following C1 rows, C2 topic, C3 'Content Standard SS.US.t.a.n' statement, C4 bullet sample content/concepts. High school course 'United States History and Government' (codes SS.US) with 12 themes.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Immigration and Migration: 1880–1930: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930 > Cause and Effects of Migration"
+  },
+  {
+   "units": "u47",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Immigration and Migration: 1880–1930 > Cause and Effects of Migration: sample content/concepts"
+  },
+  {
+   "units": "u48-u53",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930 > Cause and Effects of Migration"
+  },
+  {
+   "units": "u54-u55",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930 > Response to Immigration"
+  },
+  {
+   "units": "u56",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Immigration and Migration: 1880–1930 > Response to Immigration: sample content/concepts"
+  },
+  {
+   "units": "u57-u59",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Immigration and Migration: 1880–1930 > Response to Immigration"
+  },
+  {
+   "units": "u60",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 2 > Response to Immigration"
+  },
+  {
+   "units": "u61",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920"
+  },
+  {
+   "units": "u62-u64",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Gilded Age and Organized Labor: 1880–1920: sample compelling questions"
+  },
+  {
+   "units": "u65-u71",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920"
+  },
+  {
+   "units": "u72-u73",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Influence of Different Market Structures"
+  },
+  {
+   "units": "u74",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Influence of Different Market Structures: sample content/concepts"
+  },
+  {
+   "units": "u75-u77",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Influence of Different Market Structures"
+  },
+  {
+   "units": "u78-u79",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Business Magnates and Gilded Age Politics"
+  },
+  {
+   "units": "u80",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Business Magnates and Gilded Age Politics: sample content/concepts"
+  },
+  {
+   "units": "u81-u84",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Business Magnates and Gilded Age Politics"
+  },
+  {
+   "units": "u85-u86",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Rise of Labor Unions and Populism"
+  },
+  {
+   "units": "u87",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Rise of Labor Unions and Populism: sample content/concepts"
+  },
+  {
+   "units": "u88-u90",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Gilded Age and Organized Labor: 1880–1920 > Rise of Labor Unions and Populism"
+  },
+  {
+   "units": "u91",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 3 > Rise of Labor Unions and Populism"
+  },
+  {
+   "units": "u92",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920"
+  },
+  {
+   "units": "u93-u95",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Urbanization and The Progressive Era: 1890–1920: sample compelling questions"
+  },
+  {
+   "units": "u96-u102",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920"
+  },
+  {
+   "units": "u103-u104",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Growth of American Cities"
+  },
+  {
+   "units": "u105",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Growth of American Cities: sample content/concepts"
+  },
+  {
+   "units": "u106-u110",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Growth of American Cities"
+  },
+  {
+   "units": "u111-u112",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Progressive Reform Platforms"
+  },
+  {
+   "units": "u113",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Progressive Reform Platforms: sample content/concepts"
+  },
+  {
+   "units": "u114-u117",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Progressive Reform Platforms"
+  },
+  {
+   "units": "u118-u119",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Women's Suffrage"
+  },
+  {
+   "units": "u120",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Women's Suffrage: sample content/concepts"
+  },
+  {
+   "units": "u121-u123",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Urbanization and The Progressive Era: 1890–1920 > Women's Suffrage"
+  },
+  {
+   "units": "u124",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 4 > Women's Suffrage"
+  },
+  {
+   "units": "u125",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920"
+  },
+  {
+   "units": "u126-u128",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. Imperialism and Global Power: 1890–1920: sample compelling questions"
+  },
+  {
+   "units": "u129-u135",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920"
+  },
+  {
+   "units": "u136-u137",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Causes and Events of U.S. Imperialism"
+  },
+  {
+   "units": "u138",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Causes and Events of U.S. Imperialism: sample content/concepts"
+  },
+  {
+   "units": "u139-u142",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Causes and Events of U.S. Imperialism"
+  },
+  {
+   "units": "u143-u144",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Effects of U.S. Foreign Policy"
+  },
+  {
+   "units": "u145",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Effects of U.S. Foreign Policy: sample content/concepts"
+  },
+  {
+   "units": "u146-u150",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. Imperialism and Global Power: 1890–1920 > Effects of U.S. Foreign Policy"
+  },
+  {
+   "units": "u151",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 5 > Effects of U.S. Foreign Policy"
+  },
+  {
+   "units": "u152",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920"
+  },
+  {
+   "units": "u153-u155",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War I: 1910–1920: sample compelling questions"
+  },
+  {
+   "units": "u156-u162",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920"
+  },
+  {
+   "units": "u163-u164",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Causes of U.S. WWI Involvement"
+  },
+  {
+   "units": "u165",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War I: 1910–1920 > Causes of U.S. WWI Involvement: sample content/concepts"
+  },
+  {
+   "units": "u166-u169",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Causes of U.S. WWI Involvement"
+  },
+  {
+   "units": "u170-u171",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Restrictions of Civil Liberties in WWI"
+  },
+  {
+   "units": "u172",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War I: 1910–1920 > Restrictions of Civil Liberties in WWI: sample content/concepts"
+  },
+  {
+   "units": "u173-u176",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Restrictions of Civil Liberties in WWI"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Post-WWI Foreign Policies"
+  },
+  {
+   "units": "u179",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War I: 1910–1920 > Post-WWI Foreign Policies: sample content/concepts"
+  },
+  {
+   "units": "u180-u181",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War I: 1910–1920 > Post-WWI Foreign Policies"
+  },
+  {
+   "units": "u182",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 6 > Post-WWI Foreign Policies"
+  },
+  {
+   "units": "u183",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s"
+  },
+  {
+   "units": "u184-u186",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Conflicts and Transitions: 1920s: sample compelling questions"
+  },
+  {
+   "units": "u187-u193",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s"
+  },
+  {
+   "units": "u194-u195",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Innovations and National Culture"
+  },
+  {
+   "units": "u196",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Conflicts and Transitions: 1920s > 1920s Innovations and National Culture: sample content/concepts"
+  },
+  {
+   "units": "u197-u199",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Innovations and National Culture"
+  },
+  {
+   "units": "u200-u201",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Social Conflicts"
+  },
+  {
+   "units": "u202",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Conflicts and Transitions: 1920s > 1920s Social Conflicts: sample content/concepts"
+  },
+  {
+   "units": "u203-u205",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Social Conflicts"
+  },
+  {
+   "units": "u206-u207",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Cultural Movements"
+  },
+  {
+   "units": "u208",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Conflicts and Transitions: 1920s > 1920s Cultural Movements: sample content/concepts"
+  },
+  {
+   "units": "u209-u211",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Conflicts and Transitions: 1920s > 1920s Cultural Movements"
+  },
+  {
+   "units": "u212",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 7 > 1920s Cultural Movements"
+  },
+  {
+   "units": "u213",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941"
+  },
+  {
+   "units": "u214-u216",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Great Depression and The New Deal: 1929–1941: sample compelling questions"
+  },
+  {
+   "units": "u217-u223",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941"
+  },
+  {
+   "units": "u224-u225",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941 > Causes of the Great Depression"
+  },
+  {
+   "units": "u226",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Great Depression and The New Deal: 1929–1941 > Causes of the Great Depression: sample content/concepts"
+  },
+  {
+   "units": "u227",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941 > Causes of the Great Depression"
+  },
+  {
+   "units": "u228-u229",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941 > Effects of the Great Depression"
+  },
+  {
+   "units": "u230",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Great Depression and The New Deal: 1929–1941 > Effects of the Great Depression: sample content/concepts"
+  },
+  {
+   "units": "u231",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941 > Effects of the Great Depression"
+  },
+  {
+   "units": "u232-u233",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Great Depression and The New Deal: 1929–1941 > FDR’s New Deal and the Changing Role of Government"
+  },
+  {
+   "units": "u234",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Great Depression and The New Deal: 1929–1941 > FDR’s New Deal and the Changing Role of Government: sample content/concepts"
+  },
+  {
+   "units": "u235",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 8 > FDR’s New Deal and the Changing Role of Government"
+  },
+  {
+   "units": "u236",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II"
+  },
+  {
+   "units": "u237-u239",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War II: sample compelling questions"
+  },
+  {
+   "units": "u240-u246",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > Causes of WWII Involvement"
+  },
+  {
+   "units": "u249",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War II > Causes of WWII Involvement: sample content/concepts"
+  },
+  {
+   "units": "u250-u253",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > Causes of WWII Involvement"
+  },
+  {
+   "units": "u254-u255",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > WWII Domestic Policies"
+  },
+  {
+   "units": "u256",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War II > WWII Domestic Policies: sample content/concepts"
+  },
+  {
+   "units": "u257-u260",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > WWII Domestic Policies"
+  },
+  {
+   "units": "u261-u262",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > U.S. Role in WWII Turning Points"
+  },
+  {
+   "units": "u263",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "World War II > U.S. Role in WWII Turning Points: sample content/concepts"
+  },
+  {
+   "units": "u264-u266",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "World War II > U.S. Role in WWII Turning Points"
+  },
+  {
+   "units": "u267",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 9 > U.S. Role in WWII Turning Points"
+  },
+  {
+   "units": "u268",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975"
+  },
+  {
+   "units": "u269-u271",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Cold War: 1945–1975: sample compelling questions"
+  },
+  {
+   "units": "u272-u278",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975"
+  },
+  {
+   "units": "u279-u280",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Origin of the Cold War"
+  },
+  {
+   "units": "u281",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Cold War: 1945–1975 > Origin of the Cold War: sample content/concepts"
+  },
+  {
+   "units": "u282-u285",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Origin of the Cold War"
+  },
+  {
+   "units": "u286-u287",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Cold War Containment Abroad"
+  },
+  {
+   "units": "u288",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Cold War: 1945–1975 > Cold War Containment Abroad: sample content/concepts"
+  },
+  {
+   "units": "u289-u292",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Cold War Containment Abroad"
+  },
+  {
+   "units": "u293-u294",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Cold War Containment at Home"
+  },
+  {
+   "units": "u295",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "The Cold War: 1945–1975 > Cold War Containment at Home: sample content/concepts"
+  },
+  {
+   "units": "u296-u298",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "The Cold War: 1945–1975 > Cold War Containment at Home"
+  },
+  {
+   "units": "u299",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 10 > Cold War Containment at Home"
+  },
+  {
+   "units": "u300",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975"
+  },
+  {
+   "units": "u301-u303",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975: sample compelling questions"
+  },
+  {
+   "units": "u304-u310",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975"
+  },
+  {
+   "units": "u311-u312",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action"
+  },
+  {
+   "units": "u313",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action: sample content/concepts"
+  },
+  {
+   "units": "u314",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action"
+  },
+  {
+   "units": "u315",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action: sample content/concepts"
+  },
+  {
+   "units": "u316",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action"
+  },
+  {
+   "units": "u317",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action: sample content/concepts"
+  },
+  {
+   "units": "u318",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action"
+  },
+  {
+   "units": "u319-u329",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action: sample content/concepts"
+  },
+  {
+   "units": "u330",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Civil Rights Legislation and Action"
+  },
+  {
+   "units": "u331-u332",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms"
+  },
+  {
+   "units": "u333",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms: sample content/concepts"
+  },
+  {
+   "units": "u334-u338",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms"
+  },
+  {
+   "units": "u339",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms: sample content/concepts"
+  },
+  {
+   "units": "u340-u345",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms"
+  },
+  {
+   "units": "u346",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms: sample content/concepts"
+  },
+  {
+   "units": "u347-u349",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Civil Rights: 1954–1975 > Great Society Programs and Reforms"
+  },
+  {
+   "units": "u350",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 11 > Great Society Programs and Reforms"
+  },
+  {
+   "units": "u351",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Rise of Conservatism: 1968–2008"
+  },
+  {
+   "units": "u352-u354",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Rise of Conservatism: 1968–2008: sample compelling questions"
+  },
+  {
+   "units": "u355-u361",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Rise of Conservatism: 1968–2008"
+  },
+  {
+   "units": "u362-u363",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Rise of Conservatism: 1968–2008 > Conservative Movement Development"
+  },
+  {
+   "units": "u364",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Rise of Conservatism: 1968–2008 > Conservative Movement Development: sample content/concepts"
+  },
+  {
+   "units": "u365",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Rise of Conservatism: 1968–2008 > Conservative Movement Development"
+  },
+  {
+   "units": "u366-u367",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Rise of Conservatism: 1968–2008 > Effects of Conservatism"
+  },
+  {
+   "units": "u368",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Rise of Conservatism: 1968–2008 > Effects of Conservatism: sample content/concepts"
+  },
+  {
+   "units": "u369",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Theme 12 > Effects of Conservatism"
+  },
+  {
+   "units": "u370",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present"
+  },
+  {
+   "units": "u371-u373",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. in a Global Age: 2008–Present: sample compelling questions"
+  },
+  {
+   "units": "u374-u380",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present"
+  },
+  {
+   "units": "u381-u382",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present > Domestic Challenges"
+  },
+  {
+   "units": "u383",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. in a Global Age: 2008–Present > Domestic Challenges: sample content/concepts"
+  },
+  {
+   "units": "u384-u387",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present > Domestic Challenges"
+  },
+  {
+   "units": "u388-u389",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present > Global Challenges"
+  },
+  {
+   "units": "u390",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "U.S. in a Global Age: 2008–Present > Global Challenges: sample content/concepts"
+  },
+  {
+   "units": "u391-u395",
+   "grades": "9-12",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "U.S. in a Global Age: 2008–Present > Global Challenges"
+  }
+ ],
+ "issues": [
+  "Course name written in capitals in the document; normalized to title case.",
+  "Inquiry standards table (u2-u32) headed 'Grades 9-12 Inquiry Standards': labeled course null, grades 9-12 as shared HS skills.",
+  "u313-u329: Theme 10 'Civil Rights Legislation and Action' sample-content cell is split into many one-line C4 rows interleaved with C1 anchor-standard cells (u314, u316, u318); C4 lines labeled examples and C1 cells standards.",
+  "Theme 7 (u223, u227, u231) puts discipline + anchor standard in one C1 cell; labeled standards.",
+  "u259 'Change, Continuity, and Contest' is a source typo for 'Context'."
+ ]
+}

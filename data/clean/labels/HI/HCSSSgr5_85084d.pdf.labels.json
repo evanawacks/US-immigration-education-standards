@@ -1,0 +1,515 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr5_85084d.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 3-5 Inquiry Standards' (Anchor Standards 1-5, codes SS.3-5.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.5.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u34",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u35",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u36",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America"
+  },
+  {
+   "units": "u37-u39",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-Contact Native America: sample compelling questions"
+  },
+  {
+   "units": "u40-u46",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America"
+  },
+  {
+   "units": "u47-u48",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America > Development of Societies"
+  },
+  {
+   "units": "u49",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-Contact Native America > Development of Societies: sample content/concepts"
+  },
+  {
+   "units": "u50-u54",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America > Development of Societies"
+  },
+  {
+   "units": "u55-u56",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America > Elements of Societies"
+  },
+  {
+   "units": "u57",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-Contact Native America > Elements of Societies: sample content/concepts"
+  },
+  {
+   "units": "u58-u60",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Contact Native America > Elements of Societies"
+  },
+  {
+   "units": "u61",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Elements of Societies"
+  },
+  {
+   "units": "u62",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700"
+  },
+  {
+   "units": "u63-u65",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Contact and Conflict: 1500–1700: sample compelling questions"
+  },
+  {
+   "units": "u66-u72",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700"
+  },
+  {
+   "units": "u73-u74",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700 > Causes of Exploration"
+  },
+  {
+   "units": "u75",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Contact and Conflict: 1500–1700 > Causes of Exploration: sample content/concepts"
+  },
+  {
+   "units": "u76-u79",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700 > Causes of Exploration"
+  },
+  {
+   "units": "u80-u81",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700 > Adaptation and Cultural Exchange"
+  },
+  {
+   "units": "u82",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Contact and Conflict: 1500–1700 > Adaptation and Cultural Exchange: sample content/concepts"
+  },
+  {
+   "units": "u83-u85",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Contact and Conflict: 1500–1700 > Adaptation and Cultural Exchange"
+  },
+  {
+   "units": "u86",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Adaptation and Cultural Exchange"
+  },
+  {
+   "units": "u87",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700"
+  },
+  {
+   "units": "u88-u90",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Establishment of European Colonies: 1500–1700: sample compelling questions"
+  },
+  {
+   "units": "u91-u97",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700"
+  },
+  {
+   "units": "u98-u99",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > European Colonies"
+  },
+  {
+   "units": "u100",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Establishment of European Colonies: 1500–1700 > European Colonies: sample content/concepts"
+  },
+  {
+   "units": "u101-u105",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > European Colonies"
+  },
+  {
+   "units": "u106-u107",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > Early Governance"
+  },
+  {
+   "units": "u108",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Establishment of European Colonies: 1500–1700 > Early Governance: sample content/concepts"
+  },
+  {
+   "units": "u109-u112",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > Early Governance"
+  },
+  {
+   "units": "u113-u114",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > Religious Tolerance and Intolerance"
+  },
+  {
+   "units": "u115",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Establishment of European Colonies: 1500–1700 > Religious Tolerance and Intolerance: sample content/concepts"
+  },
+  {
+   "units": "u116-u117",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Establishment of European Colonies: 1500–1700 > Religious Tolerance and Intolerance"
+  },
+  {
+   "units": "u118",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Religious Tolerance and Intolerance"
+  },
+  {
+   "units": "u119",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800"
+  },
+  {
+   "units": "u120-u122",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800: sample compelling questions"
+  },
+  {
+   "units": "u123-u129",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800"
+  },
+  {
+   "units": "u130-u131",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Slave Trade and the Atlantic World"
+  },
+  {
+   "units": "u132",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Slave Trade and the Atlantic World: sample content/concepts"
+  },
+  {
+   "units": "u133-u137",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Slave Trade and the Atlantic World"
+  },
+  {
+   "units": "u138-u139",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Labor Systems"
+  },
+  {
+   "units": "u140",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Labor Systems: sample content/concepts"
+  },
+  {
+   "units": "u141-u144",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Labor Systems"
+  },
+  {
+   "units": "u145-u146",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Life of Enslaved People"
+  },
+  {
+   "units": "u147",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Life of Enslaved People: sample content/concepts"
+  },
+  {
+   "units": "u148-u149",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery and Freedom in Colonial America: 1600–1800 > Life of Enslaved People"
+  },
+  {
+   "units": "u150",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 5 > Life of Enslaved People"
+  },
+  {
+   "units": "u151",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750"
+  },
+  {
+   "units": "u152-u154",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Transformation of Colonial America: 1700–1750: sample compelling questions"
+  },
+  {
+   "units": "u155-u161",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750"
+  },
+  {
+   "units": "u162-u163",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750 > Regions of English Colonial America"
+  },
+  {
+   "units": "u164",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Transformation of Colonial America: 1700–1750 > Regions of English Colonial America: sample content/concepts"
+  },
+  {
+   "units": "u165-u169",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750 > Regions of English Colonial America"
+  },
+  {
+   "units": "u170-u171",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750 > Women in Colonial America"
+  },
+  {
+   "units": "u172",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Transformation of Colonial America: 1700–1750 > Women in Colonial America: sample content/concepts"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Transformation of Colonial America: 1700–1750 > Women in Colonial America"
+  },
+  {
+   "units": "u175",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 6 > Women in Colonial America"
+  },
+  {
+   "units": "u176",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800"
+  },
+  {
+   "units": "u177-u179",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "American Revolution: 1750–1800: sample compelling questions"
+  },
+  {
+   "units": "u180-u186",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800"
+  },
+  {
+   "units": "u187-u188",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Road to Revolution"
+  },
+  {
+   "units": "u189",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "American Revolution: 1750–1800 > Road to Revolution: sample content/concepts"
+  },
+  {
+   "units": "u190-u193",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Road to Revolution"
+  },
+  {
+   "units": "u194-u195",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Nations and Independence"
+  },
+  {
+   "units": "u196",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "American Revolution: 1750–1800 > Nations and Independence: sample content/concepts"
+  },
+  {
+   "units": "u197-u202",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Nations and Independence"
+  },
+  {
+   "units": "u203",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "American Revolution: 1750–1800 > Nations and Independence: sample content/concepts"
+  },
+  {
+   "units": "u204-u209",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Nations and Independence"
+  },
+  {
+   "units": "u210",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "American Revolution: 1750–1800 > Nations and Independence: sample content/concepts"
+  },
+  {
+   "units": "u211-u212",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "American Revolution: 1750–1800 > Nations and Independence"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades 3-5 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards."
+ ]
+}

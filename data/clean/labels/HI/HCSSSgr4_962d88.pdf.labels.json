@@ -1,0 +1,712 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr4_962d88.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 3-5 Inquiry Standards' (Anchor Standards 1-5, codes SS.3-5.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.4.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u34",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u35",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u36",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration"
+  },
+  {
+   "units": "u37-u39",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Creation Beliefs and Polynesian Migration: sample compelling questions"
+  },
+  {
+   "units": "u40-u46",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration"
+  },
+  {
+   "units": "u47-u48",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Creation Beliefs"
+  },
+  {
+   "units": "u49",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Creation Beliefs and Polynesian Migration > Creation Beliefs: sample content/concepts"
+  },
+  {
+   "units": "u50-u52",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Creation Beliefs"
+  },
+  {
+   "units": "u53-u54",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Stories"
+  },
+  {
+   "units": "u55",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Stories: sample content/concepts"
+  },
+  {
+   "units": "u56-u58",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Stories"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Methods"
+  },
+  {
+   "units": "u61",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Methods: sample content/concepts"
+  },
+  {
+   "units": "u62-u65",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Creation Beliefs and Polynesian Migration > Migration Methods"
+  },
+  {
+   "units": "u66",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Migration Methods"
+  },
+  {
+   "units": "u67",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction"
+  },
+  {
+   "units": "u68-u70",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiian-Environment Interaction: sample compelling questions"
+  },
+  {
+   "units": "u71-u77",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction"
+  },
+  {
+   "units": "u78-u79",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Characteristics of a Volcanic Island"
+  },
+  {
+   "units": "u80",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Characteristics of a Volcanic Island: sample content/concepts"
+  },
+  {
+   "units": "u81-u86",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Characteristics of a Volcanic Island"
+  },
+  {
+   "units": "u87-u88",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Human Distribution"
+  },
+  {
+   "units": "u89",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiian-Environment Interaction > Human Distribution: sample content/concepts"
+  },
+  {
+   "units": "u90-u95",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Human Distribution"
+  },
+  {
+   "units": "u96-u97",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Modification"
+  },
+  {
+   "units": "u98",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Modification: sample content/concepts"
+  },
+  {
+   "units": "u99-u102",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiian-Environment Interaction > Environmental Modification"
+  },
+  {
+   "units": "u103",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Environmental Modification"
+  },
+  {
+   "units": "u104",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land"
+  },
+  {
+   "units": "u105-u107",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiians and the Land: sample compelling questions"
+  },
+  {
+   "units": "u108-u114",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land"
+  },
+  {
+   "units": "u115-u116",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land > Natural Resources"
+  },
+  {
+   "units": "u117",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiians and the Land > Natural Resources: sample content/concepts"
+  },
+  {
+   "units": "u118-u121",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land > Natural Resources"
+  },
+  {
+   "units": "u122-u123",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land > Native vs Non-Native"
+  },
+  {
+   "units": "u124",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Early Hawaiians and the Land > Native vs Non-Native: sample content/concepts"
+  },
+  {
+   "units": "u125-u128",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Early Hawaiians and the Land > Native vs Non-Native"
+  },
+  {
+   "units": "u129",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Native vs Non-Native"
+  },
+  {
+   "units": "u130",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture"
+  },
+  {
+   "units": "u131-u133",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Evolution of Hawaiian Culture: sample compelling questions"
+  },
+  {
+   "units": "u134-u140",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture"
+  },
+  {
+   "units": "u141-u142",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture > Hawaiian and Other Polynesian Cultures"
+  },
+  {
+   "units": "u143",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Evolution of Hawaiian Culture > Hawaiian and Other Polynesian Cultures: sample content/concepts"
+  },
+  {
+   "units": "u144-u149",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture > Hawaiian and Other Polynesian Cultures"
+  },
+  {
+   "units": "u150-u151",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture > Core Values of Early Communities"
+  },
+  {
+   "units": "u152",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Evolution of Hawaiian Culture > Core Values of Early Communities: sample content/concepts"
+  },
+  {
+   "units": "u153-u155",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Evolution of Hawaiian Culture > Core Values of Early Communities"
+  },
+  {
+   "units": "u156",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 5 > Core Values of Early Communities"
+  },
+  {
+   "units": "u157",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society"
+  },
+  {
+   "units": "u158-u160",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Beliefs of Early Hawaiian Society: sample compelling questions"
+  },
+  {
+   "units": "u161-u167",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society"
+  },
+  {
+   "units": "u168-u169",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society > Hawaiian Gods"
+  },
+  {
+   "units": "u170",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Beliefs of Early Hawaiian Society > Hawaiian Gods: sample content/concepts"
+  },
+  {
+   "units": "u171-u174",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society > Hawaiian Gods"
+  },
+  {
+   "units": "u175-u176",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society > Roles and Responsibilities"
+  },
+  {
+   "units": "u177",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Beliefs of Early Hawaiian Society > Roles and Responsibilities: sample content/concepts"
+  },
+  {
+   "units": "u178-u180",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Beliefs of Early Hawaiian Society > Roles and Responsibilities"
+  },
+  {
+   "units": "u181",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 6 > Roles and Responsibilities"
+  },
+  {
+   "units": "u182",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society"
+  },
+  {
+   "units": "u183",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Governance in Early Hawaiian Society: sample compelling questions"
+  },
+  {
+   "units": "u184",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Governance in Early Hawaiian Society"
+  },
+  {
+   "units": "u185",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Governance in Early Hawaiian Society: sample compelling questions"
+  },
+  {
+   "units": "u186-u187",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Anchor Standard"
+  },
+  {
+   "units": "u188",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Anchor Standard: sample content/concepts"
+  },
+  {
+   "units": "u189",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Anchor Standard"
+  },
+  {
+   "units": "u190",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > The student demonstrates an understanding of"
+  },
+  {
+   "units": "u191",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > The student demonstrates an understanding of: sample content/concepts"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Civics"
+  },
+  {
+   "units": "u194",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Civics: sample content/concepts"
+  },
+  {
+   "units": "u195",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Governance in Early Hawaiian Society > Civics"
+  },
+  {
+   "units": "u196",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Anchor Standard 8"
+  },
+  {
+   "units": "u197",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Processes, Rules"
+  },
+  {
+   "units": "u198",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > and Laws"
+  },
+  {
+   "units": "u199-u200",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Economics"
+  },
+  {
+   "units": "u201",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Economics: sample content/concepts"
+  },
+  {
+   "units": "u202",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Governance in Early Hawaiian Society > Economics"
+  },
+  {
+   "units": "u203",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Anchor Standard 9"
+  },
+  {
+   "units": "u204",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Economic Decision"
+  },
+  {
+   "units": "u205",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Governance in Early Hawaiian Society > Making"
+  },
+  {
+   "units": "u206",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 7 > Making"
+  },
+  {
+   "units": "u207",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a"
+  },
+  {
+   "units": "u208-u210",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Life in the Ahupua‘a: sample compelling questions"
+  },
+  {
+   "units": "u211-u217",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a"
+  },
+  {
+   "units": "u218-u219",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a > Land Usage and Human Modification"
+  },
+  {
+   "units": "u220",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Life in the Ahupua‘a > Land Usage and Human Modification: sample content/concepts"
+  },
+  {
+   "units": "u221-u225",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a > Land Usage and Human Modification"
+  },
+  {
+   "units": "u226-u227",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a > Specialization of Skills"
+  },
+  {
+   "units": "u228",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Life in the Ahupua‘a > Specialization of Skills: sample content/concepts"
+  },
+  {
+   "units": "u229-u231",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Life in the Ahupua‘a > Specialization of Skills"
+  },
+  {
+   "units": "u232",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 8 > Specialization of Skills"
+  },
+  {
+   "units": "u233",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification"
+  },
+  {
+   "units": "u234-u236",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification: sample compelling questions"
+  },
+  {
+   "units": "u237-u243",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Governance of the Ali‘i"
+  },
+  {
+   "units": "u246",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Governance of the Ali‘i: sample content/concepts"
+  },
+  {
+   "units": "u247-u250",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Governance of the Ali‘i"
+  },
+  {
+   "units": "u251-u252",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Rise of Kamehameha I"
+  },
+  {
+   "units": "u253",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Rise of Kamehameha I: sample content/concepts"
+  },
+  {
+   "units": "u254-u256",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "The Beginnings of the Hawaiian Kingdom through Unification > Rise of Kamehameha I"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32/u34) is headed 'Grades 3-5 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u181-u205 (Theme 6, page 8): all table cells are shifted one column right (Theme/title in C2/C3, content standard in C4, sample content in C5); labeled by content, not column index: u183-u185 compelling questions and u195, u202 sample content are examples, rest standards."
+ ]
+}

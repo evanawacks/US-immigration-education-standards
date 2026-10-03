@@ -1,0 +1,2984 @@
+{
+ "state": "WA",
+ "file": "ospi_socstudies_standards_2019_7b61b4.pdf",
+ "structure": "Single master PDF 'Washington State K-12 Learning Standards for Social Studies' (OSPI, 2019). Front matter pp.1-12 (u1-u115): cover, license, adoption statement, TOC, introduction, numbering/C3 explanation. Then three grade-band parts: Elementary Grades K-5 (u116-u575/u578), Middle School 6-8 (u580-u891), High School 9-12 (u893-u1154); each opens with a band overview (Skills, World History, Washington State, U.S. History narratives) and a table of five overarching Learning Standard statements (Social Studies Skills, Civics, Economics, Geography, History). Standards pages are two-column tables (one table per page): left cell [T1 R1 C1] 'Components' with the standards text, right cell [T1 R1 C2] 'Sample Questions'. Each page begins with the discipline name (Social Studies Skills / Civics / Economics / Geography / History) and a performance-standard line (SSS1-4, C1-C4, E1-E4, G1-G3, H1-H4), then an Enduring Understanding (bullet-prefixed lines under the performance standard), then the Components and Sample Questions cells, then a Since Time Immemorial / Native Knowledge 360 curriculum cross-reference line (Pathways, Washington State History Units, Middle/High School Curriculum). Component codes: <letter(s)><performance std>.<grade or band>.<component>, e.g. SSS1.K.1, C1.3.2, H1.6-8.4, E2.11-12.3, with 'By the end of <grade>, students will:' sub-headers inside the cell. K-5 pages alternate K-2 pages (K,1,2 in one cell) and 3-5 pages (3,4,5 in one cell); 6-8 cells hold (World) 6th, (WA) 7th, (US) 8th together; 9-12 cells hold 9/10 and 11/12 together. Tables that overflow continue on the next page with 'Components'/'Sample Questions' column labels. Appendices (FAQ, bibliography, acknowledgments, back cover) are pp.110-119 (u1156-u1357).",
+ "labels": [
+  {
+   "units": "u1-u115",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, license, adoption statement, TOC, introduction, how to navigate"
+  },
+  {
+   "units": "u116-u117",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades K-5 band title"
+  },
+  {
+   "units": "u118-u125",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 band overview narrative (Skills, World History, Washington State, U.S. History)"
+  },
+  {
+   "units": "u127-u130",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Social Studies Learning Standards table header (icon/standard)"
+  },
+  {
+   "units": "u131-u135",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Learning Standard statements by discipline (K-5)"
+  },
+  {
+   "units": "u137-u138",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. (heading)"
+  },
+  {
+   "units": "u140-u141",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Enduring Understanding"
+  },
+  {
+   "units": "u142",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Components"
+  },
+  {
+   "units": "u143",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Sample Questions"
+  },
+  {
+   "units": "u146",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u148-u149",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. (heading)"
+  },
+  {
+   "units": "u151-u152",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Enduring Understanding"
+  },
+  {
+   "units": "u153",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Components"
+  },
+  {
+   "units": "u154",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Sample Questions"
+  },
+  {
+   "units": "u157",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u159-u160",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. (heading)"
+  },
+  {
+   "units": "u162-u163",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Enduring Understanding"
+  },
+  {
+   "units": "u164",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Components"
+  },
+  {
+   "units": "u165",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Sample Questions"
+  },
+  {
+   "units": "u168",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u170-u171",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. (heading)"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Enduring Understanding"
+  },
+  {
+   "units": "u175",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Components"
+  },
+  {
+   "units": "u176",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Sample Questions"
+  },
+  {
+   "units": "u179",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u181-u182",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. (heading)"
+  },
+  {
+   "units": "u184-u185",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Enduring Understanding"
+  },
+  {
+   "units": "u186",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Components"
+  },
+  {
+   "units": "u187",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Sample Questions"
+  },
+  {
+   "units": "u190",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. (heading)"
+  },
+  {
+   "units": "u195-u196",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Enduring Understanding"
+  },
+  {
+   "units": "u197",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Components"
+  },
+  {
+   "units": "u198",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Sample Questions"
+  },
+  {
+   "units": "u201",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u203-u204",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  (heading)"
+  },
+  {
+   "units": "u206-u207",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Enduring Understanding"
+  },
+  {
+   "units": "u208",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Components"
+  },
+  {
+   "units": "u209",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Sample Questions"
+  },
+  {
+   "units": "u212",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u214-u215",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  (heading)"
+  },
+  {
+   "units": "u217-u218",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Enduring Understanding"
+  },
+  {
+   "units": "u219",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Components"
+  },
+  {
+   "units": "u220",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Sample Questions"
+  },
+  {
+   "units": "u222",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  (heading, continued)"
+  },
+  {
+   "units": "u225",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Curriculum connections"
+  },
+  {
+   "units": "u227-u228",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  (heading)"
+  },
+  {
+   "units": "u230-u231",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Enduring Understanding"
+  },
+  {
+   "units": "u232",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Components"
+  },
+  {
+   "units": "u233",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Sample Questions"
+  },
+  {
+   "units": "u236",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u238-u239",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  (heading)"
+  },
+  {
+   "units": "u241-u242",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Enduring Understanding"
+  },
+  {
+   "units": "u243",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Components"
+  },
+  {
+   "units": "u244",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Sample Questions"
+  },
+  {
+   "units": "u246",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  (heading, continued)"
+  },
+  {
+   "units": "u249",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Curriculum connections"
+  },
+  {
+   "units": "u251-u252",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading)"
+  },
+  {
+   "units": "u254",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Enduring Understanding"
+  },
+  {
+   "units": "u255",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components"
+  },
+  {
+   "units": "u256",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Sample Questions"
+  },
+  {
+   "units": "u259",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u261-u262",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading)"
+  },
+  {
+   "units": "u264",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Enduring Understanding"
+  },
+  {
+   "units": "u265",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components"
+  },
+  {
+   "units": "u266",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Sample Questions"
+  },
+  {
+   "units": "u268",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading, continued)"
+  },
+  {
+   "units": "u269",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components (continued)"
+  },
+  {
+   "units": "u270",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Sample Questions label"
+  },
+  {
+   "units": "u271",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components (continued)"
+  },
+  {
+   "units": "u274",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Curriculum connections"
+  },
+  {
+   "units": "u276-u277",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  (heading)"
+  },
+  {
+   "units": "u279-u280",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Enduring Understanding"
+  },
+  {
+   "units": "u281",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Components"
+  },
+  {
+   "units": "u282",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Sample Questions"
+  },
+  {
+   "units": "u285",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  (heading)"
+  },
+  {
+   "units": "u289-u291",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Enduring Understanding"
+  },
+  {
+   "units": "u292",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Components"
+  },
+  {
+   "units": "u293",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Sample Questions"
+  },
+  {
+   "units": "u295",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  (heading, continued)"
+  },
+  {
+   "units": "u298",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Curriculum connections"
+  },
+  {
+   "units": "u300-u301",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading)"
+  },
+  {
+   "units": "u302-u304",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Enduring Understanding"
+  },
+  {
+   "units": "u305",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. > Components"
+  },
+  {
+   "units": "u306",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Sample Questions"
+  },
+  {
+   "units": "u309",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u311-u312",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading)"
+  },
+  {
+   "units": "u313-u315",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Enduring Understanding"
+  },
+  {
+   "units": "u316",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. > Components"
+  },
+  {
+   "units": "u317",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Sample Questions"
+  },
+  {
+   "units": "u319",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading, continued)"
+  },
+  {
+   "units": "u322",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Curriculum connections"
+  },
+  {
+   "units": "u324-u325",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a (heading)"
+  },
+  {
+   "units": "u327",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Enduring Understanding"
+  },
+  {
+   "units": "u328",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Components"
+  },
+  {
+   "units": "u329",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Sample Questions"
+  },
+  {
+   "units": "u332",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u334-u335",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a (heading)"
+  },
+  {
+   "units": "u337",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Enduring Understanding"
+  },
+  {
+   "units": "u338",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Components"
+  },
+  {
+   "units": "u339",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Sample Questions"
+  },
+  {
+   "units": "u342",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u344-u345",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. (heading)"
+  },
+  {
+   "units": "u346-u348",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Enduring Understanding"
+  },
+  {
+   "units": "u349",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. > Components"
+  },
+  {
+   "units": "u350",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Sample Questions"
+  },
+  {
+   "units": "u353",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u355-u356",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. (heading)"
+  },
+  {
+   "units": "u357-u359",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Enduring Understanding"
+  },
+  {
+   "units": "u360",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. > Components"
+  },
+  {
+   "units": "u361",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Sample Questions"
+  },
+  {
+   "units": "u363",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. (heading, continued)"
+  },
+  {
+   "units": "u364",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. > Components (continued)"
+  },
+  {
+   "units": "u365",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Sample Questions label"
+  },
+  {
+   "units": "u366-u371",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands the components of an economic system. > Components (continued)"
+  },
+  {
+   "units": "u374",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands the components of an economic system. > Curriculum connections"
+  },
+  {
+   "units": "u376-u377",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. (heading)"
+  },
+  {
+   "units": "u379",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Enduring Understanding"
+  },
+  {
+   "units": "u380",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Components"
+  },
+  {
+   "units": "u381",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Sample Questions"
+  },
+  {
+   "units": "u384",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u386-u387",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. (heading)"
+  },
+  {
+   "units": "u389",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Enduring Understanding"
+  },
+  {
+   "units": "u390",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Components"
+  },
+  {
+   "units": "u391",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Sample Questions"
+  },
+  {
+   "units": "u394",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u396-u397",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. (heading)"
+  },
+  {
+   "units": "u399-u400",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Enduring Understanding"
+  },
+  {
+   "units": "u401",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Components"
+  },
+  {
+   "units": "u402",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Sample Questions"
+  },
+  {
+   "units": "u405",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u407-u408",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. (heading)"
+  },
+  {
+   "units": "u410-u411",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Enduring Understanding"
+  },
+  {
+   "units": "u412",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Components"
+  },
+  {
+   "units": "u413",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Sample Questions"
+  },
+  {
+   "units": "u416",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an (heading)"
+  },
+  {
+   "units": "u421-u422",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Enduring Understanding"
+  },
+  {
+   "units": "u423",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Components"
+  },
+  {
+   "units": "u424",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Sample Questions"
+  },
+  {
+   "units": "u427",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u429-u430",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an (heading)"
+  },
+  {
+   "units": "u432-u433",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Enduring Understanding"
+  },
+  {
+   "units": "u434",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Components"
+  },
+  {
+   "units": "u435",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Sample Questions"
+  },
+  {
+   "units": "u438",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u440-u441",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. (heading)"
+  },
+  {
+   "units": "u443-u444",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Enduring Understanding"
+  },
+  {
+   "units": "u445",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components"
+  },
+  {
+   "units": "u446",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Sample Questions"
+  },
+  {
+   "units": "u449",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u451-u452",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. (heading)"
+  },
+  {
+   "units": "u454-u455",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Enduring Understanding"
+  },
+  {
+   "units": "u456",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components"
+  },
+  {
+   "units": "u457",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Sample Questions"
+  },
+  {
+   "units": "u459",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. (heading, continued)"
+  },
+  {
+   "units": "u460",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components (continued)"
+  },
+  {
+   "units": "u461",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Sample Questions label"
+  },
+  {
+   "units": "u462-u463",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components (continued)"
+  },
+  {
+   "units": "u466",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Curriculum connections"
+  },
+  {
+   "units": "u468-u469",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. (heading)"
+  },
+  {
+   "units": "u471-u472",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Enduring Understanding"
+  },
+  {
+   "units": "u473",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Components"
+  },
+  {
+   "units": "u474",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Sample Questions"
+  },
+  {
+   "units": "u477",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u479-u480",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. (heading)"
+  },
+  {
+   "units": "u482-u483",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Enduring Understanding"
+  },
+  {
+   "units": "u484",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Components"
+  },
+  {
+   "units": "u485",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Sample Questions"
+  },
+  {
+   "units": "u488",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u490-u491",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading)"
+  },
+  {
+   "units": "u493-u494",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Enduring Understanding"
+  },
+  {
+   "units": "u495",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. > Components"
+  },
+  {
+   "units": "u496",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Sample Questions"
+  },
+  {
+   "units": "u499",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u501-u502",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading)"
+  },
+  {
+   "units": "u504-u505",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Enduring Understanding"
+  },
+  {
+   "units": "u506",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. > Components"
+  },
+  {
+   "units": "u507",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Sample Questions"
+  },
+  {
+   "units": "u510",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u512-u513",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  (heading)"
+  },
+  {
+   "units": "u515-u516",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Enduring Understanding"
+  },
+  {
+   "units": "u517",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Components"
+  },
+  {
+   "units": "u518",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Sample Questions"
+  },
+  {
+   "units": "u521",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u523-u524",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  (heading)"
+  },
+  {
+   "units": "u526-u527",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Enduring Understanding"
+  },
+  {
+   "units": "u528",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Components"
+  },
+  {
+   "units": "u529",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Sample Questions"
+  },
+  {
+   "units": "u532",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u534-u535",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o (heading)"
+  },
+  {
+   "units": "u537-u538",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Enduring Understanding"
+  },
+  {
+   "units": "u539",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Components"
+  },
+  {
+   "units": "u540",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Sample Questions"
+  },
+  {
+   "units": "u543",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u545-u546",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o (heading)"
+  },
+  {
+   "units": "u548-u549",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Enduring Understanding"
+  },
+  {
+   "units": "u550",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Components"
+  },
+  {
+   "units": "u551",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Sample Questions"
+  },
+  {
+   "units": "u554",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u556-u557",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu (heading)"
+  },
+  {
+   "units": "u559-u560",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Enduring Understanding"
+  },
+  {
+   "units": "u561",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Components"
+  },
+  {
+   "units": "u562",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Sample Questions"
+  },
+  {
+   "units": "u565",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u567-u568",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu (heading)"
+  },
+  {
+   "units": "u570-u571",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Enduring Understanding"
+  },
+  {
+   "units": "u572",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Components"
+  },
+  {
+   "units": "u573",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Sample Questions"
+  },
+  {
+   "units": "u575",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu (heading, continued)"
+  },
+  {
+   "units": "u578",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Curriculum connections"
+  },
+  {
+   "units": "u580-u581",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 band title"
+  },
+  {
+   "units": "u582-u590",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6-8 band overview narrative (Skills, World History 6, Washington State 7, U.S. History 8)"
+  },
+  {
+   "units": "u592",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 running title (page 50)"
+  },
+  {
+   "units": "u593",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "U.S. History (8th grade) overview narrative, continued"
+  },
+  {
+   "units": "u594-u597",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Districts may address 6-8 standards over multiple grades; Learning Standards table header"
+  },
+  {
+   "units": "u598-u602",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Learning Standard statements by discipline (6-8)"
+  },
+  {
+   "units": "u604-u605",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. (heading)"
+  },
+  {
+   "units": "u607-u608",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Enduring Understanding"
+  },
+  {
+   "units": "u609",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Components"
+  },
+  {
+   "units": "u610",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Sample Questions"
+  },
+  {
+   "units": "u612-u614",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u616-u617",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. (heading)"
+  },
+  {
+   "units": "u619-u620",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Enduring Understanding"
+  },
+  {
+   "units": "u621",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Components"
+  },
+  {
+   "units": "u622",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Sample Questions"
+  },
+  {
+   "units": "u624-u626",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u628-u629",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. (heading)"
+  },
+  {
+   "units": "u631-u632",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Enduring Understanding"
+  },
+  {
+   "units": "u633",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Components"
+  },
+  {
+   "units": "u634",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Sample Questions"
+  },
+  {
+   "units": "u636-u638",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u640-u641",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a thesis (heading)"
+  },
+  {
+   "units": "u643-u644",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a thesis > Enduring Understanding"
+  },
+  {
+   "units": "u645",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a thesis > Components"
+  },
+  {
+   "units": "u646",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a thesis > Sample Questions"
+  },
+  {
+   "units": "u648-u650",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a thesis > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u652-u653",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  (heading)"
+  },
+  {
+   "units": "u655-u660",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Enduring Understanding"
+  },
+  {
+   "units": "u661",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Components"
+  },
+  {
+   "units": "u662",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Sample Questions"
+  },
+  {
+   "units": "u664-u665",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u667-u668",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading)"
+  },
+  {
+   "units": "u670-u675",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Enduring Understanding"
+  },
+  {
+   "units": "u676",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components"
+  },
+  {
+   "units": "u677",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Sample Questions"
+  },
+  {
+   "units": "u679",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading, continued)"
+  },
+  {
+   "units": "u681-u683",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Curriculum connections"
+  },
+  {
+   "units": "u685-u686",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  (heading)"
+  },
+  {
+   "units": "u688-u693",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Enduring Understanding"
+  },
+  {
+   "units": "u694",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Components"
+  },
+  {
+   "units": "u695",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Sample Questions"
+  },
+  {
+   "units": "u697-u699",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u701-u702",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading)"
+  },
+  {
+   "units": "u704-u710",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Enduring Understanding"
+  },
+  {
+   "units": "u711",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. > Components"
+  },
+  {
+   "units": "u712",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Sample Questions"
+  },
+  {
+   "units": "u714",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading, continued)"
+  },
+  {
+   "units": "u716-u717",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Curriculum connections"
+  },
+  {
+   "units": "u719-u720",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a (heading)"
+  },
+  {
+   "units": "u722-u727",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Enduring Understanding"
+  },
+  {
+   "units": "u728",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Components"
+  },
+  {
+   "units": "u729",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Sample Questions"
+  },
+  {
+   "units": "u731-u733",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u735-u736",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. (heading)"
+  },
+  {
+   "units": "u738-u743",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Enduring Understanding"
+  },
+  {
+   "units": "u744",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. > Components"
+  },
+  {
+   "units": "u745",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Sample Questions"
+  },
+  {
+   "units": "u747-u749",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u751-u752",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. (heading)"
+  },
+  {
+   "units": "u754-u761",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Enduring Understanding"
+  },
+  {
+   "units": "u762",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Components"
+  },
+  {
+   "units": "u763",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Sample Questions"
+  },
+  {
+   "units": "u765-u766",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u768-u769",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. (heading)"
+  },
+  {
+   "units": "u771-u776",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Enduring Understanding"
+  },
+  {
+   "units": "u777",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Components"
+  },
+  {
+   "units": "u778",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Sample Questions"
+  },
+  {
+   "units": "u780-u782",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u784-u785",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an (heading)"
+  },
+  {
+   "units": "u787-u792",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Enduring Understanding"
+  },
+  {
+   "units": "u793",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Components"
+  },
+  {
+   "units": "u794",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Sample Questions"
+  },
+  {
+   "units": "u796-u798",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural characteristics, an > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u800-u801",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. (heading)"
+  },
+  {
+   "units": "u803-u808",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Enduring Understanding"
+  },
+  {
+   "units": "u809",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components"
+  },
+  {
+   "units": "u810",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Sample Questions"
+  },
+  {
+   "units": "u812-u814",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u816-u817",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. (heading)"
+  },
+  {
+   "units": "u819-u821",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Enduring Understanding"
+  },
+  {
+   "units": "u822",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Components"
+  },
+  {
+   "units": "u823",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Sample Questions"
+  },
+  {
+   "units": "u825-u826",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u828-u829",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading)"
+  },
+  {
+   "units": "u831-u834",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Enduring Understanding"
+  },
+  {
+   "units": "u835",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. > Components"
+  },
+  {
+   "units": "u836",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Sample Questions"
+  },
+  {
+   "units": "u838",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading, continued)"
+  },
+  {
+   "units": "u840-u843",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Curriculum connections"
+  },
+  {
+   "units": "u845-u846",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  (heading)"
+  },
+  {
+   "units": "u848-u853",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Enduring Understanding"
+  },
+  {
+   "units": "u854",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Components"
+  },
+  {
+   "units": "u855",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Sample Questions"
+  },
+  {
+   "units": "u857-u859",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u861-u862",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o (heading)"
+  },
+  {
+   "units": "u864-u869",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Enduring Understanding"
+  },
+  {
+   "units": "u870",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Components"
+  },
+  {
+   "units": "u871",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Sample Questions"
+  },
+  {
+   "units": "u873-u875",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u877-u878",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu (heading)"
+  },
+  {
+   "units": "u880-u885",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Enduring Understanding"
+  },
+  {
+   "units": "u886",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Components"
+  },
+  {
+   "units": "u887",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Sample Questions"
+  },
+  {
+   "units": "u889-u891",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u893-u894",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-12 band title"
+  },
+  {
+   "units": "u895-u902",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "9-12 band overview narrative (Skills, World History 9/10, U.S. History 11, Civics/CWP 12)"
+  },
+  {
+   "units": "u904-u907",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Learning Standards table header (icon/standard)"
+  },
+  {
+   "units": "u908-u912",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Learning Standard statements by discipline (9-12)"
+  },
+  {
+   "units": "u914-u915",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. (heading)"
+  },
+  {
+   "units": "u917-u918",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Enduring Understanding"
+  },
+  {
+   "units": "u919",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Components"
+  },
+  {
+   "units": "u920",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Sample Questions"
+  },
+  {
+   "units": "u922-u924",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS1: Uses critical reasoning skills to analyze and evaluate claims. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u926-u927",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. (heading)"
+  },
+  {
+   "units": "u929-u930",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Enduring Understanding"
+  },
+  {
+   "units": "u931",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Components"
+  },
+  {
+   "units": "u932",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Sample Questions"
+  },
+  {
+   "units": "u934-u936",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS2: Uses inquiry-based research. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u938-u939",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. (heading)"
+  },
+  {
+   "units": "u941-u942",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Enduring Understanding"
+  },
+  {
+   "units": "u943",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Components"
+  },
+  {
+   "units": "u944",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Sample Questions"
+  },
+  {
+   "units": "u946-u949",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS3: Deliberates public issues. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u951-u952",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  (heading)"
+  },
+  {
+   "units": "u954-u955",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Enduring Understanding"
+  },
+  {
+   "units": "u956",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Components"
+  },
+  {
+   "units": "u957",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Sample Questions"
+  },
+  {
+   "units": "u959-u961",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Studies Skills > SSS4: Creates a product that uses social studies content to support a claim  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u963-u964",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  (heading)"
+  },
+  {
+   "units": "u966-u967",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Enduring Understanding"
+  },
+  {
+   "units": "u968",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Components"
+  },
+  {
+   "units": "u969",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Sample Questions"
+  },
+  {
+   "units": "u971-u973",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C1: Understands key ideals and principles of the United States, including  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u975-u976",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l (heading)"
+  },
+  {
+   "units": "u978-u979",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Enduring Understanding"
+  },
+  {
+   "units": "u980",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Components"
+  },
+  {
+   "units": "u981",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Sample Questions"
+  },
+  {
+   "units": "u983-u985",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C2: Understands the purposes, organization, and function of governments, l > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u987-u988",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  (heading)"
+  },
+  {
+   "units": "u990-u991",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Enduring Understanding"
+  },
+  {
+   "units": "u992",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Components"
+  },
+  {
+   "units": "u993",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Sample Questions"
+  },
+  {
+   "units": "u995-u997",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C3: Understands the purposes and organization of tribal and international  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u999-u1000",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. (heading)"
+  },
+  {
+   "units": "u1002-u1003",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Enduring Understanding"
+  },
+  {
+   "units": "u1004",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C4: Understands civic involvement. > Components"
+  },
+  {
+   "units": "u1005",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Sample Questions"
+  },
+  {
+   "units": "u1007-u1009",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > C4: Understands civic involvement. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1011-u1012",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a (heading)"
+  },
+  {
+   "units": "u1014-u1015",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Enduring Understanding"
+  },
+  {
+   "units": "u1016",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Components"
+  },
+  {
+   "units": "u1017",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Sample Questions"
+  },
+  {
+   "units": "u1019-u1021",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E1: Understands that people have to make choices between wants and needs a > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1023-u1024",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. (heading)"
+  },
+  {
+   "units": "u1026-u1027",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Enduring Understanding"
+  },
+  {
+   "units": "u1028",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. > Components"
+  },
+  {
+   "units": "u1029",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Sample Questions"
+  },
+  {
+   "units": "u1031",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. (heading, continued)"
+  },
+  {
+   "units": "u1032",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. > Components (continued)"
+  },
+  {
+   "units": "u1033",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Sample Questions label"
+  },
+  {
+   "units": "u1034-u1040",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E2: Understands how economic systems function. > Components (continued)"
+  },
+  {
+   "units": "u1041",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E2: Understands how economic systems function. > Curriculum connections"
+  },
+  {
+   "units": "u1043-u1044",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. (heading)"
+  },
+  {
+   "units": "u1046-u1047",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Enduring Understanding"
+  },
+  {
+   "units": "u1048",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Components"
+  },
+  {
+   "units": "u1049",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Sample Questions"
+  },
+  {
+   "units": "u1051-u1053",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E3: Understands the government\u2019s role in the economy. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1055-u1056",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. (heading)"
+  },
+  {
+   "units": "u1058-u1059",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Enduring Understanding"
+  },
+  {
+   "units": "u1060",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Components"
+  },
+  {
+   "units": "u1061",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Sample Questions"
+  },
+  {
+   "units": "u1063-u1065",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > E4: Understands the economic issues and problems that all societies face. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1067-u1068",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l (heading)"
+  },
+  {
+   "units": "u1070-u1071",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l > Enduring Understanding"
+  },
+  {
+   "units": "u1072",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l > Components"
+  },
+  {
+   "units": "u1073",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l > Sample Questions"
+  },
+  {
+   "units": "u1075",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l (heading, continued)"
+  },
+  {
+   "units": "u1077-u1079",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G1: Understands the physical characteristics, cultural significance, and l > Curriculum connections"
+  },
+  {
+   "units": "u1081-u1082",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. (heading)"
+  },
+  {
+   "units": "u1084-u1085",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Enduring Understanding"
+  },
+  {
+   "units": "u1086",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G2: Understands human interaction with the environment. > Components"
+  },
+  {
+   "units": "u1087",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Sample Questions"
+  },
+  {
+   "units": "u1089-u1091",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G2: Understands human interaction with the environment. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1093-u1094",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. (heading)"
+  },
+  {
+   "units": "u1096-u1097",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Enduring Understanding"
+  },
+  {
+   "units": "u1098",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Components"
+  },
+  {
+   "units": "u1099",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Sample Questions"
+  },
+  {
+   "units": "u1101-u1103",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > G3: Understands the geographic context of global issues and events. > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1105-u1106",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading)"
+  },
+  {
+   "units": "u1108-u1109",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Enduring Understanding"
+  },
+  {
+   "units": "u1110",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. > Components"
+  },
+  {
+   "units": "u1111",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Sample Questions"
+  },
+  {
+   "units": "u1113",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H1: Understands historical chronology. (heading, continued)"
+  },
+  {
+   "units": "u1115-u1117",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H1: Understands historical chronology. > Curriculum connections"
+  },
+  {
+   "units": "u1119-u1120",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  (heading)"
+  },
+  {
+   "units": "u1122-u1123",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Enduring Understanding"
+  },
+  {
+   "units": "u1124",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Components"
+  },
+  {
+   "units": "u1125",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Sample Questions"
+  },
+  {
+   "units": "u1127-u1129",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H2: Understands and analyzes causal factors that have shaped major events  > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1131-u1132",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o (heading)"
+  },
+  {
+   "units": "u1134-u1135",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Enduring Understanding"
+  },
+  {
+   "units": "u1136",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Components"
+  },
+  {
+   "units": "u1137",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Sample Questions"
+  },
+  {
+   "units": "u1139",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o (heading, continued)"
+  },
+  {
+   "units": "u1141-u1143",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H3: Understands that there are multiple perspectives and interpretations o > Curriculum connections"
+  },
+  {
+   "units": "u1145-u1146",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu (heading)"
+  },
+  {
+   "units": "u1148",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Enduring Understanding"
+  },
+  {
+   "units": "u1149",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Components"
+  },
+  {
+   "units": "u1150",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Sample Questions"
+  },
+  {
+   "units": "u1152-u1154",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History > H4: Understands how historical events inform analysis of contemporary issu > Since Time Immemorial / curriculum connections"
+  },
+  {
+   "units": "u1156-u1357",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendices: FAQ, bibliography, acknowledgments, back matter"
+  }
+ ],
+ "issues": [
+  "Document is one PDF extract where every table cell holds a whole band: K-5 'Components' cells hold K,1,2 (K-2 pages) or 3,4,5 (3-5 pages) together; 6-8 cells hold 6th (World), 7th (WA), 8th (US) together; 9-12 cells hold 9/10 and 11/12 together. Units cannot be split, so each such cell is labeled with its whole band (K-2, 3-5, 6-8, 9-12). Sample Questions cells and Enduring Understandings are likewise per band.",
+  "Pathways / 'Middle School Curriculum' / 'High School Curriculum' lines (Since Time Immemorial and Native Knowledge 360 curriculum cross-references, e.g. u146, u157, u613-u614, u922-u924) are labeled examples (content-related support, not standards); alternatively backup. Includes u222, u225 etc. where only a page-continuation heading and the cross-reference exist.",
+  "Enduring Understanding lines (bullet-prefixed text under each performance standard, plus the 'Enduring Understanding:' label e.g. u289, u302) are labeled examples.",
+  "Page 23, 26, 29, 32, 35, 40, 49, 60, 69, 72, 81, 97, 101, 105, 108 are spill-over pages whose tables continue from the previous page; their heading (e.g. u222 'Social Studies Skills', u246 'Civics') is labeled standards with the grade band of the preceding page, and the cross-reference line is examples.",
+  "u265-u271: C2.5.5 component text is cut at the page break (u265 ends 'explain'); continuation is u271 (page 29, left column x=74) and labeled standards 3-5. Same split for E2.5.2-4 (u366-u371), G2.5.7 (u462-u463) and E2.11-12.6-7 (u1034-u1037).",
+  "u268/u364/u460/u1032 'C o m p o n e n t s' and u270/u365/u461/u1033 'Sample Questions' are repeated column header labels on continuation pages; Components label labeled standards, Sample Questions label labeled examples.",
+  "u116-u117, u580-u581, u893-u894 band title lines ('Grades K-5 / Elementary School Standards by Discipline' etc.) labeled backup; band overview narratives (u118-u125, u582-u594 etc.) labeled examples. 6-8 narratives for World History (6th), Washington State (7th), U.S. History (8th) are labeled 6-8 because the guide's row cluster is 6-8 and cells combine all three grades.",
+  "u131-u135, u598-u602, u908-u912: the overarching 'Learning Standard' statement per discipline (Skills, Civics, Economics, Geography, History) labeled standards for the band; the 'color icon'/'standard' header units (u129-u130, u596-u597, u906-u907) are backup.",
+  "u594: 'These standards can be addressed over multiple grade levels (6-8) at the discretion of the district' labeled backup (implementation note).",
+  "HS content is grade-banded 9-10 and 11-12 in the same cell; no named high-school courses appear as headings (U.S. History 11th, Contemporary World Problems 12th, Native Knowledge 360 appear only in curriculum cross-reference lines), so course is null throughout and grades are 9-12. The 9-10 vs 11-12 split cannot be separated at the unit level (u968, u980, u992, etc.).",
+  "Components cell u968 (C1, 9/10th) states 'This component is taught at the 11th and 12th grade level' for 9/10; labeled 9-12 with rest of cell.",
+  "Document's own typo/format quirks (e.g. u338 'E.1.3.3', u676 'C2.6-8. 1') left as-is; page 22 (u214-u220) has no cross-reference line (it is on page 23, u225); the page 59 table's cross-reference is on page 60 (u578).",
+  "K-5 standards for SSS (Social Studies Skills) and 6-12 skills are labeled with their own band (K-2, 3-5, 6-8, 9-12) rather than the full K-12, since the document prints distinct components per band.",
+  "Pages 1-12 (u1-u115) include the adoption statement, introduction, numbering explanation (u51-u57 incl. example E2.K.1 component 'Identify consumers and producers' in u57) and C3 explanatory table (u60-u68): all backup/all."
+ ]
+}

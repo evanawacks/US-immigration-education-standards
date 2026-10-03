@@ -25,13 +25,17 @@ DE,DE-K-12-Civics-Standards-2018.docx,992,yes,
 DE,DE-K-12-Economics-Standards-2018.docx,827,yes,
 DE,DE-K-12-Geography-Standards-2018.docx,975,yes,
 DE,DE-K-12-History-Standards-2018.docx,1159,yes,
+DC,DC Standards in English.pdf,38458,yes,
 DC,Social_Studies_Assessment_Rubric_c71625.pdf,1422,no,not standards (tools/memo)
 DC,Social_Studies_Supplemental_Lesson_Tool_948fc3.pdf,2798,no,not standards (tools/memo)
 DC,Social_Studies_WalkthroughTool_f50c7d.pdf,1798,no,not standards (tools/memo)
-DC,TAL_SSStandards_SinglePageLayout_BW_0760c6.pdf,44981,yes,
+DC,TAL_SSStandards_SinglePageLayout_BW_0760c6.pdf,44981,no,Spanish version of the standards (counted via the English version)
 DC,To_Approve_DC_Social_Studies_Standards_SR23-7_040e49.pdf,596,no,not standards (tools/memo)
 FL,florida_k-12_social_studies.pdf,58902,yes,
-GA,GA Social Studies K-12.pdf,22072,yes,
+GA,CASE-Social Studies - Georgia Department of Education.json,269360,no,same standards as the CASE items CSV (subset print / JSON / CSV with notes)
+GA,GA Social Studies K-12.pdf,22072,no,same standards as the CASE items CSV (subset print / JSON / CSV with notes)
+GA,GA_Social_Studies_items_with_GOAL .csv,63947,no,same standards as the CASE items CSV (subset print / JSON / CSV with notes)
+GA,Social Studies - Georgia Department of Education-CASE-items.csv,29620,yes,
 HI,FilipinoHistoryCultureCourseStandards_96ad1e.pdf,1534,yes,
 HI,Financial-Literacy-Standards_1b3278.pdf,2407,yes,
 HI,HCPSIII_AsianStudies_b80bc4.pdf,1572,yes,
@@ -117,9 +121,12 @@ MA,2018-12_3e7081.pdf,83191,yes,
 MI,Final_Social_Studies_Standards_Document_655968_7_1bc63b.pdf,53774,yes,
 MN,MN k12 social science and studies 2021.pdf,25559,yes,
 MS,MS k12 social studies.pdf,92294,yes,
-MO,curr-MO-standards-ss-6-12-sboe-2016_AOD.pdf,16912,no,PDFs extract with doubled text; counted via Excel version
-MO,curr-MO-standards-ss-k-5-sboe-2016_AOD.pdf,7395,no,PDFs extract with doubled text; counted via Excel version
-MO,curr-mls-standards-ss-k-12-sboe-2016.xlsx,29768,yes,
+MO,MO curr-mls-standards-ss-6-12-sboe-2016.docx,18420,yes,
+MO,MO curr-mls-standards-ss-k-12-sboe-2016.xlsx,29768,no,PDF/Excel versions of the same standards (counted via the two Word documents)
+MO,MO curr-mls-standards-ss-k-5-sboe-2016.docx,8345,yes,
+MO,curr-MO-standards-ss-6-12-sboe-2016_AOD.pdf,16912,no,PDF/Excel versions of the same standards (counted via the two Word documents)
+MO,curr-MO-standards-ss-k-5-sboe-2016_AOD.pdf,7395,no,PDF/Excel versions of the same standards (counted via the two Word documents)
+MO,curr-mls-standards-ss-k-12-sboe-2016.xlsx,29768,no,PDF/Excel versions of the same standards (counted via the two Word documents)
 MT,2021_SS_for_Web_4e6bb2.xlsx,5837,yes,
 MT,IEFA_Connections_Social_Studies_Standards_6a3222.pdf,2363,no,PDF subset / excerpt of the Excel standards
 MT,SIPL_CSI_Standards_Revision_Social_Studies_Montana_K-12_Content_Standards_for_Social_Studies_2021.04.05_86672e.pdf,3562,no,PDF subset / excerpt of the Excel standards
@@ -188,7 +195,11 @@ SC,SC 2019-SCSSCCR Standards-Final with appendices.pdf,46683,yes,
 SD,SS-Standards-2015_dd8f10.pdf,11113,no,superseded (2015) version
 SD,SS-Standards-2023_4fe370.pdf,45613,yes,
 TN,TN_Academic_Social_Studies_Standards_25_0162ee.pdf,51930,yes,
-TX,ch113d_ba9f10.pdf,2998,yes,
+TX,TX 6-8 SS.pdf,9631,yes,
+TX,TX AP IB SS.pdf,2998,yes,
+TX,TX highschool SS.pdf,34170,yes,
+TX,TX k-5 SS.pdf,12826,yes,
+TX,ch113d_ba9f10.pdf,2998,no,exact duplicate text of TX AP IB SS.pdf
 UT,UT FifthGrade SS.pdf,3901,yes,
 UT,UT FirstGrade SS.pdf,2948,yes,
 UT,UT FourthGrade SS.pdf,3946,yes,
@@ -203,6 +214,15 @@ UT,UT UtahStudies SS highschool.pdf,2890,yes,
 UT,UT WorldGeography SS highschool.pdf,1967,yes,
 UT,UT WorldHistory SS highschool.pdf,3400,yes,
 UT,UtahSocialStudiesK-6StandardsImplementationTimeline_2023_-_2025_ADA_Compliant_895be2.pdf,1147,no,not standards (implementation timeline)
+VT,VT edu-grade-1-people-places-and-the-environment .pdf,5660,yes,
+VT,VT edu-grade-2-the-americas.pdf,6989,yes,
+VT,VT edu-grade-3-global-interactions.pdf,7433,yes,
+VT,VT edu-grade-4-vermont-the-early-republic-and-the-us-precolonial-times-to-the-civil-war.pdf,7730,yes,
+VT,VT edu-grade-5-world-geography-and-ancient-civilizations-I-western-asia-the-middle-east-north-africa-sub-saharan-africa.pdf,6126,yes,
+VT,VT edu-grade-6-world-geography-and-ancient-civilization-II-latin-america-south-and-east-asia-oceania-europe.pdf,5818,yes,
+VT,VT edu-grade-7-the-us-and-vermont-from-reconstruction-to-the-civil-rights-movement.pdf,6717,yes,
+VT,VT edu-grade-8-civics-and-economics-in-action.pdf,4384,yes,
+VT,VT edu-kindergarten-me-and-my-community.pdf,3646,yes,
 VT,c3-framework-for-social-studies-rev0617.2_c633fc.pdf,53415,no,near-duplicate copy of the same C3 Framework file
 VT,c3-framework-for-social-studies-rev0617_3db023.pdf,53414,yes,
 VA,VA 2023 HSS SOL FINAL 03.11.25.docx,23265,yes,
@@ -224,7 +244,8 @@ WA,ss-standards-2019_grades-k-5_economics_190cbd.pdf,2649,no,same standards as m
 WA,ss-standards-2019_grades-k-5_geography_36710b.pdf,2448,no,same standards as master PDF in other formats/subsets
 WA,ss-standards-2019_grades-k-5_history_01902e.pdf,3015,no,same standards as master PDF in other formats/subsets
 WA,ss-standards-2019_grades-k-5_ss-skills_05c669.pdf,3001,no,same standards as master PDF in other formats/subsets
-WV,readfile_0b6b00.pdf,25632,yes,
+WV,WV Social Studies Stadards.docx,22981,yes,
+WV,readfile_0b6b00.pdf,0,no,scanned PDF (counted via the text-based Word version)
 WI,2018_WI_Social_Studies_Standards_6bd3f2.pdf,13169,yes,
 WI,2018_WI_Social_Studies_Standards_99e337.pdf,13169,no,exact duplicate text of 2018_WI_Social_Studies_Standards_6bd3f2.
 WI,Standards_Revision_and_Review_Process_Flow_Chart_final_Sept_2016_af2b9d.pdf,147,no,not standards (process chart)

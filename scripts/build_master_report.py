@@ -74,11 +74,14 @@ ex("WI", ["Standards_Revision_and_Review"], "not standards (process chart)")
 ex("WA", ["ss-standards-2019_grades", "SocialStudiesScopeandSequence", "OSPI_SocStudies_Standards_MASTER"], "same standards as master PDF in other formats/subsets")
 ex("NE", ["Horizontal", "Excel-Version"], "same standards as the PDF in Excel format")
 ex("MT", ["SIPL_CSI", "IEFA_Connections"], "PDF subset / excerpt of the Excel standards")
-ex("MO", ["curr-MO-standards-ss"], "PDFs extract with doubled text; counted via Excel version")
+ex("MO", ["curr-MO-standards-ss", "ss-k-12"], "PDF/Excel versions of the same standards (counted via the two Word documents)")
 ex("ME", ["Maine_Learning_Results_for_Social_Studies_-_2007", "MLR_-_Social_Studies_Geography", "MLR_-_Social_Studies_History"], "superseded 2007 version / extracts of the 2019 standards")
 ex("SD", ["SS-Standards-2015"], "superseded (2015) version")
 ex("UT", ["ImplementationTimeline"], "not standards (implementation timeline)")
+ex("DC", ["TAL_SSStandards"], "Spanish version of the standards (counted via the English version)")
 ex("DC", ["Rubric", "WalkthroughTool", "Supplemental_Lesson", "To_Approve"], "not standards (tools/memo)")
+ex("WV", ["readfile_0b6b00"], "scanned PDF (counted via the text-based Word version)")
+ex("GA", ["GA Social Studies K-12", "CASE-Social Studies", "GOAL"], "same standards as the CASE items CSV (subset print / JSON / CSV with notes)")
 ex("VT", ["rev0617.2_c633fc"], "near-duplicate copy of the same C3 Framework file")
 IN_2023 = ["Grade-3-Social-Studies_186ed8", "Grade-6-Social-Studies__", "U.S.-Government_", "U.S.-History_", "indiana-academic-standards-economics", "indiana-academic-standards-grade-7", "indiana-academic-standards-grade-8", "indiana-academic-standards-world-history", "Grade-6-Civics-Course-FAQ"]
 
@@ -116,7 +119,6 @@ for ab in sorted(STATES, key=lambda a: STATES[a]):
     for r in sorted(by.get(ab, []), key=lambda x: x["file"]):
         why = reason(r, seen)
         w = int(r["words"])
-        if ab == "WV": w = ocr_words(ab, r["file"])
         wc_csv.append({"abbr": ab, "file": r["file"], "words": w, "counted": "no" if why else "yes", "reason_not_counted": why})
         if why:
             excl_lines.append(f"| {ab} | {r['file'][:70]} | {w:,} | {why} |")
@@ -137,7 +139,7 @@ md = ["# Master Report: State Standards Overview", "",
       "## How to read this", "",
       "**Q1 — Grade groupings.** A grade counts as *individual* if the document gives that grade its own standards/plan (even when the file is printed in K-2 / 3-5 / 6-8 / 9-12 sections, or when grade-band standards carry separate 'by the end of grade X' content for each grade). It counts as *grouped* only when the document writes one plan for several grades (e.g. `6-8`, `K-2`). High-school courses and electives are listed as `9-12` unless the document ties them to a specific grade (e.g. NY, VA, AL, CA). Example: `[0, 1, 2, 3, 4, 5, 6-8, 9-12]`.", "",
       "**Q2 — Topics.** Major subject areas and named courses found in the state's document, taken from its table of contents/strands/course lists (not from keyword frequency).", "",
-      "**Q3 — Words.** Whitespace-delimited words in text extracted from the files. Exact duplicates, alternate formats of the same standards (Excel/Word copies, re-sorted compilations), superseded versions and non-standards documents are listed in the exclusions appendix and not counted. Word counts therefore measure the standards themselves, not everything in the folder. A few states' counts are known to be unreliable; see flags.", "",
+      "**Q3 — Words.** Whitespace-delimited words in text extracted from the files. Exact duplicates, alternate formats of the same standards (Excel/Word copies, re-sorted compilations), superseded versions and non-standards documents are listed in the exclusions appendix and not counted. Word counts therefore measure the standards themselves, not everything in the folder. See the notes column for states where the count needs care.", "",
       "## Headline numbers", "",
       f"- Jurisdictions covered: {sum(1 for r in out_rows if r[4])} of 51 (Maryland has no files yet).",
       f"- Total counted words: {counted_total:,}.",
@@ -154,12 +156,11 @@ md += ["", "## Notes and data-quality flags by state", "",
        "| State | Notes |", "|---|---|"]
 for name, ab, g, topics, words, nf, nall, notes, fully in out_rows:
     if notes: md.append(f"| {ab} | {notes} |")
-md += ["", "### Corpus problems to fix before segmentation", "",
-       "- **Missing:** MD (no files). ",
-       "- **Incomplete files:** GA (K-5 only), TX (only 'Other Social Studies Courses'; K-8 and required HS courses missing), UT (no grade 7 or 8 files), VT (national C3 Framework instead of Vermont's own K-8 framework).",
-       "- **Wrong language/format:** DC main standards are the Spanish version; WV is a scanned PDF (OCR text, count is an estimate); WI's WMAS PDF is scanned and was not read; MO's two PDFs extract with doubled text (use the Excel).",
-       "- **Not social studies (downloaded by the crawler):** NJ WIDA ELD files, PA arts/career/tech/common-core files, DC tools, UT timeline.",
-       "- **Duplicates/superseded versions kept on disk:** see appendix.", "",
+md += ["", "### Corpus gaps still open", "",
+       "- **Missing:** MD (no files).",
+       "- **Incomplete or unusual:** UT has no grade 7 or 8 files (confirmed no more Utah files will be added); VT has no Vermont-specific 9-12 document (C3 Framework only); OH's per-grade uploads were all the same file; WI's WMAS PDF is a scan and was not read.",
+       "- **Not social studies (downloaded by the crawler, not counted):** NJ WIDA ELD files, PA arts/career/tech/common-core files, DC tools, UT timeline.",
+       "- **Duplicates / alternate formats / superseded versions kept on disk:** see appendix.", "",
        "## Appendix: files on disk that are not counted in word totals", "",
        "| State | File | Words | Reason |", "|---|---|---:|---|"] + excl_lines
 (ROOT / "MASTER_REPORT.md").write_text("\n".join(md) + "\n")

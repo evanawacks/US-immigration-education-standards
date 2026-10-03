@@ -37,7 +37,7 @@ stats = []
 for r in rows:
     p = ROOT / r["local_path"]; ext = r["file_type"]
     try:
-        text, pages = {"pdf": pdf, "docx": docx_, "xlsx": xlsx}[ext](p)
+        text, pages = {"pdf": pdf, "docx": docx_, "xlsx": xlsx, "json": lambda p: (p.read_text(errors="ignore"), None), "csv": lambda p: (p.read_text(errors="ignore"), None)}[ext](p)
         status = "ok"
     except Exception as e:
         text, pages, status = "", None, f"error {type(e).__name__}: {e}"

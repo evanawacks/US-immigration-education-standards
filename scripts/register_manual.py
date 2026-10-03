@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW, MAN = ROOT / "data" / "raw", ROOT / "data" / "manifest.csv"
-EXT = {".pdf", ".docx", ".doc", ".xlsx", ".xls", ".html", ".htm"}
+EXT = {".pdf", ".docx", ".doc", ".xlsx", ".xls", ".html", ".htm", ".json", ".csv"}
 rows = list(csv.DictReader(open(MAN))) if MAN.exists() else []
 known = {r["local_path"] for r in rows}
 added = 0

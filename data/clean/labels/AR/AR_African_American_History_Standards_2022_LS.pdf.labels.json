@@ -1,0 +1,159 @@
+{
+ "state": "AR",
+ "file": "AR_African_American_History_Standards_2022_LS.pdf",
+ "structure": "Single HS course document (African American History, grades 9-12). Same front matter as other AR HS courses. At a Glance tables map history standards (H.6, H.3, H.4, H.5) to eras and themed components. KPE pages: 'History - <period>' heading, H.n statement, era/theme line, KPEs coded H.n.AAH.m; bulleted lists after a colon are part of the KPE; 'This may include' / 'Responses may include' blocks are examples.",
+ "labels": [
+  {
+   "units": "u2-u5",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and course info"
+  },
+  {
+   "units": "u7",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u8-u10",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u14-u15",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u19-u20",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u21-u30",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u31-u42",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u46-u54",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u58-u62",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u63-u91",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "At a Glance: History H.6, H.3, H.4, H.5 and era components"
+  },
+  {
+   "units": "u92-u99",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u103-u112",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "History - World History since 1450 > H.6 > World Era 6 > H.6.AAH.1-4"
+  },
+  {
+   "units": "u116-u122",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "History - US Beginnings through 1820s > H.3 > Era 3 > H.3.AAH.1"
+  },
+  {
+   "units": "u123-u124",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "H.3.AAH.1 may include list"
+  },
+  {
+   "units": "u125-u126",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "H.3.AAH.2-3"
+  },
+  {
+   "units": "u127-u128",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "H.3.AAH.3 may include list"
+  },
+  {
+   "units": "u132-u141",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "History - US History 1800-1900 > H.4 > Eras 4-6 > H.4.AAH.1-3"
+  },
+  {
+   "units": "u142-u143",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "H.4.AAH.3 responses may include"
+  },
+  {
+   "units": "u144-u151",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "H.4.AAH.4-6"
+  },
+  {
+   "units": "u155-u177",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "standards",
+   "section": "History - US History Since 1890 > H.5 > Eras 8-10 > H.5.AAH.1-10"
+  },
+  {
+   "units": "u178",
+   "grades": "9-12",
+   "course": "African American History",
+   "cat": "examples",
+   "section": "H.5.AAH.10 may include"
+  }
+ ],
+ "issues": [
+  "H.5.AAH.7 is absent (numbering jumps from 6 to 8) at u173-u175.",
+  "u134 and u157 era lists are context lines for the KPEs; labeled standards with the component headings.",
+  "K-12 overview and C3 skills labeled course null grades 9-12 (shared HS content)."
+ ]
+}

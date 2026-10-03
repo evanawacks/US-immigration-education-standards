@@ -1,0 +1,623 @@
+u1 SHEET: Kindergarten
+u2 [R1] 2019 NE Social Studies Standards/Indicators
+u3 [R2] CIVICS
+u4 [R3] SS K.1.1 | Communicate the purpose of rules and the roles within learning and living environments.
+u5 [R4] SS K.1.1.a | Describe a rule and analyze its purpose.
+u6 [R5] SS K.1.1.b | Identify roles in a family structure and explain their importance.
+u7 [R6] SS K.1.2 | Demonstrate positive and productive citizenship skills.
+u8 [R7] SS K.1.2.a | Model citizenship skills.
+u9 [R8] SS K.1.2.b | Communicate patriotic symbols, songs, actions, and cultural celebrations.
+u10 [R9] SS K.1.2.c | Communicate historical background and significance of national holidays.
+u11 [R10] ECONOMICS
+u12 [R11] SS K.2.1 | Differentiate between wants and needs in decision-making.
+u13 [R12] SS K.2.1.a | Classify wants and needs and explain subsequent choices.
+u14 [R13] SS K.2.2 | Recognize money is used to purchase goods and services to satisfy economic wants and needs.
+u15 [R14] SS K.2.2.a | Explain the purposes of money.
+u16 [R15] GEOGRAPHY
+u17 [R16] SS K.3.1 | Explore where (spatial) and why people, places, and environments are organized in the world.
+u18 [R17] SS K.3.1.a | Communicate personal directions to describe relative locations of people and objects.
+u19 [R18] SS K.3.1.b | Identify locations in the school and around the classroom.
+u20 [R19] SS K.3.1.c | Identify geographic tools as representations of local and distant places.
+u21 [R20] SS K.3.1.d | Identify the difference between land and water on a globe.
+u22 [R21] SS K.3.2 | Explore places and regions.
+u23 [R22] SS K.3.2.a | Identify physical characteristics of place.
+u24 [R23] SS K.3.2.b | Identify human characteristics of place.
+u25 [R24] SS K.3.3 | Explore the relationship between humans and their physical environment.
+u26 [R25] SS K.3.3.a | Identify types of weather and the impact of weather on everyday life.
+u27 [R26] SS K.3.3.b | Identify the four seasons.
+u28 [R27] SS K.3.3.c | Inquire about how people prepare for and respond to severe weather.
+u29 [R28] SS K.3.4 | Recognize that people belong to different groups and live in different settings.
+u30 [R29] SS K.3.4.a | Identify students as members of various groups.
+u31 [R30] SS K.3.4.b | Identify places in the community where people may live.
+u32 [R31] SS K.3.5 | Use geographic skills to make connections to students’ lives.
+u33 [R32] SS K.3.5.a | Apply geographic knowledge and techniques to navigate the classroom.
+u34 [R33] HISTORY
+u35 [R34] SS K.4.1 | Recognize patterns of continuity and change over time in themselves and others.
+u36 [R35] SS K.4.1.a | Identify concepts of time and chronology.
+u37 [R36] SS K.4.1.b | Identify the sequence of personal events and their impact.
+u38 [R37] SS K.4.2 | Recognize different perspectives of events.
+u39 [R38] SS K.4.2.a | Compare perspectives of self and others.
+u40 [R39] SS K.4.3 | Identify historical people, events, and symbols.
+u41 [R40] SS K.4.3.a | Recognize historical people from a variety of cultures.
+u42 [R41] SS K.4.3.b | Identify symbols of the United States.
+u43 [R42] SS K.4.3.c | Differentiate between stories from the present and the past.
+u44 [R43] SS K.4.4 | Develop historical inquiry and research skills.
+u45 [R44] SS K.4.4.a | Construct questions about personal history.
+u46 [R45] SS K.4.4.b | Identify and cite appropriate sources when conducting historical research.
+u47 [R46] SS K.4.4.c | Gather and communicate historical information.
+u48 SHEET: Grade 1
+u49 [R1] 2019 NE Social Studies Standards/Indicators
+u50 [R2] CIVICS
+u51 [R3] SS 1.1.1 | Analyze the relationship between roles and rules within learning and living environments.
+u52 [R4] SS 1.1.1.a | Explain how rules reduce and help resolve conflicts between people with different perspectives.
+u53 [R5] SS 1.1.1.b | Identify leaders within a school community and explain the importance of their roles.
+u54 [R6] SS 1.1.2 | Demonstrate positive and productive citizenship skills.
+u55 [R7] SS 1.1.2.a | Model and communicate citizenship skills.
+u56 [R8] SS 1.1.2.b | Identify patriotic symbols, songs, actions, holidays, and cultural celebrations.
+u57 [R9] SS 1.1.2.c | Communicate historical background and significance of national holidays.
+u58 [R10] SS 1.1.2.d | Compare and contrast historical and current government figures that exemplify civic engagement.
+u59 [R11] ECONOMICS
+u60 [R12] SS 1.2.1 | Explain how scarcity necessitates making choices.
+u61 [R13] SS 1.2.1.a | Identify gains and losses when choices are made.
+u62 [R14] SS 1.2.2 | Compare spending and saving opportunities.
+u63 [R15] SS 1.2.2.a | Give examples of situations where students and families could choose to save for future purchases.
+u64 [R16] SS 1.2.3 | Explain that resources are used to produce goods and services.
+u65 [R17] SS 1.2.3.a | Categorize human and natural resources used to create goods and services.
+u66 [R18] GEOGRAPHY
+u67 [R19] SS 1.3.1 | Explore where (spatial) and why people, places, and environments are organized in the world.
+u68 [R20] SS 1.3.1.a | Identify the four cardinal directions.
+u69 [R21] SS 1.3.1.b | Identify and describe locations in schools and homes and explain reasons for the locations.
+u70 [R22] SS 1.3.1.c | Create and use maps.
+u71 [R23] SS 1.3.1.d | Distinguish between continents and oceans.
+u72 [R24] SS 1.3.2 | Explore places and regions.
+u73 [R25] SS 1.3.2.a | Identify and differentiate between physical features on maps, globes, graphics, and in the physical world.
+u74 [R26] SS 1.3.2.b | Identify and differentiate between human features.
+u75 [R27] SS 1.3.2.c | Explain how places change over time.
+u76 [R28] SS 1.3.3 | Explore the relationship between humans and their physical environment.
+u77 [R29] SS 1.3.3.a | Interpret the impact of environmental hazards and severe weather on everyday life.
+u78 [R30] SS 1.3.3.b | Identify Earth's natural resources.
+u79 [R31] SS 1.3.3.c | Describe how people adapt to their physical environment.
+u80 [R32] SS 1.3.4 | Describe the characteristics of culture.
+u81 [R33] SS 1.3.4.a | Identify cultural traits.
+u82 [R34] SS 1.3.4.b | Describe the characteristics of individual culture.
+u83 [R35] SS 1.3.5 | Use geographic skills to make connections to students’ lives.
+u84 [R36] SS 1.3.5.a | Apply geographic knowledge and techniques to navigate the school.
+u85 [R37] HISTORY
+u86 [R38] SS 1.4.1 | Recognize patterns of continuity and change over time in families.
+u87 [R39] S 1.4.1.a | List and describe life events over time.
+u88 [R40] SS 1.4.1.b | Compare and contrast family life from earlier times and today.
+u89 [R41] SS 1.4.2 | Identify multiple perspectives of diverse family traditions.
+u90 [R42] SS 1.4.2.a | Compare and contrast family traditions across cultures.
+u91 [R43] SS 1.4.3 | Describe historical people, events, and symbols.
+u92 [R44] SS 1.4.3.a | Identify the contributions of historical people.
+u93 [R45] SS 1.4.3.b | Identify symbols of the United States.
+u94 [R46] SS 1.4.3.c | Describe how oral traditions, books, letters, and other artifacts help us to understand the past.
+u95 [R47] SS 1.4.4 | Develop historical inquiry and research skills.
+u96 [R48] SS 1.4.4.a | Construct and answer questions about family history.
+u97 [R49] SS 1.4.4.b | Identify and cite appropriate texts, letters, and other artifacts for research.
+u98 [R50] SS 1.4.4.c | Gather and communicate historical information about families.
+u99 SHEET: Grade 2
+u100 [R1] 2019 NE Social Studies Standards/Indicators
+u101 [R2] CIVICS
+u102 [R3] SS 2.1.1 | Investigate and defend the responsibilities and rights of citizens in their communities.
+u103 [R4] SS 2.1.1.a | Contribute to developing rules by considering multiple points of view.
+u104 [R5] SS 2.1.1.b | Demonstrate conflict management strategies as individuals, groups, and communities.
+u105 [R6] SS 2.1.2 | Contribute to making decisions using democratic traditions based on established rules.
+u106 [R7] SS 2.1.2.a | Identify and apply civic responsibilities that are important to individuals and their communities.
+u107 [R8] SS 2.1.2.b | Explain how patriotic symbols, songs, actions, celebrations, and holidays reflect democratic traditions.
+u108 [R9] SS 2.1.2.c | Communicate historical background and significance of national holidays.
+u109 [R10] SS 2.1.2.d | Investigate ways to be actively engaged to improve family, school, and community.
+u110 [R11] SS 2.1.2.e | Model and communicate characteristics of good citizenship.
+u111 [R12] ECONOMICS
+u112 [R13] SS 2.2.1 | Evaluate choices about how to use scarce resources that involve prioritizing wants and needs.
+u113 [R14] SS 2.2.1.a. | Justify a decision made by providing evidence of possible gains and losses.
+u114 [R15] SS 2.2.2 | Demonstrate knowledge of currency, its denominations, and use.
+u115 [R16] SS 2.2.2.a | Make transactions using currency emphasizing its use as a medium of exchange.
+u116 [R17] SS 2.2.3 | Describe how producers deliver products/services, earn an income, and satisfy economic needs and wants.
+u117 [R18] SS 2.2.3.a. | Explain the role of goods and services and supply and demand in a community.
+u118 [R19] SS 2.2.3.b. | Describe how people in their communities earn income/wages through work.
+u119 [R20] SS 2.2.4 | Identify the goods and services governments provide.
+u120 [R21] SS 2.2.4.a | Identify goods and services that local governments provide.
+u121 [R22] SS 2.2.4.b | Explain how the local government uses taxes to pay for goods and services it provides.
+u122 [R23] GEOGRAPHY
+u123 [R24] SS 2.3.1 | Explore where (spatial) and why people, places, and environments are organized in the world.
+u124 [R25] SS 2.3.1.a | Compare and contrast maps and globes.
+u125 [R26] SS 2.3.1.b | Identify and describe locations in neighborhoods.
+u126 [R27] SS 2.3.1.c | Identify and apply map elements.
+u127 [R28] SS 2.3.1.d | Locate communities, Nebraska, and the United States on maps and globes.
+u128 [R29] SS 2.3.1.e | Explain why things are located where they are in neighborhoods.
+u129 [R30] SS 2.3.2 | Compare places and regions.
+u130 [R31] SS 2.3.2.a | Identify and differentiate between physical and human features of neighborhoods and communities.
+u131 [R32] SS 2.3.2.b | Describe local places and regions.
+u132 [R33] SS 2.3.2.c | Explain how places and regions change over time.
+u133 [R34] SS 2.3.3 | Describe relationships between humans and the physical environment.
+u134 [R35] SS 2.3.3.a | Identify examples of Earth’s physical processes.
+u135 [R36] SS 2.3.3.b | Describe how seasonal weather patterns, natural hazards, and natural resources affect human activities.
+u136 [R37] SS 2.3.3.c | Match resources to their sources.
+u137 [R38] SS 2.3.3.d | Describe how people adapt to their physical environment.
+u138 [R39] SS 2.3.4 | Describe different groups of people and the different settings where they live.
+u139 [R40] SS 2.3.4.a | Describe cultures of the local community and other communities.
+u140 [R41] SS 2.3.4.b | Identify examples of cultural markers in the community.
+u141 [R42] SS 2.3.5 | Use geographic skills to make connections to students’ lives.
+u142 [R43] SS 2.3.5.a | Apply geographic knowledge and techniques to navigate students’ homes and neighborhoods.
+u143 [R44] HISTORY
+u144 [R45] SS 2.4.1 | Recognize patterns of continuity and change over time in neighborhoods.
+u145 [R46] SS 2.4.1.a | Describe how a neighborhood has changed over the course of time using maps and other artifacts.
+u146 [R47] SS 2.4.1.b | Compare and contrast how different neighborhoods have changed over time.
+u147 [R48] SS 2.4.2 | Compare multiple perspectives of events within neighborhoods.
+u148 [R49] SS 2.4.2.a | Compare and contrast perspectives from multiple sources regarding the same event.
+u149 [R50] SS 2.4.3 | Determine past and current events, issues, and people relevant to a neighborhood.
+u150 [R51] SS 2.4.3.a | Describe historical people, events, ideas, and symbols (including various cultures and ethnic groups) that impacted a neighborhood.
+u151 [R52] SS 2.4.4 | Develop historical inquiry and research skills.
+u152 [R53] SS 2.4.4.a | Construct and answer questions about neighborhood history.
+u153 [R54] SS 2.4.4.b | Identify, obtain, and cite appropriate primary and secondary sources for research.
+u154 [R55] SS 2.4.4.c | Gather and present historical information about a neighborhood.
+u155 SHEET: Grade 3
+u156 [R1] 2019 NE Social Studies Standards/Indicators
+u157 [R2] CIVICS
+u158 [R3] SS 3.1.1 | Analyze the structure and function of local governments.
+u159 [R4] SS 3.1.1.a | Compare and contrast the structure and function of roles commonly found in local governments.
+u160 [R5] SS 3.1.1.b | Communicate how and why a community creates laws.
+u161 [R6] SS 3.1.1.c | Investigate and summarize the roles that leaders and other citizens serve in local communities.
+u162 [R7] SS 3.1.1.d | Justify the importance of roles that leaders and citizens serve in local government.
+u163 [R8] SS 3.1.2 | Describe the impact of individual and group decisions at the community level.
+u164 [R9] SS 3.1.2.a | Identify and model rights and responsibilities of citizens at the community level.
+u165 [R10] SS 3.1.2.b | Explain how patriotic symbols, songs, actions, celebrations, and holidays are recognized in local communities.
+u166 [R11] SS 3.1.2.c | Communicate the background of national holidays or historical events, their significance, and how they are recognized in the local community.
+u167 [R12] SS 3.1.2.d | Identify and engage in opportunities to serve the local community.
+u168 [R13] SS 3.1.2.e | Engage in discourse that demonstrates respect and consideration of multiple points of view.
+u169 [R14] SS 3.1.2.f | Describe the decisions of local leaders and how they affect public policy.
+u170 [R15] ECONOMICS
+u171 [R16] SS 3.2.1 | Explain that people choose and decide what services they ask their local and state government to provide and pay for.
+u172 [R17] SS 3.2.1.a | Identify goods and services funded through state or local taxes.
+u173 [R18] SS 3.2.2 | Evaluate choices and consequences for spending and saving.
+u174 [R19] SS 3.2.2.a | Given a budget, make choices as to what to purchase, what to give up, and what to save.
+u175 [R20] SS 3.2.3 | Explain that markets are places where buyers and sellers exchange goods and services.
+u176 [R21] SS 3.2.3.a | Indicate various markets where buyers and sellers meet.
+u177 [R22] SS 3.2.4 | Describe how the local community trades with other communities.
+u178 [R23] SS 3.2.4.a | Identify local goods and services that could be traded with people everywhere.
+u179 [R24] GEOGRAPHY
+u180 [R25] SS 3.3.1 | Explore where (spatial) and why people, places, and environments are organized in the world.
+u181 [R26] SS 3.3.1.a | Identify and apply map elements.
+u182 [R27] SS 3.3.1.b | Use a map to identify location and distribution of physical and human features.
+u183 [R28] SS 3.3.1.c | Determine why things are located where they are in the community.
+u184 [R29] SS 3.3.1.d | Locate specific places on maps and globes.
+u185 [R30] SS 3.3.1.e | Identify the continents, oceans, and hemispheres.
+u186 [R31] SS 3.3.2 | Compare the characteristics of places and regions.
+u187 [R32] SS 3.3.2.a | Identify and differentiate between physical and human features of neighborhoods and communities.
+u188 [R33] SS 3.3.2.b | Compare and contrast local places and regions with other places and regions.
+u189 [R34] SS 3.3.2.c | Explain how and why places and regions change over time.
+u190 [R35] SS 3.3.3 | Explain relationships between humans and the physical environment.
+u191 [R36] SS 3.3.3.a | Describe how the environment influences human activities and how humans alter the environment to suit their needs.
+u192 [R37] SS 3.3.3.b | Identify ecosystems.
+u193 [R38] SS 3.3.3.c | Explain the importance of Earth's natural resources.
+u194 [R39] SS 3.3.3.d | Describe how humans develop communities in local settings.
+u195 [R40] SS 3.3.4 | Compare and contrast the characteristics of local cultures.
+u196 [R41] SS 3.3.4.a | Compare and contrast cultural traits within a community.
+u197 [R42] SS 3.3.4.b | Describe examples of how and why cultures change in a community.
+u198 [R43] SS 3.3.5 | Use geographic skills to make connections to issues and events.
+u199 [R44] SS 3.3.5.a | Identify and evaluate how changes in human and physical geography have shaped the community.
+u200 [R45] HISTORY
+u201 [R46] SS. 3.4.1 | Detect and apply patterns of continuity and change over time in communities (town or city).
+u202 [R47] SS 3.4.1.a | Describe community events over time using maps and other artifacts.
+u203 [R48] SS 3.4.1.b | Compare and contrast how different communities have changed over time.
+u204 [R49] SS 3.4.2 | Describe and explain multiple perspectives of events within a community.
+u205 [R50] SS 3.4.2.a | Describe the role of diverse groups of people, events, and ideas in the development of a community.
+u206 [R51] SS 3.4.2.b | Compare and contrast conflicting perspectives about a past event in a community.
+u207 [R52] SS 3.4.3 | Select past and current events and people relevant to the community.
+u208 [R53] SS 3.4.3.a | Determine factual information about community historical events through use of a variety of sources such as artifacts, pictures, and documents.
+u209 [R54] SS 3.4.3.b | Identify how decisions affected events in a community.
+u210 [R55] SS 3.4.4 | Develop historical inquiry and research skills.
+u211 [R56] SS 3.4.4.a | Construct and answer questions about multiple community histories from viewpoints of that community.
+u212 [R57] SS 3.4.4.b | Identify, obtain, and cite appropriate primary and secondary sources for research about the local community.
+u213 [R58] SS 3.4.4.c | Gather and communicate historical information about the community.
+u214 SHEET: Grade 4
+u215 [R1] 2019 NE Social Studies Standards/Indicators
+u216 [R2] CIVICS
+u217 [R3] SS 4.1.1 | Synthesize and justify the structure and function of Nebraska’s government.
+u218 [R4] SS 4.1.1.a | Investigate and summarize the historical foundation and events that led to the formation and structure of Nebraska’s Constitution and government.
+u219 [R5] SS 4.1.1.b | Analyze the origin, structure, and function of Nebraska’s state government.
+u220 [R6] SS 4.1.1.c | Communicate how a bill becomes a law in the Nebraska unicameral.
+u221 [R7] SS 4.1.1.d | Investigate and summarize the roles that leaders and other citizens serve in Nebraska to equitably represent all residents in the state.
+u222 [R8] SS 4.1.1.e | Justify the importance of roles that leaders and citizens serve in Nebraska government.
+u223 [R9] SS 4.1.2 | Investigate how different perspectives impact government decisions at the state level.
+u224 [R10] SS 4.1.2.a | Identify and model rights and responsibilities of citizens at the state level.
+u225 [R11] SS 4.1.2.b | Investigate the meaning of state symbols, songs, and holidays.
+u226 [R12] SS 4.1.2.c | Communicate background of Nebraska state holidays or historical events, their significance, and how they are recognized.
+u227 [R13] SS 4.1.2.d | Identify and engage in opportunities to serve the state.
+u228 [R14] SS 4.1.2.e | Explain how individuals and groups influence the way a state issue is viewed and resolved.
+u229 [R15] SS 4.1.2.f | Analyze the decisions of state leaders and how they impact public policy.
+u230 [R16] ECONOMICS
+u231 [R17] SS 4.2.1 | Describe how scarcity requires the consumer and producer to make choices and identify costs associated with them.
+u232 [R18] SS 4.2.1.a | Predict how consumers would react if the price of a good or service changed.
+u233 [R19] SS 4.2.1.b | Predict how producers would react if the profit from selling a good or service changed.
+u234 [R20] SS 4.2.2 | Investigate various financial institutions in Nebraska and the reasons for people’s spending and saving choices.
+u235 [R21] SS 4.2.2.a | Identify financial institutions in the community and their purposes.
+u236 [R22] SS 4.2.3 | Investigate how resources are used to make other goods and produce services.
+u237 [R23] SS 4.2.3.a | Give examples of human, natural, capital, and entrepreneurial resources used in making goods and services in Nebraska and the United States.
+u238 [R24] SS 4.2.4 | Identify and explain specialization and trade and why different regions produce different goods and services.
+u239 [R25] SS 4.2.4.a | Compare Nebraska with different regions and the goods and services each region produces.
+u240 [R26] SS 4.2.4.b | Discuss how technology has affected the specialization of Nebraska’s economy and surrounding states.
+u241 [R27] GEOGRAPHY
+u242 [R28] SS 4.3.1 | Explore where (spatial) and why people, places, and environments are organized in the state and around the world.
+u243 [R29] SS 4.3.1.a | Use local and state maps and atlases to locate physical and human features in Nebraska.
+u244 [R30] SS 4.3.1.b | Apply map skills to analyze physical/political maps of the state.
+u245 [R31] SS 4.3.1.c | Determine why things are located where they are in Nebraska.
+u246 [R32] SS 4.3.1.d | Differentiate between classifications of bodies of water, cities, and land masses.
+u247 [R33] SS 4.3.2 | Compare the characteristics of places and regions and their impact on human decisions.
+u248 [R34] SS 4.3.2.a | Identify criteria used to define regions in the state of Nebraska and the United States.
+u249 [R35] SS 4.3.2.b | Classify regions and places within the state of Nebraska using physical and human features.
+u250 [R36] SS 4.3.3 | Explain how human and natural forces have modified different environments in Nebraska and how humans have adapted.
+u251 [R37] SS 4.3.3.a | Identify physical processes that shape Nebraska’s features and patterns.
+u252 [R38] SS 4.3.3.b | Identify examples of ecosystems in Nebraska and describe related environmental issues.
+u253 [R39] SS 4.3.3.c | Describe the impact of extreme natural events on the human and physical environment in Nebraska.
+u254 [R40] SS 4.3.3.d | Describe how humans have adapted to Nebraska's physical environment and use available natural resources.
+u255 [R41] SS 4.3.4 | Compare and contrast the characteristics of culture statewide.
+u256 [R42] SS 4.3.4.a | Compare and contrast patterns of culture within the state of Nebraska.
+u257 [R43] SS 4.3.4.b | Compare and contrast population characteristics of the state of Nebraska.
+u258 [R44] SS 4.3.5 | Use geographic skills to make connections to issues and events.
+u259 [R45] SS 4.3.5.a | Identify and evaluate how changes in human and physical geography have shaped Nebraska.
+u260 [R46] SS 4.3.5.b | Explain the interrelationships of human or physical geographic characteristics of places in Nebraska.
+u261 [R47] HISTORY
+u262 [R48] SS 4.4.1 | Investigate patterns of continuity and change over time in Nebraska.
+u263 [R49] SS 4.4.1.a | Analyze the chronology of key state and/or regional events and communicate their impact on the past, present, and future.
+u264 [R50] SS 4.4.2 | Analyze and explain multiple perspectives of events in Nebraska, including historically marginalized and underrepresented groups.
+u265 [R51] SS 4.4.2.a | Compare and contrast primary and secondary sources to better understand multiple perspectives of the same event.
+u266 [R52] SS 4.4.2.b | Identify and describe how various sources relate their perspectives of Nebraska history.
+u267 [R53] SS 4.4.3 | Analyze past and current events throughout Nebraska history.
+u268 [R54] SS 4.4.3.a | Analyze key sources in Nebraska history to determine credibility and context.
+u269 [R55] SS 4.4.3.b | Identify key events in American history that shaped or were shaped by Nebraskans.
+u270 [R56] SS 4.4.4 | Develop historical inquiry and research skills.
+u271 [R57] SS 4.4.4.a | Construct and answer questions about Nebraska history.
+u272 [R58] SS 4.4.4.b | Identify and cite primary and secondary sources to research the history of Nebraska.
+u273 [R59] SS 4.4.4.c | Gather, analyze, and communicate historical information about Nebraska.
+u274 SHEET: Grade 5
+u275 [R1] 2019 NE Social Studies Standards/Indicators
+u276 [R2] CIVICS
+u277 [R3] SS 5.1.1 | Synthesize and justify the structure and function of the United States government.
+u278 [R4] SS 5.1.1.a | Investigate and summarize contributions that resulted in the historical foundation and formation of the United States constitutional government.
+u279 [R5] SS 5.1.1.b | Identify and explain the structure and functions of the three branches of government.
+u280 [R6] SS 5.1.1.c | Analyze how colonial and new states’ governments’ laws affected majority groups and marginalized groups within their population.
+u281 [R7] SS 5.1.1.d | Evaluate how the decisions of the national government affect local and state government and citizens of diverse backgrounds.
+u282 [R8] SS 5.1.1.e | Justify the principles of the American Republic.
+u283 [R9] SS 5.1.1.f | Analyze and contrast forms of government.
+u284 [R10] SS 5.1.2 | Analyze democratic principles that are the foundation of the United States government systems in daily life.
+u285 [R11] SS 5.1.2.a | Explore and communicate the constitutional rights and civic responsibilities of U.S. citizens.
+u286 [R12] SS 5.1.2.b | Communicate origins of national and state holidays including historical background and significance.
+u287 [R13] SS 5.1.2.c | Interpret and communicate the significance of patriotic symbols, songs, and activities.
+u288 [R14] SS 5.1.2.d | Explore models of group and individual actions that illustrate civic ideas in the founding of the United States.
+u289 [R15] SS 5.1.2.e | Examine how cooperation and conflict among people have contributed to political, economic, and social events and situations in the United States.
+u290 [R16] SS 5.1.2.f | Determine how the roles of individuals and groups influence government.
+u291 [R17] ECONOMICS
+u292 [R18] SS 5.2.1 | not addressed at this level
+u293 [R19] SS 5.2.2 | not addressed at this level
+u294 [R20] SS 5.2.3 | Explain how human capital can be improved by education and training and thereby increase standards of living.
+u295 [R21] SS 5.2.3.a | List examples of how additional education/training improves productivity and increases standards of living.
+u296 [R22] SS 5.2.4 | Explain how specialization, division of labor, and technology increase productivity and interdependence.
+u297 [R23] SS 5.2.4.a | Describe the historical role of innovation and entrepreneurship in a market economy.
+u298 [R24] SS 5.2.5 | Summarize characteristics of economic institutions in the United States.
+u299 [R25] SS 5.2.5.a | Describe the importance of financial institutions to households and businesses.
+u300 [R26] SS 5.2.5.b | Explain the rules and laws that protect and support consumers.
+u301 [R27] SS 5.2.5.c | Identify goods and services funded through federal taxes.
+u302 [R28] SS 5.2.6 | Summarize how specialization and trade impact the global market and relationships with other countries.
+u303 [R29] SS 5.2.6.a | Describe how international trade promotes specialization and division of labor and increases the productivity of labor, output, and consumption.
+u304 [R30] SS 5.2.6.b | Explain how trade impacts relationships between countries.
+u305 [R31] GEOGRAPHY
+u306 [R32] SS 5.3.1 | Explore where (spatial) and why people, places, and environments are organized in the United States.
+u307 [R33] SS 5.3.1.a | Use maps and atlases to locate major human and physical features in the United States.
+u308 [R34] SS 5.3.1.b | Apply map skills to analyze physical/political maps of the United States.
+u309 [R35] SS 5.3.1.c | Determine why things are located where they are in the United States.
+u310 [R36] SS 5.3.2 | Compare the characteristics of places and regions and draw conclusions on their impact on human decisions.
+u311 [R37] SS 5.3.2.a | Identify criteria used to define regions within the United States.
+u312 [R38] SS 5.3.2.b | Identify and classify regions and places within the United States using physical and human features.
+u313 [R39] SS 5.3.3 | Explain how human and natural forces have modified different environments in the United States and how humans have adapted.
+u314 [R40] SS 5.3.3.a | Identify examples of ecosystems and analyze issues related to the natural setting in the United States.
+u315 [R41] SS 5.3.3.b | Describe the impact of extreme natural events in the United States on the human and physical environment.
+u316 [R42] SS 5.3.3.c | Examine patterns of resource distribution and utilization in the United States.
+u317 [R43] SS 5.3.4 | Compare, contrast, and draw conclusions about the characteristics of culture and migration in the United States.
+u318 [R44] SS 5.3.4.a | Compare and contrast patterns of culture within the United States over time and space.
+u319 [R45] SS 5.3.4.b | Compare and contrast population characteristics of the United States.
+u320 [R46] SS 5.3.4.c | Explain reasons for historical and present day migrations to and within the United States.
+u321 [R47] SS 5.3.5 | Use geographic skills to interpret issues and events.
+u322 [R48] SS 5.3.5.a | Explain the influences of physical and human geographic features on events in the United States.
+u323 [R49] SS 5.3.5.b | Analyze aspects of human and physical geography that have shaped the settlement and development of Early America.
+u324 [R50] HISTORY
+u325 [R51] SS 5.4.1 | Investigate patterns of continuity and change over time from the Pre-Columbian era through the Constitution.
+u326 [R52] SS 5.4.1.a | Examine the chronology of key events in the United States and communicate their impact on various groups in the past, present, and future.
+u327 [R53] SS 5.4.2 | Describe and explain multiple perspectives of historical events in the Pre-Columbian era through the Constitution including marginalized and underrepresented groups.
+u328 [R54] SS 5.4.2.a | Compare and contrast primary and secondary sources to better understand multiple perspectives of the same event.
+u329 [R55] SS 5.4.2.b | Identify and describe how multiple perspectives facilitate the understanding of US history.
+u330 [R56] SS 5.4.3 | Analyze past and current events and challenges from the Pre-Columbian era through the Constitution.
+u331 [R57] SS 5.4.3.a | Compare the impact of people, events, ideas, and symbols on various cultures and ethnic groups in the Pre-Columbian era through the Constitution.
+u332 [R58] SS 5.4.4 | Apply the inquiry process to construct and answer historical questions.
+u333 [R59] SS 5.4.4.a | Construct and answer questions about the Pre-Columbian era through the Constitution based on multiple sources.
+u334 [R60] SS 5.4.4.b | Evaluate and cite appropriate primary and secondary sources to research the Pre-Columbian era through the Constitution.
+u335 [R61] SS 5.4.4.c | Gather, analyze, and communicate historical information from the Pre-Columbian era through the Constitution from multiple sources.
+u336 SHEET: Grade 6
+u337 [R1] 2019 NE Social Studies Standards/Indicators
+u338 [R2] CIVICS
+u339 [R3] SS 6.1.1 | Investigate the foundations, structures, and functions of governmental institutions.
+u340 [R4] SS 6.1.1.a | Analyze the different forms of government through the study of early civilizations.
+u341 [R5] SS 6.1.1.b | Identify the development of written laws and artifacts.
+u342 [R6] SS 6.1.1.c | Communicate the various ways governmental decisions have impacted people, places, and history.
+u343 [R7] SS 6.1.1.d | Investigate important government principles.
+u344 [R8] SS 6.1.2 | Investigate the roles, responsibilities, and rights of citizens.
+u345 [R9] SS 6.1.2.a | Describe ways individuals participate in the political process.
+u346 [R10] SS 6.1.2.b | Compare and contrast the roles and rights of individuals in Ancient Civilizations to those in the United States today.
+u347 [R11] ECONOMICS
+u348 [R12] SS 6.2.1 | Investigate how economic decisions affect the well-being of individuals and society.
+u349 [R13] SS 6.2.1.a | Compare the benefits and costs of economic decisions made by Ancient Civilizations.
+u350 [R14] SS 6.2.1.b | Examine how social and governmental decisions impact economic well-being.
+u351 [R15] SS 6.2.2 | not addressed at this level
+u352 [R16] SS 6.2.3 | Explain the interdependence of producers and consumers.
+u353 [R17] SS 6.2.3.a | Identify producers and consumers for Ancient civilizations.
+u354 [R18] SS 6.2.3.b | Explain how the interaction between producers and consumers satisfied economic wants and needs.
+u355 [R19] SS 6.2.4 | not addressed at this level
+u356 [R20] SS 6.2.5 | not addressed at this level
+u357 [R21] GEOGRAPHY
+u358 [R22] SS 6.3.1 | Identify where (spatial) and why people, places, and environments are organized on the Earth’s surface.
+u359 [R23] SS 6.3.1.a | Identify and illustrate the locations of the first cities, civilizations, and empires and the reasoning for their locations.
+u360 [R24] SS 6.3.1.b | Investigate the human and physical characteristics of early patterns of civilizations and empires.
+u361 [R25] SS 6.3.2 | not addressed at this level
+u362 [R26] SS 6.3.3 | Identify how the natural environment is changed by natural and human forces, and how humans adapt to their surroundings.
+u363 [R27] SS 6.3.3.a | Describe the impact of natural processes on the human and physical environments.
+u364 [R28] SS 6.3.3.b | Summarize how early humans utilized and adapted to their physical environment.
+u365 [R29] SS 6.3.4 | Interpret and summarize patterns of culture around the world.
+u366 [R30] SS 6.3.4.a | Compare and contrast characteristics of groups of people/settlements.
+u367 [R31] SS 6.3.4.b | Explain how cultural diffusion occurs.
+u368 [R32] SS 6.3.5 | not addressed at this level
+u369 [R33] HISTORY
+u370 [R34] SS 6.4.1 | Analyze patterns of continuity and change over time in world history.
+u371 [R35] SS 6.4.1.a | Examine the impact of people, events, and ideas, including various cultures and ethnic groups, on the world.
+u372 [R36] SS 6.4.1.b | Analyze the impact of historical events in the world using symbols, maps, documents, and artifacts.
+u373 [R37] SS 6.4.2 | Use multiple perspectives to identify the historical, social, and cultural context of past and current events.
+u374 [R38] SS 6.4.2.a | Identify evidence from multiple perspectives and sources to better understand the complexities of world history.
+u375 [R39] SS 6.4.2.b | Explain the use of primary and secondary sources to better understand multiple perspectives of the same event.
+u376 [R40] SS 6.4.3 | Examine historical events from the perspectives of marginalized and underrepresented groups.
+u377 [R41] SS 6.4.3.a | Identify how differing experiences can lead to the development of perspectives.
+u378 [R42] SS 6.4.3.b | Interpret perspectives of marginalized and underrepresented regions around the world.
+u379 [R43] SS 6.4.4 | Interpret and evaluate sources for historical context.
+u380 [R44] SS 6.4.4.a | Compare and contrast primary and secondary sources of history.
+u381 [R45] SS 6.4.4.b | Analyze the relationships among historical events in the world and relevant contemporary issues.
+u382 [R46] SS 6.4.5 | Apply the inquiry process to construct and answer historical questions.
+u383 [R47] SS 6.4.5.a | Construct and answer inquiry questions using multiple historical sources.
+u384 [R48] SS 6.4.5.b | Identify and cite appropriate sources for research about world history, including primary and secondary sources.
+u385 [R49] SS 6.4.5.c | Gather, analyze, and communicate historical information about the world from multiple sources.
+u386 SHEET: Grade 7
+u387 [R1] 2019 NE Social Studies Standards/Indicators
+u388 [R2] CIVICS
+u389 [R3] SS 7.1.1 | Analyze the foundations, structures, and functions of governmental institutions.
+u390 [R4] SS 7.1.1.a | Describe different forms and structures of government around the world and how they address the needs of the citizens.
+u391 [R5] SS 7.1.1.b | Identify and report significant historic events and documents that have influenced governmental institutions and their function.
+u392 [R6] SS 7.1.1.c | Analyze how governmental systems have changed over time and how those developments influence civic life and ideals around the world.
+u393 [R7] SS 7.1.2 | Analyze the roles, responsibilities, and rights of citizens and groups in international societies.
+u394 [R8] SS 7.1.2.a | Examine ways in which individuals and groups participate in the political process in different regions of the globe.
+u395 [R9] SS 7.1.2.b | Evaluate how cooperation and conflict among people around the world have contributed to political, economic, and social events and situations.
+u396 [R10] SS 7.1.2.c | Explain the roles and influence of individuals, groups, and the media on governments in an interdependent society.
+u397 [R11] ECONOMICS
+u398 [R12] SS 7.2.1 | not addressed at this level
+u399 [R13] SS 7.2.2 | not addressed at this level
+u400 [R14] SS 7.2.3 | not addressed at this level
+u401 [R15] SS 7.2.4 | Investigate how varying economic systems impact individuals in a civilization/society.
+u402 [R16] SS 7.2.4.a | Compare and contrast characteristics of different socio-economic groups in economic systems.
+u403 [R17] SS 7.2.4.b | Identify the relationships between diverse socio-economic groups and their economic systems in the modern world.
+u404 [R18] SS 7.2.5 | Analyze information using appropriate data to draw conclusions about the total production, income, and economic growth in various economies.
+u405 [R19] SS 7.2.5.a | Define the government's role in various economic systems.
+u406 [R20] SS. 7.2.5.b | Identify various economic indicators that governments use to measure modern world societies, nations, and cultures.
+u407 [R21] SS 7.2.5 c | Categorize goods and services provided in modern societies, nations, and cultures into the four factors of production.
+u408 [R22] SS 7.2.6 | Illustrate how international trade impacts individuals, organizations, and nations/societies.
+u409 [R23] SS 7.2.6.a | Explain how individuals gain through specialization and voluntary trade and how international trade affects the domestic economy.
+u410 [R24] GEOGRAPHY
+u411 [R25] SS 7.3.1 | not addressed at this level
+u412 [R26] SS 7.3.2 | Evaluate how regions form and change over time.
+u413 [R27] SS 7.3.2.a | Classify physical and human characteristics of places and regions.
+u414 [R28] SS 7.3.2.b | Interpret the impact of land and water features on human decisions.
+u415 [R29] SS 7.3.2.c | Identify how humans construct major world regions and the impact on human societies.
+u416 [R30] SS 7.3.3 | Determine how the natural environment is changed by natural and human forces and how humans adapt to their surroundings.
+u417 [R31] SS 7.3.3.a | Explain the impact of natural processes on human and physical environments.
+u418 [R32] SS 7.3.3.b | Research and describe how humans have utilized and adapted to their physical environment.
+u419 [R33] SS 7.3.4 | Examine and interpret patterns of culture around the world.
+u420 [R34] SS 7.3.4.a | Compare and contrast characteristics of groups of people/settlements.
+u421 [R35] SS 7.3.4.b | Develop a logical process to describe how cultural diffusion occurs and how the diffusion of ideas impacts cultures.
+u422 [R36] SS 7.3.5 | Compare issues and/or events using geographic knowledge and skills to make informed decisions.
+u423 [R37] SS 7.3.5.a | Classify the physical or human factors that explain the geographic patterns of world events.
+u424 [R38] SS 7.3.5.b | Develop geographic representations and analyze the role of geographic physical and human factors in determining the arrangement of economic activity and patterns of human settlement.
+u425 [R39] HISTORY
+u426 [R40] SS 7.4.1 | Compare patterns of continuity and change over time in world history.
+u427 [R41] SS 7.4.1.a | Analyze the impact of people, events, and ideas, including various cultures and ethnic groups, on the world.
+u428 [R42] SS 7.4.1.b | Analyze the impact of historical events in the world using symbols, maps, documents, and artifacts.
+u429 [R43] SS 7.4.2 | Use multiple perspectives to examine the historical, social, and cultural context of past and current events.
+u430 [R44] SS 7.4.2.a | Analyze evidence from multiple perspectives and sources to better understand the complexities of world history.
+u431 [R45] SS 7.4.2.b | Compare and contrast primary and secondary sources to better understand multiple perspectives of the same event.
+u432 [R46] SS 7.4.3 | Examine historical events from the perspectives of marginalized and underrepresented groups.
+u433 [R47] SS 7.4.3.a | Identify how differing experiences can lead to the development of perspectives.
+u434 [R48] SS 7.4.3.b | Interpret perspectives of marginalized and underrepresented regions around the world.
+u435 [R49] SS 7.4.4 | Analyze and interpret sources for perspective and historical context.
+u436 [R50] SS 7.4.4.a | Compare and contrast primary and secondary sources of history.
+u437 [R51] SS 7.4.4.b | Identify the cause and effect relationships among historical events in the world and relevant contemporary issues.
+u438 [R52] SS 7.4.5 | Apply the inquiry process to construct and answer historical questions.
+u439 [R53] SS 7.4.5.a | Construct and answer inquiry questions using multiple historical sources.
+u440 [R54] SS 7.4.5.b | Evaluate and cite appropriate sources for research about world history, including primary and secondary sources.
+u441 [R55] SS 7.4.5.c | Gather, analyze, and communicate historical information about the world from multiple sources.
+u442 SHEET: Grade 8
+u443 [R1] 2019 NE Social Studies Standards/Indicators
+u444 [R2] CIVICS
+u445 [R3] SS 8.1.1 | Investigate and analyze the foundation, structure, and functions of the United States government.
+u446 [R4] SS 8.1.1.a | Identify and describe the different systems of government.
+u447 [R5] SS 8.1.1.b | Analyze the structure and roles of the United States government in meeting the needs of the citizens governed, managing conflict, and establishing order and security.
+u448 [R6] SS 8.1.1.c | Examine the development of foundational laws and other documents in the United States government.
+u449 [R7] SS 8.1.1.d | Evaluate how various United States government decisions impact people, place, and history.
+u450 [R8] SS 8.1.1.e | Describe how important government principles are shown in American government.
+u451 [R9] SS 8.1.1.f | Analyze the development and significance of political parties in the United States.
+u452 [R10] SS 8.1.2 | Evaluate the roles, responsibilities, and rights as local, state, national, and international citizens.
+u453 [R11] SS 8.1.2.a | Demonstrate ways individuals participate in the political process.
+u454 [R12] SS 8.1.2.b | Analyze the significance of patriotic symbols, songs and activities in terms of historical, social, and cultural contexts.
+u455 [R13] SS 8.1.2.c | Demonstrate civic engagement.
+u456 [R14] SS 8.1.2.d | Describe how cooperation and conflict among people have contributed to political, economic, and social events and situations in the United States.
+u457 [R15] SS 8.1.2.e | Compare and contrast the roles and influences of individuals, groups, and the media on American government.
+u458 [R16] ECONOMICS
+u459 [R17] SS 8.2.1 | not addressed at this level
+u460 [R18] SS 8.2.2 | Understand personal and business financial management.
+u461 [R19] SS 8.2.2.a | Identify skills for future financial success.
+u462 [R20] SS 8.2.2.b | Understand tools, strategies, and systems used to maintain, monitor, control, and plan the use of financial resources.
+u463 [R21] SS 8.2.3 | not addressed at this level
+u464 [R22] SS 8.2.4 | Justify and debate economic decisions made by North American societies.
+u465 [R23] SS 8.2.4.a | Research the origins and development of the economic system, banks, and financial institutions in the United States.
+u466 [R24] SS 8.2.4.b | Explain how tax revenues are collected and distributed.
+u467 [R25] SS 8.2.4.c | Describe the progression of money and its role in early United States history.
+u468 [R26] SS 8.2.5 | Illustrate how international trade impacts individuals, organizations, and nations.
+u469 [R27] SS 8.2.5.a | Explain that currency must be converted to make purchases in other countries.
+u470 [R28] SS 8.2.5.b | Recognize how trade barriers impact the prices and quantity of goods.
+u471 [R29] GEOGRAPHY
+u472 [R30] SS 8.3.1 | not addressed at this level
+u473 [R31] SS 8.3.2 | Examine how regions form and change over time.
+u474 [R32] SS 8.3.2.a | Evaluate physical and human characteristics of places and regions.
+u475 [R33] SS 8.3.2.b | Determine the impact of land and water features on human decisions.
+u476 [R34] SS 8.3.2.c | Identify and justify how humans develop major world regions and the impact on human societies.
+u477 [R35] SS 8.3.3 | Determine how the natural environment is changed by natural and human forces and how humans adapt to their surroundings.
+u478 [R36] SS 8.3.3.a | Interpret the impact of natural processes on human and physical environments.
+u479 [R37] SS 8.3.3.b | Analyze how humans have utilized and adapted to their physical environment.
+u480 [R38] SS 8.3.4 | not addressed at this level
+u481 [R39] SS 8.3.5 | not addressed at this level
+u482 [R40] HISTORY
+u483 [R41] SS 8.4.1 | Analyze patterns of continuity and change over time in the United States history.
+u484 [R42] SS 8.4.1.a | Evaluate the impact of people, events, and ideas, including various cultures and ethnic groups, on the United States.
+u485 [R43] SS 8.4.1.b | Evaluate the impact of historical events in the United States using symbols, maps, documents, and artifacts.
+u486 [R44] SS 8.4.2 | Use multiple perspectives to evaluate the historical, social, and cultural context of past and current events.
+u487 [R45] SS 8.4.2.a | Compare and interpret evidence from multiple perspectives and sources to better understand the complexities of US history.
+u488 [R46] SS 8.4.2.b | Evaluate the relevancy, accuracy, and completeness of primary and secondary sources to better understand multiple perspectives of the same event.
+u489 [R47] SS 8.4.3 | Examine historical events from the perspectives of marginalized and underrepresented groups.
+u490 [R48] SS 8.4.3.a | Identify how differing experiences can lead to the development of perspectives.
+u491 [R49] SS 8.4.3.b | Interpret how and why marginalized and underrepresented groups and/or individuals might understand historical events similarly or differently.
+u492 [R50] SS 8.4.4 | Evaluate and interpret sources for perspective and historical context.
+u493 [R51] SS 8.4.4.a | Compare and contrast primary and secondary sources of history.
+u494 [R52] SS 8.4.4.b | Evaluate the relationships among historical events in the United States and relevant contemporary issues.
+u495 [R53] SS 8.4.5 | Apply the inquiry process to construct and answer historical questions.
+u496 [R54] SS 8.4.5.a | Identify areas of inquiry by using student-generated questions about multiple historical sources.
+u497 [R55] SS 8.4.5.b | Locate, analyze, and cite appropriate sources for research about United States history, including primary and secondary sources.
+u498 [R56] SS 8.4.5.c | Gather, analyze, and communicate historical information about United States history from multiple sources.
+u499 SHEET: HS-Civics
+u500 [R1] 2019 NE Social Studies Standards/Indicators
+u501 [R2] CIVICS
+u502 [R3] SS HS.1.1 | Analyze the foundation, structures, and functions of the United States government as well as local, state, and international governments.
+u503 [R4] SS HS.1.1.a | Examine the historical foundation that influenced the creation of the United States Constitution.
+u504 [R5] SS HS.1.1.b | Evaluate the structure of American constitutional government.
+u505 [R6] SS HS.1.1.c | Analyze the functions of United States government and its outcomes.
+u506 [R7] SS HS.1.1.d | Analyze the foundation, structures, and functions of local government and its outcomes.
+u507 [R8] SS HS.1.1.e | Analyze the foundation, structures, and functions of state government and its outcomes.
+u508 [R9] SS HS.1.1.f | Analyze the foundation, structures, and functions of supranational organizations.
+u509 [R10] SS HS.1.1.g | Analyze the roles that political parties have played in the United States.
+u510 [R11] SS HS.1.1.h | Analyze United States foreign policy issues.
+u511 [R12] SS HS.1.2 | Demonstrate meaningful civic participation by analyzing local, state, national, or international issues and policies.
+u512 [R13] SS HS.1.2.a | Investigate how individuals and groups can effectively use the structure and functions of various levels of government to shape policy.
+u513 [R14] SS HS.1.2.b | Analyze and communicate the significance and impacts of patriotic symbols, songs, holidays, and activities in terms of historical, social, and cultural contexts.
+u514 [R15] SS HS.1.2.c | Engage and reflect on participation in civic activities.
+u515 [R16] SS HS.1.2.d | Investigate an issue and communicate which level of government is most appropriate to utilize in addressing the issue.
+u516 [R17] SS HS.1.2.e | Demonstrate how individuals, groups, and the media check governmental practices.
+u517 [R18] SS HS.1.2.f | Analyze various media sources for accuracy and perspective.
+u518 SHEET: HS-Econ
+u519 [R1] 2019 NE Social Studies Standards/Indicators
+u520 [R2] ECONOMICS
+u521 [R3] SS HS.2.1 | Apply economic concepts that support rational decision making.
+u522 [R4] SS HS.2.1.a | Make decisions by systematically considering alternatives and consequences through the use of cost benefit analysis.
+u523 [R5] SS HS.2.1.b | Assess the incentives for investing in personal education, skills, and talents.
+u524 [R6] SS HS.2.2 | Develop a plan to support short- and long-term goals.
+u525 [R7] SS HS.2.2.a | Develop a budget using a financial record keeping tool.
+u526 [R8] SS HS.2.2.b | Compare and contrast different types of banking accounts and features.
+u527 [R9] SS HS.2.2.c | Assess the effects of taxes on personal income.
+u528 [R10] SS HS 2.2.d | Compare and contrast possible career choices.
+u529 [R11] SS HS.2.3 | Critique strategies used to establish, build, maintain, monitor, and control credit.
+u530 [R12] SS HS.2.3.a | Compare and contrast the costs and benefits of different types and sources of credit and debt.
+u531 [R13] SS HS.2.3.b | Investigate strategies to effectively manage debt and factors that influence credit ratings.
+u532 [R14] SS HS.2.4 | Evaluate savings, investment, and risk management strategies to achieve financial goals.
+u533 [R15] SS HS.2.4.a | Explain the importance of saving and investing early to ensure financial security.
+u534 [R16] SS HS.2.4.b | Develop an investment strategy to achieve short- and long-term goals utilizing a variety of investment vehicles.
+u535 [R17] SS HS.2.4.c | Examine appropriate and cost effective risk management strategies.
+u536 [R18] HS.2.5 | Explain the role of markets in determining prices and allocating scarce goods and services.
+u537 [R19] SS HS.2.5.a | Summarize the role of competition, markets, and prices.
+u538 [R20] SS HS.2.5.b | Illustrate how markets determine changing equilibrium prices through supply and demand analysis.
+u539 [R21] SS HS.2.5.c | Hypothesize how competition between sellers could result in lower prices, higher quality products, and better customer service.
+u540 [R22] SS HS.2.5.d | Investigate possible causes and consequences of shortages and surpluses.
+u541 [R23] SS HS.2.6 | Explain how economic institutions impact different individuals and various groups.
+u542 [R24] SS HS.2.6.a | Explain how various economic institutions have played a role in United States economic policy and practice.
+u543 [R25] SS HS.2.6.b | Calculate and describe the impact of economic indicators.
+u544 [R26] SS HS.2.6.c | Describe the functions and role of the Federal Reserve System and its influence through monetary policy.
+u545 [R27] SS HS.2.7 | Assess the roles of institutions such as clearly defined property rights and the rule of law in a market economy.
+u546 [R28] SS HS.2.7.a | Assess how property rights are defined, enforced, and limited by government.
+u547 [R29] SS HS.2.8 | Compare and contrast the roles and responsibilities of government and differing outcomes from various economic systems: command/communism, mixed, socialism, market, and traditional economic systems.
+u548 [R30] SS HS.2.8.a | Examine how governments utilize taxation to provide goods and services to society.
+u549 [R31] SS HS.2.8.b | Evaluate the effectiveness of government policies altering market outcomes.
+u550 [R32] SS HS.2.8.c | Critique government policies and regulations in areas of market failure.
+u551 [R33] SS HS.2.9 | Examine the government’s influence on economic systems through fiscal policy.
+u552 [R34] SS HS.2.9.a | Explore various forms of taxation including income, sales, and capital gains and examine how governments can use taxing and spending policies to influence behavior.
+u553 [R35] SS HS.2.9.b | Examine the impact of fiscal policy on budget deficits/surpluses and national debt.
+u554 [R36] SS HS.2.10 | Investigate how international trade affects individuals, organizations, the domestic economy, and other nations.
+u555 [R37] SS HS.2.10.a | Explore comparative advantage among different countries.
+u556 [R38] SS HS.2.10.b | Analyze the impact on prices and quantities of various trade policies, both domestically and internationally.
+u557 SHEET: HS-Geo
+u558 [R1] 2019 NE Social Studies Standards/Indicators
+u559 [R2] GEOGRAPHY
+u560 [R3] SS HS.3.1 | Evaluate where (spatial) and why people, places, and environments are organized on the Earth’s surface.
+u561 [R4] SS HS.3.1.a | Determine spatial organization of human settlements in relation to natural features.
+u562 [R5] SS HS.3.1.b | Analyze and explain changes in spatial patterns as a result of the interactions among human and physical processes.
+u563 [R6] SS HS.3.2 | Evaluate how regions form and change over time.
+u564 [R7] SS HS.3.2.a | Analyze physical and human processes that shape places and regions.
+u565 [R8] SS HS.3.2.b | Examine the importance of places and regions to individual and social identity, and how identities change over space and time.
+u566 [R9] SS HS.3.2.c | Evaluate the interdependence of places and regions.
+u567 [R10] SS HS.3.3 | Analyze how the natural environment and cultural landscape are transformed by natural and human forces and interpret how humans adapt to their surroundings.
+u568 [R11] SS HS.3.3.a | Explain components of Earth's physical systems and evaluate the impact of natural processes on human environments.
+u569 [R12] SS HS.3.3.b | Evaluate how humans have utilized and adapted to their physical environment.
+u570 [R13] SS HS.3.4 | Compare and contrast patterns of human populations and culture over space and time on a local, national, and global scale.
+u571 [R14] SS HS.3.4.a | Compare trends in human migration, urbanization, and demographic composition at a local, national, and global scale over time and short-term and long-term causes and effects.
+u572 [R15] SS HS.3.4.b | Examine the spread of cultural traits and the potential benefits and challenges of cultural diffusion, economic development, and globalization.
+u573 [R16] SS HS.3.4.c | Analyze the relationships of sovereign nations and the role of multinational organizations on conflict and cooperation both between and within countries.
+u574 [R17] SS HS.3.5 | Evaluate issues and/or events using geographic knowledge and geospatial skills to make informed decisions.
+u575 [R18] SS HS.3.5.a | Apply geographic knowledge and skills to interpret the past and present in order to plan for the future.
+u576 [R19] SS HS.3.5.b | Analyze how geospatial skills and geo-literacy are applied to improve standards of living and solve problems.
+u577 [R20] SS HS.3.5.c | Evaluate geographical information sources for applications, credibility, and appropriateness in displaying spatial data.
+u578 SHEET: HS-History
+u579 [R1] 2019 NE Social Studies Standards/Indicators
+u580 [R2] U.S. HISTORY
+u581 [R3] HS.4.1 (US) | Analyze and evaluate patterns of continuity and change over time in American history.
+u582 [R4] SS HS.4.1.a (US) | Evaluate the cause and effect of historical events on various groups in the United States.
+u583 [R5] SS HS.4.1.b (US) | Select, record, and interpret key national events in chronological order.
+u584 [R6] SS HS.4.1.c (US) | Evaluate the impact of people, events, and ideas, including various cultures and ethnic groups, on the United States.
+u585 [R7] SS HS.4.2 (US) | Analyze the complexity of the interaction of multiple perspectives to investigate causes and effects of significant events in the development of history.
+u586 [R8] SS HS.4.2.a (US) | Identify and evaluate how considering multiple perspectives facilitates an understanding of history.
+u587 [R9] SS HS.4.2.b (US) | Evaluate the relevancy, accuracy, and completeness of primary and secondary sources to better understand multiple perspectives of the same event.
+u588 [R10] SS HS.4.3 (US) | Examine historical events from the perspectives of marginalized and underrepresented groups.
+u589 [R11] SS HS.4.3.a (US) | Identify how differing experiences can lead to the development of perspectives.
+u590 [R12] SS HS.4.3.b (US) | Interpret how and why marginalized and underrepresented groups and/or individuals might understand historical events similarly or differently.
+u591 [R13] SS HS.4.4 (US) | Evaluate sources for perspective, limitations, accuracy, and historical context.
+u592 [R14] SS HS.4.4.a (US) | Compare, contrast, and critique the central arguments in primary and secondary sources of history from multiple media.
+u593 [R15] SS HS.4.4.b (US) | Evaluate strengths and limitations of a variety of primary and secondary historical sources.
+u594 [R16] SS HS 4.4.c (US) | Determine the relationship between multiple causes and effects of events and developments in the past.
+u595 [R17] SS HS.4.4.d (US) | Synthesize the relationships among historical events in the United States and relevant contemporary issues.
+u596 [R18] SS HS.4.5 (US) | Apply the inquiry process to construct and answer historical questions.
+u597 [R19] SS HS.4.5.a (US) | Construct meaningful questions about topics in U.S. history.
+u598 [R20] SS HS.4.5.b (US) | Locate, evaluate, and cite appropriate sources for research about selected topics in U.S. History, including primary and secondary sources.
+u599 [R21] SS HS.4.5.c (US) | Select, organize, and corroborate relevant historical information about selected topics in U.S. History.
+u600 [R22] SS HS.4.5.d (US) | Synthesize historical information to create new understandings.
+u601 [R23] SS HS.4.5.e (US) | Communicate inquiry results within a historical context.
+u602 [R24] WORLD HISTORY
+u603 [R25] HS.4.1 (WLD) | Analyze and evaluate patterns of continuity and change over time in world history.
+u604 [R26] SS HS.4.1.a (WLD) | Evaluate the cause and effect of historical events in the world.
+u605 [R27] SS HS.4.1.b (WLD) | Select, record, and interpret key global events in chronological order.
+u606 [R28] SS HS.4.1.c (WLD) | Examine the impact of people, events, and ideas, including various cultures and ethnic groups, on the world.
+u607 [R29] SS HS.4.2 (WLD) | Analyze the complexity of the interaction of multiple perspectives to investigate causes and effects of significant events in the development of history.
+u608 [R30] SS HS.4.2.a (WLD) | Identify and evaluate how considering multiple perspectives facilitates an understanding of history.
+u609 [R31] SS HS.4.2.b (WLD) | Evaluate the relevancy, accuracy, and completeness of primary and secondary sources to better understand multiple perspectives of the same event.
+u610 [R32] SS HS.4.3 (WLD) | Examine historical events from the perspectives of diverse groups.
+u611 [R33] SS HS.4.3.a (WLD) | Identify how differing experiences can lead to the development of perspectives.
+u612 [R34] SS HS.4.3.b (WLD) | Interpret how and why diverse groups and/or individuals might understand historical events similarly or differently.
+u613 [R35] SS HS.4.4 (WLD) | Evaluate sources for perspective, limitations, accuracy, and historical context.
+u614 [R36] SS HS.4.4.a (WLD) | Compare, contrast, and critique the central arguments in primary and secondary sources of history from multiple media.
+u615 [R37] SS HS.4.4.b (WLD) | Evaluate strengths and limitations of a variety of primary and secondary historical sources.
+u616 [R38] SS HS.4.4.c (WLD) | Determine the relationship between multiple causes and effects of events and developments in the past.
+u617 [R39] SS HS.4.4.d (WLD) | Synthesize the relationships among historical events in the world and relevant contemporary issues.
+u618 [R40] SS HS.4.5 (WLD) | Apply the inquiry process to construct and answer historical questions.
+u619 [R41] SS HS.4.5.a (WLD) | Construct meaningful questions that initiate an inquiry.
+u620 [R42] SS HS.4.5.b (WLD) | Locate, evaluate, and cite appropriate sources for research about selected topics in world history, including primary and secondary sources.
+u621 [R43] SS HS.4.5.c (WLD) | Select, organize, and corroborate relevant historical information about selected topics in world history.
+u622 [R44] SS HS.4.5.d (WLD) | Synthesize historical information to create new understandings.
+u623 [R45] SS HS.4.5.e (WLD) | Communicate inquiry results within a historical context.

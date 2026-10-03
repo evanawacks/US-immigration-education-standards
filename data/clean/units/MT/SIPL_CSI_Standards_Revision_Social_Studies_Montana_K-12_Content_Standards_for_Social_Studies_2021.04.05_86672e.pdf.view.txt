@@ -1,0 +1,480 @@
+=== page 1 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u2 Contents Coding the Standards .................................................................................................................................... 1
+u3 Coding Scheme ...................................................................................................................................... 1
+u4 K-12 Standards .............................................................................................................................................. 2
+u5 Kindergarten ................................................................................................................................................. 3
+u6 First Grade ..................................................................................................................................................... 4
+u7 Second Grade ................................................................................................................................................ 5
+u8 Third Grade ................................................................................................................................................... 6
+u9 Fourth Grade ................................................................................................................................................. 7
+u10 Fifth Grade .................................................................................................................................................... 9
+u11 Sixth – Eighth Grades .................................................................................................................................. 11
+u12 Ninth – Twelfth Grades ............................................................................................................................... 14
+u13 2000 to 2021 Comparison ........................................................................................................................... 18
+u14 CODING THE STANDARDS
+u15 CODING SCHEME SUBJECT.STANDARD.GradeLevel SUBSTANDARD.sub-substandard
+u16 SS = Social Studies
+u17 CG = Civics and Government
+u18 E = Economics
+u19 G = Geography
+u20 H = History
+u21 Example
+u22 [T1 R1 C1] SS.CG.K.1
+u23 [T1 R1 C2] recognize the people who create and carry out rules for the school and classroom
+=== page 2 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u26 K-12 STANDARDS
+u27 The following standards will go into effect on July 1, 2021.
+u28 [T1 R1 C1] Content
+u29 [T1 R1 C3] The content areas covered by the social studies standards
+u30 [T1 R2 C3] include
+u31 [T1 R3 C1] SS.CG
+u32 [T1 R3 C2] civics and government
+u33 [T1 R4 C1] SS.E
+u34 [T1 R4 C2] economics
+u35 [T1 R5 C1] SS.G
+u36 [T1 R5 C2] geography
+u37 [T1 R6 C1] SS.H
+u38 [T1 R6 C2] history
+u39 [T2 R1 C1] Skills
+u40 [T2 R1 C3] When a district incorporates or integrates social studies
+u41 [T2 R2 C3] content into district curriculum or offers a course in social
+u42 [T2 R3 C3] studies, the following skills at each grade level may apply
+u43 [T2 R4 C1] SS.K12.1
+u44 [T2 R4 C2] develop questions
+u45 [T2 R5 C1] SS.K12.2
+u46 [T2 R5 C2] plan inquiries
+u47 [T2 R6 C1] SS.K12.3
+u48 [T2 R6 C2] compare and evaluate sources for relevance, perspective, and accuracy
+u49 [T2 R7 C1] SS.K12.4
+u50 [T2 R7 C2] use sources to gather evidence to develop and refine claims
+u51 [T2 R8 C1] SS.K12.5
+u52 [T2 R8 C2] communicate conclusions
+u53 [T2 R9 C1] SS.K12.6
+u54 [T2 R9 C2] take informed action
+=== page 3 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u57 KINDERGARTEN
+u58 [T1 R1 C1] SS.K
+u59 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR
+u60 [T1 R2 C3] KINDERGARTEN
+u61 [T1 R3 C1] SS.CG.K
+u62 [T1 R3 C2] The civics and government content standards for kindergarten are that each student will
+u63 [T1 R4 C1] SS.CG.K.1
+u64 [T1 R4 C2] recognize the people who create and carry out rules for the school and classroom
+u65 [T1 R5 C1] SS.CG.K.2
+u66 [T1 R5 C2] define that being a citizen of the classroom and school community means following established rules and expectations
+u67 [T1 R6 C1] SS.CG.K.3
+u68 [T1 R6 C2] demonstrate citizenship through their interactions in the classroom and school community
+u69 [T1 R7 C1] SS.E.K
+u70 [T1 R7 C2] The economics content standards for kindergarten are that each student will
+u71 [T1 R8 C1] SS.E.K.1
+u72 [T1 R8 C2] explain and identify examples of goods and services
+u73 [T1 R9 C1] SS.E.K.2
+u74 [T1 R9 C2] describe goods and products that are produced in local regions
+u75 [T1 R10 C1] SS.G.K
+u76 [T1 R10 C2] The geography content standard for kindergarten is that each student will use maps, and other representations, to describe place characteristics
+u77 [T1 R11 C1] SS.H.K
+u78 [T1 R11 C2] The history content standard for kindergarten is that each student will distinguish between past, present, and future time
+=== page 4 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u81 FIRST GRADE
+u82 [T1 R1 C1] SS.1
+u83 [T1 R1 C2] THE SOCIAL STUDIES CONTENT STANDARDS FOR FIRST GRADE
+u84 [T1 R2 C1] SS.CG.1
+u85 [T1 R2 C2] The civics and government content standards for first grade are that each student will
+u86 [T1 R3 C1] SS.CG.1.1
+u87 [T1 R3 C2] demonstrate being a citizen of a classroom and school community through interactions and by following established rules and expectations
+u88 [T1 R4 C1] SS.CG.1.2
+u89 [T1 R4 C2] recognize the people, and their roles, who create and carry out rules for the school and classroom
+u90 [T1 R5 C1] SS.E.1
+u91 [T1 R5 C2] The economics content standards for first grade are that each student will
+u92 [T1 R6 C1] SS.E.1.1
+u93 [T1 R6 C2] explain the difference between needs and wants
+u94 [T1 R7 C1] SS.E.1.2
+u95 [T1 R7 C2] describe goods and products that are produced in local regions
+u96 [T1 R8 C1] SS.G.1
+u97 [T1 R8 C2] The geography content standards for first grade are that each student will
+u98 [T1 R9 C1] SS.G.1.1
+u99 [T1 R9 C2] identify and describe human and physical local landmarks
+u100 [T1 R10 C1] SS.G.1.2
+u101 [T1 R10 C2] construct maps and other representations of familiar places
+u102 [T1 R11 C1] SS.H.1
+u103 [T1 R11 C2] The history content standards for first grade are that each student will
+u104 [T1 R12 C1] SS.H.1.1
+u105 [T1 R12 C2] distinguish between past, present, and future time
+u106 [T1 R13 C1] SS.H.1.2
+u107 [T1 R13 C2] understand how events might be described differently depending on historical contexts and perspectives, including those of tribes in Montana
+=== page 5 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u110 SECOND GRADE
+u111 [T1 R1 C1] SS.2
+u112 [T1 R1 C2] THE SOCIAL STUDIES CONTENT STANDARDS FOR SECOND GRADE
+u113 [T1 R2 C1] SS.CG.2
+u114 [T1 R2 C2] The civics and government content standards for second grade are that each student will
+u115 [T1 R3 C1] SS.CG.2.1
+u116 [T1 R3 C2] explain the roles of people who help govern different communities including tribal communities
+u117 [T1 R4 C1] SS.CG.2.2
+u118 [T1 R4 C2] demonstrate ways to show good citizenship in the classroom, school, and community
+u119 [T1 R5 C1] SS.E.2
+u120 [T1 R5 C2] The economics content standards for second grade are that each student will
+u121 [T1 R6 C1] SS.E.2.1
+u122 [T1 R6 C2] describe the goods and services that people in the local, state, and national community produce
+u123 [T1 R7 C1] SS.E.2.2
+u124 [T1 R7 C2] describe examples of the goods and services that governments provide
+u125 [T1 R8 C1] SS.E.2.3
+u126 [T1 R8 C2] identify resources people use to access the goods and services they want and need
+u127 [T1 R9 C1] SS.G.2
+u128 [T1 R9 C2] The geography content standards for second grade are that each student will
+u129 [T1 R10 C1] SS.G.2.1
+u130 [T1 R10 C2] use the basic components of a map to identify physical and political features, including American Indian reservations
+u131 [T1 R11 C1] SS.G.2.2
+u132 [T1 R11 C2] describe how geography and human activities impact each other
+u133 [T1 R12 C1] SS.H.2
+u134 [T1 R12 C2] The history content standards for second grade are that each student will
+u135 [T1 R13 C1] SS.H.2.1
+u136 [T1 R13 C2] identify how people lived differently in the past than they do today
+u137 [T1 R14 C1] SS.H.2.2
+u138 [T1 R14 C2] understand that there are twelve distinct and unique tribes within Montana whose people contribute to modern life
+u139 [T1 R15 C1] SS.H.2.3
+u140 [T1 R15 C2] identify different kinds of historical sources, including oral histories of American Indians
+=== page 6 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u143 THIRD GRADE
+u144 [T1 R1 C1] SS.3
+u145 [T1 R1 C2] THE SOCIAL STUDIES CONTENT STANDARDS FOR THIRD GRADE
+u146 [T1 R2 C1] SS.CG.3
+u147 [T1 R2 C2] The civics and government content standards for third grade are that each student will
+u148 [T1 R3 C1] SS.CG.3.1
+u149 [T1 R3 C2] describe and identify the basic functions of local government, including tribal governments
+u150 [T1 R4 C1] SS.CG.3.2
+u151 [T1 R4 C2] recognize that civic participation involves remaining accurately informed about public issues, taking action, and voting in elections
+u152 [T1 R5 C1] SS.CG.3.3
+u153 [T1 R5 C2] identify key symbols of nations
+u154 [T1 R6 C1] SS.E.3
+u155 [T1 R6 C2] The economics content standards for third grade are that each student will
+u156 [T1 R7 C1] SS.E.3.1
+u157 [T1 R7 C2] compare the benefits and costs of individual choices
+u158 [T1 R8 C1] SS.E.3.2
+u159 [T1 R8 C2] identify examples of human and natural resources that are used to produce goods and services
+u160 [T1 R9 C1] SS.E.3.3
+u161 [T1 R9 C2] explain economic interdependence within historical and contemporary contexts
+u162 [T1 R10 C1] SS.G.3
+u163 [T1 R10 C2] The geography content standards for third grade are that each student will
+u164 [T1 R11 C1] SS.G.3.1
+u165 [T1 R11 C2] examine maps and other representations to identify historical and contemporary political and cultural patterns in the Americas
+u166 [T1 R12 C1] SS.G.3.2
+u167 [T1 R12 C2] identify environmental and technological events and conditions and how humans and the environment impact each other
+u168 [T1 R13 C1] SS.G.3.3
+u169 [T1 R13 C2] identify landforms and other physical characteristics of the Americas
+u170 [T1 R14 C1] SS.H.3
+u171 [T1 R14 C2] The history content standards for third grade are that each student will
+u172 [T1 R15 C1] SS.H.3.1
+u173 [T1 R15 C2] identify tribes in Montana by their original and current names
+u174 [T1 R16 C1] SS.H.3.2
+u175 [T1 R16 C2] explain how perspective impacts the telling of historical events
+=== page 7 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u178 FOURTH GRADE
+u179 [T1 R1 C1] SS.4
+u180 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH
+u181 [T1 R2 C3] GRADE
+u182 [T1 R3 C1] SS.CG.4
+u183 [T1 R3 C2] The civics and government content standards for fourth grade are that each student will
+u184 [T1 R4 C1] SS.CG.4.1
+u185 [T1 R4 C2] demonstrate civic participation within the classroom or school
+u186 [T1 R5 C1] SS.CG.4.2
+u187 [T1 R5 C2] practice deliberative processes when making decisions as a group
+u188 [T1 R6 C1] SS.CG.4.3
+u189 [T1 R6 C2] describe how rules, laws, and policies are implemented by local, state, national, and tribal governments
+u190 [T1 R7 C1] SS.CG.4.4
+u191 [T1 R7 C2] define sovereignty for tribes in Montana
+u192 [T1 R8 C1] SS.CG.4.5
+u193 [T1 R8 C2] identify key foundational documents in Montana's government
+u194 [T1 R9 C1] SS.E.4
+u195 [T1 R9 C2] The economics content standards for fourth grade are that each student will
+u196 [T1 R10 C1] SS.E.4.1
+u197 [T1 R10 C2] identify the various pressures and incentives that influence the decisions people make in short-term and long-term situations
+u198 [T1 R11 C1] SS.E.4.2
+u199 [T1 R11 C2] identify basic elements of Montana's state economic system including agriculture, business, natural resources, and labor
+u200 [T1 R12 C1] SS.E.4.3
+u201 [T1 R12 C2] identify various resources and labor that are used to provide goods and services in Montana
+u202 [T1 R13 C1] SS.E.4.4
+u203 [T1 R13 C2] explain how trade leads to increasing economic interdependence among groups in Montana
+u204 [T1 R14 C1] SS.G.4
+u205 [T1 R14 C2] The geography content standards for fourth grade are that each student will
+u206 [T1 R15 C1] SS.G.4.1
+u207 [T1 R15 C2] examine maps and other representations to explain the movement of people
+u208 [T1 R16 C1] SS.G.4.2
+u209 [T1 R16 C2] identify and label the tribes in Montana and their indigenous territories, and current locations
+u210 [T1 R17 C1] SS.G.4.3
+u211 [T1 R17 C2] investigate the physical, political, and cultural characteristics of places, regions, and people in Montana
+u212 [T1 R18 C1] SS.G.4.4
+u213 [T1 R18 C2] analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration in Montana
+=== page 8 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u216 [T1 R1 C1] SS.4
+u217 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH
+u218 [T1 R2 C3] GRADE
+u219 [T1 R3 C1] SS.H.4
+u220 [T1 R3 C2] The history content standards for fourth grade are that each student will
+u221 [T1 R4 C1] SS.H.4.1
+u222 [T1 R4 C2] understand tribes in Montana have their own unique histories
+u223 [T1 R5 C1] SS.H.4.2
+u224 [T1 R5 C2] identify events and policies that have impacted and been influenced by tribes in Montana
+u225 [T1 R6 C1] SS.H.4.3
+u226 [T1 R6 C2] explain how Montana has changed over time given its cultural diversity and how this history impacts the present
+u227 [T1 R7 C1] SS.H.4.4
+u228 [T1 R7 C2] describe how historical accounts are impacted by individual perspectives
+=== page 9 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u231 FIFTH GRADE
+u232 [T1 R1 C1] SS.5
+u233 [T1 R1 C2] THE SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE
+u234 [T1 R2 C1] SS.CG.5
+u235 [T1 R2 C2] The civics and government content standards for fifth grade are that each student will
+u236 [T1 R3 C1] SS.CG.5.1
+u237 [T1 R3 C2] examine the diverse origins, ideals, and purposes of rules, laws, and key United States constitutional provisions and other foundational documents
+u238 [T1 R4 C1] SS.CG.5.2
+u239 [T1 R4 C2] use deliberative processes when engaging in civic participation within the classroom or school
+u240 [T1 R5 C1] SS.CG.5.3
+u241 [T1 R5 C2] distinguish between the responsibilities of local, state, tribal, and national governments
+u242 [T1 R6 C1] SS.CG.5.4
+u243 [T1 R6 C2] explain how democracy relies upon active and responsible participation of citizens
+u244 [T1 R7 C1] SS.CG.5.5
+u245 [T1 R7 C2] describe the basic duties of the three branches of government
+u246 [T1 R8 C1] SS.E.5
+u247 [T1 R8 C2] The economics content standards for fifth grade are that each student will
+u248 [T1 R9 C1] SS.E.5.1
+u249 [T1 R9 C2] explain how people have to make choices between wants and needs and evaluate the outcomes or consequences of those choices
+u250 [T1 R10 C1] SS.E.5.2
+u251 [T1 R10 C2] identify positive and negative incentives that influence the decisions people make
+u252 [T1 R11 C1] SS.E.5.3
+u253 [T1 R11 C2] identify resources and labor that are used to produce goods and services
+u254 [T1 R12 C1] SS.E.5.4
+u255 [T1 R12 C2] explain the role of money in the exchange of goods and services
+u256 [T1 R13 C1] SS.E.5.5
+u257 [T1 R13 C2] describe the role of manufacturing and agriculture in the economy of the United States
+u258 [T1 R14 C1] SS.E.5.6
+u259 [T1 R14 C2] describe how interest rates impact economic decision making
+u260 [T1 R15 C1] SS.G.5
+u261 [T1 R15 C2] The geography content standards for fifth grade are that each student will
+u262 [T1 R16 C1] SS.G.5.1
+u263 [T1 R16 C2] identify and label US regions, territories, states and their capitals/major cities
+u264 [T1 R17 C1] SS.G.5.2
+u265 [T1 R17 C2] create, organize, and present geographic information to show settlement patterns in the United States, including impacts on tribal lands
+u266 [T1 R18 C1] SS.G.5.3
+u267 [T1 R18 C2] analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration
+u268 [T1 R19 C1] SS.H.5
+u269 [T1 R19 C2] The history content standards for fifth grade are that each student will
+u270 [T1 R20 C1] SS.H.5.1
+u271 [T1 R20 C2] interpret data presented in timelines
+=== page 10 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u274 [T1 R1 C1] SS.5
+u275 [T1 R1 C2] THE SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE
+u276 [T1 R2 C1] SS.H.5.2
+u277 [T1 R2 C2] understand the inter-relationship of chronological historical events
+u278 [T1 R3 C1] SS.H.5.3
+u279 [T1 R3 C2] identify roles of individuals and groups and their impact on United States and tribal historical events
+u280 [T1 R4 C1] SS.H.5.4
+u281 [T1 R4 C2] understand the unique historical perspectives of American Indians
+u282 [T1 R5 C1] SS.H.5.5
+u283 [T1 R5 C2] analyze historical documents and their impact on tribes in Montana and their sovereignty
+=== page 11 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u286 SIXTH – EIGHTH GRADES
+u287 [T1 R1 C1] SS.6-8
+u288 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH
+u289 [T1 R2 C3] THROUGH EIGHTH GRADE
+u290 [T1 R3 C1] SS.CG.6-8
+u291 [T1 R3 C2] The civics and government content standards for sixth through eighth grade are that each student will
+u292 [T1 R4 C1] SS.CG.6-8.1
+u293 [T1 R4 C2] explain a variety of forms of government from the past or present
+u294 [T1 R5 C1] SS.CG.6-8.2
+u295 [T1 R5 C2] explain the structure of and key principles in foundational documents, including the Montana Constitution
+u296 [T1 R6 C1] SS.CG.6-8.3
+u297 [T1 R6 C2] explain how global and American Indian civilizations and governments have contributed to foundational documents of the United States
+u298 [T1 R7 C1] SS.CG.6-8.4
+u299 [T1 R7 C2] distinguish the structure, organization, powers, and limits of government at the local, state, national, and tribal levels
+u300 [T1 R8 C1] SS.CG.6-8.5
+u301 [T1 R8 C2] identify events and leaders that ensure that key United States principles of equality and civil rights are applied to various groups, including American Indians
+u302 [T1 R9 C1] SS.CG.6-8.6
+u303 [T1 R9 C2] demonstrate that the United States government includes concepts of both a democracy and a republic
+u304 [T1 R10 C1] SS.CG.6-8.7
+u305 [T1 R10 C2] employ strategies for civic involvement that address a state or local, or national issues
+u306 [T1 R11 C1] SS.E.6-8
+u307 [T1 R11 C2] The economics content standards for sixth through eighth grade are that each student will
+u308 [T1 R12 C1] SS.E.6-8.1
+u309 [T1 R12 C2] explain how economic decisions impact individuals, businesses, and society, including Indigenous societies
+u310 [T1 R13 C1] SS.E.6-8.2
+u311 [T1 R13 C2] analyze examples of how groups and individuals have considered profit and personal values in making economic choices in the past and/or present
+u312 [T1 R14 C1] SS.E.6-8.3
+u313 [T1 R14 C2] explain the roles of producers and consumers in market systems
+u314 [T1 R15 C1] SS.E.6-8.4
+u315 [T1 R15 C2] describe the role of competition in the determination of prices and wages in a market economy
+u316 [T1 R16 C1] SS.E.6-8.5
+u317 [T1 R16 C2] explain ways in which money facilitates exchange and impacts transactional costs
+=== page 12 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u320 [T1 R1 C1] SS.6-8
+u321 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH
+u322 [T1 R2 C3] THROUGH EIGHTH GRADE
+u323 [T1 R3 C1] SS.E.6-8.6
+u324 [T1 R3 C2] explain how changes in supply, demand, and labor standards cause changes in prices and quantities of goods, services, and other capital
+u325 [T1 R4 C1] SS.G.6-8
+u326 [T1 R4 C2] The geography content standards for sixth through eighth grade are that each student will
+u327 [T1 R5 C1] SS.G.6-8.1
+u328 [T1 R5 C2] construct and analyze maps using scale, direction, symbols, legends, and projections to gather information about regions across the world
+u329 [T1 R6 C1] SS.G.6-8.2
+u330 [T1 R6 C2] identify the location of places and regions in the world and understand their physical, political, and cultural characteristics
+u331 [T1 R7 C1] SS.G.6-8.3
+u332 [T1 R7 C2] analyze maps and charts from a specific time period to understand an issue or event
+u333 [T1 R8 C1] SS.G.6-8.4
+u334 [T1 R8 C2] explain how the environment and geographic features have affected people and how people have affected the environment throughout Montana, the United States, and the world
+u335 [T1 R9 C1] SS.G.6-8.5
+u336 [T1 R9 C2] explain the role and impact of spatial patterns of settlement and movement in shaping societies and cultures, including Indigenous cultures
+u337 [T1 R10 C1] SS.G.6-8.6
+u338 [T1 R10 C2] identify how the historical and contemporary movement of people, goods, and ideas from one area can impact change, conflict, and cooperation in other areas
+u339 [T1 R11 C1] SS.G.6-8.7
+u340 [T1 R11 C2] identify the cultural roots of major world regions
+u341 [T1 R12 C1] SS.H.6-8
+u342 [T1 R12 C2] The history content standards for sixth through eighth grade are that each student will
+u343 [T1 R13 C1] SS.H.6-8.1
+u344 [T1 R13 C2] explore complex civilizations, and identify elements of change and continuity across historical eras in Montana, the Americas, and world history
+u345 [T1 R14 C1] SS.H.6-8.2
+u346 [T1 R14 C2] analyze how the historical events relate to one another and are shaped by historical context, including societies in the Americas
+u347 [T1 R15 C1] SS.H.6-8.3
+u348 [T1 R15 C2] analyze how, since European contact, historical events and policies have mutually impacted American Indian and European societies
+=== page 13 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u351 [T1 R1 C1] SS.6-8
+u352 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH
+u353 [T1 R2 C3] THROUGH EIGHTH GRADE
+u354 [T1 R3 C1] SS.H.6-8.4
+u355 [T1 R3 C2] identify how new archaeological and scientific information shapes historical understanding
+u356 [T1 R4 C1] SS.H.6-8.5
+u357 [T1 R4 C2] explain how Montana has changed over time and how this history impacts the present
+u358 [T1 R5 C1] SS.H.6-8.6
+u359 [T1 R5 C2] understand that there are multiple perspectives and interpretations of historical events
+u360 [T1 R6 C1] SS.H.6-8.7
+u361 [T1 R6 C2] analyze how people's perspectives shaped the historical narratives they created
+u362 [T1 R7 C1] SS.H.6-8.8
+u363 [T1 R7 C2] identify limitations and biases in primary and secondary sources, specifically regarding misinformation and stereotypes
+u364 [T1 R8 C1] SS.H.6-8.9
+u365 [T1 R8 C2] understand that the questions people ask shape the conclusions they reach
+=== page 14 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u368 NINTH – TWELFTH GRADES
+u369 [T1 R1 C1] SS.9-12
+u370 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH
+u371 [T1 R2 C3] THROUGH TWELFTH GRADE
+u372 [T1 R3 C1] SS.CG.9-12
+u373 [T1 R3 C2] The civics and government content standards for ninth through twelfth grade are that each student will
+u374 [T1 R4 C1] SS.CG.9-12.1
+u375 [T1 R4 C2] analyze and evaluate the ideas and principles contained in the foundational documents of the United States, and explain how they establish a system of government that has powers, responsibilities, and limits
+u376 [T1 R5 C1] SS.CG.9-12.2
+u377 [T1 R5 C2] analyze the impact of constitutions, laws, treaties, and international agreements on the maintenance of domestic and international relationships
+u378 [T1 R6 C1] SS.CG.9-12.3
+u379 [T1 R6 C2] evaluate the impact of international agreements on contemporary world issues
+u380 [T1 R7 C1] SS.CG.9-12.4
+u381 [T1 R7 C2] apply civic virtues and democratic principles when working with others
+u382 [T1 R8 C1] SS.CG.9-12.5
+u383 [T1 R8 C2] evaluate how citizens and institutions address social and political problems at the local, state, tribal, national, and/or international levels
+u384 [T1 R9 C1] SS.CG.9-12.6
+u385 [T1 R9 C2] evaluate the American governmental system compared to international governmental systems
+u386 [T1 R10 C1] SS.CG.9-12.7
+u387 [T1 R10 C2] explain the foundations and complexity of sovereignty for federally recognized tribes in Montana
+u388 [T1 R11 C1] SS.CG.9-12.8
+u389 [T1 R11 C2] evaluate appropriate deliberative processes in multiple settings
+u390 [T1 R12 C1] SS.CG.9-12.9
+u391 [T1 R12 C2] evaluate government procedures for making decisions at the local, state, national, tribal, and international levels
+u392 [T1 R13 C1] SS.CG.9-12.10
+u393 [T1 R13 C2] analyze historical, contemporary, and emerging means of changing societies, promoting the common good, and protecting rights
+u394 [T1 R14 C1] SS.CG.9-12.11
+u395 [T1 R14 C2] analyze the impact and roles of personal interests and perspectives, market, media, and group influences on the application of civic virtues, democratic principles, constitutional rights, and human rights
+u396 [T1 R15 C1] SS.CG.9-12.12
+u397 [T1 R15 C2] evaluate citizens' and institutions' effectiveness in ensuring civil rights at the local, state, tribal, national, and international levels
+=== page 15 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u400 [T1 R1 C1] SS.9-12
+u401 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH
+u402 [T1 R2 C3] THROUGH TWELFTH GRADE
+u403 [T1 R3 C1] SS.E.9-12
+u404 [T1 R3 C2] The economics content standards for ninth through twelfth grade are that each student will
+u405 [T1 R4 C1] SS.E.9-12.1
+u406 [T1 R4 C2] analyze how pressures and incentives impact economic choices and their costs and benefits for different groups, including American Indians
+u407 [T1 R5 C1] SS.E.9-12.2
+u408 [T1 R5 C2] explain how economic cycles affect personal financial decisions
+u409 [T1 R6 C1] SS.E.9-12.3
+u410 [T1 R6 C2] analyze the ways in which pressures and incentives influence what is produced and distributed in a market system
+u411 [T1 R7 C1] SS.E.9-12.4
+u412 [T1 R7 C2] evaluate the extent to which competition among producers, among consumers, and among laborers exists in specific markets
+u413 [T1 R8 C1] SS.E.9-12.5
+u414 [T1 R8 C2] describe the consequences of competition in specific markets
+u415 [T1 R9 C1] SS.E.9-12.6
+u416 [T1 R9 C2] evaluate benefits, costs, and possible outcomes of government policies to influence market outcomes
+u417 [T1 R10 C1] SS.E.9-12.7
+u418 [T1 R10 C2] use current data to explain the influence of changes in spending, production, and the money supply on various economic conditions
+u419 [T1 R11 C1] SS.E.9-12.8
+u420 [T1 R11 C2] use economic indicators to analyze the current and future state of the economy
+u421 [T1 R12 C1] SS.E.9-12.9
+u422 [T1 R12 C2] evaluate the selection of monetary and fiscal policies in a variety of economic conditions
+u423 [T1 R13 C1] SS.G.9-12
+u424 [T1 R13 C2] The geography content standards for ninth through twelfth grade are that each student will
+u425 [T1 R14 C1] SS.G.9-12.1
+u426 [T1 R14 C2] use geospatial reasoning to create maps to display and explain the spatial patterns of cultural and environmental characteristics
+u427 [T1 R15 C1] SS.G.9-12.2
+u428 [T1 R15 C2] use geographic data to analyze variations in the spatial patterns of cultural and environmental characteristics at multiple scales
+u429 [T1 R16 C1] SS.G.9-12.3
+u430 [T1 R16 C2] use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their political, cultural, and economic dynamics
+u431 [T1 R17 C1] SS.G.9-12.4
+u432 [T1 R17 C2] analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them, including American Indians
+=== page 16 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u435 [T1 R1 C1] SS.9-12
+u436 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH
+u437 [T1 R2 C3] THROUGH TWELFTH GRADE
+u438 [T1 R3 C1] SS.G.9-12.5
+u439 [T1 R3 C2] evaluate the impact of human settlement activities on the environmental, political, and cultural characteristics of specific places and regions
+u440 [T1 R4 C1] SS.G.9-12.6
+u441 [T1 R4 C2] analyze the role of geography on interactions and conflicts between various cultures in Montana, the United States, and the world
+u442 [T1 R5 C1] SS.G.9-12.7
+u443 [T1 R5 C2] evaluate the influence of long-term climate variability on human migration and settlement patterns, resource use, and land uses at local-to-global scales
+u444 [T1 R6 C1] SS.G.9-12.8
+u445 [T1 R6 C2] evaluate the consequences of human-driven and natural catastrophes on global trade, politics, and human migration
+u446 [T1 R7 C1] SS.H.9-12
+u447 [T1 R7 C2] The history content standards for ninth through twelfth grade are that each student will
+u448 [T1 R8 C1] SS.H.9-12.1
+u449 [T1 R8 C2] analyze how unique circumstances of time, place, and historical contexts shape individuals' lives
+u450 [T1 R9 C1] SS.H.9-12.2
+u451 [T1 R9 C2] analyze change and continuity in historical eras in US and world history
+u452 [T1 R10 C1] SS.H.9-12.3
+u453 [T1 R10 C2] identify ways in which people and groups exercise agency in difficult historical, contemporary, and tribal contexts
+u454 [T1 R11 C1] SS.H.9-12.4
+u455 [T1 R11 C2] analyze multiple, and complex causal factors that have shaped major events in US and world history, including American Indian history
+u456 [T1 R12 C1] SS.H.9-12.5
+u457 [T1 R12 C2] explain events in relation to both their intended and unintended consequences, including governmental policies impacting American Indians
+u458 [T1 R13 C1] SS.H.9-12.6
+u459 [T1 R13 C2] distinguish between long-term causes and triggering events in developing a historical argument
+u460 [T1 R14 C1] SS.H.9-12.7
+u461 [T1 R14 C2] analyze how historical, cultural, social, political, ideological, and economic contexts shape people's perspectives
+u462 [T1 R15 C1] SS.H.9-12.8
+u463 [T1 R15 C2] analyze the ways in which the perspectives of those writing history shaped the history they produced
+u464 [T1 R16 C1] SS.H.9-12.9
+u465 [T1 R16 C2] evaluate how historiography is influenced by perspective and available historical sources
+=== page 17 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u468 [T1 R1 C1] SS.9-12
+u469 [T1 R1 C3] THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH
+u470 [T1 R2 C3] THROUGH TWELFTH GRADE
+u471 [T1 R3 C1] SS.H.9-12.10
+u472 [T1 R3 C2] analyze perspectives of American Indians in US history
+u473 [T1 R4 C1] SS.H.9-12.11
+u474 [T1 R4 C2] evaluate the limitations, biases, and credibility of various sources, especially regarding misinformation and stereotypes
+u475 [T1 R5 C1] SS.H.9-12.12
+u476 [T1 R5 C2] analyze multiple historical sources to pursue further inquiry and investigate additional sources
+u477 [T1 R6 C1] SS.H.9-12.13
+u478 [T1 R6 C2] integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about past and present people, events, and ideas
+u479 [T1 R7 C1] SS.H.9-12.14
+u480 [T1 R7 C2] construct arguments which reflect understanding and analysis of multiple historical sources, perspectives, and contexts
+=== page 18 === [running header: MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12 | Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.]
+u483 2000 TO 2021 COMPARISON
+u484 [T1 R1 C1] 2000 Students will . . .
+u485 [T1 R1 C2] 2021 - Students will . . . (in Civics and Government, Economics, Geography, and History)
+u486 [T1 R2 C1] access, synthesize, and evaluate information to communicate and apply social studies knowledge to real world situations
+u487 [T1 R2 C2] develop questions
+u488 [T1 R3 C1] analyze how people create and change structures of power, authority, and governance to understand the operation of government and to demonstrate civic responsibility
+u489 [T1 R3 C2] plan inquiries
+u490 [T1 R4 C1] apply geographic knowledge and skills (e.g., location, place, human/environment interactions, movement, and regions)
+u491 [T1 R4 C2] compare and evaluate sources for relevance, perspective, and accuracy
+u492 [T1 R5 C1] demonstrate an understanding of the effects of time, continuity, and change on historical and future perspectives and relationships
+u493 [T1 R5 C2] use sources to gather evidence to develop and refine claims
+u494 [T1 R6 C1] make informed decisions based on an understanding of the economic principles of production, distribution, exchange, and consumption
+u495 [T1 R6 C2] communicate conclusions
+u496 [T1 R7 C1] demonstrate an understanding of the impact of human interaction and cultural diversity on societies
+u497 [T1 R7 C2] take informed action

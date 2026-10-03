@@ -1,0 +1,297 @@
+=== page 1 ===
+u1 Content Area: Social Studies Grade/Course: European Studies / ACCN: CHR2200
+u2 [T1 R1 C1] Strand
+u3 [T1 R1 C2] European Studies
+u4 [T1 R2 C1] Standard 1: Understand aspects of European culture
+u5 [T2 R1 C1] Topic
+u6 [T2 R1 C2] The Arts
+u7 [T2 R2 C1] Benchmark SS.ES.1.1
+u8 [T2 R2 C2] Describe trends in the visual arts of Europe
+u9 [T2 R3 C1] Sample Performance
+u10 [T2 R3 C2] The student: Provides examples of visual arts from different periods (e.g., Renaissance, Neo-Classical, Realism, Impressionism, Modernism) of European painting.
+u11 [T2 R4 C1] Assessment (SPA)
+u12 [T2 R6 C1] Rubric
+u13 [T2 R7 C1] Advanced
+u14 [T2 R7 C2] Proficient
+u15 [T2 R7 C3] Partially Proficient
+u16 [T2 R7 C4] Novice
+u17 [T2 R8 C1] Describe, with clear and precise detail, trends in the visual arts of Europe
+u18 [T2 R8 C2] Describe, with detail, trends in the visual arts of Europe
+u19 [T2 R8 C3] Describe, with minimal detail, trends in the visual arts of Europe
+u20 [T2 R8 C4] Ineffectively describe trends in the visual arts of Europe
+u21 [T3 R1 C1] Topic
+u22 [T3 R1 C2] Literature, Film, Theater
+u23 [T3 R2 C2] Explain how European literature and film have reflected issues in
+u24 [T3 R3 C1] Benchmark SS.ES.1.2
+u25 [T3 R4 C2] European society
+u26 [T3 R6 C1] Sample Performance
+u27 [T3 R6 C2] The student: Describes ways in which European novelists have dealt with totalitarianism (e.g., Malraux, Mann, Orwell, Solzhenitsyn).
+u28 [T3 R7 C1] Assessment (SPA)
+u29 [T3 R8 C1] Rubric
+u30 [T3 R9 C1] Advanced
+u31 [T3 R9 C2] Proficient
+u32 [T3 R9 C3] Partially Proficient
+u33 [T3 R9 C4] Novice
+u34 [T3 R10 C1] Explain, with clear and precise detail, how European literature and film have reflected issues in European society
+u35 [T3 R10 C2] Explain, with detail, how European literature and film have reflected issues in European society
+u36 [T3 R10 C3] Explain, with minimal detail, how European literature and film have reflected issues in European society
+u37 [T3 R10 C4] Ineffectively explain how European literature and film have reflected issues in European society
+u38 [T4 R1 C1] Topic
+u39 [T4 R1 C2] Science and Scholarship
+u40 [T4 R2 C2] Draw conclusions about European science and scholarship (e.g.,
+u41 [T4 R3 C1] Benchmark SS.ES.1.3
+u42 [T4 R3 C2] European Organization for Nuclear Research (CERN), the Nobel Prize,
+u43 [T4 R4 C2] deconstructionism)
+u44 [T4 R5 C1] Sample Performance
+u45 [T4 R5 C2] The student: Researches the development and significance of the European Organization for Nuclear Research (CERN).
+u46 [T4 R6 C1] Assessment (SPA)
+u47 [T4 R7 C1] Rubric
+u48 [T4 R8 C1] Advanced
+u49 [T4 R8 C2] Proficient
+u50 [T4 R8 C3] Partially Proficient
+u51 [T4 R8 C4] Novice
+u52 [T4 R9 C1] Draw well-supported conclusions about European science and scholarship
+u53 [T4 R9 C2] Draw supported conclusions about European science and scholarship
+u54 [T4 R9 C3] Draw partially supported conclusions about European science and scholarship
+u55 [T4 R9 C4] Ineffectively draw conclusions about European science and scholarship
+u56 [T4 R10 C1] Strand
+u57 [T4 R10 C3] European Studies
+u58 [T4 R11 C1] Standard 2: Understand political issues among European nations
+=== page 2 ===
+u59 [T1 R1 C1] Topic
+u60 [T1 R1 C2] European Union
+u61 [T1 R2 C2] Describe the development, purpose, and current status of the European
+u62 [T1 R3 C1] Benchmark SS.ES.2.1
+u63 [T1 R4 C2] Union (EU)
+u64 [T1 R6 C1] Sample Performance
+u65 [T1 R6 C2] The student: Describes the development of the European Union (EU) and explains its impact on global politics.
+u66 [T1 R7 C1] Assessment (SPA)
+u67 [T1 R8 C1] Rubric
+u68 [T1 R9 C1] Advanced
+u69 [T1 R9 C2] Proficient
+u70 [T1 R9 C3] Partially Proficient
+u71 [T1 R9 C4] Novice
+u72 [T1 R10 C1] Describe, with clear and precise detail, the development, purpose, and current status of the European Union (EU)
+u73 [T1 R10 C2] Describe, with detail, the development, purpose, and current status of the European Union (EU)
+u74 [T1 R10 C3] Describe, with minimal detail, the development, purpose, and current status of the European Union (EU)
+u75 [T1 R10 C4] Ineffectively describe the development, purpose, and current status of the European Union (EU)
+u76 [T2 R1 C1] Topic
+u77 [T2 R1 C2] Supranational and Regional Issues
+u78 [T2 R2 C2] Explain the tensions in Europe between supranational organizations (e.g.,
+u79 [T2 R3 C1] Benchmark SS.ES.2.2
+u80 [T2 R4 C2] EU, NATO) and regionalism (e.g., national and local autonomy)
+u81 [T2 R6 C1] Sample Performance
+u82 [T2 R6 C2] The student: Describes controversies between the EU, national governments, and local communities over trade policies.
+u83 [T2 R7 C1] Assessment (SPA)
+u84 [T2 R8 C1] Rubric
+u85 [T2 R9 C1] Advanced
+u86 [T2 R9 C2] Proficient
+u87 [T2 R9 C3] Partially Proficient
+u88 [T2 R9 C4] Novice
+u89 [T2 R10 C1] Explain, with clear and precise detail, the tensions in Europe between supranational organizations and regionalism
+u90 [T2 R10 C2] Explain, with detail, the tensions in Europe between supranational organizations and regionalism
+u91 [T2 R10 C3] Explain, with minimal detail, the tensions in Europe between supranational organizations and regionalism
+u92 [T2 R10 C4] Ineffectively explain the tensions in Europe between supranational organizations and regionalism
+u93 [T3 R1 C1] Topic
+u94 [T3 R1 C2] The Balkans
+u95 [T3 R2 C2] Explain the conflicts following the breakup of Yugoslavia (e.g., conflicts in
+u96 [T3 R3 C1] Benchmark SS.ES.2.3
+u97 [T3 R4 C2] Croatia, Bosnia and Kosovo; ethnic cleansing)
+u98 [T3 R6 C1] Sample Performance
+u99 [T3 R6 C2] The student: Describes the stages of North Atlantic Treaty Organization (NATO) involvement with the conflicts in areas of former Yugoslavia.
+u100 [T3 R7 C1] Assessment (SPA)
+u101 [T3 R8 C1] Rubric
+u102 [T3 R9 C1] Advanced
+u103 [T3 R9 C2] Proficient
+u104 [T3 R9 C3] Partially Proficient
+u105 [T3 R9 C4] Novice
+u106 [T3 R10 C1] Explain, with clear and precise detail, the conflicts following the breakup of Yugoslavia
+u107 [T3 R10 C2] Explain, with detail, the conflicts following the breakup of Yugoslavia
+u108 [T3 R10 C3] Explain, with minimal detail, the conflicts following the breakup of Yugoslavia
+u109 [T3 R10 C4] Ineffectively explain the conflicts following the breakup of Yugoslavia
+u110 [T3 R11 C1] Strand
+u111 [T3 R11 C3] European Studies
+u112 [T3 R12 C1] Standard 3: Understand European political relations with non-European countries
+u113 [T4 R1 C1] Topic
+u114 [T4 R1 C2] International Organizations
+u115 [T4 R2 C2] Describe the roles of different European countries in the United Nations
+u116 [T4 R3 C1] Benchmark SS.ES.3.1
+u117 [T4 R3 C2] (e.g., in the General Assembly, on the Security Council, in particular crises
+u118 [T4 R4 C2] and humanitarian missions)
+=== page 3 ===
+u119 [T1 R1 C1] Sample Performance
+u120 [T1 R1 C2] The student: Gives examples of the participation of European countries in UN humanitarian missions (e.g., in Africa, Asia).
+u121 [T1 R2 C1] Assessment (SPA)
+u122 [T1 R3 C1] Rubric
+u123 [T1 R4 C1] Advanced
+u124 [T1 R4 C2] Proficient
+u125 [T1 R4 C3] Partially Proficient
+u126 [T1 R4 C4] Novice
+u127 [T1 R5 C1] Describe, with clear and precise detail, the roles of different European countries in the United Nations
+u128 [T1 R5 C2] Describe, with detail, the roles of different European countries in the United Nations
+u129 [T1 R5 C3] Describe, with minimal detail, the roles of different European countries in the United Nations
+u130 [T1 R5 C4] Ineffectively describe the roles of different European countries in the United Nations
+u131 [T2 R1 C1] Topic
+u132 [T2 R1 C2] Terrorism, Security, and Freedom
+u133 [T2 R2 C1] Benchmark SS.ES.3.2
+u134 [T2 R2 C2] Compare how European countries have dealt with terrorism
+u135 [T2 R3 C1] Sample Performance
+u136 [T2 R3 C2] The student: Compares anti-terrorist surveillance in European nations (e.g., United Kingdom, Spain, Germany).
+u137 [T2 R4 C1] Assessment (SPA)
+u138 [T2 R5 C1] Rubric
+u139 [T2 R6 C1] Advanced
+u140 [T2 R6 C2] Proficient
+u141 [T2 R6 C3] Partially Proficient
+u142 [T2 R6 C4] Novice
+u143 [T2 R7 C1] Investigate how European countries have dealt with terrorism
+u144 [T2 R7 C2] Compare how European countries have dealt with terrorism
+u145 [T2 R7 C3] Describe how European countries have dealt with terrorism
+u146 [T2 R7 C4] Identify how European countries have dealt with terrorism
+u147 [T3 R1 C1] Topic
+u148 [T3 R1 C2] Relations With Large Powers
+u149 [T3 R2 C2] Draw conclusions about Europe s political issues with the United States
+u150 [T3 R3 C1] Benchmark SS.ES.3.3
+u151 [T3 R3 C2] (e.g., military cooperation) and with Russia (e.g., democracy vs. autocracy
+u152 [T3 R4 C2] in ex-Soviet countries)
+u153 [T3 R5 C1] Sample Performance
+u154 [T3 R5 C2] The student: Investigates the policies of European countries regarding the United States invasion of Iraq and the Russian invasion of Georgia.
+u155 [T3 R6 C1] Assessment (SPA)
+u156 [T3 R7 C1] Rubric
+u157 [T3 R8 C1] Advanced
+u158 [T3 R8 C2] Proficient
+u159 [T3 R8 C3] Partially Proficient
+u160 [T3 R8 C4] Novice
+u161 [T3 R9 C1] Draw well-supported conclusions about Europe s political issues with the United States and with Russia
+u162 [T3 R9 C2] Draw supported conclusions about Europe s political issues with the United States and with Russia
+u163 [T3 R9 C3] Draw partially supported conclusions about Europe s political issues with the United States and with Russia
+u164 [T3 R9 C4] Ineffectively draw conclusions about Europe s political issues with the United States and with Russia
+u165 [T3 R10 C1] Strand
+u166 [T3 R10 C3] European Studies
+u167 [T3 R11 C1] Standard 4: Understand European economic issues
+u168 [T4 R1 C1] Topic
+u169 [T4 R1 C2] Monetary and Fiscal Issues
+u170 [T4 R2 C2] Describe how the Euro was adopted and its present standing as European
+u171 [T4 R3 C1] Benchmark SS.ES.4.1
+u172 [T4 R4 C2] currency
+u173 [T4 R6 C1] Sample Performance
+u174 [T4 R6 C2] The student: Explains the relationship between the Euro and global financial developments.
+u175 [T4 R7 C1] Assessment (SPA)
+u176 [T4 R8 C1] Rubric
+u177 [T4 R9 C1] Advanced
+u178 [T4 R9 C2] Proficient
+u179 [T4 R9 C3] Partially Proficient
+u180 [T4 R9 C4] Novice
+=== page 4 ===
+u181 [T1 R1 C1] Describe, with clear and precise detail, how the Euro was adopted and its present standing as European currency
+u182 [T1 R1 C2] Describe, with detail, how the Euro was adopted and its present standing as European currency
+u183 [T1 R1 C3] Describe, with minimal detail, how the Euro was adopted and its present standing as European currency
+u184 [T1 R1 C4] Ineffectively describe how the Euro was adopted and its present standing as European currency
+u185 [T2 R1 C1] Topic
+u186 [T2 R1 C2] East-West Economic Restructuring
+u187 [T2 R2 C2] Explain issues related to integrating former Communist bloc countries into
+u188 [T2 R3 C1] Benchmark SS.ES.4.2
+u189 [T2 R4 C2] the western European economy
+u190 [T2 R6 C1] Sample Performance
+u191 [T2 R6 C2] The student: Describes difficulties and benefits experienced by western European investors in eastern European economies (e.g., renovating industries, improving infrastructure, modernizing banking).
+u192 [T2 R7 C1] Assessment (SPA)
+u193 [T2 R9 C1] Rubric
+u194 [T2 R10 C1] Advanced
+u195 [T2 R10 C2] Proficient
+u196 [T2 R10 C3] Partially Proficient
+u197 [T2 R10 C4] Novice
+u198 [T2 R11 C1] Explain, with clear and precise detail, issues related to integrating former Communist bloc countries into the western European economy
+u199 [T2 R11 C2] Explain, with detail, issues related to integrating former Communist bloc countries into the western European economy
+u200 [T2 R11 C3] Explain, with minimal detail, issues related to integrating former Communist bloc countries into the western European economy
+u201 [T2 R11 C4] Ineffectively explain issues related to integrating former Communist bloc countries into the western European economy
+u202 [T3 R1 C1] Topic
+u203 [T3 R1 C2] Interconnected World
+u204 [T3 R2 C2] Describe the role of European corporations and governments in
+u205 [T3 R3 C1] Benchmark SS.ES.4.3
+u206 [T3 R4 C2] globalization
+u207 [T3 R6 C1] Sample Performance
+u208 [T3 R6 C2] The student: Describes European involvement in policies of the World Trade Organization (WTO).
+u209 [T3 R7 C1] Assessment (SPA)
+u210 [T3 R8 C1] Rubric
+u211 [T3 R9 C1] Advanced
+u212 [T3 R9 C2] Proficient
+u213 [T3 R9 C3] Partially Proficient
+u214 [T3 R9 C4] Novice
+u215 [T3 R10 C1] Describe, with well- supported detail, the role of European corporations and governments in globalization
+u216 [T3 R10 C2] Describe, with supported detail, the role of European corporations and governments in globalization
+u217 [T3 R10 C3] Describe, with partially supported detail, the role of European corporations and governments in globalization
+u218 [T3 R10 C4] Ineffectively describe the role of European corporations and governments in globalization
+u219 [T3 R11 C1] Strand
+u220 [T3 R11 C3] European Studies
+u221 [T3 R12 C1] Standard 4: Understand European economic issues
+u222 [T4 R1 C1] Topic
+u223 [T4 R1 C2] Immigration
+u224 [T4 R2 C2] Explain issues concerning immigrants from eastern Europe, Africa, and
+u225 [T4 R3 C1] Benchmark SS.ES.5.1
+u226 [T4 R4 C2] the Middle East
+u227 [T4 R6 C1] Sample Performance
+u228 [T4 R6 C2] The student: Describes the problems faced by Muslim immigrants in European countries.
+u229 [T4 R7 C1] Assessment (SPA)
+u230 [T4 R8 C1] Rubric
+u231 [T4 R9 C1] Advanced
+u232 [T4 R9 C2] Proficient
+u233 [T4 R9 C3] Partially Proficient
+u234 [T4 R9 C4] Novice
+u235 [T4 R10 C1] Explain, with clear and precise detail, issues
+u236 [T4 R10 C2] Explain, with detail, issues concerning
+u237 [T4 R10 C3] Explain, with minimal detail, issues
+u238 [T4 R10 C4] Ineffectively explain issues concerning
+=== page 5 ===
+u239 [T1 R1 C1] concerning immigrants from eastern Europe, Africa, and the Middle East
+u240 [T1 R1 C2] immigrants from eastern Europe, Africa, and the Middle East
+u241 [T1 R1 C3] concerning immigrants from eastern Europe, Africa, and the Middle East
+u242 [T1 R1 C4] immigrants from eastern Europe, Africa, and the Middle East
+u243 [T2 R1 C1] Topic
+u244 [T2 R1 C2] Intolerance and Conflict
+u245 [T2 R2 C2] Describe ethnic and religious conflicts in European history (e.g., the Wars
+u246 [T2 R3 C1] Benchmark SS.ES.5.2
+u247 [T2 R4 C2] of Religion, anti-Semitism, ethnic cleansing)
+u248 [T2 R6 C1] Sample Performance
+u249 [T2 R6 C2] The student: Gives examples of genocidal episodes in European history (e.g., the Holocaust, pogroms, ethnic cleansing, the Ukrainian famine).
+u250 [T2 R7 C1] Assessment (SPA)
+u251 [T2 R8 C1] Rubric
+u252 [T2 R9 C1] Advanced
+u253 [T2 R9 C2] Proficient
+u254 [T2 R9 C3] Partially Proficient
+u255 [T2 R9 C4] Novice
+u256 [T2 R10 C1] Describe, with clear and precise detail, ethnic and religious conflicts in European history
+u257 [T2 R10 C2] Describe, with detail, ethnic and religious conflicts in European history
+u258 [T2 R10 C3] Describe, with minimal detail, ethnic and religious conflicts in European history
+u259 [T2 R10 C4] Ineffectively describe ethnic and religious conflicts in European history
+u260 [T3 R1 C1] Topic
+u261 [T3 R1 C2] Mixed Systems
+u262 [T3 R2 C1] Benchmark SS.ES.5.3
+u263 [T3 R2 C2] Describe how social democracy differs among European countries
+u264 [T3 R3 C1] Sample Performance
+u265 [T3 R3 C2] The student: Explains ways in which social democracy was defined in such countries as Sweden, the United Kingdom, Germany, France, and the Netherlands.
+u266 [T3 R4 C1] Assessment (SPA)
+u267 [T3 R6 C1] Rubric
+u268 [T3 R7 C1] Advanced
+u269 [T3 R7 C2] Proficient
+u270 [T3 R7 C3] Partially Proficient
+u271 [T3 R7 C4] Novice
+u272 [T3 R8 C1] Describe, with clear and precise detail, how social democracy differs among European countries
+u273 [T3 R8 C2] Describe, with detail, how social democracy differs among European countries
+u274 [T3 R8 C3] Describe, with minimal detail, how social democracy differs among European countries
+u275 [T3 R8 C4] Ineffectively describe how social democracy differs among European countries
+u276 [T4 R1 C1] Topic
+u277 [T4 R1 C2] Environmental Problems
+u278 [T4 R2 C2] Compare policies of various European countries towards environmental
+u279 [T4 R3 C1] Benchmark SS.ES.5.4
+u280 [T4 R4 C2] problems
+u281 [T4 R6 C1] Sample Performance
+u282 [T4 R6 C2] The student: Differentiates between the environmental effects of energy production among various European countries.
+u283 [T4 R7 C1] Assessment (SPA)
+u284 [T4 R8 C1] Rubric
+u285 [T4 R9 C1] Advanced
+u286 [T4 R9 C2] Proficient
+u287 [T4 R9 C3] Partially Proficient
+u288 [T4 R9 C4] Novice
+u289 [T4 R10 C1] Investigate policies of various European countries towards environmental problems
+u290 [T4 R10 C2] Compare policies of various European countries towards environmental problems
+u291 [T4 R10 C3] Describe policies of various European countries towards environmental problems
+u292 [T4 R10 C4] Identify policies of various European countries towards environmental problems

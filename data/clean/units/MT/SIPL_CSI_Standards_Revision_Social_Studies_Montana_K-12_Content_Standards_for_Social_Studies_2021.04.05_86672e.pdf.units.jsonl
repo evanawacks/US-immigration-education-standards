@@ -1,0 +1,498 @@
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u1", "furniture": true}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Contents Coding the Standards .................................................................................................................................... 1", "id": "u2", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Coding Scheme ...................................................................................................................................... 1", "id": "u3", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "K-12 Standards .............................................................................................................................................. 2", "id": "u4", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Kindergarten ................................................................................................................................................. 3", "id": "u5", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "First Grade ..................................................................................................................................................... 4", "id": "u6", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Second Grade ................................................................................................................................................ 5", "id": "u7", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Third Grade ................................................................................................................................................... 6", "id": "u8", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Fourth Grade ................................................................................................................................................. 7", "id": "u9", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Fifth Grade .................................................................................................................................................... 9", "id": "u10", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Sixth – Eighth Grades .................................................................................................................................. 11", "id": "u11", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Ninth – Twelfth Grades ............................................................................................................................... 14", "id": "u12", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "2000 to 2021 Comparison ........................................................................................................................... 18", "id": "u13", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "CODING THE STANDARDS", "id": "u14", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "CODING SCHEME SUBJECT.STANDARD.GradeLevel SUBSTANDARD.sub-substandard", "id": "u15", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "SS = Social Studies", "id": "u16", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "CG = Civics and Government", "id": "u17", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "E = Economics", "id": "u18", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "G = Geography", "id": "u19", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "H = History", "id": "u20", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Example", "id": "u21", "furniture": false}
+{"page": 1, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.CG.K.1", "id": "u22", "furniture": false}
+{"page": 1, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "recognize the people who create and carry out rules for the school and classroom", "id": "u23", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 1", "id": "u24", "furniture": true}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u25", "furniture": true}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "K-12 STANDARDS", "id": "u26", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The following standards will go into effect on July 1, 2021.", "id": "u27", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "Content", "id": "u28", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "The content areas covered by the social studies standards", "id": "u29", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "include", "id": "u30", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG", "id": "u31", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "civics and government", "id": "u32", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.E", "id": "u33", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "economics", "id": "u34", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.G", "id": "u35", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "geography", "id": "u36", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.H", "id": "u37", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "history", "id": "u38", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 1, "col": 1, "x": null, "text": "Skills", "id": "u39", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 1, "col": 3, "x": null, "text": "When a district incorporates or integrates social studies", "id": "u40", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 2, "col": 3, "x": null, "text": "content into district curriculum or offers a course in social", "id": "u41", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 3, "col": 3, "x": null, "text": "studies, the following skills at each grade level may apply", "id": "u42", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 4, "col": 1, "x": null, "text": "SS.K12.1", "id": "u43", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 4, "col": 2, "x": null, "text": "develop questions", "id": "u44", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 5, "col": 1, "x": null, "text": "SS.K12.2", "id": "u45", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 5, "col": 2, "x": null, "text": "plan inquiries", "id": "u46", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 6, "col": 1, "x": null, "text": "SS.K12.3", "id": "u47", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 6, "col": 2, "x": null, "text": "compare and evaluate sources for relevance, perspective, and accuracy", "id": "u48", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 7, "col": 1, "x": null, "text": "SS.K12.4", "id": "u49", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 7, "col": 2, "x": null, "text": "use sources to gather evidence to develop and refine claims", "id": "u50", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 8, "col": 1, "x": null, "text": "SS.K12.5", "id": "u51", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 8, "col": 2, "x": null, "text": "communicate conclusions", "id": "u52", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 9, "col": 1, "x": null, "text": "SS.K12.6", "id": "u53", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 9, "col": 2, "x": null, "text": "take informed action", "id": "u54", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 2", "id": "u55", "furniture": true}
+{"page": 3, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u56", "furniture": true}
+{"page": 3, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "KINDERGARTEN", "id": "u57", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.K", "id": "u58", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR", "id": "u59", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "KINDERGARTEN", "id": "u60", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.K", "id": "u61", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The civics and government content standards for kindergarten are that each student will", "id": "u62", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.K.1", "id": "u63", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "recognize the people who create and carry out rules for the school and classroom", "id": "u64", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.K.2", "id": "u65", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "define that being a citizen of the classroom and school community means following established rules and expectations", "id": "u66", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.CG.K.3", "id": "u67", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "demonstrate citizenship through their interactions in the classroom and school community", "id": "u68", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.E.K", "id": "u69", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "The economics content standards for kindergarten are that each student will", "id": "u70", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.E.K.1", "id": "u71", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "explain and identify examples of goods and services", "id": "u72", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.E.K.2", "id": "u73", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "describe goods and products that are produced in local regions", "id": "u74", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.G.K", "id": "u75", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "The geography content standard for kindergarten is that each student will use maps, and other representations, to describe place characteristics", "id": "u76", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.H.K", "id": "u77", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "The history content standard for kindergarten is that each student will distinguish between past, present, and future time", "id": "u78", "furniture": false}
+{"page": 3, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 3", "id": "u79", "furniture": true}
+{"page": 4, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u80", "furniture": true}
+{"page": 4, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "FIRST GRADE", "id": "u81", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.1", "id": "u82", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR FIRST GRADE", "id": "u83", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "SS.CG.1", "id": "u84", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "The civics and government content standards for first grade are that each student will", "id": "u85", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.1.1", "id": "u86", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "demonstrate being a citizen of a classroom and school community through interactions and by following established rules and expectations", "id": "u87", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.1.2", "id": "u88", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "recognize the people, and their roles, who create and carry out rules for the school and classroom", "id": "u89", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.E.1", "id": "u90", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "The economics content standards for first grade are that each student will", "id": "u91", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.E.1.1", "id": "u92", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "explain the difference between needs and wants", "id": "u93", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.E.1.2", "id": "u94", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "describe goods and products that are produced in local regions", "id": "u95", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.G.1", "id": "u96", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "The geography content standards for first grade are that each student will", "id": "u97", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.G.1.1", "id": "u98", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "identify and describe human and physical local landmarks", "id": "u99", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.G.1.2", "id": "u100", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "construct maps and other representations of familiar places", "id": "u101", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.H.1", "id": "u102", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "The history content standards for first grade are that each student will", "id": "u103", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.H.1.1", "id": "u104", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "distinguish between past, present, and future time", "id": "u105", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.H.1.2", "id": "u106", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "understand how events might be described differently depending on historical contexts and perspectives, including those of tribes in Montana", "id": "u107", "furniture": false}
+{"page": 4, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 4", "id": "u108", "furniture": true}
+{"page": 5, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u109", "furniture": true}
+{"page": 5, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "SECOND GRADE", "id": "u110", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.2", "id": "u111", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR SECOND GRADE", "id": "u112", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "SS.CG.2", "id": "u113", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "The civics and government content standards for second grade are that each student will", "id": "u114", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.2.1", "id": "u115", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "explain the roles of people who help govern different communities including tribal communities", "id": "u116", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.2.2", "id": "u117", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "demonstrate ways to show good citizenship in the classroom, school, and community", "id": "u118", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.E.2", "id": "u119", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "The economics content standards for second grade are that each student will", "id": "u120", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.E.2.1", "id": "u121", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "describe the goods and services that people in the local, state, and national community produce", "id": "u122", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.E.2.2", "id": "u123", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "describe examples of the goods and services that governments provide", "id": "u124", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.E.2.3", "id": "u125", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "identify resources people use to access the goods and services they want and need", "id": "u126", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.G.2", "id": "u127", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "The geography content standards for second grade are that each student will", "id": "u128", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.G.2.1", "id": "u129", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "use the basic components of a map to identify physical and political features, including American Indian reservations", "id": "u130", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.G.2.2", "id": "u131", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "describe how geography and human activities impact each other", "id": "u132", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.H.2", "id": "u133", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "The history content standards for second grade are that each student will", "id": "u134", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.H.2.1", "id": "u135", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "identify how people lived differently in the past than they do today", "id": "u136", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.H.2.2", "id": "u137", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "understand that there are twelve distinct and unique tribes within Montana whose people contribute to modern life", "id": "u138", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.H.2.3", "id": "u139", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "identify different kinds of historical sources, including oral histories of American Indians", "id": "u140", "furniture": false}
+{"page": 5, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 5", "id": "u141", "furniture": true}
+{"page": 6, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u142", "furniture": true}
+{"page": 6, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "THIRD GRADE", "id": "u143", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.3", "id": "u144", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR THIRD GRADE", "id": "u145", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "SS.CG.3", "id": "u146", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "The civics and government content standards for third grade are that each student will", "id": "u147", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.3.1", "id": "u148", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "describe and identify the basic functions of local government, including tribal governments", "id": "u149", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.3.2", "id": "u150", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "recognize that civic participation involves remaining accurately informed about public issues, taking action, and voting in elections", "id": "u151", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.3.3", "id": "u152", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "identify key symbols of nations", "id": "u153", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.E.3", "id": "u154", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "The economics content standards for third grade are that each student will", "id": "u155", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.E.3.1", "id": "u156", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "compare the benefits and costs of individual choices", "id": "u157", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.E.3.2", "id": "u158", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "identify examples of human and natural resources that are used to produce goods and services", "id": "u159", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.E.3.3", "id": "u160", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "explain economic interdependence within historical and contemporary contexts", "id": "u161", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.G.3", "id": "u162", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "The geography content standards for third grade are that each student will", "id": "u163", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.G.3.1", "id": "u164", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "examine maps and other representations to identify historical and contemporary political and cultural patterns in the Americas", "id": "u165", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.G.3.2", "id": "u166", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "identify environmental and technological events and conditions and how humans and the environment impact each other", "id": "u167", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.G.3.3", "id": "u168", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "identify landforms and other physical characteristics of the Americas", "id": "u169", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.H.3", "id": "u170", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "The history content standards for third grade are that each student will", "id": "u171", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.H.3.1", "id": "u172", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "identify tribes in Montana by their original and current names", "id": "u173", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.H.3.2", "id": "u174", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "explain how perspective impacts the telling of historical events", "id": "u175", "furniture": false}
+{"page": 6, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 6", "id": "u176", "furniture": true}
+{"page": 7, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u177", "furniture": true}
+{"page": 7, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "FOURTH GRADE", "id": "u178", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.4", "id": "u179", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH", "id": "u180", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "GRADE", "id": "u181", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.4", "id": "u182", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The civics and government content standards for fourth grade are that each student will", "id": "u183", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.4.1", "id": "u184", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "demonstrate civic participation within the classroom or school", "id": "u185", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.4.2", "id": "u186", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "practice deliberative processes when making decisions as a group", "id": "u187", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.CG.4.3", "id": "u188", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "describe how rules, laws, and policies are implemented by local, state, national, and tribal governments", "id": "u189", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.CG.4.4", "id": "u190", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "define sovereignty for tribes in Montana", "id": "u191", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.CG.4.5", "id": "u192", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "identify key foundational documents in Montana's government", "id": "u193", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.E.4", "id": "u194", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "The economics content standards for fourth grade are that each student will", "id": "u195", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.E.4.1", "id": "u196", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "identify the various pressures and incentives that influence the decisions people make in short-term and long-term situations", "id": "u197", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.E.4.2", "id": "u198", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "identify basic elements of Montana's state economic system including agriculture, business, natural resources, and labor", "id": "u199", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.E.4.3", "id": "u200", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "identify various resources and labor that are used to provide goods and services in Montana", "id": "u201", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.E.4.4", "id": "u202", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "explain how trade leads to increasing economic interdependence among groups in Montana", "id": "u203", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.G.4", "id": "u204", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "The geography content standards for fourth grade are that each student will", "id": "u205", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.G.4.1", "id": "u206", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "examine maps and other representations to explain the movement of people", "id": "u207", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.G.4.2", "id": "u208", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "identify and label the tribes in Montana and their indigenous territories, and current locations", "id": "u209", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 17, "col": 1, "x": null, "text": "SS.G.4.3", "id": "u210", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 17, "col": 2, "x": null, "text": "investigate the physical, political, and cultural characteristics of places, regions, and people in Montana", "id": "u211", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 18, "col": 1, "x": null, "text": "SS.G.4.4", "id": "u212", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 18, "col": 2, "x": null, "text": "analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration in Montana", "id": "u213", "furniture": false}
+{"page": 7, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 7", "id": "u214", "furniture": true}
+{"page": 8, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u215", "furniture": true}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.4", "id": "u216", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH", "id": "u217", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "GRADE", "id": "u218", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.H.4", "id": "u219", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The history content standards for fourth grade are that each student will", "id": "u220", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.H.4.1", "id": "u221", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "understand tribes in Montana have their own unique histories", "id": "u222", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.H.4.2", "id": "u223", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "identify events and policies that have impacted and been influenced by tribes in Montana", "id": "u224", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.H.4.3", "id": "u225", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "explain how Montana has changed over time given its cultural diversity and how this history impacts the present", "id": "u226", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.H.4.4", "id": "u227", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "describe how historical accounts are impacted by individual perspectives", "id": "u228", "furniture": false}
+{"page": 8, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 8", "id": "u229", "furniture": true}
+{"page": 9, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u230", "furniture": true}
+{"page": 9, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "FIFTH GRADE", "id": "u231", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.5", "id": "u232", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE", "id": "u233", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "SS.CG.5", "id": "u234", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "The civics and government content standards for fifth grade are that each student will", "id": "u235", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.5.1", "id": "u236", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "examine the diverse origins, ideals, and purposes of rules, laws, and key United States constitutional provisions and other foundational documents", "id": "u237", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.5.2", "id": "u238", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "use deliberative processes when engaging in civic participation within the classroom or school", "id": "u239", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.5.3", "id": "u240", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "distinguish between the responsibilities of local, state, tribal, and national governments", "id": "u241", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.CG.5.4", "id": "u242", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "explain how democracy relies upon active and responsible participation of citizens", "id": "u243", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.CG.5.5", "id": "u244", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "describe the basic duties of the three branches of government", "id": "u245", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.E.5", "id": "u246", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "The economics content standards for fifth grade are that each student will", "id": "u247", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.E.5.1", "id": "u248", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "explain how people have to make choices between wants and needs and evaluate the outcomes or consequences of those choices", "id": "u249", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.E.5.2", "id": "u250", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "identify positive and negative incentives that influence the decisions people make", "id": "u251", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.E.5.3", "id": "u252", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "identify resources and labor that are used to produce goods and services", "id": "u253", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.E.5.4", "id": "u254", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "explain the role of money in the exchange of goods and services", "id": "u255", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.E.5.5", "id": "u256", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "describe the role of manufacturing and agriculture in the economy of the United States", "id": "u257", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.E.5.6", "id": "u258", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "describe how interest rates impact economic decision making", "id": "u259", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.G.5", "id": "u260", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "The geography content standards for fifth grade are that each student will", "id": "u261", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.G.5.1", "id": "u262", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "identify and label US regions, territories, states and their capitals/major cities", "id": "u263", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 1, "x": null, "text": "SS.G.5.2", "id": "u264", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 2, "x": null, "text": "create, organize, and present geographic information to show settlement patterns in the United States, including impacts on tribal lands", "id": "u265", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 1, "x": null, "text": "SS.G.5.3", "id": "u266", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 2, "x": null, "text": "analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration", "id": "u267", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 1, "x": null, "text": "SS.H.5", "id": "u268", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 2, "x": null, "text": "The history content standards for fifth grade are that each student will", "id": "u269", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 1, "x": null, "text": "SS.H.5.1", "id": "u270", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 2, "x": null, "text": "interpret data presented in timelines", "id": "u271", "furniture": false}
+{"page": 9, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 9", "id": "u272", "furniture": true}
+{"page": 10, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u273", "furniture": true}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.5", "id": "u274", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE", "id": "u275", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "SS.H.5.2", "id": "u276", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "understand the inter-relationship of chronological historical events", "id": "u277", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.H.5.3", "id": "u278", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "identify roles of individuals and groups and their impact on United States and tribal historical events", "id": "u279", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.H.5.4", "id": "u280", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "understand the unique historical perspectives of American Indians", "id": "u281", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.H.5.5", "id": "u282", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "analyze historical documents and their impact on tribes in Montana and their sovereignty", "id": "u283", "furniture": false}
+{"page": 10, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 10", "id": "u284", "furniture": true}
+{"page": 11, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u285", "furniture": true}
+{"page": 11, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "SIXTH – EIGHTH GRADES", "id": "u286", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.6-8", "id": "u287", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH", "id": "u288", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH EIGHTH GRADE", "id": "u289", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.6-8", "id": "u290", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The civics and government content standards for sixth through eighth grade are that each student will", "id": "u291", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.6-8.1", "id": "u292", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "explain a variety of forms of government from the past or present", "id": "u293", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.6-8.2", "id": "u294", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "explain the structure of and key principles in foundational documents, including the Montana Constitution", "id": "u295", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.CG.6-8.3", "id": "u296", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "explain how global and American Indian civilizations and governments have contributed to foundational documents of the United States", "id": "u297", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.CG.6-8.4", "id": "u298", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "distinguish the structure, organization, powers, and limits of government at the local, state, national, and tribal levels", "id": "u299", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.CG.6-8.5", "id": "u300", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "identify events and leaders that ensure that key United States principles of equality and civil rights are applied to various groups, including American Indians", "id": "u301", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.CG.6-8.6", "id": "u302", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "demonstrate that the United States government includes concepts of both a democracy and a republic", "id": "u303", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.CG.6-8.7", "id": "u304", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "employ strategies for civic involvement that address a state or local, or national issues", "id": "u305", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.E.6-8", "id": "u306", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "The economics content standards for sixth through eighth grade are that each student will", "id": "u307", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.E.6-8.1", "id": "u308", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "explain how economic decisions impact individuals, businesses, and society, including Indigenous societies", "id": "u309", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.E.6-8.2", "id": "u310", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "analyze examples of how groups and individuals have considered profit and personal values in making economic choices in the past and/or present", "id": "u311", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.E.6-8.3", "id": "u312", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "explain the roles of producers and consumers in market systems", "id": "u313", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.E.6-8.4", "id": "u314", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "describe the role of competition in the determination of prices and wages in a market economy", "id": "u315", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.E.6-8.5", "id": "u316", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "explain ways in which money facilitates exchange and impacts transactional costs", "id": "u317", "furniture": false}
+{"page": 11, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 11", "id": "u318", "furniture": true}
+{"page": 12, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u319", "furniture": true}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.6-8", "id": "u320", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH", "id": "u321", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH EIGHTH GRADE", "id": "u322", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.E.6-8.6", "id": "u323", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "explain how changes in supply, demand, and labor standards cause changes in prices and quantities of goods, services, and other capital", "id": "u324", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.G.6-8", "id": "u325", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "The geography content standards for sixth through eighth grade are that each student will", "id": "u326", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.G.6-8.1", "id": "u327", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "construct and analyze maps using scale, direction, symbols, legends, and projections to gather information about regions across the world", "id": "u328", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.G.6-8.2", "id": "u329", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "identify the location of places and regions in the world and understand their physical, political, and cultural characteristics", "id": "u330", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.G.6-8.3", "id": "u331", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "analyze maps and charts from a specific time period to understand an issue or event", "id": "u332", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.G.6-8.4", "id": "u333", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "explain how the environment and geographic features have affected people and how people have affected the environment throughout Montana, the United States, and the world", "id": "u334", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.G.6-8.5", "id": "u335", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "explain the role and impact of spatial patterns of settlement and movement in shaping societies and cultures, including Indigenous cultures", "id": "u336", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.G.6-8.6", "id": "u337", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "identify how the historical and contemporary movement of people, goods, and ideas from one area can impact change, conflict, and cooperation in other areas", "id": "u338", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.G.6-8.7", "id": "u339", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "identify the cultural roots of major world regions", "id": "u340", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.H.6-8", "id": "u341", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "The history content standards for sixth through eighth grade are that each student will", "id": "u342", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.H.6-8.1", "id": "u343", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "explore complex civilizations, and identify elements of change and continuity across historical eras in Montana, the Americas, and world history", "id": "u344", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.H.6-8.2", "id": "u345", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "analyze how the historical events relate to one another and are shaped by historical context, including societies in the Americas", "id": "u346", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.H.6-8.3", "id": "u347", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "analyze how, since European contact, historical events and policies have mutually impacted American Indian and European societies", "id": "u348", "furniture": false}
+{"page": 12, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 12", "id": "u349", "furniture": true}
+{"page": 13, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u350", "furniture": true}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.6-8", "id": "u351", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH", "id": "u352", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH EIGHTH GRADE", "id": "u353", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.H.6-8.4", "id": "u354", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "identify how new archaeological and scientific information shapes historical understanding", "id": "u355", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.H.6-8.5", "id": "u356", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "explain how Montana has changed over time and how this history impacts the present", "id": "u357", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.H.6-8.6", "id": "u358", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "understand that there are multiple perspectives and interpretations of historical events", "id": "u359", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.H.6-8.7", "id": "u360", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "analyze how people's perspectives shaped the historical narratives they created", "id": "u361", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.H.6-8.8", "id": "u362", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "identify limitations and biases in primary and secondary sources, specifically regarding misinformation and stereotypes", "id": "u363", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.H.6-8.9", "id": "u364", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "understand that the questions people ask shape the conclusions they reach", "id": "u365", "furniture": false}
+{"page": 13, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 13", "id": "u366", "furniture": true}
+{"page": 14, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u367", "furniture": true}
+{"page": 14, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "NINTH – TWELFTH GRADES", "id": "u368", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.9-12", "id": "u369", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH", "id": "u370", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH TWELFTH GRADE", "id": "u371", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.CG.9-12", "id": "u372", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The civics and government content standards for ninth through twelfth grade are that each student will", "id": "u373", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.CG.9-12.1", "id": "u374", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "analyze and evaluate the ideas and principles contained in the foundational documents of the United States, and explain how they establish a system of government that has powers, responsibilities, and limits", "id": "u375", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.CG.9-12.2", "id": "u376", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "analyze the impact of constitutions, laws, treaties, and international agreements on the maintenance of domestic and international relationships", "id": "u377", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.CG.9-12.3", "id": "u378", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "evaluate the impact of international agreements on contemporary world issues", "id": "u379", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.CG.9-12.4", "id": "u380", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "apply civic virtues and democratic principles when working with others", "id": "u381", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.CG.9-12.5", "id": "u382", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "evaluate how citizens and institutions address social and political problems at the local, state, tribal, national, and/or international levels", "id": "u383", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.CG.9-12.6", "id": "u384", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "evaluate the American governmental system compared to international governmental systems", "id": "u385", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.CG.9-12.7", "id": "u386", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "explain the foundations and complexity of sovereignty for federally recognized tribes in Montana", "id": "u387", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.CG.9-12.8", "id": "u388", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "evaluate appropriate deliberative processes in multiple settings", "id": "u389", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.CG.9-12.9", "id": "u390", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "evaluate government procedures for making decisions at the local, state, national, tribal, and international levels", "id": "u391", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.CG.9-12.10", "id": "u392", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "analyze historical, contemporary, and emerging means of changing societies, promoting the common good, and protecting rights", "id": "u393", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.CG.9-12.11", "id": "u394", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "analyze the impact and roles of personal interests and perspectives, market, media, and group influences on the application of civic virtues, democratic principles, constitutional rights, and human rights", "id": "u395", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.CG.9-12.12", "id": "u396", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "evaluate citizens' and institutions' effectiveness in ensuring civil rights at the local, state, tribal, national, and international levels", "id": "u397", "furniture": false}
+{"page": 14, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 14", "id": "u398", "furniture": true}
+{"page": 15, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u399", "furniture": true}
+{"page": 15, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.9-12", "id": "u400", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH", "id": "u401", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH TWELFTH GRADE", "id": "u402", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.E.9-12", "id": "u403", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "The economics content standards for ninth through twelfth grade are that each student will", "id": "u404", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.E.9-12.1", "id": "u405", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "analyze how pressures and incentives impact economic choices and their costs and benefits for different groups, including American Indians", "id": "u406", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.E.9-12.2", "id": "u407", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "explain how economic cycles affect personal financial decisions", "id": "u408", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.E.9-12.3", "id": "u409", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "analyze the ways in which pressures and incentives influence what is produced and distributed in a market system", "id": "u410", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.E.9-12.4", "id": "u411", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "evaluate the extent to which competition among producers, among consumers, and among laborers exists in specific markets", "id": "u412", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.E.9-12.5", "id": "u413", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "describe the consequences of competition in specific markets", "id": "u414", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.E.9-12.6", "id": "u415", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "evaluate benefits, costs, and possible outcomes of government policies to influence market outcomes", "id": "u416", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.E.9-12.7", "id": "u417", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "use current data to explain the influence of changes in spending, production, and the money supply on various economic conditions", "id": "u418", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.E.9-12.8", "id": "u419", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "use economic indicators to analyze the current and future state of the economy", "id": "u420", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.E.9-12.9", "id": "u421", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "evaluate the selection of monetary and fiscal policies in a variety of economic conditions", "id": "u422", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.G.9-12", "id": "u423", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "The geography content standards for ninth through twelfth grade are that each student will", "id": "u424", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.G.9-12.1", "id": "u425", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "use geospatial reasoning to create maps to display and explain the spatial patterns of cultural and environmental characteristics", "id": "u426", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.G.9-12.2", "id": "u427", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "use geographic data to analyze variations in the spatial patterns of cultural and environmental characteristics at multiple scales", "id": "u428", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.G.9-12.3", "id": "u429", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their political, cultural, and economic dynamics", "id": "u430", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 17, "col": 1, "x": null, "text": "SS.G.9-12.4", "id": "u431", "furniture": false}
+{"page": 15, "kind": "cell", "table": 1, "row": 17, "col": 2, "x": null, "text": "analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them, including American Indians", "id": "u432", "furniture": false}
+{"page": 15, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 15", "id": "u433", "furniture": true}
+{"page": 16, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u434", "furniture": true}
+{"page": 16, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.9-12", "id": "u435", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH", "id": "u436", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH TWELFTH GRADE", "id": "u437", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.G.9-12.5", "id": "u438", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "evaluate the impact of human settlement activities on the environmental, political, and cultural characteristics of specific places and regions", "id": "u439", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.G.9-12.6", "id": "u440", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "analyze the role of geography on interactions and conflicts between various cultures in Montana, the United States, and the world", "id": "u441", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.G.9-12.7", "id": "u442", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "evaluate the influence of long-term climate variability on human migration and settlement patterns, resource use, and land uses at local-to-global scales", "id": "u443", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.G.9-12.8", "id": "u444", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "evaluate the consequences of human-driven and natural catastrophes on global trade, politics, and human migration", "id": "u445", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.H.9-12", "id": "u446", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "The history content standards for ninth through twelfth grade are that each student will", "id": "u447", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "SS.H.9-12.1", "id": "u448", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 8, "col": 2, "x": null, "text": "analyze how unique circumstances of time, place, and historical contexts shape individuals' lives", "id": "u449", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "SS.H.9-12.2", "id": "u450", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 9, "col": 2, "x": null, "text": "analyze change and continuity in historical eras in US and world history", "id": "u451", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 10, "col": 1, "x": null, "text": "SS.H.9-12.3", "id": "u452", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 10, "col": 2, "x": null, "text": "identify ways in which people and groups exercise agency in difficult historical, contemporary, and tribal contexts", "id": "u453", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 11, "col": 1, "x": null, "text": "SS.H.9-12.4", "id": "u454", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 11, "col": 2, "x": null, "text": "analyze multiple, and complex causal factors that have shaped major events in US and world history, including American Indian history", "id": "u455", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "SS.H.9-12.5", "id": "u456", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "explain events in relation to both their intended and unintended consequences, including governmental policies impacting American Indians", "id": "u457", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "SS.H.9-12.6", "id": "u458", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 13, "col": 2, "x": null, "text": "distinguish between long-term causes and triggering events in developing a historical argument", "id": "u459", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 14, "col": 1, "x": null, "text": "SS.H.9-12.7", "id": "u460", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "analyze how historical, cultural, social, political, ideological, and economic contexts shape people's perspectives", "id": "u461", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "SS.H.9-12.8", "id": "u462", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 15, "col": 2, "x": null, "text": "analyze the ways in which the perspectives of those writing history shaped the history they produced", "id": "u463", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "SS.H.9-12.9", "id": "u464", "furniture": false}
+{"page": 16, "kind": "cell", "table": 1, "row": 16, "col": 2, "x": null, "text": "evaluate how historiography is influenced by perspective and available historical sources", "id": "u465", "furniture": false}
+{"page": 16, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 16", "id": "u466", "furniture": true}
+{"page": 17, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u467", "furniture": true}
+{"page": 17, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "SS.9-12", "id": "u468", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 1, "col": 3, "x": null, "text": "THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH", "id": "u469", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 2, "col": 3, "x": null, "text": "THROUGH TWELFTH GRADE", "id": "u470", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "SS.H.9-12.10", "id": "u471", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "analyze perspectives of American Indians in US history", "id": "u472", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "SS.H.9-12.11", "id": "u473", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "evaluate the limitations, biases, and credibility of various sources, especially regarding misinformation and stereotypes", "id": "u474", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "SS.H.9-12.12", "id": "u475", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "analyze multiple historical sources to pursue further inquiry and investigate additional sources", "id": "u476", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "SS.H.9-12.13", "id": "u477", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about past and present people, events, and ideas", "id": "u478", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "SS.H.9-12.14", "id": "u479", "furniture": false}
+{"page": 17, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "construct arguments which reflect understanding and analysis of multiple historical sources, perspectives, and contexts", "id": "u480", "furniture": false}
+{"page": 17, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 17", "id": "u481", "furniture": true}
+{"page": 18, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES FOR K-12", "id": "u482", "furniture": true}
+{"page": 18, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "2000 TO 2021 COMPARISON", "id": "u483", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 1, "col": 1, "x": null, "text": "2000 Students will . . .", "id": "u484", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "2021 - Students will . . . (in Civics and Government, Economics, Geography, and History)", "id": "u485", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "access, synthesize, and evaluate information to communicate and apply social studies knowledge to real world situations", "id": "u486", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "develop questions", "id": "u487", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "analyze how people create and change structures of power, authority, and governance to understand the operation of government and to demonstrate civic responsibility", "id": "u488", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "plan inquiries", "id": "u489", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 4, "col": 1, "x": null, "text": "apply geographic knowledge and skills (e.g., location, place, human/environment interactions, movement, and regions)", "id": "u490", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "compare and evaluate sources for relevance, perspective, and accuracy", "id": "u491", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "demonstrate an understanding of the effects of time, continuity, and change on historical and future perspectives and relationships", "id": "u492", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "use sources to gather evidence to develop and refine claims", "id": "u493", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "make informed decisions based on an understanding of the economic principles of production, distribution, exchange, and consumption", "id": "u494", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "communicate conclusions", "id": "u495", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 7, "col": 1, "x": null, "text": "demonstrate an understanding of the impact of human interaction and cultural diversity on societies", "id": "u496", "furniture": false}
+{"page": 18, "kind": "cell", "table": 1, "row": 7, "col": 2, "x": null, "text": "take informed action", "id": "u497", "furniture": false}
+{"page": 18, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Document Created April 5, 2021 | Effective date July 1, 2021 | opi.mt.gov | Page 18", "id": "u498", "furniture": true}

@@ -1,0 +1,116 @@
+{
+ "state": "AR",
+ "file": "AR_World_Geography_Standards_2022_LS.pdf",
+ "structure": "Single HS course document (World Geography, 0.5 credit, grades 9-12). Front matter as other AR HS courses (course info, focus, laws, C3 Dimensions, K-12 overview, At a Glance tables per component, Disciplinary Note). KPE pages: strand Geography, standard G.2/G.3/G.4 statement, component list, KPEs coded G.n.WG.m. KPE G.2.WG.6 and G.3.WG.9 text is split across a page break.",
+ "labels": [
+  {
+   "units": "u2-u5",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and course info"
+  },
+  {
+   "units": "u8",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u9-u11",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u16-u17",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u22-u23",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u24-u33",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u34-u45",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u50-u58",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u63-u67",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u68-u83",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "At a Glance: Geography standards G.2, G.3, G.4 and course components"
+  },
+  {
+   "units": "u88-u95",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u96-u112",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Geography - World in Spatial Terms > G.2 > G.2.WG.1-7"
+  },
+  {
+   "units": "u113-u121",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Geography - Places and Regions > G.2 > G.2.WG.8-11"
+  },
+  {
+   "units": "u126-u145",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Geography - Human Systems > G.3 > G.3.WG.1-10"
+  },
+  {
+   "units": "u146-u153",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Geography - Environment and Society > G.4 > G.4.WG.1-3"
+  }
+ ],
+ "issues": [
+  "u106 and u111 (G.2.WG.6 code on one page, text on next) and u139/u144 (G.3.WG.9) are split across pages; labeled together as one range.",
+  "K-12 overview and C3 skills labeled course null grades 9-12 (shared HS content)."
+ ]
+}

@@ -1,0 +1,1559 @@
+=== page 1 ===
+u1 Idaho Content Standards
+u2 K-12 Social Studies
+u3 IDAHO DEPARTMENT OF EDUCATION CONTENT AND CURRICULUM | SOCIAL STUDIES
+u4 650 W STATE STREET, 2ND FLOOR BOISE, IDAHO 83702 208 332 6800 OFFICE / 711 TRS WWW.SDE.IDAHO.GOV
+u5 CREATED 04/23/2024 REVISED 11/20/2025
+=== page 2 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 1]
+u6 PREAMBLE
+u7 The K-12 social studies standards were up for review in 2023 as per the Idaho code, Board of Education Governing Policies & Procedures, Section IV.C. Section 33-1612; IDAPA 08.02.03.004.01, Idaho Code. The Idaho Department of Education worked with a variety of stakeholders to accept nominations for committee members. The final committee was comprised of twenty-five members representing a cross-section of grade levels and roles. This committee included community members, parents, social studies educators from a variety of grade levels and content areas, and post-secondary content experts. The time and effort they put into this revision was invaluable. Throughout the process of the revision of the standards, the working group received both stakeholder feedback and public comments that the revision committee took into consideration. The committee appreciates those who took the time to share their thoughts on the revisions. We hope that the changes to these standards allow them to be useful for all stakeholders, including educators, families, students, and community members. We hope that they bring Idaho into a new chapter of statewide success in social studies education.
+u8 Respectfully,
+u9 The Social Studies Standards Revision Committee
+u10 (x=107) Leslie Baker Matthew Bundy
+u11 (x=260) Stewart Gardner
+u12 (x=422) Karen Miller Shaina Nomee
+u13 (x=267) Jason Hanson
+u14 (x=105) James Carter Stacie Christensen
+u15 (x=273) Mari Harris Marta Hernandez
+u16 (x=419) Stacie Pollard
+u17 (x=426) Terry Ryan Jeff Sorenson Norm Stewart Evan Townsend
+u18 (x=102) Brendan Earle
+u19 (x=265) Julie Hurdman
+u20 (x=104) Sandra Eaton
+u21 (x=269) Amber Lewis
+u22 (x=110) Jim Francis Andrea Fuentes
+u23 (x=272) Tanya Lilley Jaime Lower Casey McLaughlin
+u24 (x=416) Susan Whipple
+u25 (x=103) Perri Gardner
+=== page 3 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 2]
+u27 CONTENTS
+u28 IDAHO DEPARTMENT OF EDUCATION CONTENT AND CURRICULUM | SOCIAL STUDIES....... 1
+u29 PREAMBLE............................................................................................................................... 1
+u30 CONTENTS............................................................................................................................... 2
+u31 INTRODUCTION....................................................................................................................... 6
+u32 What the Idaho Content Standards in Social Studies Do ........................................................ 6
+u33 Standards vs. Curriculum......................................................................................................... 6
+u34 ORGANIZATION OF STANDARDS ............................................................................................. 6
+u35 K-5 SOCIAL STUDIES................................................................................................................. 7
+u36 Kindergarten ........................................................................................................................... 7
+u37 History ................................................................................................................................. 7
+u38 Geography........................................................................................................................... 7
+u39 Economics ........................................................................................................................... 8
+u40 Civics and Government ....................................................................................................... 8
+u41 Global Perspectives............................................................................................................. 9
+u42 Grade 1.................................................................................................................................. 10
+u43 History ............................................................................................................................... 10
+u44 Geography......................................................................................................................... 10
+u45 Economics ......................................................................................................................... 11
+u46 Civics and Government ..................................................................................................... 11
+u47 Global Perspectives........................................................................................................... 12
+u48 Grade 2.................................................................................................................................. 13
+u49 History ............................................................................................................................... 13
+u50 Geography......................................................................................................................... 13
+u51 Economics ......................................................................................................................... 14
+u52 Civics and Government ..................................................................................................... 14
+u53 Global Perspectives........................................................................................................... 15
+u54 Grade 3.................................................................................................................................. 16
+=== page 4 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 3]
+u56 History ............................................................................................................................... 16
+u57 Geography......................................................................................................................... 16
+u58 Economics ......................................................................................................................... 17
+u59 Civics and Government ..................................................................................................... 17
+u60 Global Perspectives........................................................................................................... 18
+u61 Grade 4.................................................................................................................................. 19
+u62 History ............................................................................................................................... 19
+u63 Geography......................................................................................................................... 20
+u64 Economics ......................................................................................................................... 20
+u65 Civics and Government ..................................................................................................... 21
+u66 Global Perspectives........................................................................................................... 22
+u67 Grade 5.................................................................................................................................. 23
+u68 History ............................................................................................................................... 23
+u69 Geography......................................................................................................................... 24
+u70 Economics ......................................................................................................................... 24
+u71 Civics and Government ..................................................................................................... 25
+u72 Global Perspectives........................................................................................................... 26
+u73 World Geography and Civilizations Grades 6-9 .................................................................... 27
+u74 World Geography.................................................................................................................. 27
+u75 History ............................................................................................................................... 27
+u76 Geography......................................................................................................................... 28
+u77 Economics ......................................................................................................................... 29
+u78 Civics and Government ..................................................................................................... 30
+u79 Global Perspectives........................................................................................................... 30
+u80 Geography Skills................................................................................................................ 31
+u81 World History and Civilizations............................................................................................. 32
+u82 History ............................................................................................................................... 32
+u83 Geography......................................................................................................................... 33
+u84 Economics ......................................................................................................................... 34
+=== page 5 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 4]
+u86 Civics and Government ..................................................................................................... 34
+u87 Global Perspectives........................................................................................................... 35
+u88 Historical Thinking Skills.................................................................................................... 35
+u89 United States History I .......................................................................................................... 36
+u90 American Indian Cultures and Colonization Cultures and Colonization 1491-1754 ........ 36
+u91 American Revolution 1754-1791 ...................................................................................... 37
+u92 Founding a New Government 1776-1791 ........................................................................ 38
+u93 Early Republic 1787-1825 ................................................................................................. 39
+u94 Geographic Expansion and Political and Social Changes 1820-1860................................ 40
+u95 Civil War and Reconstruction 1860s-1890........................................................................ 43
+u96 Growth of Industrial World 1877-1890 (Bridge with US History II).................................. 45
+u97 Historical Thinking Skills.................................................................................................... 46
+u98 United States History II ......................................................................................................... 47
+u99 Federal Indian Policy Period, 1879 - Present .................................................................... 47
+u100 Progressivism and Imperialism, 1890 - 1920 .................................................................... 47
+u101 World War I, 1915-1919 ................................................................................................... 48
+u102 The Roaring 20s, 1920-1929 ............................................................................................. 48
+u103 The Great Depression and the New Deal 1929-1939 ....................................................... 49
+u104 World War II 1939-1945 ................................................................................................... 49
+u105 Affluence, Cold War, and Social Revolutions 1945-1974 ................................................. 50
+u106 Economic, Political, and Social Reorganization 1974-1992 .............................................. 52
+u107 Globalization, Information Technology, Terrorism, Political and Social Polarization 1992- Present .............................................................................................................................. 53
+u108 Historical Thinking Skills.................................................................................................... 54
+u109 American Government Grades 9-12 ..................................................................................... 56
+u110 Foundations of the American Political System ................................................................. 56
+u111 Citizenship and Civic Participation.................................................................................... 57
+u112 Political Economy.............................................................................................................. 59
+u113 Function And Structure of the U.S. Political System......................................................... 59
+=== page 6 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 5]
+u115 The American Electoral System ........................................................................................ 61
+u116 The U.S. And the International System............................................................................. 62
+u117 Economics Grades 9-12......................................................................................................... 63
+u118 Fundamental Economic Concepts .................................................................................... 63
+u119 Macroeconomics and International Trade ....................................................................... 63
+u120 Personal Finance ............................................................................................................... 64
+u121 CONTEXT ............................................................................................................................... 66
+u122 Foundations of Western Civilization 9-12............................................................................. 67
+u123 Introduction to Study of Western Civilization .................................................................. 67
+u124 Ancient Greece (c. 800 BC – 150 BC) ................................................................................ 67
+u125 Ancient Rome (c. 500 BC – 500 AD).................................................................................. 68
+u126 The Middle Ages (c. 330 AD – 1450 AD) ........................................................................... 69
+u127 The Renaissance and Reformation (c. 1450 AD – 1600 AD)............................................. 70
+u128 The Age of Discovery and Scientific Revolution (c. 1400 AD – 1700 AD) ......................... 70
+u129 The Enlightenment and the Age of Revolution (c. 1600 AD – 1815 AD) .......................... 71
+=== page 7 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 6]
+u131 INTRODUCTION
+u132 What the Idaho Content Standards in Social Studies Do
+u133 The standards define what all students are expected to know and be able to do, not how teachers should teach. While the standards focus on what is most essential, they do not describe all that can or should be taught. A great deal is left to the discretion of local school districts, teachers, and curriculum developers. No set of grade-level standards can reflect the great variety of abilities, needs, learning rates, and achievement levels in any given classroom. The standards define neither the support materials that some students may need nor the advanced materials that others may need access to. It is also beyond the scope of the standards to define the full range of support appropriate for English language learners and for students with disabilities. All students must have the opportunity to learn rigorous grade-level standards if they are to access the knowledge and skills that will be necessary in their post-secondary lives.
+u134 Standards vs. Curriculum
+u135 No specific curriculum or strategies are required by the State of Idaho to be used to teach the Idaho Content Standards in Social Studies. Local schools and districts make decisions about what resources will be used to teach the standards.
+u136 ORGANIZATION OF STANDARDS
+u137 Each grade band of the K-5 social studies standards is organized into 5 categories: History, Geography, Economics, Civics and Government, and Global Perspectives. The World Geography and Civilizations Grades 6-9 standards are organized into 6 categories: History, Geography, Economics, Civics and Government, Global Perspectives, and Geography or Historical Thinking Skills. United States History I and II, American Government, and Economics are organized by time period or topic.
+=== page 8 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 7]
+u139 K-5 SOCIAL STUDIES
+u140 Kindergarten
+u141 History
+u142 Students will build an understanding of the cultural and social development of the United States.
+u143 [T1 R1 C2] Code
+u144 [T1 R1 C5] Standard
+u145 [T1 R2 C1] K.SS.1.1
+u146 [T1 R2 C4] Describe how individuals have similarities and differences by sharing stories, pictures, and music of one’s own personal life, family, and culture.
+u147 [T1 R3 C1] K.SS.1.2
+u148 [T1 R3 C4] Sequence events in the past and present and begin to recognize that things change over time.
+u149 Geography
+u150 Students will analyze the spatial organizations of people, places, and environment on the earth’s surface.
+u151 [T2 R1 C2] Code
+u152 [T2 R1 C5] Standard
+u153 [T2 R2 C1] K.SS.2.1
+u154 [T2 R2 C4] Demonstrate an understanding of maps and globes by: a. identifying the similarities and differences between a map and a globe; b. identifying basic map symbols; c. identifying land and bodies of water in the local community; and d. identifying the geographic location of the United States and Idaho on a map and globe.
+=== page 9 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 8]
+u156 [T1 R1 C2] Code
+u157 [T1 R1 C5] Standard
+u158 [T1 R2 C1] K.SS.2.2
+u159 [T1 R2 C4] Describe the relative location of people, places, and objects by using positional words, including but not limited to near/far, over/under, above/below, left/right, behind/in front, next to, and in between.
+u160 Economics
+u161 Students will explain basic economic concepts.
+u162 [T2 R1 C2] Code
+u163 [T2 R1 C5] Standard
+u164 [T2 R2 C1] K.SS.3.1
+u165 [T2 R2 C4] Distinguish between wants and needs.
+u166 [T2 R3 C1] K.SS.3.2
+u167 [T2 R3 C4] Explain the benefits of saving money and give examples of how people use money to make purchases.
+u168 [T2 R4 C1] K.SS.3.3
+u169 [T2 R4 C4] Recognize and describe different types of jobs, including work done in the home, school, and community.
+u170 Civics and Government
+u171 Students will build an understanding of the foundational principles of the American political system, the organization and formation of the American system of government, and that all people in the United States have rights and assume responsibilities.
+u172 [T3 R1 C2] Code
+u173 [T3 R1 C5] Standard
+u174 [T3 R2 C1] K.SS.4.1
+u175 [T3 R2 C4] Practice citizenship in the classroom by: a. taking responsibility for one’s actions; b. practicing honesty and showing kindness to oneself and others; c. recognizing the purpose of rules and practicing self-control; d. caring for one’s personal property and respecting other students’ property; and e. taking turns, sharing, and working well with others for the good of everyone else.
+u176 [T3 R3 C1] K.SS.4.2
+u177 [T3 R3 C4] Identify symbols of the United States, including but not limited to the flag, Pledge of Allegiance, Bald Eagle, red, white, and blue, and the Statue of Liberty.
+u178 [T3 R4 C1] K.SS.4.3
+u179 [T3 R4 C4] Understand the meaning and purpose of the Pledge of Allegiance.
+=== page 10 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 9]
+u181 [T1 R1 C2] Code
+u182 [T1 R1 C5] Standard
+u183 [T1 R2 C1] K.SS.4.4
+u184 [T1 R2 C4] Describe holidays and tell why they are commemorated in the United States.
+u185 Global Perspectives
+u186 Students will build an understanding of multiple perspectives and global interdependence.
+u187 [T2 R1 C2] Code
+u188 [T2 R1 C5] Standard
+u189 [T2 R2 C1] K.SS.5.1
+u190 [T2 R2 C4] Name traditions that came to the United States from other parts of the world.
+=== page 11 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 10]
+u192 Grade 1
+u193 History
+u194 Students will build an understanding of the cultural and social development of the United States.
+u195 [T1 R1 C2] Code
+u196 [T1 R1 C5] Standard
+u197 [T1 R2 C1] 1.SS.1.1
+u198 [T1 R2 C4] Compare differences in the ways families in the United States live today to how they lived in the past.
+u199 [T1 R3 C1] 1.SS.1.2
+u200 [T1 R3 C4] Use timelines to show personal or family history.
+u201 [T1 R4 C1] 1.SS.1.3
+u202 [T1 R4 C4] Compare personal histories, pictures, and music of other selected times and places in America’s past.
+u203 Geography
+u204 Students will analyze the spatial organizations of people, places, and environment on the earth’s surface and explain how human actions modify the physical environment and how physical systems affect human activity and living conditions.
+u205 [T2 R1 C2] Code
+u206 [T2 R1 C5] Standard
+u207 [T2 R2 C1] 1.SS.2.1
+u208 [T2 R2 C4] Develop geographic skills by: a. using basic map symbols, including references to land, water, cities, and roads; b. using cardinal directions on maps; c. locating Idaho, the United States, continents, and oceans on maps and globes; and d. constructing simple maps and including a title, map legend or key, and compass rose.
+u209 [T2 R3 C1] 1.SS.2.2
+u210 [T2 R3 C4] Identify ways people adjust to their environment as well as modify their environment.
+=== page 12 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 11]
+u212 Economics
+u213 Students will explain basic economic concepts and concepts of personal finance.
+u214 [T1 R1 C2] Code
+u215 [T1 R1 C5] Standard
+u216 [T1 R2 C1] 1.SS.3.1
+u217 [T1 R2 C4] Identify ways people meet their needs by sharing, trading, and using money to buy goods and services.
+u218 [T1 R3 C1] 1.SS.3.2
+u219 [T1 R3 C4] Distinguish between wants and needs and provide examples of each.
+u220 [T1 R4 C1] 1.SS.3.3
+u221 [T1 R4 C4] Identify ways to save money for future needs and wants.
+u222 Civics and Government
+u223 Students will build an understanding of the foundational principles of the American political system, the organization and formation of the American system of government, and that all people in the United States have rights and assume responsibilities.
+u224 [T2 R1 C2] Code
+u225 [T2 R1 C5] Standard
+u226 [T2 R2 C1] 1.SS.4.1
+u227 [T2 R2 C4] Define citizenship, and recognize traits of good citizens, such as respecting the rights of others, voting, following laws, etc.
+u228 [T2 R3 C1] 1.SS.4.2
+u229 [T2 R3 C4] Explain the importance of patriotic traditions and symbols, including the Pledge of Allegiance and the National Anthem, and respectful behavior during both.
+u230 [T2 R4 C1] 1.SS.4.3
+u231 [T2 R4 C4] Provide all students the opportunity to be able to recite the Pledge of Allegiance.
+u232 [T2 R5 C1] 1.SS.4.4
+u233 [T2 R5 C4] Describe holidays and events and tell why they are commemorated in the United States.
+u234 [T2 R6 C1] 1.SS.4.5
+u235 [T2 R6 C4] Identify individuals who are helpful to people in their everyday lives.
+u236 [T2 R7 C1] 1.SS.4.6
+u237 [T2 R7 C4] Name some responsibilities that students have at home and school.
+=== page 13 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 12]
+u239 Global Perspectives
+u240 Students will build an understanding of multiple perspectives and global interdependence.
+u241 [T1 R1 C2] Code
+u242 [T1 R1 C5] Standard
+u243 [T1 R2 C1] 1.SS.5.1
+u244 [T1 R2 C4] Compare family life, structures, and daily routines of various cultures around the world.
+u245 [T1 R3 C1] 1.SS.5.2
+u246 [T1 R3 C4] Recognize that each person belongs to many groups such as family, school, friends, and community.
+=== page 14 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 13]
+u248 Grade 2
+u249 History
+u250 Students will build an understanding of the cultural and social development of the United States.
+u251 [T1 R1 C2] Code
+u252 [T1 R1 C5] Standard
+u253 [T1 R2 C1] 2.SS.1.1
+u254 [T1 R2 C4] Identify different groups that a person belongs to, such as family and community, and how those roles and/or groups have changed or stayed the same.
+u255 [T1 R3 C1] 2.SS.1.2
+u256 [T1 R3 C4] Compare the lives and contributions of two of the five federally recognized American Indian tribes in Idaho: the Coeur d’Alene Tribe, Kootenai Tribe of Idaho, Shoshone Bannock Tribes, Nez Perce Tribe, and Shoshone-Paiute Tribes.
+u257 [T1 R4 C1] 2.SS.1.3
+u258 [T1 R4 C4] Analyze and interpret events placed chronologically on a timeline.
+u259 Geography
+u260 Students will analyze the spatial organizations of people, places, and environment on the earth’s surface and explain how human actions modify the physical environment and how physical systems affect human activity and living conditions.
+u261 [T2 R1 C2] Code
+u262 [T2 R1 C5] Standard
+u263 [T2 R2 C1] 2.SS.2.1
+u264 [T2 R2 C4] Develop geographic mapping skills using maps and globes by a. showing that map elements such as key, legend, and scale show how the map represents natural objects or places; b. applying knowledge of cardinal directions to use a compass rose; c. locating the countries of North America and the bordering oceans; d. Identifying and locating the seven continents and the five oceans; e. identifying major rivers, mountain ranges, lakes, and other physical features; f. identifying boundary lines to separate states; and g. locating man-made features.
+u265 [T2 R3 C1] 2.SS.2.2
+u266 [T2 R3 C4] Compare how environmental conditions affect living styles and clothing in different parts of the country.
+=== page 15 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 14]
+u268 [T1 R1 C2] Code
+u269 [T1 R1 C5] Standard
+u270 [T1 R2 C1] 2.SS.2.3
+u271 [T1 R2 C4] Describe how humans depend on the environment to meet their basic needs.
+u272 [T1 R3 C1] 2.SS.2.4
+u273 [T1 R3 C4] Define city/suburb/town and urban/rural.
+u274 Economics
+u275 Students will explain basic economic concepts, identify different influences on economic systems, and explain the concepts of personal finance.
+u276 [T2 R1 C2] Code
+u277 [T2 R1 C5] Standard
+u278 [T2 R2 C1] 2.SS.3.1
+u279 [T2 R2 C4] Differentiate between the wants and needs of families and understand the purpose of a budget.
+u280 [T2 R3 C1] 2.SS.3.2
+u281 [T2 R3 C4] Explain what employment means and define income, wages, and salary.
+u282 [T2 R4 C1] 2.SS.3.3
+u283 [T2 R4 C4] Examine different types of producers and consumers as well as goods and services.
+u284 [T2 R5 C1] 2.SS.3.4
+u285 [T2 R5 C4] Explain how natural resources affect economic activities in the local community.
+u286 Civics and Government
+u287 Students will build an understanding of the foundational principles of the American political system, the organization, and formation of the American system of government, and the fact that all people in the United States have rights and assume responsibilities.
+u288 [T3 R1 C2] Code
+u289 [T3 R1 C5] Standard
+u290 [T3 R2 C1] 2.SS.4.1
+u291 [T3 R2 C4] Explore the concept of democracy by understanding the role of citizens and the United States government and connecting it to their role as citizens within their community where people can explore issues, create solutions and make decisions together.
+u292 [T3 R3 C1] 2.SS.4.2
+u293 [T3 R3 C4] Recognize that Idaho has a constitution, which is the basis for our state’s laws, and that there are consequences for breaking those laws.
+=== page 16 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 15]
+u295 [T1 R1 C2] Code
+u296 [T1 R1 C5] Standard
+u297 [T1 R2 C1] 2.SS.4.3
+u298 [T1 R2 C4] Identify the people or groups that make, apply, and enforce rules and laws at home, school, communities, and our state.
+u299 [T1 R3 C1] 2.SS.4.4
+u300 [T1 R3 C4] Identify and examine the significance of well-known national symbols and landmarks, including The White House, the flag, the Statue of Liberty, and the bald eagle.
+u301 [T1 R4 C1] 2.SS.4.5
+u302 [T1 R4 C4] Examine the meaning of keywords in the Pledge of Allegiance.
+u303 [T1 R5 C1] 2.SS.4.6
+u304 [T1 R5 C4] Identify characteristics of good citizenship, such as courage, honesty, and responsibility, and identify the responsibilities of being a United States citizen.
+u305 [T1 R6 C1] 2.SS.4.7
+u306 [T1 R6 C4] Identify historical and contemporary people who model characteristics of good citizenship.
+u307 Global Perspectives
+u308 Students will identify the importance of respecting multiple perspectives and global interdependence.
+u309 [T2 R1 C2] Code
+u310 [T2 R1 C5] Standard
+u311 [T2 R2 C1] 2.SS.5.1
+u312 [T2 R2 C4] Compare your community with others in various parts of the world.
+u313 [T2 R3 C1] 2.SS.5.2
+u314 [T2 R3 C4] Compare traditions in your community with those practiced in other parts of the world.
+=== page 17 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 16]
+u316 Grade 3
+u317 History
+u318 Students in Grade 3 build an understanding of the cultural and social development of the United States, trace the role of migration and immigration of people in the development of the United States, and examine the various roles American Indians assumed in the development of the United States and discuss the concept of sovereignty and still do today.
+u319 [T1 R1 C2] Code
+u320 [T1 R1 C5] Standard
+u321 [T1 R2 C1] 3.SS.1.1
+u322 [T1 R2 C4] Investigate your community's history and determine the chronological importance of local events.
+u323 [T1 R3 C1] 3.SS.1.2
+u324 [T1 R3 C4] Analyze distinctive foods, clothing styles, and traditions of various cultural groups within the community, including but not limited to the five federally recognized tribes of Idaho.
+u325 [T1 R4 C1] 3.SS.1.3
+u326 [T1 R4 C4] Conduct interviews with family members, neighbors, friends, or school staff to discover why they call Idaho home.
+u327 [T1 R5 C1] 3.SS.1.4
+u328 [T1 R5 C4] Describe how migration and immigration are continuous processes and how they are influenced by voluntary and involuntary movement of people.
+u329 Geography
+u330 Students will analyze the spatial organizations of people, places, and environments on the earth’s surface and trace the migration and settlement of human populations on the earth’s surface.
+u331 [T2 R1 C2] Code
+u332 [T2 R1 C5] Standard
+u333 [T2 R2 C1] 3.SS.2.1
+u334 [T2 R2 C4] Develop an understanding of map reading by analyzing maps and globes using standard terms, including country, North Pole, Equator, Prime Meridian, hemisphere, region, latitude, South Pole, longitude, and time zones.
+u335 [T2 R3 C1] 3.SS.2.2
+u336 [T2 R3 C4] Use cardinal directions, map scales, legends, and grids to locate the United States, Washington D.C., Idaho, the state capital, Boise, and their own community on a map.
+u337 [T2 R4 C1] 3.SS.2.3
+u338 [T2 R4 C4] Analyze past and present settlement patterns of the community in which you live and how geographic features influenced those patterns.
+=== page 18 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 17]
+u340 [T1 R1 C2] Code
+u341 [T1 R1 C5] Standard
+u342 [T1 R2 C1] 3.SS.2.4
+u343 [T1 R2 C4] Compare and contrast city/suburb/town and urban/rural farm/factory, as well as agriculture/industry.
+u344 Economics
+u345 Students will explain basic economic concepts, identify different influences on financial systems, analyze the various types of monetary institutions, and explain the concepts of personal finance.
+u346 [T2 R1 C2] Code
+u347 [T2 R1 C5] Standard
+u348 [T2 R2 C1] 3.SS.3.1
+u349 [T2 R2 C4] Explain the concepts of supply and demand and the role of the consumer and producer.
+u350 [T2 R3 C1] 3.SS.3.2
+u351 [T2 R3 C4] Explain the difference between public and private property.
+u352 [T2 R4 C1] 3.SS.3.3
+u353 [T2 R4 C4] Explain how land, natural resources, labor, trade, and/or technology affect economic activities in the local community.
+u354 [T2 R5 C1] 3.SS.3.4
+u355 [T2 R5 C4] Identify different examples of making an economic choice, including consumption of goods and services, using a bank, investing, and budgeting.
+u356 Civics and Government
+u357 Students will build an understanding of the foundational principles of the American political system, the organization, and formation of the American system of government, and the fact that all people in the United States have rights and assume responsibilities.
+u358 [T3 R1 C2] Code
+u359 [T3 R1 C5] Standard
+u360 [T3 R2 C1] 3.SS.4.1
+u361 [T3 R2 C4] Explain the benefits of following the laws and the consequences of breaking the rules and laws of our local and national communities.
+u362 [T3 R3 C1] 3.SS.4.2
+u363 [T3 R3 C4] Identify the people or groups that make, apply, and enforce laws in our local and national communities.
+u364 [T3 R4 C1] 3.SS.4.3
+u365 [T3 R4 C4] Identify and explain the basic functions of local and state governments.
+u366 [T3 R5 C1] 3.SS.4.4
+u367 [T3 R5 C4] Explain how local government officials are chosen, e.g., election, or appointment.
+=== page 19 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 18]
+u369 [T1 R1 C2] Code
+u370 [T1 R1 C5] Standard
+u371 [T1 R2 C1] 3.SS.4.5
+u372 [T1 R2 C4] Describe services commonly and primarily provided by governments for the community.
+u373 [T1 R3 C1] 3.SS.4.6
+u374 [T1 R3 C4] Identify local government officials.
+u375 [T1 R4 C1] 3.SS.4.7
+u376 [T1 R4 C4] Identify ways children and adults can participate in their community and/or local governments.
+u377 [T1 R5 C1] 3.SS.4.8
+u378 [T1 R5 C4] Explain that people in the United States share a national identity through patriotic symbols and holidays.
+u379 Global Perspectives
+u380 Students will build an understanding of multiple perspectives and global interdependence.
+u381 [T2 R1 C2] Code
+u382 [T2 R1 C5] Standard
+u383 [T2 R2 C1] 3.SS.5.1
+u384 [T2 R2 C4] Explore connections that the local community has with other communities throughout the world.
+u385 [T2 R3 C1] 3.SS.5.2
+u386 [T2 R3 C4] Examine the contributions of various cultures from other parts of the world to the development of the community and how they make that community unique.
+=== page 20 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 19]
+u388 Grade 4
+u389 History
+u390 Students will build an understanding of the cultural and social development of the United States, trace the role of migration and immigration of people in the development of the United States, and examine the various roles American Indians assumed in the development of the United States, and discuss the concept of sovereignty and how federally recognized tribes exercised their sovereign status throughout the history of the United States, and still do today.
+u391 [T1 R1 C2] Code
+u392 [T1 R1 C5] Standard
+u393 [T1 R2 C1] 4.SS.1.1
+u394 [T1 R2 C4] Identify the contributions of different cultural groups to Idaho (e.g., Basque sheepherders, French Canadian fur trappers, LDS, pioneers, etc.) and describe ways that they have influenced a shared Idaho culture.
+u395 [T1 R3 C1] 4.SS.1.2
+u396 [T1 R3 C4] Describe the federal policies behind the treaties and executive orders that resulted in the creation of the reservations in Idaho.
+u397 [T1 R4 C1] 4.SS.1.3
+u398 [T1 R4 C4] Identify the impact on western expansion and the creation of the State of Idaho through contributions of major groups, including but not limited to explorers, missionaries, immigrants, and American Indians. • Lewis and Clark • Sacagawea • David Thompson • Fort Lemhi • Pioneers • Miners • Vaqueros • Rebecca Brown Mitchell • Emma Yearnian • Railroad workers • William Wallace
+u399 [T1 R5 C1] 4.SS.1.4
+u400 [T1 R5 C4] Describe the historic role of fur trading and the discovery of gold and silver in Idaho.
+u401 [T1 R6 C1] 4.SS.1.5
+u402 [T1 R6 C4] Describe the federal policies and the motivations that led to westward expansion and subsequent consequences that impacted American Indian tribes in Idaho.
+u403 [T1 R7 C1] 4.SS.1.6
+u404 [T1 R7 C4] Compare and contrast the historical and current key characteristics of the five federally recognized American Indian tribes in Idaho: Coeur d’Alene Tribe, Kootenai Tribe of Idaho, Shoshone-Bannock Tribes, Nez Perce Tribe, and Shoshone-Paiute Tribes and ceded and current reservation lands.
+=== page 21 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 20]
+u406 [T1 R1 C2] Code
+u407 [T1 R1 C5] Standard
+u408 [T1 R2 C1] 4.SS.1.7
+u409 [T1 R2 C4] Describe how tribes in Idaho interacted with and impacted existing and newly arriving people.
+u410 [T1 R3 C1] 4.SS.1.8
+u411 [T1 R3 C4] Examine the meaning of tribal sovereignty and its relationship at the tribal, local, state, and federal levels of government.
+u412 [T1 R4 C1] 4.SS.1.9
+u413 [T1 R4 C4] Describe how American Indian tribes maintain resources, including cultural materials, history, language, and culture.
+u414 Geography
+u415 Students will analyze the spatial organizations of people, places, and environments on the earth’s surface and trace the migration and settlement of human populations on the earth’s surface.
+u416 [T2 R1 C2] Code
+u417 [T2 R1 C5] Standard
+u418 [T2 R2 C1] 4.SS.2.1
+u419 [T2 R2 C4] Use a number/letter coordinate grid to collect, analyze, interpret, and communicate data for finding specific locations on a map of Idaho.
+u420 [T2 R3 C1] 4.SS.2.2
+u421 [T2 R3 C4] Describe the physical regions of Idaho, identify major natural resources, and explain their impact on settlement.
+u422 [T2 R4 C1] 4.SS.2.3
+u423 [T2 R4 C4] Describe conflicts resulting from land disputes, including but not limited to the Battle of Four Lakes, Bear River Massacre, Nez Perce Flight of 1877, Bannock War of 1878, and Kootenai War of 1974.
+u424 Economics
+u425 Students will explain basic economic concepts, identify different influences on economic systems, analyze the different types of economic institutions, and explain the concepts of personal finance.
+u426 [T3 R1 C2] Code
+u427 [T3 R1 C5] Standard
+u428 [T3 R2 C1] 4.SS.3.1
+u429 [T3 R2 C4] Describe and analyze how American Indians and early settlers met their basic needs of food, shelter, and water.
+u430 [T3 R3 C1] 4.SS.3.2
+u431 [T3 R3 C4] Explain the concepts of supply and demand and scarcity.
+u432 [T3 R4 C1] 4.SS.3.3
+u433 [T3 R4 C4] Explain the concepts of specialization and division of labor.
+=== page 22 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 21]
+u435 [T1 R1 C2] Code
+u436 [T1 R1 C5] Standard
+u437 [T1 R2 C1] 4.SS.3.4
+u438 [T1 R2 C4] Identify goods and services in early Idaho settlements.
+u439 [T1 R3 C1] 4.SS.3.5
+u440 [T1 R3 C4] Describe examples of historic and current technological innovations in relation to economic growth in Idaho.
+u441 [T1 R4 C1] 4.SS.3.6
+u442 [T1 R4 C4] Describe how the geographic features of Idaho have determined the economic base of Idaho’s regions.
+u443 [T1 R5 C1] 4.SS.3.7
+u444 [T1 R5 C4] Define entrepreneurship and identify reasons for starting a business.
+u445 Civics and Government
+u446 Students will build an understanding of the foundational principles of the American political system, the organization and formation of the American system of government, and that all people in the United States have rights and assume responsibilities, and the evolution of democracy.
+u447 [T2 R1 C2] Code
+u448 [T2 R1 C5] Standard
+u449 [T2 R2 C1] 4.SS.4.1
+u450 [T2 R2 C4] Identify the people and groups who make, apply, and enforce laws within state, local, and tribal governments how they function, and the relationships between them.
+u451 [T2 R3 C1] 4.SS.4.2
+u452 [T2 R3 C4] Explain that rules and laws can be used to protect rights, provide benefits, and assign responsibilities.
+u453 [T2 R4 C1] 4.SS.4.3
+u454 [T2 R4 C4] Explain the significance of Idaho symbols and the unique tribal seal of each federally recognized tribe in Idaho.
+u455 [T2 R5 C1] 4.SS.4.4
+u456 [T2 R5 C4] Identify the three branches of state government and explain the major responsibilities of each.
+u457 [T2 R6 C1] 4.SS.4.5
+u458 [T2 R6 C4] Identify elected officials, how they can be contacted, and how they are responsible to their constituents.
+u459 [T2 R7 C1] 4.SS.4.6
+u460 [T2 R7 C4] Identify ways to be informed about and participate in state, Tribal, and local governments.
+u461 [T2 R8 C1] 4.SS.4.7
+u462 [T2 R8 C4] Describe the concepts of citizenship, popular sovereignty, respect for the individual, equality of opportunity, and personal liberty.
+=== page 23 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 22]
+u464 Global Perspectives
+u465 Students will build an understanding of multiple perspectives and global interdependence.
+u466 [T1 R1 C2] Code
+u467 [T1 R1 C5] Standard
+u468 [T1 R2 C1] 4.SS.5.1
+u469 [T1 R2 C4] Analyze the roles and relationships of groups of people who have impacted the state’s history and contributed to Idaho’s cultural heritage.
+u470 [T1 R3 C1] 4.SS.5.2
+u471 [T1 R3 C4] Describe the challenges experienced by people from various cultural, racial, and religious groups that settled in Idaho from various parts of the world.
+u472 [T1 R4 C1] 4.SS.5.3
+u473 [T1 R4 C4] Identify Idaho’s role in the global economy.
+u474 [T1 R5 C1] 4.SS.5.4
+u475 [T1 R5 C4] Compare the distinct histories, cultures, and ways of life of American Indian tribes in Idaho with those of indigenous peoples around the world.
+=== page 24 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 23]
+u477 Grade 5
+u478 History
+u479 Students will build an understanding of the cultural and social development of the United States, trace the role of migration and immigration of people in the development of the United States, and examine the various roles American Indians assumed in the development of the United States and discuss the concept of sovereignty and how federally recognized tribes exercised their sovereign status throughout the history of the United States and still do today.
+u480 [T1 R1 C2] Code
+u481 [T1 R1 C5] Standard
+u482 [T1 R2 C1] 5.SS.1.1
+u483 [T1 R2 C4] Describe the interactions between European colonists and established societies in North America.
+u484 [T1 R3 C1] 5.SS.1.2
+u485 [T1 R3 C4] Identify significant individuals who have been responsible for bringing about cultural and social changes in the United States including the founding fathers and presidents.
+u486 [T1 R4 C1] 5.SS.1.3
+u487 [T1 R4 C4] Identify and explain influential political and cultural groups and their impact on American history.
+u488 [T1 R5 C1] 5.SS.1.4
+u489 [T1 R5 C4] Identify different examples of how religion has been an important influence in American history.
+u490 [T1 R6 C1] 5.SS.1.5
+u491 [T1 R6 C4] Describe how the establishment of the 13 original colonies contributed to the founding of the nation.
+u492 [T1 R7 C1] 5.SS.1.6
+u493 [T1 R7 C4] Analyze the causes and effects of various compromises and conflicts in American history, including the various events leading to the American Revolution.
+u494 [T1 R8 C1] 5.SS.1.7
+u495 [T1 R8 C4] Explain the religious, political, and economic motives of immigrants to the United States.
+u496 [T1 R9 C1] 5.SS.1.8
+u497 [T1 R9 C4] Explain the history of indentured servitude and the slave trade in the United States.
+u498 [T1 R10 C1] 5.SS.1.9
+u499 [T1 R10 C4] Analyze or distinguish the geographic, economic, and religious motivations that influenced the movement of people.
+u500 [T1 R11 C1] 5.SS.1.10
+u501 [T1 R11 C4] Review that American Indians were the first inhabitants of the United States and analyze the impact of westward expansion on North American tribes.
+=== page 25 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 24]
+u503 [T1 R1 C2] Code
+u504 [T1 R1 C5] Standard
+u505 [T1 R2 C1] 5.SS.1.11
+u506 [T1 R2 C4] Describe the impact of scientific and technological advances on westward expansion including but not limited to the cotton gin, the reaper, the steam engine, and steam locomotive.
+u507 Geography
+u508 Students will analyze the spatial organizations of people, places, and environments on the earth’s surface and trace the migration and settlement of human populations on the earth’s surface.
+u509 [T2 R1 C2] Code
+u510 [T2 R1 C5] Standard
+u511 [T2 R2 C1] 5.SS.2.1
+u512 [T2 R2 C4] Develop and use different kinds of maps, globes, graphs, charts, databases, and models to display and obtain information.
+u513 [T2 R3 C1] 5.SS.2.2
+u514 [T2 R3 C4] Identify the regions of the United States and their resources.
+u515 [T2 R4 C1] 5.SS.2.3
+u516 [T2 R4 C4] Name and locate the 50 States and their Capitals, and United States Territories.
+u517 [T2 R5 C1] 5.SS.2.4
+u518 [T2 R5 C4] Read, analyze, and interpret maps, including the use of latitude and longitude aerial photography, satellite images, and other geospatial products.
+u519 Economics
+u520 Students will explain basic economic concepts, identify different influences on economic systems, analyze the different types of economic institutions, and explain the concepts of personal finance.
+u521 [T3 R1 C2] Code
+u522 [T3 R1 C5] Standard
+u523 [T3 R2 C1] 5.SS.3.1
+u524 [T3 R2 C4] Describe examples of improved transportation and communication networks and how they encourage economic growth.
+u525 [T3 R3 C1] 5.SS.3.2
+u526 [T3 R3 C4] Explain the concepts of tariffs, taxation, and embargo.
+u527 [T3 R4 C1] 5.SS.3.3
+u528 [T3 R4 C4] Describe the basic characteristics of a market economy.
+u529 [T3 R5 C1] 5.SS.3.4
+u530 [T3 R5 C4] Explain the economic policies that contributed to rebellion within the North American colonies.
+=== page 26 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 25]
+u532 [T1 R1 C2] Code
+u533 [T1 R1 C5] Standard
+u534 [T1 R2 C1] 5.SS.3.5
+u535 [T1 R2 C4] Identify economic incentives and risks of entrepreneurship.
+u536 [T1 R3 C1] 5.SS.3.6
+u537 [T1 R3 C4] Explain the impact of taxation on personal finance.
+u538 Civics and Government
+u539 Students will build an understanding of the foundational principles of the American political system, the organization and formation of the American system of government, and that all people in the United States have rights and assume responsibilities, and the evolution of democracy.
+u540 [T2 R1 C2] Code
+u541 [T2 R1 C5] Standard
+u542 [T2 R2 C1] 5.SS.4.1
+u543 [T2 R2 C4] Identify the people and groups who make, apply, and enforce laws within federal and tribal governments.
+u544 [T2 R3 C1] 5.SS.4.2
+u545 [T2 R3 C4] Identify and explain the important concepts in the Declaration of Independence.
+u546 [T2 R4 C1] 5.SS.4.3
+u547 [T2 R4 C4] Explain the significance of the Articles of Confederation as the transitional form of government.
+u548 [T2 R5 C1] 5.SS.4.4
+u549 [T2 R5 C4] Identify the basic principles of the United States Constitution and Bill of Rights, including popular sovereignty, limited government, separation of powers, checks and balances, judicial review, and federalism.
+u550 [T2 R6 C1] 5.SS.4.5
+u551 [T2 R6 C4] Distinguish and compare responsibilities among state, national, and tribal governments in a federal system.
+u552 [T2 R7 C1] 5.SS.4.6
+u553 [T2 R7 C4] Identify the three branches of government and the functions and powers of each.
+u554 [T2 R8 C1] 5.SS.4.7
+u555 [T2 R8 C4] Explain the difference between reservations, State public lands, and Federal public lands.
+u556 [T2 R9 C1] 5.SS.4.8
+u557 [T2 R9 C4] Identify the President and Vice President of the United States and the U.S. Senators and Representatives to Congress from Idaho.
+u558 [T2 R10 C1] 5.SS.4.9
+u559 [T2 R10 C4] Identify some of the personal responsibilities and basic rights of individual freedoms that belong to American citizens.
+u560 [T2 R11 C1] 5.SS.4.10
+u561 [T2 R11 C4] Describe ways in which citizens participate in public life.
+=== page 27 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 26]
+u563 [T1 R1 C2] Code
+u564 [T1 R1 C5] Standard
+u565 [T1 R2 C1] 5.SS.4.11
+u566 [T1 R2 C4] Explain how the United States is a republic.
+u567 [T1 R3 C1] 5.SS.4.12
+u568 [T1 R3 C4] State the difference between direct democracy and the constitutional republic of today’s United States.
+u569 [T1 R4 C1] 5.SS.4.13
+u570 [T1 R4 C4] Explain the concepts of popular sovereignty, majority rule with minority rights, respect for the individual, equality of opportunity, rule of law, and personal liberty.
+u571 Global Perspectives
+u572 Students will build an understanding of multiple perspectives and global interdependence.
+u573 [T2 R1 C2] Code
+u574 [T2 R1 C5] Standard
+u575 [T2 R2 C1] 5.SS.5.1
+u576 [T2 R2 C4] Explain how the world is divided into many different countries and each has its own government and how they interact with each other.
+u577 [T2 R3 C1] 5.SS.5.2
+u578 [T2 R3 C4] Explain how countries try to resolve problems.
+u579 [T2 R4 C1] 5.SS.5.3
+u580 [T2 R4 C4] Identify the role of the United States in a global economy.
+=== page 28 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 27]
+u582 World Geography and Civilizations Grades 6-9
+u583 World Geography
+u584 History Students studying World Geography will build an understanding of the cultural and social development of human civilizations.
+u585 [T1 R1 C2] Code
+u586 [T1 R1 C5] Standard
+u587 [T1 R2 C1] 6-9.WG.1.1
+u588 [T1 R2 C4] Describe major aspects of the civilizations in regions throughout the world prior to European contact including government, religion/belief systems, arts/architecture, technology, physical geography, economics, and social order.
+u589 [T1 R3 C1] 6-9.WG.1.2
+u590 [T1 R3 C4] Examine the impact of Europeans and native cultures on one another in regions throughout the world.
+u591 [T1 R4 C1] 6-9.WG.1.3
+u592 [T1 R4 C4] Describe and compare various motivations of European colonization in regions throughout the world.
+u593 [T1 R5 C1] 6-9.WG.1.4
+u594 [T1 R5 C4] Investigate the historical origins, central beliefs, and spread of major religions and belief systems, including Judaism, Christianity, Islam, Sikhism, Hinduism, Buddhism, and Confucianism and Indigenous knowledge and belief systems.
+=== page 29 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 28]
+u596 Geography Students studying World Geography will analyze the spatial organization of people, places, and environment on the earth’s surface, explain how human actions modify the physical environment and how physical systems affect human activity and living conditions, trace the migration and settlement of human populations on the earth’s surface, analyze the human and physical characteristics of different places and regions, and explain how geography enables people to comprehend the relationships between people, places, and environments over time.
+u597 [T1 R1 C2] Code
+u598 [T1 R1 C5] Standard
+u599 [T1 R2 C1] 6-9.WG.2.1
+u600 [T1 R2 C4] Apply latitude and longitude to locate places on Earth.
+u601 [T1 R3 C1] 6-9.WG.2.2
+u602 [T1 R3 C4] Describe the uses of technology, such as Global Positioning Systems (GPS) Geographic Information Systems (GIS), and satellite and aerial imaging.
+u603 [T1 R4 C1] 6-9.WG.2.3
+u604 [T1 R4 C4] Describe the relative location of people, places, and objects by using positional words, including but not limited to cardinal directions and distance.
+u605 [T1 R5 C1] 6-9.WG.2.4
+u606 [T1 R5 C4] Locate, map, and describe the climate of regions throughout the world and analyze their impact on human activity and living conditions.
+u607 [T1 R6 C1] 6-9.WG.2.5
+u608 [T1 R6 C4] Identify major biomes and explain ways in which the natural environment and climate of places in regions throughout the world are related to affect settlement patterns and everyday life.
+u609 [T1 R7 C1] 6-9.WG.2.6
+u610 [T1 R7 C4] Analyze and give examples of the consequences of human impact on the physical environment, including the role of technology.
+u611 [T1 R8 C1] 6-9.WG.2.7
+u612 [T1 R8 C4] Identify the names and locations of countries and major cities in regions around the world.
+u613 [T1 R9 C1] 6-9.WG.2.8
+u614 [T1 R9 C4] Describe major physical characteristics of regions throughout the world.
+u615 [T1 R10 C1] 6-9.WG.2.9
+u616 [T1 R10 C4] Identify patterns of population distribution and growth in regions throughout the world and explain changes in these patterns that have occurred over time.
+u617 [T1 R11 C1] 6-9.WG.2.10
+u618 [T1 R11 C4] Compare and contrast cultural patterns in regions throughout the world, such as language, religion, and ethnicity.
+u619 [T1 R12 C1] 6-9.WG.2.11
+u620 [T1 R12 C4] Analyze the locations of the major manufacturing and agricultural areas in regions throughout the world.
+=== page 30 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 29]
+u622 [T1 R1 C2] Code
+u623 [T1 R1 C5] Standard
+u624 [T1 R2 C1] 6-9.WG.2.12
+u625 [T1 R2 C4] Analyze the availability of natural resources in regions throughout the world.
+u626 [T1 R3 C1] 6-9.WG.2.13
+u627 [T1 R3 C4] Give examples of how both natural and technological hazards have impacted the physical environment and human populations in regions throughout the world.
+u628 [T1 R4 C1] 6-9.WG.2.14
+u629 [T1 R4 C4] Give examples of how landforms, water, climate, and natural vegetation have influenced historical trends and developments in regions throughout the world.
+u630 [T1 R5 C1] 6-9.WG.2.15
+u631 [T1 R5 C4] Describe various views that affect environmental issues in regions throughout the world.
+u632 [T1 R6 C1] 6-9.WG.2.16
+u633 [T1 R6 C4] Explain how human-caused changes in the physical environment in one place can cause changes in another place such as irrigation, air pollution, water pollution, and deforestation.
+u634 Economics Students studying World Geography will explain basic economic concepts and identify different influences on economic systems.
+u635 [T2 R1 C2] Code
+u636 [T2 R1 C5] Standard
+u637 [T2 R2 C1] 6-9.WG.3.1
+u638 [T2 R2 C4] Describe abundance, scarcity, and distribution of resources; explain their impact on decision making such as trade, settlement, stewardship of the natural environment, and development of infrastructure.
+u639 [T2 R3 C1] 6-9.WG.3.2
+u640 [T2 R3 C4] Describe how different economic systems guide decisions about what to produce, how to produce, and for whom to produce.
+u641 [T2 R4 C1] 6-9.WG.3.3
+u642 [T2 R4 C4] Compare the standard of living of various regions today using quality of life indicators and discuss their impact on everyday life locally, nationally, and globally.
+u643 [T2 R5 C1] 6-9.WG.3.4
+u644 [T2 R5 C4] Analyze current economic issues using a variety of sources representing multiple perspectives.
+=== page 31 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 30]
+u646 [T1 R1 C2] Code
+u647 [T1 R1 C5] Standard
+u648 [T1 R2 C1] 6-9.WG.3.5
+u649 [T1 R2 C4] Identify economic connections between local, national, and global economies in regions throughout the world.
+u650 [T1 R2 C5] Identify economic connections between local, national, and global
+u651 [T1 R3 C5] economies in regions throughout the world.
+u652 [T1 R4 C1] 6-9.WG.3.6
+u653 [T1 R4 C4] Explain how the demand for important natural resources evolved in regions throughout the world.
+u654 [T1 R5 C1] 6-9.WG.3.7
+u655 [T1 R5 C4] Investigate how physical geography, natural resources, specialization, and trade have influenced the way people meet their material needs.
+u656 Civics and Government Students studying World Geography will build an understanding of comparative government.
+u657 [T2 R1 C2] Code
+u658 [T2 R1 C5] Standard
+u659 [T2 R2 C1] 6-9.WG.4.1
+u660 [T2 R2 C4] Identify the major forms of government in regions throughout the world and compare them with the government of the United States.
+u661 Global Perspectives Students studying World Geography will build an understanding of multiple perspectives and global interdependence.
+u662 [T3 R1 C2] Code
+u663 [T3 R1 C5] Standard
+u664 [T3 R2 C1] 6-9.WG.5.1
+u665 [T3 R2 C4] Discuss how social institutions, including the family, religion, and education, influence behavior in different societies in regions throughout the world.
+u666 [T3 R3 C1] 6-9.WG.5.2
+u667 [T3 R3 C4] Give examples of how language, literature, and the arts shape the development and transmission of culture in regions throughout the world.
+u668 [T3 R4 C1] 6-9.WG.5.3
+u669 [T3 R4 C4] Analyze how miscommunication or misunderstandings of different cultures can lead to conflict.
+u670 [T3 R5 C1] 6-9.WG.5.4
+u671 [T3 R5 C4] Discuss present conflicts between cultural groups and nation-states in regions throughout the world.
+u672 [T3 R6 C1] 6-9.WG.5.5
+u673 [T3 R6 C4] Describe the costs and benefits of global connections including trading, seeking solutions to mutual problems, learning from technological advances, acquiring new perspectives, and benefiting from developments in culture.
+=== page 32 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 31]
+u675 [T1 R1 C2] Code
+u676 [T1 R1 C5] Standard
+u677 [T1 R2 C1] 6-9.WG.5.6
+u678 [T1 R2 C4] Explain the causes and consequences of current global issues, including the expansion of global markets, the urbanization of the developing world, the consumption of natural resources, and the extinction of species.
+u679 [T2 R1 C2] the causes and consequences of current global issues, including the
+u680 [T2 R2 C1] expansion of global markets, the urbanization of the developing world, the
+u681 [T2 R3 C1] consumption of natural resources, and the extinction of species.
+u682 Geography Skills Students in World Geography will apply the following geography skills.
+u683 [T3 R1 C2] Code
+u684 [T3 R1 C5] Standard
+u685 [T3 R2 C1] 6-9.WG.6.1
+u686 [T3 R2 C4] Explain how and why events may be interpreted differently according to the points of view of participants and observers.
+u687 [T3 R3 C1] 6-9.WG.6.2
+u688 [T3 R3 C4] Explain and use the components of maps, compare different map projections, and explain the appropriate uses for each.
+u689 [T3 R4 C1] 6-9.WG.6.3
+u690 [T3 R4 C4] Analyze visual and statistical data presented in charts, tables, graphs, maps, and other graphic organizers to assist in interpreting a historical event.
+=== page 33 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 32]
+u692 World History and Civilizations
+u693 History Students in World History and Civilizations will explain the rise of human civilization, trace how natural resources and technological advances have shaped civilizations, build an understanding of human cultural and social development, and identify the role of religion/belief systems in civilizations over time.
+u694 [T1 R1 C2] Code
+u695 [T1 R1 C5] Standard
+u696 [T1 R2 C1] 6-9.WH.1.1
+u697 [T1 R2 C4] Analyze types of evidence used by anthropologists, archaeologists, and other scholars to reconstruct early human and cultural development.
+u698 [T1 R3 C1] 6-9.WH.1.2
+u699 [T1 R3 C4] Describe the characteristics of early hunter-gatherer communities.
+u700 [T1 R4 C1] 6-9.WH.1.3
+u701 [T1 R4 C4] Describe how hunter-gatherer communities developed into agricultural sedentary settlements.
+u702 [T1 R5 C1] 6-9.WH.1.4
+u703 [T1 R5 C4] Analyze the characteristics of early civilizations throughout the world including government, religion/belief systems, arts/architecture, technology, physical geography, economics, and social order.
+u704 [T1 R6 C1] 6-9.WH.1.5
+u705 [T1 R6 C4] Explain how humans adapted the environment to maintain population growth and develop the first civilizations.
+u706 [T1 R7 C1] 6-9.WH.1.6
+u707 [T1 R7 C4] Identify the technological advances developed by Ancient, Middle Age, Early- Modern, and Modern societies and civilizations throughout the world.
+u708 [T1 R8 C1] 6-9.WH.1.7
+u709 [T1 R8 C4] Identify examples of how writing, art, architecture, mathematics, and science have evolved over time, such as in Ancient, Middle Age, Early-Modern, or Modern societies and civilizations throughout the world.
+u710 [T1 R9 C1] 6-9.WH.1.8
+u711 [T1 R9 C4] Analyze different social classes and their impact on societies and civilizations throughout the world, including Ancient, Middle Age, Early-Modern, and Modern.
+u712 [T1 R10 C1] 6-9.WH.1.9
+u713 [T1 R10 C4] Explain the relationship between religion and belief systems and people’s understanding of the natural world.
+u714 [T1 R11 C1] 6-9.WH.1.10
+u715 [T1 R11 C4] Explain how religion and belief systems shaped the development of civilizations.
+=== page 34 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 33]
+u717 [T1 R1 C2] Code
+u718 [T1 R1 C5] Standard
+u719 [T1 R2 C1] 6-9.WH.1.11
+u720 [T1 R2 C4] Discuss how religion, belief systems, economics, and politics influenced social behavior and were used to maintain social order.
+u721 [T1 R2 C5] Discuss how religion, belief systems, economics, and politics influenced
+u722 [T1 R3 C5] social behavior and were used to maintain social order.
+u723 [T1 R4 C1] 6-9.WH.1.12
+u724 [T1 R4 C4] Examine why the diversity of religion and belief systems across cultural, social, political, and economic institutions have been sources of conflict.
+u725 Geography
+u726 Students in World History and Civilization will analyze the spatial organizations of people, places, and environment on the earth’s surface, trace the migration and settlement of human populations on the earth’s surface, analyze the human and physical characteristics of different places and regions, and explain how geography enables people to comprehend the relationships between people, places, and environments over time.
+u727 [T2 R1 C2] Code
+u728 [T2 R1 C5] Standard
+u729 [T2 R2 C1] 6-9.WH.2.1
+u730 [T2 R2 C4] Develop and interpret different kinds of maps, globes, graphs, charts, databases, and models.
+u731 [T2 R3 C1] 6-9.WH.2.2
+u732 [T2 R3 C4] Identify the main reasons for major migrations of people.
+u733 [T2 R4 C1] 6-9.WH.2.3
+u734 [T2 R4 C4] Explain how climate affects human migration and settlement.
+u735 [T2 R5 C1] 6-9.WH.2.4
+u736 [T2 R5 C4] Describe how physical features, such as mountain ranges, fertile plains, and rivers led to the development of cultural regions.
+u737 [T2 R6 C1] 6-9.WH.2.5
+u738 [T2 R6 C4] Explain how transportation routes stimulate the growth of cities and the exchange of goods, knowledge, and technology.
+u739 [T2 R7 C1] 6-9.WH.2.6
+u740 [T2 R7 C4] Explain the impact of waterways on civilizations.
+u741 [T2 R8 C1] 6-9.WH.2.7
+u742 [T2 R8 C4] Explain how the resources of an area can be the source of conflict between competing groups.
+u743 [T2 R9 C1] 6-9.WH.2.8
+u744 [T2 R9 C4] Illustrate how the population growth rate impacts a nation's resources.
+u745 [T2 R10 C1] 6-9.WH.2.9
+u746 [T2 R10 C4] Explain how the rapid growth of cities can lead to economic, social, political, and technological problems and innovations.
+u747 [T2 R11 C1] 6-9.WH.2.10
+u748 [T2 R11 C4] Describe why the conservation of resources is necessary to maintain a healthy environment.
+=== page 35 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 34]
+u750 Economics Students in World History and Civilization will explain basic economic concepts and identify different influences on economic systems.
+u751 [T1 R1 C2] Code
+u752 [T1 R1 C5] Standard
+u753 [T1 R2 C1] 6-9.WH.3.1
+u754 [T1 R2 C4] Explain how people historically relied on their natural resources to meet their needs.
+u755 [T1 R3 C1] 6-9.WH.3.2
+u756 [T1 R3 C4] Describe examples that show how economic opportunity and a higher standard of living are important factors in human migration.
+u757 [T1 R4 C1] 6-9.WH.3.3
+u758 [T1 R4 C4] Analyze the role of money and alternative means of exchange.
+u759 [T1 R5 C1] 6-9.WH.3.4
+u760 [T1 R5 C4] Analyze the impact of economic growth on society.
+u761 [T1 R6 C1] 6-9.WH.3.5
+u762 [T1 R6 C4] Identify influential economic thinkers and the impact of their philosophies.
+u763 Civics and Government Students in World History and Civilization will build an understanding of the evolution of governmental structures.
+u764 [T2 R1 C2] Code
+u765 [T2 R1 C5] Standard
+u766 [T2 R2 C1] 6-9.WH.4.1
+u767 [T2 R2 C4] Describe the role of government in historical human migration, such as push and pull factors.
+u768 [T2 R3 C1] 6-9.WH.4.2
+u769 [T2 R3 C4] Analyze the various political systems that shaped civilizations throughout the world, including the City-State, Monarchy, Republic, Nation-State, or Democracy.
+u770 [T2 R4 C1] 6-9.WH.4.3
+u771 [T2 R4 C4] Analyze and evaluate the global expansion of liberty and democracy through revolution and reform movements.
+=== page 36 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 35]
+u773 Global Perspectives Students in World History and Civilization will build an understanding of multiple perspectives and global interdependence.
+u774 [T1 R1 C2] Code
+u775 [T1 R1 C5] Standard
+u776 [T1 R2 C1] 6-9.WH.5.1
+u777 [T1 R2 C4] Explain the political, economic, religious, or cultural causes of conflicts in various civilizations and their consequences.
+u778 [T1 R3 C1] 6-9.WH.5.2
+u779 [T1 R3 C4] Identify and compare major modern world conflicts and explain their global consequences and impacts including European colonialism, World War I, World War II, the Cold War, and decolonialism movements.
+u780 [T1 R4 C1] 6-9.WH.5.3
+u781 [T1 R4 C4] Explain why people unite for political, economic, and humanitarian reasons.
+u782 [T1 R5 C1] 6-9.WH.5.4
+u783 [T1 R5 C4] Analyze the causes, events, and consequences of the Holocaust while exploring the impacts of discrimination and prejudice.
+u784 Historical Thinking Skills Students in World History will apply the following historical thinking skills.
+u785 [T2 R1 C2] Code
+u786 [T2 R1 C5] Standard
+u787 [T2 R2 C1] 6-9.WH.6.1
+u788 [T2 R2 C4] Synthesize evidence from information sources including, but not limited to artifacts, primary and secondary sources, charts, graphs, and/ or images to interpret historical events.
+u789 [T2 R3 C1] 6-9.WH.6.2
+u790 [T2 R3 C4] Determine and explain the cause and effect of historical events or developments.
+u791 [T2 R4 C1] 6-9.WH.6.3
+u792 [T2 R4 C4] Explain how and why events may be interpreted differently according to the points of view of participants and observers.
+u793 [T2 R5 C1] 6-9.WH.6.4
+u794 [T2 R5 C4] Support claim(s) with logical reasoning and relevant, accurate data and evidence that demonstrate an understanding of the topic or text, using credible sources.
+u795 [T2 R6 C1] 6-9.WH.6.5
+u796 [T2 R6 C4] Analyze the context of historical events to determine the motivations of people in those events.
+=== page 37 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 36]
+u798 United States History I
+u799 American Indian Cultures and Colonization Cultures and Colonization 1491-1754
+u800 [T1 R1 C2] Code
+u801 [T1 R1 C5] Standard
+u802 [T1 R2 C1] 6-12.US1.1
+u803 [T1 R2 C4] Compare and contrast the culture of various American Indian communities that were established in North America prior to European settlement, including but not limited to: • Arctic (Inuit, Aleut) • Subarctic (Cree, Ojibwa) • Northeast (Iroquois, Ottawa) • Southeast (Creek, Seminole, Chickasaw, Choctaw, Cherokee) • Great Plains (Dakota, Blackfoot, Comanche) • Great Basin (Shoshone, Bannock, Ute) • Plateau (Nez Perce, Salish) • Southwest (Pueblo, Apache, Navajo) • Pacific Coast (Mohave, Chinook, Tillamook) • Other Idaho tribes (Coeur d’Alene, Kootenai, Paiute)
+u804 [T1 R3 C1] 6-12.US1.2
+u805 [T1 R3 C4] Analyze the impact of the Columbian exchange on Europe, Africa, and the Americas, including, but not limited to agriculture, technology, politics, and religion.
+u806 [T1 R4 C1] 6-12.US1.3
+u807 [T1 R4 C4] Analyze the development of the New England, Mid-Atlantic, and Southern Colonies, including the reasons for the establishment, the economic, political, and social development, and the relationships with American Indians.
+=== page 38 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 37]
+u809 [T1 R1 C2] Code
+u810 [T1 R1 C5] Standard
+u811 [T1 R2 C1] 6-12.US1.4
+u812 [T1 R2 C4] Explain the differences with economic systems between New England, and the Mid-Atlantic and Southern colonies, including indentured servitude and slavery as labor sources, and the role of the transatlantic slave trade.
+u813 [T1 R3 C1] 6-12.US1.5
+u814 [T1 R3 C4] Compare the settlement motivations and impacts of the Spanish, Dutch, French, and English in North America.
+u815 [T1 R4 C1] 6-12.US1.6
+u816 [T1 R4 C4] Compare the settlement motivations and impacts of the Spanish, Dutch, French, and English in North America.
+u817 [T1 R5 C1] 6-12.US1.7
+u818 [T1 R5 C4] Trace and analyze the colonial social, religious, political, and economic developments that provided context for the American Revolution, including, but not limited to a discussion of: • Mercantilism • Royal, Joint Stock, and Proprietary Charters • Legislative bodies • Town meetings • Magna Carta and Common Law • Juries • First Great Awakening
+u819 American Revolution 1754-1791
+u820 [T2 R1 C2] Code
+u821 [T2 R1 C5] Standard
+u822 [T2 R2 C1] 6-12.US1.8
+u823 [T2 R2 C4] Analyze how the French and Indian War influenced British imperial policies, North American-Indian alliances, and the colonial response to these policies, including, but not limited to: • Mayflower Compact • Mercantilism • Royal Proclamation of 1763 • Sugar Act (1764) • Stamp Act (1765) • Stamp Act Congress (1765) • Declaratory Act (1766) • Townshend Duties (1767)
+=== page 39 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 38]
+u825 [T1 R1 C2] Code
+u826 [T1 R1 C5] Standard
+u827 [T1 R2 C4] • Tea Act (1773) • Intolerable Acts (1774) • Boston Tea Party (1773)
+u828 [T1 R3 C1] 6-12.US1.9
+u829 [T1 R3 C4] Identify the impact of multiple intellectual traditions on the American Revolution and the Declaration of Independence, including early modern and Enlightenment thinkers (e.g., Locke and Montesquieu), Greek, Roman and English political history.
+u830 [T1 R4 C1] 6-12.US1.10
+u831 [T1 R4 C4] Analyze the impact of major military events on the American Revolution, including but not limited to Lexington and Concord, Bunker Hill, Saratoga, Trenton, and Yorktown.
+u832 [T1 R5 C1] 6-12.US1.11
+u833 [T1 R5 C4] Explain the contributions of leaders throughout the American Revolution, including, but not limited to George Washington, Thomas Paine, Patrick Henry, John Adams, Ben Franklin, and Thomas Jefferson.
+u834 [T1 R6 C1] 6-12.US1.12
+u835 [T1 R6 C4] Explain the contributions of key historical figures during the Revolutionary Period, including, but not limited to: • Molly Pitcher • Betsy Ross • Mercy Otis Warren • Phillis Wheatly • Chief Cornstalk • Joseph Brant • Marquis de Lafayette • Baron Friedrich Von Steuben
+u836 Founding a New Government 1776-1791
+u837 [T2 R1 C2] Code
+u838 [T2 R1 C5] Standard
+u839 [T2 R2 C1] 6-12.US1.13
+u840 [T2 R2 C4] Analyze the successes and failures of the Articles of Confederation and the events that led to the Constitutional Convention of 1787.
+u841 [T2 R3 C1] 6-12.US1.14
+u842 [T2 R3 C4] Explain the key concerns and compromises that emerged at the Constitutional Convention of 1787, including arguments over the Bill of Rights and its eventual adoption, including, but not limited to:
+=== page 40 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 39]
+u844 [T1 R1 C2] Code
+u845 [T1 R1 C5] Standard
+u846 [T1 R2 C4] • New Jersy Plan, Virginia Plan, and the Great Compromise • Compromises regarding representation • Compromises regarding taxation • Compromises regarding slavery • State vs. federal power
+u847 [T1 R3 C1] 6-12.US1.15
+u848 [T1 R3 C4] Analyze the arguments and outcomes of the ratification debate between leading Federalists and Anti-Federalists, including, but not limited to: • Federalists (John Jay, Alexander Hamilton, and James Madison) • Anti-Federalists (Patrick Henry, Sam Adams, Elbridge Gerry, George Mason, Brutus)
+u849 [T1 R4 C1] 6-12.US1.16
+u850 [T1 R4 C4] Analyze the original Constitution by comparing the powers of government branches, assessing its response to Revolutionary causes and alignment with Declaration of Independence ideals, and addressing failures of the Articles of Confederation.
+u851 Early Republic 1787-1825
+u852 [T2 R1 C2] Code
+u853 [T2 R1 C5] Standard
+u854 [T2 R2 C1] 6-12.US1.17
+u855 [T2 R2 C4] Identify the traits, beliefs, and characteristics that united and divided the United States as a nation and a society during this time period.
+u856 [T2 R3 C1] 6-12.US1.18
+u857 [T2 R3 C4] Compare and contrast the political differences and similarities among early Republic Presidents, including the significance of the Election of 1800 and the Era of Good Feelings.
+u858 [T2 R4 C1] 6-12.US1.19
+u859 [T2 R4 C4] Explain the social and economic motivations and developments surrounding the enslavement of peoples in the northern and southern states and territories.
+u860 [T2 R5 C1] 6-12.US1.20
+u861 [T2 R5 C4] Explain the changes in manufacturing, agriculture, transportation, and communication during the First Industrial Revolution.
+u862 [T2 R6 C1] 6-12.US1.21
+u863 [T2 R6 C4] Explain the causes and effects of the War of 1812, including, but not limited to: • British restrictions on trade, and impressment
+=== page 41 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 40]
+u865 [T1 R1 C2] Code
+u866 [T1 R1 C5] Standard
+u867 [T1 R2 C4] • Embargo Act and Non-Intercourse Act • Major events of the war, including the role of the USS Constitution, invasion of Canada, the burning of the Capitol and the White House, and the Battle of New Orleans, Battle of Tippecanoe and Tecumseh’s Confederation • The attack on Fort McHenry, which led to the writing of the Star- Spangled Banner.
+u868 [T1 R3 C1] 6-12.US1.22
+u869 [T1 R3 C4] Identify and analyze the impact of the foreign policy developments of the period 1787-1825, including but not limited to the Neutrality Acts, the Louisiana Purchase, the Embargo Act, the Adams-Onis Treaty, and the Monroe Doctrine.
+u870 [T1 R4 C1] 6-12.US1.23
+u871 [T1 R4 C4] Describe how American westward expansion during the Early Republic affected tribal relations; understand how intertribal relations lead to American alliances with the Muscogee, Choctaw, Cherokee, and Chickasaw and how other tribal confederacies formed to resist American expansion with the support of foreign European powers, including, but not limited to a discussion of: • Lewis and Clark Expedition • The Northwest Indian War, including St. Clair’s Defeat and the Battle of Fallen Timbers • Tecumseh’s Rebellion • Creek War • First Seminole War • Cherokee delegation to Washington (1824)
+u872 Geographic Expansion and Political and Social Changes 1820-1860
+u873 [T2 R1 C2] Code
+u874 [T2 R1 C5] Standard
+u875 [T2 R2 C1] 6-12.US1.24
+u876 [T2 R2 C4] Analyze how economic, political, and social events led to the Civil War, including, but not limited to: • Slavery • Virgina and Kentucky Resolutions • Nullification Crisis
+=== page 42 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 41]
+u878 [T1 R1 C2] Code
+u879 [T1 R1 C5] Standard
+u880 [T1 R2 C4] • Missouri Compromise • Compromise of 1850 • Publication of Uncle Tom’s Cabin • Fugitive Slave Act • Personal Liberty Laws in the North • Kansas-Nebraska Act • Dred Scott Decision • Rise of the Republican Party and the Election of 1856 • John Brown’s Raid • Election of 1860 • Crittenden Compromise
+u881 [T1 R3 C1] 6-12.US1.25
+u882 [T1 R3 C4] Compare the political differences and similarities among Democratic and Whig presidents from 1825 to 1860, including but not limited to: • Expansion of voting rights • Rise of the Democratic Party • The Spoils System • Jackson’s veto of the National Bank • Tariff of Abominations and Nullification Crisis • Log cabin campaign of William Henry Harrison
+u883 [T1 R4 C1] 6-12.US1.26
+u884 [T1 R4 C4] Analyze the religious, political, and economic motives of immigrants who came to North America between 1820-1860.
+u885 [T1 R5 C1] 6-12.US1.27
+u886 [T1 R5 C4] Compare and contrast the various manifestations of slavery in this time period, for example, ownership patterns, labor divisions, and geographic differences.
+u887 [T1 R6 C1] 6-12.US1.28
+u888 [T1 R6 C4] Compare and contrast various defenses of slavery offered by apologists and various anti-slavery movements including, but not limited to a discussion of: • American Colonization Society (Henry Clay) • Gradualist abolitionist movements • Radical abolitionist movements • Frederick Douglass • John Brown • Angelina Grimke • William Lloyd Garrison
+=== page 43 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 42]
+u890 [T1 R1 C2] Code
+u891 [T1 R1 C5] Standard
+u892 [T1 R2 C4] • Sojourner Truth • Harriet Tubman • Theodore Weld
+u893 [T1 R3 C1] 6-12.US1.29
+u894 [T1 R3 C4] Analyze the political and individual motivations and the social, political, economic, environmental impacts of individuals who moved West.
+u895 [T1 R4 C1] 6-12.US1.30
+u896 [T1 R4 C4] Describe the impact of westward expansion, treaties, and federal policies on American-tribal relations including, but not limited to a discussion of: • Indian Removal Act of 1830 • Cherokee Nation v. Georgia • Trail of Tears • Five Civilized Tribes • Establishment of Indian Territory and other reservations • Americanization/assimilation
+u897 [T1 R5 C1] 6-12.US1.31
+u898 [T1 R5 C4] Trace and explain how settlement patterns, federal policies, and treaties impacted American Indians through reservations, removal, and forced assimilation.
+u899 [T1 R6 C1] 6-12.US1.32
+u900 [T1 R6 C4] Analyze the communication, industrial and agricultural changes and their impact on the social and economic lives of people in the North, South, and West.
+u901 [T1 R7 C1] 6-12.US1.33
+u902 [T1 R7 C4] Explain how the development of various modes of transportation increased economic prosperity, promoted national unity, and contributed to disunity.
+u903 [T1 R8 C1] 6-12.US1.34
+u904 [T1 R8 C4] Investigate the Second Great Awakening and various reform movements such as prison, education, and women’s rights, as they formed the greater story of the United States in the 19th century.
+u905 [T1 R9 C1] 6-12.US1.35
+u906 [T1 R9 C4] Describe the policies, motivations, and events, and subsequent policies that led to the westward expansion of the United States from 1820-1860, including, but not limited to: • Manifest Destiny • Texas Revolution and annexation • Mexican American War • Expeditions of John C. Fremont
+=== page 44 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 43]
+u908 [T1 R1 C2] Code
+u909 [T1 R1 C5] Standard
+u910 [T1 R2 C4] • California Gold Rush • Acquisition of Oregon Territory • Acquisition of Alaska Territory • Oregon, California, Sante Fe, and Mormon Trails
+u911 [T1 R3 C1] 6-12.US1.36
+u912 [T1 R3 C4] Analyze how foreign policy during the 1820s to 1860s impacted relations with sovereign powers outside the United States, for example, tariff policies and treaties with European powers and Mexico.
+u913 [T1 R4 C1] 6-12.US1.37
+u914 [T1 R4 C4] Understand how the interactions between the five federally recognized Idaho Tribal governments of Coeur d’Alene Tribe, Kootenai Tribe of Idaho, Shoshone Bannock Tribes, Nez Perce Tribe, and Shoshone-Paiute Tribes and national, state, and local governments have impacted American Indian Tribal sovereignty over time.
+u915 Civil War and Reconstruction 1860s-1890
+u916 [T2 R1 C2] Code
+u917 [T2 R1 C5] Standard
+u918 [T2 R2 C1] 6-12.US1.38
+u919 [T2 R2 C4] Trace the evolution of Lincoln’s political thought on slavery, equality and rights for blacks, and the meaning of the war from the 1857 Dred Scott decision through the Lincoln Douglas debates, the First Inaugural Address, the Emancipation Proclamation, and the Gettysburg Address to his Second Inaugural Address.
+u920 [T2 R3 C1] 6-12.US1.39
+u921 [T2 R3 C4] Analyze the impact of major military events in the Civil War, including, but not limited to Fort Sumter, First Bull Run, Antietam, Vicksburg, Fredericksburg, Gettysburg, Sherman’s March, and Appomattox.
+u922 [T2 R4 C1] 6-12.US1.40
+u923 [T2 R4 C4] Explain the contributions of key leaders throughout the American Civil War, including, but not limited to: Ulysses S. Grant, Robert E. Lee, William Tecumseh Sherman, Stonewall Jackson, George McClellan, Abraham Lincoln, and Jefferson Davis.
+u924 [T2 R5 C1] 6-12.US1.41
+u925 [T2 R5 C4] Explain the contributions of key historical figures and groups during the Civil War period, including, but not limited to: • Clara Barton
+=== page 45 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 44]
+u927 [T1 R1 C2] Code
+u928 [T1 R1 C5] Standard
+u929 [T1 R2 C4] • Belle Boyd • Harriet Beecher Stowe • Ely S. Parker • Stand Waite • Thomas Francis Meagher • Patrick Cleburne • 54th Massachusetts Infantry Regiment • German and Irish soldiers in both armies
+u930 [T1 R3 C1] 6-12.US1.42
+u931 [T1 R3 C4] Analyze the outcomes of the American Civil War and the legal, political, and social implications of Reconstruction. • Reconstruction Amendments (13th , 14th , and 15th) • State, local, and federal elections • New political representation • Military presence • American Indian Warrior involvement • 1st and 2nd Indian Home Guard • Emancipation • Freedman’s Bureau • Black Codes • Sharecropping • Ku Klux Klan (KKK)
+u932 [T1 R4 C1] 6-12.US1.43
+u933 [T1 R4 C4] Analyze the context and consequences of The Compromise of 1877 and the end of Federal Reconstruction.
+u934 [T1 R5 C1] 6-12.US1.44
+u935 [T1 R5 C4] Identify how continued land and natural resource competition affected political, cultural, and economic development of the western United States, including, but not limited to: • Homestead Act of 1862 • Transcontinental Railroad • Fur trade, cattle drives, end of “open range” era, destruction of the bison population • Land Rush of 1889
+=== page 46 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 45]
+u937 [T1 R1 C2] Code
+u938 [T1 R1 C5] Standard
+u939 [T1 R2 C1] 6-12.US1.45
+u940 [T1 R2 C4] Explain the social and political impacts of the Civil War on Americans during the war and in the immediate aftermath of the war.
+u941 [T1 R2 C5] Explain the social and political impacts of the Civil War on Americans during
+u942 [T1 R3 C5] the war and in the immediate aftermath of the war.
+u943 Growth of Industrial World 1877-1890 (Bridge with US History II)
+u944 [T2 R1 C2] Code
+u945 [T2 R1 C5] Standard
+u946 [T2 R2 C1] 6-12.US1.46
+u947 [T2 R2 C4] Analyze the religious, political, and economic motives of 19th-century immigrants who came to North America.
+u948 [T2 R3 C1] 6-12.US1.47
+u949 [T2 R3 C4] Explain the changes in manufacturing, agriculture, transportation, and communication during the Second Industrial Revolution.
+u950 [T2 R4 C1] 6-12.US1.48
+u951 [T2 R4 C4] Describe relations between American Indians and the United States government following the Civil War, including conflict, treaties, containment, reservation, and assimilation.
+u952 [T2 R5 C1] 6-12.US1.49
+u953 [T2 R5 C4] Evaluate how improved use of resources, new technology and inventions, and transportation networks influenced the growth of industrialization and urbanization.
+u954 [T2 R6 C1] 6-12.US1.50
+u955 [T2 R6 C4] Describe the impact of business leaders, laissez-faire capitalism, and the use of corporations, monopolies, and trusts on the American economy.
+u956 [T2 R7 C1] 6-12.US1.51
+u957 [T2 R7 C4] Evaluate the impact of industrialization and laissez-faire policies on labor.
+u958 [T2 R8 C1] 6-12.US1.52
+u959 [T2 R8 C4] Explain the impact of labor unions and strikes on labor-management relations.
+u960 [T2 R9 C1] 6-12.US1.53
+u961 [T2 R9 C4] Identify the impact of post-Civil War immigration on urbanization and labor relations.
+u962 [T2 R10 C1] 6-12.US1.54
+u963 [T2 R10 C4] Describe the impact of geographic expansion during the late 19th century on the political, legal, and social rights of various groups and individuals, including but not limited to: • Women’s Suffrage in the West • Buffalo Soldiers • Disenfranchisement in the South • Chinese Railroad Workers
+=== page 47 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 46]
+u965 [T1 R1 C2] Code
+u966 [T1 R1 C5] Standard
+u967 [T1 R2 C4] • Chinese Exclusion Act, 1882 • Anti-Irish Sentiments
+u968 Historical Thinking Skills
+u969 [T2 R1 C2] Code
+u970 [T2 R1 C5] Standard
+u971 [T2 R2 C1] 6-12.HT1.1
+u972 [T2 R2 C4] Identify a series of historical events and developments as examples of change and/or continuity over time.
+u973 [T2 R3 C1] 6-12.HT1.2
+u974 [T2 R3 C4] Explain how events and developments in the past stem from multiple causes and have multiple effects.
+u975 [T2 R4 C1] 6-12.HT1.3
+u976 [T2 R4 C4] Evaluate historical sources, considering authorship, strengths, limitations, and perspectives, while analyzing primary and secondary sources to understand their collective contribution to historical interpretation.
+u977 [T2 R5 C1] 6-12.HT1.4
+u978 [T2 R5 C4] Construct and/or communicate a historical argument using primary and secondary sources.
+u979 [T2 R6 C1] 6-12.HT1.5
+u980 [T2 R6 C4] Analyze historical issues by addressing questions that are open-ended and require research, analysis, and interpretation.
+u981 [T2 R7 C1] 6-12.HT1.6
+u982 [T2 R7 C4] Analyze connections among events and developments in broader historical contexts.
+u983 [T2 R8 C1] 6-12.HT1.7
+u984 [T2 R8 C4] Analyze, compare, and/or interpret artistic works to understand cultural and historical context and experience.
+u985 [T2 R9 C1] 6-12.HT1.8
+u986 [T2 R9 C4] Analyze how current interpretations of the past are limited by the extent to which available historical sources represent the perspectives of people at the time.
+u987 [T2 R10 C1] 6-12.HT1.9
+u988 [T2 R10 C4] Evaluate the credibility of sources about a historical event found on the internet by determining (if possible) how and why the sources were created, how they were circulated, their intended audience, and whether the source contains valid citations.
+=== page 48 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 47]
+u990 United States History II
+u991 Federal Indian Policy Period, 1879 - Present
+u992 [T1 R1 C2] Code
+u993 [T1 R1 C5] Standard
+u994 [T1 R2 C1] 9-12.US2.1
+u995 [T1 R2 C4] Analyze how federal policies established the relationship between the United States government and American Indian tribes, and the intended and unintended outcomes. • Allocation and Assimilated Period 1879-1934 • Tribal Reorganization Period, 1934-1958 • Termination and Relocation Period, 1953-1971 • Self-Determination Period, 1968-present
+u996 Progressivism and Imperialism, 1890 - 1920
+u997 [T2 R1 C2] Code
+u998 [T2 R1 C5] Standard
+u999 [T2 R2 C1] 9-12.US2.2
+u1000 [T2 R2 C4] Evaluate Progressivism’s impact on circumstances and policies. These may include: • Exploitation of labor • Child labor • Spoils systems of government hiring • Machine politics • Corruption • Immigration tension • Women’s suffrage
+=== page 49 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 48]
+u1002 [T1 R1 C2] Code
+u1003 [T1 R1 C5] Standard
+u1004 [T1 R2 C4] • Prohibition • Race relations • Eugenics
+u1005 [T1 R3 C1] 9-12.US2.3
+u1006 [T1 R3 C4] Evaluate the impact of racial, economic, moral, political, and strategic motives for the United States becoming an imperialist power.
+u1007 [T1 R4 C1] 9-12.US2.4
+u1008 [T1 R4 C4] Analyze the origins and the impacts of the Spanish-American War and American involvement in Latin America, Hawaii, the Philippines, China, and Japan.
+u1009 World War I, 1915-1919
+u1010 [T2 R1 C2] Code
+u1011 [T2 R1 C5] Standard
+u1012 [T2 R2 C1] 9-12.US2.5
+u1013 [T2 R2 C4] Explain the factors that led to World War One and describe the factors that were deterring the United States from involvement as well as the driving forces that eventually led to the United States' involvement.
+u1014 [T2 R3 C1] 9-12.US2.6
+u1015 [T2 R3 C4] Determine the impact of government mobilization programs, restrictions on civil liberties, and propaganda on the American Homefront.
+u1016 [T2 R4 C1] 9-12.US2.7
+u1017 [T2 R4 C4] Explain how new technologies influenced strategies, military tactics, and battle conditions on the Western Front during World War One.
+u1018 [T2 R5 C1] 9-12.US2.8
+u1019 [T2 R5 C4] Analyze the goals and effects of the Treaty of Versailles.
+u1020 The Roaring 20s, 1920-1929
+u1021 [T3 R1 C2] Code
+u1022 [T3 R1 C5] Standard
+u1023 [T3 R2 C1] 9-12.US2.9
+u1024 [T3 R2 C4] Describe the impacts of economic, demographic, social, and cultural changes during the 1920s.
+u1025 [T3 R3 C1] 9-12.US2.10
+u1026 [T3 R3 C4] Evaluate the social tensions of the era, including: • Race • Christian fundamentalism • Labor • Immigration
+=== page 50 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 49]
+u1028 [T1 R1 C2] Code
+u1029 [T1 R1 C5] Standard
+u1030 [T1 R2 C4] • Changing social values • The Red Scare • Rise of the Ku Klux Klan • Prohibition • Rise of the mob and mafia
+u1031 The Great Depression and the New Deal 1929-1939
+u1032 [T2 R1 C2] Code
+u1033 [T2 R1 C5] Standard
+u1034 [T2 R2 C1] 9-12.US2.11
+u1035 [T2 R2 C4] Analyze the causes of the crash of 1929 and the Great Depression.
+u1036 [T2 R3 C1] 9-12.US2.12
+u1037 [T2 R3 C4] Analyze the impact of the Great Depression and the Dust Bowl on farmers, businesses, workers, and racial and ethnic minorities.
+u1038 [T2 R4 C1] 9-12.US2.13
+u1039 [T2 R4 C4] Evaluate the effectiveness of New Deal programs in addressing economic issues underlying the Great Depression.
+u1040 [T2 R5 C1] 9-12.US2.14
+u1041 [T2 R5 C4] Evaluate the social tensions of the era, including: • Race • Labor • Domestic Migration • Changing social values • The Rise of Political Extremism
+u1042 World War II 1939-1945
+u1043 [T3 R1 C2] Code
+u1044 [T3 R1 C5] Standard
+u1045 [T3 R2 C1] 9-12.US2.15
+u1046 [T3 R2 C4] Explain the events and actions that led to World War Two, including the rise of fascism and totalitarianism, appeasement, and European and Japanese Imperialism.
+u1047 [T3 R3 C1] 9-12.US2.16
+u1048 [T3 R3 C4] Analyze American participation in the international response to the Holocaust.
+u1049 [T3 R4 C1] 9-12.US2.17
+u1050 [T3 R4 C4] Describe the strategies, events, and turning points that shaped the outcomes of World War Two.
+=== page 51 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 50]
+u1052 [T1 R1 C2] Code
+u1053 [T1 R1 C5] Standard
+u1054 [T1 R2 C1] 9-12.US2.18
+u1055 [T1 R2 C4] Compare and contrast the experience of Americans on the Pacific and European battle fronts during World War Two.
+u1056 [T1 R3 C1] 9-12.US2.19
+u1057 [T1 R3 C4] Evaluate the factors that influenced the decision to employ atomic weapons against Japan.
+u1058 [T1 R4 C1] 9-12.US2.20
+u1059 [T1 R4 C4] Analyze the impact of events and policies on the Homefront during World War Two.
+u1060 [T1 R5 C1] 9-12.US2.21
+u1061 [T1 R5 C4] Evaluate Supreme Court and executive decisions to limit civil liberties and to relocate Japanese Americans and others to internment camps.
+u1062 Affluence, Cold War, and Social Revolutions 1945-1974
+u1063 [T2 R1 C2] Code
+u1064 [T2 R1 C5] Standard
+u1065 [T2 R2 C1] 9-12.US2.22
+u1066 [T2 R2 C4] Evaluate the impact of postwar demobilization and the GI Bill on economic growth, culture, and lifestyle.
+u1067 [T2 R3 C1] 9-12.US2.23
+u1068 [T2 R3 C4] Describe the ways the United States competed with the Soviet Union culturally, economically, and politically during the Cold War, and how this competition affected postwar military and economic growth.
+u1069 [T2 R4 C1] 9-12.US2.24
+u1070 [T2 R4 C4] Analyze various foreign policy events through the lens of the Cold War, military engagements, and covert actions during this period. These may include: • Berlin Blockade • Rise of the Communist regime in China • Korean War • Central Intelligence Agency’s support of coups in Iran and Guatemala • Cuban Missile Crisis • U2 incident • Berlin Wall • Vietnam War
+=== page 52 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 51]
+u1072 [T1 R1 C2] Code
+u1073 [T1 R1 C5] Standard
+u1074 [T1 R2 C1] 9-12.US2.25
+u1075 [T1 R2 C4] Compare various ways the United States and the Soviet Union built and strengthened economic, political, and military alliances with countries during this period. These may include: • Truman Doctrine • Marshall Plan • North Atlantic Treaty Organization (NATO) • Occupation and rebuilding of Japan and West Germany • Warsaw Pact • Occupation and rebuilding of Eastern Europe
+u1076 [T1 R2 C5] Compare various ways the United States and the Soviet Union built and
+u1077 [T1 R3 C5] strengthened economic, political, and military alliances with countries during
+u1078 [T1 R4 C5] this period. These may include:
+u1079 [T1 R5 C1] 9-12.US2.26
+u1080 [T1 R5 C4] Examine the influence of the Cold War on United States politics and society. Including: • The House of Un-American Activities Committee • McCarthyism • The Alger Hiss Case • The Rosenberg Case
+u1081 [T1 R6 C1] 9-12.US2.27
+u1082 [T1 R6 C4] Describe the causes and effects on American society and culture of widespread growing affluence in the post-war period, as well as groups and geographic areas that were largely left out of it.
+u1083 [T1 R7 C1] 9-12.US2.28
+u1084 [T1 R7 C4] Analyze the American Labor Movement during the post-war period.
+u1085 [T1 R8 C1] 9-12.US2.29
+u1086 [T1 R8 C4] Analyze the motives, strategies, methods, organizations, and impacts of various Civil Rights Movements.
+u1087 [T1 R9 C1] 9-12.US2.30
+u1088 [T1 R9 C4] Analyze the experiences of American soldiers in Vietnam and their experiences upon returning home including how these experiences compared to previous conflicts.
+u1089 [T1 R10 C1] 9-12.US2.31
+u1090 [T1 R10 C4] Describe the relationships between the Vietnam War, the counterculture movement, and the anti-war movement.
+u1091 [T1 R11 C1] 9-12.US2.32
+u1092 [T1 R11 C4] Examine the various ways the counterculture critiqued United States society.
+u1093 [T1 R12 C1] 9-12.US2.33
+u1094 [T1 R12 C4] Analyze the major features of the Great Society policy. This may include: • War on Poverty
+u1095 [T2 R1 C2] The Rosenberg Case
+u1096 [T2 R2 C1] Describe the causes and effects
+u1097 [T2 R3 C1] widespread
+=== page 53 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 52]
+u1099 [T1 R1 C2] Code
+u1100 [T1 R1 C5] Standard
+u1101 [T1 R2 C4] • Medicare/Medicaid • Head Start and Education Reform • Urban Renewal • Support for the Arts and Humanities • Immigration Reform • Environmental Initiatives
+u1102 [T1 R3 C1] 9-12.US2.34
+u1103 [T1 R3 C4] Examine the causes and consequences of the constitutional crisis that led to the resignation of President Richard Nixon.
+u1104 [T1 R4 C1] 9-12.US2.35
+u1105 [T1 R4 C4] Analyze how Vietnam and Watergate reduced American faith in government and the military and led to significant political, constitutional, and legislative reforms.
+u1106 Economic, Political, and Social Reorganization 1974-1992
+u1107 [T2 R1 C2] Code
+u1108 [T2 R1 C5] Standard
+u1109 [T2 R2 C1] 9-12.US2.36
+u1110 [T2 R2 C4] Evaluate the causes and impacts on public confidence and trust in the government’s ability to solve economic and social problems, such as: • Deindustrialization • Urban decline • Migration • Stagflation • Deficit spending • Energy crisis • Racial tensions
+u1111 [T2 R2 C5] Evaluate the causes and impacts on public confidence and trust in the
+u1112 [T2 R3 C5] government’s ability to solve economic and social problems, such as:
+u1113 [T2 R4 C1] 9-12.US2.37
+u1114 [T2 R4 C4] Evaluate the factors that impacted relationships and policies with China, Russia, Latin America, and the Middle East.
+u1115 [T2 R5 C1] 9-12.US2.38
+u1116 [T2 R5 C4] Analyze the rise of the New Right and the Reagan Revolution including the social, cultural, and economic policies it advocated for.
+u1117 [T2 R6 C1] 9-12.US2.39
+u1118 [T2 R6 C4] Evaluate the factors that contributed to the end of the Cold War. These may include: • American diplomacy
+=== page 54 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 53]
+u1120 [T1 R1 C2] Code
+u1121 [T1 R1 C5] Standard
+u1122 [T1 R2 C4] • • • • • • •
+u1123 [T1 R2 C6] Military build-up
+u1124 [T1 R3 C6] Treaties
+u1125 [T1 R4 C6] Iran-Contra affair
+u1126 [T1 R5 C6] Strategic Defense Initiative (Star Wars)
+u1127 [T1 R6 C6] Support of Afghanistan
+u1128 [T1 R7 C6] Fall of the Berlin Wall
+u1129 [T1 R8 C6] Collapse of the USSR
+u1130 [T1 R9 C1] 9-12.US2.40
+u1131 [T1 R9 C4] Explain the causes and consequences of the American response to Iraq’s invasion of Kuwait.
+u1132 Globalization, Information Technology, Terrorism, Political and Social Polarization 1992- Present
+u1133 [T2 R1 C2] Code
+u1134 [T2 R1 C5] Standard
+u1135 [T2 R2 C1] 9-12.US2.41
+u1136 [T2 R2 C4] Analyze the effects of globalization, free trade agreements, financial market deregulation, and the computer revolution on the economic boom of the 1990s.
+u1137 [T2 R3 C1] 9-12.US2.42
+u1138 [T2 R3 C4] Describe some effects of key changes on United States society and labor. These may include: • Outsourcing • Robotic automation • Income disparities • Shift toward a service-based economy
+u1139 [T2 R4 C1] 9-12.US2.43
+u1140 [T2 R4 C4] Evaluate the motivations behind domestic and non-state aligned terrorism, assess governmental responses including those after September 11, 2001, and analyze the causes, progression, and aftermath of the War on Terror in Afghanistan and Iraq.
+u1141 [T2 R5 C1] 9-12.US2.44
+u1142 [T2 R5 C4] Evaluate how the rise of alternative media, social media, and technology, including smartphones, have affected United States culture, society, and politics.
+u1143 [T2 R6 C1] 9-12.US2.45
+u1144 [T2 R6 C4] Examine United States policy on environmental issues.
+=== page 55 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 54]
+u1146 [T1 R1 C2] Code
+u1147 [T1 R1 C5] Standard
+u1148 [T1 R2 C1] 9-12.US2.46
+u1149 [T1 R2 C4] Evaluate the progress of civil rights and immigration issues in recent United States history.
+u1150 [T1 R3 C1] 9-12.US2.47
+u1151 [T1 R3 C4] Evaluate the causes and consequences of the 2008 financial crisis and Great Recession.
+u1152 [T1 R4 C1] 9-12.US2.48
+u1153 [T1 R4 C4] Evaluate the causes and impact of increasing political polarization on American politics.
+u1154 Historical Thinking Skills
+u1155 [T2 R1 C2] Code
+u1156 [T2 R1 C5] Standard
+u1157 [T2 R2 C1] 6-12.HT2.1
+u1158 [T2 R2 C4] Evaluate how historical events and developments were shaped by unique circumstances of time and place and broader historical contexts.
+u1159 [T2 R3 C1] 6-12.HT2.2
+u1160 [T2 R3 C4] Analyze change and continuity in historical eras.
+u1161 [T2 R4 C1] 6-12.HT2.3
+u1162 [T2 R4 C4] Use questions generated about individuals and groups to assess how the significance of their actions changes over time and is shaped by the historical context.
+u1163 [T2 R5 C1] 6-12.HT2.4
+u1164 [T2 R5 C4] Analyze complex and interacting factors that influenced the perspectives of people during different historical eras and how those perspectives are reflected throughout history.
+u1165 [T2 R6 C1] 6-12.HT2.5
+u1166 [T2 R6 C4] Analyze how current interpretations of the past are limited by the extent to which available historical sources represent the perspectives of people at the time.
+u1167 [T2 R7 C1] 6-12.HT2.6
+u1168 [T2 R7 C4] Evaluate historical sources, considering authorship, strengths, limitations, potential biases, and appropriate application, while analyzing primary and secondary sources to understand their collective contribution to historical interpretation.
+u1169 [T2 R8 C1] 6-12.HT2.7
+u1170 [T2 R8 C4] Analyze multiple and complex causes and effects of events in the past.
+=== page 56 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 55]
+u1172 [T1 R1 C2] Code
+u1173 [T1 R1 C5] Standard
+u1174 [T1 R2 C1] 6-12.HT2.8
+u1175 [T1 R2 C4] Construct historical arguments distinguishing the differences between long-term causes and triggering events using evidence from multiple relevant historical sources, perspectives, and interpretations.
+u1176 [T1 R2 C5] Construct historical arguments distinguishing the differences between
+u1177 [T1 R3 C5] long-term causes and triggering events using evidence from multiple
+u1178 [T1 R4 C5] relevant historical sources, perspectives, and interpretations.
+u1179 [T1 R5 C1] 6-12.HT2.9
+u1180 [T1 R5 C4] Evaluate the central arguments in secondary works of history on related topics in multiple media in terms of their historical accuracy.
+u1181 [T2 R1 C1] E
+u1182 [T2 R1 C2] valuate
+u1183 [T2 R1 C3] the central arguments in secondary works of history on related
+u1184 [T2 R2 C1] topics in multiple media in terms of their historical accuracy.
+=== page 57 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 56]
+u1186 American Government Grades 9-12
+u1187 Foundations of the American Political System
+u1188 [T1 R1 C2] Code
+u1189 [T1 R1 C5] Standard
+u1190 [T1 R2 C1] 9-12.GOV.1
+u1191 [T1 R2 C4] Examine the influences of leading European thinkers such as Locke and Montesquieu, as well as the influence of historical institutions such as Greek democracy, Roman republicanism, and the English legal tradition on the American Founding.
+u1192 [T1 R2 C5] Examine the influences of leading European thinkers such as Locke and
+u1193 [T1 R3 C5] Montesquieu, as well as the influence of historical institutions such as Greek
+u1194 [T1 R4 C5] democracy, Roman republicanism, and the English legal tradition on the
+u1195 [T1 R5 C5] American Founding.
+u1196 [T1 R6 C1] 9-12.GOV.2
+u1197 [T1 R6 C4] Examine the Declaration of Independence and American grievances against British rule.
+u1198 [T1 R7 C1] 9-12.GOV.3
+u1199 [T1 R7 C4] Identify the strengths and weaknesses of the Articles of Confederation.
+u1200 [T1 R8 C1] 9-12.GOV.4
+u1201 [T1 R8 C4] Analyze the Constitutional Convention of 1787, including the Great Compromise and the ensuing debate over ratification between the Federalists and Anti-Federalists.
+u1202 [T1 R9 C1] 9-12.GOV.5
+u1203 [T1 R9 C4] Evaluate the arguments presented in the Federalist Papers, particularly Essay 10 and Essay 51, and evaluate the arguments in the Anti-Federalist Papers.
+u1204 [T1 R10 C1] 9-12.GOV.6
+u1205 [T1 R10 C4] Describe the purposes and functions of government as outlined in the Preamble of the Constitution.
+u1206 [T1 R11 C1] 9-12.GOV.7
+u1207 [T1 R11 C4] Describe limited government within the Constitution, including: • Checks and balances • Popular sovereignty • Rule of law
+=== page 58 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 57]
+u1209 [T1 R1 C2] Code
+u1210 [T1 R1 C5] Standard
+u1211 [T1 R2 C4] • Federalism • Separation of powers • Judicial review • Majority rule and protection of minority rights
+u1212 [T1 R3 C1] 9-12.GOV.8
+u1213 [T1 R3 C4] Describe the structure of the Constitution and the process to amend it.
+u1214 [T1 R4 C1] 9-12.GOV.9
+u1215 [T1 R4 C4] Analyze how the Bill of Rights limits the powers of the government and ensures individual rights.
+u1216 [T1 R5 C1] 9-12.GOV.10
+u1217 [T1 R5 C4] Define the concepts of democracy and republic and examine the relationship between the two.
+u1218 [T1 R6 C1] 9-12.GOV.11
+u1219 [T1 R6 C4] Understand the shared values and aspirations of Americans including liberty, egalitarianism, individualism, and laissez-faire government.
+u1220 [T1 R7 C1] 9-12.GOV.12
+u1221 [T1 R7 C4] Evaluate the arguments within the Declaration of Independence and its definition of an ideal government.
+u1222 Citizenship and Civic Participation
+u1223 [T2 R1 C2] Code
+u1224 [T2 R1 C5] Standard
+u1225 [T2 R2 C1] 9-12.GOV.13
+u1226 [T2 R2 C4] Describe, at the national, state, and local level, what should be reasonably expected from any citizen or resident of the U.S. and explain why it is important for the well-being of the nation, including being informed on civic issues, serving in the military or alternative service, obeying the law, paying taxes, volunteering, and performing public service, respecting the rights of others, serving as a juror, and voting.
+u1227 [T2 R3 C1] 9-12.GOV.14
+u1228 [T2 R3 C4] Compare and contrast major American political ideologies.
+u1229 [T2 R4 C1] 9-12.GOV.15
+u1230 [T2 R4 C4] Evaluate the roles of the federal and state governments in the Civil Rights Movement.
+u1231 [T2 R5 C1] 9-12.GOV.16
+u1232 [T2 R5 C4] Explain the role and evolution of political parties in governing and in the recruitment/election of political candidates and the importance of and difference between primaries, caucuses, and general elections.
+=== page 59 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 58]
+u1234 [T1 R1 C2] Code
+u1235 [T1 R1 C5] Standard
+u1236 [T1 R2 C1] 9-12.GOV.17
+u1237 [T1 R2 C4] Evaluate the role of the media/social media as a means of communicating information/misinformation and how it influences the importance of issues and public opinion.
+u1238 [T1 R3 C1] 9-12.GOV.18
+u1239 [T1 R3 C4] Describe the means that citizens use to responsibly participate in the political process, including campaigning, petitioning, demonstrating, running for office, lobbying, and voting.
+u1240 [T1 R4 C1] 9-12.GOV.19
+u1241 [T1 R4 C4] Explain the requirements to be considered a natural-born U.S. citizen, and describe the process of naturalization, including the knowledge required by the Naturalization Test.
+u1242 [T1 R5 C1] 9-12.GOV.20
+u1243 [T1 R5 C4] Explain the history and significance of dual citizenship regarding American Indians.
+u1244 [T1 R6 C1] 9-12.GOV.21
+u1245 [T1 R6 C4] Identify and be able to engage with key officials, both elected and appointed, in the legislative, executive, and judicial branches at the federal, state, and local levels.
+u1246 [T1 R7 C1] 9-12.GOV.22
+u1247 [T1 R7 C4] Distinguish between civil rights and civil liberties and how they are put into practice in our daily lives.
+u1248 [T1 R8 C1] 9-12.GOV.23
+u1249 [T1 R8 C4] Evaluate the Supreme Court’s interpretations of the freedoms articulated in the First Amendment, including Schenck v. United States, New York Times v. United States, Engel v. Vitale, Miller v. California, Tinker v. Des Moines, Texas v. Johnson, and Kennedy v. Bremerton.
+u1250 [T1 R9 C1] 9-12.GOV.24
+u1251 [T1 R9 C4] Evaluate the Supreme Court’s interpretations of freedoms in the Fourth through Eighth Amendments, including Mapp v. Ohio, Gideon v. Wainwright, and Miranda v. Arizona.
+u1252 [T1 R10 C1] 9-12.GOV.25
+u1253 [T1 R10 C4] Evaluate the Supreme Court’s interpretations of the freedoms in the 14th Amendment, equal protection, and due process clauses including Plessy v. Ferguson, Roe v. Wade, Dobbs v. Jackson Women’s Health Organization, Gitlow v. New York, Loving v. Virginia, Obergefell v. Hodges, and Brown v. Board of Education, 1954.
+=== page 60 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 59]
+u1255 Political Economy
+u1256 [T1 R1 C2] Code
+u1257 [T1 R1 C5] Standard
+u1258 [T1 R2 C1] 9-12.GOV.26
+u1259 [T1 R2 C4] Explain the government’s limited role in free enterprise and how that affects individual economic freedoms.
+u1260 [T1 R3 C1] 9-12.GOV.27
+u1261 [T1 R3 C4] Evaluate the government’s establishment and maintenance of the rules and institutions in which markets operate, including the establishment and enforcement of property rights, contracts, consumer rights, labor- management relations, environmental protection, and competition in the marketplace.
+u1262 [T1 R4 C1] 9-12.GOV.28
+u1263 [T1 R4 C4] Compare the types and purposes of taxation that are used by local, state, and federal governments to pay for services provided by the government.
+u1264 [T1 R5 C1] 9-12.GOV.29
+u1265 [T1 R5 C4] Describe how the Federal Reserve can use monetary policy to pursue price stability, full employment, and economic growth with the goal of stabilizing the economy.
+u1266 Function And Structure of the U.S. Political System
+u1267 [T2 R1 C2] Code
+u1268 [T2 R1 C5] Standard
+u1269 [T2 R2 C1] 9-12.GOV.30
+u1270 [T2 R2 C4] Analyze Article I and the 17th Amendment of the Constitution as they relate to the legislative branch, including eligibility for office, roles, duties, casework, length of terms, and election to office for representatives and senators.
+u1271 [T2 R3 C1] 9-12.GOV.31
+u1272 [T2 R3 C4] Describe the census and its role in redistricting and reapportionment, including the role of Baker v. Carr.
+u1273 [T2 R4 C1] 9-12.GOV.32
+u1274 [T2 R4 C4] Identify leadership positions of the legislative branch, including majority and minority leaders, the president pro tempore, the role of the Vice president, and the Speaker of the House.
+u1275 [T2 R5 C1] 9-12.GOV.33
+u1276 [T2 R5 C4] Describe the process of how a bill becomes law.
+=== page 61 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 60]
+u1278 [T1 R1 C2] Code
+u1279 [T1 R1 C5] Standard
+u1280 [T1 R2 C1] 9-12.GOV.34
+u1281 [T1 R2 C4] Describe the powers of United States’ Congress, including appropriations, declaration of war, commerce, implied powers, confirmations, necessary and proper clauses, and powers of impeachment and oversight.
+u1282 [T1 R3 C1] 9-12.GOV.35
+u1283 [T1 R3 C4] Analyze Article II of the Constitution as it relates to the executive branch, including appointments, oath of office, Commander-in-chief of the military, powers of the president, eligibility for office, succession (25th Amendment), executive orders, treaties, length of term (20th and 22nd Amendments).
+u1284 [T1 R4 C1] 9-12.GOV.36
+u1285 [T1 R4 C4] Identify major departments of the executive branch, including cabinet and non-cabinet level departments and agencies, along with the development and growth of federal administrative state.
+u1286 [T1 R5 C1] 9-12.GOV.37
+u1287 [T1 R5 C4] Explain the Electoral College system, and how it has evolved over time, and compare arguments for and against it.
+u1288 [T1 R6 C1] 9-12.GOV.38
+u1289 [T1 R6 C4] Analyze Article III of the Constitution as it relates to judicial power, including the length of terms and the jurisdiction of the U.S. Supreme Court.
+u1290 [T1 R7 C1] 9-12.GOV.39
+u1291 [T1 R7 C4] Analyze the origin and evolution of the modern federal court structure including the Judiciary Act of 1789.
+u1292 [T1 R8 C1] 9-12.GOV.40
+u1293 [T1 R8 C4] Explain the processes of selection and confirmation of Supreme Court justices.
+u1294 [T1 R9 C1] 9-12.GOV.41
+u1295 [T1 R9 C4] Describe the Supreme Court’s role, established by Marbury vs. Madison, in determining the constitutionality of laws and acts of the legislative and executive branches.
+u1296 [T1 R10 C1] 9-12.GOV.42
+u1297 [T1 R10 C4] Compare and contrast different judicial philosophies including activism vs. conservatism, originalism vs. living constitution, and textualism.
+u1298 [T1 R11 C1] 9-12.GOV.43
+u1299 [T1 R11 C4] Explain the functions, powers, interactions, and dynamic relationships among federal, state, local, and tribal governments including the roles of the 10th Amendment, McCulloch vs Maryland, Gibbons vs. Ogden, and evolution from dual federalism to cooperative federalism.
+=== page 62 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 61]
+u1301 [T1 R1 C2] Code
+u1302 [T1 R1 C5] Standard
+u1303 [T1 R2 C1] 9-12.GOV.44
+u1304 [T1 R2 C4] Analyze and discuss sovereignty and the federal responsibility the United States has with federally recognized American Indian tribes with emphasis on Idaho, such as hunting and fishing rights, and land leasing.
+u1305 [T1 R3 C1] 9-12.GOV.45
+u1306 [T1 R3 C4] Explain the organization and powers of state and local government as described in the Constitution of the State of Idaho by analyzing legislative, executive, and judicial branches.
+u1307 [T1 R4 C1] 9-12.GOV.46
+u1308 [T1 R4 C4] Compare the lawmaking process at the national, state, and local level.
+u1309 [T1 R5 C1] 9-12.GOV.47
+u1310 [T1 R5 C4] Understand the structure, powers, and lawmaking process of local government (county, city, special district) by analyzing the relationships between state and local governments and the roles of regional authorities, governing boards, and commissions.
+u1311 [T1 R6 C1] 9-12.GOV.48
+u1312 [T1 R6 C4] Compare partisan and non-partisan offices and elections.
+u1313 The American Electoral System
+u1314 [T2 R1 C2] Code
+u1315 [T2 R1 C5] Standard
+u1316 [T2 R2 C1] 9-12.GOV.49
+u1317 [T2 R2 C4] Describe the evolution of voting (methods and process) and enfranchisement including key amendments (15th, 19th, 23rd, 24th, 26th) and laws (1965 Voting Rights Act) that have extended the right to vote to previously disenfranchised Americans.
+u1318 [T2 R3 C1] 9-12.GOV.50
+u1319 [T2 R3 C4] Examine campaign finance laws and campaign funding and spending, including the impact of Supreme Court decisions, the nationalization of campaign financing, and the role of interest groups.
+u1320 [T2 R4 C1] 9-12.GOV.51
+u1321 [T2 R4 C4] Describe the nomination and election process in American national and state elections, including the Electoral College.
+u1322 [T2 R5 C1] 9-12.GOV.52
+u1323 [T2 R5 C4] Analyze the influence of political parties, media coverage, campaign advertising, interest groups, public opinion polls, social media, and digital communications on elections.
+=== page 63 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 62]
+u1325 [T1 R1 C2] Code
+u1326 [T1 R1 C5] Standard
+u1327 [T1 R2 C1] 9-12.GOV.53
+u1328 [T1 R2 C4] Explain the impact of reapportionment and redistricting on elections and governance.
+u1329 [T1 R2 C5] Explain the impact of reapportionment and redistricting on elections and
+u1330 [T1 R3 C5] governance.
+u1331 [T1 R4 C1] 9-12.GOV.54
+u1332 [T1 R4 C4] Explain the role of state governments in administering elections and compare different state’s voting rules and elections laws.
+u1333 [T1 R5 C1] 9-12.GOV.55
+u1334 [T1 R5 C4] Evaluate the challenges of the election process.
+u1335 The U.S. And the International System
+u1336 [T2 R1 C2] Code
+u1337 [T2 R1 C5] Standard
+u1338 [T2 R2 C1] 9-12.GOV.56
+u1339 [T2 R2 C4] Compare the different forms of domestic and foreign political systems, electoral systems, economic systems, and civil societies including presidential vs parliamentary, unitary vs federal, and autocracy vs democracy.
+u1340 [T2 R2 C5] Compare the different forms of domestic and foreign political systems,
+u1341 [T2 R3 C5] electoral systems, economic systems, and civil societies including
+u1342 [T2 R4 C5] presidential vs parliamentary, unitary vs federal, and autocracy vs
+u1343 [T2 R5 C5] democracy.
+u1344 [T2 R6 C1] 9-12.GOV.57
+u1345 [T2 R6 C4] Describe the characteristics of United States foreign policy and how it has been created and implemented over time.
+u1346 [T2 R7 C1] 9-12.GOV.58
+u1347 [T2 R7 C4] Identify and evaluate the role of the United States in international organizations, agreements, treaties, and humanitarian relief efforts.
+u1348 [T2 R8 C1] 9-12.GOV.59
+u1349 [T2 R8 C4] Evaluate the changing role of the United States in supporting democratic principles and institutions in the international system.
+=== page 64 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 63]
+u1351 Economics Grades 9-12
+u1352 Fundamental Economic Concepts
+u1353 [T1 R1 C2] Code
+u1354 [T1 R1 C5] Standard
+u1355 [T1 R2 C1] 9-12.EC.1
+u1356 [T1 R2 C4] Apply and explain the concepts of supply and demand, scarcity, opportunity costs, and incentives, as well as their implications for decision-making.
+u1357 [T1 R2 C5] Apply and explain the concepts of supply and demand, scarcity, opportunity
+u1358 [T1 R3 C5] costs, and incentives, as well as their implications for decision-making.
+u1359 [T1 R4 C1] 9-12.EC.2
+u1360 [T1 R4 C4] Identify ways in which the interaction of all buyers and sellers influences prices.
+u1361 [T1 R5 C1] 9-12.EC.3
+u1362 [T1 R5 C4] Identify how incentives determine what is produced and distributed in a competitive market system.
+u1363 [T1 R6 C1] 9-12.EC.4
+u1364 [T1 R6 C4] Describe the factors of production.
+u1365 [T1 R7 C1] 9-12.EC.5
+u1366 [T1 R7 C4] Analyze the various parts of the business cycle and its effect on the economy.
+u1367 [T1 R8 C1] 9-12.EC.6
+u1368 [T1 R8 C4] Compare and contrast the characteristics of different economic systems and economic philosophies.
+u1369 Macroeconomics and International Trade
+u1370 [T2 R1 C2] Code
+u1371 [T2 R1 C5] Standard
+u1372 [T2 R2 C1] 9-12.EC.7
+u1373 [T2 R2 C4] Analyze the impact of events such as wars, industrialization, and technological developments on the business cycle.
+u1374 [T2 R3 C1] 9-12.EC.8
+u1375 [T2 R3 C4] Explain monetary policy, fiscal policy, and the role of the Federal Reserve.
+=== page 65 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 64]
+u1377 [T1 R1 C2] Code
+u1378 [T1 R1 C5] Standard
+u1379 [T1 R2 C1] 9-12.EC.9
+u1380 [T1 R2 C4] Examine the economic implications of fiscal policy in the United States including federal taxation, spending, and the national debt.
+u1381 [T1 R3 C1] 9-12.EC.10
+u1382 [T1 R3 C4] Analyze global economic interdependence and competition.
+u1383 [T1 R4 C1] 9-12.EC.11
+u1384 [T1 R4 C4] Apply economic concepts to explain the role of imports/exports both nationally and internationally.
+u1385 [T1 R5 C1] 9-12.EC.12
+u1386 [T1 R5 C4] Describe the elements of entrepreneurship and successful businesses including comparative advantage, specialization, and trade.
+u1387 [T1 R6 C1] 9-12.EC.13
+u1388 [T1 R6 C4] Identify the roles of financial markets and institutions on the economy.
+u1389 Personal Finance
+u1390 [T2 R1 C2] Code
+u1391 [T2 R1 C5] Standard
+u1392 [T2 R2 C1] 9-12.EC.14
+u1393 [T2 R2 C4] Demonstrate how to set financial goals and analyze the costs and benefits of spending decisions.
+u1394 [T2 R3 C1] 9-12.EC.15
+u1395 [T2 R3 C4] Demonstrate procedures for opening and managing checking and savings accounts, including writing checks, managing virtual accounts, and accessing statements.
+u1396 [T2 R4 C1] 9-12.EC.16
+u1397 [T2 R4 C4] Evaluate types of investments to determine how they meet the objectives of a personal financial plan including compound interest over time.
+u1398 [T2 R5 C1] 9-12.EC.17
+u1399 [T2 R5 C4] Research and analyze information on credit options available to consumers.
+u1400 [T2 R6 C1] 9-12.EC.18
+u1401 [T2 R6 C4] Demonstrate how to use comparison shopping skills to make purchasing decisions, including major purchases and college education.
+u1402 [T2 R7 C1] 9-12.EC.19
+u1403 [T2 R7 C4] Research and report on factors that affect creditworthiness and credit scores.
+u1404 [T2 R8 C1] 9-12.EC.20
+u1405 [T2 R8 C4] Describe how life, health, home, and auto insurance protects against loss and mitigates financial consequences.
+=== page 66 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 65]
+u1407 [T1 R1 C2] Code
+u1408 [T1 R1 C5] Standard
+u1409 [T1 R2 C1] 9-12.EC.21
+u1410 [T1 R2 C4] Analyze the federal, state, and local tax systems and how they relate to each citizen and the citizen's income and the society.
+u1411 [T1 R3 C1] 9-12.EC.22
+u1412 [T1 R3 C4] Explain how sales and property taxes affect financial decisions in terms of both personal finances and public services provided to citizens.
+u1413 [T1 R4 C1] 9-12.EC.23
+u1414 [T1 R4 C4] Build a monthly budget for an individual or a family given their income, savings goals, taxes, and list of fixed and variable expenses.
+u1415 [T1 R5 C1] 9-12.EC.24
+u1416 [T1 R5 C4] Identify and evaluate modern consumer skills, tools, and practices.
+=== page 67 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 66]
+u1418 CONTEXT
+u1419 As a part of the revisions to Social Studies, a committee of educators and subject matter experts from across the state came together to create a consistent set of content standards for a course in Western Civilization. These standards are now available for schools and districts that choose to offer it. The standards span from 800 BC to 1815 AD and focus on the foundations of Western Civilization, offering guidance on key ideas, events, and figures that shaped the modern Western world.
+u1420 Respectfully,
+u1421 The Foundations of Western Civilization Standards Committee
+u1422 Scott Arnold
+u1423 Monica Church
+u1424 Jim Francis
+u1425 Ralph Ginorio
+u1426 Vincent Kane
+u1427 Samuel Lair
+u1428 Karen Miller
+=== page 68 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 67]
+u1430 Foundations of Western Civilization 9-12
+u1431 Introduction to Study of Western Civilization
+u1432 [T1 R1 C2] Code
+u1433 [T1 R1 C5] Standard
+u1434 [T1 R2 C1] 9-12.WC.1
+u1435 [T1 R2 C4] Explain how geography influenced the development of Western Civilization
+u1436 [T1 R3 C1] 9-12.WC.2
+u1437 [T1 R3 C4] Explain how Western civilization is distinct from other cultures and civilizations and arose primarily from a synthesis of cultures, including, but not limited to classical Greco-Roman civilization, Judeo-Christian influence, and the cultures of northern European peoples.
+u1438 Ancient Greece (c. 800 BC – 150 BC)
+u1439 [T2 R1 C2] Code
+u1440 [T2 R1 C5] Standard
+u1441 [T2 R2 C1] 9-12.WC.3
+u1442 [T2 R2 C4] Examine the Hellenic concept of the polis in Greek city-states, including, but not limited to the ideas of democracy, citizenship, civic participation, and the rule of law.
+u1443 [T2 R3 C1] 9-12.WC.4
+u1444 [T2 R3 C4] Analyze the causes and consequences of the Persian and Peloponnesian Wars.
+u1445 [T2 R4 C1] 9-12.WC.5
+u1446 [T2 R4 C4] Analyze the contributions of Alexander the Great and the development of the Hellenistic world.
+u1447 [T2 R5 C1] 9-12.WC.6
+u1448 [T2 R5 C4] Explain the significance of ancient Greek literature, including, but not limited to the Iliad and the Odyssey.
+u1449 [T2 R6 C1] 9-12.WC.7
+u1450 [T2 R6 C4] Analyze the ideas of ancient Greek philosophers including but not limited to Socrates, Plato, Aristotle, and their impact on Western thought.
+=== page 69 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 68]
+u1452 Ancient Rome (c. 500 BC – 500 AD)
+u1453 [T1 R1 C2] Code
+u1454 [T1 R1 C5] Standard
+u1455 [T1 R2 C1] 9-12.WC.8
+u1456 [T1 R2 C4] Describe the government of the Roman Republic and its contribution to the development of modern democratic principles including, but not limited to separation of powers, rule of law, representative government, and civic duty.
+u1457 [T1 R3 C1] 9-12.WC.9
+u1458 [T1 R3 C4] Describe the class system of ancient Rome, including the role of patricians, plebeians, and slaves in Roman society.
+u1459 [T1 R4 C1] 9-12.WC.10
+u1460 [T1 R4 C4] Describe the causes and consequences of the Punic Wars on the development of the Roman Republic.
+u1461 [T1 R5 C1] 9-12.WC.11
+u1462 [T1 R5 C4] Describe the fall of the Roman Republic including, but not limited to the role of Julius Caesar taking the role of Dictator for Life.
+u1463 [T1 R6 C1] 9-12.WC.12
+u1464 [T1 R6 C4] Describe the causes and consequences of the establishment of the Roman Empire by the Julio-Claudians, including, but not limited to the role of Augustus Caesar.
+u1465 [T1 R7 C1] 9-12.WC.13
+u1466 [T1 R7 C4] Describe the process of Romanization and explain the characteristics of Pax Romana.
+u1467 [T1 R8 C1] 9-12.WC.14
+u1468 [T1 R8 C4] Analyze the reasons for the gradual decline of the Western Roman Empire after the Pax Romana.
+u1469 [T1 R9 C1] 9-12.WC.15
+u1470 [T1 R9 C4] Analyze the causes and consequences of Diocletian’s reforms and Constantine the Great's establishment of "New Rome" (Constantinople) and the recognition of Christianity as a legal religion.
+u1471 [T1 R10 C1] 9-12.WC.16
+u1472 [T1 R10 C4] Analyze the Hebrew tradition and its influence on Western Civilization.
+u1473 [T1 R11 C1] 9-12.WC.17
+u1474 [T1 R11 C4] Explain the expulsion of the Jewish people from their homeland and the subsequent Jewish diaspora.
+u1475 [T1 R12 C1] 9-12.WC.18
+u1476 [T1 R12 C4] Analyze the Hebrew and Classical origins and central features of early Christianity, including key people, texts, events, and major teachings.
+u1477 [T1 R13 C1] 9-12.WC.19
+u1478 [T1 R13 C4] Analyze the impact of Christianity on Classical culture and society and the formation of the Catholic Church.
+=== page 70 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 69]
+u1480 The Middle Ages (c. 330 AD – 1450 AD)
+u1481 [T1 R1 C2] Code
+u1482 [T1 R1 C5] Standard
+u1483 [T1 R2 C1] 9-12.WC.20
+u1484 [T1 R2 C4] Identify key figures of the Byzantine Empire, including but not limited to Justinian and Theodora, and explain their contributions to its history and culture.
+u1485 [T1 R3 C1] 9-12.WC.21
+u1486 [T1 R3 C4] Describe the orders of medieval social hierarchy, the changing role of the Church, the emergence of feudalism and the development of feudal obligations.
+u1487 [T1 R4 C1] 9-12.WC.22
+u1488 [T1 R4 C4] Explain the importance of Christian monasteries and convents as centers of education, missionary activity, economic productivity, and political power, including, but not limited to the contributions of St. Benedict and Pope Gregory the Great.
+u1489 [T1 R5 C1] 9-12.WC.23
+u1490 [T1 R5 C4] Identify key figures, artistic and intellectual achievements of the medieval period in Western Europe, (e.g. Thomas Aquinas, Hildegard von Bingen, Dante, Gothic architecture, scholasticism, etc.).
+u1491 [T1 R6 C1] 9-12.WC.24
+u1492 [T1 R6 C4] Explain how Charlemagne reshaped and redefined medieval Europe.
+u1493 [T1 R7 C1] 9-12.WC.25
+u1494 [T1 R7 C4] Explain the reintroduction of Classical thought from the Islamic World into Christendom.
+u1495 [T1 R8 C1] 9-12.WC.26
+u1496 [T1 R8 C4] Analyze the causes and consequences of the Crusades and Reconquista on Christian, Muslim, and Jewish populations.
+u1497 [T1 R9 C1] 9-12.WC.27
+u1498 [T1 R9 C4] Describe the emergence, tenets, and expansion of Islamic Civilization under the Caliphates.
+u1499 [T1 R10 C1] 9-12.WC.28
+u1500 [T1 R10 C4] Analyze the causes and consequences of the Norman Conquest of England.
+u1501 [T1 R11 C1] 9-12.WC.29
+u1502 [T1 R11 C4] Analyze the relationships between the Papacy and the European monarchs.
+u1503 [T1 R12 C1] 9-12.WC.30
+u1504 [T1 R12 C4] Explain key developments in medieval English legal and constitutional history, including the impact of the Magna Carta on limiting the monarch’s power, the development of a Parliament, establishing the rule of law, and securing the right to trial by jury.
+=== page 71 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 70]
+u1506 The Renaissance and Reformation (c. 1450 AD – 1600 AD)
+u1507 [T1 R1 C2] Code
+u1508 [T1 R1 C5] Standard
+u1509 [T1 R2 C1] 9-12.WC.31
+u1510 [T1 R2 C4] Explain humanism and describe how Thomas Aquinas’s writings influenced humanistic thought and fostered a balance between reason and faith.
+u1511 [T1 R3 C1] 9-12.WC.32
+u1512 [T1 R3 C4] Analyze the ideas of Renaissance and Northern humanism.
+u1513 [T1 R4 C1] 9-12.WC.33
+u1514 [T1 R4 C4] Analyze the significance of Renaissance art, including, but not limited to: • Leonardo da Vinci • Michelangelo • Brunelleschi • Raphael
+u1515 [T1 R5 C1] 9-12.WC.34
+u1516 [T1 R5 C4] Analyze Johannes Gutenberg’s printing press and its effect on society (e.g. growth of literacy and the dissemination of ideas).
+u1517 [T1 R6 C1] 9-12.WC.35
+u1518 [T1 R6 C4] Summarize religious reforms associated with key figures and movements, including, but not limited to Luther, Calvin, Zwingli, Henry VIII, John of Leyden, Ignatius of Loyola (Jesuits), and the Council of Trent, and analyze the effects of the Reformation and Counter-Reformation on Europe.
+u1519 [T1 R7 C1] 9-12.WC.36
+u1520 [T1 R7 C4] Analyze the causes and consequences of the fall of Constantinople.
+u1521 The Age of Discovery and Scientific Revolution (c. 1400 AD – 1700 AD)
+u1522 [T2 R1 C2] Code
+u1523 [T2 R1 C5] Standard
+u1524 [T2 R2 C1] 9-12.WC.37
+u1525 [T2 R2 C4] Analyze the Golden Age of the Tudor dynasty including, but not limited to Queen Elizabeth I, the works of William Shakespeare, the defeat of the Spanish Armada, and the rise of English power in Europe.
+u1526 [T2 R3 C1] 9-12.WC.38
+u1527 [T2 R3 C4] Analyze the causes and consequences of the Thirty Years’ War.
+u1528 [T2 R4 C1] 9-12.WC.39
+u1529 [T2 R4 C4] Analyze the causes and consequences of the Age of Discovery and the rise of European Empires.
+u1530 [T2 R5 C1] 9-12.WC.40
+u1531 [T2 R5 C4] Identify the major contributions of individuals associated with the Scientific Revolution, including, but not limited to Copernicus, Kepler, Galileo, Newton, Bacon, and Descartes.
+=== page 72 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 71]
+u1533 [T1 R1 C2] Code
+u1534 [T1 R1 C5] Standard
+u1535 [T1 R2 C1] 9-12.WC.41
+u1536 [T1 R2 C4] Analyze the causes and consequences of the English Civil War and the Glorious Revolution.
+u1537 The Enlightenment and the Age of Revolution (c. 1600 AD – 1815 AD)
+u1538 [T2 R1 C2] Code
+u1539 [T2 R1 C5] Standard
+u1540 [T2 R2 C1] 9-12.WC.42
+u1541 [T2 R2 C4] Identify the characteristics of Absolutism and Divine Right of Kings (e.g. Louis XIV, James I, Charles I).
+u1542 [T2 R3 C1] 9-12.WC.43
+u1543 [T2 R3 C4] Analyze the ideas and effects of the major ideas of Enlightenment philosophers including, but not limited to: • Thomas Hobbes • John Locke • Voltaire • Baron de Montesquieu • Jean-Jacques Rousseau • Adam Smith
+u1544 [T2 R4 C1] 9-12.WC.44
+u1545 [T2 R4 C4] Analyze the causes and consequences of the Second Agricultural Revolution and the early Industrial Revolution.
+u1546 [T2 R5 C1] 9-12.WC.45
+u1547 [T2 R5 C4] Analyze the extent to which the Enlightenment influenced the American and French Revolutions.
+u1548 [T2 R6 C1] 9-12.WC.46
+u1549 [T2 R6 C4] Analyze the major events of the French Revolution (e.g., storming of the Bastille, execution of Louis XVI, reign of terror), and trace the evolution of France’s government from constitutional monarchy to democratic despotism.
+u1550 [T2 R7 C1] 9-12.WC.47
+u1551 [T2 R7 C4] Analyze the causes and consequences of the Napoleonic Era.
+u1552 [T2 R8 C1] 9-12.WC.48
+u1553 [T2 R8 C4] Evaluate the significance of the Congress of Vienna and the Concert of Europe in reshaping Europe after the Napoleonic Wars.
+u1554 [T2 R9 C1] 9-12.WC.49
+u1555 [T2 R9 C4] Explain how the American republic emerged from the traditions of the West.
+=== page 73 === [running header: Idaho Social Studies Content Standards / Content and Curriculum / 72]
+u1557 For Questions Contact Content and Curriculum Melinda Schwieder, Coordinator Idaho Department of Education 650 W State Street, Boise, ID 83702 208 332 6800 | www.sde.idaho.gov

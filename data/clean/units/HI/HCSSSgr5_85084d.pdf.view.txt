@@ -1,0 +1,221 @@
+=== page 1 ===
+u1 GRADE 5
+u2 [T1 R1 C1] Anchor Standard
+u3 [T1 R1 C2] Grades 3-5 Inquiry Standards
+u4 [T1 R3 C1] The student demonstrates an understanding of
+u5 [T1 R3 C2] Therefore, the student is able to
+u6 [T1 R4 C1] Anchor Standard 1
+u7 [T1 R4 C2] Inquiry Standard SS.3-5.1.1 Construct compelling questions and explain the importance of the questions to self and others
+u8 [T1 R5 C1] Developing Questions and
+u9 [T1 R6 C1] Planning Inquiries
+u10 [T1 R6 C2] Inquiry Standard SS.3-5.1.2 Categorize questions according to the social studies disciplines
+u11 [T1 R8 C2] Inquiry Standard SS.3-5.1.3 Create supporting questions to help answer compelling questions
+u12 [T1 R9 C2] Inquiry Standard SS.3-5.1.4 Explain how supporting questions help answer compelling questions
+u13 [T1 R10 C1] Anchor Standard 2
+u14 [T1 R10 C2] Inquiry Standard SS.3-5.2.1 Determine whether a source is primarily fact or opinion
+u15 [T1 R11 C1] Gathering and Evaluating
+u16 [T1 R12 C1] Sources
+u17 [T1 R13 C2] Inquiry Standard SS.3-5.2.2 Determine whether a source is primary or secondary
+u18 [T1 R15 C2] Inquiry Standard SS.3-5.2.3 Gather relevant information from multiple sources that would be helpful in addressing compelling and supporting questions
+u19 [T1 R16 C1] Anchor Standard 3
+u20 [T1 R16 C2] Inquiry Standard SS.3-5.3.1 Develop claims in response to compelling questions
+u21 [T1 R17 C1] Creating Claims
+u22 [T1 R19 C2] Inquiry Standard SS.3-5.3.2 Identify specific evidence that supports the claims
+u23 [T1 R20 C1] Anchor Standard 4
+u24 [T1 R20 C2] Inquiry Standard SS.3-5.4.1 Construct arguments and explanations about classroom, school, or community issues and use relevant reasons to support the arguments
+u25 [T1 R21 C1] Communicating
+u26 [T1 R22 C1] Conclusions
+u27 [T1 R24 C2] Inquiry Standard SS.3-5.4.2 Respectfully ask and answer questions about the reasons others use in their arguments and explanations
+u28 [T1 R25 C2] Inquiry Standard SS.3-5.4.3 Present arguments and explanations using a variety of print, oral, and digital technologies
+=== page 2 ===
+u29 [T1 R1 C1] Anchor Standard 5
+u30 [T1 R1 C2] Inquiry Standard SS.3-5.5.1 Identify local, regional, or global problems or issues in various times and places
+u31 [T1 R2 C1] Taking Informed Action
+u32 [T1 R4 C2] Inquiry Standard SS.3-5.5.2 Explain different ways students could work individually or in collaboration with others (e.g., other students, teachers, community and/or global organizations) to address local, regional, or global problems or issues and predict possible results of their actions
+u33 [T1 R5 C2] Inquiry Standard SS.3-5.5.3 Use deliberative and democratic procedures (e.g., listening, consensus-building, voting) to identify ways to take action about local and/or regional problems or issues
+u34 [T1 R6 C2] Inquiry Standard SS.3-5.5.4 Show evidence of taking individual or group action on one or more problems or issues
+=== page 3 ===
+u35 [T1 R1 C1] Theme 1
+u36 [T1 R1 C2] Pre-Contact Native America
+u37 [T1 R3 C1] Sample Compelling
+u38 [T1 R3 C2] • How does place influence society? • Why did Native American societies have different cultures?
+u39 [T1 R4 C1] Questions
+u40 [T1 R6 C1] Anchor Standard
+u41 [T1 R6 C2] Topic
+u42 [T1 R6 C3] Content Standard
+u43 [T1 R6 C4] Sample Content/Concepts
+u44 [T1 R8 C1] The student demonstrates an understanding of
+u45 [T1 R8 C3] Therefore, the student is able to
+u46 [T1 R9 C1] Geography
+u47 [T1 R9 C2] Development of Societies
+u48 [T1 R9 C3] Content Standard SS.5.1.14.1 Explain how the geography of North America shaped the development of Native American societies
+u49 [T1 R9 C4] • Regions: Great Basin, Great Plains, Northeast, Northwest, Pacific Coast, Pacific Northwest, South, Southwest • Geographic Features: climate, fauna, flora, landforms, water • Cultural Elements: clothing, farming, fishing, gathering, housing, hunting, tools
+u50 [T1 R10 C1] Anchor Standard 14
+u51 [T1 R11 C1] Human-Environment
+u52 [T1 R12 C1] Interaction: Place,
+u53 [T1 R13 C1] Regions and Culture
+u54 [T1 R15 C1] History
+u55 [T1 R15 C2] Elements of Societies
+u56 [T1 R15 C3] Content Standard SS.5.1.17.2 Compare elements of culture in early Native American societies
+u57 [T1 R15 C4] • Native American Societies: Paiute (Great Basin), Wampanoag (Northeast), Nez Perce (Northwest), Dakotah (Great Plains), Pomo (Pacific Coast), Inuit (Pacific Northwest), Cherokee (South), Pueblo (Southwest) • Cultural Elements: family, gender, government, labor, relationship to land, religion
+u58 [T1 R16 C1] Anchor Standard 17
+u59 [T1 R17 C1] Change, Continuity,
+u60 [T1 R18 C1] and Context
+=== page 4 ===
+u61 [T1 R1 C1] Theme 2
+u62 [T1 R1 C2] Contact and Conflict: 1500–1700
+u63 [T1 R3 C1] Sample Compelling
+u64 [T1 R3 C2] • Why do people explore? • How should we commemorate the discovery of the New World?
+u65 [T1 R4 C1] Questions
+u66 [T1 R6 C1] Anchor Standard
+u67 [T1 R6 C2] Topic
+u68 [T1 R6 C3] Content Standard
+u69 [T1 R6 C4] Sample Content/Concepts
+u70 [T1 R8 C1] The student demonstrates an understanding of
+u71 [T1 R8 C3] Therefore, the student is able to
+u72 [T1 R9 C1] History
+u73 [T1 R9 C2] Causes of Exploration
+u74 [T1 R9 C3] Content Standard SS.5.2.19.1 Compare motivations of European powers in the exploration and conquest of the New World
+u75 [T1 R9 C4] • European Countries: England (John Cabot, Walter Raleigh), France (Robert de La Salle, Jacques Cartier), Holland (Henry Hudson), Portugal (Juan Rodrigues Cabrillo), Spain (Cabeza de Vaca, Columbus, Juan de Onate, Ponce de Leon) • Motivations: discovery, power, religion, trade, wealth
+u76 [T1 R10 C1] Anchor Standard 19
+u77 [T1 R11 C1] Causation and
+u78 [T1 R12 C1] Argumentation
+u79 [T1 R14 C1] History
+u80 [T1 R14 C2] Adaptation and Cultural Exchange
+u81 [T1 R14 C3] Content Standard SS.5.2.19.2 Analyze the impact of European discovery and settlement on Native Americans
+u82 [T1 R14 C4] • Social and Economic Impacts: introduced diseases, new foods, new animals (e.g., cattle, horses, pigs), depopulation, spiritual crisis and Christianization, enslavement of indigenous peoples, trade and warfare • Political Impact: Powhatan Confederacy and wars with Powhatans in Virginia, Iroquois federation, King Philip’s War, Pontiac’s Rebellion
+u83 [T1 R15 C1] Anchor Standard 19
+u84 [T1 R16 C1] Causation and
+u85 [T1 R17 C1] Argumentation
+=== page 5 ===
+u86 [T1 R1 C1] Theme 3
+u87 [T1 R1 C2] Establishment of European Colonies: 1500–1700
+u88 [T1 R3 C1] Sample Compelling
+u89 [T1 R3 C2] • What happened to the lost colony of Roanoke? • What makes a colony succeed?
+u90 [T1 R4 C1] Questions
+u91 [T1 R7 C1] Anchor Standard
+u92 [T1 R7 C2] Topic
+u93 [T1 R7 C3] Content Standard
+u94 [T1 R7 C4] Sample Content/Concepts
+u95 [T1 R9 C1] The student demonstrates an understanding of
+u96 [T1 R9 C3] Therefore, the student is able to
+u97 [T1 R10 C1] Geography
+u98 [T1 R10 C2] European Colonies
+u99 [T1 R10 C3] Content Standard SS.5.3.15.1 Analyze how European culture influenced the development of settlements in North America
+u100 [T1 R10 C4] • French: subject to king, traders, missionaries, Catholic, built relationships with Native Americans • Spanish: subject to king, traders, soldiers and missionaries, Catholic, wanted to convert Native Americans, incorporated Native American laborers • English: established local government, settlers, farmers and indentured servants, non-Catholics, wanted a purely settler society, migration pressures • Dutch: charters, trade agreements with Native Americans, fur traders, explorers, Mennonites, Dutch Reformed Church
+u101 [T1 R11 C1] Anchor Standard 15
+u102 [T1 R12 C1] Human Population:
+u103 [T1 R13 C1] Spatial Patterns and
+u104 [T1 R14 C1] Movements
+u105 [T1 R16 C1] Civics
+u106 [T1 R16 C2] Early Governance
+u107 [T1 R16 C3] Content Standard SS.5.3.8.2 Explain the role of government in the establishment of early English settlements
+u108 [T1 R16 C4] • Settlements: Jamestown, Plymouth, The Lost Colony of Roanoke • Governance: House of Burgesses, Mayflower Compact, The Fundamental Orders of Connecticut, William Bradford, John Rolfe, John Smith
+u109 [T1 R17 C1] Anchor Standard 8
+u110 [T1 R18 C1] Processes, Rules and
+u111 [T1 R19 C1] Laws
+u112 [T1 R21 C1] History
+u113 [T1 R21 C2] Religious Tolerance and Intolerance
+u114 [T1 R21 C3] Content Standard SS.5.3.18.3 Explain the role religion played in early colonial society
+u115 [T1 R21 C4] • Dominance of Protestantism in Colonial Society: Puritans, Quakers, Anglicans, Separatists • Religious Persecution in New England: attacks on Quakers, dissenters, native religion • Events and Individuals: John Winthrop, Roger Williams, Salem Witch Trials, William Penn, Anne Hutchinson, Anti-Catholic rituals such as Pope’s Day
+u116 [T1 R22 C1] Anchor Standard 18
+u117 [T1 R23 C1] Perspectives
+=== page 6 ===
+u118 [T1 R1 C1] Theme 4
+u119 [T1 R1 C2] Slavery and Freedom in Colonial America: 1600–1800
+u120 [T1 R3 C1] Sample Compelling
+u121 [T1 R3 C2] • What does it mean to be free? • Why was slavery supported in the colonies?
+u122 [T1 R4 C1] Questions
+u123 [T1 R7 C1] Anchor Standard
+u124 [T1 R7 C2] Topic
+u125 [T1 R7 C3] Content Standard
+u126 [T1 R7 C4] Sample Content/Concepts
+u127 [T1 R9 C1] The student demonstrates an understanding of
+u128 [T1 R9 C3] Therefore, the student is able to
+u129 [T1 R10 C1] Geography
+u130 [T1 R10 C2] Slave Trade and the Atlantic World
+u131 [T1 R10 C3] Content Standard SS.5.4.15.1 Explain the system and impact of the transatlantic slave trade
+u132 [T1 R10 C4] • Slave Trade: Guinea Coast (Slave Coast), Middle Passage, treatment, ships • Triangular Trade: Africa (enslaved people), Western Europe (guns, spirits, ironwear, ammunition), West Indies and Colonial America (agricultural goods, sugar, spices, cotton, tobacco) • Impact: dehumanization, depopulation, economic development, trade, warfare
+u133 [T1 R11 C1] Anchor Standard 15
+u134 [T1 R12 C1] Human Population:
+u135 [T1 R13 C1] Spatial Patterns and
+u136 [T1 R14 C1] Movements
+u137 [T1 R16 C1] Economics
+u138 [T1 R16 C2] Labor Systems
+u139 [T1 R16 C3] Content Standard SS.5.4.10.2 Compare labor systems and their socioeconomic impact on Colonial America
+u140 [T1 R16 C4] • Labor Systems: free labor, indentured servitude, slavery, slave societies, trade routes • Commodities: African captives, cod, gunpowder, iron, molasses, rice, rum tobacco
+u141 [T1 R17 C1] Anchor Standard 10
+u142 [T1 R18 C1] Exchange and
+u143 [T1 R19 C1] Markets
+u144 [T1 R21 C1] History
+u145 [T1 R21 C2] Life of Enslaved People
+u146 [T1 R21 C3] Content Standard SS.5.4.18.3 Draw conclusions about the lives of enslaved people in the American colonies
+u147 [T1 R21 C4] • Culture: African culture vs. slave culture of the New World, mixture and adaptation, slave society in 17th and 18th century Chesapeake, banjo, foods, religion, slave families, spirituals • Resistance and Repression: escape, New York Uprising, patrols, slave codes, Stono Rebellion
+u148 [T1 R22 C1] Anchor Standard 18
+u149 [T1 R23 C1] Perspectives
+=== page 7 ===
+u150 [T1 R1 C1] Theme 5
+u151 [T1 R1 C2] Transformation of Colonial America: 1700–1750
+u152 [T1 R3 C1] Sample Compelling
+u153 [T1 R3 C2] • To what extent were the American colonies free? • Does growth of the economy mean a better life for everyone?
+u154 [T1 R4 C1] Questions
+u155 [T1 R6 C1] Anchor Standard
+u156 [T1 R6 C2] Topic
+u157 [T1 R6 C3] Content Standard
+u158 [T1 R6 C4] Sample Content/Concepts
+u159 [T1 R8 C1] The student demonstrates an understanding of
+u160 [T1 R8 C3] Therefore, the student is able to
+u161 [T1 R9 C1] Geography
+u162 [T1 R9 C2] Regions of English Colonial America
+u163 [T1 R9 C3] Content Standard SS.5.5.15.1 Draw conclusions about how the physical geography of the New England, Mid-Atlantic, and Southern colonies shaped the development of their unique economies
+u164 [T1 R9 C4] • Geography: New England (mountains, thick trees, shipbuilding, long cold winters), Mid-Atlantic (piedmont, coastal plains, temperate, warm summers, cold winters), Southern (fertile soil, hilly coastal plains, swamps, hot summers, mild winters) • New England: fish, fur, lumber, molasses • Mid-Atlantic: barley, oats, rye, wheat • Southern Colonies: indigo, rice, tar, tobacco
+u165 [T1 R10 C1] Anchor Standard 15
+u166 [T1 R11 C1] Human Population:
+u167 [T1 R12 C1] Spatial Patterns and
+u168 [T1 R13 C1] Movements
+u169 [T1 R15 C1] History
+u170 [T1 R15 C2] Women in Colonial America
+u171 [T1 R15 C3] Content Standard SS.5.5.18.2 Explain the roles of women in Colonial America
+u172 [T1 R15 C4] • Law: importance of women’s work to family economy, inheritance rights, property rights, suffrage • Diversity: elite women, indentured servants, native women, slaves • Women: Abigail Adams, Esther Reed, Martha Ballard, Martha Washington, Mercy Otis Warren, Molly Pitcher, Phyllis Wheatley, Sarah Bache • Childbirth and Maternity: women as midwives
+u173 [T1 R16 C1] Anchor Standard 18
+u174 [T1 R17 C1] Perspectives
+=== page 8 ===
+u175 [T1 R1 C1] Theme 6
+u176 [T1 R1 C2] American Revolution: 1750–1800
+u177 [T1 R3 C1] Sample Compelling
+u178 [T1 R3 C2] • Are all people equal? • Were the colonists patriots?
+u179 [T1 R4 C1] Questions
+u180 [T1 R6 C1] Anchor Standard
+u181 [T1 R6 C2] Topic
+u182 [T1 R6 C3] Content Standard
+u183 [T1 R6 C4] Sample Content/Concepts
+u184 [T1 R8 C1] The student demonstrates an understanding of
+u185 [T1 R8 C3] Therefore, the student is able to
+u186 [T1 R9 C1] History
+u187 [T1 R9 C2] Road to Revolution
+u188 [T1 R9 C3] Content Standard SS.5.6.19.1 Analyze how economic and political conflicts between the colonies and England led to the American Revolution
+u189 [T1 R9 C4] • Economic: colonial prosperity, efforts to regulate trade with Stamp and Townshend Acts, growth of commerce and markets, trade and the Atlantic economy • Political: Stamp Act Congress, Coercive Acts, Continental Congress, committees of correspondents, non-importation movements, newspapers and communication, Paine and Common Sense, growth of a sense of British identity, demands for the “Rights of Englishmen” and more colonial political authority, Republican ideas about virtue, power, and corruption • Conflicts: Seven Years War, Boston Tea Party, Boston Massacre, Sons of Liberty, Battle of Bunker Hill, Lexington and Concord
+u190 [T1 R10 C1] Anchor Standard 19
+u191 [T1 R11 C1] Causation and
+u192 [T1 R12 C1] Argumentation
+u193 [T1 R14 C1] Civics
+u194 [T1 R14 C2] Nations and Independence
+u195 [T1 R14 C3] Content Standard SS.5.6.7.2 Explain how principles in the Declaration of Independence became unifying ideas of American democracy
+u196 [T1 R14 C4] • Principles of Declaration: ‘all men are created equal’, ‘inalienable rights’, ‘government deriving their just powers from the consent of the governed’, ‘right of the people to alter or to abolish it’ • Ideas of American Democracy: challenge an unjust government, life, liberty, pursuit of happiness, no kings, popular sovereignty
+u197 [T1 R15 C1] Anchor Standard 7
+u198 [T1 R16 C1] Civic Virtues and
+u199 [T1 R17 C1] Democratic Principles
+=== page 9 ===
+u200 [T1 R1 C1] History
+u201 [T1 R1 C2] Revolutionary War
+u202 [T1 R1 C3] Content Standard SS.5.6.19.3 Explain the significance of key battles, alliances, and people on the outcome of the Revolutionary War
+u203 [T1 R1 C4] • Key Battles: Lexington and Concord, Cowpens, Boston, New York, Trenton/Princeton, Saratoga, Yorktown • Key Alliances: French, Spanish, Prussia • Key Figures: Cornwallis, Howe brothers, Lafayette, Washington
+u204 [T1 R2 C1] Anchor Standard 19
+u205 [T1 R3 C1] Causation and
+u206 [T1 R4 C1] Argumentation
+u207 [T1 R6 C1] History
+u208 [T1 R6 C2] Diversity of Participants
+u209 [T1 R6 C3] Content Standard SS.5.6.18.4 Compare diverse perspectives of participants during the Revolutionary War
+u210 [T1 R6 C4] • Participants: Black support for British army, Native Americans (Iroquois Confederacy, French and Indian War), the role of women in the war (Mrs. Davi Wright’s Guard, Deborah Sampson), slaves (Dunmore’s Declaration, liberty petitions) and slave flight • Perspectives: loyalists, neutral, patriots
+u211 [T1 R7 C1] Anchor Standard 18
+u212 [T1 R8 C1] Perspectives

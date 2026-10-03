@@ -1,0 +1,24 @@
+{
+  "state": "AR",
+  "file": "AR_Sociology_Standards_2022_LS.pdf",
+  "structure": "Single HS course document (Sociology, 0.5 credit, grades 9-12). Front matter: course info, Course Focus and Content, Integrating Standards, Related Laws, Skills and Application, Disciplinary Literacy, C3 Dimensions 1/3/4 numbered skills (K-12), Dimension 2 table, K-12 Disciplinary Standards Overview, At a Glance tables (strand SS, standard SS.2, components), Disciplinary Note. Then KPE pages: SS.2 statement repeated at the top of each component, component headings (Sociological Perspectives and Methods of Inquiry, Social Structure, Social Relationships, Stratification and Inequality), KPEs coded SS.2.SOC.n.",
+  "labels": [
+    {"units": "u2-u5", "grades": "9-12", "course": null, "cat": "backup", "section": "Cover and course info"},
+    {"units": "u8", "grades": "9-12", "course": "Sociology", "cat": "examples", "section": "Course Focus and Content narrative"},
+    {"units": "u9-u11", "grades": "9-12", "course": null, "cat": "backup", "section": "Integrating standards, figure, related laws"},
+    {"units": "u17-u18", "grades": "9-12", "course": null, "cat": "backup", "section": "Skills and application; disciplinary literacy"},
+    {"units": "u24-u25", "grades": "9-12", "course": null, "cat": "backup", "section": "C3 Framework explanation"},
+    {"units": "u26-u35", "grades": "9-12", "course": null, "cat": "standards", "section": "C3 Dimensions 1, 3, 4 inquiry skills"},
+    {"units": "u36-u47", "grades": "9-12", "course": null, "cat": "backup", "section": "Dimension 2 disciplinary concepts table"},
+    {"units": "u53-u61", "grades": "9-12", "course": null, "cat": "standards", "section": "K-12 Disciplinary Standards Overview"},
+    {"units": "u67-u71", "grades": "9-12", "course": null, "cat": "backup", "section": "At a Glance table headings"},
+    {"units": "u72-u75", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "At a Glance: Social Science SS.2 and Sociology components"},
+    {"units": "u76-u85", "grades": "9-12", "course": null, "cat": "backup", "section": "Disciplinary Note and embedded strand components"},
+    {"units": "u92-u100", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "SS.2 > Sociological Perspectives and Methods of Inquiry > SS.2.SOC.1-5"},
+    {"units": "u102-u108", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "SS.2 > Social Structure > SS.2.SOC.6-8"},
+    {"units": "u114-u115", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "SS.2 > Social Structure > SS.2.SOC.9-10"},
+    {"units": "u117-u124", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "SS.2 > Social Relationships > SS.2.SOC.11-14"},
+    {"units": "u131-u137", "grades": "9-12", "course": "Sociology", "cat": "standards", "section": "SS.2 > Stratification and Inequality > SS.2.SOC.15, 17, 18"}
+  ],
+  "issues": ["SS.2.SOC.16 is absent from the document (numbering jumps 15 to 17).", "K-12 overview and C3 skills labeled course null grades 9-12 (shared HS content)."]
+}

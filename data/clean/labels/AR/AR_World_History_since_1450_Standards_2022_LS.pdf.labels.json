@@ -1,0 +1,152 @@
+{
+ "state": "AR",
+ "file": "AR_World_History_since_1450_Standards_2022_LS.pdf",
+ "structure": "Single HS course document (World History Since 1450, 1 credit, grades 9-12). Same front matter as other AR HS courses. At a Glance: History H.6 with World Era 6-9 components. KPE pages: H.6 statement, World Era line, KPEs coded H.6.WH.n; lists after a colon are part of the KPE; 'This may include' blocks are examples.",
+ "labels": [
+  {
+   "units": "u1-u6",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and course info"
+  },
+  {
+   "units": "u8",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u9-u11",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u15-u16",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u20-u21",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u22-u31",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u32-u43",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u47-u55",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u59-u63",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u64-u74",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "At a Glance: History H.6, World Eras 6-9 components"
+  },
+  {
+   "units": "u75-u82",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u86-u90",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "KPE table column headings"
+  },
+  {
+   "units": "u92-u102",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "History > H.6 > World Era 6 > H.6.WH.1-5"
+  },
+  {
+   "units": "u106-u117",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "History > H.6 > World Era 6/7 > H.6.WH.6-11"
+  },
+  {
+   "units": "u118-u119",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "examples",
+   "section": "H.6.WH.11 may include list"
+  },
+  {
+   "units": "u123-u124",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "H.6.WH.12-13"
+  },
+  {
+   "units": "u125",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "examples",
+   "section": "H.6.WH.13 may include"
+  },
+  {
+   "units": "u126-u149",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "History > H.6 > World Era 7/8 > H.6.WH.14-28"
+  },
+  {
+   "units": "u154-u165",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "History > H.6 > World Era 9 > H.6.WH.29-32"
+  },
+  {
+   "units": "u169-u171",
+   "grades": "9-12",
+   "course": "World History since 1450",
+   "cat": "standards",
+   "section": "H.6.WH.33-35"
+  }
+ ],
+ "issues": [
+  "u164-u165 (H.6.WH.32) bulleted list duplicates the H.6.WH.31 list (Disease, Famine, ...), likely a source error; kept as standards.",
+  "u86-u90 is a stray KPE table heading row (Disciplinary Strand/Standard/Component/Grade/KPE); labeled backup.",
+  "K-12 overview and C3 skills labeled course null grades 9-12 (shared HS content)."
+ ]
+}

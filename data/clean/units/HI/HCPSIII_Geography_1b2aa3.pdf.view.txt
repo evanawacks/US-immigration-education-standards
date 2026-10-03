@@ -1,0 +1,234 @@
+=== page 1 ===
+u1 Content Area: Social Studies Grade/Course: Geography / ACCN: No ACCN
+u2 [T1 R1 C1] Strand
+u3 [T1 R1 C2] Geography
+u4 [T1 R2 C1] 1
+u5 [T2 R1 C1] Topic
+u6 [T2 R1 C2] Spatial Organization, Dynamics, and Interaction
+u7 [T2 R2 C1] Benchmark
+u8 [T2 R2 C2] Describe the relative location, size of, and distances among significant
+u9 [T2 R3 C1] SS.12G.1.1
+u10 [T2 R3 C2] physical features and their relationship to political features
+u11 [T2 R4 C1] Sample Performance
+u12 [T2 R4 C2] The student: Describes significant physical features (such as bodies of water, mountain ranges) that are related to current disputes about political boundaries (e.g., disputes about fishing rights or territorial ownership).
+u13 [T2 R5 C1] Assessment (SPA)
+u14 [T2 R7 C1] Rubric
+u15 [T2 R8 C1] Advanced
+u16 [T2 R8 C2] Proficient
+u17 [T2 R8 C3] Partially Proficient
+u18 [T2 R8 C4] Novice
+u19 [T2 R9 C1] Describe the relative location, size of, and distances among significant physical features and their relationship to political features, with no erros
+u20 [T2 R9 C2] Describe the relative location, size of, and distances among significant physical features and their relationship to political features, with no significant errors
+u21 [T2 R9 C3] Describe the relative location, size of, and distances among significant physical features and their relationship to political features, with a few significant errors
+u22 [T2 R9 C4] Ineffectively describe the relative location, size of, and distances among significant physical features and their relationship to political features
+u23 [T3 R1 C1] Topic
+u24 [T3 R1 C2] Spatial Organization, Dynamics, and Interaction
+u25 [T3 R2 C1] Benchmark
+u26 [T3 R2 C2] Explain different patterns of land use (e.g., land use in urban, suburban,
+u27 [T3 R3 C1] SS.12G.1.2
+u28 [T3 R3 C2] and rural areas)
+u29 [T3 R4 C1] Sample Performance
+u30 [T3 R4 C2] The student: Summarizes the patterns of land use that remain consistent regardless of cultural or economic differences (e.g., how urban areas are often situated on land near river confluences or rich natural resources).
+u31 [T3 R5 C1] Assessment (SPA)
+u32 [T3 R7 C1] Rubric
+u33 [T3 R8 C1] Advanced
+u34 [T3 R8 C2] Proficient
+u35 [T3 R8 C3] Partially Proficient
+u36 [T3 R8 C4] Novice
+u37 [T3 R9 C1] Analyze different patterns of land use (e.g., land use in urban, suburban, and rural areas)
+u38 [T3 R9 C2] Explain different patterns of land use (e.g., land use in urban, suburban, and rural areas)
+u39 [T3 R9 C3] Describe different patterns of land use (e.g., land use in urban, suburban, and rural areas)
+u40 [T3 R9 C4] Identify different patterns of land use (e.g., land use in urban, suburban, and rural areas)
+u41 [T3 R10 C1] Strand
+u42 [T3 R10 C3] Geography
+u43 [T3 R11 C1] 2
+u44 [T4 R1 C1] Topic
+u45 [T4 R1 C2] Nature of Regions
+u46 [T4 R2 C2] Describe factors that contribute to the dynamic nature of regions (e.g.,
+u47 [T4 R3 C1] Benchmark
+u48 [T4 R3 C2] human influences such as migration, technology, and economic
+u49 [T4 R4 C1] SS.12G.2.1
+u50 [T4 R4 C2] development; physical influences such as environmental change and
+u51 [T4 R5 C2] ecosystem dynamics)
+u52 [T4 R6 C1] Sample Performance
+u53 [T4 R6 C2] The student: Selects a region of the world currently undergoing rapid change and identifies the significant natural, technological, or economic forces that drive this change.
+u54 [T4 R7 C1] Assessment (SPA)
+u55 [T4 R9 C1] Rubric
+=== page 2 ===
+u56 [T1 R1 C1] Advanced
+u57 [T1 R1 C2] Proficient
+u58 [T1 R1 C3] Partially Proficient
+u59 [T1 R1 C4] Novice
+u60 [T1 R2 C1] Describe factors that contribute to the dynamic nature of regions using relevant and insightful examples supported by clear and precise details
+u61 [T1 R2 C2] Describe factors that contribute to the dynamic nature of regions, using relevant examples
+u62 [T1 R2 C3] Describe factors that contribute to the dynamic nature of regions using partially relevant examples
+u63 [T1 R2 C4] Ineffectively describe factors that contribute to the dynamic nature of regions
+u64 [T2 R1 C1] Topic
+u65 [T2 R1 C2] Nature of Regions
+u66 [T2 R2 C2] Describe why places and regions are important to individual human
+u67 [T2 R3 C1] Benchmark
+u68 [T2 R4 C2] identity and as symbols for unifying or fragmenting society (e.g., physical
+u69 [T2 R5 C1] SS.12G.2.2
+u70 [T2 R6 C2] and symbolic characteristics of places, effects of climate on culture)
+u71 [T2 R8 C1] Sample Performance
+u72 [T2 R8 C2] The student: Explains the connections between a student-selected culture and its traditional location.
+u73 [T2 R9 C1] Assessment (SPA)
+u74 [T2 R10 C1] Rubric
+u75 [T2 R11 C1] Advanced
+u76 [T2 R11 C2] Proficient
+u77 [T2 R11 C3] Partially Proficient
+u78 [T2 R11 C4] Novice
+u79 [T2 R12 C1] Describe, with clear and precise detail, why places and regions are important to individual human identity and as symbols for unifying or fragmenting society
+u80 [T2 R12 C2] Describe, with detail, why places and regions are important to individual human identity and as symbols for unifying or fragmenting society
+u81 [T2 R12 C3] Describe, with minimal detail, why places and regions are important to individual human identity and as symbols for unifying or fragmenting society
+u82 [T2 R12 C4] Ineffectively describe why places and regions are important to individual human identity and as symbols for unifying or fragmenting society
+u83 [T2 R13 C1] Strand
+u84 [T2 R13 C3] Geography
+u85 [T2 R14 C1] 3
+u86 [T3 R1 C1] Topic
+u87 [T3 R1 C2] Physical Systems
+u88 [T3 R2 C2] Explain ecosystems in terms of their biodiversity and productivity (e.g.,
+u89 [T3 R3 C1] Benchmark
+u90 [T3 R4 C2] food chains, plant and animal communities, grasslands, forests, deserts,
+u91 [T3 R5 C1] SS.12G.3.1
+u92 [T3 R6 C2] tundra, wetlands, coral reefs)
+u93 [T3 R8 C1] Sample Performance
+u94 [T3 R8 C2] The student: Illustrates through pictures and/or words the complex relationships in a chosen ecosystem.
+u95 [T3 R9 C1] Assessment (SPA)
+u96 [T3 R10 C1] Rubric
+u97 [T3 R11 C1] Advanced
+u98 [T3 R11 C2] Proficient
+u99 [T3 R11 C3] Partially Proficient
+u100 [T3 R11 C4] Novice
+u101 [T3 R12 C1] Compare ecosystems in terms of their biodiversity and productivity
+u102 [T3 R12 C2] Explain ecosystems in terms of their biodiversity and productivity
+u103 [T3 R12 C3] Describe ecosystems in terms of their biodiversity and productivity
+u104 [T3 R12 C4] Recognize ecosystems in terms of their biodiversity and productivity
+u105 [T3 R13 C1] Strand
+u106 [T3 R13 C3] Geography
+u107 [T3 R14 C1] 4
+u108 [T4 R1 C1] Topic
+u109 [T4 R1 C2] Human Systems
+u110 [T4 R2 C2] Investigate the physical characteristics of urban areas (e.g., size,
+u111 [T4 R3 C1] Benchmark
+u112 [T4 R4 C2] structure, arrangement) and how those characteristics have changed over
+u113 [T4 R5 C1] SS.12G.4.1
+u114 [T4 R6 C2] time
+=== page 3 ===
+u115 [T1 R1 C1] Sample Performance
+u116 [T1 R1 C2] The student: Hypothesizes how a selected urban area has changed over time, then confirms or disconfirms the hypothesis through an historical investigation.
+u117 [T1 R2 C1] Assessment (SPA)
+u118 [T1 R4 C1] Rubric
+u119 [T1 R5 C1] Advanced
+u120 [T1 R5 C2] Proficient
+u121 [T1 R5 C3] Partially Proficient
+u122 [T1 R5 C4] Novice
+u123 [T1 R6 C1] Investigate the characteristics of urban areas and how those characteristics have changed over time, drawing relevant conclusions supported by clear and precise details
+u124 [T1 R6 C2] Investigate the characteristics of urban areas and how those characteristics have changed over time, drawing relevant conclusions
+u125 [T1 R6 C3] Investigate the characteristics of urban areas and how those characteristics have changed over time, drawing partially relevant conclusions
+u126 [T1 R6 C4] Ineffectively investigate the characteristics of urban areas and how those characteristics have changed over time
+u127 [T2 R1 C1] Topic
+u128 [T2 R1 C2] Human Systems
+u129 [T2 R2 C2] Assess the impact of human migration on physical and human systems
+u130 [T2 R3 C1] Benchmark
+u131 [T2 R4 C2] (e.g., effects on ecosystems, resource use, and economic development;
+u132 [T2 R5 C1] SS.12G.4.2
+u133 [T2 R6 C2] effects on population characteristics such as religion and average age)
+u134 [T2 R8 C1] Sample Performance
+u135 [T2 R8 C2] The student: Chooses a specific instance of human migration to study and compares statistics about the area before and after.
+u136 [T2 R9 C1] Assessment (SPA)
+u137 [T2 R10 C1] Rubric
+u138 [T2 R11 C1] Advanced
+u139 [T2 R11 C2] Proficient
+u140 [T2 R11 C3] Partially Proficient
+u141 [T2 R11 C4] Novice
+u142 [T2 R12 C1] Assess the impact of human migration on physical and human systems, drawing relevant and strongly supported conclusions
+u143 [T2 R12 C2] Assess the impact of human migration on physical and human systems, drawing relevant conclusions
+u144 [T2 R12 C3] Assess the impact of human migration on physical and human systems, drawing partially relevant conclusions
+u145 [T2 R12 C4] Ineffectively assess the impact of human migration on physical and human systems
+u146 [T3 R1 C1] Topic
+u147 [T3 R1 C2] Human Systems
+u148 [T3 R2 C2] Assess the physical and human impact of emerging urban forms in the
+u149 [T3 R3 C1] Benchmark
+u150 [T3 R4 C2] present-day world (e.g., megalopolis or edge cities, metropolitan corridors,
+u151 [T3 R5 C1] SS.12G.4.3
+u152 [T3 R6 C2] transportation technology, ethnic enclaves)
+u153 [T3 R8 C1] Sample Performance
+u154 [T3 R8 C2] The student: Compares and contrasts two or more distinct urban areas by examining each area s major characteristics.
+u155 [T3 R9 C1] Assessment (SPA)
+u156 [T3 R10 C1] Rubric
+u157 [T3 R11 C1] Advanced
+u158 [T3 R11 C2] Proficient
+u159 [T3 R11 C3] Partially Proficient
+u160 [T3 R11 C4] Novice
+u161 [T3 R12 C1] Assess the physical and human impact of emerging urban forms in the present-day world, drawing relevant conclusions supported by clear and precise details
+u162 [T3 R12 C2] Assess the physical and human impact of emerging urban forms in the present-day world, drawing relevant conclusions
+u163 [T3 R12 C3] Describe the physical and human impact of emerging urban forms in the present-day world, drawing partially relevant conclusions
+u164 [T3 R12 C4] Ineffectively assess the physical and human impact of emerging urban forms in the present-day world
+u165 [T3 R13 C1] Strand
+u166 [T3 R13 C3] Geography
+u167 [T3 R14 C1] 5
+=== page 4 ===
+u168 [T1 R1 C1] Topic
+u169 [T1 R1 C2] Interaction and Influences
+u170 [T1 R2 C1] Benchmark
+u171 [T1 R2 C2] Describe contemporary issues in terms of Earth s physical and human
+u172 [T1 R3 C1] SS.12G.5.1
+u173 [T1 R3 C2] systems
+u174 [T1 R4 C1] Sample Performance
+u175 [T1 R4 C2] The student: Explains the interaction of physical and human systems, (e.g., how current climatic processes affect settlement and migration patterns or how human activity can negatively impact physical systems, such as producing acid rain).
+u176 [T1 R5 C1] Assessment (SPA)
+u177 [T1 R7 C1] Rubric
+u178 [T1 R8 C1] Advanced
+u179 [T1 R8 C2] Proficient
+u180 [T1 R8 C3] Partially Proficient
+u181 [T1 R8 C4] Novice
+u182 [T1 R9 C1] Describe, with clear and precise detail, contemporary issues in terms of Earth s physical and human systems
+u183 [T1 R9 C2] Describe, with detail, contemporary issues in terms of Earth s physical and human systems
+u184 [T1 R9 C3] Describe, with minimal detail, contemporary issues in terms of Earth s physical and human systems
+u185 [T1 R9 C4] Ineffectively describe contemporary issues in terms of Earth s physical and human systems
+u186 [T2 R1 C1] Topic
+u187 [T2 R1 C2] Interaction and Influences
+u188 [T2 R2 C2] Explain the ways in which technology influences the human capacity to
+u189 [T2 R3 C1] Benchmark
+u190 [T2 R3 C2] modify the physical environment (e.g., fossil fuels, diesel machinery, steel
+u191 [T2 R4 C1] SS.12G.5.2
+u192 [T2 R4 C2] plow, strip mining; technologies that have allowed for advances in dams,
+u193 [T2 R5 C2] irrigation, and desert settlements)
+u194 [T2 R6 C1] Sample Performance
+u195 [T2 R6 C2] The student: Creates a timeline of technological innovations that have influenced the human capacity to modify the physical environment.
+u196 [T2 R7 C1] Assessment (SPA)
+u197 [T2 R8 C1] Rubric
+u198 [T2 R9 C1] Advanced
+u199 [T2 R9 C2] Proficient
+u200 [T2 R9 C3] Partially Proficient
+u201 [T2 R9 C4] Novice
+u202 [T2 R10 C1] Explain, with clear and precise detail, the ways in which technology influences the human capacity to modify the physical environment
+u203 [T2 R10 C2] Explain, with detail, the ways in which technology influences the human capacity to modify the physical environment
+u204 [T2 R10 C3] Explain, with minimal detail, the ways in which technology influences the human capacity to modify the physical environment
+u205 [T2 R10 C4] Ineffectively explain the ways in which technology influences the human capacity to modify the physical environment
+u206 [T3 R1 C1] Topic
+u207 [T3 R1 C2] Interaction and Influences
+u208 [T3 R2 C2] Investigate the relationships among resources (e.g., gold, water, oil, fish),
+u209 [T3 R3 C1] Benchmark
+u210 [T3 R3 C2] their distribution by humans, and the exploration, colonization, and
+u211 [T3 R4 C1] SS.12G.5.3
+u212 [T3 R4 C2] settlement of different regions of the world (e.g., mercantilism, imperialism,
+u213 [T3 R5 C2] Gold Rush, Alaska pipeline)
+u214 [T3 R6 C1] Sample Performance
+u215 [T3 R6 C2] The student: Chooses an important resource and investigates the exploration, colonization, and settlements in different regions of the world that are a result of the pursuit of the chosen resource.
+u216 [T3 R7 C1] Assessment (SPA)
+u217 [T3 R9 C1] Rubric
+u218 [T3 R10 C1] Advanced
+u219 [T3 R10 C2] Proficient
+u220 [T3 R10 C3] Partially Proficient
+u221 [T3 R10 C4] Novice
+u222 [T3 R11 C1] Investigate the relationship among resources and exploration, colonization, and
+u223 [T3 R11 C2] Investigate the relationship among resources and exploration, colonization, and
+u224 [T3 R11 C3] Investigate the relationship among resources and exploration, colonization, and
+u225 [T3 R11 C4] Investigate the relationship among resources and exploration, colonization, and
+=== page 5 ===
+u226 [T1 R1 C1] settlement of different regions of the world, drawing relevant and strongly supported conclusions
+u227 [T1 R1 C2] settlement of different regions of the world, drawing relevant conclusions
+u228 [T1 R1 C3] settlement of different regions of the world, drawing weak conclusions
+u229 [T1 R1 C4] settlement of different regions of the world, drawing irrelevant conclusions

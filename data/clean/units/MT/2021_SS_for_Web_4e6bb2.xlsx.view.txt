@@ -1,0 +1,408 @@
+u1 SHEET: Intro
+u2 [R1] Introduction to this Document
+u3 [R2] The standards contained in this document were adopted into the Administrative Rules of Montana by the Montana Board of Public Education on November 5, 2020.
+u4 [R3] The implementation (effective date) for the new rules is July 1, 2021.
+u5 [R4] Districts should consider their 5-year curriculum review cycle in order to plan for a staggered approach to aligning curriculum to the new standards. See ARM 10.55.603
+u6 [R5] For more information and resources related to these standards, visit the OPI K-12 Content Standards and Revision webpage.
+u7 [R7] To access a machine readable version of the official Montana Content Standards, please visit the IMS Global CASE Network site. Create a free login, select Montana Office of Public Instruction, and view or download the standards. The CASE version of the standards can be uploaded to student information systems, curriculum mapping programs, and a variety of other uses.
+u8 [R9] For questions, please email OPICSI@mt.gov
+u9 SHEET: K-12 Complete
+u10 [R1] NEW RULE I MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES
+u11 [R2] (1) The content areas covered by the social studies standards include:
+u12 [R3] (a) civics and government;
+u13 [R4] (b) economics;
+u14 [R5] (c) geography; and
+u15 [R6] (d) history.
+u16 [R7] (2) When a district incorporates or integrates social studies content into district curriculum or offers a course in social studies, the following skills at each grade level may apply:
+u17 [R8] (a) develop questions;
+u18 [R9] (b) plan inquiries;
+u19 [R10] (c) compare and evaluate sources for relevance, perspective, and accuracy;
+u20 [R11] (d) use sources to gather evidence to develop and refine claims;
+u21 [R12] (e) communicate conclusions; and
+u22 [R13] (f) take informed action.
+u23 [R14] NEW RULE II THE SOCIAL STUDIES CONTENT STANDARDS FOR KINDERGARTEN
+u24 [R15] (1) The civics and government content standards for kindergarten are that each student will:
+u25 [R16] (a) recognize the people who create and carry out rules for the school and classroom;
+u26 [R17] (b) define that being a citizen of the classroom and school community means following established rules and expectations; and
+u27 [R18] (c) demonstrate citizenship through their interactions in the classroom and school community.
+u28 [R19] (2) The economics content standards for kindergarten are that each student will:
+u29 [R20] (a) explain and identify examples of goods and services; and
+u30 [R21] (b) describe goods and products that are produced in local regions.
+u31 [R22] (3) The geography content standard for kindergarten is that each student will use maps, and other representations, to describe place characteristics.
+u32 [R23] (4) The history content standard for kindergarten is that each student will distinguish between past, present, and future time.
+u33 [R24] NEW RULE III THE SOCIAL STUDIES CONTENT STANDARDS FOR FIRST GRADE
+u34 [R25] (1) The civics and government content standards for first grade are that each student will:
+u35 [R26] (a) demonstrate being a citizen of a classroom and school community through interactions and by following established rules and expectations; and
+u36 [R27] (b) recognize the people, and their roles, who create and carry out rules for the school and classroom.
+u37 [R28] (2) The economics content standards for first grade are that each student will:
+u38 [R29] (a) explain the difference between needs and wants; and
+u39 [R30] (b) describe goods and products that are produced in local regions.
+u40 [R31] (3) The geography content standards for first grade are that each student will:
+u41 [R32] (a) identify and describe human and physical local landmarks; and
+u42 [R33] (b) construct maps and other representations of familiar places.
+u43 [R34] (4) The history content standards for first grade are that each student will:
+u44 [R35] (a) distinguish between past, present, and future time; and
+u45 [R36] (b) understand how events might be described differently depending on historical contexts and perspectives, including those of tribes in Montana.
+u46 [R37] NEW RULE IV THE SOCIAL STUDIES CONTENT STANDARDS FOR SECOND GRADE
+u47 [R38] (1) The civics and government content standards for second grade are that each student will:
+u48 [R39] (a) explain the roles of people who help govern different communities including tribal communities; and
+u49 [R40] (b) demonstrate ways to show good citizenship in the classroom, school, and community.
+u50 [R41] (2) The economics content standards for second grade are that each student will:
+u51 [R42] (a) describe the goods and services that people in the local, state, and national community produce;
+u52 [R43] (b) describe examples of the goods and services that governments provide; and
+u53 [R44] (c) identify resources people use to access the goods and services they want and need.
+u54 [R45] (3) The geography content standards for second grade are that each student will:
+u55 [R46] (a) use the basic components of a map to identify physical and political features, including American Indian reservations; and
+u56 [R47] (b) describe how geography and human activities impact each other.
+u57 [R48] (4) The history content standards for second grade are that each student will:
+u58 [R49] (a) identify how people lived differently in the past than they do today;
+u59 [R50] (b) understand that there are twelve distinct and unique tribes within Montana whose people contribute to modern life; and
+u60 [R51] (c) identify different kinds of historical sources, including oral histories of American Indians.
+u61 [R52] NEW RULE V THE SOCIAL STUDIES CONTENT STANDARDS FOR THIRD GRADE
+u62 [R53] (1) The civics and government content standards for third grade are that each student will:
+u63 [R54] (a) describe and identify the basic functions of local government, including tribal governments;
+u64 [R55] (b) recognize that civic participation involves remaining accurately informed about public issues, taking action, and voting in elections; and
+u65 [R56] (c) identify key symbols of nations.
+u66 [R57] (2) The economics content standards for third grade are that each student will:
+u67 [R58] (a) compare the benefits and costs of individual choices;
+u68 [R59] (b) identify examples of human and natural resources that are used to produce goods and services; and
+u69 [R60] (c) explain economic interdependence within historical and contemporary contexts.
+u70 [R61] (3) The geography content standards for third grade are that each student will:
+u71 [R62] (a) examine maps and other representations to identify historical and contemporary political and cultural patterns in the Americas;
+u72 [R63] (b) identify environmental and technological events and conditions and how humans and the environment impact each other; and
+u73 [R64] (c) identify landforms and other physical characteristics of the Americas.
+u74 [R65] (4) The history content standards for third grade are that each student will:
+u75 [R66] (a) identify tribes in Montana by their original and current names; and
+u76 [R67] (b) explain how perspective impacts the telling of historical events.
+u77 [R68] NEW RULE VI THE SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH GRADE
+u78 [R69] (1) The civics and government content standards for fourth grade are that each student will:
+u79 [R70] (a) demonstrate civic participation within the classroom or school;
+u80 [R71] (b) practice deliberative processes when making decisions as a group;
+u81 [R72] (c) describe how rules, laws, and policies are implemented by local, state, national, and tribal governments;
+u82 [R73] (d) define sovereignty for tribes in Montana; and
+u83 [R74] (e) identify key foundational documents in Montana's government.
+u84 [R75] (2) The economics content standards for fourth grade are that each student will:
+u85 [R76] (a) identify the various pressures and incentives that influence the decisions people make in short term and long term situations;
+u86 [R77] (b) identify basic elements of Montana's state economic system including agriculture, business, natural resources, and labor;
+u87 [R78] (c) identify various resources and labor that are used to provide goods and services in Montana; and
+u88 [R79] (d) explain how trade leads to increasing economic interdependence among groups in Montana.
+u89 [R80] (3) The geography content standards for fourth grade are that each student will:
+u90 [R81] (a) examine maps and other representations to explain the movement of people;
+u91 [R82] (b) identify and label the tribes in Montana and their indigenous territories, and current locations;
+u92 [R83] (c) investigate the physical, political, and cultural characteristics of places, regions, and people in Montana; and
+u93 [R84] (d) analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration in Montana.
+u94 [R85] (4) The history content standards for fourth grade are that each student will:
+u95 [R86] (a) understand tribes in Montana have their own unique histories;
+u96 [R87] (b) identify events and policies that have impacted and been influenced by tribes in Montana;
+u97 [R88] (c) explain how Montana has changed over time given its cultural diversity and how this history impacts the present; and
+u98 [R89] (d) describe how historical accounts are impacted by individual perspectives.
+u99 [R90] NEW RULE VII THE SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE
+u100 [R91] (1) The civics and government content standards for fifth grade are that each student will:
+u101 [R92] (a) examine the diverse origins, ideals, and purposes of rules, laws, and key United States constitutional provisions and other foundational documents;
+u102 [R93] (b) use deliberative processes when engaging in civic participation within the classroom or school;
+u103 [R94] (c) distinguish between the responsibilities of local, state, tribal, and national governments;
+u104 [R95] (d) explain how democracy relies upon active and responsible participation of citizens; and
+u105 [R96] (e) describe the basic duties of the three branches of government.
+u106 [R97] (2) The economics content standards for fifth grade are that each student will:
+u107 [R98] (a) explain how people have to make choices between wants and needs and evaluate the outcomes or consequences of those choices;
+u108 [R99] (b) identify positive and negative incentives that influence the decisions people make;
+u109 [R100] (c) identify resources and labor that are used to produce goods and services;
+u110 [R101] (d) explain the role of money in the exchange of goods and services;
+u111 [R102] (e) describe the role of manufacturing and agriculture in the economy of the United States; and
+u112 [R103] (f) describe how interest rates impact economic decision making.
+u113 [R104] (3) The geography content standards for fifth grade are that each student will:
+u114 [R105] (a) identify and label US regions, territories, states and their capitals/major cities;
+u115 [R106] (b) create, organize, and present geographic information to show settlement patterns in the United States, including impacts on tribal lands; and
+u116 [R107] (c) analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration.
+u117 [R108] (4) The history content standards for fifth grade are that each student will:
+u118 [R109] (a) interpret data presented in timelines;
+u119 [R110] (b) understand the inter-relationship of chronological historical events;
+u120 [R111] (c) identify roles of individuals and groups and their impact on United States and tribal historical events;
+u121 [R112] (d) understand the unique historical perspectives of American Indians; and
+u122 [R113] (e) analyze historical documents and their impact on tribes in Montana and their sovereignty.
+u123 [R114] NEW RULE VIII THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH THROUGH EIGHTH GRADE
+u124 [R115] (1) The civics and government content standards for sixth through eighth grade are that each student will:
+u125 [R116] (a) explain a variety of forms of government from the past or present;
+u126 [R117] (b) explain the structure of and key principles in foundational documents, including the Montana Constitution;
+u127 [R118] (c) explain how global and American Indian civilizations and governments have contributed to foundational documents of the United States;
+u128 [R119] (d) distinguish the structure, organization, powers, and limits of government at the local, state, national, and tribal levels;
+u129 [R120] (e) identify events and leaders that ensure that key United States principles of equality and civil rights are applied to various groups, including American Indians;
+u130 [R121] (f) demonstrate that the United States government includes concepts of both a democracy and a republic; and
+u131 [R122] (g) employ strategies for civic involvement that address a state or local, or national issues.
+u132 [R123] (2) The economics content standards for sixth through eighth grade are that each student will:
+u133 [R124] (a) explain how economic decisions impact individuals, businesses, and society, including Indigenous societies;
+u134 [R125] (b) analyze examples of how groups and individuals have considered profit and personal values in making economic choices in the past and/or present;
+u135 [R126] (c) explain the roles of producers and consumers in market systems;
+u136 [R127] (d) describe the role of competition in the determination of prices and wages in a market economy;
+u137 [R128] (e) explain ways in which money facilitates exchange and impacts transactional costs; and
+u138 [R129] (f) explain how changes in supply, demand, and labor standards cause changes in prices and quantities of goods, services, and other capital.
+u139 [R130] (3) The geography content standards for sixth through eighth grade are that each student will:
+u140 [R131] (a) construct and analyze maps using scale, direction, symbols, legends, and projections to gather information about regions across the world;
+u141 [R132] (b) identify the location of places and regions in the world and understand their physical, political, and cultural characteristics;
+u142 [R133] (c) analyze maps and charts from a specific time period to understand an issue or event;
+u143 [R134] (d) explain how the environment and geographic features have affected people and how people have affected the environment throughout Montana, the United States, and the world;
+u144 [R135] (e) explain the role and impact of spatial patterns of settlement and movement in shaping societies and cultures, including Indigenous cultures;
+u145 [R136] (f) identify how the historical and contemporary movement of people, goods, and ideas from one area can impact change, conflict, and cooperation in other areas; and
+u146 [R137] (g) identify the cultural roots of major world regions.
+u147 [R138] (4) The history content standards for sixth through eighth grade are that each student will:
+u148 [R139] (a) explore complex civilizations, and identify elements of change and continuity across historical eras in Montana, the Americas, and world history;
+u149 [R140] (b) analyze how the historical events relate to one another and are shaped by historical context, including societies in the Americas;
+u150 [R141] (c) analyze how, since European contact, historical events and policies have mutually impacted American Indian and European societies;
+u151 [R142] (d) identify how new archaeological and scientific information shapes historical understanding;
+u152 [R143] (e) explain how Montana has changed over time and how this history impacts the present;
+u153 [R144] (f) understand that there are multiple perspectives and interpretations of historical events;
+u154 [R145] (g) analyze how people's perspectives shaped the historical narratives they created;
+u155 [R146] (h) identify limitations and biases in primary and secondary sources, specifically regarding misinformation and stereotypes; and
+u156 [R147] (i) understand that the questions people ask shape the conclusions they reach.
+u157 [R148] NEW RULE IX THE SOCIAL STUDIES CONTENT STANDARDS FOR NINTH THROUGH TWELFTH GRADE
+u158 [R149] (1) The civics and government content standards for ninth through twelfth grade are that each student will:
+u159 [R150] (a) analyze and evaluate the ideas and principles contained in the foundational documents of the United States, and explain how they establish a system of government that has powers, responsibilities, and limits;
+u160 [R151] (b) analyze the impact of constitutions, laws, treaties, and international agreements on the maintenance of domestic and international relationships;
+u161 [R152] (c) evaluate the impact of international agreements on contemporary world issues;
+u162 [R153] (d) apply civic virtues and democratic principles when working with others;
+u163 [R154] (e) evaluate how citizens and institutions address social and political problems at the local, state, tribal, national, and/or international levels;
+u164 [R155] (f) evaluate the American governmental system compared to international governmental systems;
+u165 [R156] (g) explain the foundations and complexity of sovereignty for federally recognized tribes in Montana;
+u166 [R157] (h) evaluate appropriate deliberative processes in multiple settings;
+u167 [R158] (i) evaluate government procedures for making decisions at the local, state, national, tribal, and international levels;
+u168 [R159] (j) analyze historical, contemporary, and emerging means of changing societies, promoting the common good, and protecting rights;
+u169 [R160] (k) analyze the impact and roles of personal interests and perspectives, market, media, and group influences on the application of civic virtues, democratic principles, constitutional rights, and human rights; and
+u170 [R161] (l) evaluate citizens' and institutions' effectiveness in ensuring civil rights at the local, state, tribal, national, and international levels;
+u171 [R162] (2) The economics content standards for ninth through twelfth grade are that each student will:
+u172 [R163] (a) analyze how pressures and incentives impact economic choices and their costs and benefits for different groups, including American Indians;
+u173 [R164] (b) explain how economic cycles affect personal financial decisions;
+u174 [R165] (c) analyze the ways in which pressures and incentives influence what is produced and distributed in a market system;
+u175 [R166] (d) evaluate the extent to which competition among producers, among consumers, and among laborers exists in specific markets;
+u176 [R167] (e) describe the consequences of competition in specific markets;
+u177 [R168] (f) evaluate benefits, costs, and possible outcomes of government policies to influence market outcomes;
+u178 [R169] (g) use current data to explain the influence of changes in spending, production, and the money supply on various economic conditions;
+u179 [R170] (h) use economic indicators to analyze the current and future state of the economy; and
+u180 [R171] (i) evaluate the selection of monetary and fiscal policies in a variety of economic conditions.
+u181 [R172] (3) The geography content standards for ninth through twelfth grade are that each student will:
+u182 [R173] (a) use geospatial reasoning to create maps to display and explain the spatial patterns of cultural and environmental characteristics;
+u183 [R174] (b) use geographic data to analyze variations in the spatial patterns of cultural and environmental characteristics at multiple scales;
+u184 [R175] (c) use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their political, cultural, and economic dynamics;
+u185 [R176] (d) analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them, including American Indians;
+u186 [R177] (e) evaluate the impact of human settlement activities on the environmental, political, and cultural characteristics of specific places and regions;
+u187 [R178] (f) analyze the role of geography on interactions and conflicts between various cultures in Montana, the United States, and the world;
+u188 [R179] (g) evaluate the influence of long-term climate variability on human migration and settlement patterns, resource use, and land uses at local-to-global scales; and
+u189 [R180] (h) evaluate the consequences of human-driven and natural catastrophes on global trade, politics, and human migration.
+u190 [R181] (4) The history content standards for ninth through twelfth grade are that each student will:
+u191 [R182] (a) analyze how unique circumstances of time, place, and historical contexts shape individuals' lives;
+u192 [R183] (b) analyze change and continuity in historical eras in US and world history;
+u193 [R184] (c) identify ways in which people and groups exercise agency in difficult historical, contemporary, and tribal contexts;
+u194 [R185] (d) analyze multiple, and complex causal factors that have shaped major events in US and world history, including American Indian history;
+u195 [R186] (e) explain events in relation to both their intended and unintended consequences, including governmental policies impacting American Indians;
+u196 [R187] (f) distinguish between long-term causes and triggering events in developing a historical argument;
+u197 [R188] (g) analyze how historical, cultural, social, political, ideological, and economic contexts shape people's perspectives;
+u198 [R189] (h) analyze the ways in which the perspectives of those writing history shaped the history they produced;
+u199 [R190] (i) evaluate how historiography is influenced by perspective and available historical sources;
+u200 [R191] (j) analyze perspectives of American Indians in US history;
+u201 [R192] (k) evaluate the limitations, biases, and credibility of various sources, especially regarding misinformation and stereotypes;
+u202 [R193] (l) analyze multiple historical sources to pursue further inquiry and investigate additional sources;
+u203 [R194] (m) integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about past and present people, events, and ideas; and
+u204 [R195] (n) construct arguments which reflect understanding and analysis of multiple historical sources, perspectives, and contexts.
+u205 SHEET: K-12 Content and Skills
+u206 [R1] MONTANA CONTENT STANDARDS FOR SOCIAL STUDIES
+u207 [R2] (1) The content areas covered by the social studies standards include:
+u208 [R3] (a) civics and government;
+u209 [R4] (b) economics;
+u210 [R5] (c) geography; and
+u211 [R6] (d) history.
+u212 [R8] (2) When a district incorporates or integrates social studies content into district curriculum or offers a course in social studies, the following skills at each grade level may apply:
+u213 [R9] (a) develop questions;
+u214 [R10] (b) plan inquiries;
+u215 [R11] (c) compare and evaluate sources for relevance, perspective, and accuracy;
+u216 [R12] (d) use sources to gather evidence to develop and refine claims;
+u217 [R13] (e) communicate conclusions; and
+u218 [R14] (f) take informed action.
+u219 SHEET: Kindergarten
+u220 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR KINDERGARTEN
+u221 [R2] (1) The civics and government content standards for kindergarten are that each student will:
+u222 [R3] (a) recognize the people who create and carry out rules for the school and classroom;
+u223 [R4] (b) define that being a citizen of the classroom and school community means following established rules and expectations; and
+u224 [R5] (c) demonstrate citizenship through their interactions in the classroom and school community.
+u225 [R7] (2) The economics content standards for kindergarten are that each student will:
+u226 [R8] (a) explain and identify examples of goods and services; and
+u227 [R9] (b) describe goods and products that are produced in local regions.
+u228 [R11] (3) The geography content standard for kindergarten is that each student will use maps, and other representations, to describe place characteristics.
+u229 [R13] (4) The history content standard for kindergarten is that each student will distinguish between past, present, and future time.
+u230 SHEET: First Grade
+u231 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR FIRST GRADE
+u232 [R2] (1) The civics and government content standards for first grade are that each student will:
+u233 [R3] (a) demonstrate being a citizen of a classroom and school community through interactions and by following established rules and expectations; and
+u234 [R4] (b) recognize the people, and their roles, who create and carry out rules for the school and classroom.
+u235 [R6] (2) The economics content standards for first grade are that each student will:
+u236 [R7] (a) explain the difference between needs and wants; and
+u237 [R8] (b) describe goods and products that are produced in local regions.
+u238 [R10] (3) The geography content standards for first grade are that each student will:
+u239 [R11] (a) identify and describe human and physical local landmarks; and
+u240 [R12] (b) construct maps and other representations of familiar places.
+u241 [R14] (4) The history content standards for first grade are that each student will:
+u242 [R15] (a) distinguish between past, present, and future time; and
+u243 [R16] (b) understand how events might be described differently depending on historical contexts and perspectives, including those of tribes in Montana.
+u244 SHEET: Second Grade
+u245 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR SECOND GRADE
+u246 [R2] (1) The civics and government content standards for second grade are that each student will:
+u247 [R3] (a) explain the roles of people who help govern different communities including tribal communities; and
+u248 [R4] (b) demonstrate ways to show good citizenship in the classroom, school, and community.
+u249 [R6] (2) The economics content standards for second grade are that each student will:
+u250 [R7] (a) describe the goods and services that people in the local, state, and national community produce;
+u251 [R8] (b) describe examples of the goods and services that governments provide; and
+u252 [R9] (c) identify resources people use to access the goods and services they want and need.
+u253 [R11] (3) The geography content standards for second grade are that each student will:
+u254 [R12] (a) use the basic components of a map to identify physical and political features, including American Indian reservations; and
+u255 [R13] (b) describe how geography and human activities impact each other.
+u256 [R15] (4) The history content standards for second grade are that each student will:
+u257 [R16] (a) identify how people lived differently in the past than they do today;
+u258 [R17] (b) understand that there are twelve distinct and unique tribes within Montana whose people contribute to modern life; and
+u259 [R18] (c) identify different kinds of historical sources, including oral histories of American Indians.
+u260 SHEET: Third Grade
+u261 [R1] NEW RULE V THE SOCIAL STUDIES CONTENT STANDARDS FOR THIRD GRADE
+u262 [R2] (1) The civics and government content standards for third grade are that each student will:
+u263 [R3] (a) describe and identify the basic functions of local government, including tribal governments;
+u264 [R4] (b) recognize that civic participation involves remaining accurately informed about public issues, taking action, and voting in elections; and
+u265 [R5] (c) identify key symbols of nations.
+u266 [R7] (2) The economics content standards for third grade are that each student will:
+u267 [R8] (a) compare the benefits and costs of individual choices;
+u268 [R9] (b) identify examples of human and natural resources that are used to produce goods and services; and
+u269 [R10] (c) explain economic interdependence within historical and contemporary contexts.
+u270 [R12] (3) The geography content standards for third grade are that each student will:
+u271 [R13] (a) examine maps and other representations to identify historical and contemporary political and cultural patterns in the Americas;
+u272 [R14] (b) identify environmental and technological events and conditions and how humans and the environment impact each other; and
+u273 [R15] (c) identify landforms and other physical characteristics of the Americas.
+u274 [R17] (4) The history content standards for third grade are that each student will:
+u275 [R18] (a) identify tribes in Montana by their original and current names; and
+u276 [R19] (b) explain how perspective impacts the telling of historical events.
+u277 SHEET: Fourth Grade
+u278 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR FOURTH GRADE
+u279 [R2] (1) The civics and government content standards for fourth grade are that each student will:
+u280 [R3] (a) demonstrate civic participation within the classroom or school;
+u281 [R4] (b) practice deliberative processes when making decisions as a group;
+u282 [R5] (c) describe how rules, laws, and policies are implemented by local, state, national, and tribal governments;
+u283 [R6] (d) define sovereignty for tribes in Montana; and
+u284 [R7] (e) identify key foundational documents in Montana's government.
+u285 [R9] (2) The economics content standards for fourth grade are that each student will:
+u286 [R10] (a) identify the various pressures and incentives that influence the decisions people make in short term and long term situations;
+u287 [R11] (b) identify basic elements of Montana's state economic system including agriculture, business, natural resources, and labor;
+u288 [R12] (c) identify various resources and labor that are used to provide goods and services in Montana; and
+u289 [R13] (d) explain how trade leads to increasing economic interdependence among groups in Montana.
+u290 [R15] (3) The geography content standards for fourth grade are that each student will:
+u291 [R16] (a) examine maps and other representations to explain the movement of people;
+u292 [R17] (b) identify and label the tribes in Montana and their indigenous territories, and current locations;
+u293 [R18] (c) investigate the physical, political, and cultural characteristics of places, regions, and people in Montana; and
+u294 [R19] (d) analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration in Montana.
+u295 [R21] (4) The history content standards for fourth grade are that each student will:
+u296 [R22] (a) understand tribes in Montana have their own unique histories;
+u297 [R23] (b) identify events and policies that have impacted and been influenced by tribes in Montana;
+u298 [R24] (c) explain how Montana has changed over time given its cultural diversity and how this history impacts the present; and
+u299 [R25] (d) describe how historical accounts are impacted by individual perspectives.
+u300 SHEET: Fifth Grade
+u301 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR FIFTH GRADE
+u302 [R2] (1) The civics and government content standards for fifth grade are that each student will:
+u303 [R3] (a) examine the diverse origins, ideals, and purposes of rules, laws, and key United States constitutional provisions and other foundational documents;
+u304 [R4] (b) use deliberative processes when engaging in civic participation within the classroom or school;
+u305 [R5] (c) distinguish between the responsibilities of local, state, tribal, and national governments;
+u306 [R6] (d) explain how democracy relies upon active and responsible participation of citizens; and
+u307 [R7] (e) describe the basic duties of the three branches of government.
+u308 [R9] (2) The economics content standards for fifth grade are that each student will:
+u309 [R10] (a) explain how people have to make choices between wants and needs and evaluate the outcomes or consequences of those choices;
+u310 [R11] (b) identify positive and negative incentives that influence the decisions people make;
+u311 [R12] (c) identify resources and labor that are used to produce goods and services;
+u312 [R13] (d) explain the role of money in the exchange of goods and services;
+u313 [R14] (e) describe the role of manufacturing and agriculture in the economy of the United States; and
+u314 [R15] (f) describe how interest rates impact economic decision making.
+u315 [R17] (3) The geography content standards for fifth grade are that each student will:
+u316 [R18] (a) identify and label US regions, territories, states and their capitals/major cities;
+u317 [R19] (b) create, organize, and present geographic information to show settlement patterns in the United States, including impacts on tribal lands; and
+u318 [R20] (c) analyze environmental and technological events and conditions and how humans and the environment impact each other with relation to settlements and migration.
+u319 [R22] (4) The history content standards for fifth grade are that each student will:
+u320 [R23] (a) interpret data presented in timelines;
+u321 [R24] (b) understand the inter-relationship of chronological historical events;
+u322 [R25] (c) identify roles of individuals and groups and their impact on United States and tribal historical events;
+u323 [R26] (d) understand the unique historical perspectives of American Indians; and
+u324 [R27] (e) analyze historical documents and their impact on tribes in Montana and their sovereignty.
+u325 SHEET: 6-8 Grades
+u326 [R1] NEW RULE VIII THE SOCIAL STUDIES CONTENT STANDARDS FOR SIXTH THROUGH EIGHTH GRADE
+u327 [R2] (1) The civics and government content standards for sixth through eighth grade are that each student will:
+u328 [R3] (a) explain a variety of forms of government from the past or present;
+u329 [R4] (b) explain the structure of and key principles in foundational documents, including the Montana Constitution;
+u330 [R5] (c) explain how global and American Indian civilizations and governments have contributed to foundational documents of the United States;
+u331 [R6] (d) distinguish the structure, organization, powers, and limits of government at the local, state, national, and tribal levels;
+u332 [R7] (e) identify events and leaders that ensure that key United States principles of equality and civil rights are applied to various groups, including American Indians;
+u333 [R8] (f) demonstrate that the United States government includes concepts of both a democracy and a republic; and
+u334 [R9] (g) employ strategies for civic involvement that address a state or local, or national issues.
+u335 [R11] (2) The economics content standards for sixth through eighth grade are that each student will:
+u336 [R12] (a) explain how economic decisions impact individuals, businesses, and society, including Indigenous societies;
+u337 [R13] (b) analyze examples of how groups and individuals have considered profit and personal values in making economic choices in the past and/or present;
+u338 [R14] (c) explain the roles of producers and consumers in market systems;
+u339 [R15] (d) describe the role of competition in the determination of prices and wages in a market economy;
+u340 [R16] (e) explain ways in which money facilitates exchange and impacts transactional costs; and
+u341 [R17] (f) explain how changes in supply, demand, and labor standards cause changes in prices and quantities of goods, services, and other capital.
+u342 [R19] (3) The geography content standards for sixth through eighth grade are that each student will:
+u343 [R20] (a) construct and analyze maps using scale, direction, symbols, legends, and projections to gather information about regions across the world;
+u344 [R21] (b) identify the location of places and regions in the world and understand their physical, political, and cultural characteristics;
+u345 [R22] (c) analyze maps and charts from a specific time period to understand an issue or event;
+u346 [R23] (d) explain how the environment and geographic features have affected people and how people have affected the environment throughout Montana, the United States, and the world;
+u347 [R24] (e) explain the role and impact of spatial patterns of settlement and movement in shaping societies and cultures, including Indigenous cultures;
+u348 [R25] (f) identify how the historical and contemporary movement of people, goods, and ideas from one area can impact change, conflict, and cooperation in other areas; and
+u349 [R26] (g) identify the cultural roots of major world regions.
+u350 [R28] (4) The history content standards for sixth through eighth grade are that each student will:
+u351 [R29] (a) explore complex civilizations, and identify elements of change and continuity across historical eras in Montana, the Americas, and world history;
+u352 [R30] (b) analyze how the historical events relate to one another and are shaped by historical context, including societies in the Americas;
+u353 [R31] (c) analyze how, since European contact, historical events and policies have mutually impacted American Indian and European societies;
+u354 [R32] (d) identify how new archaeological and scientific information shapes historical understanding;
+u355 [R33] (e) explain how Montana has changed over time and how this history impacts the present;
+u356 [R34] (f) understand that there are multiple perspectives and interpretations of historical events;
+u357 [R35] (g) analyze how people's perspectives shaped the historical narratives they created;
+u358 [R36] (h) identify limitations and biases in primary and secondary sources, specifically regarding misinformation and stereotypes; and
+u359 [R37] (i) understand that the questions people ask shape the conclusions they reach.
+u360 SHEET: 9-12 Grades
+u361 [R1] SOCIAL STUDIES CONTENT STANDARDS FOR NINTH THROUGH TWELFTH GRADE
+u362 [R2] (1) The civics and government content standards for ninth through twelfth grade are that each student will:
+u363 [R3] (a) analyze and evaluate the ideas and principles contained in the foundational documents of the United States, and explain how they establish a system of government that has powers, responsibilities, and limits;
+u364 [R4] (b) analyze the impact of constitutions, laws, treaties, and international agreements on the maintenance of domestic and international relationships;
+u365 [R5] (c) evaluate the impact of international agreements on contemporary world issues;
+u366 [R6] (d) apply civic virtues and democratic principles when working with others;
+u367 [R7] (e) evaluate how citizens and institutions address social and political problems at the local, state, tribal, national, and/or international levels;
+u368 [R8] (f) evaluate the American governmental system compared to international governmental systems;
+u369 [R9] (g) explain the foundations and complexity of sovereignty for federally recognized tribes in Montana;
+u370 [R10] (h) evaluate appropriate deliberative processes in multiple settings;
+u371 [R11] (i) evaluate government procedures for making decisions at the local, state, national, tribal, and international levels;
+u372 [R12] (j) analyze historical, contemporary, and emerging means of changing societies, promoting the common good, and protecting rights;
+u373 [R13] (k) analyze the impact and roles of personal interests and perspectives, market, media, and group influences on the application of civic virtues, democratic principles, constitutional rights, and human rights; and
+u374 [R14] (l) evaluate citizens' and institutions' effectiveness in ensuring civil rights at the local, state, tribal, national, and international levels;
+u375 [R16] (2) The economics content standards for ninth through twelfth grade are that each student will:
+u376 [R17] (a) analyze how pressures and incentives impact economic choices and their costs and benefits for different groups, including American Indians;
+u377 [R18] (b) explain how economic cycles affect personal financial decisions;
+u378 [R19] (c) analyze the ways in which pressures and incentives influence what is produced and distributed in a market system;
+u379 [R20] (d) evaluate the extent to which competition among producers, among consumers, and among laborers exists in specific markets;
+u380 [R21] (e) describe the consequences of competition in specific markets;
+u381 [R22] (f) evaluate benefits, costs, and possible outcomes of government policies to influence market outcomes;
+u382 [R23] (g) use current data to explain the influence of changes in spending, production, and the money supply on various economic conditions;
+u383 [R24] (h) use economic indicators to analyze the current and future state of the economy; and
+u384 [R25] (i) evaluate the selection of monetary and fiscal policies in a variety of economic conditions.
+u385 [R27] (3) The geography content standards for ninth through twelfth grade are that each student will:
+u386 [R28] (a) use geospatial reasoning to create maps to display and explain the spatial patterns of cultural and environmental characteristics;
+u387 [R29] (b) use geographic data to analyze variations in the spatial patterns of cultural and environmental characteristics at multiple scales;
+u388 [R30] (c) use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their political, cultural, and economic dynamics;
+u389 [R31] (d) analyze relationships and interactions within and between human and physical systems to explain reciprocal influences that occur among them, including American Indians;
+u390 [R32] (e) evaluate the impact of human settlement activities on the environmental, political, and cultural characteristics of specific places and regions;
+u391 [R33] (f) analyze the role of geography on interactions and conflicts between various cultures in Montana, the United States, and the world;
+u392 [R34] (g) evaluate the influence of long-term climate variability on human migration and settlement patterns, resource use, and land uses at local-to-global scales; and
+u393 [R35] (h) evaluate the consequences of human-driven and natural catastrophes on global trade, politics, and human migration.
+u394 [R37] (4) The history content standards for ninth through twelfth grade are that each student will:
+u395 [R38] (a) analyze how unique circumstances of time, place, and historical contexts shape individuals' lives;
+u396 [R39] (b) analyze change and continuity in historical eras in US and world history;
+u397 [R40] (c) identify ways in which people and groups exercise agency in difficult historical, contemporary, and tribal contexts;
+u398 [R41] (d) analyze multiple, and complex causal factors that have shaped major events in US and world history, including American Indian history;
+u399 [R42] (e) explain events in relation to both their intended and unintended consequences, including governmental policies impacting American Indians;
+u400 [R43] (f) distinguish between long-term causes and triggering events in developing a historical argument;
+u401 [R44] (g) analyze how historical, cultural, social, political, ideological, and economic contexts shape people's perspectives;
+u402 [R45] (h) analyze the ways in which the perspectives of those writing history shaped the history they produced;
+u403 [R46] (i) evaluate how historiography is influenced by perspective and available historical sources;
+u404 [R47] (j) analyze perspectives of American Indians in US history;
+u405 [R48] (k) evaluate the limitations, biases, and credibility of various sources, especially regarding misinformation and stereotypes;
+u406 [R49] (l) analyze multiple historical sources to pursue further inquiry and investigate additional sources;
+u407 [R50] (m) integrate evidence from multiple relevant historical sources and interpretations into a reasoned argument about past and present people, events, and ideas; and
+u408 [R51] (n) construct arguments which reflect understanding and analysis of multiple historical sources, perspectives, and contexts.

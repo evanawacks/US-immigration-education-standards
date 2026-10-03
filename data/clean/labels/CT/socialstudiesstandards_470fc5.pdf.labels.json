@@ -1,0 +1,2140 @@
+{
+ "state": "CT",
+ "file": "socialstudiesstandards_470fc5.pdf",
+ "structure": "Connecticut Elementary and Secondary Social Studies Standards (2023), organized by grade K-8 and three HS courses (Modern World History, United States History III, Civics and Government; no grade tie, grades 9-12). Front matter (credits, TOC, acknowledgments, introduction, Inquiry Arc background, organization/coding explanation with Figures 1-2, K-12 sequence table) precedes each section. Each grade/course section has: title line ('Grade N: Name' or 'High School: Name'), overview narrative, 'Organization of ... Standards' note, Course Questions (bullets), Course Topics (numbered), '<Grade> Inquiry Standards' with an Inquiry Arc graphic, then 'students will...' with Dimension 1-4 headings and inquiry standards coded G.Inq.D.x (e.g. 3.Inq.1.a; MW/US/CG.Inq for HS), each followed by CT Core Standards (CCSS) references and key academic vocabulary; then '<Grade> Content Standards' with intro and Dimension 2 graphic, 'students will...' and topic headings ('• 3-1. Topic name') listing content standards coded G.Lens.skill.x (Civ, Eco, Geo, His; e.g. 5.Civ.3.a; MW-1 / US-1 / CG-1 topic numbering for HS) with parenthetical e.g. content suggestions inside the standard. Grades come from section headings and code prefixes.",
+ "labels": [
+  {
+   "units": "u1-u12",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, credits, nondiscrimination"
+  },
+  {
+   "units": "u14-u30",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u33-u145",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Acknowledgments"
+  },
+  {
+   "units": "u148-u159",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction"
+  },
+  {
+   "units": "u162-u209",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry Arc background, instructional priorities"
+  },
+  {
+   "units": "u212-u290",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Organization of the standards: K-12 sequence table, coding of inquiry and content standards (Figures 1-2), next steps"
+  },
+  {
+   "units": "u293",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Grade/course title"
+  },
+  {
+   "units": "u294",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Overview narrative"
+  },
+  {
+   "units": "u295-u296",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Organization of standards note"
+  },
+  {
+   "units": "u297-u299",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Course questions"
+  },
+  {
+   "units": "u300-u303",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Course topics"
+  },
+  {
+   "units": "u304",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards title"
+  },
+  {
+   "units": "u305-u320",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u323",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards"
+  },
+  {
+   "units": "u324-u325",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u326",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u327",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u328-u330",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u331-u332",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u333",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u334",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u335-u336",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u337",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u338",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u341",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Content standards title"
+  },
+  {
+   "units": "u342-u349",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u350",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Content standards > students will"
+  },
+  {
+   "units": "u351-u356",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Content standards > K-1. Roles and Responsibilities in a Community"
+  },
+  {
+   "units": "u357-u370",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Content standards > K-2. Familiar Places and Communities"
+  },
+  {
+   "units": "u371-u376",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Content standards > K-3. Communities Past and Present"
+  },
+  {
+   "units": "u379",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Grade/course title"
+  },
+  {
+   "units": "u380",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Overview narrative"
+  },
+  {
+   "units": "u381-u382",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Organization of standards note"
+  },
+  {
+   "units": "u383-u385",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Course questions"
+  },
+  {
+   "units": "u386-u389",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Course topics"
+  },
+  {
+   "units": "u390",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards title"
+  },
+  {
+   "units": "u391-u406",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u409",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards"
+  },
+  {
+   "units": "u410-u413",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u414",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u415",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u416-u417",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u418-u420",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u421",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u422",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u423-u429",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u430",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u431",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u434",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Content standards title"
+  },
+  {
+   "units": "u435-u442",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u443",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Content standards > students will"
+  },
+  {
+   "units": "u444-u453",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Content standards > 1-1. Contributing in a Democratic Society"
+  },
+  {
+   "units": "u456-u462",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Content standards > 1-2. Honoring the Past and Present"
+  },
+  {
+   "units": "u463-u474",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Content standards > 1-3. Global Communities"
+  },
+  {
+   "units": "u477",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Grade/course title"
+  },
+  {
+   "units": "u478",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Overview narrative"
+  },
+  {
+   "units": "u479-u480",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Organization of standards note"
+  },
+  {
+   "units": "u481-u483",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Course questions"
+  },
+  {
+   "units": "u484-u487",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Course topics"
+  },
+  {
+   "units": "u488",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards title"
+  },
+  {
+   "units": "u489-u504",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u507",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards"
+  },
+  {
+   "units": "u508-u511",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u512",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u513",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u514-u515",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u516-u518",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u519",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u520",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u521-u527",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u528",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u529",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u532",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Content standards title"
+  },
+  {
+   "units": "u533-u540",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u541",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Content standards > students will"
+  },
+  {
+   "units": "u542-u555",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Content standards > 2-1. Working Together as a Community"
+  },
+  {
+   "units": "u556-u562",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Content standards > 2-2. Leadership Past and Present"
+  },
+  {
+   "units": "u563-u569",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Content standards > 2-3. Decision-Making in our World"
+  },
+  {
+   "units": "u572",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Grade/course title"
+  },
+  {
+   "units": "u573",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Overview narrative"
+  },
+  {
+   "units": "u574-u575",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Organization of standards note"
+  },
+  {
+   "units": "u576-u578",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Course questions"
+  },
+  {
+   "units": "u579-u582",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Course topics"
+  },
+  {
+   "units": "u583",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards title"
+  },
+  {
+   "units": "u584-u599",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u602",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards"
+  },
+  {
+   "units": "u603-u606",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u607",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u608",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u609-u610",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u611-u614",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u615",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u616",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u617-u623",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u624",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u625",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u628",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Content standards title"
+  },
+  {
+   "units": "u629-u636",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u637",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Content standards > students will"
+  },
+  {
+   "units": "u638-u639",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Content standards > 3-1. State Constitution and Government"
+  },
+  {
+   "units": "u642-u650",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Content standards > 3-2. Cultural Communities in Connecticut Present and Past"
+  },
+  {
+   "units": "u651-u660",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Content standards > 3-3. Innovation, Industry, and Economic Growth"
+  },
+  {
+   "units": "u663",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Grade/course title"
+  },
+  {
+   "units": "u664",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Overview narrative"
+  },
+  {
+   "units": "u665-u666",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Organization of standards note"
+  },
+  {
+   "units": "u667-u669",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Course questions"
+  },
+  {
+   "units": "u670-u673",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Course topics"
+  },
+  {
+   "units": "u674",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards title"
+  },
+  {
+   "units": "u675-u690",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u693",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards"
+  },
+  {
+   "units": "u694-u697",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u698",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u699",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u700-u701",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u702-u705",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u706",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u707",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u708-u714",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u715",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u716",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u719",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Content standards title"
+  },
+  {
+   "units": "u720-u727",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u728",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Content standards > students will"
+  },
+  {
+   "units": "u729-u737",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Content standards > 4-1. Understanding Regions"
+  },
+  {
+   "units": "u740-u747",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Content standards > 4-2. Location, Place, and Movement"
+  },
+  {
+   "units": "u748-u755",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Content standards > 4-3. Regional Interdependence"
+  },
+  {
+   "units": "u758",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Grade/course title"
+  },
+  {
+   "units": "u759",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Overview narrative"
+  },
+  {
+   "units": "u760-u761",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Organization of standards note"
+  },
+  {
+   "units": "u762-u763",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Course questions"
+  },
+  {
+   "units": "u764-u765",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Course topics"
+  },
+  {
+   "units": "u766",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards title"
+  },
+  {
+   "units": "u767-u782",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u785",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards"
+  },
+  {
+   "units": "u786-u789",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u790",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u791",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u792-u793",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u794-u797",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u798",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u799",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u800-u806",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u807",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u808",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u811",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards title"
+  },
+  {
+   "units": "u812-u819",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u820",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards > students will"
+  },
+  {
+   "units": "u821-u827",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards > 5-1. Migration and Settlement"
+  },
+  {
+   "units": "u830-u842",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards > 5-2. The Colonial Era"
+  },
+  {
+   "units": "u843-u856",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards > 5-3. The American Revolution"
+  },
+  {
+   "units": "u857-u863",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Content standards > 5-4. The United States Constitution and Civic Participation"
+  },
+  {
+   "units": "u866",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Grade/course title"
+  },
+  {
+   "units": "u867",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Overview narrative"
+  },
+  {
+   "units": "u868-u869",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Organization of standards note"
+  },
+  {
+   "units": "u870-u871",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Course questions"
+  },
+  {
+   "units": "u872-u873",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Course topics"
+  },
+  {
+   "units": "u874",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards title"
+  },
+  {
+   "units": "u875-u890",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u893",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards"
+  },
+  {
+   "units": "u894-u897",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u898",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u899",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u900-u901",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u902-u905",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u906",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u907",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u908-u914",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u915",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u916",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u919",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Content standards title"
+  },
+  {
+   "units": "u920-u927",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u928",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Content standards > students will"
+  },
+  {
+   "units": "u929-u941",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Content standards > 6-1. World Geographic Regions"
+  },
+  {
+   "units": "u942-u947",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Content standards > 6-2. Systems of Governance"
+  },
+  {
+   "units": "u948-u955",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Content standards > 6-3. Economic Decision-Making and Exchanges"
+  },
+  {
+   "units": "u958",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Grade/course title"
+  },
+  {
+   "units": "u959",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Overview narrative"
+  },
+  {
+   "units": "u960-u961",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Organization of standards note"
+  },
+  {
+   "units": "u962-u964",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Course questions"
+  },
+  {
+   "units": "u965-u968",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Course topics"
+  },
+  {
+   "units": "u971",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards title"
+  },
+  {
+   "units": "u972-u987",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u988",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards"
+  },
+  {
+   "units": "u989-u992",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u993",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u994",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u995-u996",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u997-u1002",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u1003",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1004",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u1005-u1011",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u1012",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1013",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u1016",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Content standards title"
+  },
+  {
+   "units": "u1017-u1024",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u1025",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Content standards > students will"
+  },
+  {
+   "units": "u1026-u1037",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Content standards > 7-1. Movement and Cultural Diffusion"
+  },
+  {
+   "units": "u1038-u1046",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Content standards > 7-2. Governance and Human Rights"
+  },
+  {
+   "units": "u1047-u1059",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Content standards > 7-3. Regional and Global Economics"
+  },
+  {
+   "units": "u1062",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Grade/course title"
+  },
+  {
+   "units": "u1063",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Overview narrative"
+  },
+  {
+   "units": "u1064-u1065",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Organization of standards note"
+  },
+  {
+   "units": "u1066-u1067",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Course questions"
+  },
+  {
+   "units": "u1068-u1069",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Course topics"
+  },
+  {
+   "units": "u1070",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards title"
+  },
+  {
+   "units": "u1071-u1086",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u1089",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards"
+  },
+  {
+   "units": "u1090-u1093",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u1094",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1095",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u1096-u1097",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u1098-u1101",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u1102",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1103",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u1104-u1110",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u1111",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1112",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u1115",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Content standards title"
+  },
+  {
+   "units": "u1116-u1123",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u1124",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Content standards > students will"
+  },
+  {
+   "units": "u1125-u1139",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Content standards > 8-1. Origins of United States Democracy and National Identity"
+  },
+  {
+   "units": "u1140-u1155",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Content standards > 8-2. Expansion, Influence, and Economic Growth"
+  },
+  {
+   "units": "u1156-u1169",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Content standards > 8-3. Civil Unrest, Civil War, and Reconstruction"
+  },
+  {
+   "units": "u1172",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Grade/course title"
+  },
+  {
+   "units": "u1173",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "HS Modern World History > Overview narrative"
+  },
+  {
+   "units": "u1174-u1175",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Organization of standards note"
+  },
+  {
+   "units": "u1176-u1178",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "HS Modern World History > Course questions"
+  },
+  {
+   "units": "u1179-u1185",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Course topics"
+  },
+  {
+   "units": "u1188",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards title"
+  },
+  {
+   "units": "u1189-u1204",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u1205",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards"
+  },
+  {
+   "units": "u1206-u1211",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u1212-u1213",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1214",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "HS Modern World History > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u1215-u1217",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u1220-u1226",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u1227-u1228",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1229",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "HS Modern World History > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u1230-u1242",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u1243-u1244",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1245",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "HS Modern World History > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u1248",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards title"
+  },
+  {
+   "units": "u1249-u1256",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "backup",
+   "section": "HS Modern World History > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u1257",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > students will"
+  },
+  {
+   "units": "u1258-u1266",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-1. Exchange and Interconnections"
+  },
+  {
+   "units": "u1267-u1279",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-2. Enlightenment and Revolutions"
+  },
+  {
+   "units": "u1280-u1292",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-3. Industry and Progress"
+  },
+  {
+   "units": "u1293-u1305",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-4. Global Imperialism"
+  },
+  {
+   "units": "u1308-u1334",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-5. Global Conflicts and Decolonization"
+  },
+  {
+   "units": "u1337-u1365",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "HS Modern World History > Content standards > MW-6. Economic Globalization and Global Governance"
+  },
+  {
+   "units": "u1368",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Grade/course title"
+  },
+  {
+   "units": "u1369",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "examples",
+   "section": "HS United States History III > Overview narrative"
+  },
+  {
+   "units": "u1370-u1371",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Organization of standards note"
+  },
+  {
+   "units": "u1372-u1374",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "examples",
+   "section": "HS United States History III > Course questions"
+  },
+  {
+   "units": "u1375-u1383",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Course topics"
+  },
+  {
+   "units": "u1386",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards title"
+  },
+  {
+   "units": "u1387-u1402",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u1403",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards"
+  },
+  {
+   "units": "u1404-u1410",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u1411-u1412",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1413",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "examples",
+   "section": "HS United States History III > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u1414-u1416",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u1419-u1425",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u1426-u1427",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1428",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "examples",
+   "section": "HS United States History III > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u1429-u1441",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u1442-u1443",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1444",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "examples",
+   "section": "HS United States History III > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u1447",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards title"
+  },
+  {
+   "units": "u1448-u1455",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "backup",
+   "section": "HS United States History III > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u1456",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > students will"
+  },
+  {
+   "units": "u1457-u1467",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-1. Reconstruction"
+  },
+  {
+   "units": "u1468-u1482",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-2. Immigration, Industrialization, and Progressivism"
+  },
+  {
+   "units": "u1483-u1493",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-3. Imperialism and World War I"
+  },
+  {
+   "units": "u1494-u1514",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-4. The 1920s, Great Depression, and New Deal"
+  },
+  {
+   "units": "u1515-u1525",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-5. World War II"
+  },
+  {
+   "units": "u1526-u1550",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-6. Cold War and Civil Rights"
+  },
+  {
+   "units": "u1551-u1563",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-7. Foreign Policy, Global Conflicts and Cultural Shifts"
+  },
+  {
+   "units": "u1564-u1582",
+   "grades": "9-12",
+   "course": "United States History III",
+   "cat": "standards",
+   "section": "HS United States History III > Content standards > US-8. National Identity in the Digital Age"
+  },
+  {
+   "units": "u1585",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Grade/course title"
+  },
+  {
+   "units": "u1586",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "HS Civics and Government > Overview narrative"
+  },
+  {
+   "units": "u1587-u1588",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Organization of standards note"
+  },
+  {
+   "units": "u1589-u1591",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "HS Civics and Government > Course questions"
+  },
+  {
+   "units": "u1592-u1595",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Course topics"
+  },
+  {
+   "units": "u1598",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards title"
+  },
+  {
+   "units": "u1599-u1614",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Inquiry standards intro and Inquiry Arc graphic"
+  },
+  {
+   "units": "u1615",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards"
+  },
+  {
+   "units": "u1616-u1622",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 1"
+  },
+  {
+   "units": "u1623-u1624",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 1 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1625",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 1 > key academic vocabulary"
+  },
+  {
+   "units": "u1626-u1628",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 2"
+  },
+  {
+   "units": "u1631-u1637",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 3"
+  },
+  {
+   "units": "u1638-u1639",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 3 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1640",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 3 > key academic vocabulary"
+  },
+  {
+   "units": "u1641-u1653",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 4"
+  },
+  {
+   "units": "u1654-u1655",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 4 > CT Core (CCSS) references"
+  },
+  {
+   "units": "u1656",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "examples",
+   "section": "HS Civics and Government > Inquiry standards > Dimension 4 > key academic vocabulary"
+  },
+  {
+   "units": "u1659",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Content standards title"
+  },
+  {
+   "units": "u1660-u1667",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "backup",
+   "section": "HS Civics and Government > Content standards intro and Dimension 2 graphic"
+  },
+  {
+   "units": "u1668",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Content standards > students will"
+  },
+  {
+   "units": "u1669-u1689",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Content standards > CG-1. Foundations of American Democracy"
+  },
+  {
+   "units": "u1690-u1716",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Content standards > CG-2. Structure and Function of Government"
+  },
+  {
+   "units": "u1719-u1733",
+   "grades": "9-12",
+   "course": "Civics and Government",
+   "cat": "standards",
+   "section": "HS Civics and Government > Content standards > CG-3. Political Participation and Engagement"
+  }
+ ],
+ "issues": [
+  "u639: Grade 3 topic 3-1 content standards (3.Civ.1.a through 3.Eco.12.a, 10+ standards) are merged into a single unit by extraction; labeled standards, grade 3.",
+  "u152-u153: 'Social Studies Content Themes' graphic (six themes) is an image; only the caption text is extracted. Labeled backup.",
+  "u250-u285 (Figures 1 and 2): coding-structure figures extracted as fragments (table cells, key numbers, sample codes 5.Inq.3.a, 5.Civ.3.a); labeled backup as how-to-read material.",
+  "u763, u765, u871, u873, u1067, u1069: Grade 5, 6 and 8 course questions and course topics are each merged into one unit (bullets/numbers run together); labeled examples (questions) and standards (topics).",
+  "u216-u245: K-12 sequence table (course/topic lists for K-8 and HS) is a front-matter overview; labeled backup, grades all, not as per-grade standards.",
+  "State guide lists HS courses as Modern World History, US History III, Civics and Government; document titles them 'Modern World History', 'United States History III' and 'Civics and Government' (course strings use these). HS inquiry standards are course-specific (MW/US/CG.Inq) so they carry the course name rather than course null.",
+  "Content standards are listed under topics but codes are not ordered; some standards sit under a topic whose theme differs from their strand (e.g., 4.Geo.5.b after 4.His.9.a in topic 4-2). Topic from heading position only.",
+  "Content standards whose text contains 'e.g.' lists are labeled standards (unit not split). 'CT Core Standards' CCSS literacy references labeled backup; 'Key academic vocabulary' labeled examples.",
+  "u1208-u1211 and other HS standards: text is split across two x-positioned units (code at x=67, text at x=129-135); both halves labeled with same category. Some codes (e.g., u1259, u1424, u1440) are separated from their text unit.",
+  "Extraction artefacts inside standard text (hyphenation/spacing breaks such as 'com munity', 'environ mental', 'Ameri can') in many units; not corrected, no impact on labeling."
+ ]
+}

@@ -1,0 +1,750 @@
+{
+ "state": "PA",
+ "file": "e_history_web03_3aa68b.pdf",
+ "structure": "Single PDF 'Academic Standards for History' (Final Form Annex A, July 18 2002; 22 Pa. Code Ch.4 App. C). Front matter pp.1-5 (title, TOC, introduction, chronological periods per grade band). p.6 overview table of the four standard statements A-D (Political and Cultural Contributions; Primary Documents, Artifacts, Historical Places; Continuity and Change; Conflict and Cooperation) with descriptors. Four categories: 8.1 Historical Analysis and Skills Development (A Chronological Thinking, B Historical Comprehension, C Historical Interpretation, D Historical Research), 8.2 Pennsylvania History, 8.3 United States History, 8.4 World History (each A-D). Each category is a table: header row 8.x.3 GRADE 3 / 8.x.6 GRADE 6 / 8.x.9 GRADE 9 / 8.x.12 GRADE 12 (columns C1-C4), a stem row, then rows with lettered statements plus bulleted descriptors and e.g. lists in the same cell (continuation tables lack headers; C1=Gr3, C2=Gr6, C3=Gr9, C4=Gr12). Loose x= text fragments on each page duplicate (mostly) the Grade 3 column. Rows: Gr3 -> K-3, Gr6 -> 4-6, Gr9 -> 7-9, Gr12 -> 10-12. Glossary pp.17-18 (backup).",
+ "labels": [
+  {
+   "units": "u1-u115",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, TOC, introduction, chronology periods by grade band (pp.1-5)"
+  },
+  {
+   "units": "u116-u120",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.x Overview: Four Standard Statements within the Academic Standards for History (A-D and descriptors)"
+  },
+  {
+   "units": "u121",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: descriptors suggest content, not all encompassing"
+  },
+  {
+   "units": "u122-u123",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Overview table (layout duplicate)"
+  },
+  {
+   "units": "u124",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: descriptors suggest content (layout duplicate)"
+  },
+  {
+   "units": "u125-u134",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Overview table descriptors (layout duplicate)"
+  },
+  {
+   "units": "u135",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 Historical Analysis and Skills Development heading"
+  },
+  {
+   "units": "u136",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 header Grade 3"
+  },
+  {
+   "units": "u137",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 header Grade 6"
+  },
+  {
+   "units": "u138",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 header Grade 9"
+  },
+  {
+   "units": "u139",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 header Grade 12"
+  },
+  {
+   "units": "u140",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 stem"
+  },
+  {
+   "units": "u141",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 A-C Grade 3"
+  },
+  {
+   "units": "u142",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 A-C Grade 6"
+  },
+  {
+   "units": "u143",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 A-C Grade 9"
+  },
+  {
+   "units": "u144",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 A-C Grade 12"
+  },
+  {
+   "units": "u162",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 heading (layout duplicate)"
+  },
+  {
+   "units": "u163-u196",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 A-C Grade 3 fragments (layout duplicate)"
+  },
+  {
+   "units": "u197",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 3"
+  },
+  {
+   "units": "u198",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 6"
+  },
+  {
+   "units": "u199",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 9"
+  },
+  {
+   "units": "u200",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 12"
+  },
+  {
+   "units": "u201-u203",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: Historical Analysis and Skill Development applied to 8.2-8.4"
+  },
+  {
+   "units": "u204-u225",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 6 fragments"
+  },
+  {
+   "units": "u226-u239",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1 D Grade 3 fragments"
+  },
+  {
+   "units": "u240",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 Pennsylvania History heading"
+  },
+  {
+   "units": "u241",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 header Grade 3"
+  },
+  {
+   "units": "u242",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 header Grade 6"
+  },
+  {
+   "units": "u243",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 header Grade 9"
+  },
+  {
+   "units": "u244",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 header Grade 12"
+  },
+  {
+   "units": "u245",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 stem"
+  },
+  {
+   "units": "u246",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 3"
+  },
+  {
+   "units": "u247",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 6"
+  },
+  {
+   "units": "u248",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 9"
+  },
+  {
+   "units": "u249",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 12"
+  },
+  {
+   "units": "u250",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 stem fragment"
+  },
+  {
+   "units": "u251-u281",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u282",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 heading (layout duplicate)"
+  },
+  {
+   "units": "u283-u295",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u296",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 C Grade 3"
+  },
+  {
+   "units": "u297",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 C Grade 6"
+  },
+  {
+   "units": "u298",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 C Grade 9"
+  },
+  {
+   "units": "u299",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 C Grade 12"
+  },
+  {
+   "units": "u300-u339",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 C Grade 3 fragments"
+  },
+  {
+   "units": "u340",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 12 fragment"
+  },
+  {
+   "units": "u341",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 3"
+  },
+  {
+   "units": "u342",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 6"
+  },
+  {
+   "units": "u343",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 9"
+  },
+  {
+   "units": "u344",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 12"
+  },
+  {
+   "units": "u345",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: apply 8.1 to standard statements; suggested chronology"
+  },
+  {
+   "units": "u346",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 9 fragment"
+  },
+  {
+   "units": "u347",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 6 fragment"
+  },
+  {
+   "units": "u348-u372",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2 D Grade 3 fragments"
+  },
+  {
+   "units": "u373",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 United States History heading"
+  },
+  {
+   "units": "u374",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 header Grade 3"
+  },
+  {
+   "units": "u375",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 header Grade 6"
+  },
+  {
+   "units": "u376",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 header Grade 9"
+  },
+  {
+   "units": "u377",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 header Grade 12"
+  },
+  {
+   "units": "u378",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 stem"
+  },
+  {
+   "units": "u379",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 3"
+  },
+  {
+   "units": "u380",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 6"
+  },
+  {
+   "units": "u381",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 9"
+  },
+  {
+   "units": "u382",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 12"
+  },
+  {
+   "units": "u383",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 stem fragment"
+  },
+  {
+   "units": "u384",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 Grade 6 fragment '1824. •'"
+  },
+  {
+   "units": "u385-u410",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u411",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 heading (layout duplicate)"
+  },
+  {
+   "units": "u412-u427",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u428",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B Grade 12 fragment 'Historic Places (e.g., Ellis'"
+  },
+  {
+   "units": "u429",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B-C Grade 3"
+  },
+  {
+   "units": "u430",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B-C Grade 6"
+  },
+  {
+   "units": "u431",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B-C Grade 9"
+  },
+  {
+   "units": "u432",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B-C Grade 12"
+  },
+  {
+   "units": "u433-u434",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B Grade 9 fragment"
+  },
+  {
+   "units": "u435",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 B Grade 6 fragment"
+  },
+  {
+   "units": "u436-u453",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 C Grade 3 fragments"
+  },
+  {
+   "units": "u454",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 D Grade 3"
+  },
+  {
+   "units": "u455",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 D Grade 6"
+  },
+  {
+   "units": "u456",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 D Grade 9"
+  },
+  {
+   "units": "u457",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 D Grade 12"
+  },
+  {
+   "units": "u458",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: apply 8.1; suggested chronology"
+  },
+  {
+   "units": "u459-u482",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3 D Grade 3 fragments"
+  },
+  {
+   "units": "u483",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 World History heading"
+  },
+  {
+   "units": "u484",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 header Grade 3"
+  },
+  {
+   "units": "u485",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 header Grade 6"
+  },
+  {
+   "units": "u486",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 header Grade 9"
+  },
+  {
+   "units": "u487",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 header Grade 12"
+  },
+  {
+   "units": "u488",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 stem"
+  },
+  {
+   "units": "u489",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 3"
+  },
+  {
+   "units": "u490",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 6"
+  },
+  {
+   "units": "u491",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 9"
+  },
+  {
+   "units": "u492",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 12"
+  },
+  {
+   "units": "u493",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 stem fragment"
+  },
+  {
+   "units": "u494-u523",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u524",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 heading (layout duplicate)"
+  },
+  {
+   "units": "u525-u534",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u535",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B Grade 12 fragment"
+  },
+  {
+   "units": "u536",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B-D Grade 3"
+  },
+  {
+   "units": "u537",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B-D Grade 6"
+  },
+  {
+   "units": "u538",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B-D Grade 9"
+  },
+  {
+   "units": "u539",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B-D Grade 12"
+  },
+  {
+   "units": "u540",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: apply 8.1; suggested chronology (15th century divide)"
+  },
+  {
+   "units": "u541",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 B Grade 9 fragment 'Machu Picchu'"
+  },
+  {
+   "units": "u542-u570",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4 C-D Grade 3 fragments"
+  },
+  {
+   "units": "u571-u622",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary"
+  }
+ ],
+ "issues": [
+  "Fragments (x= units) duplicate table cell text and are scrambled; assigned by matching text to the grade column: u204-u225 (Gr6, 8.1 D), u340 (Gr12) u346 (Gr9) u347 (Gr6) in 8.2 D, u384 (Gr6) u428 (Gr12) u433-u434 (Gr9) u435 (Gr6) in 8.3, u535 (Gr12) u541 (Gr9) in 8.4. Other fragment ranges are Grade 3 (K-3).",
+  "u433-u434: u433 is a furniture/absent id; u434 'Underground Railroad sites, Erie' judged Grade 9 (continues cell u431).",
+  "u116-u134: Overview table of the four standard statements with descriptors; labeled standards/all (it states the standard statements and descriptors for all grades) though it could be argued examples/backup.",
+  "u201-u203, u345, u458, u540: notes about applying 8.1 and suggested chronology labeled backup.",
+  "u1-u115: includes intro (pp.3-5) and chronology bands (Grades 1-3 Beginnings to Present etc., u93-u114) labeled backup; those chronology bands describe the eras by grade band but are in the introduction.",
+  "u383, u493, u250: stem fragments 'analyze cultural, economic, ... relations to...' labeled all."
+ ]
+}

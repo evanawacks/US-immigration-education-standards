@@ -1,0 +1,622 @@
+{
+ "state": "KY",
+ "file": "Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf",
+ "range": "u1-u2354",
+ "structure": "Kentucky Academic Standards for Social Studies (Dec 2022). Front matter (TOC, introduction, legal basis, vision, organization, inquiry-practice and discipline-strand definitions, coding explanation) precedes grade sections. K-5 and 6-8 band overviews each have a Grade-level Introductions page. Each grade K-8 has three parts: (1) '<Grade>: <Theme>' title + 'Specific Overview' (introduction, key vocabulary, looking back/ahead, 'What this would look like in practice' table with Standard / Sample Evidence of Learning columns, Opportunities for Cross-Disciplinary Connections); (2) '<Grade>: <Theme> Standards' with an Introduction paragraph and a 'Concepts and Practices | Standards' table whose first column names the practice/concept (I: Questioning, I: Investigating, I: Using Evidence, I: Communicating Conclusions; C: / E: / G: / H: strand concepts such as Civic and Political Institutions (CP), Microeconomics (MI), Migration and Movement (MM), Change and Continuity (CH), Kentucky strands KGO/KE/KGE/KH) and whose standards column holds codes of the form <grade>.<strand>.<concept>.<n> (e.g. K.C.CP.1, 4.G.MM.1, 8.H.CO.4; inquiry codes <grade>.I.Q/UE/CC.<n>); (3) '<Grade>: Disciplinary Clarifications and Instructional Support' with Civics/Economics/Geography/History strand tables (Concepts and Practices | Standard | Disciplinary Clarifications) that repeat each standard beside its clarification. Inquiry standards are repeated per grade (no separate K-12 shared block in this range). High school sections and Appendix A progressions fall after this range (from u2355). Labeling choices: grade title headings and the Concepts-and-Practices standards tables = standards; introductions, Specific Overview material, sample-evidence tables and clarification tables (including the standard text copied into them) = examples; explanatory sentence under each clarifications heading = backup.",
+ "labels": [
+  {
+   "units": "u1-u3",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and title"
+  },
+  {
+   "units": "u4-u52",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u53-u270",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: background, legal basis, vision, design, organization of standards, inquiry practices and strand definitions, coding explanations, supplementary materials"
+  },
+  {
+   "units": "u271-u273",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "K-5 overview: band introduction"
+  },
+  {
+   "units": "u274",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade K"
+  },
+  {
+   "units": "u275",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 1"
+  },
+  {
+   "units": "u276",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 2"
+  },
+  {
+   "units": "u277",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 3"
+  },
+  {
+   "units": "u278",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 4"
+  },
+  {
+   "units": "u279",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 5"
+  },
+  {
+   "units": "u281",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community: grade title and theme"
+  },
+  {
+   "units": "u282-u311",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u312",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community Standards: heading"
+  },
+  {
+   "units": "u313",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u314-u375",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u376",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u377",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u378-u490",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u491",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State: grade title and theme"
+  },
+  {
+   "units": "u492-u528",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u529",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State Standards: heading"
+  },
+  {
+   "units": "u530",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u531-u599",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u600",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u601",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u602-u726",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u727",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions: grade title and theme"
+  },
+  {
+   "units": "u728-u769",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u770",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions Standards: heading"
+  },
+  {
+   "units": "u771",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u772-u844",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u845",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u846",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u847-u962",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u963",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions: grade title and theme"
+  },
+  {
+   "units": "u964-u997",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u998",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions Standards: heading"
+  },
+  {
+   "units": "u999",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1000-u1067",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1068",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1069",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1070-u1203",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1204",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement: grade title and theme"
+  },
+  {
+   "units": "u1205-u1249",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1250",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement Standards: heading"
+  },
+  {
+   "units": "u1251",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1252-u1323",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1324",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1325",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1326-u1433",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1434",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution: grade title and theme"
+  },
+  {
+   "units": "u1435-u1472",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1473",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution Standards: heading"
+  },
+  {
+   "units": "u1474",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1475-u1549",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1550",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1551",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1552-u1671",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1672-u1674",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 overview: band introduction"
+  },
+  {
+   "units": "u1675",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 6"
+  },
+  {
+   "units": "u1676",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 7"
+  },
+  {
+   "units": "u1677",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 8"
+  },
+  {
+   "units": "u1679",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations: grade title and theme"
+  },
+  {
+   "units": "u1680-u1728",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1729",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations Standards: heading"
+  },
+  {
+   "units": "u1730",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1731-u1804",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1805",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1806",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1807-u1927",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1928",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization: grade title and theme"
+  },
+  {
+   "units": "u1929-u1979",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1980",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards: heading"
+  },
+  {
+   "units": "u1981",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1982-u2057",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u2058",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u2059",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u2060-u2180",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u2181",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877: grade title and theme"
+  },
+  {
+   "units": "u2182-u2230",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u2231",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877 Standards: heading"
+  },
+  {
+   "units": "u2232",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u2233-u2325",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877 Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u2326",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u2327",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u2328-u2354",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  }
+ ],
+ "issues": [
+  "u258, u260: the K-8 and High School 'Annotated Standards Chart' pages (pdf pages 23-24) are images; only headings were extracted, chart content is missing.",
+  "u179-u199: 'Applying Disciplinary Concepts and Practices' table (backup) extracted with scrambled row/column order and broken cell text.",
+  "u7, u11-u14, u34-u36, u39-u49: table-of-contents entries merged across lines (backup).",
+  "u287-u308, u497-u525, u733-u765, u970-u994, u1210-u1247, u1441-u1469, u1685-u1726, u1935-u1977, u2188-u2228: 'What this would look like in practice' tables; cell text is fragmented and interleaved (standard code lines split into one-line fragments with sample-evidence cells in between, fragments out of order, duplicated rows). The copies of standards text inside these tables are labeled examples (not standards) because the same standards appear in full in the Standards tables.",
+  "u735-u738, u743-u746, u748-u749, u751-u755, u758, u763-u765: Grade 2 sample-evidence table has duplicated/garbled standard text (e.g. 'civic particip ation', repeated 'compelling and compelling and').",
+  "u2235: standard code printed as '8.I.Q.I' (typo for 8.I.Q.1) in the source.",
+  "u2287-u2294: standard 8.H.CH.6 and its bulleted list of fundamental documents continue across a page break (u2287 on pdf page 131; list continues in u2292 on page 132 under a repeated table header, with a repeated 'H: Change and Continuity (continued)' cell); all labeled standards grade 8.",
+  "u1479, u1483, u1535 and similar: strand/concept name cells in the first column appear out of order relative to the standard text rows in extraction; each still belongs to the grade table it sits in.",
+  "State guide says codes look like 'KY.4.H.CH.1'; in this document codes are '<grade>.<strand>.<concept>.<n>' without a KY prefix (e.g. 4.H.CH.1). Notes otherwise match: grades K-8 each have Standards plus Disciplinary Clarifications sections; HS (HS.C..., HS.E..., etc.) begins after u2354.",
+  "u2352-u2354 are not present in the view (furniture); the Grade 8 Civics clarifications table continues at u2355 (outside this range), mid-row between 8.C.CV.1 (u2347-u2351) and the next standard."
+ ]
+}

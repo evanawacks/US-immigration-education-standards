@@ -1,0 +1,639 @@
+{
+ "state": "NJ",
+ "file": "2020NJSLS-SS_Grades9-12_baf253.pdf",
+ "structure": "NJSLS-SS 2020 grade-band file for grades 9-12 (end of grade 12). Front matter (pp.1-12) identical to the other band files. Then 'By End of Grade 12 / Disciplinary Concepts' tables per strand: Disciplinary Concept | Description | Core Ideas. Then 'About the NJSLS-SS Eras' lists: 6.1 U.S. History Eras 1-16 (Colonization and Settlement 1585-1763 through Interconnected Global Society 1970-Today) and 6.2 World History/Global Studies Eras 1-6 (First Global Age through Contemporary Issues). Standards 6.1 and 6.2 are organized by era (era heading + short narrative paragraph + table Core Idea | Performance Expectations); Standard 6.3 Active Citizenship in the 21st Century by the End of Grade 12 is by strand/disciplinary concept. PE codes 6.1.12.<Strand><Concept>.<era>.<letter> (e.g. 6.1.12.CivicsPI.1.a), 6.2.12.<...>, 6.3.12.<Strand><Concept>.<n>. HS content is organized by era/topic, not by separate courses: course null, grades 9-12 throughout. Era narratives and Description-column cells labeled examples; concepts, core ideas, headings and PEs labeled standards.",
+ "labels": [
+  {
+   "units": "u1-u41",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, mission/vision, intent, framework diagram, changes"
+  },
+  {
+   "units": "u42-u63",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices (K-12 practices table)"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Standards in Action: Climate Change"
+  },
+  {
+   "units": "u67-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Structure of the NJSLS-SS, coding of performance expectations"
+  },
+  {
+   "units": "u126-u139",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "The Role of Essential Questions (A-D)"
+  },
+  {
+   "units": "u140-u234",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "NJ Administrative Code summary, statutes, references"
+  },
+  {
+   "units": "u236-u242",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u243",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u246",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u249",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u250-u255",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u256",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u257-u258",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u259",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u260-u265",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u266",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u267-u268",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u269",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u270-u274",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u275",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u276-u277",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u278",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u279-u284",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u285",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u286-u287",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u288",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u289-u293",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u294",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u295-u296",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u297",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u298-u303",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u304",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u305-u309",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u310",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u311-u312",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u313",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u314-u315",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u316",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u317",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 12 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u318-u319",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "About the NJSLS-SS Eras (explanatory)"
+  },
+  {
+   "units": "u320-u344",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Era lists for 6.1 (16 eras) and 6.2 (6 eras) by end of grade 12"
+  },
+  {
+   "units": "u345-u348",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u349",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u350-u363",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u364",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u365-u391",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u392",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u393-u418",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u419",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u420-u447",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u448",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u449-u475",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u476",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u477-u502",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u503",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u504-u517",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u518",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u519-u534",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u535",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u536-u551",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u552",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u553-u566",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u567",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u568-u587",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u588",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u589-u602",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u603",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u604-u641",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u642",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u643-u682",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u683",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u684-u697",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u698",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u699-u718",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u719",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u720-u739",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u740",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u741-u759",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u760",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u761-u792",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u793",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u794-u823",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u824",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u825-u860",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1/6.2/6.3 by end of grade 12: era heading, core ideas and performance expectations"
+  },
+  {
+   "units": "u861",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Era narrative"
+  },
+  {
+   "units": "u862-u923",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "6.2 Era 6 / 6.3 Active Citizenship by end of grade 12: core ideas and performance expectations"
+  }
+ ],
+ "issues": [
+  "u235-u317: table cells split across pages (u288/u291, u304/u307, u269-u272); continuation labeled by column (C2 description, C3 core idea). u289/u292: a core-idea bullet is split across the page break (u292 begins mid-sentence and is C3).",
+  "u626, u840, u876 and other bullet-only cells ('•', '• •'): stray bullets in PE tables; labeled standards.",
+  "u627-u628, u631-u636, u841-u844, u877-u882: PE sentences broken across rows by line wrapping; kept in order.",
+  "u453/u458: core idea 'Governments affect both public and private markets...' split across a page break (u453 then u458 continuation); u620/u625 likewise for 'Understanding the interrelated patterns of change...'. Table rows without PE text in between.",
+  "u455-u474: Era 5 (6.1) table repeats code 6.1.12.EconEM.5.a twice (u454 and u464) in source; u508-u509 uses code 6.1.12.EconNM.7.a (typo for EconNE) in source.",
+  "u722-u729: 6.2.12.EconGE.1.a appears twice with different text (u727 and u729) in source.",
+  "u519-u520: header says 'Performance Expectation' (singular) in source.",
+  "u503: Era 7 narrative appears before its table; Era 7 heading u502.",
+  "u918: 6.3.12.HistorySE.1 mentions immigration/refugees/deportation; u904-u908: 6.3.12.GeoGI.1 PE split across a page break.",
+  "Immigration-relevant PEs (for search): 6.1.12.HistoryCA.3.b (u415), CivicsDP.5.a (u452), HistoryUP.5.a (u472), CivicsHR.8.a (u522), GeoPP.13.b (u611), CivicsPI.14.d (u648), GeoPP.14.a (u659), CivicsHR.15.a (u689), 6.2.12.GeoPP.5.a (u834).",
+  "u318-u319: 'About the NJSLS-SS Eras' header and note labeled backup; era lists u320-u344 labeled standards (organizing headings).",
+  "u126-u139: Essential questions are K-12 framework-level; labeled examples with grades 9-12 (could arguably be backup).",
+  "u42-u63: Social Studies Practices apply K-12; labeled 9-12 (this document's range) as standards.",
+  "State guide did not mention the Description column in the Disciplinary Concepts tables, the era headings/narratives, nor Standard 6.3 in HS; era-organized HS content is not course-based, so course null."
+ ]
+}

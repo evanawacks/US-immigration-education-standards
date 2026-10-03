@@ -1,0 +1,36 @@
+{
+ "state": "IN",
+ "file": "indiana-academic-standards-grade-1-social-studies_432eee.pdf",
+ "structure": "Single-grade document (Grade 1, 2023 format). Pages 2-3: context/purpose, acknowledgments (backup); the examples sentence is split across pages 2-3 (u11, u14). Page 4 onward: one table with four domains (History, Civics and Government, Geography, Economics); each domain has a heading row, a Learning Outcome row, then standard rows with C1 = code (1.H.n, 1.C.n, 1.G.n, 1.E.n) and C2 = standard text, often with an inline '\u25cf Examples: ...' list in the same unit; '(E)' marks essential standards.",
+ "labels": [
+  {
+   "units": "u2-u16",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Context and purpose, introduction, acknowledgments"
+  },
+  {
+   "units": "u19",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Social Studies title"
+  },
+  {
+   "units": "u20",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "How to read: essential standards note"
+  },
+  {
+   "units": "u21-u72",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Domains 1-4 headings, learning outcomes and standards (examples inline in the same units)"
+  }
+ ],
+ "issues": []
+}

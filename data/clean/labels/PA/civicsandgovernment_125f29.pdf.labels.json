@@ -1,0 +1,615 @@
+{
+ "state": "PA",
+ "file": "civicsandgovernment_125f29.pdf",
+ "structure": "Single PDF (Final Form Annex A, July 18 2002), 22 Pa. Code Ch.4 App. C. Front matter pp.1-5 (title, TOC, introduction). Four standard categories 5.1 Principles and Documents of Government, 5.2 Rights and Responsibilities of Citizenship, 5.3 How Government Works, 5.4 How International Relationships Function; each is a 1-table grid on 1-2 pages: header row 5.x.3 GRADE 3 / 5.x.6 GRADE 6 / 5.x.9 GRADE 9 / 5.x.12 GRADE 12 (columns C1-C4), a stem row 'Pennsylvania's public schools shall teach...', then rows of lettered standard statements A, B, C... (with bulleted descriptors and e.g. lists inside the same cell). Continuation tables have no header; columns are still C1=Gr3, C2=Gr6, C3=Gr9, C4=Gr12. Each page also has loose x= text fragments that duplicate (mostly the grade 3 column of) the table text. Rows map Grade 3->K-3, 6->4-6, 9->7-9, 12->10-12. Glossary pp.15-21 (backup).",
+ "labels": [
+  {
+   "units": "u1-u109",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, table of contents, introduction (pp.1-5)"
+  },
+  {
+   "units": "u110",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 Principles and Documents of Government heading"
+  },
+  {
+   "units": "u111",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 header Grade 3"
+  },
+  {
+   "units": "u112",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 header Grade 6"
+  },
+  {
+   "units": "u113",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 header Grade 9"
+  },
+  {
+   "units": "u114",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 header Grade 12"
+  },
+  {
+   "units": "u115",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 stem: Pennsylvania's public schools shall teach... (all grades)"
+  },
+  {
+   "units": "u116",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 A-D Grade 3"
+  },
+  {
+   "units": "u117",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 A-D Grade 6"
+  },
+  {
+   "units": "u118",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 A-D Grade 9"
+  },
+  {
+   "units": "u119",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 A-D Grade 12"
+  },
+  {
+   "units": "u120",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 heading (layout duplicate)"
+  },
+  {
+   "units": "u121-u160",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 Grade 3 text fragments (layout duplicate)"
+  },
+  {
+   "units": "u161",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 E-I Grade 3"
+  },
+  {
+   "units": "u162",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 E-I Grade 6"
+  },
+  {
+   "units": "u163",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 E-I Grade 9"
+  },
+  {
+   "units": "u164",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 E-I Grade 12"
+  },
+  {
+   "units": "u165-u197",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 E-I Grade 3 fragments (layout duplicate)"
+  },
+  {
+   "units": "u198",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 J-M Grade 3"
+  },
+  {
+   "units": "u199",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 J-M Grade 6"
+  },
+  {
+   "units": "u200",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 J-M Grade 9"
+  },
+  {
+   "units": "u201",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 J-M Grade 12"
+  },
+  {
+   "units": "u202",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: basic concepts in lower grades developed more fully"
+  },
+  {
+   "units": "u203-u235",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1 J-M Grade 3 fragments (layout duplicate)"
+  },
+  {
+   "units": "u236",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 Rights and Responsibilities of Citizenship heading"
+  },
+  {
+   "units": "u237",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 header Grade 3"
+  },
+  {
+   "units": "u238",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 header Grade 6"
+  },
+  {
+   "units": "u239",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 header Grade 9"
+  },
+  {
+   "units": "u240",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 header Grade 12"
+  },
+  {
+   "units": "u241",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 stem"
+  },
+  {
+   "units": "u242",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 A-E Grade 3"
+  },
+  {
+   "units": "u243",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 A-E Grade 6"
+  },
+  {
+   "units": "u244",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 A-E Grade 9"
+  },
+  {
+   "units": "u245",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 A-E Grade 12"
+  },
+  {
+   "units": "u246",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 heading (layout duplicate)"
+  },
+  {
+   "units": "u247-u277",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 A-E Grade 3 fragments (layout duplicate)"
+  },
+  {
+   "units": "u278",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 3"
+  },
+  {
+   "units": "u279",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 6"
+  },
+  {
+   "units": "u280",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 9"
+  },
+  {
+   "units": "u281",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 12"
+  },
+  {
+   "units": "u282-u284",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: basic concepts in lower grades developed more fully"
+  },
+  {
+   "units": "u285-u290",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 9 fragments"
+  },
+  {
+   "units": "u291-u297",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 6 fragments"
+  },
+  {
+   "units": "u298-u302",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2 F-G Grade 3 fragments"
+  },
+  {
+   "units": "u303",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 How Government Works heading"
+  },
+  {
+   "units": "u304",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 header Grade 3"
+  },
+  {
+   "units": "u305",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 header Grade 6"
+  },
+  {
+   "units": "u306",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 header Grade 9"
+  },
+  {
+   "units": "u307",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 header Grade 12"
+  },
+  {
+   "units": "u308",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 stem"
+  },
+  {
+   "units": "u309",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 A-D Grade 3"
+  },
+  {
+   "units": "u310",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 A-D Grade 6"
+  },
+  {
+   "units": "u311",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 A-D Grade 9"
+  },
+  {
+   "units": "u312",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 A-D Grade 12"
+  },
+  {
+   "units": "u313-u318",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 Grade 3 fragments"
+  },
+  {
+   "units": "u319",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 heading (layout duplicate)"
+  },
+  {
+   "units": "u320-u332",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 Grade 3 fragments"
+  },
+  {
+   "units": "u333",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E-J Grade 3"
+  },
+  {
+   "units": "u334",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E-J Grade 6"
+  },
+  {
+   "units": "u335",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E-J Grade 9"
+  },
+  {
+   "units": "u336",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E-J Grade 12"
+  },
+  {
+   "units": "u337",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E Grade 6 fragment 'affiliation.'"
+  },
+  {
+   "units": "u338-u360",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 E-J Grade 3 fragments"
+  },
+  {
+   "units": "u361",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 3"
+  },
+  {
+   "units": "u362",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 6"
+  },
+  {
+   "units": "u363",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 9"
+  },
+  {
+   "units": "u364",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 12"
+  },
+  {
+   "units": "u365-u367",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: basic concepts in lower grades developed more fully"
+  },
+  {
+   "units": "u368-u374",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 9 fragments"
+  },
+  {
+   "units": "u375-u382",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 6 fragments"
+  },
+  {
+   "units": "u383-u387",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3 K Grade 3 fragments"
+  },
+  {
+   "units": "u388",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 How International Relationships Function heading"
+  },
+  {
+   "units": "u389",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 header Grade 3"
+  },
+  {
+   "units": "u390",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 header Grade 6"
+  },
+  {
+   "units": "u391",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 header Grade 9"
+  },
+  {
+   "units": "u392",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 header Grade 12"
+  },
+  {
+   "units": "u393",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 stem"
+  },
+  {
+   "units": "u394",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 A-E Grade 3"
+  },
+  {
+   "units": "u395",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 A-E Grade 6"
+  },
+  {
+   "units": "u396",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 A-E Grade 9"
+  },
+  {
+   "units": "u397",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 A-E Grade 12"
+  },
+  {
+   "units": "u398",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 Grade 6 B fragment"
+  },
+  {
+   "units": "u399",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 heading (layout duplicate)"
+  },
+  {
+   "units": "u400-u401",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 Grade 6 C fragment 'States.'"
+  },
+  {
+   "units": "u402-u413",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4 A-E Grade 3 fragments"
+  },
+  {
+   "units": "u414-u680",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary"
+  }
+ ],
+ "issues": [
+  "u120-u160, u165-u197, u203-u235, u246-u277, u286-u302, u313-u360, u367-u387, u398-u413: loose x= fragments duplicate table-cell text (right-to-left/scrambled); assigned to the grade whose cell text they repeat (mostly Grade 3 -> K-3); u286-u290 matched to Grade 9 (7-9), u292-u296 to Grade 6 (4-6), u298-u302 to Grade 3, u337 'affiliation.' to Grade 6, u369-u374 to Grade 9, u380-u382 to Grade 6, u398 and u400 to Grade 6 by text matching.",
+  "u115, u133, u241, u267, u308, u325, u393, u411: stem 'Pennsylvania's public schools shall teach... needed to ...' is shared by all grade columns; labeled standards, grades all.",
+  "u202, u282, u284, u365, u367: 'Basic concepts found in lower grades ... developed more fully' note in table rows; labeled backup (general note).",
+  "u1-u109: units u1-u109 include TOC and intro fragments in scrambled order (x= layout); all labeled backup. Explanatory text in intro mentions standard descriptors/e.g. but is not itself a standard."
+ ]
+}

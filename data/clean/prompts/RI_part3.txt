@@ -11,6 +11,8 @@ PARTIAL ASSIGNMENT: label ONLY units u7238-u8420 of the file (other agents label
 
 For each file: read its view data/clean/units/RI/<file>.view.txt IN FULL with the Read tool (use offset/limit chunks until the end; never skim or sample), work out the document's internal schema (how grades, courses, strands, standard codes, examples and front matter are marked), write that schema in "structure", then write data/clean/labels/RI/<file>.part3.labels.json (create the directory if needed).
 
+Any helper scripts or scratch files go in /tmp/claude-0/-home-user-US-immigration-education-standards/8523fa47-35d2-56cb-bb46-655bab52e456/scratchpad/agentwork/ (never inside the repository).
+
 Accuracy over speed:
 - Every unit ID in your scope covered exactly once, ranges in document order.
 - Grades from explicit evidence: grade/course headings, table column headers (map each cell's C index to the header row of the same table), standard codes, running headers in the page markers. A table row's first-column cell (strand/component) applies to all grade columns of that row.

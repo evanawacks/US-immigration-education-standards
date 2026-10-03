@@ -1,0 +1,300 @@
+{
+ "state": "NJ",
+ "file": "2020NJSLS-SS_Grades3-5_561b5a.pdf",
+ "structure": "NJSLS-SS 2020 grade-band file for grades 3-5 (end of grade 5). Front matter (intro, mission/vision, framework, practices, structure/coding, essential questions, NJ statutes, references) pp.1-12 identical to the K-2 file. Then 'By End of Grade 5 / Disciplinary Concepts' tables per strand (Civics; Geography; Economics; History) with columns Disciplinary Concept | Description | Core Ideas. Then 'About the NJSLS-SS Eras' (Era 1 Three Worlds Meet to 1620; Era 2 Colonization and Settlement 1585-1763), then Standard 6.1 U.S. History: America in the World by the End of Grade 5 and Standard 6.3 Active Citizenship in the 21st Century by the end of Grade 5, with tables Core Idea | Performance Expectations; PE codes 6.<std>.5.<Strand><Concept>.<n> (e.g. 6.1.5.CivicsPI.1). All grade-level content is the 3-5 band. No courses; no standard 6.2 in this file. Description column cells of the disciplinary concept tables labeled examples (narrative); concept names and core ideas labeled standards.",
+ "labels": [
+  {
+   "units": "u1-u41",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, mission/vision, intent, framework diagram, changes"
+  },
+  {
+   "units": "u42-u63",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices (K-12 practices table)"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Standards in Action: Climate Change"
+  },
+  {
+   "units": "u67-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Structure of the NJSLS-SS, coding of performance expectations"
+  },
+  {
+   "units": "u126-u139",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "The Role of Essential Questions (A-D)"
+  },
+  {
+   "units": "u140-u234",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "NJ Administrative Code summary, statutes, references"
+  },
+  {
+   "units": "u236-u242",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u243",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u246",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u249",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u250-u251",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u252",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u253-u258",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u259",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u260-u265",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u266",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u267-u268",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u269",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u270-u275",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u276",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u277-u282",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u283",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u284-u285",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u286",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u289",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u290-u293",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u294",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u295-u300",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u301",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u302-u307",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u308",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u309-u310",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u311",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u312",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 5 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u313-u314",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "About the NJSLS-SS Eras (explanatory)"
+  },
+  {
+   "units": "u315-u317",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 by end of grade 5: Era 1 and Era 2 headings"
+  },
+  {
+   "units": "u318-u499",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 and 6.3 by end of grade 5: core ideas and performance expectations"
+  }
+ ],
+ "issues": [
+  "u239-u312: table cells split across pages (u289/u292); continuation labeled by column (C2 description).",
+  "u325, u476: stray bullet-only cells ('• •') in PE tables; labeled standards.",
+  "u326-u329, u477-u481: PE sentences broken across rows by line wrapping; kept in table order.",
+  "u337, u340-u354: Core Idea 'Through participation in the decision-making process...' is split into fragments across a page break and columns (C1/C2) in the PE table; fragments duplicate core idea text; labeled standards.",
+  "u445: 6.1.5.HistoryCC.8-15 PEs continue on page 38 under header row without core-idea text (core idea is on u440); 6.1.5.HistoryCC.5 and .10 near duplicates in source.",
+  "u425: 6.1.5.EconNE core idea 'The government uses a variety of tools to pay for goods...' is not in the disciplinary concepts table (source inconsistency).",
+  "u313-u314: 'About the NJSLS-SS Eras' header and note labeled backup; u315-u317 era list for grade 5 labeled standards (organizing headings).",
+  "u126-u139: Essential questions are K-12 framework-level; labeled examples with grades 3-5 (could arguably be backup).",
+  "u42-u63: Social Studies Practices apply K-12; labeled 3-5 (this document's range) as standards.",
+  "State guide did not mention the Description column in the Disciplinary Concepts tables nor the Eras section.",
+  "6.1.5.HistoryUP.1 (u450) concerns immigration to NJ/America; noted for immigration content search."
+ ]
+}

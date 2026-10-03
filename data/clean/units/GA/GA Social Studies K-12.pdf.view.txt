@@ -1,0 +1,991 @@
+=== page 1 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-05 | Implementation Date:  2021-02-12 | Content Standard]
+u3 Print Date: October 2, 2026 3:18 PM
+u4 Elementary Social Studies K-5
+u5 (x=95) Grade Level
+u8 45.00100 Social Studies/Grade K
+u9 In kindergarten, students begin to understand the foundations of the social studies strands: history, geography, government, and economics. Students begin their introduction to United States history through the study of important American holidays and symbols. Basic concepts of geography are presented. Civics provides students with an introduction to rules and character traits of good citizens. Basic economic concepts are also introduced.
+u10 (x=105) Course
+u11 (x=242) KG
+u13 Historical Understandings
+u14 (x=124) Cluster
+u15 (x=251) KG
+u17 SSKH1 Identify the national holidays and describe the people and/or events
+u18 celebrated.
+u19 2021 Elements changed- changed element D to be Juneteenth National Independence Day
+u20 **Order: **
+u21 SSKH1 Identify the national holidays and describe the people and/or events celebrated.
+u22 a. Christmas
+u23 b. Columbus Day
+u24 c. Independence Day
+u25 d. Juneteenth National Independence Day ADDED (shifted all elements down one letter).
+u26 e. Labor Day
+u27 f. Martin Luther King, Jr. Day
+u28 g. Memorial Day
+u29 h. New Year’s Day
+u30 i. Presidents Day (George Washington, Abraham Lincoln, and the current president)
+u31 j. Thanksgiving Day
+u32 k. Veterans Day
+u34 (x=282) KG
+=== page 2 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u40 SSKH1.a Christmas
+u42 (x=271) KG
+u44 SSKH1.b Columbus Day
+u46 (x=271) KG
+u48 SSKH1.c Independence Day
+u50 (x=271) KG
+u52 SSKH1.d Juneteenth National Independence Day
+u54 (x=271) KG
+u56 SSKH1.e Labor Day
+u58 (x=271) KG
+u60 SSKH1.f Martin Luther King, Jr. Day
+u62 (x=271) KG
+u64 SSKH1.g Memorial Day
+u66 (x=271) KG
+u68 SSKH1.h New Year’s Day
+u70 (x=271) KG
+u72 SSKH1.i Presidents Day (George Washington, Abraham Lincoln, and the
+u73 current president)
+u75 (x=271) KG
+u77 SSKH1.j Thanksgiving Day
+u79 (x=271) KG
+u81 SSKH1.k Veterans Day
+u83 (x=271) KG
+u85 SSKH2 Identify the following American symbols:
+u87 (x=282) KG
+u89 SSKH2.a The national and state flags (United States and Georgia flags)
+=== page 3 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u95 (x=271) KG
+u97 SSKH2.b Pledge of Allegiance
+u99 (x=271) KG
+u101 SSKH2.c Star Spangled Banner (identify as the national anthem)
+u103 (x=271) KG
+u105 SSKH2.d The bald eagle
+u107 (x=271) KG
+u109 SSKH2.e The Statue of Liberty
+u111 (x=271) KG
+u113 SSKH2.f Lincoln Memorial (identify image and associate with Abraham
+u114 Lincoln and Presidents Day)
+u116 (x=271) KG
+u118 SSKH2.g Washington Monument (identify image and associate with
+u119 George Washington and Presidents Day)
+u121 (x=271) KG
+u123 SSKH2.h White House (identify image and associate with Presidents Day
+u124 and the current president)
+u126 (x=271) KG
+u128 SSKH3 Correctly use words and phrases related to chronology and time. (Note:
+u129 These elements should be integrated into discussions about historical events and figures.)
+u131 (x=282) KG
+u133 SSKH3.a Now, long ago
+u135 (x=271) KG
+u137 SSKH3.b Before, after
+u139 (x=271) KG
+u141 SSKH3.c Today, tomorrow, yesterday
+u143 (x=271) KG
+=== page 4 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u149 SSKH3.d First, last, next
+u151 (x=271) KG
+u153 SSKH3.e Day, week, month, year
+u155 (x=271) KG
+u157 SSKH3.f Past, present, future
+u159 (x=271) KG
+u161 Geographic Understandings
+u162 (x=124) Cluster
+u163 (x=251) KG
+u165 SSKG1 Describe the diversity of American culture by explaining the customs and
+u166 celebrations of various families and communities.
+u168 (x=282) KG
+u170 SSKG2 Explain that a map is a drawing of a place and a globe is a model of
+u171 Earth.
+u173 (x=282) KG
+u175 SSKG2.a Differentiate land and water features on simple maps and globes.
+u177 (x=271) KG
+u179 SSKG2.b Explain that maps and globes show a view from above
+u181 (x=271) KG
+u183 SSKG2.c Explain that maps and globes show features in a smaller size.
+u185 (x=271) KG
+u187 SSKG3 State the street address, city, state, and country in which the student lives.
+u189 (x=282) KG
+u191 Government/Civic Understandings
+u192 (x=124) Cluster
+u193 (x=251) KG
+u195 SSKCG1 Demonstrate an understanding of good citizenship.
+u197 (x=282) KG
+u199 SSKCG1.a Explain how rules are made and why.
+=== page 5 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u205 (x=271) KG
+u207 SSKCG1.b Explain why rules should be followed.
+u209 (x=271) KG
+u211 SSKCG2 Describe examples of positive character traits exhibited by good
+u212 citizens such as honesty, patriotism, courtesy, respect, pride, and self-control.
+u214 (x=282) KG
+u216 Economic Understandings
+u217 (x=124) Cluster
+u218 (x=251) KG
+u220 SSKE1 Describe the work that people do such as: police officer, fire fighter,
+u221 soldier, mail carrier, farmer, doctor, teacher, etc.
+u223 (x=282) KG
+u225 SSKE2 Explain that people earn income by working.
+u227 (x=282) KG
+u229 SSKE3 Explain how money is used to purchase goods and services.
+u231 (x=282) KG
+u233 SSKE3.a Distinguish goods from services.
+u235 (x=271) KG
+u237 SSKE3.b Identify that U.S. coins and dollar bills (paper money) are used as
+u238 currency.
+u240 (x=271) KG
+u242 SSKE4 Explain that people must make choices because they cannot have
+u243 everything they want.
+u245 (x=282) KG
+u247 Map and Globe Skills
+u248 GOAL: The student will use maps to retrieve social studies information.
+u249 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in
+=== page 6 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-12 | Implementation Date:  2021-02-12 | Content Standard]
+u254 all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u255 (x=122) Domain
+u258 SSMGS1 Use a compass rose to identify cardinal directions. (Introduced)
+u259 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u260 Based on the following general sequence for Map and Globe Skills:
+u261 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u263 (x=282) KG
+u265 Information Processing Skills
+u266 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u267 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u268 (x=122) Domain
+u271 SSIPS1 Compare similarities and differences. (Introduced)
+u272 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u274 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u276 (x=282) KG
+u278 SSIPS2 Organize items chronologically. (Introduced)
+=== page 7 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | Implementation Date:  2021-02-12]
+u283 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u285 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u287 (x=282) KG
+u289 SSIPS3 Identify issues and/or problems and alternative solutions. (Introduced)
+u290 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u292 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u294 (x=282) KG
+u296 45.00200 Social Studies/Grade 1
+u297 In the first grade, students continue their introduction to United States history through the study of selected historical figures. In the history strand, students study the important contributions each historical person made. In the geography strand, students learn about where these historical people lived and explore important basic geographic concepts. The civics strand provides a study of the positive character traits exhibited by these important historical figures. The economics strand continues the introduction of basic economic concepts.
+u298 (x=105) Course
+u301 Historical Understandings
+u302 (x=125) Cluster
+u305 SS1H1 Read about and describe the life of historical figures in American history.
+=== page 8 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u313 SS1H1.a Identify the contributions made by these figures: Benjamin
+u314 Franklin (inventor/author/ statesman), Thomas Jefferson (Declaration of Independence), Meriwether Lewis and William Clark with Sacagawea (exploration), Theodore Roosevelt (National Parks and the environment), George Washington Carver (science), and Ruby Bridges (civil rights).
+u318 SS1H1.b Describe how everyday life of these historical figures is similar to
+u319 and different from everyday life in the present (for example: food, clothing, homes, transportation, communication, recreation, etc.).
+u323 Geographic Understandings
+u324 (x=125) Cluster
+u327 SS1G1 Describe how each historic figure in SS1H1a was influenced by his or her
+u328 time and place.
+u332 SS1G1.a American colonies (Benjamin Franklin and Thomas Jefferson)
+u336 SS1G1.b American frontier (Lewis & Clark and Sacagawea)
+u340 SS1G1.c National Parks (Theodore Roosevelt)
+u344 SS1G1.d Southern U.S. (George Washington Carver and Ruby Bridges)
+u348 SS1G2 Identify and locate the student's city, county, state, nation (country), and
+u349 continent on a simple map or a globe.
+u353 SS1G3 Locate major topographical features of the earth's surface.
+u357 SS1G3.a Locate all of the continents: North America, South America,
+u358 Africa, Europe, Asia, Antarctica, and Australia.
+=== page 9 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u366 SS1G3.b Locate the major oceans: Arctic, Atlantic, Pacific, Southern, and
+u367 Indian Ocean.
+u368 2021 added Southern to SS1G3b
+u372 SS1G3.c Identify and describe landforms (mountains, deserts, valleys, and
+u373 coasts).
+u377 Government/Civic Understandings
+u378 (x=125) Cluster
+u381 SS1CG1 Describe how the historical figures in SS1H1a display positive character
+u382 traits such as: fairness, respect for others, respect for the environment, courage, equality, tolerance, perseverance, and commitment.
+u386 SS1CG2 Explore the concept of patriotism through the words in the songs
+u387 America (My Country 'Tis of Thee) and America the Beautiful (for example: brotherhood, liberty, freedom, pride, etc.).
+u391 Economic Understandings
+u392 (x=125) Cluster
+u395 SS1E1 Identify goods that people make and services that people provide for each
+u396 other.
+u400 SS1E2 Explain that scarcity is when unlimited wants are greater than limited
+u401 resources.
+u405 SS1E3 Describe how people are both producers and consumers.
+u409 SS1E4 Explain that people earn income by working and that they must make
+u410 choices about how much to save and spend.
+=== page 10 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | Implementation Date:  2021-02-12 | KG-12]
+u418 Map and Globe Skills K-12
+u419 GOAL: The student will use maps to retrieve social studies information.
+u420 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u421 (x=124) Skill
+u424 SSMGS1 Use a compass rose to identify cardinal directions. (Mastery)
+u425 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u426 Based on the following general sequence for Map and Globe Skills:
+u427 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u431 SSMGS2 Use intermediate directions. (Introduced)
+u433 Based on the following general sequence for Map and Globe Skills:
+u434 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u438 SSMGS7 Use a map to explain impact of geography on historical and current
+u439 events. (Introduced)
+=== page 11 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u445 Based on the following general sequence for Map and Globe Skills:
+u446 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u450 Information Processing Skills
+u451 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u452 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u453 (x=122) Domain
+u456 SSIPS1 Compare similarities and differences. (Developing)
+u457 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u459 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u463 SSIPS2 Organize items chronologically. (Developing)
+u464 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u466 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate
+=== page 12 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u471 content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u475 SSIPS3 Identify issues and/or problems and alternative solutions. (Developing)
+u476 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u478 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u482 SSIPS4 Distinguish between fact and opinion. (Introduced)
+u483 Introduced (I): Grade 1 Developing (D): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u485 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u489 SSIPS5 Identify main idea, detail, sequence of events, and cause and effect in a
+u490 social studies context. (Introduced)
+u493 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 13 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u498 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u502 SSIPS6 Identify and use primary and secondary sources. (Introduced)
+u505 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u509 SSIPS7 Interpret timelines, charts, and tables. (Introduced)
+u512 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u516 45.00300 Social Studies/Grade 2
+u517 In second grade, the various social studies strands become interwoven with the historical strand. The history strand focuses on important historical figures in Georgia and the Muscogee (Creek) and Cherokee cultures in Georgia. The geography strand emphasizes the geography of Georgia and relates to the historical study. In addition to the positive character traits of the individuals and groups in the historical strand, the basic concept of government is also introduced. Basic economics concepts continue to be introduced.
+u518 (x=105) Course
+u521 Historical Understandings
+=== page 14 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Implementation Date:  2021-02-12 | Content Standard | Element]
+u526 (x=125) Cluster
+u529 SS2H1 Describe the lives and contributions of historical figures in Georgia
+u530 history.
+u534 SS2H1.a James Oglethorpe, Tomochichi, and Mary Musgrove (founding of
+u535 Georgia)
+u539 SS2H1.b Sequoyah (development of a Cherokee alphabet)
+u543 SS2H1.c Jackie Robinson (sportsmanship and civil rights)
+u547 SS2H1.d Martin Luther King, Jr. (civil rights)
+u551 SS2H1.e Juliette Gordon Low (Girl Scouts and leadership)
+u555 SS2H1.f Jimmy Carter (leadership and human rights)
+u559 SS2H2 Describe the Georgia Muscogee (Creek) and Cherokee cultures of the
+u560 past in terms of tools, clothing, homes, ways of making a living, and accomplishments.
+u564 SS2H2.a Compare and contrast the Georgia Muscogee (Creek) and
+u565 Cherokee cultures of the past to those of Georgians today.
+u569 Geographic Understandings
+u570 (x=125) Cluster
+u573 SS2G1 Locate and compare major topographical features of Georgia and
+u574 describe how these features define Georgia's surface.
+=== page 15 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u582 SS2G1.a Locate and compare the geographic regions of Georgia: Blue
+u583 Ridge, Piedmont, Coastal Plain, Ridge and Valley, and Appalachian Plateau.
+u587 SS2G1.b Locate on a physical map the major rivers: Savannah, Flint, and
+u588 Chattahoochee.
+u592 SS2G2 Describe the cultural and geographic systems associated with the
+u593 historical figures in SS2H1 and Georgia's Muscogee (Creek) and Cherokee in SS2H2.
+u597 SS2G2.a Identify specific locations significant to the life and times of each
+u598 historic figure, and the Muscogee (Creek) and Cherokee, on a political or physical map.
+u602 SS2G2.b Describe how each historic figure and the Muscogee (Creek) and
+u603 Cherokee adapted to and were influenced by their environments.
+u607 SS2G2.c Describe how the region in which these historic figures lived
+u608 affected their lives and compare these regions to the region in which students live.
+u612 SS2G2.d Describe the regions in Georgia where the Muscogee (Creek) and
+u613 Cherokee lived and how the people used their local resources.
+u617 Government/Civic Understandings
+u618 (x=125) Cluster
+u621 SS2CG1 Define the concept of government and the need for rules and laws.
+u625 SS2CG2 Identify the following elected officials of the executive branch and where
+u626 they work:
+=== page 16 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u634 SS2CG2.a President (leader of our nation) and Washington, D.C. – White
+u635 House
+u639 SS2CG2.b Governor (leader of our state) and Atlanta, GA – State Capitol
+u640 Building
+u644 SS2CG2.c Mayor (leader of a city) and city hall
+u648 SS2CG3 Give examples of how the historical figures in SS2H1 demonstrate
+u649 positive citizenship traits such as: honesty, dependability, trustworthiness, honor, civility, good sportsmanship, patience, and compassion.
+u653 Economic Understandings
+u654 (x=125) Cluster
+u657 SS2E1 Explain that because of scarcity, people must make choices that result in
+u658 opportunity costs.
+u662 SS2E2 Identify some ways in which goods and services are allocated (such as:
+u663 price, majority rule, contests, force, sharing, lottery, authority, first-come-first- served, and personal characteristics).
+u667 SS2E3 Explain that people usually use money to obtain the goods and services
+u668 they want and explain how money makes trade easier than barter.
+u672 SS2E4 Describe the costs and benefits of personal saving and spending choices.
+u676 Map and Globe Skills K-12
+u677 GOAL: The student will use maps to retrieve social studies information.
+u678 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in
+=== page 17 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-12 | Implementation Date:  2021-02-12 | Content Standard]
+u683 all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u684 (x=124) Skill
+u687 SSMGS1 Use a compass rose to identify cardinal directions. (Apply and Improve
+u688 Mastered Skills)
+u689 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u690 Based on the following general sequence for Map and Globe Skills:
+u691 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u695 SSMGS2 Use intermediate directions. (Mastery)
+u697 Based on the following general sequence for Map and Globe Skills:
+u698 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u702 SSMGS3 Use a letter/number grid system to determine location. (Introduced)
+u704 Based on the following general sequence for Map and Globe Skills:
+u705 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 18 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u713 SSMGS4 Compare and contrast the categories of natural, cultural, and political
+u714 features found on maps. (Introduced)
+u716 Based on the following general sequence for Map and Globe Skills:
+u717 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u721 SSMGS6 Use map key/legend to acquire information from historical, physical,
+u722 political, resource, product, and economic maps. (Introduced)
+u723 Introduced (I): Grade 2 Developing (D): Grade 3 Mastery (M): Grade 4 Apply and Improve Mastered Skills (A): Grades 5-12
+u724 Based on the following general sequence for Map and Globe Skills:
+u725 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u729 SSMGS7 Use a map to explain impact of geography on historical and current
+u730 events. (Developing)
+u732 Based on the following general sequence for Map and Globe Skills:
+u733 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 19 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-12 | Implementation Date:  2021-02-12 | Based on the following general sequence for Information Processing Ski]
+u741 Information Processing Skills K-12
+u742 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u743 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u744 (x=122) Domain
+u747 SSIPS1 Compare similarities and differences. (Mastery)
+u748 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u750 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u754 SSIPS2 Organize items chronologically. (Developing)
+u755 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u757 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u761 SSIPS3 Identify issues and/or problems and alternative solutions. (Developing)
+u762 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+=== page 20 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | KG-12]
+u768 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u772 SSIPS4 Distinguish between fact and opinion. (Developing)
+u773 Introduced (I): Grade 1 Developing (D): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u775 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u779 SSIPS5 Identify main idea, detail, sequence of events, and cause and effect in a
+u780 social studies context. (Developing)
+u783 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u787 SSIPS6 Identify and use primary and secondary sources. (Developing)
+=== page 21 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u794 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u798 SSIPS7 Interpret timelines, charts, and tables.(Developing)
+u801 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u805 SSIPS8 Identify social studies reference resources to use for a specific purpose.
+u806 (Introduced)
+u809 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u813 SSIPS9 Construct charts and tables. (Introduced)
+=== page 22 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u820 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u824 SSIPS10 Analyze artifacts. (Introduced)
+u827 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u831 45.00400 Social Studies/Grade 3
+u832 In third grade, students begin a three-year study of United States history in which all four strands (history, geography, civics/government, and economics) are integrated. Students learn about American Indian cultures and the exploration and colonization of North America. The geography strand emphasizes the influence of geography on early U.S. history. In the civics/government strand, students learn about the elements of our representative democracy and their rights and responsibilities as good citizens. Students will extend and apply their understanding of basic economic concepts.
+u833 (x=105) Course
+u836 Historical Understandings
+u837 (x=125) Cluster
+u840 SS3H1 Describe early American Indian cultures and their development in North
+u841 America.
+u845 SS3H1.a Locate the regions where American Indians settled in North
+u846 America: Arctic, Northwest Southwest, Plains, Northeast, and Southeast.
+=== page 23 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u854 SS3H1.b Compare and contrast how American Indians in each region used
+u855 their environment to obtain food, clothing, and shelter.
+u859 SS3H1.c Discuss how American Indians continue to contribute to
+u860 American life (e.g., arts, literature).
+u864 SS3H2 Describe European exploration in North America.
+u868 SS3H2.a Describe the reasons for and obstacles to the exploration of
+u869 North America.
+u873 SS3H2.b Describe the accomplishments of: John Cabot (England), Vasco
+u874 Núñez de Balboa (Spain), Hernando de Soto (Spain), Christopher Columbus (Spain), Henry Hudson (The Netherlands), and Jacques Cartier (France).
+u878 SS3H2.c Describe examples of cooperation and conflict between European
+u879 explorers and American Indians.
+u883 SS3H3 Explain the factors that shaped British Colonial America.
+u887 SS3H3.a Identify key reasons why the New England, Mid-Atlantic, and
+u888 Southern colonies were founded (religious freedom and profit).
+u892 SS3H3.b Compare and contrast colonial life in the New England, Mid-
+u893 Atlantic, and Southern colonies (education, economy, and religion).
+u897 SS3H3.c Describe colonial life in America from the perspectives of various
+u898 people: large landowners, farmers, artisans, women, children, indentured servants, slaves, and American Indians.
+=== page 24 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u906 Geographic Understandings
+u907 (x=125) Cluster
+u910 SS3G1 Locate major topographical features on a physical map of the United
+u911 States.
+u915 SS3G1.a Locate major rivers of the United States of America: Mississippi,
+u916 Ohio, Rio Grande, Colorado, Hudson, and St. Lawrence.
+u920 SS3G1.b Locate major mountain ranges of the United States of America:
+u921 Appalachian, Rocky.
+u925 SS3G2 Locate and describe the equator, prime meridian, and lines of latitude and
+u926 longitude on a globe.
+u930 SS3G3 Describe how physical systems affect human systems.
+u934 SS3G3.a Explain why American Indian groups occupied the areas they did
+u935 (SS3H1a), with emphasis on why some developed permanent villages and others did not.
+u939 SS3G3.b Describe how the early explorers (SS3H2a) adapted, or failed to
+u940 adapt, to the various physical environments in which they traveled.
+u944 SS3G3.c Explain how the physical geography of the New England, Mid-
+u945 Atlantic, and Southern colonies helped determine economic activities.
+u949 Government/Civic Understandings
+u950 (x=125) Cluster
+=== page 25 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | Implementation Date:  2021-02-12 | Element]
+u957 SS3CG1 Describe the elements of representative democracy/republic in the
+u958 United States.
+u962 SS3CG1.a Describe the three branches of national government: executive
+u963 (president), legislative (Congress), and judicial (Supreme Court of the United States).
+u967 SS3CG1.b Describe the three branches of state government: executive
+u968 (governor), legislative (Georgia General Assembly), and judicial (Supreme Court of Georgia).
+u972 SS3CG1.c State the main responsibility of each branch: executive
+u973 (enforcing laws), legislative (making laws), judicial (interprets the laws).
+u977 SS3CG2 Explain the importance of Americans sharing certain central democratic
+u978 beliefs and principles, both personal and civic.
+u982 SS3CG2.a Explain the necessity of respecting the rights of others and
+u983 promoting the common good.
+u987 SS3CG2.b Explain the necessity of obeying reasonable laws/rules
+u988 voluntarily, and explain why it is important for citizens in a democratic society to participate in public (civic) life (staying informed, voting, volunteering, and communicating with public officials).
+u992 Economic Understandings
+u993 (x=125) Cluster
+u996 SS3E1 Define and give examples of the four types of productive resources.
+u1000 SS3E1.a Natural (land)
+=== page 26 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1008 SS3E1.b Human (labor)
+u1012 SS3E1.c Capital (capital goods)
+u1016 SS3E1.d Entrepreneurship (risk-taking and combining natural, human, and
+u1017 capital resources in an attempt to make a profit)
+u1021 SS3E2 Explain that governments provide certain types of goods and services in a
+u1022 market economy (schools, libraries, roads, police/fire protection, and military) and pay for these through taxes.
+u1026 SS3E3 Give examples of interdependence and trade and explain the benefits of
+u1027 voluntary exchange.
+u1031 SS3E3.a Describe the interdependence of consumers and producers.
+u1035 SS3E3.b Describe how goods and services are allocated by price in the
+u1036 marketplace.
+u1040 SS3E3.c Explain that some goods are made locally, some elsewhere in the
+u1041 country, and some in other countries.
+u1045 SS3E3.d Explain that most countries create their own currency for use as
+u1046 money.
+u1050 SS3E4 Explain the concept of opportunity cost as it relates to making a saving or
+u1051 spending choice.
+u1055 Map and Globe Skills K-12
+=== page 27 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-12 | Implementation Date:  2021-02-12 | Content Standard]
+u1060 GOAL: The student will use maps to retrieve social studies information.
+u1061 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1062 (x=124) Skill
+u1065 SSMGS1 Use a compass rose to identify cardinal directions. (Apply and Improve
+u1066 Mastered Skills)
+u1067 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u1068 Based on the following general sequence for Map and Globe Skills:
+u1069 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1073 SSMGS2 Use intermediate directions. (Apply and Improve Mastered Skills)
+u1075 Based on the following general sequence for Map and Globe Skills:
+u1076 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1080 SSMGS3 Use a letter/number grid system to determine location. (Mastery)
+u1082 Based on the following general sequence for Map and Globe Skills:
+u1083 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate
+=== page 28 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1088 content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1092 SSMGS4 Compare and contrast the categories of natural, cultural, and political
+u1093 features found on maps. (Mastery)
+u1095 Based on the following general sequence for Map and Globe Skills:
+u1096 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1100 SSMGS6 Use map key/legend to acquire information from historical, physical,
+u1101 political, resource, product, and economic maps. (Developing)
+u1102 Introduced (I): Grade 2 Developing (D): Grade 3 Mastery (M): Grade 4 Apply and Improve Mastered Skills (A): Grades 5-12
+u1103 Based on the following general sequence for Map and Globe Skills:
+u1104 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1108 SSMGS7 Use a map to explain impact of geography on historical and current
+u1109 events. (Developing)
+u1111 Based on the following general sequence for Map and Globe Skills:
+u1112 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 29 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1117 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1121 SSMGS8 Draw conclusions and make generalizations based on information from
+u1122 maps. (Introduced)
+u1124 Based on the following general sequence for Map and Globe Skills:
+u1125 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1129 SSMGS9 Use latitude and longitude to determine location. (Introduced)
+u1131 Based on the following general sequence for Map and Globe Skills:
+u1132 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1136 Information Processing Skills K-12
+u1137 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u1138 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1139 (x=122) Domain
+=== page 30 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | KG-12]
+u1146 SSIPS1 Compare similarities and differences. (Apply and Improve Mastered
+u1147 Skills)
+u1148 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u1150 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1154 SSIPS2 Organize items chronologically. (Mastery)
+u1155 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u1157 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1161 SSIPS3 Identify issues and/or problems and alternative solutions. (Developing)
+u1162 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1164 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 31 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | KG-12]
+u1172 SSIPS4 Distinguish between fact and opinion. (Mastery)
+u1173 Introduced (I): Grade 1 Developing (D): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u1175 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1179 SSIPS5 Identify main idea, detail, sequence of events, and cause and effect in a
+u1180 social studies context. (Developing)
+u1183 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1187 SSIPS6 Identify and use primary and secondary sources. (Developing)
+u1190 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 32 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Introduced (I): Grade 1 Developing (D): Grades 2-3 Mastery (M): Grade  | Based on the following general sequence for Information Processing Ski | Content Standard]
+u1198 SSIPS7 Interpret timelines, charts, and tables.(Developing)
+u1201 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1205 SSIPS8 Identify social studies reference resources to use for a specific purpose.
+u1206 (Mastery)
+u1209 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1213 SSIPS9 Construct charts and tables. (Mastery)
+u1216 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 33 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Introduced (I): Grade 2 Developing (D): Grades 3-4 Mastery (M): Grade  | Based on the following general sequence for Information Processing Ski | Content Standard]
+u1224 SSIPS10 Analyze artifacts. (Developing)
+u1227 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1231 SSIPS11 Draw conclusions and make generalizations. (Introduced)
+u1234 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1238 SSIPS12 Analyze graphs and diagrams. (Introduced)
+u1239 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1241 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1245 SSIPS13 Translate dates into centuries, eras, or ages. (Introduced)
+=== page 34 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | KG-12]
+u1250 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1252 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1256 45.00500 Social Studies/Grade 4
+u1257 In fourth grade, students continue with year two of a three year study of United States history in which all four strands (history, geography, civics/government, and economics) are integrated. Students begin the year learning about the French and Indian War and end with the Reconstruction period. The geography strand emphasizes the influence of geography on U.S. history during these same time periods. In the civics/government strand, students learn about concepts and rights contained within our founding documents. The economic strand uses material from the history strand to deepen understanding of economic concepts.
+u1258 (x=105) Course
+u1261 Historical Understandings
+u1262 (x=125) Cluster
+u1265 SS4H1 Explain the causes, events, and results of the American Revolution.
+u1269 SS4H1.a Trace the events that shaped the revolutionary movement in
+u1270 America: French and Indian War, 1765 Stamp Act, the slogan "no taxation without representation," the activities of the Sons of Liberty, the activities of the Daughters of Liberty, Boston Massacre, and the Boston Tea Party.
+u1274 SS4H1.b Describe the influence of key individuals and groups during the
+u1275 American Revolution: King George III, George Washington, Benjamin Franklin, Thomas Jefferson, Benedict Arnold, Patrick Henry, John Adams, Paul Revere, and Black regiments.
+u1279 SS4H1.c Describe the major events of the American Revolution and explain
+u1280 the factors leading to American victory and British defeat; include the
+=== page 35 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1285 Battles of Lexington and Concord, Saratoga, and Yorktown.
+u1289 SS4H1.d Explain the writing of the Declaration of Independence; include
+u1290 who wrote it, how it was written, why it was necessary, and how it was a response to tyranny and the abuse of power.
+u1294 SS4H2 Analyze the challenges faced by the framers of the Constitution.
+u1298 SS4H2.a Identify the major leaders of the Constitutional Convention
+u1299 (James Madison, George Washington, and Benjamin Franklin).
+u1303 SS4H2.b Evaluate the major issues debated at the Constitutional
+u1304 Convention: the weaknesses of the Articles of Confederation, the rights of states to govern themselves (federal system), the Great Compromise, and slavery (Three-Fifths Compromise).
+u1308 SS4H3 Explain westward expansion in America.
+u1312 SS4H3.a Describe the causes and events of the War of 1812; include the
+u1313 burning of the Capitol and the White House and the writing of "The Star Spangled Banner."
+u1317 SS4H3.b Describe the impact of westward expansion on American Indians;
+u1318 include the Trail of Tears, Battle of Little Bighorn and the forced relocation of American Indians to reservations.
+u1322 SS4H3.c Describe territorial expansion with emphasis on the Louisiana
+u1323 Purchase, the Lewis and Clark expedition, and the acquisitions of Texas (the Alamo and independence), Oregon (Oregon Trail), and California (Gold Rush and the development of mining towns).
+u1327 SS4H4 Examine the main ideas of the abolitionist and suffrage movements.
+=== page 36 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | Implementation Date:  2021-02-12 | Element]
+u1335 SS4H4.a Discuss contributions of and challenges faced by Susan B.
+u1336 Anthony, Frederick Douglass, Elizabeth Cady Stanton, Sojourner Truth, and Harriet Tubman.
+u1340 SS4H5 Explain the causes, major events, and consequences of the Civil War.
+u1344 SS4H5.a Identify Uncle Tom's Cabin and John Brown's raid on Harper's
+u1345 Ferry and explain how each of these events was related to the Civil War.
+u1349 SS4H5.b Discuss how the issues of states' rights and slavery increased
+u1350 tensions between the North and South.
+u1354 SS4H5.c Identify major battles, campaigns, and events: Fort Sumter,
+u1355 Gettysburg, the Atlanta Campaign, Sherman's March to the Sea, and Appomattox Court House.
+u1359 SS4H5.d Describe the roles of Abraham Lincoln, Robert E. Lee, Ulysses S.
+u1360 Grant, Jefferson Davis, Thomas "Stonewall" Jackson, and William T. Sherman.
+u1364 SS4H5.e Describe the effects of war on the North and South.
+u1368 SS4H6 Analyze the effects of Reconstruction on American life.
+u1372 SS4H6.a Describe the purpose of the 13th, 14th, and 15th Amendments.
+u1376 SS4H6.b Explain the work of the Bureau of Refugees, Freedmen, and
+u1377 Abandoned Lands (Freedmen's Bureau).
+=== page 37 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1385 SS4H6.c Explain how slavery was replaced by sharecropping and how
+u1386 freed African Americans or Blacks were prevented from exercising their newly won rights.
+u1390 SS4H6.d Describe the effects of Jim Crow laws and practices.
+u1394 Geographic Understandings
+u1395 (x=125) Cluster
+u1398 SS4G1 Locate important physical and man-made features in the United States.
+u1402 SS4G1.a Locate major physical features of the United States: the Atlantic
+u1403 Coastal Plain, the Great Plains, the Continental Divide, the Gulf of Mexico, the Mississippi River, and the Great Lakes.
+u1407 SS4G1.b Locate major man-made features of the United States: New York
+u1408 City, NY; Boston, MA; Philadelphia, PA; Washington, D.C.; Gettysburg, PA; and the Erie Canal.
+u1412 SS4G2 Describe how physical systems affect human systems.
+u1416 SS4G2.a Explain how each force (American and British) attempted to use
+u1417 the physical geography of each battle site (Lexington and Concord, Saratoga, and Yorktown) to its benefit.
+u1421 SS4G2.b Describe physical barriers that hindered and physical gateways
+u1422 that benefited territorial expansion from 1801 to 1861.
+u1426 Government/Civic Understandings
+u1427 (x=125) Cluster
+u1430 SS4CG1 Describe the meaning of:
+=== page 38 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | Implementation Date:  2021-02-12 | Element]
+u1438 SS4CG1.a Natural rights as found in the Declaration of Independence (the
+u1439 right to life, liberty, and the pursuit of happiness)
+u1443 SS4CG1.b "We the People" from the Preamble to the U.S. Constitution as a
+u1444 reflection of consent of the governed or popular sovereignty
+u1448 SS4CG1.c The federal system of government in the U.S. (federal powers,
+u1449 state powers, and shared powers)
+u1453 SS4CG1.d Representative democracy/republic
+u1457 SS4CG2 Explain the importance of freedoms guaranteed by the First Amendment
+u1458 to the U.S. Constitution.
+u1462 SS4CG3 Describe the structure of government and the Bill of Rights.
+u1466 SS4CG3.a Describe how the three branches of government interact with
+u1467 each other (checks and balances and separation of powers), and how they relate to local, state, and federal government.
+u1471 SS4CG3.b Identify and explain the rights in the Bill of Rights, describe how
+u1472 the Bill of Rights places limits on the powers of government, and explain the reasons for its inclusion in the Constitution in 1791.
+u1476 Economic Understandings
+u1477 (x=125) Cluster
+u1480 SS4E1 Use the basic economic concepts of trade, opportunity cost,
+u1481 specialization, voluntary exchange, productivity, and price incentives to illustrate historical events.
+=== page 39 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1489 SS4E1.a Describe opportunity cost and its relationship to decision-making
+u1490 across time (e.g., decisions to settle in the west).
+u1494 SS4E1.b Explain how price incentives affect people's behavior and choices:
+u1495 decisions about what crops (e.g., cotton, and tobacco) to grow and products (e.g., textiles) to produce.
+u1499 SS4E1.c Describe how specialization improves standards of living (e.g.,
+u1500 differences in the economies in the North and South).
+u1504 SS4E1.d Explain how voluntary exchange helps both buyers and sellers
+u1505 (e.g., Gold Rush mining towns).
+u1509 SS4E1.e Describe how trade promotes economic activity (e.g., trade
+u1510 between the U.S. and Europe).
+u1514 SS4E1.f Give examples of technological advancements and their impact on
+u1515 business productivity during the development of the United States (e.g., cotton gin, steamboat, steam locomotive, and telegraph).
+u1519 SS4E2 Identify the elements of a personal budget (income, expenditures, and
+u1520 saving) and explain why personal spending and saving decisions are important.
+u1524 Map and Globe Skills K-12
+u1525 GOAL: The student will use maps to retrieve social studies information.
+u1526 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1527 (x=124) Skill
+=== page 40 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1534 SSMGS1 Use a compass rose to identify cardinal directions. (Apply and Improve
+u1535 Mastered Skills)
+u1536 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u1537 Based on the following general sequence for Map and Globe Skills:
+u1538 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1542 SSMGS2 Use intermediate directions. (Apply and Improve Mastered Skills)
+u1544 Based on the following general sequence for Map and Globe Skills:
+u1545 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1549 SSMGS3 Use a letter/number grid system to determine location. (Apply and
+u1550 Improve Mastered Skills)
+u1552 Based on the following general sequence for Map and Globe Skills:
+u1553 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1557 SSMGS4 Compare and contrast the categories of natural, cultural, and political
+u1558 features found on maps. (Apply and Improve Mastered Skills)
+=== page 41 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Introduced (I): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastere | Content Standard | KG-12]
+u1564 Based on the following general sequence for Map and Globe Skills:
+u1565 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1569 SSMGS5 Use graphic scales to determine distances on a map. (Introduced)
+u1571 Based on the following general sequence for Map and Globe Skills:
+u1572 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1576 SSMGS6 Use map key/legend to acquire information from historical, physical,
+u1577 political, resource, product, and economic maps. (Mastery)
+u1578 Introduced (I): Grade 2 Developing (D): Grade 3 Mastery (M): Grade 4 Apply and Improve Mastered Skills (A): Grades 5-12
+u1579 Based on the following general sequence for Map and Globe Skills:
+u1580 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1584 SSMGS7 Use a map to explain impact of geography on historical and current
+u1585 events. (Mastery)
+=== page 42 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1591 Based on the following general sequence for Map and Globe Skills:
+u1592 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1596 SSMGS8 Draw conclusions and make generalizations based on information from
+u1597 maps. (Mastery)
+u1599 Based on the following general sequence for Map and Globe Skills:
+u1600 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1604 SSMGS9 Use latitude and longitude to determine location. (Developing)
+u1606 Based on the following general sequence for Map and Globe Skills:
+u1607 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1611 SSMGS10 Compare maps of the same place at different points in time and from
+u1612 different perspectives to determine changes, identify trends, and generalize about human activities. (Introduced)
+u1614 Based on the following general sequence for Map and Globe Skills:
+=== page 43 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1619 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1623 SSMGS11 Compare maps with data sets (charts, tables, graphs) and /or
+u1624 readings to draw conclusions and make generalizations. (Introduced)
+u1626 Based on the following general sequence for Map and Globe Skills:
+u1627 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1631 Information Processing Skills K-12
+u1632 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u1633 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1634 (x=122) Domain
+u1637 SSIPS1 Compare similarities and differences. (Apply and Improve Mastered
+u1638 Skills)
+u1639 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u1641 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 44 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1646 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1650 SSIPS2 Organize items chronologically. (Apply and Improve Mastered Skills)
+u1651 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u1653 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1657 SSIPS3 Identify issues and/or problems and alternative solutions. (Developing)
+u1658 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1660 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1664 SSIPS4 Distinguish between fact and opinion. (Apply and Improve Mastered
+u1665 Skills)
+u1666 Introduced (I): Grade 1 Developing (D): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u1668 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 45 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1673 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1677 SSIPS5 Identify main idea, detail, sequence of events, and cause and effect in a
+u1678 social studies context. (Mastery)
+u1681 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1685 SSIPS6 Identify and use primary and secondary sources. (Mastery)
+u1688 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1692 SSIPS7 Interpret timelines, charts, and tables.(Mastery)
+u1695 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 46 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1700 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1704 SSIPS8 Identify social studies reference resources to use for a specific purpose.
+u1705 (Apply and Improve Mastered Skills)
+u1708 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1712 SSIPS9 Construct charts and tables. (Apply and Improve Mastered Skills)
+u1715 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1719 SSIPS10 Analyze artifacts. (Developing)
+u1722 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 47 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1727 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1731 SSIPS11 Draw conclusions and make generalizations.(Mastery)
+u1734 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1738 SSIPS12 Analyze graphs and diagrams. (Developing)
+u1739 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1741 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1745 SSIPS13 Translate dates into centuries, eras, or ages. (Developing)
+u1746 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u1748 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 48 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1753 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1757 SSIPS14 Formulate appropriate research questions. (Introduced)
+u1760 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1764 SSIPS15 Determine adequacy and/or relevancy of information. (Introduced)
+u1767 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1771 SSIPS16 Check for consistency of information. (Introduced)
+u1774 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 49 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u1779 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1783 SSIPS17 Interpret political cartoons. (Introduced)
+u1786 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u1790 45.00600 Social Studies/Grade 5
+u1791 In fifth grade, students are in the final year of a three year study of United States history in which all four strands (history, geography, civics/government, and economics) are integrated. Students begin the year learning about the growth of 19th century industry and innovation in the United States, and culminate the study with the events and impact of September 11, 2001. The geography strand emphasizes the influence of geography on U.S. history during these same time periods. In the civics/government strand, students learn about the rights of citizens contained within the Constitution, and how changes have been made over time to the Constitution to protect the rights of citizens. In the economic strand, students explore the ways consumers and producers have interacted in the American economy.
+u1792 (x=105) Course
+u1795 Historical Understandings
+u1796 (x=125) Cluster
+u1799 SS5H1 Describe how life changed in America at the turn of the century.
+u1803 SS5H1.a Describe the role of the cattle trails in the late 19th century;
+u1804 include the Black Cowboys of Texas, the Great Western Cattle Trail, and the Chisholm Trail.
+=== page 50 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1812 SS5H1.b Describe the impact on American life of the Wright brothers
+u1813 (flight), George Washington Carver (science), Alexander Graham Bell (communication), and Thomas Edison (electricity).
+u1817 SS5H1.c Explain how William McKinley and Theodore Roosevelt expanded
+u1818 America's role in the world; include the Spanish-American War and the building of the Panama Canal.
+u1822 SS5H1.d Describe the reasons people immigrated to the United States,
+u1823 from where they emigrated, and where they settled.
+u1827 SS5H2 Describe U.S. involvement in World War I and post-World War I America.
+u1831 SS5H2.a Explain how German attacks on U.S. shipping during the war in
+u1832 Europe (1914-1917) ultimately led the U.S. to join the fight against Germany; include the sinking of the Lusitania and concerns over safety of U.S. ships, U.S. contributions to the war, and the impact of the Treaty of Versailles in 1919.
+u1836 SS5H2.b Describe the cultural developments and individual contributions in
+u1837 the 1920s of the Jazz Age (Louis Armstrong), the Harlem Renaissance (Langston Hughes), baseball (Babe Ruth), the automobile (Henry Ford), and transatlantic flight (Charles Lindbergh).
+u1841 SS5H3 Explain how the Great Depression and New Deal affected the lives of
+u1842 millions of Americans.
+u1846 SS5H3.a Discuss the Stock Market Crash of 1929, Herbert Hoover, Franklin
+u1847 Roosevelt, the Dust Bowl, and soup kitchens.
+u1851 SS5H3.b Analyze the main features of the New Deal; include the
+u1852 significance of the Civilian Conservation Corps, Works Progress Administration, and the Tennessee Valley Authority.
+=== page 51 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1860 SS5H3.c Discuss important cultural elements of the 1930s; include Duke
+u1861 Ellington, Margaret Mitchell, and Jesse Owens.
+u1865 SS5H4 Explain America's involvement in World War II.
+u1869 SS5H4.a Describe German aggression in Europe and Japanese aggression
+u1870 in Asia.
+u1874 SS5H4.b Describe major events in the war in both Europe and the Pacific;
+u1875 include Pearl Harbor, Iwo Jima, D-Day, VE and VJ Days, and the Holocaust.
+u1879 SS5H4.c Discuss President Truman's decision to drop the atomic bombs
+u1880 on Hiroshima and Nagasaki.
+u1884 SS5H4.d Identify Roosevelt, Stalin, Churchill, Hirohito, Truman, Mussolini,
+u1885 and Hitler.
+u1889 SS5H4.e Describe the effects of rationing and the changing role of women
+u1890 and African Americans or Blacks; include "Rosie the Riveter" and the Tuskegee Airmen.
+u1894 SS5H4.f Explain the role of Eleanor Roosevelt and the U.S. in the formation
+u1895 of the United Nations.
+u1899 SS5H5 Discuss the origins and consequences of the Cold War.
+u1903 SS5H5.a Explain the origin and meaning of the term "Iron Curtain."
+=== page 52 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1911 SS5H5.b Explain how the United States sought to stop the spread of
+u1912 communism through the Berlin airlift, the Korean War, and the North Atlantic Treaty Organization.
+u1916 SS5H5.c Identify Joseph McCarthy and Nikita Khrushchev.
+u1920 SS5H5.d Discuss the importance of the Cuban Missile Crisis and the
+u1921 Vietnam War.
+u1925 SS5H6 Describe the importance of key people, events, and developments
+u1926 between 1950-1975.
+u1930 SS5H6.a Analyze the effects of Jim Crow laws and practices.
+u1934 SS5H6.b Explain the key events and people of the Civil Rights movement:
+u1935 Brown v. Board of Education (1954), Montgomery Bus Boycott, the March on Washington, Civil Rights Act, Voting Rights Act, and civil rights activities of Thurgood Marshall, Lyndon B. Johnson, Cesar Chavez, Rosa Parks, and Martin Luther King, Jr.
+u1939 SS5H6.c Describe the impact on American society of the assassinations of
+u1940 President John F. Kennedy, Robert F. Kennedy, and Martin Luther King, Jr.
+u1944 SS5H6.d Discuss the significance of the technologies of television and
+u1945 space exploration.
+u1949 SS5H7 Trace important developments in America from 1975 to 2001.
+u1953 SS5H7.a Describe the collapse of the Soviet Union, including the role of
+u1954 Ronald Reagan.
+=== page 53 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u1962 SS5H7.b Describe the events of September 11, 2001, and analyze their
+u1963 impact on American life.
+u1967 SS5H7.c Explain the impact of the personal computer and the Internet on
+u1968 American life.
+u1972 Geographic Understandings
+u1973 (x=125) Cluster
+u1976 SS5G1 Locate important places in the United States.
+u1980 SS5G1.a Locate important man-made places; include the Chisholm Trail;
+u1981 Pittsburgh, PA; Kitty Hawk, NC; Pearl Harbor, HI; Montgomery, AL.; and Chicago, IL.
+u1985 SS5G2 Explain the reasons for the spatial patterns of economic activities.
+u1989 SS5G2.a Locate primary agricultural and industrial locations between the
+u1990 end of the Civil War and 1900 and explain how factors such as population, transportation, and resources have influenced these areas (e.g., Pittsburgh's rapid growth in the late nineteenth century).
+u1994 SS5G2.b Locate primary agricultural and industrial locations since the turn
+u1995 of the 20th century and explain how factors such as population, transportation, and resources have influenced these areas (e.g., Chicago's rapid growth at the turn of the century).
+u1999 Government/Civic Understandings
+u2000 (x=125) Cluster
+u2003 SS5CG1 Explain how a citizen's rights are protected under the U.S. Constitution.
+=== page 54 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u2011 SS5CG1.a Explain the responsibilities of a citizen.
+u2015 SS5CG1.b Explain the concept of due process of law and describe how the
+u2016 U.S. Constitution protects a citizen's rights by due process.
+u2020 SS5CG2 Explain the process by which amendments to the U.S. Constitution are
+u2021 made.
+u2025 SS5CG2.a Explain the amendment process outlined in the Constitution.
+u2029 SS5CG2.b Describe the purpose for the amendment process.
+u2033 SS5CG3 Explain how amendments to the U. S. Constitution have maintained a
+u2034 representative democracy/republic.
+u2038 SS5CG3.a Explain how voting rights are protected by the 15th, 19th, 23rd,
+u2039 24th, and 26th amendments.
+u2043 Economic Understandings
+u2044 (x=125) Cluster
+u2047 SS5E1 Use the basic economic concepts of trade, opportunity cost,
+u2048 specialization, productivity, and price incentives to illustrate historical events.
+u2052 SS5E1.a Describe opportunity costs and their relationship to decision-
+u2053 making across time (e.g., decisions by individuals in response to rationing during WWII).
+u2057 SS5E1.b Explain how price incentives affect people's behavior and choices
+u2058 (e.g., decisions to participate in cattle trails because of increased beef prices).
+=== page 55 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u2066 SS5E1.c Describe how specialization can improve standards of living and
+u2067 productivity (e.g., how Henry Ford's use of the assembly line reduced the price of automobiles).
+u2071 SS5E1.d Describe how trade and voluntary exchange promotes economic
+u2072 activity (e.g., how the Panama Canal increases trade among countries).
+u2076 SS5E2 Describe the functions of four major sectors in the U. S. economy.
+u2080 SS5E2.a Describe the household function in providing resources and
+u2081 consuming goods and services.
+u2085 SS5E2.b Describe the private business function in producing goods and
+u2086 services.
+u2090 SS5E2.c Describe the bank function in providing checking accounts,
+u2091 savings accounts, and loans.
+u2095 SS5E2.d Describe the government function in taxation and providing
+u2096 certain public goods and public services.
+u2100 SS5E3 Describe how consumers and producers interact in the U. S. economy.
+u2104 SS5E3.a Describe how competition, markets, and prices influence
+u2105 consumer behavior.
+u2109 SS5E3.b Describe how people earn income by selling their labor to
+u2110 businesses.
+=== page 56 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Element | Implementation Date:  2021-02-12 | Content Standard]
+u2118 SS5E3.c Describe how entrepreneurs take risks to develop new goods and
+u2119 services to start a business.
+u2123 SS5E4 Identify the elements of a personal budget (income, expenditures, and
+u2124 saving) and explain why personal spending and saving decisions are important.
+u2128 Map and Globe Skills K-12
+u2129 GOAL: The student will use maps to retrieve social studies information.
+u2130 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2131 (x=124) Skill
+u2134 SSMGS1 Use a compass rose to identify cardinal directions. (Apply and Improve
+u2135 Mastered Skills)
+u2136 Introduced (I): Kindergarten Mastery (M): Grade 1 Apply and Improve Mastered Skills (A): Grades 2-12
+u2137 Based on the following general sequence for Map and Globe Skills:
+u2138 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2142 SSMGS2 Use intermediate directions. (Apply and Improve Mastered Skills)
+u2144 Based on the following general sequence for Map and Globe Skills:
+u2145 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to
+=== page 57 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u2150 use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2154 SSMGS3 Use a letter/number grid system to determine location. (Apply and
+u2155 Improve Mastered Skills)
+u2157 Based on the following general sequence for Map and Globe Skills:
+u2158 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2162 SSMGS4 Compare and contrast the categories of natural, cultural, and political
+u2163 features found on maps. (Apply and Improve Mastered Skills)
+u2165 Based on the following general sequence for Map and Globe Skills:
+u2166 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2170 SSMGS5 Use graphic scales to determine distances on a map. (Mastery)
+u2172 Based on the following general sequence for Map and Globe Skills:
+u2173 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 58 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u2181 SSMGS6 Use map key/legend to acquire information from historical, physical,
+u2182 political, resource, product, and economic maps. (Apply and Improve Mastered Skills)
+u2183 Introduced (I): Grade 2 Developing (D): Grade 3 Mastery (M): Grade 4 Apply and Improve Mastered Skills (A): Grades 5-12
+u2184 Based on the following general sequence for Map and Globe Skills:
+u2185 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2189 SSMGS7 Use a map to explain impact of geography on historical and current
+u2190 events. (Apply and Improve Mastered Skills)
+u2192 Based on the following general sequence for Map and Globe Skills:
+u2193 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2197 SSMGS8 Draw conclusions and make generalizations based on information from
+u2198 maps. (Apply and Improve Mastered Skills)
+u2200 Based on the following general sequence for Map and Globe Skills:
+u2201 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 59 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u2209 SSMGS9 Use latitude and longitude to determine location. (Developing)
+u2211 Based on the following general sequence for Map and Globe Skills:
+u2212 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2216 SSMGS10 Compare maps of the same place at different points in time and from
+u2217 different perspectives to determine changes, identify trends, and generalize about human activities. (Mastery)
+u2219 Based on the following general sequence for Map and Globe Skills:
+u2220 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2224 SSMGS11 Compare maps with data sets (charts, tables, graphs) and /or
+u2225 readings to draw conclusions and make generalizations. (Mastery)
+u2227 Based on the following general sequence for Map and Globe Skills:
+u2228 GOAL: The student will use maps to retrieve social studies information. I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 60 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | KG-12 | Implementation Date:  2021-02-12 | Based on the following general sequence for Information Processing Ski]
+u2236 Information Processing Skills K-12
+u2237 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions
+u2238 I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2239 (x=122) Domain
+u2242 SSIPS1 Compare similarities and differences. (Apply and Improve Mastered
+u2243 Skills)
+u2244 Introduced (I): Kindergarten Developing (D): Grade 1 Mastery (M): Grade 2 Apply and Improve Mastered Skills (A): Grades 3-12
+u2246 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2250 SSIPS2 Organize items chronologically. (Apply and Improve Mastered Skills)
+u2251 Introduced (I): Kindergarten Developing (D): Grades 1-2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u2253 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2257 SSIPS3 Identify issues and/or problems and alternative solutions. (Mastery)
+=== page 61 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Based on the following general sequence for Information Processing Ski | Content Standard | KG-12]
+u2262 Introduced (I): Kindergarten Developing (D): Grades 1-4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u2264 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2268 SSIPS4 Distinguish between fact and opinion. (Apply and Improve Mastered
+u2269 Skills)
+u2270 Introduced (I): Grade 1 Developing (D): Grade 2 Mastery (M): Grade 3 Apply and Improve Mastered Skills (A): Grades 4-12
+u2272 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2276 SSIPS5 Identify main idea, detail, sequence of events, and cause and effect in a
+u2277 social studies context. (Apply and Improve Mastered Skills)
+u2280 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 62 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Introduced (I): Grade 1 Developing (D): Grades 2-3 Mastery (M): Grade  | Based on the following general sequence for Information Processing Ski | Content Standard]
+u2288 SSIPS6 Identify and use primary and secondary sources. (Apply and Improve
+u2289 Mastered Skills)
+u2292 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2296 SSIPS7 Interpret timelines, charts, and tables. (Apply and Improve Mastered
+u2297 Skills)
+u2300 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2304 SSIPS8 Identify social studies reference resources to use for a specific purpose.
+u2305 (Apply and Improve Mastered Skills)
+u2308 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 63 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u2316 SSIPS9 Construct charts and tables. (Apply and Improve Mastered Skills)
+u2319 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2323 SSIPS10 Analyze artifacts. (Mastery)
+u2326 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2330 SSIPS11 Draw conclusions and make generalizations.(Apply and Improve
+u2331 Mastered Skills)
+u2334 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 64 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Content Standard | KG-12 | Implementation Date:  2021-02-12]
+u2342 SSIPS12 Analyze graphs and diagrams. (Mastery)
+u2343 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u2345 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2349 SSIPS13 Translate dates into centuries, eras, or ages. (Mastery)
+u2350 Introduced (I): Grade 3 Developing (D): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastered Skills (A): Grades 6-12
+u2352 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2356 SSIPS14 Formulate appropriate research questions. (Mastery)
+u2359 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+=== page 65 === [running header: 10/2/26, 3:18 PM | Social Studies - Georgia Department of Education | Introduced (I): Grade 4 Mastery (M): Grade 5 Apply and Improve Mastere | Based on the following general sequence for Information Processing Ski | Content Standard]
+u2367 SSIPS15 Determine adequacy and/or relevancy of information. (Mastery)
+u2370 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2374 SSIPS16 Check for consistency of information. (Mastery)
+u2377 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills
+u2381 SSIPS17 Interpret political cartoons. (Developing)
+u2384 GOAL: The student will be able to locate, analyze, and synthesize information related to social studies topics and apply this information to solve problems/make decisions I: indicates when a skill is introduced in the standards and elements as part of the content D: indicates grade levels where the teacher must develop that skill using the appropriate content M: indicates grade level by which student should achieve mastery, the ability to use the skill in all situations A: indicates grade levels where students will continue to apply and improve mastered skills

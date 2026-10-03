@@ -1,0 +1,4385 @@
+{
+ "state": "AL",
+ "file": "AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0_f8e7f0.pdf",
+ "structure": "Single PDF, 2024 Alabama Course of Study: Social Studies, K-12. Front matter (cover, superintendent letter, board, preface, acknowledgments, general introduction, conceptual framework (image page), guiding principles, directions for interpreting standards, overview) is u1-u222. Then four grade bands, each with a short band overview page (K-2, 3-5, 6-8, 9-12), then one section per grade or course: K, 1, 2 (K-2 courses covering civics/economics/geography/history; titles like 'Living and Working Together in Family and Community'), grades 3-5 'Alabama in American History and Government I-III', grade 6 'Making a New Nation', grades 7-8 and 9 world history and geography, grades 10-11 United States History I-II, grade 12 two half-credit courses (United States Government; Economics), then seven 9-12 electives (Psychology, Sociology, Contemporary World Issues, Human Geography, Historical Studies, Holocaust Studies, Alabama Studies). Each grade/course section has the same layout: course title, narrative paragraph(s), 'Course Topics: 1. ...', 'LOOKING BACK, LOOKING AHEAD' paragraph, 'SOCIAL STUDIES PRACTICES' (intro paragraphs plus tables whose C2 cells are bullet lists of skills; for grades 3-12 first a disciplinary-thinking table (geographic/economic/historical/civic thinking) and then a second practices table (Evaluating Evidence, Communicating Conclusions, ...), K-2 only the two practices), then the course title again, 'CONTENT STANDARDS', the stem 'Each content standard completes the stem Students will...', then standards grouped under uppercase topic headings (CIVICS/ECONOMICS/GEOGRAPHY/HISTORY in K-2; historical eras or themes later). Standards are numbered 1, 2, 3 ... within the course (numbering is continuous across topics), sub-standards are 1a, 1b ... Standards carry no grade/course code; the grade is the section (running header 'Grade N' on pages). Italic 'Examples: ...' blocks follow standards as separate units (or are merged into the standard's unit in table cells). Standards and sub-standards often appear as a table: C1 = number, C2 = text, or one cell with number + text. Electives state 'Grade Level: Grades 9-12', credit info (half-credit required standards marked with asterisk) and have their own practices and content standards. Grade assignment: K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 single grade per course (course=null); grade 12 has two courses (course = 'United States Government' / 'Economics'); electives grades 9-12 with course = course title.",
+ "labels": [
+  {
+   "units": "u1-u222",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, preface, introduction, framework, guiding principles, directions"
+  },
+  {
+   "units": "u225-u228",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "K-2 band overview"
+  },
+  {
+   "units": "u229",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "K-2 band overview"
+  },
+  {
+   "units": "u230-u233",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "K-2 band overview"
+  },
+  {
+   "units": "u236-u238",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Course title and overview"
+  },
+  {
+   "units": "u239-u241",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Course overview"
+  },
+  {
+   "units": "u242",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Social Studies Practices"
+  },
+  {
+   "units": "u243-u244",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Social Studies Practices"
+  },
+  {
+   "units": "u245",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Social Studies Practices"
+  },
+  {
+   "units": "u248",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Social Studies Practices"
+  },
+  {
+   "units": "u249",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Social Studies Practices"
+  },
+  {
+   "units": "u250",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Course title"
+  },
+  {
+   "units": "u251",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Content standards header"
+  },
+  {
+   "units": "u252",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Content standards header"
+  },
+  {
+   "units": "u253",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Content standards header"
+  },
+  {
+   "units": "u254-u259",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Civics"
+  },
+  {
+   "units": "u260",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Civics"
+  },
+  {
+   "units": "u261",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Civics"
+  },
+  {
+   "units": "u262",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Civics"
+  },
+  {
+   "units": "u263",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Civics"
+  },
+  {
+   "units": "u264-u267",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Economics"
+  },
+  {
+   "units": "u270",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Economics"
+  },
+  {
+   "units": "u271-u273",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Economics"
+  },
+  {
+   "units": "u274-u276",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Geography"
+  },
+  {
+   "units": "u277",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Geography"
+  },
+  {
+   "units": "u279-u281",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Geography"
+  },
+  {
+   "units": "u282",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > Geography"
+  },
+  {
+   "units": "u283-u286",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > History"
+  },
+  {
+   "units": "u287",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > History"
+  },
+  {
+   "units": "u288",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Living and Working Together in Family and Community > History"
+  },
+  {
+   "units": "u289",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Living and Working Together in Family and Community > History"
+  },
+  {
+   "units": "u293",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Course title and overview"
+  },
+  {
+   "units": "u295-u297",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Course overview"
+  },
+  {
+   "units": "u298",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Social Studies Practices"
+  },
+  {
+   "units": "u299-u300",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Living and Working Together in Community and State > Social Studies Practices"
+  },
+  {
+   "units": "u301-u305",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Social Studies Practices"
+  },
+  {
+   "units": "u306",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Course title"
+  },
+  {
+   "units": "u307",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Content standards header"
+  },
+  {
+   "units": "u308",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Living and Working Together in Community and State > Content standards header"
+  },
+  {
+   "units": "u309",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Content standards header"
+  },
+  {
+   "units": "u310-u316",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Civics"
+  },
+  {
+   "units": "u317",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Civics"
+  },
+  {
+   "units": "u318-u321",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u322",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u323",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u324",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u325",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u329",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u330",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Economics"
+  },
+  {
+   "units": "u331-u333",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Geography"
+  },
+  {
+   "units": "u334",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Geography"
+  },
+  {
+   "units": "u335-u337",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > Geography"
+  },
+  {
+   "units": "u338",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > Geography"
+  },
+  {
+   "units": "u339-u343",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u344",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u346-u348",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u349",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u350-u351",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u352",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u356",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u357",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u358",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u359",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u360",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u361",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Living and Working Together in Community and State > History"
+  },
+  {
+   "units": "u365",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Course title and overview"
+  },
+  {
+   "units": "u367-u369",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Course overview"
+  },
+  {
+   "units": "u370",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Social Studies Practices"
+  },
+  {
+   "units": "u371-u372",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: Living and Working Together in State and Nation > Social Studies Practices"
+  },
+  {
+   "units": "u373-u377",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Social Studies Practices"
+  },
+  {
+   "units": "u378",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Course title"
+  },
+  {
+   "units": "u379",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Content standards header"
+  },
+  {
+   "units": "u380",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: Living and Working Together in State and Nation > Content standards header"
+  },
+  {
+   "units": "u381",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Content standards header"
+  },
+  {
+   "units": "u382-u385",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Civics"
+  },
+  {
+   "units": "u386",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Civics"
+  },
+  {
+   "units": "u387",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Civics"
+  },
+  {
+   "units": "u388",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Civics"
+  },
+  {
+   "units": "u389-u391",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Civics"
+  },
+  {
+   "units": "u392-u393",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u395",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u396",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u397",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u402-u404",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u405",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Economics"
+  },
+  {
+   "units": "u406-u410",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Geography"
+  },
+  {
+   "units": "u411",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Geography"
+  },
+  {
+   "units": "u413",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Geography"
+  },
+  {
+   "units": "u414",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > Geography"
+  },
+  {
+   "units": "u415-u417",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > Geography"
+  },
+  {
+   "units": "u418-u420",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u421",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u422-u423",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u424",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u425",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u426",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u430-u431",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u432",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u433",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u434",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u435",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u436",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u437",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u438",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Living and Working Together in State and Nation > History"
+  },
+  {
+   "units": "u441-u444",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 3-5 band overview"
+  },
+  {
+   "units": "u445",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 3-5 band overview"
+  },
+  {
+   "units": "u446-u452",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 3-5 band overview"
+  },
+  {
+   "units": "u456",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Course title and overview"
+  },
+  {
+   "units": "u458-u461",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Course overview"
+  },
+  {
+   "units": "u462",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Social Studies Practices"
+  },
+  {
+   "units": "u463-u464",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Alabama in American History and Government I > Social Studies Practices"
+  },
+  {
+   "units": "u468-u471",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Social Studies Practices"
+  },
+  {
+   "units": "u472-u473",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Alabama in American History and Government I > Social Studies Practices"
+  },
+  {
+   "units": "u477-u478",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Social Studies Practices"
+  },
+  {
+   "units": "u479-u480",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Course title"
+  },
+  {
+   "units": "u481",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Content standards header"
+  },
+  {
+   "units": "u482",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Alabama in American History and Government I > Content standards header"
+  },
+  {
+   "units": "u483",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Content standards header"
+  },
+  {
+   "units": "u484-u486",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Geography"
+  },
+  {
+   "units": "u487",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Geography"
+  },
+  {
+   "units": "u488-u502",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Geography"
+  },
+  {
+   "units": "u503-u506",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > People And The Environment"
+  },
+  {
+   "units": "u507-u510",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u512",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u516",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u517",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u518",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u519",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u520",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u521",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u522-u523",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Indigenous Alabama And European Exploration"
+  },
+  {
+   "units": "u524-u529",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Alabama in American History and Government I > Early Colonization"
+  },
+  {
+   "units": "u533",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Course title and overview"
+  },
+  {
+   "units": "u535-u538",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Course overview"
+  },
+  {
+   "units": "u539",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Social Studies Practices"
+  },
+  {
+   "units": "u540",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Alabama in American History and Government II > Social Studies Practices"
+  },
+  {
+   "units": "u541-u547",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Social Studies Practices"
+  },
+  {
+   "units": "u548-u549",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Alabama in American History and Government II > Social Studies Practices"
+  },
+  {
+   "units": "u550-u554",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Social Studies Practices"
+  },
+  {
+   "units": "u555",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Course title"
+  },
+  {
+   "units": "u556",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Content standards header"
+  },
+  {
+   "units": "u557",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Alabama in American History and Government II > Content standards header"
+  },
+  {
+   "units": "u558",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Content standards header"
+  },
+  {
+   "units": "u559-u572",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Colonial Regions"
+  },
+  {
+   "units": "u576-u593",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > American Revolution And Early Republic"
+  },
+  {
+   "units": "u594-u595",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u597",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u601-u620",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u621",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u622-u623",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u624",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Early Westward Expansion"
+  },
+  {
+   "units": "u625-u652",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Civil War And Reconstruction"
+  },
+  {
+   "units": "u653",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Civil War And Reconstruction"
+  },
+  {
+   "units": "u654-u655",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Post-Civil War Developments And Expansion"
+  },
+  {
+   "units": "u656",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Alabama in American History and Government II > Post-Civil War Developments And Expansion"
+  },
+  {
+   "units": "u657-u661",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Alabama in American History and Government II > Post-Civil War Developments And Expansion"
+  },
+  {
+   "units": "u665",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Course title and overview"
+  },
+  {
+   "units": "u667-u670",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > Course overview"
+  },
+  {
+   "units": "u671",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Social Studies Practices"
+  },
+  {
+   "units": "u672-u673",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Alabama in American History and Government III > Social Studies Practices"
+  },
+  {
+   "units": "u677-u680",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Social Studies Practices"
+  },
+  {
+   "units": "u681-u682",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Alabama in American History and Government III > Social Studies Practices"
+  },
+  {
+   "units": "u686-u687",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Social Studies Practices"
+  },
+  {
+   "units": "u688-u689",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Course title"
+  },
+  {
+   "units": "u690",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Content standards header"
+  },
+  {
+   "units": "u691",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Alabama in American History and Government III > Content standards header"
+  },
+  {
+   "units": "u692",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Content standards header"
+  },
+  {
+   "units": "u693-u730",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Progressive Era And World War I"
+  },
+  {
+   "units": "u731-u733",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u734",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u735-u739",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u740",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u741-u745",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u746",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u750",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Roaring Twenties, Great Depression, And New Deal"
+  },
+  {
+   "units": "u751-u756",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > World War II"
+  },
+  {
+   "units": "u757",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > World War II"
+  },
+  {
+   "units": "u758-u763",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > World War II"
+  },
+  {
+   "units": "u764-u765",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Mid-Twentieth Century, National Effects Of World War II"
+  },
+  {
+   "units": "u766",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > Mid-Twentieth Century, National Effects Of World War II"
+  },
+  {
+   "units": "u770-u778",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Mid-Twentieth Century, National Effects Of World War II"
+  },
+  {
+   "units": "u782-u787",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > Mid-Twentieth Century, International Effects Of World War II"
+  },
+  {
+   "units": "u788-u789",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > 1970s To Today"
+  },
+  {
+   "units": "u790",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Alabama in American History and Government III > 1970s To Today"
+  },
+  {
+   "units": "u791-u795",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Alabama in American History and Government III > 1970s To Today"
+  },
+  {
+   "units": "u798-u801",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 band overview"
+  },
+  {
+   "units": "u802",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 band overview"
+  },
+  {
+   "units": "u803-u809",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 band overview"
+  },
+  {
+   "units": "u813",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Course title and overview"
+  },
+  {
+   "units": "u815-u819",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Making a New Nation > Course overview"
+  },
+  {
+   "units": "u820",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Social Studies Practices"
+  },
+  {
+   "units": "u821-u822",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Making a New Nation > Social Studies Practices"
+  },
+  {
+   "units": "u826-u829",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Social Studies Practices"
+  },
+  {
+   "units": "u830-u831",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Making a New Nation > Social Studies Practices"
+  },
+  {
+   "units": "u835-u836",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Social Studies Practices"
+  },
+  {
+   "units": "u837-u838",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Course title"
+  },
+  {
+   "units": "u839",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Content standards header"
+  },
+  {
+   "units": "u840",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Making a New Nation > Content standards header"
+  },
+  {
+   "units": "u841",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Content standards header"
+  },
+  {
+   "units": "u842-u879",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Colonization Of North America"
+  },
+  {
+   "units": "u880-u900",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > The American Revolution"
+  },
+  {
+   "units": "u901",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Making a New Nation > The American Revolution"
+  },
+  {
+   "units": "u902-u903",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > The American Revolution"
+  },
+  {
+   "units": "u907-u923",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Creating A Government"
+  },
+  {
+   "units": "u924-u974",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Foundations Of American Government"
+  },
+  {
+   "units": "u975-u992",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Making a New Nation > Government In A New Nation"
+  },
+  {
+   "units": "u996",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Course title and overview"
+  },
+  {
+   "units": "u998-u1001",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Course overview"
+  },
+  {
+   "units": "u1002",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Social Studies Practices"
+  },
+  {
+   "units": "u1003-u1004",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Social Studies Practices"
+  },
+  {
+   "units": "u1008-u1011",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Social Studies Practices"
+  },
+  {
+   "units": "u1012-u1013",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Social Studies Practices"
+  },
+  {
+   "units": "u1017-u1018",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Social Studies Practices"
+  },
+  {
+   "units": "u1019-u1020",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Course title"
+  },
+  {
+   "units": "u1021",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Content standards header"
+  },
+  {
+   "units": "u1022",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Content standards header"
+  },
+  {
+   "units": "u1023",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Content standards header"
+  },
+  {
+   "units": "u1024-u1039",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Five Themes Of Geography And Map Skills"
+  },
+  {
+   "units": "u1040-u1053",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Pre-History And The Neolithic Revolution"
+  },
+  {
+   "units": "u1057-u1071",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Greater Mediterranean"
+  },
+  {
+   "units": "u1072",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Greater Mediterranean"
+  },
+  {
+   "units": "u1073-u1077",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Greater Mediterranean"
+  },
+  {
+   "units": "u1078-u1079",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Americas And Africa"
+  },
+  {
+   "units": "u1081",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Americas And Africa"
+  },
+  {
+   "units": "u1085-u1087",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Americas And Africa"
+  },
+  {
+   "units": "u1088",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Americas And Africa"
+  },
+  {
+   "units": "u1089-u1096",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient Civilizations In The Americas And Africa"
+  },
+  {
+   "units": "u1097-u1098",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1099",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1100-u1110",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1111",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1112",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1113",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1114-u1116",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Ancient And Classical Civilizations In Asia"
+  },
+  {
+   "units": "u1117-u1143",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: World History and Geography: Geographic Principles and Ancient Civilizations > Classical Greece And Rome"
+  },
+  {
+   "units": "u1147",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Course title and overview"
+  },
+  {
+   "units": "u1149-u1152",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Course overview"
+  },
+  {
+   "units": "u1153",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Social Studies Practices"
+  },
+  {
+   "units": "u1154-u1155",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Social Studies Practices"
+  },
+  {
+   "units": "u1159-u1162",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Social Studies Practices"
+  },
+  {
+   "units": "u1163-u1164",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Social Studies Practices"
+  },
+  {
+   "units": "u1168-u1169",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Social Studies Practices"
+  },
+  {
+   "units": "u1170",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Course title"
+  },
+  {
+   "units": "u1171",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Content standards header"
+  },
+  {
+   "units": "u1172",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Content standards header"
+  },
+  {
+   "units": "u1173",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Content standards header"
+  },
+  {
+   "units": "u1174-u1185",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Effects Of The Fall Of Rome"
+  },
+  {
+   "units": "u1186",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Effects Of The Fall Of Rome"
+  },
+  {
+   "units": "u1187-u1189",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Effects Of The Fall Of Rome"
+  },
+  {
+   "units": "u1190-u1232",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Medieval Societies"
+  },
+  {
+   "units": "u1233-u1236",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1237",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1238-u1239",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1240",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1241",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1242",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1243",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1244",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Renaissance And Reformation"
+  },
+  {
+   "units": "u1248-u1259",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Age Of Exploration And Colonization In The Americas"
+  },
+  {
+   "units": "u1260-u1263",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Rise Of Absolutism"
+  },
+  {
+   "units": "u1264",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Rise Of Absolutism"
+  },
+  {
+   "units": "u1265-u1280",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Rise Of Absolutism"
+  },
+  {
+   "units": "u1281-u1287",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World History and Geography: Middle Ages to the Enlightenment > Enlightenment And The Scientific Revolution"
+  },
+  {
+   "units": "u1290-u1293",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-12 band overview"
+  },
+  {
+   "units": "u1294",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 9-12 band overview"
+  },
+  {
+   "units": "u1295-u1301",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-12 band overview"
+  },
+  {
+   "units": "u1305",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Course title and overview"
+  },
+  {
+   "units": "u1307-u1310",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Course overview"
+  },
+  {
+   "units": "u1311",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Social Studies Practices"
+  },
+  {
+   "units": "u1312-u1313",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Social Studies Practices"
+  },
+  {
+   "units": "u1317-u1320",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Social Studies Practices"
+  },
+  {
+   "units": "u1321-u1322",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Social Studies Practices"
+  },
+  {
+   "units": "u1326-u1327",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Social Studies Practices"
+  },
+  {
+   "units": "u1328-u1329",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Course title"
+  },
+  {
+   "units": "u1330",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Content standards header"
+  },
+  {
+   "units": "u1331",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Content standards header"
+  },
+  {
+   "units": "u1332",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Content standards header"
+  },
+  {
+   "units": "u1333-u1358",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > The Age Of Revolution"
+  },
+  {
+   "units": "u1359-u1377",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Rise Of Imperialism And World War I"
+  },
+  {
+   "units": "u1378-u1383",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Interwar Years And World War II"
+  },
+  {
+   "units": "u1384",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Interwar Years And World War II"
+  },
+  {
+   "units": "u1388-u1403",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Interwar Years And World War II"
+  },
+  {
+   "units": "u1407-u1408",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > The Cold War Era"
+  },
+  {
+   "units": "u1409",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > The Cold War Era"
+  },
+  {
+   "units": "u1410-u1422",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > The Cold War Era"
+  },
+  {
+   "units": "u1426-u1428",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1429",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1430",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1431",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1432",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1433",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1434-u1435",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1436",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1437-u1452",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1453",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography: Age of Revolution to Present > Globalization And The Modern World"
+  },
+  {
+   "units": "u1457",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Course title and overview"
+  },
+  {
+   "units": "u1459-u1462",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > Course overview"
+  },
+  {
+   "units": "u1463",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Social Studies Practices"
+  },
+  {
+   "units": "u1464-u1465",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 10: United States History I > Social Studies Practices"
+  },
+  {
+   "units": "u1469-u1472",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Social Studies Practices"
+  },
+  {
+   "units": "u1473-u1474",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 10: United States History I > Social Studies Practices"
+  },
+  {
+   "units": "u1478-u1479",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Social Studies Practices"
+  },
+  {
+   "units": "u1480",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Course title"
+  },
+  {
+   "units": "u1481",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Content standards header"
+  },
+  {
+   "units": "u1482",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 10: United States History I > Content standards header"
+  },
+  {
+   "units": "u1483",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > Content standards header"
+  },
+  {
+   "units": "u1484-u1487",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1488",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1489",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1490",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1491-u1514",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1515",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1516",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1517",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1518",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1519",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1520-u1521",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A New Nation"
+  },
+  {
+   "units": "u1522-u1556",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > National Expansion And Reform"
+  },
+  {
+   "units": "u1557-u1580",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A Nation Divided"
+  },
+  {
+   "units": "u1581",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: United States History I > A Nation Divided"
+  },
+  {
+   "units": "u1582-u1591",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > A Nation Divided"
+  },
+  {
+   "units": "u1592-u1605",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > American Expansion Post-Civil War"
+  },
+  {
+   "units": "u1609-u1638",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: United States History I > The Development Of Industrial America"
+  },
+  {
+   "units": "u1642",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Course title and overview"
+  },
+  {
+   "units": "u1644-u1647",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Course overview"
+  },
+  {
+   "units": "u1648",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Social Studies Practices"
+  },
+  {
+   "units": "u1649-u1650",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 11: United States History II > Social Studies Practices"
+  },
+  {
+   "units": "u1654-u1657",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Social Studies Practices"
+  },
+  {
+   "units": "u1658-u1659",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 11: United States History II > Social Studies Practices"
+  },
+  {
+   "units": "u1663-u1664",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Social Studies Practices"
+  },
+  {
+   "units": "u1665-u1666",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Course title"
+  },
+  {
+   "units": "u1667",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Content standards header"
+  },
+  {
+   "units": "u1668",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 11: United States History II > Content standards header"
+  },
+  {
+   "units": "u1669",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Content standards header"
+  },
+  {
+   "units": "u1670-u1688",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Rise To World Power"
+  },
+  {
+   "units": "u1689-u1690",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Roaring Twenties And The Great Depression"
+  },
+  {
+   "units": "u1692",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Roaring Twenties And The Great Depression"
+  },
+  {
+   "units": "u1696-u1712",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Roaring Twenties And The Great Depression"
+  },
+  {
+   "units": "u1713",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Roaring Twenties And The Great Depression"
+  },
+  {
+   "units": "u1714-u1730",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1731",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1732-u1733",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1734",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1735",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1736",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1737",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > World War II"
+  },
+  {
+   "units": "u1738-u1740",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Post-World War II America"
+  },
+  {
+   "units": "u1741",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Post-World War II America"
+  },
+  {
+   "units": "u1742",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Post-World War II America"
+  },
+  {
+   "units": "u1743",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Post-World War II America"
+  },
+  {
+   "units": "u1744-u1762",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Post-World War II America"
+  },
+  {
+   "units": "u1763-u1764",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Late Twentieth-Century America"
+  },
+  {
+   "units": "u1765",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: United States History II > Late Twentieth-Century America"
+  },
+  {
+   "units": "u1766-u1797",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Late Twentieth-Century America"
+  },
+  {
+   "units": "u1798-u1818",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: United States History II > Contemporary America"
+  },
+  {
+   "units": "u1821",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Course title and overview"
+  },
+  {
+   "units": "u1822",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Course title and overview"
+  },
+  {
+   "units": "u1824-u1826",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Course overview"
+  },
+  {
+   "units": "u1827",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1828",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1829",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1832",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1833-u1835",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1836-u1837",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1838",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1841",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1842",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Social Studies Practices"
+  },
+  {
+   "units": "u1843",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Course title"
+  },
+  {
+   "units": "u1844",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Content standards header"
+  },
+  {
+   "units": "u1845",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Content standards header"
+  },
+  {
+   "units": "u1846",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Content standards header"
+  },
+  {
+   "units": "u1847-u1855",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Foundations Of American Government"
+  },
+  {
+   "units": "u1858",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Foundations Of American Government"
+  },
+  {
+   "units": "u1859-u1875",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Branches Of Government"
+  },
+  {
+   "units": "u1878",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Branches Of Government"
+  },
+  {
+   "units": "u1879",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Branches Of Government"
+  },
+  {
+   "units": "u1880",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Branches Of Government"
+  },
+  {
+   "units": "u1881-u1896",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Key Institutions And Political Participation"
+  },
+  {
+   "units": "u1899",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Grade 12: United States Government > Key Institutions And Political Participation"
+  },
+  {
+   "units": "u1900",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Key Institutions And Political Participation"
+  },
+  {
+   "units": "u1901-u1902",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1903",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1904-u1906",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1907",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1908",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1909",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Citizenship And Civic Responsibilities"
+  },
+  {
+   "units": "u1910-u1912",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Local And State Government"
+  },
+  {
+   "units": "u1913",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Local And State Government"
+  },
+  {
+   "units": "u1914",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Local And State Government"
+  },
+  {
+   "units": "u1915",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "Grade 12: United States Government > Local And State Government"
+  },
+  {
+   "units": "u1916-u1917",
+   "grades": "12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "Grade 12: United States Government > Local And State Government"
+  },
+  {
+   "units": "u1920",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Course title and overview"
+  },
+  {
+   "units": "u1921",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Course title and overview"
+  },
+  {
+   "units": "u1923-u1925",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Grade 12: Economics > Course overview"
+  },
+  {
+   "units": "u1926",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1927",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1928",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1931",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1932-u1934",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1935-u1936",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1937",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1940",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1941",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Social Studies Practices"
+  },
+  {
+   "units": "u1942",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Content standards header"
+  },
+  {
+   "units": "u1943",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Content standards header"
+  },
+  {
+   "units": "u1944",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Content standards header"
+  },
+  {
+   "units": "u1945-u1952",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Fundamental Economic Concepts"
+  },
+  {
+   "units": "u1953",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Grade 12: Economics > Fundamental Economic Concepts"
+  },
+  {
+   "units": "u1954-u1957",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Fundamental Economic Concepts"
+  },
+  {
+   "units": "u1960",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Fundamental Economic Concepts"
+  },
+  {
+   "units": "u1961-u1974",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > American Market Economy"
+  },
+  {
+   "units": "u1977",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > American Market Economy"
+  },
+  {
+   "units": "u1978-u1997",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Government In Economics"
+  },
+  {
+   "units": "u2000",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Grade 12: Economics > Government In Economics"
+  },
+  {
+   "units": "u2001-u2011",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Grade 12: Economics > Global Economy"
+  },
+  {
+   "units": "u2014-u2015",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Course title and overview"
+  },
+  {
+   "units": "u2016-u2019",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Course title and overview"
+  },
+  {
+   "units": "u2020-u2022",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology > Course overview"
+  },
+  {
+   "units": "u2023",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Social Studies Practices"
+  },
+  {
+   "units": "u2024",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Social Studies Practices"
+  },
+  {
+   "units": "u2025",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Social Studies Practices"
+  },
+  {
+   "units": "u2028",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Social Studies Practices"
+  },
+  {
+   "units": "u2029",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Social Studies Practices"
+  },
+  {
+   "units": "u2030",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Content standards header"
+  },
+  {
+   "units": "u2031",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Content standards header"
+  },
+  {
+   "units": "u2032",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Content standards header"
+  },
+  {
+   "units": "u2033-u2041",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Introduction To Psychology"
+  },
+  {
+   "units": "u2042",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology > Introduction To Psychology"
+  },
+  {
+   "units": "u2043-u2045",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Introduction To Psychology"
+  },
+  {
+   "units": "u2048",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Introduction To Psychology"
+  },
+  {
+   "units": "u2050",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Introduction To Psychology"
+  },
+  {
+   "units": "u2051-u2055",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Biological Basis Of Psychology"
+  },
+  {
+   "units": "u2056",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology > Biological Basis Of Psychology"
+  },
+  {
+   "units": "u2057-u2067",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Biological Basis Of Psychology"
+  },
+  {
+   "units": "u2068",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology > Biological Basis Of Psychology"
+  },
+  {
+   "units": "u2071",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Biological Basis Of Psychology"
+  },
+  {
+   "units": "u2072-u2085",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Cognitive Psychology"
+  },
+  {
+   "units": "u2086-u2089",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Clinical Psychology"
+  },
+  {
+   "units": "u2092",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Psychology > Clinical Psychology"
+  },
+  {
+   "units": "u2093-u2106",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Clinical Psychology"
+  },
+  {
+   "units": "u2109-u2110",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Course title and overview"
+  },
+  {
+   "units": "u2111-u2113",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Course title and overview"
+  },
+  {
+   "units": "u2114-u2116",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology > Course overview"
+  },
+  {
+   "units": "u2117",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2118-u2119",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2120",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2123",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2124-u2126",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2127-u2128",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2129",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2132",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2133",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Studies Practices"
+  },
+  {
+   "units": "u2134",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Content standards header"
+  },
+  {
+   "units": "u2135",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Content standards header"
+  },
+  {
+   "units": "u2136",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Content standards header"
+  },
+  {
+   "units": "u2137-u2147",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Sociology Overview"
+  },
+  {
+   "units": "u2150",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Sociology Overview"
+  },
+  {
+   "units": "u2151-u2165",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Self And Socialization"
+  },
+  {
+   "units": "u2166-u2173",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Groups And Socialization"
+  },
+  {
+   "units": "u2176",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sociology > Groups And Socialization"
+  },
+  {
+   "units": "u2177-u2180",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Groups And Socialization"
+  },
+  {
+   "units": "u2181-u2189",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Issues And Social Change"
+  },
+  {
+   "units": "u2192-u2194",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Course title and overview"
+  },
+  {
+   "units": "u2195-u2197",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Course title and overview"
+  },
+  {
+   "units": "u2198-u2199",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues > Course overview"
+  },
+  {
+   "units": "u2200",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2201-u2202",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2203",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2206",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2207-u2209",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2210-u2211",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2212",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2215",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2216",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Social Studies Practices"
+  },
+  {
+   "units": "u2217",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Course title"
+  },
+  {
+   "units": "u2218",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Content standards header"
+  },
+  {
+   "units": "u2219",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Content standards header"
+  },
+  {
+   "units": "u2220",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Content standards header"
+  },
+  {
+   "units": "u2221-u2233",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Media Literacy"
+  },
+  {
+   "units": "u2236",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > Media Literacy"
+  },
+  {
+   "units": "u2237",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Media Literacy"
+  },
+  {
+   "units": "u2238-u2249",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > International Relations"
+  },
+  {
+   "units": "u2250-u2252",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2253",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2254",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2257",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2258-u2278",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2281",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "backup",
+   "section": "Contemporary World Issues > World Events And Issues"
+  },
+  {
+   "units": "u2282-u2283",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Issue Resolution"
+  },
+  {
+   "units": "u2284",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues > Issue Resolution"
+  },
+  {
+   "units": "u2285-u2287",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues > Issue Resolution"
+  },
+  {
+   "units": "u2290-u2292",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Course title and overview"
+  },
+  {
+   "units": "u2293-u2294",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Course title and overview"
+  },
+  {
+   "units": "u2295-u2296",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Course overview"
+  },
+  {
+   "units": "u2297",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2298-u2299",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2300-u2301",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2304",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2305-u2306",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2307-u2308",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2309",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2312",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2313",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Social Studies Practices"
+  },
+  {
+   "units": "u2314-u2315",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Content standards header"
+  },
+  {
+   "units": "u2316-u2318",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Geographic Principles"
+  },
+  {
+   "units": "u2319",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Geographic Principles"
+  },
+  {
+   "units": "u2321",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Geographic Principles"
+  },
+  {
+   "units": "u2322",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Geographic Principles"
+  },
+  {
+   "units": "u2324",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Geographic Principles"
+  },
+  {
+   "units": "u2325-u2327",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2328",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2329",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2330",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2331-u2332",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2333",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2336",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2337-u2347",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Culture And Geography"
+  },
+  {
+   "units": "u2348-u2355",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Migration And Settlement"
+  },
+  {
+   "units": "u2358",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "backup",
+   "section": "Human Geography > Migration And Settlement"
+  },
+  {
+   "units": "u2359-u2360",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Migration And Settlement"
+  },
+  {
+   "units": "u2361",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Migration And Settlement"
+  },
+  {
+   "units": "u2362",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Migration And Settlement"
+  },
+  {
+   "units": "u2363-u2364",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Environment And The Economy"
+  },
+  {
+   "units": "u2365",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography > Environment And The Economy"
+  },
+  {
+   "units": "u2366-u2375",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography > Environment And The Economy"
+  },
+  {
+   "units": "u2378-u2379",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Course title and overview"
+  },
+  {
+   "units": "u2380-u2382",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Course title and overview"
+  },
+  {
+   "units": "u2383-u2384",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "examples",
+   "section": "Historical Studies > Course overview"
+  },
+  {
+   "units": "u2385",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2386-u2387",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2388",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2391",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2392",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2393-u2394",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2395-u2396",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2397",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Content standards header"
+  },
+  {
+   "units": "u2398",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Content standards header"
+  },
+  {
+   "units": "u2399",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Content standards header"
+  },
+  {
+   "units": "u2402",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Content standards header"
+  },
+  {
+   "units": "u2403-u2413",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Subject Survey"
+  },
+  {
+   "units": "u2414-u2420",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Subject Research"
+  },
+  {
+   "units": "u2421",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "examples",
+   "section": "Historical Studies > Subject Research"
+  },
+  {
+   "units": "u2424",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "backup",
+   "section": "Historical Studies > Subject Research"
+  },
+  {
+   "units": "u2425-u2433",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "standards",
+   "section": "Historical Studies > Culminating Project"
+  },
+  {
+   "units": "u2434",
+   "grades": "9-12",
+   "course": "Historical Studies",
+   "cat": "examples",
+   "section": "Historical Studies > Culminating Project"
+  },
+  {
+   "units": "u2437-u2438",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Course title and overview"
+  },
+  {
+   "units": "u2439-u2441",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Course title and overview"
+  },
+  {
+   "units": "u2442-u2443",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "examples",
+   "section": "Holocaust Studies > Course overview"
+  },
+  {
+   "units": "u2444",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2445-u2446",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2447",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2450",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2451-u2452",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2453-u2454",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2455-u2456",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2459",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2460",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Content standards header"
+  },
+  {
+   "units": "u2461",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Content standards header"
+  },
+  {
+   "units": "u2462",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Content standards header"
+  },
+  {
+   "units": "u2463-u2473",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Antisemitism And Pre-War Jewish Life"
+  },
+  {
+   "units": "u2476",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Antisemitism And Pre-War Jewish Life"
+  },
+  {
+   "units": "u2477-u2490",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > The Rise Of Hitler And The Nazis"
+  },
+  {
+   "units": "u2491-u2492",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2493",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "examples",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2494-u2496",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2499",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2500-u2505",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2506",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "examples",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2507-u2509",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Nazi Antisemitic And Racial Policies"
+  },
+  {
+   "units": "u2510-u2514",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > The War In Europe"
+  },
+  {
+   "units": "u2517",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > The War In Europe"
+  },
+  {
+   "units": "u2518-u2524",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > The War In Europe"
+  },
+  {
+   "units": "u2525-u2537",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > The Final Solution"
+  },
+  {
+   "units": "u2540",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "backup",
+   "section": "Holocaust Studies > The Final Solution"
+  },
+  {
+   "units": "u2541-u2547",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > The Final Solution"
+  },
+  {
+   "units": "u2548-u2555",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Post-War"
+  },
+  {
+   "units": "u2556",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "examples",
+   "section": "Holocaust Studies > Post-War"
+  },
+  {
+   "units": "u2557-u2558",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Post-War"
+  },
+  {
+   "units": "u2559",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "examples",
+   "section": "Holocaust Studies > Post-War"
+  },
+  {
+   "units": "u2560",
+   "grades": "9-12",
+   "course": "Holocaust Studies",
+   "cat": "standards",
+   "section": "Holocaust Studies > Post-War"
+  },
+  {
+   "units": "u2563-u2564",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Course title and overview"
+  },
+  {
+   "units": "u2565-u2566",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Course title and overview"
+  },
+  {
+   "units": "u2567-u2568",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Course overview"
+  },
+  {
+   "units": "u2569",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2570-u2571",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2572",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2575",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2576-u2578",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2579-u2580",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2581",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2584",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2585",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Social Studies Practices"
+  },
+  {
+   "units": "u2586",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Content standards header"
+  },
+  {
+   "units": "u2587",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Content standards header"
+  },
+  {
+   "units": "u2588",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Content standards header"
+  },
+  {
+   "units": "u2589-u2595",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Geography"
+  },
+  {
+   "units": "u2598",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Geography"
+  },
+  {
+   "units": "u2599-u2607",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Origins"
+  },
+  {
+   "units": "u2608-u2617",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Conflict"
+  },
+  {
+   "units": "u2620",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Conflict"
+  },
+  {
+   "units": "u2621",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Conflict"
+  },
+  {
+   "units": "u2622-u2624",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2625",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2626",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2627",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2628-u2630",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2631",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2632-u2633",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2634",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2635",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2636",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2637",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2638",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2639",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2642",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "backup",
+   "section": "Alabama Studies > Civil Rights"
+  },
+  {
+   "units": "u2643-u2649",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Government"
+  },
+  {
+   "units": "u2650",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Government"
+  },
+  {
+   "units": "u2651-u2654",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Economics"
+  },
+  {
+   "units": "u2655",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Economics"
+  },
+  {
+   "units": "u2656",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Economics"
+  },
+  {
+   "units": "u2657",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Economics"
+  },
+  {
+   "units": "u2658-u2660",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "standards",
+   "section": "Alabama Studies > Economics"
+  },
+  {
+   "units": "u2661",
+   "grades": "9-12",
+   "course": "Alabama Studies",
+   "cat": "examples",
+   "section": "Alabama Studies > Economics"
+  }
+ ],
+ "issues": [
+  "Document is a single PDF; the state guide's grade groupings (K, 1-12 single grades, two grade-12 courses, 9-12 electives) were confirmed by the document; no disagreement found.",
+  "u165 (Conceptual Framework page 13) is an image page; only the heading is extracted. u170-u174 describe the graphic.",
+  "Course/grade 'course' field: grade-tied required courses for K-11 (e.g. 'Making a New Nation', 'United States History II') are labeled course=null with the single grade, matching the guide's grade rows; only grade 12 (two parallel courses) and the 9-12 electives carry a course title.",
+  "Social studies practices tables (e.g. u245, u249, u301, u305, u373, u377, u468-u471, u477-u478, u541-u547, u550, u554, u677-u687, u826-u836, u1008-u1018, u1159-u1169, u1317-u1327, u1469-u1479, u1654-u1664, u1829-u1842, u1928-u1941, u2025-u2029, u2120-u2133, u2203-u2216, u2300-u2313, u2388-u2396, u2447-u2456, u2572-u2585): only the C2 bullet cell is extracted; the C1 practice-name cells (Geographic Thinking, Evaluating Evidence, etc.) are missing from the view. Tables are split across pages. Labeled standards with the grade/course of the section (shared skills are specific to that grade/course in this document).",
+  "Many main standards have no visible number in the view (e.g. u256, u273, u276, u279, u281, u314-u316, u341, u343, u346, u384, u393, u402-u413, u408, u486, u491, u508, u510, u595, u733, u753, u844, u882, u1059, u1066, u1079, u1176, u1228, u1261-u1262, u1335, u1360, u1380, u1486, u1524, u1690, u1716, u1730, u1947, u2035, u2050, u2053, u2055, u2074 and similar): the number or discipline icon was dropped in extraction. Text and order are intact.",
+  "Alabama-connection and discipline-connection icons (map, capitol dome, dollar sign, compass rose) are not present in the text, so connection markers cannot be recovered.",
+  "Continuation fragments split by page breaks or table cells: u636 (Grade 4 standard 14 examples continuation), u1109 (Grade 7 standard 13 end), u1678 (Grade 11 standard 1b examples end 'Amendment'), u1778 (Grade 11 14a examples continuation), u116/u121 (acknowledgments). Labeled with the same category as the parent (standards for mixed standard+examples text).",
+  "Units that merge a standard with its Examples (e.g. u313, u336, u493, u501-u502, u506, u572, u579-u583, u602-u605, u611, u627-u628, u638-u648, u1488-u1490 neighbors in table cells) are labeled standards per guide rule; standalone 'Examples:' units are labeled examples.",
+  "u1904 and u1905 both begin '11b' (Grade 12 Government); the second is probably 11c (source numbering error). Both labeled standards.",
+  "Grade 12 Government spans pages 114-119 and Economics pages 120-125; running headers on those pages are inconsistent ('Grade 12 | ...' vs '2024 Alabama Course of Study...') but page-top text 'Grade 12 Government/Economics' identifies the course. Those repeated page-top lines (u1821, u1832, u1841, u1858, u1878, u1899, u1920, u1931, u1940, u1960, u1977, u2000) and the repeated elective course-name lines at the top of each elective page are labeled backup.",
+  "Elective credit/grade lines ('Grade Level: Grades 9-12', 'Course Credit: 0.5 (Standards ... marked with an asterisk are required) OR 1.0') are labeled backup (u2016-u2019, u2111-u2113, u2195-u2197, u2293-u2294, u2380-u2382, u2439-u2441, u2565-u2566). The asterisk markers remain inside the standards text.",
+  "The sentence stem 'Each content standard completes the stem Students will...' (u253, u309, u381, u483, u558, u692, u841, u1023, u1173, u1332, u1483, u1669, u1846, u1944, u2032, u2136, u2220, u2315, u2399, u2462, u2588) is labeled standards; 'Please refer to Directions for Interpreting Standards' lines are backup.",
+  "Course Topics lists, narrative course paragraphs and LOOKING BACK/LOOKING AHEAD paragraphs are labeled examples (content narrative); band overview narrative u229, u445, u802, u1294 is also examples with the band range; the rest of each band overview (icon legend) is backup.",
+  "The running header on page 5 (table of contents) reads 'Grade 1 | Grade 2 | ...' which is an extraction artifact; u39-u101 are table of contents (backup, grades all).",
+  "Several units have non-contiguous numbers because furniture units were removed (e.g. u7-u8, u11-u12, u37-u38); ranges span them."
+ ]
+}

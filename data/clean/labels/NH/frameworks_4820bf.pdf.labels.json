@@ -1,0 +1,4520 @@
+{
+ "state": "NH",
+ "file": "frameworks_4820bf.pdf",
+ "structure": "New Hampshire K-12 Social Studies Curriculum Framework (June 2006). Front matter (cover, credits, TOC, Introduction, goals) pp.1-6; Part 1 'Ten Themes' (Themes A-J with definition, examples, essential questions) plus Themes/Strands and Themes/Social Science grids (landscape pages, extracted as table cells plus rotated duplicate text fragments) pp.7-12; Part 2 Essential Skills (Skills 2.1-2.3, expectations A-K, K-12) pp.13-15; Part 3 content strands as grade-span tables: pp.16-43 Grades K-2 | 3-4 (running header 'Social Studies K-4'), pp.44-76 Grades 5-6 | 7-8 ('Social Studies 5-8'), pp.77-101 Grades 9-12 ('Social Studies 9-12'); References pp.102-103; Contributors pp.104-106. Each strand page is a table: R1 strand/standard title (e.g. 'Civics and Governments (CV:1)'), R2 strand statement of purpose, header row 'Standard | Grades K-2 | Grades 3-4', then a row with the standard statement (C1, e.g. 'SS:CV:1: The Nature and Purpose of Government ...') and the grade-span expectations in C2/C3. Codes SS:<strand>:<end grade of span>:<standard>.<expectation> (e.g. SS:CV:2:1.1 = K-2, SS:CV:4 = 3-4, 6 = 5-6, 8 = 7-8, 12 = 9-12); each expectation ends with '(Themes: ...)' tags and often an 'e.g.' example inside the same unit. Strands: Civics and Government CV:1-4, Economics EC:1-6, Geography GE:1-5, US/NH History HI:1-5, World History WH:1-5. Not course-based. The standard statement (C1) applies to every span column on that page. Many pages also carry x-positioned text fragments that are rotated/duplicate copies of the strand title, purpose statement, standard statement and cell text.",
+ "labels": [
+  {
+   "units": "u1-u88",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, credits, table of contents"
+  },
+  {
+   "units": "u91-u123",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter / introduction"
+  },
+  {
+   "units": "u124-u205",
+   "grades": "all",
+   "course": null,
+   "cat": "examples",
+   "section": "Ten Themes of Social Studies (theme definitions, examples, essential questions)"
+  },
+  {
+   "units": "u208-u214",
+   "grades": "all",
+   "course": null,
+   "cat": "examples",
+   "section": "Themes/Strands Grid and Themes/Social Science Grid (theme-by-discipline content examples)"
+  },
+  {
+   "units": "u216",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Grid introductory sentence"
+  },
+  {
+   "units": "u218-u283",
+   "grades": "all",
+   "course": null,
+   "cat": "examples",
+   "section": "Themes/Strands Grid and Themes/Social Science Grid (theme-by-discipline content examples)"
+  },
+  {
+   "units": "u284",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Grid introductory sentence"
+  },
+  {
+   "units": "u285-u587",
+   "grades": "all",
+   "course": null,
+   "cat": "examples",
+   "section": "Themes/Strands Grid and Themes/Social Science Grid (theme-by-discipline content examples)"
+  },
+  {
+   "units": "u588",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Grid introductory sentence"
+  },
+  {
+   "units": "u589-u625",
+   "grades": "all",
+   "course": null,
+   "cat": "examples",
+   "section": "Themes/Strands Grid and Themes/Social Science Grid (theme-by-discipline content examples)"
+  },
+  {
+   "units": "u629-u651",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Part 2 Essential Skills for Social Studies (Skills 2.1-2.3)"
+  },
+  {
+   "units": "u655",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > strand/standard heading"
+  },
+  {
+   "units": "u656",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:1) > strand statement of purpose"
+  },
+  {
+   "units": "u657",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > table header: Standard"
+  },
+  {
+   "units": "u658",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > column header: Grades K-2"
+  },
+  {
+   "units": "u659",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > column header: Grades 3-4"
+  },
+  {
+   "units": "u660",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > standard statement"
+  },
+  {
+   "units": "u661",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > grade-span expectations K-2"
+  },
+  {
+   "units": "u662",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u663-u682",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u684",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u686",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > strand/standard heading"
+  },
+  {
+   "units": "u687",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:2) > strand statement of purpose"
+  },
+  {
+   "units": "u688",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > table header: Standard"
+  },
+  {
+   "units": "u689",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > column header: Grades K-2"
+  },
+  {
+   "units": "u690",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > column header: Grades 3-4"
+  },
+  {
+   "units": "u691",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > standard statement"
+  },
+  {
+   "units": "u692",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > grade-span expectations K-2"
+  },
+  {
+   "units": "u693",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u694-u713",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u715",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u717",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > strand/standard heading"
+  },
+  {
+   "units": "u718",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:3) > strand statement of purpose"
+  },
+  {
+   "units": "u719",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > table header: Standard"
+  },
+  {
+   "units": "u720",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > column header: Grades K-2"
+  },
+  {
+   "units": "u721",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > column header: Grades 3-4"
+  },
+  {
+   "units": "u722",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > standard statement"
+  },
+  {
+   "units": "u723",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > grade-span expectations K-2"
+  },
+  {
+   "units": "u724",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u725-u751",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u753",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u755",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > strand/standard heading"
+  },
+  {
+   "units": "u756",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:4) > strand statement of purpose"
+  },
+  {
+   "units": "u757",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > table header: Standard"
+  },
+  {
+   "units": "u758",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > column header: Grades K-2"
+  },
+  {
+   "units": "u759",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > column header: Grades 3-4"
+  },
+  {
+   "units": "u760",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > standard statement"
+  },
+  {
+   "units": "u761",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > grade-span expectations K-2"
+  },
+  {
+   "units": "u762",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u763-u787",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u790",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > strand/standard heading"
+  },
+  {
+   "units": "u791",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:1) > strand statement of purpose"
+  },
+  {
+   "units": "u792",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > table header: Standard"
+  },
+  {
+   "units": "u793",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > column header: Grades K-2"
+  },
+  {
+   "units": "u794",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > column header: Grades 3-4"
+  },
+  {
+   "units": "u795",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > standard statement"
+  },
+  {
+   "units": "u796",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > grade-span expectations K-2"
+  },
+  {
+   "units": "u797",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u798-u807",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u809-u823",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u826",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > strand/standard heading"
+  },
+  {
+   "units": "u827",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > table header: Standard"
+  },
+  {
+   "units": "u828",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > column header: Grades K-2"
+  },
+  {
+   "units": "u829",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > column header: Grades 3-4"
+  },
+  {
+   "units": "u830",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > standard statement"
+  },
+  {
+   "units": "u831",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > grade-span expectations K-2"
+  },
+  {
+   "units": "u832",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u834-u839",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u841-u842",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u844",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > strand/standard heading"
+  },
+  {
+   "units": "u845",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:3) > strand statement of purpose"
+  },
+  {
+   "units": "u846",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > table header: Standard"
+  },
+  {
+   "units": "u847",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > column header: Grades K-2"
+  },
+  {
+   "units": "u848",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > column header: Grades 3-4"
+  },
+  {
+   "units": "u849",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > standard statement"
+  },
+  {
+   "units": "u850",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u851-u867",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u869-u870",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u872",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > strand/standard heading"
+  },
+  {
+   "units": "u873",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:4) > strand statement of purpose"
+  },
+  {
+   "units": "u874",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > table header: Standard"
+  },
+  {
+   "units": "u875",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > column header: Grades K-2"
+  },
+  {
+   "units": "u876",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > column header: Grades 3-4"
+  },
+  {
+   "units": "u877",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > standard statement"
+  },
+  {
+   "units": "u878",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > grade-span expectations K-2"
+  },
+  {
+   "units": "u879",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u880-u908",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u911",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > strand/standard heading"
+  },
+  {
+   "units": "u912",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:5) > strand statement of purpose"
+  },
+  {
+   "units": "u913",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > table header: Standard"
+  },
+  {
+   "units": "u914",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > column header: Grades K-2"
+  },
+  {
+   "units": "u915",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > column header: Grades 3-4"
+  },
+  {
+   "units": "u916",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > standard statement"
+  },
+  {
+   "units": "u917",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > grade-span expectations K-2"
+  },
+  {
+   "units": "u918",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u919-u928",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u929-u938",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u941",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > strand/standard heading"
+  },
+  {
+   "units": "u942",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > table header: Standard"
+  },
+  {
+   "units": "u943",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > column header: Grades K-2"
+  },
+  {
+   "units": "u944",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > column header: Grades 3-4"
+  },
+  {
+   "units": "u945",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > standard statement"
+  },
+  {
+   "units": "u946",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > grade-span expectations K-2"
+  },
+  {
+   "units": "u947",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u949-u957",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u958-u967",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u970",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > strand/standard heading"
+  },
+  {
+   "units": "u971",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > table header: Standard"
+  },
+  {
+   "units": "u972",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > column header: Grades K-2"
+  },
+  {
+   "units": "u973",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > column header: Grades 3-4"
+  },
+  {
+   "units": "u974",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > standard statement"
+  },
+  {
+   "units": "u975",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > grade-span expectations K-2"
+  },
+  {
+   "units": "u976",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u978-u983",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u988",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > strand/standard heading"
+  },
+  {
+   "units": "u989",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:3) > strand statement of purpose"
+  },
+  {
+   "units": "u990",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > table header: Standard"
+  },
+  {
+   "units": "u991",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > column header: Grades K-2"
+  },
+  {
+   "units": "u992",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > column header: Grades 3-4"
+  },
+  {
+   "units": "u993",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > standard statement"
+  },
+  {
+   "units": "u994",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > grade-span expectations K-2"
+  },
+  {
+   "units": "u995",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u996-u1005",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1008",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > strand/standard heading"
+  },
+  {
+   "units": "u1009",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1010",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > table header: Standard"
+  },
+  {
+   "units": "u1011",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > column header: Grades K-2"
+  },
+  {
+   "units": "u1012",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1013",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > standard statement"
+  },
+  {
+   "units": "u1014",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1015",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1016-u1027",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1030",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > strand/standard heading"
+  },
+  {
+   "units": "u1031",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:5) > strand statement of purpose"
+  },
+  {
+   "units": "u1032",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > table header: Standard"
+  },
+  {
+   "units": "u1033",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > column header: Grades K-2"
+  },
+  {
+   "units": "u1034",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1035",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > standard statement"
+  },
+  {
+   "units": "u1036",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1037",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1038-u1048",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1050",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > strand/standard heading"
+  },
+  {
+   "units": "u1051",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1052",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > table header: Standard"
+  },
+  {
+   "units": "u1053",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > column header: Grades K-2"
+  },
+  {
+   "units": "u1054",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1055",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > standard statement"
+  },
+  {
+   "units": "u1056",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1057",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1058-u1067",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1069-u1072",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1074",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > strand/standard heading"
+  },
+  {
+   "units": "u1075",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:2) > strand statement of purpose"
+  },
+  {
+   "units": "u1076",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > table header: Standard"
+  },
+  {
+   "units": "u1077",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > column header: Grades K-2"
+  },
+  {
+   "units": "u1078",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1079",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > standard statement"
+  },
+  {
+   "units": "u1080",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1081",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1082-u1102",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1105",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > strand/standard heading"
+  },
+  {
+   "units": "u1106",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1107",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > table header: Standard"
+  },
+  {
+   "units": "u1108",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > column header: Grades K-2"
+  },
+  {
+   "units": "u1109",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1110",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > standard statement"
+  },
+  {
+   "units": "u1111",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1112",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1113-u1123",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1126",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > strand/standard heading"
+  },
+  {
+   "units": "u1127",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1128",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > table header: Standard"
+  },
+  {
+   "units": "u1129",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > column header: Grades K-2"
+  },
+  {
+   "units": "u1130",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1131",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > standard statement"
+  },
+  {
+   "units": "u1132",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1133",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1134-u1145",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1146-u1159",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1162",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > strand/standard heading"
+  },
+  {
+   "units": "u1163",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > table header: Standard"
+  },
+  {
+   "units": "u1164",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > column header: Grades K-2"
+  },
+  {
+   "units": "u1165",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1166",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > standard statement"
+  },
+  {
+   "units": "u1167",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1168",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1170-u1175",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1177-u1179",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1180",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > strand/standard heading"
+  },
+  {
+   "units": "u1181",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1182",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > table header: Standard"
+  },
+  {
+   "units": "u1183",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > column header: Grades K-2"
+  },
+  {
+   "units": "u1184",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1185",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > standard statement"
+  },
+  {
+   "units": "u1186",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1187",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1188-u1213",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1215-u1217",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1218",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > strand/standard heading"
+  },
+  {
+   "units": "u1219",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:2) > strand statement of purpose"
+  },
+  {
+   "units": "u1220",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > table header: Standard"
+  },
+  {
+   "units": "u1221",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > column header: Grades K-2"
+  },
+  {
+   "units": "u1222",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1223",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > standard statement"
+  },
+  {
+   "units": "u1224",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1225-u1244",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1247",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > strand/standard heading"
+  },
+  {
+   "units": "u1248",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1249",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > table header: Standard"
+  },
+  {
+   "units": "u1250",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > column header: Grades K-2"
+  },
+  {
+   "units": "u1251",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1252",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > standard statement"
+  },
+  {
+   "units": "u1253",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1254",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1255-u1275",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1278",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > strand/standard heading"
+  },
+  {
+   "units": "u1279",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1280",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > table header: Standard"
+  },
+  {
+   "units": "u1281",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > column header: Grades K-2"
+  },
+  {
+   "units": "u1282",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1283",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > standard statement"
+  },
+  {
+   "units": "u1284",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1285-u1303",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1304-u1306",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1307",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > strand/standard heading"
+  },
+  {
+   "units": "u1308",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:5) > strand statement of purpose"
+  },
+  {
+   "units": "u1309",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > table header: Standard"
+  },
+  {
+   "units": "u1310",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > column header: Grades K-2"
+  },
+  {
+   "units": "u1311",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > column header: Grades 3-4"
+  },
+  {
+   "units": "u1312",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > standard statement"
+  },
+  {
+   "units": "u1313",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > grade-span expectations K-2"
+  },
+  {
+   "units": "u1314",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > grade-span expectations 3-4"
+  },
+  {
+   "units": "u1315-u1339",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1342",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > strand/standard heading"
+  },
+  {
+   "units": "u1343",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1344",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > table header: Standard"
+  },
+  {
+   "units": "u1345",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1346",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1347",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > standard statement"
+  },
+  {
+   "units": "u1348",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1349",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1350-u1358",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1361",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > strand/standard heading"
+  },
+  {
+   "units": "u1362",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:2) > strand statement of purpose"
+  },
+  {
+   "units": "u1363",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > table header: Standard"
+  },
+  {
+   "units": "u1364",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1365",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1366",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > standard statement"
+  },
+  {
+   "units": "u1367",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1368",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1370-u1380",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1382",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1384",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > strand/standard heading"
+  },
+  {
+   "units": "u1385",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1386",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > table header: Standard"
+  },
+  {
+   "units": "u1387",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1388",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1389",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > standard statement"
+  },
+  {
+   "units": "u1390",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1391",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1392-u1419",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1421",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1423",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > strand/standard heading"
+  },
+  {
+   "units": "u1424",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1425",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > table header: Standard"
+  },
+  {
+   "units": "u1426",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1427",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1428",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > standard statement"
+  },
+  {
+   "units": "u1429",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1430",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1431-u1450",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1453",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > strand/standard heading"
+  },
+  {
+   "units": "u1454",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1455",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > table header: Standard"
+  },
+  {
+   "units": "u1456",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1457",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1458",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > standard statement"
+  },
+  {
+   "units": "u1459",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1460",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1461-u1473",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1476",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > strand/standard heading"
+  },
+  {
+   "units": "u1477",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:2) > strand statement of purpose"
+  },
+  {
+   "units": "u1478",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > table header: Standard"
+  },
+  {
+   "units": "u1479",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1480",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1481",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > standard statement"
+  },
+  {
+   "units": "u1482",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1483",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1484-u1494",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1496-u1497",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1499",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > strand/standard heading"
+  },
+  {
+   "units": "u1500",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1501",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > table header: Standard"
+  },
+  {
+   "units": "u1502",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1503",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1504",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > standard statement"
+  },
+  {
+   "units": "u1505",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1506",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1507-u1533",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1535-u1536",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1538",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > strand/standard heading"
+  },
+  {
+   "units": "u1539",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1540",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > table header: Standard"
+  },
+  {
+   "units": "u1541",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1542",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1543",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > standard statement"
+  },
+  {
+   "units": "u1544",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1545-u1564",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1567",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > strand/standard heading"
+  },
+  {
+   "units": "u1568",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:5) > strand statement of purpose"
+  },
+  {
+   "units": "u1569",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > table header: Standard"
+  },
+  {
+   "units": "u1570",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1571",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1572",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > standard statement"
+  },
+  {
+   "units": "u1573",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1574-u1583",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1584-u1598",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:6): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1601",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > strand/standard heading"
+  },
+  {
+   "units": "u1602",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > table header: Standard"
+  },
+  {
+   "units": "u1603",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1604",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1605",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > standard statement"
+  },
+  {
+   "units": "u1606",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1608-u1613",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:6): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1616",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > strand/standard heading"
+  },
+  {
+   "units": "u1617",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1618",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > table header: Standard"
+  },
+  {
+   "units": "u1619",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1620",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1621",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > standard statement"
+  },
+  {
+   "units": "u1622",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1623",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1624-u1637",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1638",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1640",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > strand/standard heading"
+  },
+  {
+   "units": "u1641",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:2) > strand statement of purpose"
+  },
+  {
+   "units": "u1642",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > table header: Standard"
+  },
+  {
+   "units": "u1643",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1644",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1645",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > standard statement"
+  },
+  {
+   "units": "u1646",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1647",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1648-u1672",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1675",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > strand/standard heading"
+  },
+  {
+   "units": "u1676",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1677",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > table header: Standard"
+  },
+  {
+   "units": "u1678",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1679",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1680",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > standard statement"
+  },
+  {
+   "units": "u1681",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1682",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1683-u1696",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1698-u1707",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1710",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > strand/standard heading"
+  },
+  {
+   "units": "u1711",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > table header: Standard"
+  },
+  {
+   "units": "u1712",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1713",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1714",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > standard statement"
+  },
+  {
+   "units": "u1715",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1716",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1718-u1724",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1728",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > strand/standard heading"
+  },
+  {
+   "units": "u1729",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:5) > strand statement of purpose"
+  },
+  {
+   "units": "u1730",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > table header: Standard"
+  },
+  {
+   "units": "u1731",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1732",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1733",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > standard statement"
+  },
+  {
+   "units": "u1734",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1735-u1747",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1748-u1761",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1764",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > strand/standard heading"
+  },
+  {
+   "units": "u1765",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > table header: Standard"
+  },
+  {
+   "units": "u1766",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1767",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1768",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > standard statement"
+  },
+  {
+   "units": "u1769",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1770",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1771-u1783",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1785-u1798",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1801",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > strand/standard heading"
+  },
+  {
+   "units": "u1802",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > table header: Standard"
+  },
+  {
+   "units": "u1803",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1804",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1805",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > standard statement"
+  },
+  {
+   "units": "u1806",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1808-u1814",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1816-u1819",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1821",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > strand/standard heading"
+  },
+  {
+   "units": "u1822",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1823",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > table header: Standard"
+  },
+  {
+   "units": "u1824",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1825",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1826",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > standard statement"
+  },
+  {
+   "units": "u1827",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1828",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1829-u1850",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1853",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > strand/standard heading"
+  },
+  {
+   "units": "u1854",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:4) > strand statement of purpose"
+  },
+  {
+   "units": "u1855",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > table header: Standard"
+  },
+  {
+   "units": "u1856",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1857",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1858",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > standard statement"
+  },
+  {
+   "units": "u1859",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1860",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1861-u1872",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1873-u1886",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1889",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > strand/standard heading"
+  },
+  {
+   "units": "u1890",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > table header: Standard"
+  },
+  {
+   "units": "u1891",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1892",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1893",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > standard statement"
+  },
+  {
+   "units": "u1894",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1895",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1896-u1904",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1907",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > strand/standard heading"
+  },
+  {
+   "units": "u1908",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:1) > strand statement of purpose"
+  },
+  {
+   "units": "u1909",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > table header: Standard"
+  },
+  {
+   "units": "u1910",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1911",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1912",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > standard statement"
+  },
+  {
+   "units": "u1913",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1914",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1915-u1924",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1926-u1942",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1945",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > strand/standard heading"
+  },
+  {
+   "units": "u1946",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > table header: Standard"
+  },
+  {
+   "units": "u1947",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1948",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1949",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > standard statement"
+  },
+  {
+   "units": "u1950",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1951",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1952-u1963",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1966",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > strand/standard heading"
+  },
+  {
+   "units": "u1967",
+   "grades": "5-8",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:3) > strand statement of purpose"
+  },
+  {
+   "units": "u1968",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > table header: Standard"
+  },
+  {
+   "units": "u1969",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > column header: Grades 5-6"
+  },
+  {
+   "units": "u1970",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > column header: Grades 7-8"
+  },
+  {
+   "units": "u1971",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > standard statement"
+  },
+  {
+   "units": "u1972",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u1973",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > grade-span expectations 7-8"
+  },
+  {
+   "units": "u1974-u1985",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u1987-u2003",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2006",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > strand/standard heading"
+  },
+  {
+   "units": "u2007",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > table header: Standard"
+  },
+  {
+   "units": "u2008",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > column header: Grades 5-6"
+  },
+  {
+   "units": "u2009",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > column header: Grades 7-8"
+  },
+  {
+   "units": "u2010",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > standard statement"
+  },
+  {
+   "units": "u2011",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u2012-u2026",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2027-u2043",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2046",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > strand/standard heading"
+  },
+  {
+   "units": "u2047",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > table header: Standard"
+  },
+  {
+   "units": "u2048",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > column header: Grades 5-6"
+  },
+  {
+   "units": "u2049",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > column header: Grades 7-8"
+  },
+  {
+   "units": "u2050",
+   "grades": "5-8",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > standard statement"
+  },
+  {
+   "units": "u2051",
+   "grades": "5-6",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > grade-span expectations 5-6"
+  },
+  {
+   "units": "u2052-u2059",
+   "grades": "5-8",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2061",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2063",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > strand/standard heading"
+  },
+  {
+   "units": "u2064",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:1) > strand statement of purpose"
+  },
+  {
+   "units": "u2065",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > table header: Standard"
+  },
+  {
+   "units": "u2066",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2067",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > standard statement"
+  },
+  {
+   "units": "u2068",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:1) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2069-u2083",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2085",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2087",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > strand/standard heading"
+  },
+  {
+   "units": "u2088",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:2) > strand statement of purpose"
+  },
+  {
+   "units": "u2089",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > table header: Standard"
+  },
+  {
+   "units": "u2090",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2091",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > standard statement"
+  },
+  {
+   "units": "u2092",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:2) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2093-u2110",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2112-u2115",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2116",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > strand/standard heading"
+  },
+  {
+   "units": "u2117",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:3) > strand statement of purpose"
+  },
+  {
+   "units": "u2118",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > table header: Standard"
+  },
+  {
+   "units": "u2119",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2120",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > standard statement"
+  },
+  {
+   "units": "u2121",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:3) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2122-u2141",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2143-u2145",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2147",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > strand/standard heading"
+  },
+  {
+   "units": "u2148",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics and Government (CV:4) > strand statement of purpose"
+  },
+  {
+   "units": "u2149",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > table header: Standard"
+  },
+  {
+   "units": "u2150",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2151",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > standard statement"
+  },
+  {
+   "units": "u2152",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics and Government (CV:4) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2153-u2173",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics and Government (CV:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2175-u2176",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2178",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > strand/standard heading"
+  },
+  {
+   "units": "u2179",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:1) > strand statement of purpose"
+  },
+  {
+   "units": "u2180",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > table header: Standard"
+  },
+  {
+   "units": "u2181",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2182",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > standard statement"
+  },
+  {
+   "units": "u2183",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:1) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2184-u2202",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2205",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > strand/standard heading"
+  },
+  {
+   "units": "u2206",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:2) > strand statement of purpose"
+  },
+  {
+   "units": "u2207",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > table header: Standard"
+  },
+  {
+   "units": "u2208",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2209",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > standard statement"
+  },
+  {
+   "units": "u2210",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:2) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2211-u2219",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2222",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > strand/standard heading"
+  },
+  {
+   "units": "u2223",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:3) > strand statement of purpose"
+  },
+  {
+   "units": "u2224",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > table header: Standard"
+  },
+  {
+   "units": "u2225",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2226",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > standard statement"
+  },
+  {
+   "units": "u2227",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:3) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2228-u2237",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2239-u2240",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2242",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > strand/standard heading"
+  },
+  {
+   "units": "u2243",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:4) > strand statement of purpose"
+  },
+  {
+   "units": "u2244",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > table header: Standard"
+  },
+  {
+   "units": "u2245",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2246",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > standard statement"
+  },
+  {
+   "units": "u2247",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:4) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2248-u2267",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2269-u2270",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2272",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > strand/standard heading"
+  },
+  {
+   "units": "u2273",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:5) > strand statement of purpose"
+  },
+  {
+   "units": "u2274",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > table header: Standard"
+  },
+  {
+   "units": "u2275",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2276",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > standard statement"
+  },
+  {
+   "units": "u2277",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:5) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2278-u2297",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2298-u2299",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:6): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2301",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > strand/standard heading"
+  },
+  {
+   "units": "u2302",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics (EC:6) > strand statement of purpose"
+  },
+  {
+   "units": "u2303",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > table header: Standard"
+  },
+  {
+   "units": "u2304",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2305",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > standard statement"
+  },
+  {
+   "units": "u2306",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (EC:6) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2307-u2326",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics (EC:6): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2328",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2330",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > strand/standard heading"
+  },
+  {
+   "units": "u2331",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:1) > strand statement of purpose"
+  },
+  {
+   "units": "u2332",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > table header: Standard"
+  },
+  {
+   "units": "u2333",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2334",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > standard statement"
+  },
+  {
+   "units": "u2335",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:1) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2336-u2352",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2354",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > strand/standard heading"
+  },
+  {
+   "units": "u2355",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:2) > strand statement of purpose"
+  },
+  {
+   "units": "u2356",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > table header: Standard"
+  },
+  {
+   "units": "u2357",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2358",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > standard statement"
+  },
+  {
+   "units": "u2359",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:2) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2360-u2372",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2375",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > strand/standard heading"
+  },
+  {
+   "units": "u2376",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:3) > strand statement of purpose"
+  },
+  {
+   "units": "u2377",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > table header: Standard"
+  },
+  {
+   "units": "u2378",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2379",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > standard statement"
+  },
+  {
+   "units": "u2380",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:3) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2381-u2394",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2397",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > strand/standard heading"
+  },
+  {
+   "units": "u2398",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:4) > strand statement of purpose"
+  },
+  {
+   "units": "u2399",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > table header: Standard"
+  },
+  {
+   "units": "u2400",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2401",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > standard statement"
+  },
+  {
+   "units": "u2402",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:4) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2403-u2413",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2416",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > strand/standard heading"
+  },
+  {
+   "units": "u2417",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography (GE:5) > strand statement of purpose"
+  },
+  {
+   "units": "u2418",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > table header: Standard"
+  },
+  {
+   "units": "u2419",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2420",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > standard statement"
+  },
+  {
+   "units": "u2421",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (GE:5) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2422-u2432",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography (GE:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2434",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > strand/standard heading"
+  },
+  {
+   "units": "u2435",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:1) > strand statement of purpose"
+  },
+  {
+   "units": "u2436",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > table header: Standard"
+  },
+  {
+   "units": "u2437",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2438",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > standard statement"
+  },
+  {
+   "units": "u2439",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:1) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2440-u2451",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2454",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > strand/standard heading"
+  },
+  {
+   "units": "u2455",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:2) > strand statement of purpose"
+  },
+  {
+   "units": "u2456",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > table header: Standard"
+  },
+  {
+   "units": "u2457",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2458",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > standard statement"
+  },
+  {
+   "units": "u2459",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:2) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2460-u2469",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2472",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > strand/standard heading"
+  },
+  {
+   "units": "u2473",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:3) > strand statement of purpose"
+  },
+  {
+   "units": "u2474",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > table header: Standard"
+  },
+  {
+   "units": "u2475",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2476",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > standard statement"
+  },
+  {
+   "units": "u2477",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:3) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2478-u2488",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2491",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > strand/standard heading"
+  },
+  {
+   "units": "u2492",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:4) > strand statement of purpose"
+  },
+  {
+   "units": "u2493",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > table header: Standard"
+  },
+  {
+   "units": "u2494",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2495",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > standard statement"
+  },
+  {
+   "units": "u2496",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:4) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2497-u2509",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2511",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > strand/standard heading"
+  },
+  {
+   "units": "u2512",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "US/NH History (HI:5) > strand statement of purpose"
+  },
+  {
+   "units": "u2513",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > table header: Standard"
+  },
+  {
+   "units": "u2514",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2515",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > standard statement"
+  },
+  {
+   "units": "u2516",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "US/NH History (HI:5) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2517-u2525",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "US/NH History (HI:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2528",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > strand/standard heading"
+  },
+  {
+   "units": "u2529",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:1) > strand statement of purpose"
+  },
+  {
+   "units": "u2530",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > table header: Standard"
+  },
+  {
+   "units": "u2531",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2532",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > standard statement"
+  },
+  {
+   "units": "u2533",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:1) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2534-u2543",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:1): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2546",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > strand/standard heading"
+  },
+  {
+   "units": "u2547",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:2) > strand statement of purpose"
+  },
+  {
+   "units": "u2548",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > table header: Standard"
+  },
+  {
+   "units": "u2549",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2550",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > standard statement"
+  },
+  {
+   "units": "u2551",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:2) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2552-u2560",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:2): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2563",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > strand/standard heading"
+  },
+  {
+   "units": "u2564",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:3) > strand statement of purpose"
+  },
+  {
+   "units": "u2565",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > table header: Standard"
+  },
+  {
+   "units": "u2566",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2567",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > standard statement"
+  },
+  {
+   "units": "u2568",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:3) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2569-u2579",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:3): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2582",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > strand/standard heading"
+  },
+  {
+   "units": "u2583",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:4) > strand statement of purpose"
+  },
+  {
+   "units": "u2584",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > table header: Standard"
+  },
+  {
+   "units": "u2585",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2586",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > standard statement"
+  },
+  {
+   "units": "u2587",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:4) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2588-u2599",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:4): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2601",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > strand/standard heading"
+  },
+  {
+   "units": "u2602",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (WH:5) > strand statement of purpose"
+  },
+  {
+   "units": "u2603",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > table header: Standard"
+  },
+  {
+   "units": "u2604",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > column header: Grades 9-12"
+  },
+  {
+   "units": "u2605",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > standard statement"
+  },
+  {
+   "units": "u2606",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (WH:5) > grade-span expectations 9-12"
+  },
+  {
+   "units": "u2607-u2615",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History (WH:5): duplicate page-layer text fragment (overlaps table content)"
+  },
+  {
+   "units": "u2619-u2624",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References"
+  },
+  {
+   "units": "u2629-u2716",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Contributors"
+  }
+ ],
+ "issues": [
+  "Landscape-page extraction: every strand page (pp.16-101) has x-positioned fragment units (u with '(x=..)') that are broken-line duplicates of the strand title, purpose paragraph, standard statement and expectation cells already present as table cells (also pages 10-12 grids). They were labeled backup with the page's span so the verbatim text is not double-counted as standards; the full table-cell versions are labeled standards.",
+  "Pages 26, 28, 53, 58, 61, 63, 67, 70, 73, 75 contain only duplicate fragments (the table for that strand is on the next page); labeled backup with the span.",
+  "Strand statement-of-purpose paragraphs (table R2 C1, e.g. u656, u791, u1051, u1181) labeled examples as overview narrative; they could arguably be backup.",
+  "Ten Themes (u124-u205) and the theme grids (u206-u625) labeled examples (framework states themes 'are not to be understood as required standards'); grade 'all' (K-12). Grid pages 10-12 are heavily scrambled by extraction (cells plus rotated fragments); fragment units there are also examples.",
+  "Essential Skills (u629-u651) labeled standards K-12; the document says skills are not assigned to grades (local committees decide) and u629 mixes the Part 2 intro with Skill 2.1 expectations A-B.",
+  "Some source grade-span cells are blank (K-2 for SS:EC:3, SS:WH:2, SS:WH:4; 5-6 for SS:EC:4, SS:EC:5, SS:EC:6) - empty in the document, not an extraction loss.",
+  "u1544: 7-8 cell SS:EC:8:4.2 is truncated in the source (ends '...D: Material Wants and Needs' with no closing). Source typos left as is: 'A0: Human Expression' (u2402, u2477, u2568, u2606) and '1: Conflict and Cooperation' (u662).",
+  "Guide note says Intro codes ending 2/4/6/8/12 map to K-2, 3-4, 5-6, 7-8, 9-12; verified against column headers on every page. Shared per-page units (strand title, standard statement, 'Standard' header, strand narrative) are labeled with the whole page span (K-4, 5-8, 9-12), which is not one of the guide's row clusters; the assembler should copy them into the clusters they overlap (K-2 and 3-4; 5-6 and 7-8).",
+  "Page 16 title cell u655 reads 'Strand: Civics and Governments (CV:1)'; later pages omit 'Strand:'.",
+  "Shared per-page units (strand title, purpose, standard statement, 'Standard' header) carry the page span (K-4, 5-8, 9-12), which is not one of the guide's row clusters; assembler should copy into overlapping clusters (K-2 and 3-4; 5-6 and 7-8)."
+ ]
+}

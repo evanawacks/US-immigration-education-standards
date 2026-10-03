@@ -1,0 +1,179 @@
+{
+ "state": "ID",
+ "file": "K-12-Social-Studies-Standards_4ca81c.pdf",
+ "structure": "Idaho Content Standards K-12 Social Studies (rev. 11/2025). Front matter: cover, preamble/committee, contents, introduction, organization. K-5: one section per grade (Kindergarten, Grade 1-5), each with five strand headings (History, Geography, Economics, Civics and Government, Global Perspectives), each strand with a 'Students will...' description and a Code/Standard table; codes G.SS.s.n (e.g. K.SS.1.1, 5.SS.4.13; strand number 1-5). Grades 6-9: World Geography and World History and Civilizations courses, codes 6-9.WG.s.n and 6-9.WH.s.n, strands 1-5 plus skills strand 6 (Geography Skills / Historical Thinking Skills). High school/middle: United States History I (6-12.US1.n, sequential numbering by time period headings), United States History II (9-12.US2.n), shared Historical Thinking Skills (6-12.HT1.n after US I, 6-12.HT2.n after US II), American Government (9-12.GOV.n), Economics (9-12.EC.n), and an optional Foundations of Western Civilization course (9-12.WC.n) preceded by a context letter. Bulleted lists (e.g. events, people) sit inside the standard cell and are labeled with it. No separate examples sections; every table is 'Code | Standard' (cells C1 code, C4 standard text). Closing contact line.",
+ "labels": [
+  {
+   "units": "u1-u5",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u6-u25",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Preamble and committee list"
+  },
+  {
+   "units": "u26-u130",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u131-u137",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction and organization of standards"
+  },
+  {
+   "units": "u139",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 Social Studies heading"
+  },
+  {
+   "units": "u140-u190",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u192-u246",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u248-u314",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u316-u386",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u388-u475",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u477-u580",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: History, Geography, Economics, Civics and Government, Global Perspectives (strand descriptions and SS standards)"
+  },
+  {
+   "units": "u582",
+   "grades": "6-9",
+   "course": null,
+   "cat": "standards",
+   "section": "World Geography and Civilizations Grades 6-9 heading"
+  },
+  {
+   "units": "u583-u690",
+   "grades": "6-9",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography 6-9.WG.1-6 (History, Geography, Economics, Civics, Global Perspectives, Geography Skills)"
+  },
+  {
+   "units": "u692-u796",
+   "grades": "6-9",
+   "course": "World History and Civilizations",
+   "cat": "standards",
+   "section": "World History and Civilizations 6-9.WH.1-6 (incl. Historical Thinking Skills 6-9.WH.6)"
+  },
+  {
+   "units": "u798-u967",
+   "grades": "6-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I 6-12.US1.1-54, by time period"
+  },
+  {
+   "units": "u968-u988",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Historical Thinking Skills 6-12.HT1.1-9"
+  },
+  {
+   "units": "u990-u1153",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "US History II 9-12.US2.1-48, by time period"
+  },
+  {
+   "units": "u1154-u1184",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Historical Thinking Skills 6-12.HT2.1-9"
+  },
+  {
+   "units": "u1186-u1349",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government 9-12.GOV.1-59"
+  },
+  {
+   "units": "u1351-u1416",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics 9-12.EC.1-24"
+  },
+  {
+   "units": "u1418-u1428",
+   "grades": "9-12",
+   "course": "Foundations of Western Civilization",
+   "cat": "backup",
+   "section": "Context letter and standards committee list"
+  },
+  {
+   "units": "u1430-u1555",
+   "grades": "9-12",
+   "course": "Foundations of Western Civilization",
+   "cat": "standards",
+   "section": "Foundations of Western Civilization 9-12.WC.1-49"
+  },
+  {
+   "units": "u1557",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Contact information"
+  }
+ ],
+ "issues": [
+  "u582: heading 'World Geography and Civilizations Grades 6-9' covers two courses (World Geography, World History and Civilizations); given grades 6-9, course null.",
+  "Grades 6-9 courses (WG, WH) span middle-school and 9th grade; labeled grades '6-9' (cluster rows 6-8 and 9-12 both apply), course titles as headings.",
+  "u798-u967: US History I codes are 6-12.US1.n so grades 6-12 (not 9-12); US History II is 9-12.US2.n.",
+  "u968-u988 and u1154-u1184: Historical Thinking Skills (6-12.HT1/HT2) appear after US History I and II respectively but codes are 6-12 and not course specific; labeled course null grades 6-12 as shared skills. u1172-u1184 are the continuation of HT2.8-HT2.9.",
+  "u1181-u1184: garbled duplicate fragments of 6-12.HT2.9 text (split cells 'E','valuate',...); kept with standards.",
+  "u650-u651, u679-u681, u721-u722, u941-u942, u1076-u1078, u1095-u1097, u1111-u1112, u1122-u1129, u1176-u1178, u1192-u1195, u1329-u1330, u1340-u1343, u1357-u1358: extraction duplicates or split fragments of the adjacent standard cell text (table cell spill-over); labeled with the standard they duplicate. u1122-u1129 are bullet fragments of 9-12.US2.39 (end of Cold War factors).",
+  "u815-u818: 6-12.US1.5 and US1.6 have identical text in the source (duplicate standard).",
+  "u1124 etc: US2.33 (u1094) bullets continue into u1101 on the next page.",
+  "Missing unit numbers (e.g. u26, u55, u85, u114, u130, u138) are furniture; ranges are inclusive across them."
+ ]
+}

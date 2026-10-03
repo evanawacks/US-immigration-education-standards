@@ -1,0 +1,427 @@
+{
+ "state": "NJ",
+ "file": "2020NJSLS-SS_Grades6-8_74ea7e.pdf",
+ "structure": "NJSLS-SS 2020 grade-band file for grades 6-8 (end of grade 8). Front matter (pp.1-12) identical to the K-2 and 3-5 files. Then 'By End of Grade 8 / Disciplinary Concepts' tables per strand (Civics; Geography; Economics; History): Disciplinary Concept | Description | Core Ideas. Then 'About the NJSLS-SS Eras' lists: 6.1 Eras 3-5 (Revolution and the New Nation 1754-1820s; Expansion and Reform 1801-1861; Civil War and Reconstruction 1850-1877) and 6.2 Eras 1-4 (Beginnings of Human Society; Early Civilizations; Classical Civilizations; Expanding Exchanges and Encounters 500-1450 CE). Standards 6.1 U.S. History and 6.2 World History/Global Studies are organized by era (era heading + short narrative + table Core Idea | Performance Expectations); Standard 6.3 Active Citizenship in the 21st Century by the End of Grade 8 is organized by strand/disciplinary concept. PE codes: 6.1.8.<Strand><Concept>.<era>.<letter> (e.g. 6.1.8.CivicsPI.3.a), 6.2.8.<...>.<era>.<letter>, 6.3.8.<Strand><Concept>.<n>. The era is in the code, the grade is the 6-8 band (end of grade 8). Core ideas sit in C1 of each PE row, PEs in the next cell. No courses; all labeled 6-8. Era narratives are labeled examples; Description column cells of the disciplinary concept tables labeled examples.",
+ "labels": [
+  {
+   "units": "u1-u41",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, mission/vision, intent, framework diagram, changes"
+  },
+  {
+   "units": "u42-u63",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices (K-12 practices table)"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Standards in Action: Climate Change"
+  },
+  {
+   "units": "u67-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Structure of the NJSLS-SS, coding of performance expectations"
+  },
+  {
+   "units": "u126-u139",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "The Role of Essential Questions (A-D)"
+  },
+  {
+   "units": "u140-u234",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "NJ Administrative Code summary, statutes, references"
+  },
+  {
+   "units": "u236-u242",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u243",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u246",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u249",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u250-u251",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u252",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u253-u254",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u255",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u256-u260",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u261",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u262-u267",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u268",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u269-u270",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u271",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u272-u273",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u274",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u275-u279",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u280",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u281-u286",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u287",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u288-u289",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u290",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u291-u292",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u293",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u294-u295",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u296",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u297-u304",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u305",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u306-u311",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u312",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u313-u314",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u315",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u316",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 8 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u317-u318",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "About the NJSLS-SS Eras (explanatory)"
+  },
+  {
+   "units": "u319-u328",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Era lists for 6.1 and 6.2 by end of grade 8"
+  },
+  {
+   "units": "u329-u332",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 by end of grade 8 > Era 3 heading"
+  },
+  {
+   "units": "u333",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.1 Era 3 narrative"
+  },
+  {
+   "units": "u334-u370",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 Era 3 core ideas/PEs; Era 4 heading"
+  },
+  {
+   "units": "u371",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.1 Era 4 narrative"
+  },
+  {
+   "units": "u372-u390",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 Era 4 core ideas/PEs; Era 5 heading"
+  },
+  {
+   "units": "u391",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.1 Era 5 narrative"
+  },
+  {
+   "units": "u392-u407",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 Era 5 core ideas/PEs; 6.2 by end of grade 8 > Era 1 heading"
+  },
+  {
+   "units": "u408",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.2 Era 1 narrative"
+  },
+  {
+   "units": "u409-u431",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.2 Era 1 core ideas/PEs; Era 2 heading"
+  },
+  {
+   "units": "u432",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.2 Era 2 narrative"
+  },
+  {
+   "units": "u433-u456",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.2 Era 2 core ideas/PEs; Era 3 heading"
+  },
+  {
+   "units": "u457",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.2 Era 3 narrative"
+  },
+  {
+   "units": "u458-u500",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.2 Era 3 core ideas/PEs; Era 4 heading"
+  },
+  {
+   "units": "u501",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "6.2 Era 4 narrative"
+  },
+  {
+   "units": "u502-u602",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6.2 Era 4 core ideas/PEs; 6.3 Active Citizenship by end of grade 8"
+  }
+ ],
+ "issues": [
+  "u235-u316: table cells split across pages (u255/u258, u274/u277, u296/u299); continuation labeled by column (C2 description).",
+  "u412, u418, u448, u463, u473, u495, u511, u521, u526, u539, u546: stray bullet-only cells in PE tables; labeled standards.",
+  "u413-u425, u449-u452, u464-u469, u474-u478, u496-u499, u512-u517, u522-u524, u527-u531, u540-u557, u581-u586: PE sentences broken across rows by line wrapping; kept in order.",
+  "u371: Era 4 narrative begins with a repeat of the Era 3 paragraph (source text) before Era 4-specific sentence; labeled examples.",
+  "u395: code '6.1.8.HistoryCC5.b' missing a period in source.",
+  "u401-u403: HistoryCC.5.f-g continue on new page with Core Idea header but no core idea text (core idea is on u398).",
+  "u432: Era 2 heading (u431) includes 'Early River Valley Civilizations (4000-1000 BCE)' whereas the era list (u326) lists 'Early Civilizations and the Emergence of Pastoral People'.",
+  "u317-u318: 'About the NJSLS-SS Eras' header and note labeled backup; era lists u319-u328 labeled standards (organizing headings). Era 1 in the list (u325) has no date range.",
+  "u126-u139: Essential questions are K-12 framework-level; labeled examples with grades 6-8 (could arguably be backup).",
+  "u42-u63: Social Studies Practices apply K-12; labeled 6-8 (this document's range) as standards.",
+  "State guide did not mention the Description column in the Disciplinary Concepts tables nor era headings/narratives.",
+  "Immigration-relevant: 6.1.8.HistoryCC.4.d (u389) push-pull factors for immigration."
+ ]
+}

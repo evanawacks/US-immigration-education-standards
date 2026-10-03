@@ -1,0 +1,53 @@
+{
+ "state": "IN",
+ "file": "Indiana-Academic-Standards-Grade-6-Middle-School-Civics_d4140f.pdf",
+ "structure": "Single course document (Grade 6 Middle School Civics, semester-long, second semester of grade 6; 2023 format). Pages 2-3: context/purpose, acknowledgments (backup). Page 4 onward: heading 'Civics Standards (Second Semester Course)', one table; row 1 = course Learning Outcome; topic heading rows (Foundations of Government, Functions of Government, Role of Citizens); standard rows with C1 = code (6.CIV.n) and C2 = standard text, some with inline '\u25cf Examples: ...'; '(E)' marks essential standards.",
+ "labels": [
+  {
+   "units": "u2-u14",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Context and purpose, introduction, acknowledgments"
+  },
+  {
+   "units": "u17",
+   "grades": "6",
+   "course": "Grade 6 Middle School Civics",
+   "cat": "standards",
+   "section": "Civics Standards (Second Semester Course) title"
+  },
+  {
+   "units": "u18",
+   "grades": "6",
+   "course": "Grade 6 Middle School Civics",
+   "cat": "backup",
+   "section": "How to read: essential standards and numbering note"
+  },
+  {
+   "units": "u19-u43",
+   "grades": "6",
+   "course": "Grade 6 Middle School Civics",
+   "cat": "standards",
+   "section": "Learning outcome, Foundations of Government and Functions of Government 6.CIV.1-6.CIV.11"
+  },
+  {
+   "units": "u46",
+   "grades": "6",
+   "course": "Grade 6 Middle School Civics",
+   "cat": "examples",
+   "section": "Continuation of 6.CIV.11 examples across page break"
+  },
+  {
+   "units": "u47-u59",
+   "grades": "6",
+   "course": "Grade 6 Middle School Civics",
+   "cat": "standards",
+   "section": "6.CIV.12, Role of Citizens 6.CIV.13-6.CIV.17"
+  }
+ ],
+ "issues": [
+  "u46: C2 continuation of the 6.CIV.11 examples text (after the page break); labeled examples. The preceding unit u43 mixes the standard and the start of the examples and is labeled standards.",
+  "Course name: the document calls it the 'Grade 6 Middle School Civics course'; used that string as course for all course units."
+ ]
+}

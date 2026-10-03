@@ -1,0 +1,38 @@
+{
+ "state": "IN",
+ "file": "Indiana-Academic-Standards-Grade-5-Social-Studies_8ab064.pdf",
+ "structure": "Single-grade document (Grade 5, 2023 format). Pages 2-3: context/purpose, acknowledgments (backup); the examples sentence is split across pages 2-3 (u11, u14). Page 4 onward: one table with four domains (History, Civics and Government, Geography, Economics); each domain has a heading row, a Learning Outcome row, then standard rows with C1 = code (5.H.n, 5.C.n, 5.G.n, 5.E.n) and C2 = standard text, often with an inline '\u25cf Examples: ...' list in the same unit; '(E)' marks essential standards.",
+ "labels": [
+  {
+   "units": "u2-u16",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Context and purpose, introduction, acknowledgments"
+  },
+  {
+   "units": "u19",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Social Studies title"
+  },
+  {
+   "units": "u20",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "How to read: essential standards note"
+  },
+  {
+   "units": "u21-u117",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Domains 1-4 headings, learning outcomes and standards 5.H.1-5.E.6 (examples inline in the same units)"
+  }
+ ],
+ "issues": [
+  "u60, u63: standard 5.H.18 and its examples split across a page break (u63 is the table continuation with the examples tail); labeled standards because it completes the standard text."
+ ]
+}

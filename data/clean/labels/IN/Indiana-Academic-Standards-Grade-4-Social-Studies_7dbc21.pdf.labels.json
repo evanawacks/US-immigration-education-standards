@@ -1,0 +1,81 @@
+{
+ "state": "IN",
+ "file": "Indiana-Academic-Standards-Grade-4-Social-Studies_7dbc21.pdf",
+ "structure": "Single-grade document (Grade 4, 2023 format, Indiana-focused). Pages 2-3: context/purpose, acknowledgments (backup); the examples sentence is split across pages 2-3 (u11, u14). Page 4 onward: one table with four domains (History, Civics and Government, Geography, Economics); each domain has a heading row, a Learning Outcome row, then standard rows with C1 = code (4.H.n, 4.C.n, 4.G.n, 4.E.n) and C2 = standard text, often with an inline '\u25cf Examples: ...' list in the same unit; '(E)' marks essential standards. The extraction also produced stray 'T2' table fragments that duplicate example text from the preceding standard.",
+ "labels": [
+  {
+   "units": "u2-u16",
+   "grades": "4",
+   "course": "",
+   "cat": "backup",
+   "section": "Context and purpose, introduction, acknowledgments"
+  },
+  {
+   "units": "u19",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Social Studies title"
+  },
+  {
+   "units": "u20",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "How to read: essential standards note"
+  },
+  {
+   "units": "u21-u34",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History 4.H.1-4.H.6 with learning outcome"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Duplicate fragment of 4.H.4 examples (T2)"
+  },
+  {
+   "units": "u40-u55",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History 4.H.7-4.H.14"
+  },
+  {
+   "units": "u56-u58",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Duplicate fragment of 4.H.12 examples (T2)"
+  },
+  {
+   "units": "u61-u88",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History 4.H.15, Civics and Government 4.C.1-4.C.6, Geography 4.G.1-4.G.5 start"
+  },
+  {
+   "units": "u89-u91",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Duplicate fragment of 4.C.6 examples (T2)"
+  },
+  {
+   "units": "u94-u118",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4.G.5 end, 4.G.6-4.G.9, Economics 4.E.1-4.E.7"
+  }
+ ],
+ "issues": [
+  "u35-u37, u56-u58, u89-u91: stray second-table fragments that repeat example text already in u30 (4.H.4), u51 (4.H.12) and u76 (4.C.6); order in the view is displaced by the page layout. Labeled examples for the grade.",
+  "u88 and u94: 4.G.5 standard text is split ('...plants and' / 'animals (biosphere).') with the duplicate fragment u89-u91 in between; both halves labeled standards."
+ ]
+}

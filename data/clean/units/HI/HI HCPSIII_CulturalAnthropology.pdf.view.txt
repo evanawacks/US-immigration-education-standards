@@ -1,0 +1,263 @@
+=== page 1 ===
+u1 (x=237) Content Area: Social Studies
+u2 (x=173) Grade/Course: Cultural Anthropology / ACCN: No ACCN
+u3 [T1 R1 C1] Strand
+u4 [T1 R1 C2] Cultural Anthropology
+u5 [T1 R2 C1] Standard 1: Understand anthropological theories and methods
+u6 [T2 R1 C1] Topic
+u7 [T2 R1 C2] Anthropological Theory
+u8 [T2 R2 C2] Differentiate between various concepts (e.g., culture, relativism, holism)
+u9 [T2 R3 C1] Benchmark SS.CA.1.1
+u10 [T2 R3 C2] and theories (e..g, diffusionism, structuralism, cultural ecology) in
+u11 [T2 R4 C2] anthropology
+u12 [T2 R5 C1] Sample Performance
+u13 [T2 R5 C2] The student: Critiques the effects of feminist, interpretive, and post- modernist theories on anthropology.
+u14 [T2 R6 C1] Assessment (SPA)
+u15 [T2 R7 C1] Rubric
+u16 [T2 R8 C1] Advanced
+u17 [T2 R8 C2] Proficient
+u18 [T2 R8 C3] Partially Proficient
+u19 [T2 R8 C4] Novice
+u20 [T2 R9 C1] Differentiate, with well- supported detail, between various concepts and theories in anthropology
+u21 [T2 R9 C2] Differentiate, with supported detail, between various concepts and theories in anthropology
+u22 [T2 R9 C3] Differentiate, with weakly associated details, between various concepts and theories in anthropology
+u23 [T2 R9 C4] Differentiate, with unrelated details, between various concepts and theories in anthropology
+u24 [T3 R1 C1] Topic
+u25 [T3 R1 C2] Anthropological Theory
+u26 [T3 R2 C2] Assess the role of evolutionary theory in cultural anthropology (e.g., early
+u27 [T3 R3 C1] Benchmark SS.CA.1.2
+u28 [T3 R4 C2] evolution concepts, unilinear and multilinear evolution, sociobiology)
+u29 [T3 R6 C1] Sample Performance
+u30 [T3 R6 C2] The student: Compares sociological and biological approaches to evolutionary concepts in cultural anthropology.
+u31 [T3 R7 C1] Assessment (SPA)
+u32 [T3 R8 C1] Rubric
+u33 [T3 R9 C1] Advanced
+u34 [T3 R9 C2] Proficient
+u35 [T3 R9 C3] Partially Proficient
+u36 [T3 R9 C4] Novice
+u37 [T3 R10 C1] Assess, in great detail, the role of evolutionary theory in cultural anthropology
+u38 [T3 R10 C2] Assess, in detail, the role of evolutionary theory in cultural anthropology
+u39 [T3 R10 C3] Assess, in some detail, the role of evolutionary theory in cultural anthropology
+u40 [T3 R10 C4] Assess, in minimal detail, the role of evolutionary theory in cultural anthropology
+u41 [T4 R1 C1] Topic
+u42 [T4 R1 C2] Anthropological Methodologies
+u43 [T4 R2 C2] Assess how cultural anthropology uses case studies, participant
+u44 [T4 R3 C1] Benchmark SS.CA.1.3
+u45 [T4 R4 C2] observation, and ethnography
+u46 [T4 R6 C1] Sample Performance
+u47 [T4 R6 C2] The student: Compares the goals and methods of cultural anthropology with those of natural science.
+u48 [T4 R7 C1] Assessment (SPA)
+u49 [T4 R8 C1] Rubric
+u50 [T4 R9 C1] Advanced
+u51 [T4 R9 C2] Proficient
+u52 [T4 R9 C3] Partially Proficient
+u53 [T4 R9 C4] Novice
+u54 [T4 R10 C1] Assess, in great detail, how cultural anthropology uses case studies, participant observation, and ethnography
+u55 [T4 R10 C2] Asses, in detail, how cultural anthropology uses case studies, participant observation, and ethnography
+u56 [T4 R10 C3] Assess, in some detail, how cultural anthropology uses case studies, participant observation, and ethnography
+u57 [T4 R10 C4] Assess, in minimal detail, how cultural anthropology uses case studies, participant observation, and ethnography
+u58 [T4 R11 C1] Strand
+u59 [T4 R11 C3] Cultural Anthropology
+u60 [T4 R12 C1] Standard 2: Understand varieties of communication, kinship, and social relationships
+=== page 2 ===
+u61 [T1 R1 C1] Topic
+u62 [T1 R1 C2] Cultural Communication
+u63 [T1 R2 C2] Describe how culture is produced and negotiated through audio and visual
+u64 [T1 R3 C1] Benchmark SS.CA.2.1
+u65 [T1 R4 C2] language systems, writing, and electronic media
+u66 [T1 R6 C1] Sample Performance
+u67 [T1 R6 C2] The student: Explains ways in which the internet affects cross-cultural developments.
+u68 [T1 R7 C1] Assessment (SPA)
+u69 [T1 R8 C1] Rubric
+u70 [T1 R9 C1] Advanced
+u71 [T1 R9 C2] Proficient
+u72 [T1 R9 C3] Partially Proficient
+u73 [T1 R9 C4] Novice
+u74 [T1 R10 C1] Describe, in great detail, how culture is produced and negotiated through audio and visual language systems, writing, and electronic media
+u75 [T1 R10 C2] Describe, in detail, how culture is produced and negotiated through audio and visual language systems, writing, and electronic media
+u76 [T1 R10 C3] Describe, in some detail, how culture is produced and negotiated through audio and visual language systems, writing, and electronic media
+u77 [T1 R10 C4] Describe, in minimal detail, how culture is produced and negotiated through audio and visual language systems, writing, and electronic media
+u78 [T2 R1 C1] Topic
+u79 [T2 R1 C2] Roles Based on Reproduction, Kinship, and Group
+u80 [T2 R2 C2] Compare how gender, biological relationship, and social identity have
+u81 [T2 R3 C1] Benchmark SS.CA.2.2
+u82 [T2 R3 C2] been used to determine family structure and roles/relations in different
+u83 [T2 R4 C2] cultures and time periods
+u84 [T2 R5 C1] Sample Performance
+u85 [T2 R5 C2] The student: Assesses the role of extended family structures is various cultures (e.g., Chinese, Polynesian, Iroquois, Bantu).
+u86 [T2 R6 C1] Assessment (SPA)
+u87 [T2 R7 C1] Rubric
+u88 [T2 R8 C1] Advanced
+u89 [T2 R8 C2] Proficient
+u90 [T2 R8 C3] Partially Proficient
+u91 [T2 R8 C4] Novice
+u92 [T2 R9 C1] Compare, with well- supported detail, how gender, biological relationship, and social identity have been used to determine family membership and structure relations in different cultures and time periods
+u93 [T2 R9 C2] Compare, with supported detail, how gender, biological relationship, and social identity have been used to determine family membership and structure relations in different cultures and time periods
+u94 [T2 R9 C3] Compare, with weakly associated details, how gender, biological relationship, and social identity have been used to determine family membership and structure relations in different cultures and time periods
+u95 [T2 R9 C4] Compare, with unrelated details, how gender, biological relationship, and social identity have been used to determine family membership and structure relations in different cultures and time periods
+u96 [T3 R1 C1] Topic
+u97 [T3 R1 C2] Roles Based on Reproduction, Kinship, and Group
+u98 [T3 R2 C2] Describe forms of social stratification (e.g., based on class, ethnicity,
+u99 [T3 R3 C1] Benchmark SS.CA.2.3
+u100 [T3 R4 C2] religion, race, gender) in various times and/or places
+u101 [T3 R6 C1] Sample Performance
+u102 [T3 R6 C2] The student: Provides examples of ethnic and/or racial stratification in local communities or regions.
+u103 [T3 R7 C1] Assessment (SPA)
+u104 [T3 R8 C1] Rubric
+u105 [T3 R9 C1] Advanced
+u106 [T3 R9 C2] Proficient
+u107 [T3 R9 C3] Partially Proficient
+u108 [T3 R9 C4] Novice
+u109 [T3 R10 C1] Describe, in great detail, forms of social stratification in various times and/or places
+u110 [T3 R10 C2] Describe, in detail, forms of social stratification in various times and/or places
+u111 [T3 R10 C3] Describe, in some detail, forms of social stratification in various times and/or places
+u112 [T3 R10 C4] Describe, in minimal detail, forms of social stratification in various times and/or places
+u113 [T3 R11 C1] Strand
+u114 [T3 R11 C3] Cultural Anthropology
+=== page 3 ===
+u115 Standard 3: Understand varieties of economic and political patterns
+u116 [T1 R1 C1] Topic
+u117 [T1 R1 C2] Economic Evolution and History
+u118 [T1 R2 C2] Trace the development of food acquisition from hunting-gathering through
+u119 [T1 R3 C1] Benchmark SS.CA.3.1
+u120 [T1 R4 C2] the rise and spread of agriculture and pastoralism
+u121 [T1 R6 C1] Sample Performance
+u122 [T1 R6 C2] The student: Compares conflicting and peaceful transitions from hunter- gatherer to agricultural and pastoral systems of food acquisition.
+u123 [T1 R7 C1] Assessment (SPA)
+u124 [T1 R8 C1] Rubric
+u125 [T1 R9 C1] Advanced
+u126 [T1 R9 C2] Proficient
+u127 [T1 R9 C3] Partially Proficient
+u128 [T1 R9 C4] Novice
+u129 [T1 R10 C1] Trace, in great detail, the development of food acquisition from hunting-gathering through the rise and spread of agriculture and pastoralism
+u130 [T1 R10 C2] Trace, in detail, the development of food acquisition from hunting-gathering through the rise and spread of agriculture and pastoralism
+u131 [T1 R10 C3] Trace, in some detail, the development of food acquisition from hunting-gathering through the rise and spread of agriculture and pastoralism
+u132 [T1 R10 C4] Trace, in minimal detail, the development of food acquisition from hunting-gathering through the rise and spread of agriculture and pastoralism
+u133 [T2 R1 C1] Topic
+u134 [T2 R1 C2] Economic Systems
+u135 [T2 R2 C2] Compare the economic systems (e.g., resource bases, production and
+u136 [T2 R3 C1] Benchmark SS.CA.3.2
+u137 [T2 R3 C2] distribution modes, and/or socioeconomic allocation patterns) of agrarian,
+u138 [T2 R4 C2] industrial, and post-industrial societies
+u139 [T2 R5 C1] Sample Performance
+u140 [T2 R5 C2] The student: Assesses how railroad systems affect agrarian and rural societies.
+u141 [T2 R6 C1] Assessment (SPA)
+u142 [T2 R7 C1] Rubric
+u143 [T2 R8 C1] Advanced
+u144 [T2 R8 C2] Proficient
+u145 [T2 R8 C3] Partially Proficient
+u146 [T2 R8 C4] Novice
+u147 [T2 R9 C1] Compare, with well- supported detail, the economic systems of agrarian, industrial, and post-industrial societies
+u148 [T2 R9 C2] Compare, with supported detail, the economic systems of agrarian, industrial, and post-industrial societies
+u149 [T2 R9 C3] Compare, with weakly associated details, the economic systems of agrarian, industrial, and post-industrial societies
+u150 [T2 R9 C4] Compare, with unrelated details, the economic systems of agrarian, industrial, and post-industrial societies
+u151 [T3 R1 C1] Topic
+u152 [T3 R1 C2] Political Systems
+u153 [T3 R2 C2] Compare how different kinds of political organization (e.g., democratic,
+u154 [T3 R3 C1] Benchmark SS.CA.3.3
+u155 [T3 R3 C2] communist, theocratic, military/police state) have managed authority,
+u156 [T3 R4 C2] freedom, laws, values, and conflict
+u157 [T3 R5 C1] Sample Performance
+u158 [T3 R5 C2] The student: Evaluates, in terms of strength and weakness, the role of habeas corpus in the legal systems of various types of political organization.
+u159 [T3 R6 C1] Assessment (SPA)
+u160 [T3 R8 C1] Rubric
+u161 [T3 R9 C1] Advanced
+u162 [T3 R9 C2] Proficient
+u163 [T3 R9 C3] Partially Proficient
+u164 [T3 R9 C4] Novice
+u165 [T3 R10 C1] Compare, with well- supported detail, how different kinds of political organization have managed authority, freedom, laws, values, and conflict
+u166 [T3 R10 C2] Compare, with supported detail, how different kinds of political organization have managed authority, freedom, laws, values, and conflict
+u167 [T3 R10 C3] Compare, with weakly associated details, how different kinds of political organization have managed authority, freedom, laws, values, and conflict
+u168 [T3 R10 C4] Compare, with unrelated details, how different kinds of political organization have managed authority, freedom, laws, values, and conflict
+=== page 4 ===
+u169 [T1 R1 C1] Strand
+u170 [T1 R1 C2] Cultural Anthropology
+u171 [T1 R2 C1] Standard 4: Understand varieties of belief and creativity
+u172 [T2 R1 C1] Topic
+u173 [T2 R1 C2] Comparative Religion
+u174 [T2 R2 C1] Benchmark SS.CA.4.1
+u175 [T2 R2 C2] Compare the beliefs, symbols, and practices of various religions
+u176 [T2 R3 C1] Sample Performance
+u177 [T2 R3 C2] The student: Distinguishes between the theological and social beliefs of monotheistic and polytheistic religions.
+u178 [T2 R4 C1] Assessment (SPA)
+u179 [T2 R5 C1] Rubric
+u180 [T2 R6 C1] Advanced
+u181 [T2 R6 C2] Proficient
+u182 [T2 R6 C3] Partially Proficient
+u183 [T2 R6 C4] Novice
+u184 [T2 R7 C1] Compare, with well- supported detail, the beliefs, symbols, and practices of various religions
+u185 [T2 R7 C2] Compare, with supported detail, the beliefs, symbols, and practices of various religions
+u186 [T2 R7 C3] Compare, with weakly associated details, the beliefs, symbols, and practices of various religions
+u187 [T2 R7 C4] Compare, with unrelated details, the beliefs, symbols, and practices of various religions
+u188 [T3 R1 C1] Topic
+u189 [T3 R1 C2] Cultural Exchange
+u190 [T3 R2 C2] Describe ways that cross-cultural encounters have affected artistic
+u191 [T3 R3 C1] Benchmark SS.CA.4.2
+u192 [T3 R4 C2] expression
+u193 [T3 R6 C1] Sample Performance
+u194 [T3 R6 C2] The student: Provides examples of the influence of British architecture on India s public buildings.
+u195 [T3 R7 C1] Assessment (SPA)
+u196 [T3 R8 C1] Rubric
+u197 [T3 R9 C1] Advanced
+u198 [T3 R9 C2] Proficient
+u199 [T3 R9 C3] Partially Proficient
+u200 [T3 R9 C4] Novice
+u201 [T3 R10 C1] Describe, providing highly relevant examples, ways that cross-cultural encounters have affected artistic expression
+u202 [T3 R10 C2] Describe, providing relevant examples, ways that cross-cultural encounters have affected artistic expression
+u203 [T3 R10 C3] Describe, providing partially relevant examples, ways that cross-cultural encounters have affected artistic expression
+u204 [T3 R10 C4] Describe, providing irrelevant examples, ways that cross-cultural encounters have affected artistic expression
+u205 [T3 R11 C1] Strand
+u206 [T3 R11 C3] Cultural Anthropology
+u207 [T3 R12 C1] Standard 5: Understand interactions between local and global cultural patterns
+u208 [T4 R1 C1] Topic
+u209 [T4 R1 C2] Local Impacts of Global Change
+u210 [T4 R2 C2] Explain the effects of globalization on regional and local cultures (e.g.,
+u211 [T4 R3 C1] Benchmark SS.CA.5.1
+u212 [T4 R4 C2] gender roles, education, language, the arts, law)
+u213 [T4 R6 C1] Sample Performance
+u214 [T4 R6 C2] The student: Explains the effect of global economic changes on the rise of female education.
+u215 [T4 R7 C1] Assessment (SPA)
+u216 [T4 R8 C1] Rubric
+u217 [T4 R9 C1] Advanced
+u218 [T4 R9 C2] Proficient
+u219 [T4 R9 C3] Partially Proficient
+u220 [T4 R9 C4] Novice
+u221 [T4 R10 C1] Explain, with well- supported conclusions, the effects of globalization on regional and local cultures
+u222 [T4 R10 C2] Explain, with supported conclusions, the effects of globalization on regional and local cultures
+u223 [T4 R10 C3] Explain, with partially supported conclusions, the effects of globalization on regional and local cultures
+u224 [T4 R10 C4] Explain, with unsupported conclusions, the effects of globalization on regional and local cultures
+=== page 5 ===
+u225 [T1 R1 C1] Topic
+u226 [T1 R1 C2] Local Impacts of Global Change
+u227 [T1 R2 C2] Describe ways indigenous people are using contemporary resources to
+u228 [T1 R3 C1] Benchmark SS.CA.5.2
+u229 [T1 R4 C2] revitalize and protect their cultures
+u230 [T1 R6 C1] Sample Performance
+u231 [T1 R6 C2] The student: Describes the economic and political methods used by tribal groups in the Amazon Basin to protect their cultures and territories.
+u232 [T1 R7 C1] Assessment (SPA)
+u233 [T1 R8 C1] Rubric
+u234 [T1 R9 C1] Advanced
+u235 [T1 R9 C2] Proficient
+u236 [T1 R9 C3] Partially Proficient
+u237 [T1 R9 C4] Novice
+u238 [T1 R10 C1] Describe, with well- supported conclusions, ways indigenous people are using contemporary resources to revitalize and protect their cultures
+u239 [T1 R10 C2] Describe, with supported conclusions, ways indigenous people are using contemporary resources to revitalize and protect their cultures
+u240 [T1 R10 C3] Describe, with partially supported conclusions, ways indigenous people are using contemporary resources to revitalize and protect their cultures
+u241 [T1 R10 C4] Describe, with unsupported conclusions, ways indigenous people are using contemporary resources to revitalize and protect their cultures
+u242 [T2 R1 C1] Topic
+u243 [T2 R1 C2] Cultural Conflict
+u244 [T2 R2 C2] Explain causes and resolutions of cultural conflict (e.g., tribal, national,
+u245 [T2 R3 C1] Benchmark SS.CA.5.3
+u246 [T2 R4 C2] ethnic, religious, racial)
+u247 [T2 R6 C1] Sample Performance
+u248 [T2 R6 C2] The student: Describes the history of the Indo-Pakistani conflict in Kashmir.
+u249 [T2 R7 C1] Assessment (SPA)
+u250 [T2 R8 C1] Rubric
+u251 [T2 R9 C1] Advanced
+u252 [T2 R9 C2] Proficient
+u253 [T2 R9 C3] Partially Proficient
+u254 [T2 R9 C4] Novice
+u255 [T2 R10 C1] Explain, with well- supported detail, causes and resolutions of cultural conflict
+u256 [T2 R10 C2] Explain, with supported details, causes and resolutions of cultural conflict
+u257 [T2 R10 C3] Explain, with weakly associated details, causes and resolutions of cultural conflict
+u258 [T2 R10 C4] Explain, with unrelated details, causes and resolutions of cultural conflict

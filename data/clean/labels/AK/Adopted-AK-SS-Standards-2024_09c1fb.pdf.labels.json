@@ -1,0 +1,5769 @@
+{
+ "state": "AK",
+ "file": "Adopted-AK-SS-Standards-2024_09c1fb.pdf",
+ "structure": "Alaska Social Studies Standards (adopted Dec 2024), single PDF. Front matter (cover, TOC, introduction, guiding principles, 'How to Read the Standards' with anchor-standard tables/definitions and sample standards) is u1-u380. Standards then run in grade bands. K-2 (u382-u965) and 3-5 (u966-u1665): a grade-level theme table (Kindergarten/First/Second or Third/Fourth/Fifth with a theme), then Inquiry Anchor Standards 1-5 (SS.K-2.n.m / SS.3-5.n.m bullets, band-level), then Civics (Anchor Std 6-10), Economics (11-15), Geography (16-20), History (21-25) tables. Each content table has 3 columns: C1 anchor strand label (e.g. 'Civics Anchor Standard 6 Civic and Political Institutions and Systems', split over many cells), C2 Grade-Band Standard (SS.K-2.6.1 / SS.3-5.6.1), C3 Leveled Content Standard cells beginning 'By the end of K/1/2' (or 3/4/5) with grade codes SS.<grade>.<n>.<anchor>.<m>; column headers repeat on every page. Grades 6-8: 'Grade 6 through 8 Inquiry Standards' (SS.6-8.n.m, band 6-8), then Grade 6 Alaska Studies and Geography (Themes 1-4), Grade 7 World History and Geography (Themes 1-4), Grade 8 U.S. History and Civics (Themes 1-8, with Time Period lines); tables have C1 Topic, C2 anchor standard label, C3 bulleted content standards coded SS.<grade>.<theme>.<anchor>.<n>. Grades 9-12 (u2552 on): one band; Inquiry Anchor Standards 1-5 (SS.9-12.n.m, shared, course null) then discipline sections used as courses: Civics, Economics, Geography (tables with C1 anchor label, C2 bulleted 9-12 standards SS.9-12.n.m), Alaska History (SS.AKH.theme.anchor.n, Themes 1-6, time-period table), U.S. History (SS.USH..., Themes 1-7), World History (SS.WH..., Themes 1-6). No examples/teacher notes or literacy standards exist; everything after the front matter is standards except repeated table column-header cells, which are labeled backup.",
+ "labels": [
+  {
+   "units": "u1-u59",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and table of contents"
+  },
+  {
+   "units": "u61-u151",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, process, guiding principles, foundational documents, overview"
+  },
+  {
+   "units": "u153-u380",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (anchor standards, definitions, samples)"
+  },
+  {
+   "units": "u382-u383",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 grade-level themes table"
+  },
+  {
+   "units": "u384-u385",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Theme table column headers"
+  },
+  {
+   "units": "u386-u387",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 grade-level themes table"
+  },
+  {
+   "units": "u388-u389",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 grade-level themes table"
+  },
+  {
+   "units": "u390-u391",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 grade-level themes table"
+  },
+  {
+   "units": "u392-u431",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Inquiry standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u433",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: heading"
+  },
+  {
+   "units": "u434-u440",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u441-u442",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u443",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u444-u446",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u447",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u448",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u449",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u450",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u451",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u452",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u453",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u454",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u455",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u456",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u458-u464",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u465-u466",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u467",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u468-u472",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u473",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u474",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u475",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u476",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u477",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u478",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u479",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u480-u481",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u482",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u483-u484",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u485",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u486",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u487",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u488",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u489",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u490",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u492-u498",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u499-u500",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u501",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u502-u505",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u506",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u507",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u508",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u509",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u510",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u511",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u512",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u513-u514",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u515",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u516-u518",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u519",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u521-u527",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u528-u529",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u530",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u531-u534",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u535",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u536",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u537",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u538",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u539",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u540",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u541",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u542-u543",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u544",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u545-u547",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u548",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u549",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u550",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u551",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u552",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u554-u560",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u561-u562",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u563",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u564-u568",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u569",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u570-u571",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u572",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u573-u574",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u575",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Civics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u576",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: heading"
+  },
+  {
+   "units": "u577-u583",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u584-u585",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u586",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u587-u589",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u590",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u591",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u593-u599",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u600-u601",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u602",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u603-u605",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u606",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u607",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u608",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u609",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u610",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u611",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u612",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u613",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u614",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u615",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u617-u623",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u624-u625",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u626",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u627-u629",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u630",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u631",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u632",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u633",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u634",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u635",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u636-u637",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u638",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u639-u641",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u642",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u643",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u645-u651",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u652-u653",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u654",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u655-u657",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u658",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u659",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u660-u661",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u662",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u663-u664",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u665",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u666",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u667",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u668",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u669",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u670",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u672-u678",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u679-u680",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u681",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u682-u683",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u684",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u685",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u686-u687",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u688",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u689-u690",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u691",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u692",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u693",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u694",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u695",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u696",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u698-u704",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u705-u706",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u707",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade K)"
+  },
+  {
+   "units": "u708-u710",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u711",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u712",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Economics: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u713",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: heading"
+  },
+  {
+   "units": "u714-u720",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u721-u722",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u723",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u724-u727",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u728",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u729",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u730",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u731",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u732",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u734-u740",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u741-u742",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u743",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u744-u748",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u749",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u750",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u751",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u752-u753",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u754",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u755-u759",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u760",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u761",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u763-u769",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u770-u771",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u772",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u773-u776",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u777",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u778",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u779",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u780",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u781",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u782",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u783",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u784-u785",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u786",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u787-u789",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u790",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u791",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u792",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u794-u800",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u801-u802",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u803",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u804-u807",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u808",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u809",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u810",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u811",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u812",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u813",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u814-u815",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u816",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u817-u820",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u821",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u823-u829",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u830-u831",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u832",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u833-u837",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u838",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u839",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u840",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u841",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u842",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u843",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u844",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u846-u852",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u853-u854",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u855",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade K)"
+  },
+  {
+   "units": "u856-u857",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u858",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u859",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Geography: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u860",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: heading"
+  },
+  {
+   "units": "u861-u867",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u868-u869",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u870",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u871-u872",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u873",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u874",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u875",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u876",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u877",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u879-u885",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u886-u887",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u888",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u889-u892",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u893",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u894-u896",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u897",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u898",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u899",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u900",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u901",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u902",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u903",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u904",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u905",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u906",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u908-u914",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u915-u916",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u917",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u918-u920",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u921",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u922",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u923",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u924",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u925",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u926",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u927",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u928",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u929",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u930",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u932-u938",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u939-u940",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u941",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u942-u943",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u944",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u945",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u946",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u947",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u948",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u949",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u951-u957",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u958-u959",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u960",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade K)"
+  },
+  {
+   "units": "u961-u962",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u963",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 1)"
+  },
+  {
+   "units": "u964",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 History: leveled content standard (grade 2)"
+  },
+  {
+   "units": "u966-u967",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 grade-level themes table"
+  },
+  {
+   "units": "u968-u969",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Theme table column headers"
+  },
+  {
+   "units": "u970-u971",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 grade-level themes table"
+  },
+  {
+   "units": "u972-u973",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 grade-level themes table"
+  },
+  {
+   "units": "u974-u975",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 grade-level themes table"
+  },
+  {
+   "units": "u976-u1025",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Inquiry standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u1026",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: heading"
+  },
+  {
+   "units": "u1027-u1033",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1034-u1035",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1036",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1037-u1040",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1041",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1042",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1043",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1044",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1045",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1046",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1048-u1054",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1055-u1056",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1057",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1058-u1061",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1062",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1063",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1064",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1065",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1066",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1067",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1068",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1069",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1070",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1072-u1078",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1079-u1080",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1081",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1082-u1086",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1087",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1088",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1089",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1090-u1091",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1092",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1093-u1095",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1096",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1097",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1098",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1099",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1100",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1102-u1108",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1109-u1110",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1111",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1112-u1115",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1116",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1117",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1118",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1119",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1120",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1121",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1122",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1124-u1130",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1131-u1132",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1133",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1134-u1136",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1137",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1138",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1139",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1140",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1141",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1142",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1143",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1144",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1146-u1152",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1153-u1154",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1155",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1156-u1158",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1159",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1160",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1161",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1162",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1163",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1164-u1165",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1166",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1167-u1168",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1169",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1170",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1172-u1178",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1179-u1180",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1181",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1182-u1185",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1186",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1187",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Civics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1188",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: heading"
+  },
+  {
+   "units": "u1189-u1195",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1196-u1197",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1198",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1199-u1201",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1202",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1203",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1205-u1211",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1212-u1213",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1214",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1215-u1217",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1218",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1219",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1220",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1221",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1222",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1223",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1224",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1225",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1226",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1228-u1234",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1235-u1236",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1237",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1238-u1241",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1242",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1243",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1244",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1245",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1246",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1247",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1248",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1249",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1250",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1251",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1252",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1254-u1260",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1261-u1262",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1263",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1264-u1266",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1267",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1268",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1269",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1270",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1271",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1272",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1273-u1274",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1275",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1276-u1277",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1278",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1280-u1286",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1287-u1288",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1289",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1290-u1292",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1293",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1294",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1295",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1296",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1297",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1298",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1299",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1300",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1301",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1303-u1309",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1310-u1311",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1312",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1313-u1314",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1315",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1316-u1317",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1318",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1319-u1320",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1321",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1322",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1323",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1324",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1325",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1327-u1333",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1336",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1337-u1340",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1341",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1342-u1344",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1345",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1346",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Economics: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1347",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: heading"
+  },
+  {
+   "units": "u1348-u1354",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1355-u1356",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1357",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1358-u1361",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1362",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1364-u1370",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1371-u1372",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1373",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1374-u1378",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1379",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1380",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1381",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1382",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1383",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1384",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1385",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1387-u1393",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1394-u1395",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1396",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1397-u1400",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1401",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1402",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1403",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1404",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1405",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1406",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1407",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1408",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1409",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1411-u1417",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1418-u1419",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1420",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1421-u1425",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1426",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1427-u1428",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1429",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1430-u1433",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1434",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1435",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1436",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1437",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1438",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1440-u1446",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1447-u1448",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1449",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1450-u1454",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1455",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1456",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1457",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1458-u1459",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1460",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1461-u1464",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1465",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1467-u1473",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1474-u1475",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1476",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1477-u1481",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1482",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1483",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1484",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1485",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1486",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1487",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1489-u1495",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1496-u1497",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1498",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1499-u1504",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1505",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1506-u1507",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1508",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1509",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Geography: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1511",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: heading"
+  },
+  {
+   "units": "u1512-u1518",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1519-u1520",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1521",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1522-u1523",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1524",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1525",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1526",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1527",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1528",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1530-u1536",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1537-u1538",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1539",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1540-u1542",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1543",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1544",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1545",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1546-u1547",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1548",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1549-u1551",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1552",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1553",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1555-u1561",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1562-u1563",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1564",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1565-u1567",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1568",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1569",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1570",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1571",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1572",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1573",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1574",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1575",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1576",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1578-u1584",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1585-u1586",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1587",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1588-u1591",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1592",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1593",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1594",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1595-u1596",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1597",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1598-u1600",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1601",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1602",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1604-u1610",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1611-u1612",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1613",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1614-u1616",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1617",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1618",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1619",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1620",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1621",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1622",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1624-u1630",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1631-u1632",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1633",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1634-u1635",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1636",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1637",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1638",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1639",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1640",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1641",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1642",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1643",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1645-u1651",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1652-u1653",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1654",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1655-u1656",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1657",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1658-u1659",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1660",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 3)"
+  },
+  {
+   "units": "u1661-u1662",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: anchor standard strand and grade-band standard"
+  },
+  {
+   "units": "u1663",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 4)"
+  },
+  {
+   "units": "u1664",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 History: leveled content standard (grade 5)"
+  },
+  {
+   "units": "u1666",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Overview: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1667-u1714",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1716",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1717",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 1: Physical Environment: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1718-u1724",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1725-u1750",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 1: Physical Environment: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1752-u1758",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1759-u1771",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 1: Physical Environment: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1772",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 2: Peoples of Alaska: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1773-u1779",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1780-u1792",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 2: Peoples of Alaska: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1794-u1800",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1801-u1823",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 2: Peoples of Alaska: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1825",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 3: Resources and Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1826-u1832",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1833-u1852",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 3: Resources and Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1854-u1860",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1861-u1871",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 3: Resources and Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1872",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 4: Community Awareness: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1873-u1878",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1879-u1894",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 4: Community Awareness: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1896-u1898",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 Alaska Studies and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1899-u1912",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Alaska Studies and Geography > Theme 4: Community Awareness: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1913",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1914",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 1: Human Beginnings to Early River Civilizations: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1915-u1921",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1922-u1935",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 1: Human Beginnings to Early River Civilizations: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1937-u1943",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1944-u1971",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 1: Human Beginnings to Early River Civilizations: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1973-u1979",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1980-u1985",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 1: Human Beginnings to Early River Civilizations: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1986",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 2: Ancient Civilizations and the Development of World Religions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u1987-u1992",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u1993-u2008",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 2: Ancient Civilizations and the Development of World Religions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2010-u2015",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2016-u2022",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 2: Ancient Civilizations and the Development of World Religions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2023",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 3: Post-Classical (Medieval and Mesoamerica): heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2024-u2029",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2030-u2048",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 3: Post-Classical (Medieval and Mesoamerica): heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2050-u2055",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2056-u2062",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 3: Post-Classical (Medieval and Mesoamerica): heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2063",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 4: Globalization and Exploration: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2064-u2069",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2070-u2076",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 4: Globalization and Exploration: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2078-u2083",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 World History and Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2084-u2109",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 World History and Geography > Theme 4: Globalization and Exploration: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2111",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2112-u2113",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 1: Geography and Early Civilizations of the Americas: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2114-u2119",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2120-u2144",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 1: Geography and Early Civilizations of the Americas: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2146-u2151",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2152-u2162",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 1: Geography and Early Civilizations of the Americas: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2163-u2164",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 2: Age of Exploration, Exploitation, and Colonialism: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2165-u2170",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2171-u2178",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 2: Age of Exploration, Exploitation, and Colonialism: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2180-u2185",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2186-u2225",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 2: Age of Exploration, Exploitation, and Colonialism: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2227-u2228",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 3: Establishment of European Colonies: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2229-u2234",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2235-u2271",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 3: Establishment of European Colonies: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2273-u2278",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2279-u2290",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 3: Establishment of European Colonies: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2291-u2292",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 4: American Revolution and the New Republic: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2293-u2298",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2299-u2306",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 4: American Revolution and the New Republic: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2308-u2313",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2314-u2333",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 4: American Revolution and the New Republic: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2335-u2340",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2341-u2352",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 4: American Revolution and the New Republic: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2353",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 5: Civic and Political Institutions of the U.S.: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2354-u2359",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2360-u2364",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 5: Civic and Political Institutions of the U.S.: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2366-u2371",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2372-u2381",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 5: Civic and Political Institutions of the U.S.: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2383-u2388",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2389-u2396",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 5: Civic and Political Institutions of the U.S.: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2397-u2398",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 6: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2399-u2404",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2405-u2412",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 6: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2414-u2419",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2420-u2448",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 6: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2450-u2451",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 7: The Civil War and Reform Movements: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2452-u2457",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2458-u2477",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 7: The Civil War and Reform Movements: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2479-u2484",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2485-u2502",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 7: The Civil War and Reform Movements: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2504-u2505",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 8: Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2506-u2511",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2512-u2535",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 8: Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2537-u2542",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 U.S. History and Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2543-u2550",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 U.S. History and Civics > Theme 8: Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2552",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "9-12: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2553-u2627",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "9-12 Inquiry: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2629",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2630-u2635",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2636-u2641",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2643-u2648",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2649-u2653",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2655-u2660",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2661-u2665",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2667-u2672",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2673-u2676",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2678-u2683",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2684-u2689",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2691",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2692-u2697",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2698-u2702",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2704-u2709",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2710-u2714",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2716-u2721",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2722-u2729",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2731-u2736",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2737-u2741",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2743",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2744-u2749",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2750-u2768",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2770-u2775",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Geography: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2776-u2785",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2787-u2800",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2801",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 1: Alaska’s Land and People: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2802-u2807",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2808-u2833",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 1: Alaska’s Land and People: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2835-u2840",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2841-u2863",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 1: Alaska’s Land and People: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2864",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 2: Land Claims Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2865-u2870",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2871-u2886",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 2: Land Claims Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2888-u2893",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2894-u2908",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 2: Land Claims Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2909",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 3: Resource Stewardship Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2910-u2915",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2916-u2936",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 3: Resource Stewardship Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2938-u2943",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2944-u2963",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 3: Resource Stewardship Throughout Time: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2964",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 4: The Myth of the Last Frontier: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2965-u2970",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2971-u2991",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 4: The Myth of the Last Frontier: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u2993-u2998",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u2999-u3021",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 4: The Myth of the Last Frontier: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3022",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 5: Civics and Government: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3023-u3028",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3029-u3044",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 5: Civics and Government: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3046-u3051",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3052-u3076",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 5: Civics and Government: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3077",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 6: Alaska’s Economy: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3078-u3083",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3084-u3088",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 6: Alaska’s Economy: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3090-u3095",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3096-u3140",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 6: Alaska’s Economy: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3142-u3147",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "backup",
+   "section": "Alaska History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3148-u3153",
+   "grades": "9-12",
+   "course": "Alaska History",
+   "cat": "standards",
+   "section": "Alaska History > Theme 6: Alaska’s Economy: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3154",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3155-u3156",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 1: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3157-u3162",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3163-u3184",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 1: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3186-u3191",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3192-u3234",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 1: Manifest Destiny and Indian Removal: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3236-u3237",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 2: The Civil War and Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3238-u3243",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3244-u3282",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 2: The Civil War and Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3284-u3289",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3290-u3331",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 2: The Civil War and Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3333-u3338",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3339-u3343",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 2: The Civil War and Reconstruction: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3344-u3345",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 3: Conflict at Home and Abroad: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3346-u3351",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3352-u3366",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 3: Conflict at Home and Abroad: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3368-u3373",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3374-u3391",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 3: Conflict at Home and Abroad: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3393-u3398",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3399-u3421",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 3: Conflict at Home and Abroad: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3422-u3423",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 4: Emergence as a Global Power: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3424-u3429",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3430-u3438",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 4: Emergence as a Global Power: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3440-u3445",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3446-u3477",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 4: Emergence as a Global Power: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3479-u3484",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3485-u3512",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 4: Emergence as a Global Power: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3514-u3515",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 5: Cold War: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3516-u3521",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3522-u3540",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 5: Cold War: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3541-u3542",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 6: Modern Civil Rights Movements, Power Movements, and the Rise of Modern Politics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3543-u3548",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3549-u3563",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 6: Modern Civil Rights Movements, Power Movements, and the Rise of Modern Politics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3565-u3570",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3571-u3588",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 6: Modern Civil Rights Movements, Power Movements, and the Rise of Modern Politics: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3589-u3590",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 7: United States in the Global Age: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3591-u3596",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3597-u3611",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 7: United States in the Global Age: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3613-u3618",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "U.S. History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3619-u3623",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "U.S. History > Theme 7: United States in the Global Age: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3624",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3625-u3626",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 1: Post-Classical Societies and Trade Networks: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3627-u3632",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3633-u3665",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 1: Post-Classical Societies and Trade Networks: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3667-u3668",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 2: The First Global Age: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3669-u3674",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3675-u3696",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 2: The First Global Age: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3697-u3698",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 3: An Age of Revolutions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3699-u3704",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3705-u3713",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 3: An Age of Revolutions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3715-u3720",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3721-u3758",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 3: An Age of Revolutions: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3760-u3761",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 4: Emergence of Modern Global Conflict: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3762-u3767",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3768-u3784",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 4: Emergence of Modern Global Conflict: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3785-u3786",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 5: Cold War Era: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3787-u3792",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3793-u3805",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 5: Cold War Era: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3807-u3812",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3813-u3831",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 5: Cold War Era: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3832-u3833",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 6: Era of Globalization: heading/topic/anchor/content standards"
+  },
+  {
+   "units": "u3834-u3839",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "World History: repeated table column headers (not content)"
+  },
+  {
+   "units": "u3840-u3854",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History > Theme 6: Era of Globalization: heading/topic/anchor/content standards"
+  }
+ ],
+ "issues": [
+  "Table column-header cells repeated at the top of every content table (Anchor Standard / The student / demonstrates an / understanding of... / Leveled Content Standard / Grade-Band Standard / Content Standard / Topic / Therefore, the student is able to... / 9-12 Content Standard) were labeled backup with the table's grade/band/course (e.g. u434-u440, u1718-u1724, u2630-u2635); they are layout furniture, not content. The 'Grade | Theme' header cells of the grade-theme tables (u384-u385, u968-u969) are also backup.",
+  "Anchor-standard label cells are split across many cells and pages (e.g. 'Civics Anchor' / 'Standard 6' / 'Civic and Political' / 'Institutions and' / 'Systems'); they were labeled standards with the band (K-2, 3-5) or the grade/course of the table, and are interleaved with leveled cells on continuation pages (the grade-band standard in C2 is repeated at the top of a page when its leveled rows continue).",
+  "Leveled cells reading '[standard not addressed at this grade]' (e.g. u473-u474, u482, u485, u539, u551, u569, u1221, u1225, u1242-u1243, u1246-u1247, u1250-u1251, u1643, u1654) were labeled standards with the single grade named in 'By the end of X'; they contain no standard text.",
+  "u1155 ('By the end of 4: SS.3.4.8.1') and u1456 ('By the end of 4: SS.3.4.18.1') carry a grade-3 style code but the cell is explicitly 'By the end of 4'; labeled grade 4 per the explicit header text (probable typo in the source).",
+  "Row/column text order: in many K-5 tables a grade-band standard (C2) appears on the previous page header repetition after a page break, so leveled cells for grades 4 or 5 may appear on the next page under the repeated C2 text (e.g. u1081, u1237). Grade assignment relies only on 'By the end of X'.",
+  "K-2 and 3-5 inquiry standards (u392-u431, u977-u1025) and 6-8 inquiry standards (u1666-u1715) are band-level skills standards; labeled with the full band (K-2, 3-5, 6-8) so they are copied into each grade. 9-12 inquiry (u2552-u2627) labeled course null, grades 9-12.",
+  "Grade-level theme tables (u384-u391 K-2; u968-u975 3-5) were split by row: each row's grade name and theme cell labeled with that single grade (K/1/2, 3/4/5); the lead-in sentences u383 and u967 and band titles u382/u966 are band-level standards.",
+  "Grade 6, 7, 8 are grade-level (course null) even though each has a thematic title (Grade 6 Alaska Studies and Geography; Grade 7 World History and Geography; Grade 8 U.S. History and Civics). Grades 9-12 discipline sections (Civics, Economics, Geography, Alaska History, U.S. History, World History) were treated as courses per the state guide, course = discipline name from the section title ('Grade 9 through 12 Civics Standards' -> 'Civics'); the section headings u2629, u2691, u2743, u2787, u3154, u3624 are labeled with that course.",
+  "u2788-u2800 (Alaska History time periods and timeframes table) labeled standards, course 'Alaska History' (course-level organizing framework, analogous to grade themes); could alternatively be considered examples/backup.",
+  "Page 74 (u1896-u1898) header row is merged into three cells ('The student demonstrates Content Standard', 'Topic an understanding of... Therefore, the student is able to...'); labeled backup. u1899 is the Topic cell ('Local, Tribal, and State Governments'), labeled standards.",
+  "Page 114-125 tables (U.S. History theme 1 and World History theme 1: u3157-u3186, u3627-u3667) are shifted one column right (Topic in C2, anchor in C3, standards in C4); handled by cell text, grades unaffected. u3166 ('Alaska Government') and u3646 ('14') are continuation fragments of anchor labels; labeled standards.",
+  "Source code oddities (not corrected, labels unaffected): SS.8.1.16.1 appears twice in Grade 8 (u2127, u2154); SS.8.8.21.1 twice (u2522, u2530); SS.8.7.4.1 listed under History Anchor 24 (u2472); SS.USH.23.9.1 (u3198) and SS.USH.17.9.1 (u3209) have malformed codes; Grade 8 topic 'Civic Participation' (u2214) is attached to a History Anchor 24 row; Grade 7 topic u1922 reads 'Prehistory (formerly human environment interaction)'; Grade 7 u2084 etc. topic 'Conquest and Conquer' as written.",
+  "State guide notes verified: K-2/3-5 leveled structure, 6/7/8 themed grades, 9-12 discipline sections all match the document. The guide's 'Grade 6 through 8 Inquiry Standards' applies to 6-8 confirmed. Front matter u1-u380 (including sample standards on pp. 19-20 and anchor-standard definition tables on pp. 12-19, whose extraction is fragmented, e.g. u159-u262) is entirely backup."
+ ]
+}

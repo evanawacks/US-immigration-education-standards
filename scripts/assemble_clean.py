@@ -127,8 +127,15 @@ def assemble_state(st, cfg, names):
                 r[cat].append((fname, uid, u["text"]))
                 if fname not in r["files"]: r["files"].append(fname)
                 touched.add(id(r))
-        for r in rows.values():
-            if id(r) in touched: r["issues"].extend(doc_issues)
+        for iss in doc_issues:
+            ids = set()
+            for a, b in re.findall(r"u(\d+)(?:\s*[-–]\s*u?(\d+))?", iss):
+                a = int(a); b = int(b or a)
+                if b - a < 5000: ids.update(range(a, b + 1))
+            for r in rows.values():
+                if id(r) not in touched: continue
+                mine = {uid for f, uid, _ in r["standards"] + r["examples"] + r["backup"] if f == fname}
+                if not ids or ids & mine: r["issues"].append(iss)
         furn = []
         for uid in sorted(units):
             t = units[uid]["text"]

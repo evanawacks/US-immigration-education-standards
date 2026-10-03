@@ -1,0 +1,1819 @@
+{
+ "state": "PA",
+ "file": "economics_standards_appendix_c-1__99ce1c.pdf",
+ "structure": "Single PDF: Academic Standards for Economics (Appendix C-1, Grades K-12). Page 1 title; p.2 overview text and table of four areas (6.1 Fundamentals of Economics, 6.2 Microeconomics, 6.3 Macroeconomics, 6.4 Money & Economic Institutions). pp.3-9: one table per page with columns C1/C2 = substrand name (C2 repeats it; strand heading rows like '1. Fundamentals of Economics' in C2), C4 = Kindergarten to Grade 2, C6 = Grades 3 to 5, C8 = Grades 6 to 8, C10 = Grades 9 to 12 (odd columns are empty spacers). Standard codes are 6.<area>.<band>.<letter>, e.g. 6.1.6-8.A. Long statements wrap into several rows of the same column, with the code in the first row and text in following rows. Cells say 'Intentionally blank' where a substrand has no standard for a band. Bands in this document are K-2, 3-5, 6-8, 9-12 (not the K-3/4-6/7-9/10-12 clusters).",
+ "labels": [
+  {
+   "units": "u1-u3",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u5-u16",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Overview and list of standard categories 6.1-6.4"
+  },
+  {
+   "units": "u18",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u19",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u20",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u21",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u22",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u23",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u24-u26",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u27",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u28",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u29",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u30",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u31",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u32",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u33",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u34",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u35",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u36",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u37",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u38",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u39",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u40",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u41",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u42",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u43",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u44",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u45",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u47",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u48",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u49",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u50",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u51",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u54",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u55",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u56",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u57",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u58",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u59",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u60",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u61",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u62",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u63",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u65",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u66",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u67",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u68",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u69",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u70",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u71",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u72",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u73",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u74",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u75",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u76",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u77",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u78",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u79",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u80",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u81",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u82",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u83",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u84",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u85",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u86",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u87",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u88",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u89",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u90",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u91",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u92",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u93",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u94",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u95",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u96",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u97",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u98",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u99",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u100",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u101",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u102",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u103",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u104",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u105",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u106",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u107",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u108",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u109",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u110",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u111",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u112",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u114",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u115",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u116",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u117",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u118",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u119",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u120",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u121",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u122",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u123",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u124",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u125",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Fundamentals of Economics"
+  },
+  {
+   "units": "u126",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u127",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u128-u134",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u135-u137",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u138",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u139",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u140",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u141-u144",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u145",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u146",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u147",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u148",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u149",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u150",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u151",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u152",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u153",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u154-u156",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u157",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u158",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u159",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u160",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u161",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u163",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u164",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u165",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u166",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u167",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u168-u169",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u170",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u171",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u172",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u173-u177",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u178",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u179",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u180",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u181",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u182",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u183",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u184",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u185",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u186",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u187-u190",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u191",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u192",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u193",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u194",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u195",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u196",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u197",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Microeconomics"
+  },
+  {
+   "units": "u198",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u199",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u200-u203",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u204",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u205",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u206",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u207",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u208",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u210",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u211",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u212",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u213",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u214",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u215-u216",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u217",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u218",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u219",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u220",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u221",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u222",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u223",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u224",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u225-u228",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u229",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u230",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u231",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u232",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u233",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u234",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u235",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u236",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u237",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u238-u242",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u243",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u244",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u245",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u246",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u247",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u249",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u250",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u251",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u252",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u253",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u254-u255",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u256",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u257",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u258",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u259-u262",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u263",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u264",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u265",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u266",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u267",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u268",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u269",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Macroeconomics"
+  },
+  {
+   "units": "u270",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u271",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u272-u276",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u277",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u278",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u279",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u280",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u281",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u282-u283",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u284",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u285",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u286",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u287",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u288",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u289",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u290",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u291",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u292-u295",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u297",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u298",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u299",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u300",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u301",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u302",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u303",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u304",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u305",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u306",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u307",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u308",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u309",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u310",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u311",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u312",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u313",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u314",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u315",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u316",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u317",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u318",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u319",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u320",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u321",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u322",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u323",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u324",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Money and Economic Institutions"
+  },
+  {
+   "units": "u325",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  },
+  {
+   "units": "u326",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics standards table"
+  }
+ ],
+ "issues": [
+  "Grade bands in this document are K-2, 3-5, 6-8 and 9-12, which differ from the state guide's K-3/4-6/7-9/10-12 row clusters; labels use the document's own bands (K-2, 3-5, 6-8, 9-12), so the assembler must map them (3-5 straddles clusters 4-6/K-3; 6-8 straddles 4-6/7-9).",
+  "Cells reading 'Intentionally blank' are labeled backup with the band of their column.",
+  "Wrapped statements: codes (e.g. 6.1.6-8.E, u56) and statement text (u59-u63) appear in separate rows of the same column; labeled by column so they stay in the correct band. Cell contents in C1/C2 (substrand names, strand headings such as '1. Fundamentals of Economics') applied to all bands (grades all).",
+  "u7-u16: the overview table listing 6.1-6.4 areas is labeled backup (index of categories, not itself standards)."
+ ]
+}

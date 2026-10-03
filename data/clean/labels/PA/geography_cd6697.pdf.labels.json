@@ -1,0 +1,616 @@
+{
+ "state": "PA",
+ "file": "geography_cd6697.pdf",
+ "structure": "Single PDF 'Academic Standards for Geography' (Final Form Annex A, July 18 2002; 22 Pa. Code Ch.4 App. C). Front matter pp.1-4 (title, TOC, introduction incl. Five Fundamental Themes table). Four categories: 7.1 Basic Geographic Literacy (A Geographic Tools, B Location of Places and Regions), 7.2 Physical Characteristics of Places and Regions (A, B Physical Processes), 7.3 Human Characteristics (A Population, B Culture, C Settlement, D Economic Activity, E Political Activity), 7.4 Interactions Between People and Places (A Impact of Physical Systems on People, B Impact of People on Physical Systems). Each category: table with header 7.x.3 GRADE 3 / 7.x.6 GRADE 6 / 7.x.9 GRADE 9 / 7.x.12 GRADE 12 (C1-C4), a stem row, lettered statements with bullet (and nested) descriptors in the same cell, a closing note row about local-to-global progression. Tables continue across pages without headers (C1=Gr3, C2=Gr6, C3=Gr9, C4=Gr12). Loose x= fragments are scrambled duplicates of the cell text (x acts as vertical position). Rows: Gr3->K-3, Gr6->4-6, Gr9->7-9, Gr12->10-12. Glossary pp.14-24 (backup).",
+ "labels": [
+  {
+   "units": "u1-u107",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, TOC, introduction, Five Fundamental Themes table (pp.1-4)"
+  },
+  {
+   "units": "u108",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 Basic Geographic Literacy heading"
+  },
+  {
+   "units": "u109",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 header Grade 3"
+  },
+  {
+   "units": "u110",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 header Grade 6"
+  },
+  {
+   "units": "u111",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 header Grade 9"
+  },
+  {
+   "units": "u112",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 header Grade 12"
+  },
+  {
+   "units": "u113",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 stem"
+  },
+  {
+   "units": "u114",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 3"
+  },
+  {
+   "units": "u115",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 6"
+  },
+  {
+   "units": "u116",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 9"
+  },
+  {
+   "units": "u117",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 12"
+  },
+  {
+   "units": "u118-u125",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 3 fragments"
+  },
+  {
+   "units": "u126",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 heading (layout duplicate)"
+  },
+  {
+   "units": "u127-u144",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 A Grade 3 fragments"
+  },
+  {
+   "units": "u145",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 3"
+  },
+  {
+   "units": "u146",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 6"
+  },
+  {
+   "units": "u147",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 9"
+  },
+  {
+   "units": "u148",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 12"
+  },
+  {
+   "units": "u149",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local-to-global progression for Basic Geography Literacy"
+  },
+  {
+   "units": "u150-u179",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 3 fragments"
+  },
+  {
+   "units": "u180",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note end 'Mathematics Standards.'"
+  },
+  {
+   "units": "u181-u188",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1 B Grade 3 fragments"
+  },
+  {
+   "units": "u189",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 Physical Characteristics of Places and Regions heading"
+  },
+  {
+   "units": "u190",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 header Grade 3"
+  },
+  {
+   "units": "u191",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 header Grade 6"
+  },
+  {
+   "units": "u192",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 header Grade 9"
+  },
+  {
+   "units": "u193",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 header Grade 12"
+  },
+  {
+   "units": "u194",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 stem"
+  },
+  {
+   "units": "u195",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 A-B Grade 3"
+  },
+  {
+   "units": "u196",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 A-B Grade 6"
+  },
+  {
+   "units": "u197",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 A-B Grade 9"
+  },
+  {
+   "units": "u198",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 A-B Grade 12"
+  },
+  {
+   "units": "u199",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 heading (layout duplicate)"
+  },
+  {
+   "units": "u200-u227",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u228-u230",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local-to-global progression (layout duplicate)"
+  },
+  {
+   "units": "u231",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 B Grade 6 continuation: climate change, plate tectonics, hydrologic cycle"
+  },
+  {
+   "units": "u232",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local-to-global progression for 7.2"
+  },
+  {
+   "units": "u233-u236",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 B Grade 6 continuation fragments"
+  },
+  {
+   "units": "u237",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note end (layout duplicate)"
+  },
+  {
+   "units": "u238-u245",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 B Grade 6 continuation fragments"
+  },
+  {
+   "units": "u246",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 Human Characteristics of Places and Regions heading"
+  },
+  {
+   "units": "u247",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 header Grade 3"
+  },
+  {
+   "units": "u248",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 header Grade 6"
+  },
+  {
+   "units": "u249",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 header Grade 9"
+  },
+  {
+   "units": "u250",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 header Grade 12"
+  },
+  {
+   "units": "u251",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 stem"
+  },
+  {
+   "units": "u252",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 A-B Grade 3"
+  },
+  {
+   "units": "u253",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 A-B Grade 6"
+  },
+  {
+   "units": "u254",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 A-B Grade 9"
+  },
+  {
+   "units": "u255",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 A-B Grade 12"
+  },
+  {
+   "units": "u256",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 heading (layout duplicate)"
+  },
+  {
+   "units": "u257-u273",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u274",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 B-D Grade 3"
+  },
+  {
+   "units": "u275",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 B-D Grade 6"
+  },
+  {
+   "units": "u276",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 B-D Grade 9"
+  },
+  {
+   "units": "u277",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 B-D Grade 12"
+  },
+  {
+   "units": "u278-u302",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 B-D Grade 3 fragments"
+  },
+  {
+   "units": "u303",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 3"
+  },
+  {
+   "units": "u304",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 6"
+  },
+  {
+   "units": "u305",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 9"
+  },
+  {
+   "units": "u306",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 12"
+  },
+  {
+   "units": "u307-u308",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local-to-global progression for 7.3"
+  },
+  {
+   "units": "u309-u312",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 6 fragments"
+  },
+  {
+   "units": "u313-u332",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 D-E Grade 3 fragments"
+  },
+  {
+   "units": "u333",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Page # marker"
+  },
+  {
+   "units": "u334",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places heading"
+  },
+  {
+   "units": "u335",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 header Grade 3"
+  },
+  {
+   "units": "u336",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 header Grade 6"
+  },
+  {
+   "units": "u337",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 header Grade 9"
+  },
+  {
+   "units": "u338",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 header Grade 12"
+  },
+  {
+   "units": "u339",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 stem"
+  },
+  {
+   "units": "u340",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 A-B Grade 3"
+  },
+  {
+   "units": "u341",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 A-B Grade 6"
+  },
+  {
+   "units": "u342",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 A-B Grade 9"
+  },
+  {
+   "units": "u343",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 A-B Grade 12"
+  },
+  {
+   "units": "u344",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 heading (layout duplicate)"
+  },
+  {
+   "units": "u345-u366",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 A-B Grade 3 fragments"
+  },
+  {
+   "units": "u367-u368",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local-to-global scales; page marker"
+  },
+  {
+   "units": "u369",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 B Grade 6 continuation"
+  },
+  {
+   "units": "u370",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 B Grade 9 continuation"
+  },
+  {
+   "units": "u371",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 B Grade 12 continuation"
+  },
+  {
+   "units": "u372",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note: local to global scales for 7.4"
+  },
+  {
+   "units": "u373-u381",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 B Grade 9 continuation fragments"
+  },
+  {
+   "units": "u382",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Note end (layout duplicate)"
+  },
+  {
+   "units": "u383-u389",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 B Grade 6 continuation fragments"
+  },
+  {
+   "units": "u390-u763",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary"
+  }
+ ],
+ "issues": [
+  "Loose x= fragments duplicate wrapped cell text and are scrambled; most belong to the Grade 3 cell (K-3). Exceptions matched by text: u231 and u233-u245 (7.2 B, Grade 6 continuation 'Climate change, Plate tectonics, Hydrologic cycle', the only filled column on that page is C2), u309-u312 (7.3 Grade 6: 'Fall Line', 'Pennsylvania', 'distribution', 'activities.' - u310-u312 uncertain vs Grade 3), u369/u383-u389 (7.4 Grade 6), u370/u374-u380 (7.4 Grade 9), u371 (Grade 12).",
+  "u145-u148 (7.1 B): extraction merged nested bullets across columns (e.g. 'NAelwto oYnoar,k' in u145, 'depic¾ti ngP tohien t' in u115); text is garbled but the unit is kept in its column's grade.",
+  "u149, u180, u232, u307-u308, u367, u372, u382: closing notes on local-to-global progression labeled backup (general implementation note).",
+  "u333, u368: 'Page #' stray text labeled backup.",
+  "u83-u92 Five Fundamental Themes table in the introduction labeled backup."
+ ]
+}

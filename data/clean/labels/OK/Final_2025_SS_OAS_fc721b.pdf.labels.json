@@ -1,0 +1,3334 @@
+{
+ "state": "OK",
+ "file": "Final_2025_SS_OAS_fc721b.pdf",
+ "structure": "Oklahoma Academic Standards for Social Studies (2025), one PDF of 179 pages, all content in tables (T1/T2). Front matter (cover, TOC, Introduction, Standards Overview, Content Strands Overview, Social Studies Practices Overview) precedes the grade/course sections. Then one section per grade level (Pre-Kindergarten, Kindergarten, Grades 1-8) and one per high-school course (Oklahoma History and Government, Modern World History, United States History, United States Government, Economics, World Geography, Ancient and Medieval World History, History of 20th Century Totalitarianism, Psychology, Sociology), each starting with a title cell ('Grade N Social Studies: <theme>' or the course title), a short overview narrative (what students study), then 'Practice Standards: Grades X-Y' and '<Grade/Course> Content Standards'. PK has only content standards (no practice block) with codes PK.n (strand) and PK.n.m (objective). Grades K-8 and the HS courses have two blocks: Practice Standards (code <grade>.P.n strand, <grade>.P.n.m objective with lettered sub-items A-D; strands P.1 Democratic processes, P.2 disciplinary tools, P.3 critical reading, P.4 writing/research) and Content Standards (<grade>.C.n strand statement 'The student will ...', <grade>.C.n.m objective with lettered sub-items A, B, C...). Course codes: OKH, MWH, USH, USG, E, WG, AWH, TOT, PS, S (+ .P. / .C.); course practice standards (OKH.P etc.) are repeated verbatim in each course with the 9-12 wording. The practice blocks in K/1, 2/3, 4/5 and 6/7/8 repeat the same band wording under each grade's own code (K.P / 1.P etc.), so each copy gets its single grade. Table layout: strand statement in column 1 (C1) and objectives in a later column (C2-C4); header cells ('X Content Standards', grade title) in C1/C2; long rows are split across page breaks so a continuation fragment (no code, starts mid-sentence or with 'B.', 'C.') belongs to the same standard/strand as the preceding unit. No separate example/teacher-note blocks exist; examples (e.g., ...) and lettered sub-items are inside the standard text and are labeled standards. Only the grade/course overview narrative is 'examples'. The final Appendix: Social Studies Practices (PK-12) is a grade-band table (T1/T2): columns K-Grade 1, Grades 2-3, Grades 4-5, Grades 6-8, Grades 9-12; each cell begins 'A. (K-1)', 'B. (2-3)' etc. giving the band, with practice titles I-IV and numbered practice statements spanning all grades; labeled standards with the grade band of each cell and PK-12 for the titles/statements.",
+ "labels": [
+  {
+   "units": "u1-u3",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u4-u46",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and table of contents"
+  },
+  {
+   "units": "u49-u73",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, content strands overview, practices overview"
+  },
+  {
+   "units": "u76",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: title"
+  },
+  {
+   "units": "u77",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-Kindergarten: grade/course overview narrative"
+  },
+  {
+   "units": "u78",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: Content Standards"
+  },
+  {
+   "units": "u79-u83",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: Content Standards > PK.1"
+  },
+  {
+   "units": "u84-u88",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: Content Standards > PK.2"
+  },
+  {
+   "units": "u89-u96",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: Content Standards > PK.3"
+  },
+  {
+   "units": "u97-u102",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten: Content Standards > PK.4"
+  },
+  {
+   "units": "u105",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: title"
+  },
+  {
+   "units": "u106",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: grade/course overview narrative"
+  },
+  {
+   "units": "u107",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Practice Standards"
+  },
+  {
+   "units": "u108-u110",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Practice Standards > K.P.1"
+  },
+  {
+   "units": "u111-u118",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Practice Standards > K.P.2"
+  },
+  {
+   "units": "u119-u121",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Practice Standards > K.P.3"
+  },
+  {
+   "units": "u122-u126",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Practice Standards > K.P.4"
+  },
+  {
+   "units": "u127",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Content Standards"
+  },
+  {
+   "units": "u128-u133",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Content Standards > K.C.1"
+  },
+  {
+   "units": "u134-u141",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Content Standards > K.C.2"
+  },
+  {
+   "units": "u142-u150",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Content Standards > K.C.3"
+  },
+  {
+   "units": "u151-u159",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Content Standards > K.C.4"
+  },
+  {
+   "units": "u162",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: title"
+  },
+  {
+   "units": "u163-u164",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: grade/course overview narrative"
+  },
+  {
+   "units": "u165",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Practice Standards"
+  },
+  {
+   "units": "u166-u168",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Practice Standards > 1.P.1"
+  },
+  {
+   "units": "u169-u176",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Practice Standards > 1.P.2"
+  },
+  {
+   "units": "u177-u179",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Practice Standards > 1.P.3"
+  },
+  {
+   "units": "u180-u184",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Practice Standards > 1.P.4"
+  },
+  {
+   "units": "u185",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Content Standards"
+  },
+  {
+   "units": "u186-u196",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Content Standards > 1.C.1"
+  },
+  {
+   "units": "u197-u205",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Content Standards > 1.C.2"
+  },
+  {
+   "units": "u208-u218",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Content Standards > 1.C.3"
+  },
+  {
+   "units": "u219-u229",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Content Standards > 1.C.4"
+  },
+  {
+   "units": "u232",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: title"
+  },
+  {
+   "units": "u233",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: grade/course overview narrative"
+  },
+  {
+   "units": "u234",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Practice Standards"
+  },
+  {
+   "units": "u235-u237",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Practice Standards > 2.P.1"
+  },
+  {
+   "units": "u238-u244",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Practice Standards > 2.P.2"
+  },
+  {
+   "units": "u245-u250",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Practice Standards > 2.P.3"
+  },
+  {
+   "units": "u251-u253",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Practice Standards > 2.P.4"
+  },
+  {
+   "units": "u254",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Content Standards"
+  },
+  {
+   "units": "u255-u268",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Content Standards > 2.C.1"
+  },
+  {
+   "units": "u269-u279",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Content Standards > 2.C.2"
+  },
+  {
+   "units": "u280-u292",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Content Standards > 2.C.3"
+  },
+  {
+   "units": "u293-u304",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Content Standards > 2.C.4"
+  },
+  {
+   "units": "u307",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: title"
+  },
+  {
+   "units": "u308-u311",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: grade/course overview narrative"
+  },
+  {
+   "units": "u312",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Practice Standards"
+  },
+  {
+   "units": "u313-u315",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Practice Standards > 3.P.1"
+  },
+  {
+   "units": "u316-u322",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Practice Standards > 3.P.2"
+  },
+  {
+   "units": "u323-u328",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Practice Standards > 3.P.3"
+  },
+  {
+   "units": "u329-u331",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Practice Standards > 3.P.4"
+  },
+  {
+   "units": "u332",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Content Standards"
+  },
+  {
+   "units": "u333-u339",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Content Standards > 3.C.1"
+  },
+  {
+   "units": "u340-u347",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Content Standards > 3.C.2"
+  },
+  {
+   "units": "u348-u355",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Content Standards > 3.C.3"
+  },
+  {
+   "units": "u356-u361",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Content Standards > 3.C.4"
+  },
+  {
+   "units": "u364",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: title"
+  },
+  {
+   "units": "u365-u367",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: grade/course overview narrative"
+  },
+  {
+   "units": "u368",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Practice Standards"
+  },
+  {
+   "units": "u369-u371",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Practice Standards > 4.P.1"
+  },
+  {
+   "units": "u372-u380",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Practice Standards > 4.P.2"
+  },
+  {
+   "units": "u381-u385",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Practice Standards > 4.P.3"
+  },
+  {
+   "units": "u386-u388",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Practice Standards > 4.P.4"
+  },
+  {
+   "units": "u389",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Content Standards"
+  },
+  {
+   "units": "u390-u395",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Content Standards > 4.C.1"
+  },
+  {
+   "units": "u396-u407",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Content Standards > 4.C.2"
+  },
+  {
+   "units": "u408-u410",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Content Standards > 4.C.3"
+  },
+  {
+   "units": "u411-u416",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Content Standards > 4.C.4"
+  },
+  {
+   "units": "u419",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: title"
+  },
+  {
+   "units": "u420-u423",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: grade/course overview narrative"
+  },
+  {
+   "units": "u424",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Practice Standards"
+  },
+  {
+   "units": "u425-u427",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Practice Standards > 5.P.1"
+  },
+  {
+   "units": "u428-u436",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Practice Standards > 5.P.2"
+  },
+  {
+   "units": "u437-u441",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Practice Standards > 5.P.3"
+  },
+  {
+   "units": "u442-u444",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Practice Standards > 5.P.4"
+  },
+  {
+   "units": "u445",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards"
+  },
+  {
+   "units": "u446-u458",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.1"
+  },
+  {
+   "units": "u461-u467",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.2"
+  },
+  {
+   "units": "u470-u474",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.3"
+  },
+  {
+   "units": "u475-u483",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.4"
+  },
+  {
+   "units": "u484-u492",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.5"
+  },
+  {
+   "units": "u493-u500",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.6"
+  },
+  {
+   "units": "u501-u506",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Content Standards > 5.C.7"
+  },
+  {
+   "units": "u509",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: title"
+  },
+  {
+   "units": "u510",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: grade/course overview narrative"
+  },
+  {
+   "units": "u511",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Practice Standards"
+  },
+  {
+   "units": "u512-u514",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Practice Standards > 6.P.1"
+  },
+  {
+   "units": "u517-u521",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Practice Standards > 6.P.2"
+  },
+  {
+   "units": "u524-u526",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Practice Standards > 6.P.3"
+  },
+  {
+   "units": "u527-u529",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Practice Standards > 6.P.4"
+  },
+  {
+   "units": "u532",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards"
+  },
+  {
+   "units": "u533-u537",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.1"
+  },
+  {
+   "units": "u538-u544",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.2"
+  },
+  {
+   "units": "u545-u554",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.3"
+  },
+  {
+   "units": "u555-u563",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.4"
+  },
+  {
+   "units": "u564-u566",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.5"
+  },
+  {
+   "units": "u567-u574",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.6"
+  },
+  {
+   "units": "u575-u584",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Content Standards > 6.C.7"
+  },
+  {
+   "units": "u587",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: title"
+  },
+  {
+   "units": "u588-u590",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: grade/course overview narrative"
+  },
+  {
+   "units": "u591",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Practice Standards"
+  },
+  {
+   "units": "u592-u594",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Practice Standards > 7.P.1"
+  },
+  {
+   "units": "u595-u603",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Practice Standards > 7.P.2"
+  },
+  {
+   "units": "u604-u610",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Practice Standards > 7.P.3"
+  },
+  {
+   "units": "u611-u613",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Practice Standards > 7.P.4"
+  },
+  {
+   "units": "u614",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards"
+  },
+  {
+   "units": "u615-u617",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.1"
+  },
+  {
+   "units": "u620-u624",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.2"
+  },
+  {
+   "units": "u625-u631",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.3"
+  },
+  {
+   "units": "u632-u636",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.4"
+  },
+  {
+   "units": "u637-u643",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.5"
+  },
+  {
+   "units": "u644-u651",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.6"
+  },
+  {
+   "units": "u652-u658",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.7"
+  },
+  {
+   "units": "u659-u669",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Content Standards > 7.C.8"
+  },
+  {
+   "units": "u672",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: title"
+  },
+  {
+   "units": "u673-u676",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: grade/course overview narrative"
+  },
+  {
+   "units": "u677",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Practice Standards"
+  },
+  {
+   "units": "u678-u680",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Practice Standards > 8.P.1"
+  },
+  {
+   "units": "u681-u689",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Practice Standards > 8.P.2"
+  },
+  {
+   "units": "u690-u696",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Practice Standards > 8.P.3"
+  },
+  {
+   "units": "u697-u699",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Practice Standards > 8.P.4"
+  },
+  {
+   "units": "u700",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards"
+  },
+  {
+   "units": "u701-u712",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.1"
+  },
+  {
+   "units": "u713-u718",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.2"
+  },
+  {
+   "units": "u719-u725",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.3"
+  },
+  {
+   "units": "u726-u735",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.4"
+  },
+  {
+   "units": "u736-u742",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.5"
+  },
+  {
+   "units": "u743-u746",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.6"
+  },
+  {
+   "units": "u747-u753",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.7"
+  },
+  {
+   "units": "u754-u757",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.8"
+  },
+  {
+   "units": "u758-u763",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.9"
+  },
+  {
+   "units": "u764-u771",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.10"
+  },
+  {
+   "units": "u772-u777",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.11"
+  },
+  {
+   "units": "u778-u785",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.12"
+  },
+  {
+   "units": "u786-u793",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Content Standards > 8.C.13"
+  },
+  {
+   "units": "u796",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: title"
+  },
+  {
+   "units": "u797-u801",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "examples",
+   "section": "Oklahoma History and Government: grade/course overview narrative"
+  },
+  {
+   "units": "u802",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Practice Standards"
+  },
+  {
+   "units": "u803-u805",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Practice Standards > OKH.P.1"
+  },
+  {
+   "units": "u806-u813",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Practice Standards > OKH.P.2"
+  },
+  {
+   "units": "u814-u820",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Practice Standards > OKH.P.3"
+  },
+  {
+   "units": "u821-u823",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Practice Standards > OKH.P.4"
+  },
+  {
+   "units": "u824",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards"
+  },
+  {
+   "units": "u825-u834",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.1"
+  },
+  {
+   "units": "u835-u837",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.2"
+  },
+  {
+   "units": "u838-u847",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.3"
+  },
+  {
+   "units": "u848-u853",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.4"
+  },
+  {
+   "units": "u854-u862",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.5"
+  },
+  {
+   "units": "u863-u871",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.6"
+  },
+  {
+   "units": "u872-u881",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.7"
+  },
+  {
+   "units": "u882-u894",
+   "grades": "9-12",
+   "course": "Oklahoma History and Government",
+   "cat": "standards",
+   "section": "Oklahoma History and Government: Content Standards > OKH.C.8"
+  },
+  {
+   "units": "u897",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: title"
+  },
+  {
+   "units": "u898-u901",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: grade/course overview narrative"
+  },
+  {
+   "units": "u902",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Practice Standards"
+  },
+  {
+   "units": "u903-u905",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Practice Standards > MWH.P.1"
+  },
+  {
+   "units": "u906-u914",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Practice Standards > MWH.P.2"
+  },
+  {
+   "units": "u915-u921",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Practice Standards > MWH.P.3"
+  },
+  {
+   "units": "u922-u924",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Practice Standards > MWH.P.4"
+  },
+  {
+   "units": "u925",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards"
+  },
+  {
+   "units": "u926-u930",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.1"
+  },
+  {
+   "units": "u931-u939",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.2"
+  },
+  {
+   "units": "u940-u946",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.3"
+  },
+  {
+   "units": "u947-u953",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.4"
+  },
+  {
+   "units": "u954-u960",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.5"
+  },
+  {
+   "units": "u961-u972",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.6"
+  },
+  {
+   "units": "u973-u987",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Content Standards > MWH.C.7"
+  },
+  {
+   "units": "u990",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: title"
+  },
+  {
+   "units": "u991-u994",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "United States History: grade/course overview narrative"
+  },
+  {
+   "units": "u995",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Practice Standards"
+  },
+  {
+   "units": "u996-u998",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Practice Standards > USH.P.1"
+  },
+  {
+   "units": "u999-u1007",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Practice Standards > USH.P.2"
+  },
+  {
+   "units": "u1008-u1014",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Practice Standards > USH.P.3"
+  },
+  {
+   "units": "u1015-u1017",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Practice Standards > USH.P.4"
+  },
+  {
+   "units": "u1018",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards"
+  },
+  {
+   "units": "u1019-u1027",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.1"
+  },
+  {
+   "units": "u1030-u1037",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.2"
+  },
+  {
+   "units": "u1038-u1043",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.3"
+  },
+  {
+   "units": "u1044-u1054",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.4"
+  },
+  {
+   "units": "u1055-u1062",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.5"
+  },
+  {
+   "units": "u1065-u1070",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.6"
+  },
+  {
+   "units": "u1071-u1080",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.7"
+  },
+  {
+   "units": "u1081-u1088",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.8"
+  },
+  {
+   "units": "u1089-u1096",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: Content Standards > USH.C.9"
+  },
+  {
+   "units": "u1099",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: title"
+  },
+  {
+   "units": "u1100-u1102",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "United States Government: grade/course overview narrative"
+  },
+  {
+   "units": "u1103",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Practice Standards"
+  },
+  {
+   "units": "u1104-u1106",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Practice Standards > USG.P.1"
+  },
+  {
+   "units": "u1107-u1115",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Practice Standards > USG.P.2"
+  },
+  {
+   "units": "u1116-u1122",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Practice Standards > USG.P.3"
+  },
+  {
+   "units": "u1123-u1125",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Practice Standards > USG.P.4"
+  },
+  {
+   "units": "u1126",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards"
+  },
+  {
+   "units": "u1127-u1135",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.1"
+  },
+  {
+   "units": "u1136-u1141",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.2"
+  },
+  {
+   "units": "u1142-u1153",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.3"
+  },
+  {
+   "units": "u1154-u1161",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.4"
+  },
+  {
+   "units": "u1162-u1171",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.5"
+  },
+  {
+   "units": "u1172-u1184",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.6"
+  },
+  {
+   "units": "u1185-u1190",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.7"
+  },
+  {
+   "units": "u1191-u1194",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "United States Government: Content Standards > USG.C.8"
+  },
+  {
+   "units": "u1197",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: title"
+  },
+  {
+   "units": "u1198-u1200",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics: grade/course overview narrative"
+  },
+  {
+   "units": "u1201",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Practice Standards"
+  },
+  {
+   "units": "u1202-u1204",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Practice Standards > E.P.1"
+  },
+  {
+   "units": "u1205-u1213",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Practice Standards > E.P.2"
+  },
+  {
+   "units": "u1214-u1220",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Practice Standards > E.P.3"
+  },
+  {
+   "units": "u1221-u1224",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Practice Standards > E.P.4"
+  },
+  {
+   "units": "u1225",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards"
+  },
+  {
+   "units": "u1226-u1234",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.1"
+  },
+  {
+   "units": "u1235-u1238",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.2"
+  },
+  {
+   "units": "u1239-u1248",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.3"
+  },
+  {
+   "units": "u1249-u1252",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.4"
+  },
+  {
+   "units": "u1253-u1257",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.5"
+  },
+  {
+   "units": "u1258-u1260",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.6"
+  },
+  {
+   "units": "u1263-u1268",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.7"
+  },
+  {
+   "units": "u1269-u1273",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.8"
+  },
+  {
+   "units": "u1274-u1279",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.9"
+  },
+  {
+   "units": "u1280-u1286",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.10"
+  },
+  {
+   "units": "u1287-u1291",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: Content Standards > E.C.11"
+  },
+  {
+   "units": "u1294",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: title"
+  },
+  {
+   "units": "u1295-u1297",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: grade/course overview narrative"
+  },
+  {
+   "units": "u1298",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Practice Standards"
+  },
+  {
+   "units": "u1299-u1301",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Practice Standards > WG.P.1"
+  },
+  {
+   "units": "u1302-u1310",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Practice Standards > WG.P.2"
+  },
+  {
+   "units": "u1311-u1317",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Practice Standards > WG.P.3"
+  },
+  {
+   "units": "u1318-u1320",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Practice Standards > WG.P.4"
+  },
+  {
+   "units": "u1321",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards"
+  },
+  {
+   "units": "u1322-u1329",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.1"
+  },
+  {
+   "units": "u1330-u1333",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.2"
+  },
+  {
+   "units": "u1334-u1338",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.3"
+  },
+  {
+   "units": "u1339-u1346",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.4"
+  },
+  {
+   "units": "u1347-u1353",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.5"
+  },
+  {
+   "units": "u1354-u1361",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: Content Standards > WG.C.6"
+  },
+  {
+   "units": "u1364",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: title"
+  },
+  {
+   "units": "u1365-u1368",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "examples",
+   "section": "Ancient and Medieval World History: grade/course overview narrative"
+  },
+  {
+   "units": "u1369",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Practice Standards"
+  },
+  {
+   "units": "u1370-u1372",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Practice Standards > AWH.P.1"
+  },
+  {
+   "units": "u1373-u1381",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Practice Standards > AWH.P.2"
+  },
+  {
+   "units": "u1382-u1388",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Practice Standards > AWH.P.3"
+  },
+  {
+   "units": "u1389-u1391",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Practice Standards > AWH.P.4"
+  },
+  {
+   "units": "u1392",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards"
+  },
+  {
+   "units": "u1393-u1401",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.1"
+  },
+  {
+   "units": "u1402-u1407",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.2"
+  },
+  {
+   "units": "u1408-u1415",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.3"
+  },
+  {
+   "units": "u1416-u1420",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.4"
+  },
+  {
+   "units": "u1421-u1429",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.5"
+  },
+  {
+   "units": "u1430-u1438",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.6"
+  },
+  {
+   "units": "u1439-u1453",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.7"
+  },
+  {
+   "units": "u1454-u1464",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.8"
+  },
+  {
+   "units": "u1465-u1470",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.9"
+  },
+  {
+   "units": "u1473-u1478",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.10"
+  },
+  {
+   "units": "u1479-u1486",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.11"
+  },
+  {
+   "units": "u1487-u1493",
+   "grades": "9-12",
+   "course": "Ancient and Medieval World History",
+   "cat": "standards",
+   "section": "Ancient and Medieval World History: Content Standards > AWH.C.12"
+  },
+  {
+   "units": "u1496",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: title"
+  },
+  {
+   "units": "u1497-u1500",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "examples",
+   "section": "History of 20th Century Totalitarianism: grade/course overview narrative"
+  },
+  {
+   "units": "u1501",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Practice Standards"
+  },
+  {
+   "units": "u1502-u1504",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Practice Standards > TOT.P.1"
+  },
+  {
+   "units": "u1505-u1513",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Practice Standards > TOT.P.2"
+  },
+  {
+   "units": "u1514-u1520",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Practice Standards > TOT.P.3"
+  },
+  {
+   "units": "u1521-u1523",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Practice Standards > TOT.P.4"
+  },
+  {
+   "units": "u1524",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards"
+  },
+  {
+   "units": "u1525-u1533",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.1"
+  },
+  {
+   "units": "u1534-u1539",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.2"
+  },
+  {
+   "units": "u1542-u1544",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.3"
+  },
+  {
+   "units": "u1545-u1553",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.4"
+  },
+  {
+   "units": "u1554-u1560",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.5"
+  },
+  {
+   "units": "u1561-u1564",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.6"
+  },
+  {
+   "units": "u1565-u1579",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.7"
+  },
+  {
+   "units": "u1580-u1586",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.8"
+  },
+  {
+   "units": "u1587-u1600",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.9"
+  },
+  {
+   "units": "u1601-u1606",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.10"
+  },
+  {
+   "units": "u1607-u1610",
+   "grades": "9-12",
+   "course": "History of 20th Century Totalitarianism",
+   "cat": "standards",
+   "section": "History of 20th Century Totalitarianism: Content Standards > TOT.C.11"
+  },
+  {
+   "units": "u1613",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology: title"
+  },
+  {
+   "units": "u1614-u1615",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology: grade/course overview narrative"
+  },
+  {
+   "units": "u1616-u1649",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology: Overview"
+  },
+  {
+   "units": "u1652",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology: title"
+  },
+  {
+   "units": "u1653-u1654",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology: grade/course overview narrative"
+  },
+  {
+   "units": "u1655-u1681",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology: Overview"
+  },
+  {
+   "units": "u1684-u1685",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1686",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1687",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1688",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1689",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1690",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1691",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1692",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1693",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1694",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1695",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1696",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1697",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1698",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1699",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1700",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1701",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1702",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1703",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1704",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1705",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1706",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1709",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1710",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1711",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1712",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1713",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1714",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1715",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1716",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1717",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1718",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1719",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1720",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1721",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1722",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1723",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1724",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1725",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1726",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1727",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1728",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1729",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1732-u1736",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1737",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1738",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1739",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1740",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1741",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1742",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1743",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1744",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1745",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1746",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1747",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1748",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1749",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1750",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1751",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1752",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1753",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1754",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1755",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1756",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1757",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1758",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1761",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1762",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1763",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1764",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1765",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1766",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1767",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1768",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1769",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1770",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1771",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1772",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1773",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1774",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1775",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1776-u1777",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1778",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1779",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1780",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1781",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1782",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1785",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1786",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1787",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1788",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1789",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1790",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1791",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1792",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1793",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1794",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1795-u1796",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1797",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1798",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1799",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1800",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1801",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1802",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1803",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1804",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1805",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1806",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1807",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1808",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1809",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1810",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1811",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1814",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1815",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1816",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1817",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1818",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1819",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1820",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1821",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1822",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1823",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1824",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1825",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1826",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1827",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1828",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1829",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1830",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1831",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1832",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1833",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1834",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1835",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1836-u1837",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1840",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1841",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1842",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1843",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1844",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1845",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1846",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1847",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1848",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1849",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1850",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1851",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1852",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1853",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1854",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1855-u1856",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1857",
+   "grades": "K-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1858",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1859",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1860",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1861",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band column header"
+  },
+  {
+   "units": "u1862-u1863",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1864",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1865",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1866",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1867",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1868",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1871",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1872",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1873",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1874",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1875",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1876",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1877",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1878",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1879",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1880",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1881",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > practice title/statement (all grades)"
+  },
+  {
+   "units": "u1882",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1883",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1884",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1885",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1886",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1887",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1888",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1889",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1890",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1891",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1892",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1893",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1894",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1895",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1896",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > grade-band statement"
+  },
+  {
+   "units": "u1899",
+   "grades": "PK-1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1900",
+   "grades": "2-3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1901",
+   "grades": "4-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1902",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  },
+  {
+   "units": "u1903",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix: Social Studies Practices > continuation of grade-band cell"
+  }
+ ],
+ "issues": [
+  "Grade assignment: each grade/course section is a single table; grade comes from the section title cell and code prefix (PK.n, K.C/K.P, 1.C/1.P ... 8.C/8.P, course codes). The state guide's grouping of K as 0 and PK as separate matches the document.",
+  "Practice Standards blocks are repeated per grade under their own code (e.g. K.P and 1.P both under 'Practice Standards: Grades K-1'; 2.P/3.P under 'Grades 2-3'; 4.P/5.P; 6.P/7.P/8.P). Each copy is labeled with the single grade of its section/code, not the band; headers u107, u165, u234, u312, u368, u424, u511, u591, u677 likewise take the section's grade.",
+  "High-school course practice standards (OKH.P, MWH.P, USH.P, USG.P, E.P, WG.P, AWH.P, TOT.P) are course-specific verbatim copies; labeled course=<course>, grades 9-12, cat standards. The Psychology and Sociology sections have no practice block.",
+  "Table rows split across page breaks, so continuation fragments (no code, start mid-sentence or at 'B.'/'C.'/'D.') are labeled with the same grade/course as the preceding standard: u93 (PK.3), u116, u174, u250, u328, u352, u376, u401, u407, u432, u433, u480, u489, u553, u583, u599, u600, u608, u609, u643, u650, u663, u685, u686, u694, u695, u705, u711, u724, u732, u740, u741, u777, u785, u829, u842, u868, u878, u887, u893, u937, u944, u959, u985, u1023, u1042, u1048, u1049, u1059, u1075, u1080, u1087, u1095, u1131-u1132, u1140, u1146, u1152, u1159, u1181, u1190, u1209, u1210, u1231, u1306, u1307, u1315, u1316, u1327, u1377, u1378, u1386, u1387, u1426, u1483, u1509, u1510, u1518, u1519, u1553, u1585, u1593, u1605, u1631, u1570.",
+  "Header/strand statement split across pages (statement text on a later page than its code): u89+u93 (PK.3), u348+u352 (3.C.3), u372+u376 (4.P.2), u428+u432 (5.P.2), u475+u480 (5.C.4), u484+u489 (5.C.5), u595+u599, u604+u608, u681+u685, u690+u694 (7.P/8.P), u659+u663 (7.C.8), u736+u740 (8.C.5), u825+u829 (OKH.C.1), u814+u818, u841 (OKH.C.3 heading printed after OKH.C.3.1 u838, out of order), u1044+u1048 (USH.C.4), u1019+u1023 (USH.C.1), u1601+u1605 (TOT.C.10), u1565+u1570 (TOT.C.7), u1479+u1483 (AWH.C.11), u1626+u1631 (PS.3); all in one grade/course so no grade ambiguity.",
+  "Out-of-order/garbled code or text: u838 OKH.C.3.1 precedes its strand heading u841; u1408 AWH.C.3.1 precedes its strand heading u1411 (AWH.C.3); u1114 'USG.P,2.3' (comma); u1178 'USG.C.6 Explain how freedom...' should be USG.C.6.6; u1256 'E.C5.3'; u1257 'EC.5.4'; u1282 'E.1C.0.2' (E.C.10.2); u1407 'AWH. C.2.5'; u1420 'AWH C.5.'; u1493 'AWH.1C.2.6' (AWH.C.12.6); u1542/u1543 'TOT.3', 'TOT.3.1' and u1545-u1550 'TOT.4.x' (should be TOT.C.3/TOT.C.4); u446 '5.C.1The student'; u402 4.C.2.3 begins 'The student will analyze...' (strand-style wording inside a standard); u1526 'TOT.C.1.1.' trailing period.",
+  "Extraction garbling / truncated words (text left as extracted): u1016, u1124, u1319 ('social studies conAte. nCto. mpose' merged letters of 'content. A. Compose'); u1182 ('Minersville School District v. GKeonbniteisd, y v. Bremerton' = Gobitis / Kennedy merged); u498 ('United Stat'), u720 ('in 178' year truncated), u888 ('governmen'), u933 ('learnin'), u1026 ('economic grow'), u1161 ('Constitutio'), u1259 ('lende'), u1560 ('ris'); u982/u985 sentence split across pages; u1223/u1224 split sentence ('reasoning to' / 'enhance understanding...').",
+  "u1099-u1102: the United States Government section's title cell reads 'United States Government Content Standards' (u1099) and the same heading is repeated at u1126; the overview narrative (u1100-u1102) is labeled examples; u1099 labeled standards as the course title. Similarly Economics u1197 and Psychology u1613, Sociology u1652, World Geography u1294 are 'X Content Standards' / course titles.",
+  "Course name: the TOC lists 'Ancient and Medieval History' while the body heading (u1364, u1392) reads 'Ancient and Medieval World History'; the body heading was used as the course string for u1364-u1493. The state guide hint lists 'Ancient and Medieval History' - the assembler may need to map these.",
+  "Appendix: Social Studies Practices (u1684-u1903) duplicates the practice standards already in each grade/course section as a grade-band table. Labeled standards with each cell's band grade (K-1, 2-3, 4-5, 6-8, 9-12; PK-1 where the cell is marked '(PK-1)') and PK-12 for the practice titles/numbered statements (u1685, u1691, u1709, u1732-u1736, u1742, u1758, u1776-u1777, u1795-u1796, u1819, u1825, u1836-u1837, u1855-u1856, u1862-u1863, u1881). This may duplicate the in-grade copies; downstream may wish to treat as repeats.",
+  "Appendix cell label typos resolved by column position: u1728 labeled 'C. (6-8)' (should be D.); u1828 '(3-4)' placed in the Grades 4-5 column, assigned 4-5; u1877 '(2-3.3)' assigned 2-3; u1891 'A. (9-12)' (should be B.). Column headers 'K-Grade 1' (u1686, u1737, u1820, u1857) sit above cells marked '(K-1)' in Section I-II but '(PK-1)' in Sections III-IV (items u1807, u1826, u1831, u1840, u1845, u1850, u1864, u1876, u1882, u1887, u1892 and their continuation fragments u1814, u1871, u1899); the headers are labeled K-1 and the PK-1 cells PK-1.",
+  "Appendix cells split across pages as unlabeled fragments mapped by table column order: u1807-u1811 continue as u1814-u1818 (economics 4.C: PK-1, 2-3, 4-5, 6-8, 9-12); u1864-u1868 continue as u1871-u1875; u1892-u1896 continue as u1899-u1903.",
+  "Front matter u49-u73 (Introduction, Standards Overview, Content Strands Overview, Social Studies Practices Overview) labeled backup, grades all, since it describes the framework and is not itself a standard. TOC u35 contains a stray page number ('... 154').",
+  "u1684-u1903 (Social Studies Practices appendix) duplicates the practice standards already in each grade/course section; moved to backup by reviewer to avoid duplicate body text"
+ ]
+}

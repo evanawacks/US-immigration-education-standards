@@ -1,0 +1,3338 @@
+{
+ "state": "PA",
+ "file": "personal_finance_standards_d1e49c.pdf",
+ "structure": "Single PDF: Academic Standards for Personal Finance (Appendix F, Grades K-12). Page 1 title; p.2 overview text and table of six areas (17.1 Personal Finance Fundamentals, 17.2 Income, 17.3 Spending, 17.4 Saving & Investing, 17.5 Risk & Insurance, 17.6 Credit). pp.3-14: one table per page with columns C1/C2 = substrand name (C2 repeats it; strand heading rows like '1. Personal Finance Fundamentals' in C2), C4 = Kindergarten to Grade 2, C6 = Grades 3 to 5, C8 = Grades 6 to 8, C10 = Grades 9 to 12 (odd columns are empty spacers). Standard codes are 17.<area>.<band>.<letter>, e.g. 17.1.6-8.A. Long statements wrap into several rows of the same column, with the code in the first row and text in following rows. Cells say 'Intentionally blank' where a substrand has no standard for a band. Bands in this document are K-2, 3-5, 6-8, 9-12 (not the K-3/4-6/7-9/10-12 clusters).",
+ "labels": [
+  {
+   "units": "u1-u4",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u6-u18",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Overview and list of standard categories 17.1-17.6"
+  },
+  {
+   "units": "u20",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u21",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u22",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u23",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u24",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u25",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u26-u28",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u29",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u30",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u31",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u33",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u34",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u35",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u36-u38",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u39",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u40",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u41",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u42-u44",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u45",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u46",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u47",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u48",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u49",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u50",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u51",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u52",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u53",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u54",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u55",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u56",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u58",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u59",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u60",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u61",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u62",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u63-u64",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u65",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u66",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u67",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u68-u74",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u75",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u76",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u77",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u78-u83",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u84",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u85",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u86",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u87-u91",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u92",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u93",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u94",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u95",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u96",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u97",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u98",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u99",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u100",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u102",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u103",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u104",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u105",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u106",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u107-u108",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u109",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u110",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u111",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u112",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u113",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u114-u117",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u118",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u119",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u120",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 1. Personal Finance Fundamentals"
+  },
+  {
+   "units": "u121-u125",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u128",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u129",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u130",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u131",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u132",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u133",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u134",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u135",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u136",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u137",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u138",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u139",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u140",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u142",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u143",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u144",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u145",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u146",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u147",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u148",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u149",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u150",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u151",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u152",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u153",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u154",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u155",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u156",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u157",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u158",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u159",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u160",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u161",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u162",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u163",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u164",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u165",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u166",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u167",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u168",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u169",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u170",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u171",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u172",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u173",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u174",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u175",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u176",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u177",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u178-u184",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u185",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u186",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u187",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u188",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u189",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u190",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u191",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u192",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u193",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u194",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u195",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u196",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u197",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u198",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u199",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u200",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u201",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u202",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u203",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u204",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 2. Income"
+  },
+  {
+   "units": "u205-u207",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u209",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u210",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u211",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u212",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u213",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u214-u215",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u216",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u217",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u218",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u219",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u220",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u221",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u222",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u223",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u224",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u225",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u226",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u227",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u228",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u229",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u230",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u231",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u232",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u233",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u234",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u235",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u236",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u237",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u238",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u239",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u240",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u241",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u242",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u243",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u244",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u245",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u246",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u247",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u248",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u249",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u250",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u251",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u252-u256",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u258",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u259",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u260",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u261",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u262",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u263",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u264",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u265",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u266",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u267",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u268",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u269",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u270",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u271",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u272",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u273",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u274",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u275",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u276",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u277",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u278",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u279",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u280",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u281",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u282",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u283",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u284",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u286",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u287",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u288",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u289",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u290",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u291",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u292",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u293",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u294-u299",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u300",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u301",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 3. Spending"
+  },
+  {
+   "units": "u302",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u303",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u304",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u305",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u306",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u307",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u308",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u309",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u310",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u311",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u312",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u313",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u314",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u315",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u316",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u317",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u318",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u319",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u320",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u321",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u322",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u323",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u324-u325",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u326",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u327",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u328",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u329",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u330",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u331",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u332",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u333",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u334",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u335",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u336",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u337",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u338",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u339",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u340",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u341",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u342",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u343",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u344",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u345",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u346",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u347",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u348",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u349",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u350",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u351",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u352",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u353",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u354",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u355",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u356",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u357",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u358",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u359",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u360",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u361",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u362",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u363",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u364",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u365",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u366",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u367",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u368",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u369",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u370",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u371",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u373",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u374",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u375",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u376",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u377",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u378",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u379",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u380",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u381",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u382",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u383",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u384",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u385",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u386",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u387",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u388",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u389",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u390",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u391",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u392",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u393",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u394",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u395",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u396",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u397",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u398",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u400",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u401",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u402",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u403",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u404",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u405",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u406",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u407",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u408",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u409",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u410",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u411",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u412",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u413",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u414",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u415",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u416",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 4. Saving and Investing"
+  },
+  {
+   "units": "u417",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u420",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u421",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u422",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u423",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u424",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u425",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u426",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u427",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u429",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u430",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u431",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u432",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u433",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u434-u435",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u436",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u437",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u438",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u439",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u440",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u441",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u442",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u443",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u444",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u445-u449",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u450",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u451",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u452",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u453",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u454",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u455",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u456",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u457",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u458",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u459",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u460-u461",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u462",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u463",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u464",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u465",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u466",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u467",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u468",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u469",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u470",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u471-u472",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u473",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u474",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u475",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u476",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u477",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u478",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u479",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u480",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u481",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u482",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u483",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u484",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u485",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u486",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u487",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u488-u493",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u495",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u496",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u497",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u498",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u499",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u500",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u501",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u502",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u503",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u504",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u505",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u506",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u507",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 5. Risk and Insurance"
+  },
+  {
+   "units": "u508",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u509-u511",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u512",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u513",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u514",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u515",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u516",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u517",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u518",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u519",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u520",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u521",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u522",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u523",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u524",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u525",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u527",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u528",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u529",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u530",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u531",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u532",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u533",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u534",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u535",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u536",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u537",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u538",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u539",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u540",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u541",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u542",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u543",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u544",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u545",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u546",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u547",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u548",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u549",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u550-u551",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u552",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u553",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u554",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u555",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u556",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u557",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u558",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u559",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u560",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u561",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u562",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u563",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u564",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u565",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u566",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u567",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Intentionally blank cell, 6. Credit"
+  },
+  {
+   "units": "u568",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  },
+  {
+   "units": "u569",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance standards table"
+  }
+ ],
+ "issues": [
+  "Grade bands in this document are K-2, 3-5, 6-8 and 9-12, which differ from the state guide's K-3/4-6/7-9/10-12 row clusters; labels use the document's own bands (K-2, 3-5, 6-8, 9-12), so the assembler must map them (3-5 straddles clusters 4-6/K-3; 6-8 straddles 4-6/7-9).",
+  "Cells reading 'Intentionally blank' are labeled backup with the band of their column.",
+  "Wrapped statements: codes (e.g. 17.1.9-12.F at u68, text u69-u74) appear in separate rows of the same column; labeled by column so they stay in the correct band. Cell contents in C1/C2 (substrand names, strand headings such as '1. Personal Finance Fundamentals') applied to all bands (grades all).",
+  "u8-u18: the overview table listing 17.1-17.6 areas is labeled backup (index of categories, not itself standards)."
+ ]
+}

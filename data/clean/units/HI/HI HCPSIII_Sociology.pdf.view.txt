@@ -1,0 +1,287 @@
+=== page 1 ===
+u1 Content Area: Social Studies Grade/Course: Sociology / ACCN: CSD2300
+u2 [T1 R1 C1] Strand
+u3 [T1 R2 C1] Standard 1: Understand the development of sociology as a social science
+u4 [T2 R1 C1] Topic
+u5 [T2 R1 C2] Origins of Sociology
+u6 [T2 R2 C1] Benchmark
+u7 [T2 R2 C2] Describe the ideas of key theorists who originated the field of sociology
+u8 [T2 R3 C1] SS.SOC.1.1
+u9 [T2 R3 C2] (e.g., Auguste Comte, Max Weber, Emile Durkheim)
+u10 [T2 R4 C1] Sample Performance
+u11 [T2 R4 C2] The student: Explains, using a graphic organizer, the ideas of a founding sociological theorist, such as Max Weber.
+u12 [T2 R5 C1] Assessment (SPA)
+u13 [T2 R6 C1] Rubric
+u14 [T2 R7 C1] Advanced
+u15 [T2 R7 C2] Proficient
+u16 [T2 R7 C3] Partially Proficient
+u17 [T2 R7 C4] Novice
+u18 [T2 R8 C1] Describe, with clear and precise detail, the ideas of key theorists who originated the field of sociology
+u19 [T2 R8 C2] Describe, with detail, the ideas of key theorists who originated the field of sociology
+u20 [T2 R8 C3] Describe, with minimal detail, the ideas of key theorists who originated the field of sociology
+u21 [T2 R8 C4] Ineffectively describe the ideas of key theorists who originated the field of sociology
+u22 [T3 R1 C1] Topic
+u23 [T3 R1 C2] Current Sociological Perspectives
+u24 [T3 R2 C1] Benchmark
+u25 [T3 R2 C2] Compare current sociological theories (e.g., functionalism, conflict theory,
+u26 [T3 R3 C1] SS.SOC.1.2
+u27 [T3 R3 C2] symbolic interaction)
+u28 [T3 R4 C1] Sample Performance
+u29 [T3 R4 C2] The student: Compares current sociological theories by using a Venn Diagram.
+u30 [T3 R5 C1] Assessment (SPA)
+u31 [T3 R6 C1] Rubric
+u32 [T3 R7 C1] Advanced
+u33 [T3 R7 C2] Proficient
+u34 [T3 R7 C3] Partially Proficient
+u35 [T3 R7 C4] Novice
+u36 [T3 R8 C1] Compare current sociological theories, drawing relevant conclusions supported by clear and precise detail
+u37 [T3 R8 C2] Compare current sociological theories, drawing relevant conclusions
+u38 [T3 R8 C3] Compare current sociological theories, drawing partially relevant conclusions
+u39 [T3 R8 C4] Ineffectively compare current sociological theories
+u40 [T4 R1 C1] Topic
+u41 [T4 R1 C2] Current Sociological Perspectives
+u42 [T4 R2 C2] Explain various sociological research methods (e.g., survey,
+u43 [T4 R3 C1] Benchmark
+u44 [T4 R4 C2] questionnaire, secondary analysis) and the appropriate application of each
+u45 [T4 R5 C1] SS.SOC.1.3
+u46 [T4 R6 C2] method
+u47 [T4 R8 C1] Sample Performance
+u48 [T4 R8 C2] The student: Describes, in a written report, various sociological research methods by giving examples of their appropriate use.
+u49 [T4 R9 C1] Assessment (SPA)
+u50 [T4 R10 C1] Rubric
+u51 [T4 R11 C1] Advanced
+u52 [T4 R11 C2] Proficient
+u53 [T4 R11 C3] Partially Proficient
+u54 [T4 R11 C4] Novice
+u55 [T4 R12 C1] Explain, with clear and precise detail, various sociological research methods and the appropriate application of each method
+u56 [T4 R12 C2] Explain, with detail, various sociological research methods and the appropriate application of each method
+u57 [T4 R12 C3] Explain, with minimal detail, various sociological research methods and the appropriate application of each method
+u58 [T4 R12 C4] Ineffectively explain various sociological research methods and the appropriate application of each method
+u59 [T4 R13 C1] Strand
+=== page 2 ===
+u60 Standard 2: Develop an understanding of culture as it affects individuals and groups
+u61 [T1 R1 C1] Topic
+u62 [T1 R1 C2] Traits of Culture
+u63 [T1 R2 C1] Benchmark
+u64 [T1 R2 C2] Describe aspects of culture (e.g., artifacts, language, values, mores) that
+u65 [T1 R3 C1] SS.SOC.2.1
+u66 [T1 R3 C2] result in recognizable differences between societies
+u67 [T1 R4 C1] Sample Performance
+u68 [T1 R4 C2] The student: Provides examples of the differences in values between societies.
+u69 [T1 R5 C1] Assessment (SPA)
+u70 [T1 R6 C1] Rubric
+u71 [T1 R7 C1] Advanced
+u72 [T1 R7 C2] Proficient
+u73 [T1 R7 C3] Partially Proficient
+u74 [T1 R7 C4] Novice
+u75 [T1 R8 C1] Compare aspects of culture that result in recognizable differences between societies
+u76 [T1 R8 C2] Describe aspects of culture that result in recognizable differences between societies
+u77 [T1 R8 C3] Provide examples of aspects of culture that result in recognizable differences between societies
+u78 [T1 R8 C4] Recognize aspects of culture that result in recognizable differences between societies
+u79 [T2 R1 C1] Topic
+u80 [T2 R1 C2] Cultural Identity
+u81 [T2 R2 C1] Benchmark
+u82 [T2 R2 C2] Describe how cultural diversity occurs and the impact on a host culture
+u83 [T2 R3 C1] SS.SOC.2.2
+u84 [T2 R3 C2] (e.g., subcultures, categorization, ethnocentrism)
+u85 [T2 R4 C1] Sample Performance
+u86 [T2 R4 C2] The student: Explains the relationship between a subculture and the host culture.
+u87 [T2 R5 C1] Assessment (SPA)
+u88 [T2 R6 C1] Rubric
+u89 [T2 R7 C1] Advanced
+u90 [T2 R7 C2] Proficient
+u91 [T2 R7 C3] Partially Proficient
+u92 [T2 R7 C4] Novice
+u93 [T2 R8 C1] Describe, with clear and precise detail, how cultural diversity occurs and the impact on a host culture
+u94 [T2 R8 C2] Describe, with detail, how cultural diversity occurs and the impact on a host culture
+u95 [T2 R8 C3] Describe, with minimal detail, cultural diversity and the impact on a host culture
+u96 [T2 R8 C4] Ineffectively describe how cultural diversity occurs and the impact on a host culture
+u97 [T3 R1 C1] Topic
+u98 [T3 R1 C2] Cultural Identity
+u99 [T3 R2 C1] Benchmark
+u100 [T3 R2 C2] Explain the different ways culture is transmitted among groups, individuals
+u101 [T3 R3 C1] SS.SOC.2.3
+u102 [T3 R3 C2] and societies (e.g., education, media, socialization, globalization)
+u103 [T3 R4 C1] Sample Performance
+u104 [T3 R4 C2] The student: Describes the globalization of a chosen aspect of culture (e.g., music, art, food) through a map or timeline.
+u105 [T3 R5 C1] Assessment (SPA)
+u106 [T3 R6 C1] Rubric
+u107 [T3 R7 C1] Advanced
+u108 [T3 R7 C2] Proficient
+u109 [T3 R7 C3] Partially Proficient
+u110 [T3 R7 C4] Novice
+u111 [T3 R8 C1] Explain, with clear and precise detail, the different ways culture is transmitted among groups, individuals, and societies
+u112 [T3 R8 C2] Explain, with detail, the different ways culture is transmitted among groups, individuals, and societies
+u113 [T3 R8 C3] Explain, with minimal detail, the different ways culture is transmitted among groups, individuals, and societies
+u114 [T3 R8 C4] Ineffectively explain the different ways culture is transmitted among groups, individuals, and societies
+u115 [T3 R9 C1] Strand
+u116 [T3 R10 C1] Standard 3: Understand the types, characteristics and dynamics of social groups and social
+u117 [T3 R11 C1] institutions
+u118 [T4 R1 C1] Topic
+u119 [T4 R1 C2] Roles of Groups
+=== page 3 ===
+u120 [T1 R1 C1] Benchmark
+u121 [T1 R1 C2] Describe the behavior of social groups (e.g., family, peers, co-workers,
+u122 [T1 R2 C1] SS.SOC.3.1
+u123 [T1 R2 C2] teams) and their function in society
+u124 [T1 R3 C1] Sample Performance
+u125 [T1 R3 C2] The student: Explains the behavior and function of social groups to which he or she belongs by listing characteristics of each group in a graphic organizer.
+u126 [T1 R4 C1] Assessment (SPA)
+u127 [T1 R6 C1] Rubric
+u128 [T1 R7 C1] Advanced
+u129 [T1 R7 C2] Proficient
+u130 [T1 R7 C3] Partially Proficient
+u131 [T1 R7 C4] Novice
+u132 [T1 R8 C1] Describe, with clear and precise detail, the behavior of social groups and their function in society
+u133 [T1 R8 C2] Describe, with detail, the behavior of social groups and their function in society
+u134 [T1 R8 C3] Describe, with minimal detail, the behavior of social groups and their function in society
+u135 [T1 R8 C4] Ineffectively describe the behavior of social groups and their function in society
+u136 [T2 R1 C1] Topic
+u137 [T2 R1 C2] Roles of Institutions
+u138 [T2 R2 C1] Benchmark
+u139 [T2 R2 C2] Describe institutions and their functions (e.g., schools, corporations,
+u140 [T2 R3 C1] SS.SOC.3.2
+u141 [T2 R3 C2] agencies, hospitals, the military) in society
+u142 [T2 R4 C1] Sample Performance
+u143 [T2 R4 C2] The student: Gives examples of how the military functions in Hawaii.
+u144 [T2 R5 C1] Assessment (SPA)
+u145 [T2 R6 C1] Rubric
+u146 [T2 R7 C1] Advanced
+u147 [T2 R7 C2] Proficient
+u148 [T2 R7 C3] Partially Proficient
+u149 [T2 R7 C4] Novice
+u150 [T2 R8 C1] Describe, with clear and precise detail, institutions and their functions in society
+u151 [T2 R8 C2] Describe, with detail, institutions and their functions in society
+u152 [T2 R8 C3] Describe, with minimal detail, institutions and their functions in society
+u153 [T2 R8 C4] Ineffectively describe institutions and their functions in society
+u154 [T3 R1 C1] Topic
+u155 [T3 R1 C2] Impact of Groups and Institutions
+u156 [T3 R2 C1] Benchmark
+u157 [T3 R2 C2] Evaluate the expectations and effects that social groups and institutions
+u158 [T3 R3 C1] SS.SOC.3.3
+u159 [T3 R3 C2] have on individuals
+u160 [T3 R4 C1] Sample Performance
+u161 [T3 R4 C2] The student: Compares individuals  experiences of various social groups and institutions.
+u162 [T3 R5 C1] Assessment (SPA)
+u163 [T3 R6 C1] Rubric
+u164 [T3 R7 C1] Advanced
+u165 [T3 R7 C2] Proficient
+u166 [T3 R7 C3] Partially Proficient
+u167 [T3 R7 C4] Novice
+u168 [T3 R8 C1] Evaluate, with thorough documentation, the expectations and effects that social groups and institutions have on individuals
+u169 [T3 R8 C2] Evaluate, with documentation, the expectations and effects that social groups and institutions have on individuals
+u170 [T3 R8 C3] Evaluate, with partial documentation, the expectations and effects that social groups and institutions have on individuals
+u171 [T3 R8 C4] Evaluate, with very little documentation, the expectations and effects that social groups and institutions have on individuals
+u172 [T3 R9 C1] Strand
+u173 [T3 R10 C1] Standard 4: Recognize social problems and underlying causes
+u174 [T4 R1 C1] Topic
+u175 [T4 R1 C2] Norms and Problems
+u176 [T4 R2 C1] Benchmark
+u177 [T4 R3 C2] Describe the effects of social stratification and social mobility on society
+u178 [T4 R4 C1] SS.SOC.4.1
+u179 [T4 R6 C1] Sample Performance
+u180 [T4 R6 C2] The student: Explains how obstacles (e.g., lack of skills, lack of education) and opportunities (e.g., outreach programs, funding for education) can affect social mobility.
+u181 [T4 R7 C1] Assessment (SPA)
+=== page 4 ===
+u182 [T1 R1 C1] Rubric
+u183 [T1 R2 C1] Advanced
+u184 [T1 R2 C2] Proficient
+u185 [T1 R2 C3] Partially Proficient
+u186 [T1 R2 C4] Novice
+u187 [T1 R3 C1] Describe the effects of social stratification and social mobility on society, using relevant examples supported by clear and precise detail
+u188 [T1 R3 C2] Describe the effects of social stratification and social mobility on society, using relevant examples,
+u189 [T1 R3 C3] Describe the effects of social stratification and social mobility on society, using partially relevant examples
+u190 [T1 R3 C4] Describe, using irrelevant or no examples, the effects of social stratification and social mobility on society
+u191 [T2 R1 C1] Topic
+u192 [T2 R1 C2] Norms and Problems
+u193 [T2 R2 C1] Benchmark
+u194 [T2 R2 C2] Explain the concepts of deviance, conformity, norms, and crime and
+u195 [T2 R3 C1] SS.SOC.4.2
+u196 [T2 R3 C2] provide examples of each
+u197 [T2 R4 C1] Sample Performance
+u198 [T2 R4 C2] The student: Describes the role of conformity and norms in society (e.g., the interactions between the beats or the hippies and the general society).
+u199 [T2 R5 C1] Assessment (SPA)
+u200 [T2 R6 C1] Rubric
+u201 [T2 R7 C1] Advanced
+u202 [T2 R7 C2] Proficient
+u203 [T2 R7 C3] Partially Proficient
+u204 [T2 R7 C4] Novice
+u205 [T2 R8 C1] Explain, with clear and precise detail, the concepts of deviance, conformity, norms, and crime and provide examples of each
+u206 [T2 R8 C2] Explain, with detail, the concepts of deviance, conformity, norms, and crime, and provide examples of each
+u207 [T2 R8 C3] Explain, with minimal detail, the concepts of deviance, conformity, norms, and crime and provide examples of each
+u208 [T2 R8 C4] Ineffectively explain the concepts of deviance, conformity, norms, and crime and provide examples of each
+u209 [T3 R1 C1] Topic
+u210 [T3 R1 C2] Control
+u211 [T3 R2 C1] Benchmark
+u212 [T3 R2 C2] Evaluate the effectiveness of various types of control over deviant and
+u213 [T3 R3 C1] SS.SOC.4.3
+u214 [T3 R3 C2] criminal behavior (e.g., deterrence, incarceration, sanction)
+u215 [T3 R4 C1] Sample Performance
+u216 [T3 R4 C2] The student: Classifies the legal definitions of various types of deviant and criminal behavior and evaluates how each type of behavior is controlled.
+u217 [T3 R5 C1] Assessment (SPA)
+u218 [T3 R6 C1] Rubric
+u219 [T3 R7 C1] Advanced
+u220 [T3 R7 C2] Proficient
+u221 [T3 R7 C3] Partially Proficient
+u222 [T3 R7 C4] Novice
+u223 [T3 R8 C1] Evaluate the effectiveness of various types of control over deviant and criminal behavior, drawing relevant conclusions supported by clear and precise detail
+u224 [T3 R8 C2] Evaluate the effectiveness of various types of control over deviant and criminal behavior, drawing relevant conclusions
+u225 [T3 R8 C3] Evaluate the effectiveness of various types of control over deviant and criminal behavior, drawing partially relevant conclusions
+u226 [T3 R8 C4] Ineffectively evaluate the effectiveness of various types of control over deviant and criminal behavior
+u227 [T3 R9 C1] Strand
+u228 [T3 R10 C1] Standard 5: Examine social change for causal factors and results
+u229 [T4 R1 C1] Topic
+u230 [T4 R1 C2] Demographic Change
+u231 [T4 R2 C1] Benchmark
+u232 [T4 R2 C2] Describe aspects of demography which lead to social change (e.g., birth
+u233 [T4 R3 C1] SS.SOC.5.1
+u234 [T4 R3 C2] rates, life expectancy, urbanization, population shifts)
+u235 [T4 R4 C1] Sample Performance
+u236 [T4 R4 C2] The student: Explains population trends in developing and developed nations (e.g., India, Japan, Kenya) and the challenges they pose to those societies.
+u237 [T4 R5 C1] Assessment (SPA)
+=== page 5 ===
+u238 [T1 R1 C1] Rubric
+u239 [T1 R2 C1] Advanced
+u240 [T1 R2 C2] Proficient
+u241 [T1 R2 C3] Partially Proficient
+u242 [T1 R2 C4] Novice
+u243 [T1 R3 C1] Describe, with clear and precise detail, aspects of demography which lead to social change
+u244 [T1 R3 C2] Describe, with detail, aspects of demography which lead to social change
+u245 [T1 R3 C3] Describe, with minimal detail, aspects of demography which lead to social change
+u246 [T1 R3 C4] Ineffectively describe aspects of demography which lead to social change
+u247 [T2 R1 C1] Topic
+u248 [T2 R1 C2] Motivated Change
+u249 [T2 R2 C1] Benchmark
+u250 [T2 R2 C2] Describe contemporary social movements (e.g. gay rights, green
+u251 [T2 R3 C1] SS.SOC.5.2
+u252 [T2 R3 C2] movement) and explain how they contribute to social change
+u253 [T2 R4 C1] Sample Performance
+u254 [T2 R4 C2] The student: Explains the changing attitudes in a society that resulted from a social movement.
+u255 [T2 R5 C1] Assessment (SPA)
+u256 [T2 R6 C1] Rubric
+u257 [T2 R7 C1] Advanced
+u258 [T2 R7 C2] Proficient
+u259 [T2 R7 C3] Partially Proficient
+u260 [T2 R7 C4] Novice
+u261 [T2 R8 C1] Describe, with clear and precise detail, contemporary social movements and explain how they contribute to social change
+u262 [T2 R8 C2] Describe, with detail, contemporary social movements and explain how they contribute to social change
+u263 [T2 R8 C3] Describe, with minimal detail, contemporary social movements and explain how they contribute to social change
+u264 [T2 R8 C4] Ineffectively describe contemporary social movements and explain how they contribute to social change
+u265 [T3 R1 C1] Topic
+u266 [T3 R1 C2] Motivated Change
+u267 [T3 R2 C1] Benchmark
+u268 [T3 R2 C2] Explain the impact of organizations (e.g., nonprofit, nongovernmental,
+u269 [T3 R3 C1] SS.SOC.5.3
+u270 [T3 R3 C2] local community) on social change
+u271 [T3 R4 C1] Sample Performance
+u272 [T3 R4 C2] The student: Describes how the Institute for Human Services affects social change in Hawaii.
+u273 [T3 R5 C1] Assessment (SPA)
+u274 [T3 R6 C1] Rubric
+u275 [T3 R7 C1] Advanced
+u276 [T3 R7 C2] Proficient
+u277 [T3 R7 C3] Partially Proficient
+u278 [T3 R7 C4] Novice
+u279 [T3 R8 C1] Explain, with clear and precise detail, the impact of organizations on social change
+u280 [T3 R8 C2] Explain, with detail, the impact of organizations on social change
+u281 [T3 R8 C3] Explain, with minimal detail, the impact of organizations on social change
+u282 [T3 R8 C4] Ineffectively describe the impact of organizations on social change

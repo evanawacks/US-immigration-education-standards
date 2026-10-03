@@ -1,0 +1,4104 @@
+{
+ "state": "MO",
+ "file": "MO curr-mls-standards-ss-k-5-sboe-2016.docx",
+ "structure": "Missouri K-5 Grade-Level Expectations (Spring 2016) as a Word document made of 14 tables. Seven numbered strands (1 Principles of constitutional democracy documents; 2 Principles and processes of governance systems; 3a Continuity and change in history of Missouri and the US; 4 Economic concepts; 5 Geography; 6 Relationships of individuals and groups; 7 Tools of social science inquiry) each introduced by a title cell ('N. Knowledge of ...'), then a header row 'CONCEPTS | GRADE K | GRADE 1 | ... | GRADE 5'. Each concept is lettered (A., B., ...) and takes two table rows: a row whose first cell is the letter and whose other cells are the grade expectations, then a row repeating the same expectations with the concept name in column 1 (e.g. 'Purposes and principles of the Bill of Rights'); both rows are standards and carry identical text. Grade is given by the header-row column (the C index of each cell equals the C index of its GRADE header; header C positions differ between header rows/tables because of merged cells, so each cell is mapped to the header row of its own block). Empty grade cells mean the concept is not taught in that grade. Column-1 cells (letter, concept name, strand title, CONCEPTS) apply to all of K-5. No separate example blocks, front matter or appendices: 'See teacher resources for illustrative examples' is embedded inside the standard text and stays with the standard. Table 6 (strand 4 concept D) has no header row of its own and continues the strand-4 block with the standard K..5 = C2..C7 layout. Only front matter is the nondiscrimination statement (u1) plus a stray 'aaaa' paragraph at the end (u584).",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: nondiscrimination statement"
+  },
+  {
+   "units": "u2",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States"
+  },
+  {
+   "units": "u3",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: CONCEPTS"
+  },
+  {
+   "units": "u4",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade K"
+  },
+  {
+   "units": "u5",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade 1"
+  },
+  {
+   "units": "u6",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade 2"
+  },
+  {
+   "units": "u7",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade 3"
+  },
+  {
+   "units": "u8",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade 4"
+  },
+  {
+   "units": "u9",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > column header: Grade 5"
+  },
+  {
+   "units": "u10",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u11",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u12",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u13",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u14",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u15",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > A. Purposes and principles of the Declaration of Independence"
+  },
+  {
+   "units": "u16",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u17",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u18",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u19",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u20",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u21",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u22",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u23",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u24",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u25",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u26",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u27",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u28",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u29",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > B. Purposes and principles of the Constitution"
+  },
+  {
+   "units": "u30",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u31",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u32",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u33",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u34",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u35",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u36",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u37",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u38",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u39",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u40",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u41",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u42",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u43",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States > C. Purposes and principles of the Bill of Rights"
+  },
+  {
+   "units": "u44",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t)"
+  },
+  {
+   "units": "u45",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: CONCEPTS"
+  },
+  {
+   "units": "u46",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade K"
+  },
+  {
+   "units": "u47",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade 1"
+  },
+  {
+   "units": "u48",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade 2"
+  },
+  {
+   "units": "u49",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade 3"
+  },
+  {
+   "units": "u50",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade 4"
+  },
+  {
+   "units": "u51",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > column header: Grade 5"
+  },
+  {
+   "units": "u52",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u53",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u54",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u55",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u56",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u57",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u58",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u59",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u60",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u61",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u62",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u63",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > D. Role of citizens and governments in carrying out constitutional principles"
+  },
+  {
+   "units": "u64",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u65",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u66",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u67",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u68",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u69",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u70",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u71",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u72",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u73",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u74",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u75",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u76",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u77",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > E. Character traits and civic attitudes of significant individuals"
+  },
+  {
+   "units": "u78",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u79",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u80",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u81",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u82",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u83",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u84",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u85",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u86",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u87",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u88",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u89",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u90",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u91",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "1. Knowledge of the principles expressed in documents shaping constitutional democracy in the United States (con’t) > F. Knowledge of the symbols of our state and nation"
+  },
+  {
+   "units": "u92",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems"
+  },
+  {
+   "units": "u93",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: CONCEPTS"
+  },
+  {
+   "units": "u94",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade K"
+  },
+  {
+   "units": "u95",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade 1"
+  },
+  {
+   "units": "u96",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade 2"
+  },
+  {
+   "units": "u97",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade 3"
+  },
+  {
+   "units": "u98",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade 4"
+  },
+  {
+   "units": "u99",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > column header: Grade 5"
+  },
+  {
+   "units": "u100",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u101",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u102",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u103",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u104",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u105",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u106",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u107",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > A. Purposes and roles of government"
+  },
+  {
+   "units": "u108",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u109",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u110",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u111",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u112",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u113",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u114",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u115",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > B. Dispute resolution"
+  },
+  {
+   "units": "u116",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u117",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u118",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u119",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u120",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u121",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u122",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u123",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u124",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u125",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u126",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u127",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u128",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u129",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > C. Processes of governmental systems in decision making"
+  },
+  {
+   "units": "u130",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u131",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u132",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u133",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u134",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u135",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u136",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u137",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u138",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u139",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u140",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u141",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u142",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u143",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2. Knowledge of principles and processes of governance systems > D. Functions of governmental systems"
+  },
+  {
+   "units": "u144",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States"
+  },
+  {
+   "units": "u145",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: CONCEPTS"
+  },
+  {
+   "units": "u146",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade K"
+  },
+  {
+   "units": "u147",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 1"
+  },
+  {
+   "units": "u148",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 2"
+  },
+  {
+   "units": "u149",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 3"
+  },
+  {
+   "units": "u150",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 4"
+  },
+  {
+   "units": "u151",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 5"
+  },
+  {
+   "units": "u152",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u153",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u154",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u155",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u156",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u157",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u158",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u159",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u160",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u161",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > A. Understand the movement of people from many regions of the world to North America"
+  },
+  {
+   "units": "u162",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u163",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u164",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u165",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u166",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u167",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u168",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u169",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u170",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u171",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u172",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u173",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u174",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u175",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > B. Historical perspective / Thinking / Passage of time"
+  },
+  {
+   "units": "u176",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States"
+  },
+  {
+   "units": "u177",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: CONCEPTS"
+  },
+  {
+   "units": "u178",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade K"
+  },
+  {
+   "units": "u179",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 1"
+  },
+  {
+   "units": "u180",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 2"
+  },
+  {
+   "units": "u181",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 3"
+  },
+  {
+   "units": "u182",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 4"
+  },
+  {
+   "units": "u183",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 5"
+  },
+  {
+   "units": "u184",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u185",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u186",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u187",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u188",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u189",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u190",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u191",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u192",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u193",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u194",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u195",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u196",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u197",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > C. Knowledge of the contributions of significant persons in U.S. history."
+  },
+  {
+   "units": "u198",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > D. Perspectives on the American Revolution"
+  },
+  {
+   "units": "u199",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > D. Perspectives on the American Revolution"
+  },
+  {
+   "units": "u200",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > D. Perspectives on the American Revolution"
+  },
+  {
+   "units": "u201",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > D. Perspectives on the American Revolution"
+  },
+  {
+   "units": "u202",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States"
+  },
+  {
+   "units": "u203",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: CONCEPTS"
+  },
+  {
+   "units": "u204",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade K"
+  },
+  {
+   "units": "u205",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 1"
+  },
+  {
+   "units": "u206",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 2"
+  },
+  {
+   "units": "u207",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 3"
+  },
+  {
+   "units": "u208",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 4"
+  },
+  {
+   "units": "u209",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 5"
+  },
+  {
+   "units": "u210",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u211",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u212",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u213",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u214",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u215",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u216",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u217",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > E. Political developments and reform movements in the U.S."
+  },
+  {
+   "units": "u218",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u219",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u220",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u221",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u222",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u223",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u224",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u225",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > F Westward Expansion and settlement in the US"
+  },
+  {
+   "units": "u226",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States"
+  },
+  {
+   "units": "u227",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: CONCEPTS"
+  },
+  {
+   "units": "u228",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade K"
+  },
+  {
+   "units": "u229",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 1"
+  },
+  {
+   "units": "u230",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 2"
+  },
+  {
+   "units": "u231",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 3"
+  },
+  {
+   "units": "u232",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 4"
+  },
+  {
+   "units": "u233",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > column header: Grade 5"
+  },
+  {
+   "units": "u234",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u235",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u236",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u237",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u238",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u239",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > G. Understanding the causes and consequences of the Civil War"
+  },
+  {
+   "units": "u240",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > H. Major economic developments in the United States"
+  },
+  {
+   "units": "u241",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > H. Major economic developments in the United States"
+  },
+  {
+   "units": "u242",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > H. Major economic developments in the United States"
+  },
+  {
+   "units": "u243",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > H. Major economic developments in the United States"
+  },
+  {
+   "units": "u244",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > I. Causes, comparisons, and results of major twentieth-century wars"
+  },
+  {
+   "units": "u245",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > I. Causes, comparisons, and results of major twentieth-century wars"
+  },
+  {
+   "units": "u246",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > I. Causes, comparisons, and results of major twentieth-century wars"
+  },
+  {
+   "units": "u247",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3a. Knowledge of continuity and change in the history of Missouri and the United States > I. Causes, comparisons, and results of major twentieth-century wars"
+  },
+  {
+   "units": "u248",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles"
+  },
+  {
+   "units": "u249",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: CONCEPTS"
+  },
+  {
+   "units": "u250",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade K"
+  },
+  {
+   "units": "u251",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade 1"
+  },
+  {
+   "units": "u252",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade 2"
+  },
+  {
+   "units": "u253",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade 3"
+  },
+  {
+   "units": "u254",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade 4"
+  },
+  {
+   "units": "u255",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > column header: Grade 5"
+  },
+  {
+   "units": "u256",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u257",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u258",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u259",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u260",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u261",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u262",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u263",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u264",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u265",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u266",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u267",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u268",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u269",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > A. Knowledge of basic economic concepts"
+  },
+  {
+   "units": "u270",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u271",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u272",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u273",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u274",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u275",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u276",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u277",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > B. Understanding the consequences of economic decisions"
+  },
+  {
+   "units": "u278",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u279",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u280",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u281",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u282",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u283",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > C. Understanding various types of taxes and their purposes"
+  },
+  {
+   "units": "u284",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u285",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u286",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u287",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u288",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u289",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u290",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u291",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "4. Knowledge of economic concepts and principles > D. Factors that influence the economy"
+  },
+  {
+   "units": "u292",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment"
+  },
+  {
+   "units": "u293",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: CONCEPTS"
+  },
+  {
+   "units": "u294",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade K"
+  },
+  {
+   "units": "u295",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 1"
+  },
+  {
+   "units": "u296",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 2"
+  },
+  {
+   "units": "u297",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 3"
+  },
+  {
+   "units": "u298",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 4"
+  },
+  {
+   "units": "u299",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 5"
+  },
+  {
+   "units": "u300",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u301",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u302",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u303",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u304",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u305",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u306",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u307",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u308",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u309",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u310",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u311",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u312",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u313",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > A. Reading and constructing maps"
+  },
+  {
+   "units": "u314",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u315",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u316",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u317",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u318",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u319",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u320",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u321",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u322",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u323",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u324",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u325",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u326",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u327",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > B. Understanding the concept of location to make predictions and solve problems."
+  },
+  {
+   "units": "u328",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment"
+  },
+  {
+   "units": "u329",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: CONCEPTS"
+  },
+  {
+   "units": "u330",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade K"
+  },
+  {
+   "units": "u331",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 1"
+  },
+  {
+   "units": "u332",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 2"
+  },
+  {
+   "units": "u333",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 3"
+  },
+  {
+   "units": "u334",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 4"
+  },
+  {
+   "units": "u335",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 5"
+  },
+  {
+   "units": "u336",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u337",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u338",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u339",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u340",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u341",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u342",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u343",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u344",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u345",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u346",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u347",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > C. Understanding the concept of place"
+  },
+  {
+   "units": "u348",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u349",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u350",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u351",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u352",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u353",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u354",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u355",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > D. Relationships within places Human- Environment Interactions"
+  },
+  {
+   "units": "u356",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment"
+  },
+  {
+   "units": "u357",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: CONCEPTS"
+  },
+  {
+   "units": "u358",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade K"
+  },
+  {
+   "units": "u359",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 1"
+  },
+  {
+   "units": "u360",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 2"
+  },
+  {
+   "units": "u361",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 3"
+  },
+  {
+   "units": "u362",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 4"
+  },
+  {
+   "units": "u363",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 5"
+  },
+  {
+   "units": "u364",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u365",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u366",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u367",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u368",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u369",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u370",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u371",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u372",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u373",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > E. Understanding relationships between and among places"
+  },
+  {
+   "units": "u374",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u375",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u376",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u377",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u378",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u379",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u380",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u381",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u382",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u383",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > F. Understanding relationships between and among regions"
+  },
+  {
+   "units": "u384",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment"
+  },
+  {
+   "units": "u385",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: CONCEPTS"
+  },
+  {
+   "units": "u386",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade K"
+  },
+  {
+   "units": "u387",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 1"
+  },
+  {
+   "units": "u388",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 2"
+  },
+  {
+   "units": "u389",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 3"
+  },
+  {
+   "units": "u390",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 4"
+  },
+  {
+   "units": "u391",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > column header: Grade 5"
+  },
+  {
+   "units": "u392",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u393",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u394",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u395",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u396",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u397",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u398",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u399",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u400",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u401",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5. Knowledge of major elements of geographical study and analysis and their relationship to changes in society and the environment > G. Using geography to interpret, explain and predict"
+  },
+  {
+   "units": "u402",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions"
+  },
+  {
+   "units": "u403",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: CONCEPTS"
+  },
+  {
+   "units": "u404",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade K"
+  },
+  {
+   "units": "u405",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 1"
+  },
+  {
+   "units": "u406",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 2"
+  },
+  {
+   "units": "u407",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 3"
+  },
+  {
+   "units": "u408",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 4"
+  },
+  {
+   "units": "u409",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 5"
+  },
+  {
+   "units": "u410",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u411",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u412",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u413",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u414",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u415",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u416",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u417",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u418",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u419",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u420",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u421",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u422",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u423",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > A. Cultural characteristics of all people"
+  },
+  {
+   "units": "u424",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u425",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u426",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u427",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u428",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u429",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u430",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u431",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u432",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u433",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u434",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u435",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u436",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u437",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > B. Methods of resolving conflicts"
+  },
+  {
+   "units": "u438",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u439",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u440",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u441",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u442",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u443",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u444",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u445",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u446",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u447",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u448",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u449",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u450",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u451",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > C. Ideas and beliefs of different cultures"
+  },
+  {
+   "units": "u452",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions"
+  },
+  {
+   "units": "u453",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: CONCEPTS"
+  },
+  {
+   "units": "u454",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade K"
+  },
+  {
+   "units": "u455",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 1"
+  },
+  {
+   "units": "u456",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 2"
+  },
+  {
+   "units": "u457",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 3"
+  },
+  {
+   "units": "u458",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 4"
+  },
+  {
+   "units": "u459",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > column header: Grade 5"
+  },
+  {
+   "units": "u460",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u461",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u462",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u463",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u464",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u465",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u466",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u467",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u468",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u469",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u470",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u471",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u472",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u473",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > D. Cultural heritage and preservation"
+  },
+  {
+   "units": "u474",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u475",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u476",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u477",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u478",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u479",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u480",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u481",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "6. Knowledge of relationships of the individual and groups to institutions and cultural traditions > E. Changing of roles of various groups"
+  },
+  {
+   "units": "u482",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry"
+  },
+  {
+   "units": "u483",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: CONCEPTS"
+  },
+  {
+   "units": "u484",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade K"
+  },
+  {
+   "units": "u485",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 1"
+  },
+  {
+   "units": "u486",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 2"
+  },
+  {
+   "units": "u487",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 3"
+  },
+  {
+   "units": "u488",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 4"
+  },
+  {
+   "units": "u489",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 5"
+  },
+  {
+   "units": "u490",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u491",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u492",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u493",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u494",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u495",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u496",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u497",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u498",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u499",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u500",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u501",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u502",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u503",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > A. Identify, select, analyze, and evaluate resources to create a product of social science inquiry"
+  },
+  {
+   "units": "u504",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u505",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u506",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u507",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u508",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u509",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u510",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u511",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u512",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u513",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u514",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u515",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u516",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u517",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > B. Use visual tools to communicate information and ideas"
+  },
+  {
+   "units": "u518",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry"
+  },
+  {
+   "units": "u519",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: CONCEPTS"
+  },
+  {
+   "units": "u520",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade K"
+  },
+  {
+   "units": "u521",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 1"
+  },
+  {
+   "units": "u522",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 2"
+  },
+  {
+   "units": "u523",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 3"
+  },
+  {
+   "units": "u524",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 4"
+  },
+  {
+   "units": "u525",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 5"
+  },
+  {
+   "units": "u526",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u527",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u528",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u529",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u530",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u531",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u532",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u533",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u534",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u535",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > C. Understanding and supporting fact, opinion, bias and point of view in sources."
+  },
+  {
+   "units": "u536",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u537",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u538",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u539",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u540",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u541",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u542",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u543",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u544",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u545",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u546",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u547",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u548",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u549",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > D. Conducting and presenting research with appropriate resources."
+  },
+  {
+   "units": "u550",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry"
+  },
+  {
+   "units": "u551",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: CONCEPTS"
+  },
+  {
+   "units": "u552",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade K"
+  },
+  {
+   "units": "u553",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 1"
+  },
+  {
+   "units": "u554",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 2"
+  },
+  {
+   "units": "u555",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 3"
+  },
+  {
+   "units": "u556",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 4"
+  },
+  {
+   "units": "u557",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > column header: Grade 5"
+  },
+  {
+   "units": "u558",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u559",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u560",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u561",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u562",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u563",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u564",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u565",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u566",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u567",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u568",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u569",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u570",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u571",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > E. Developing a research plan and identifying resources"
+  },
+  {
+   "units": "u572",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u573",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u574",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u575",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u576",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u577",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u578",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u579",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > F. Conducting and presenting research with appropriate resources"
+  },
+  {
+   "units": "u580",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > G. Supporting a point of view"
+  },
+  {
+   "units": "u581",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > G. Supporting a point of view"
+  },
+  {
+   "units": "u582",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > G. Supporting a point of view"
+  },
+  {
+   "units": "u583",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "7. Knowledge of the use of tools of social science inquiry > G. Supporting a point of view"
+  },
+  {
+   "units": "u584",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Stray text"
+  }
+ ],
+ "issues": [
+  "u1: only front matter in document is the DESE nondiscrimination statement (no cover/title/TOC in the extraction); labeled backup, grades all.",
+  "u584: stray text 'aaaa' at end of document (not a standard); labeled backup.",
+  "u284-u291 (strand 4 concept D, table 6): no header row in this table; the previous header (u249-u255) uses different column positions (K=C2,1=C4,2=C6,3=C8,4=C10,5=C12) so it cannot be reused. Content cells C5/C6/C7 were assigned to grades 3/4/5, using the continuation layout K=C2..5=C7 (confirmed by content: state economy = grade 3, state and regional = grade 4, nation = grade 5).",
+  "Every standard text appears twice (letter row and concept-name row); both copies are labeled standards with the same grade, so the assembled database will contain duplicate text per cell. Not an extraction error.",
+  "Document has no 'Additional Resources' section and no teacher-resources text (referred to as 'See teacher resources' but not included in this file); the state guide note about Additional Resources does not apply to this file.",
+  "Column-1 cells (concept letters, concept names, strand titles, CONCEPTS) labeled with full K-5 even when the concept only has content in some grades (e.g. concept D of strand 5 only grades 3-5).",
+  "u218: concept letter 'F' lacks the trailing period; treated as concept letter."
+ ]
+}

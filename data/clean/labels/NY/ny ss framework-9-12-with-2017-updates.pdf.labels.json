@@ -1,0 +1,2358 @@
+{
+ "state": "NY",
+ "file": "ny ss framework-9-12-with-2017-updates.pdf",
+ "structure": "New York State K-12 Social Studies Framework, Grades 9-12 volume (with 2017 updates). Cover and contents (u1-u25); 'Social Studies Practices Grades 9-12' (A-F, numbered practice statements, apply to all HS courses; extraction places each numbered list BEFORE its strand heading); Part 'Grades 9 and 10' with Common Core Reading/Writing/Speaking and Listening standards for history/social studies (backup); 'Global History and Geography' overview; Grade 9 'Unifying Themes Aligned to Key Ideas' table then 'Grade 9: Global History and Geography I' (Key Ideas 9.1-9.10, Conceptual Understandings 9.1 a / 9.1 b ..., each followed by a 'Students will...' content specification; era headings such as 'The First Civilizations, ca. 10,000 B.C.E. - ca. 630 C.E.'); Grade 10 themes table then 'Grade 10: Global History and Geography II' (10.1-10.10). Part 'Grades 11-12' with CCSS literacy standards (backup), Grade 11 themes table, 'Grade 11: United States History and Government' (11.1-11.11, same Key Idea/Conceptual Understanding/content-specification pattern), 'Grade 12: Participation in Government and Civics' (12.G1-12.G5 with lettered conceptual understandings, no content specifications) and 'Grade 12: Economics, the Enterprise System, and Finance' (12.E1-12.E4). Course = course title as written; each course tied to a single grade (9, 10, 11, 12).",
+ "labels": [
+  {
+   "units": "u1-u25",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and table of contents"
+  },
+  {
+   "units": "u28",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12"
+  },
+  {
+   "units": "u29",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > A. Gathering, Interpreting, and Using Evidence"
+  },
+  {
+   "units": "u30",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > A. Gathering, Interpreting, and Using Evidence (heading)"
+  },
+  {
+   "units": "u31",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > B. Chronological Reasoning and Causation"
+  },
+  {
+   "units": "u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > B. Chronological Reasoning and Causation (heading)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > C. Comparison and Contextualization"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > C. Comparison and Contextualization (heading)"
+  },
+  {
+   "units": "u35",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > D. Geographic Reasoning"
+  },
+  {
+   "units": "u36",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > D. Geographic Reasoning (heading)"
+  },
+  {
+   "units": "u39",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > D. Geographic Reasoning"
+  },
+  {
+   "units": "u40",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > E. Economics and Economic Systems"
+  },
+  {
+   "units": "u41",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > E. Economics and Economic Systems (heading)"
+  },
+  {
+   "units": "u42",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > F. Civic Participation"
+  },
+  {
+   "units": "u43",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices Grades 9-12 > F. Civic Participation (heading)"
+  },
+  {
+   "units": "u46",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9 and 10 divider"
+  },
+  {
+   "units": "u49-u98",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-10: Common Core Reading, Writing, Speaking and Listening standards"
+  },
+  {
+   "units": "u101",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "Part title: Global History and Geography (Grades 9-10)"
+  },
+  {
+   "units": "u102",
+   "grades": "9-10",
+   "course": null,
+   "cat": "examples",
+   "section": "Global History and Geography (Grades 9 and 10) overview narrative"
+  },
+  {
+   "units": "u105-u181",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Unifying Themes Aligned to Key Ideas (table)"
+  },
+  {
+   "units": "u184",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I"
+  },
+  {
+   "units": "u185-u187",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I"
+  },
+  {
+   "units": "u188",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I"
+  },
+  {
+   "units": "u189",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.1"
+  },
+  {
+   "units": "u190",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.1a"
+  },
+  {
+   "units": "u191",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.1a (content specification)"
+  },
+  {
+   "units": "u193",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.1b"
+  },
+  {
+   "units": "u194",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.1b (content specification)"
+  },
+  {
+   "units": "u196",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.1c"
+  },
+  {
+   "units": "u197",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.1c (content specification)"
+  },
+  {
+   "units": "u199",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.2"
+  },
+  {
+   "units": "u200",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.2a"
+  },
+  {
+   "units": "u203",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.2a (content specification)"
+  },
+  {
+   "units": "u205",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.2b"
+  },
+  {
+   "units": "u206",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.2b (content specification)"
+  },
+  {
+   "units": "u208",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.2b"
+  },
+  {
+   "units": "u209",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3"
+  },
+  {
+   "units": "u210",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3a"
+  },
+  {
+   "units": "u211",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.3a (content specification)"
+  },
+  {
+   "units": "u214",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3b"
+  },
+  {
+   "units": "u215",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.3b (content specification)"
+  },
+  {
+   "units": "u217",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3c"
+  },
+  {
+   "units": "u218",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.3c (content specification)"
+  },
+  {
+   "units": "u220",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3d"
+  },
+  {
+   "units": "u221",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.3d (content specification)"
+  },
+  {
+   "units": "u225",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.3d"
+  },
+  {
+   "units": "u226-u227",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.4"
+  },
+  {
+   "units": "u228",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.4a"
+  },
+  {
+   "units": "u229",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.4a (content specification)"
+  },
+  {
+   "units": "u231",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.4b"
+  },
+  {
+   "units": "u232",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.4b (content specification)"
+  },
+  {
+   "units": "u234",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.4c"
+  },
+  {
+   "units": "u235",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.4c (content specification)"
+  },
+  {
+   "units": "u240",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.4d"
+  },
+  {
+   "units": "u241",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.4d (content specification)"
+  },
+  {
+   "units": "u243",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.5"
+  },
+  {
+   "units": "u244",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.5a"
+  },
+  {
+   "units": "u245",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.5a (content specification)"
+  },
+  {
+   "units": "u248",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.5b"
+  },
+  {
+   "units": "u251-u253",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.5b (content specification)"
+  },
+  {
+   "units": "u254",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.5c"
+  },
+  {
+   "units": "u255",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.5c (content specification)"
+  },
+  {
+   "units": "u259",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.6"
+  },
+  {
+   "units": "u260",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.6a"
+  },
+  {
+   "units": "u261",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.6a (content specification)"
+  },
+  {
+   "units": "u265",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.6b"
+  },
+  {
+   "units": "u266",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.6b (content specification)"
+  },
+  {
+   "units": "u269",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.6b"
+  },
+  {
+   "units": "u270",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.7"
+  },
+  {
+   "units": "u271",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.7a"
+  },
+  {
+   "units": "u272-u276",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.7a (content specification)"
+  },
+  {
+   "units": "u278",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.7b"
+  },
+  {
+   "units": "u279",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.7b (content specification)"
+  },
+  {
+   "units": "u281",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.7c"
+  },
+  {
+   "units": "u282",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.7c (content specification)"
+  },
+  {
+   "units": "u285",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.8"
+  },
+  {
+   "units": "u286",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.8a"
+  },
+  {
+   "units": "u287",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.8a (content specification)"
+  },
+  {
+   "units": "u291",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.8b"
+  },
+  {
+   "units": "u292",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.8b (content specification)"
+  },
+  {
+   "units": "u295",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.8c"
+  },
+  {
+   "units": "u296",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.8c (content specification)"
+  },
+  {
+   "units": "u298-u301",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9"
+  },
+  {
+   "units": "u302",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9a"
+  },
+  {
+   "units": "u303",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.9a (content specification)"
+  },
+  {
+   "units": "u307",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9b"
+  },
+  {
+   "units": "u308",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.9b (content specification)"
+  },
+  {
+   "units": "u311",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9c"
+  },
+  {
+   "units": "u312",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.9c (content specification)"
+  },
+  {
+   "units": "u315",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9d"
+  },
+  {
+   "units": "u316",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.9d (content specification)"
+  },
+  {
+   "units": "u318",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.9e"
+  },
+  {
+   "units": "u319",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.9e (content specification)"
+  },
+  {
+   "units": "u324",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10"
+  },
+  {
+   "units": "u325",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10a"
+  },
+  {
+   "units": "u326",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.10a (content specification)"
+  },
+  {
+   "units": "u329",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10b"
+  },
+  {
+   "units": "u330",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.10b (content specification)"
+  },
+  {
+   "units": "u334",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10c"
+  },
+  {
+   "units": "u335",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.10c (content specification)"
+  },
+  {
+   "units": "u338",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10d"
+  },
+  {
+   "units": "u339",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.10d (content specification)"
+  },
+  {
+   "units": "u343",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "standards",
+   "section": "Grade 9: Global History and Geography I > 9.10e"
+  },
+  {
+   "units": "u344-u348",
+   "grades": "9",
+   "course": "Global History and Geography I",
+   "cat": "examples",
+   "section": "Grade 9: Global History and Geography I > 9.10e (content specification)"
+  },
+  {
+   "units": "u353-u441",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Unifying Themes Aligned to Key Ideas (table)"
+  },
+  {
+   "units": "u444",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II"
+  },
+  {
+   "units": "u445-u447",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II"
+  },
+  {
+   "units": "u448",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II"
+  },
+  {
+   "units": "u449",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.1"
+  },
+  {
+   "units": "u450",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.1a"
+  },
+  {
+   "units": "u451",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.1a (content specification)"
+  },
+  {
+   "units": "u455",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.1b"
+  },
+  {
+   "units": "u456",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.1b (content specification)"
+  },
+  {
+   "units": "u462",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.1b"
+  },
+  {
+   "units": "u463",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.2"
+  },
+  {
+   "units": "u464",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.2a"
+  },
+  {
+   "units": "u465",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.2a (content specification)"
+  },
+  {
+   "units": "u467",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.2b"
+  },
+  {
+   "units": "u468",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.2b (content specification)"
+  },
+  {
+   "units": "u471",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.2c"
+  },
+  {
+   "units": "u472",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.2c (content specification)"
+  },
+  {
+   "units": "u475",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.2d"
+  },
+  {
+   "units": "u476",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.2d (content specification)"
+  },
+  {
+   "units": "u478",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.3"
+  },
+  {
+   "units": "u479",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.3a"
+  },
+  {
+   "units": "u480",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.3a (content specification)"
+  },
+  {
+   "units": "u484",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.3b"
+  },
+  {
+   "units": "u485-u487",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.3b (content specification)"
+  },
+  {
+   "units": "u488",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.3c"
+  },
+  {
+   "units": "u489",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.3c (content specification)"
+  },
+  {
+   "units": "u491",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.3d"
+  },
+  {
+   "units": "u492",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.3d (content specification)"
+  },
+  {
+   "units": "u495",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.4"
+  },
+  {
+   "units": "u496",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.4a"
+  },
+  {
+   "units": "u497",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.4a (content specification)"
+  },
+  {
+   "units": "u500",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.4b"
+  },
+  {
+   "units": "u501",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.4b (content specification)"
+  },
+  {
+   "units": "u504",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.4c"
+  },
+  {
+   "units": "u507",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.4c (content specification)"
+  },
+  {
+   "units": "u509",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.4c"
+  },
+  {
+   "units": "u510",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5"
+  },
+  {
+   "units": "u511",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5a"
+  },
+  {
+   "units": "u512",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.5a (content specification)"
+  },
+  {
+   "units": "u514",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5b"
+  },
+  {
+   "units": "u515",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.5b (content specification)"
+  },
+  {
+   "units": "u517",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5c"
+  },
+  {
+   "units": "u518",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.5c (content specification)"
+  },
+  {
+   "units": "u520",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5d"
+  },
+  {
+   "units": "u521-u524",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.5d (content specification)"
+  },
+  {
+   "units": "u525",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.5e"
+  },
+  {
+   "units": "u526",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.5e (content specification)"
+  },
+  {
+   "units": "u530",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.6"
+  },
+  {
+   "units": "u531",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.6a"
+  },
+  {
+   "units": "u532",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.6a (content specification)"
+  },
+  {
+   "units": "u534",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.6b"
+  },
+  {
+   "units": "u535",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.6b (content specification)"
+  },
+  {
+   "units": "u540",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.6c"
+  },
+  {
+   "units": "u541",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.6c (content specification)"
+  },
+  {
+   "units": "u544",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7"
+  },
+  {
+   "units": "u545",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7a"
+  },
+  {
+   "units": "u546",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.7a (content specification)"
+  },
+  {
+   "units": "u549",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7b"
+  },
+  {
+   "units": "u550",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.7b (content specification)"
+  },
+  {
+   "units": "u554",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7c"
+  },
+  {
+   "units": "u555",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.7c (content specification)"
+  },
+  {
+   "units": "u558",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7d"
+  },
+  {
+   "units": "u559",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.7d (content specification)"
+  },
+  {
+   "units": "u562",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.7d"
+  },
+  {
+   "units": "u563",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.8"
+  },
+  {
+   "units": "u564",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.8a"
+  },
+  {
+   "units": "u565",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.8a (content specification)"
+  },
+  {
+   "units": "u567",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.8b"
+  },
+  {
+   "units": "u568",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.8b (content specification)"
+  },
+  {
+   "units": "u571",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.9"
+  },
+  {
+   "units": "u572",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.9a"
+  },
+  {
+   "units": "u575",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.9a (content specification)"
+  },
+  {
+   "units": "u578",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.9b"
+  },
+  {
+   "units": "u579",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.9b (content specification)"
+  },
+  {
+   "units": "u581-u587",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.9b"
+  },
+  {
+   "units": "u588",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.9c"
+  },
+  {
+   "units": "u589",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.9c (content specification)"
+  },
+  {
+   "units": "u593",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.9d"
+  },
+  {
+   "units": "u594",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.9d (content specification)"
+  },
+  {
+   "units": "u598-u601",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.10"
+  },
+  {
+   "units": "u602",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.10a"
+  },
+  {
+   "units": "u603",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.10a (content specification)"
+  },
+  {
+   "units": "u606",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.10b"
+  },
+  {
+   "units": "u607",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.10b (content specification)"
+  },
+  {
+   "units": "u610",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "standards",
+   "section": "Grade 10: Global History and Geography II > 10.10c"
+  },
+  {
+   "units": "u611",
+   "grades": "10",
+   "course": "Global History and Geography II",
+   "cat": "examples",
+   "section": "Grade 10: Global History and Geography II > 10.10c (content specification)"
+  },
+  {
+   "units": "u618",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 11-12 divider"
+  },
+  {
+   "units": "u621-u670",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 11-12: Common Core Reading, Writing, Speaking and Listening standards"
+  },
+  {
+   "units": "u673-u755",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: Unifying Themes aligned to Key Ideas (table)"
+  },
+  {
+   "units": "u758",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government"
+  },
+  {
+   "units": "u759",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government"
+  },
+  {
+   "units": "u760",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.1"
+  },
+  {
+   "units": "u761",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.1a"
+  },
+  {
+   "units": "u762",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.1a (content specification)"
+  },
+  {
+   "units": "u765",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.1b"
+  },
+  {
+   "units": "u766",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.1b (content specification)"
+  },
+  {
+   "units": "u770",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.1c"
+  },
+  {
+   "units": "u771",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.1c (content specification)"
+  },
+  {
+   "units": "u774",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "backup",
+   "section": "Grade 11: United States History and Government > 11.1c"
+  },
+  {
+   "units": "u777",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.2"
+  },
+  {
+   "units": "u778",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.2a"
+  },
+  {
+   "units": "u779",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.2a (content specification)"
+  },
+  {
+   "units": "u781",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.2b"
+  },
+  {
+   "units": "u782",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.2b (content specification)"
+  },
+  {
+   "units": "u785",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.2c"
+  },
+  {
+   "units": "u786",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.2c (content specification)"
+  },
+  {
+   "units": "u792",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.2d"
+  },
+  {
+   "units": "u793-u799",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.2d (content specification)"
+  },
+  {
+   "units": "u801-u802",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.3"
+  },
+  {
+   "units": "u803",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.3a"
+  },
+  {
+   "units": "u804",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.3a (content specification)"
+  },
+  {
+   "units": "u808",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.3b"
+  },
+  {
+   "units": "u809",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.3b (content specification)"
+  },
+  {
+   "units": "u814",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.3c"
+  },
+  {
+   "units": "u815",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.3c (content specification)"
+  },
+  {
+   "units": "u821",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.4"
+  },
+  {
+   "units": "u822",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.4a"
+  },
+  {
+   "units": "u823",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.4a (content specification)"
+  },
+  {
+   "units": "u828",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.4b"
+  },
+  {
+   "units": "u829",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.4b (content specification)"
+  },
+  {
+   "units": "u831",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.4c"
+  },
+  {
+   "units": "u832",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.4c (content specification)"
+  },
+  {
+   "units": "u835",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.4d"
+  },
+  {
+   "units": "u836",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.4d (content specification)"
+  },
+  {
+   "units": "u839",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.5"
+  },
+  {
+   "units": "u840",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.5a"
+  },
+  {
+   "units": "u843",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.5a (content specification)"
+  },
+  {
+   "units": "u847",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.5b"
+  },
+  {
+   "units": "u848",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.5b (content specification)"
+  },
+  {
+   "units": "u856-u859",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.5b"
+  },
+  {
+   "units": "u860",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.6"
+  },
+  {
+   "units": "u861",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.6a"
+  },
+  {
+   "units": "u864",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.6a (content specification)"
+  },
+  {
+   "units": "u869",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.6b"
+  },
+  {
+   "units": "u870",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.6b (content specification)"
+  },
+  {
+   "units": "u874",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.6c"
+  },
+  {
+   "units": "u875",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.6c (content specification)"
+  },
+  {
+   "units": "u880",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.7"
+  },
+  {
+   "units": "u881",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.7a"
+  },
+  {
+   "units": "u882-u885",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.7a (content specification)"
+  },
+  {
+   "units": "u886",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.7b"
+  },
+  {
+   "units": "u889",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.7b (content specification)"
+  },
+  {
+   "units": "u892",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.7c"
+  },
+  {
+   "units": "u893-u894",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.7c (content specification)"
+  },
+  {
+   "units": "u898",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.8"
+  },
+  {
+   "units": "u899",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.8a"
+  },
+  {
+   "units": "u900-u903",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.8a (content specification)"
+  },
+  {
+   "units": "u905",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.8b"
+  },
+  {
+   "units": "u906",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.8b (content specification)"
+  },
+  {
+   "units": "u912",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.8c"
+  },
+  {
+   "units": "u913",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.8c (content specification)"
+  },
+  {
+   "units": "u917",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.9"
+  },
+  {
+   "units": "u918",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.9a"
+  },
+  {
+   "units": "u919",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.9a (content specification)"
+  },
+  {
+   "units": "u927",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.9b"
+  },
+  {
+   "units": "u928",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.9b (content specification)"
+  },
+  {
+   "units": "u932",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.9c"
+  },
+  {
+   "units": "u935",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.9c (content specification)"
+  },
+  {
+   "units": "u937",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.9d"
+  },
+  {
+   "units": "u938",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.9d (content specification)"
+  },
+  {
+   "units": "u940",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.10"
+  },
+  {
+   "units": "u941",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.10a"
+  },
+  {
+   "units": "u942",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.10a (content specification)"
+  },
+  {
+   "units": "u947",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.10b"
+  },
+  {
+   "units": "u948",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.10b (content specification)"
+  },
+  {
+   "units": "u950-u962",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.10b"
+  },
+  {
+   "units": "u963",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.10b (content specification)"
+  },
+  {
+   "units": "u965",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.10c"
+  },
+  {
+   "units": "u966-u969",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.10c (content specification)"
+  },
+  {
+   "units": "u970-u971",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.11"
+  },
+  {
+   "units": "u972",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.11a"
+  },
+  {
+   "units": "u973",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.11a (content specification)"
+  },
+  {
+   "units": "u976",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.11b"
+  },
+  {
+   "units": "u977",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.11b (content specification)"
+  },
+  {
+   "units": "u981",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "standards",
+   "section": "Grade 11: United States History and Government > 11.11c"
+  },
+  {
+   "units": "u982-u986",
+   "grades": "11",
+   "course": "United States History and Government",
+   "cat": "examples",
+   "section": "Grade 11: United States History and Government > 11.11c (content specification)"
+  },
+  {
+   "units": "u991",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics"
+  },
+  {
+   "units": "u992",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "examples",
+   "section": "Grade 12: Participation in Government and Civics"
+  },
+  {
+   "units": "u993",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1"
+  },
+  {
+   "units": "u994",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1a"
+  },
+  {
+   "units": "u995",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1b"
+  },
+  {
+   "units": "u996",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1c"
+  },
+  {
+   "units": "u997",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1d"
+  },
+  {
+   "units": "u998",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1e"
+  },
+  {
+   "units": "u999",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G1f"
+  },
+  {
+   "units": "u1000",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2"
+  },
+  {
+   "units": "u1001",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2a"
+  },
+  {
+   "units": "u1002-u1005",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2b"
+  },
+  {
+   "units": "u1006",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2c"
+  },
+  {
+   "units": "u1007",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2d"
+  },
+  {
+   "units": "u1008",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G2e"
+  },
+  {
+   "units": "u1009",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12G2f"
+  },
+  {
+   "units": "u1010",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G3"
+  },
+  {
+   "units": "u1011",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G3a"
+  },
+  {
+   "units": "u1012",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G3b"
+  },
+  {
+   "units": "u1013",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G3c"
+  },
+  {
+   "units": "u1014",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G3d"
+  },
+  {
+   "units": "u1015",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4"
+  },
+  {
+   "units": "u1016",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4a"
+  },
+  {
+   "units": "u1019",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4b"
+  },
+  {
+   "units": "u1020",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4c"
+  },
+  {
+   "units": "u1021",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4d"
+  },
+  {
+   "units": "u1022",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G4e"
+  },
+  {
+   "units": "u1023",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G5"
+  },
+  {
+   "units": "u1024",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G5a"
+  },
+  {
+   "units": "u1025",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G5b"
+  },
+  {
+   "units": "u1026",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G5c"
+  },
+  {
+   "units": "u1027",
+   "grades": "12",
+   "course": "Participation in Government and Civics",
+   "cat": "standards",
+   "section": "Grade 12: Participation in Government and Civics > 12.G5d"
+  },
+  {
+   "units": "u1030",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance"
+  },
+  {
+   "units": "u1031",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "examples",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance"
+  },
+  {
+   "units": "u1032",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E1"
+  },
+  {
+   "units": "u1033",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E1a"
+  },
+  {
+   "units": "u1034",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E1b"
+  },
+  {
+   "units": "u1035",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E1c"
+  },
+  {
+   "units": "u1036",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E1d"
+  },
+  {
+   "units": "u1037",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E2"
+  },
+  {
+   "units": "u1038",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E2a"
+  },
+  {
+   "units": "u1039",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E2b"
+  },
+  {
+   "units": "u1042",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E2c"
+  },
+  {
+   "units": "u1043",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3"
+  },
+  {
+   "units": "u1044",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3a"
+  },
+  {
+   "units": "u1045",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3b"
+  },
+  {
+   "units": "u1046",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3c"
+  },
+  {
+   "units": "u1047",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3d"
+  },
+  {
+   "units": "u1048",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E3e"
+  },
+  {
+   "units": "u1049",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E4"
+  },
+  {
+   "units": "u1050",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E4a"
+  },
+  {
+   "units": "u1051",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E4b"
+  },
+  {
+   "units": "u1052",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E4c"
+  },
+  {
+   "units": "u1055",
+   "grades": "12",
+   "course": "Economics, the Enterprise System, and Finance",
+   "cat": "standards",
+   "section": "Grade 12: Economics, the Enterprise System, and Finance > 12.E4d"
+  }
+ ],
+ "issues": [
+  "u28-u43: the 9-12 Social Studies Practices page is out of order in the extraction: each numbered practice list (u29 A, u31 B, u33 C, u35 and u39 D, u40 E, u42 F) precedes its heading unit (u30, u32, u34, u36, u41, u43 respectively). Section strings assign each list to the strand named by the heading that follows it (e.g. u40, the marginal-benefit/economics list, is strand E). All labeled standards, grades 9-12, course null (shared HS skills).",
+  "u101-u102: 'Global History and Geography' two-year overview precedes both Grade 9 and Grade 10 courses; no single course string fits, so u101 is backup and u102 examples with course null, grades 9-10.",
+  "u49-u98 and u621-u670: Common Core literacy standards in History/Social Studies, Science and Technical Subjects (Reading, Writing, Speaking and Listening) labeled backup with grades 9-10 and 11-12 respectively; the extraction interleaves strand sub-headings (Key Ideas and Details, Craft and Structure, etc.) out of order and splits the writing standards across many units; no impact on labeling.",
+  "u105-u181, u353-u441, u673-u755: Unifying Themes aligned to Key Ideas tables for Grades 9, 10, 11; X/shading marks are lost (empty or bullet-only cells), so only the theme names and key-idea numbers remain. Labeled standards for the single grade and course.",
+  "u188, u208, u225, u269, u448, u462, u509, u562: era/period sub-headings inside the Grade 9 and Grade 10 courses labeled standards (organizing headings). u227, u301, u601, u802, u971, u1005: continuation lines of Key Idea statements split across units/pages (second line of the heading text); labeled standards.",
+  "u581-u587 (10.9b), u856-u859 (11.5b), u948-u963 (11.10b): bulleted topic lists and bullet glyph units that are part of the 'Students will ...' content specification; labeled examples.",
+  "Grade 11 and 10 course narratives (u185-u187, u445-u447, u759, u992, u1031) labeled examples. u992 notes that the Grade 12 Participation in Government and Civics course has no content specifications; 12.G and 12.E Conceptual Understandings (12.G1a, 12.E1a ...) are labeled standards.",
+  "u774: terminology footnote about 'Native American' labeled backup.",
+  "The view ends at u1055 (12.E4d, page 51); 12.E4 may continue on later pages that are not in the extraction (no further units exist).",
+  "Note: code spelling variants in the source (e.g. '9.1 a' with a space, '12G2f' at u1009, '12. E2' at u1037, 'Standards: ... ECON' typos) were not changed; no impact on labeling.",
+  "State guide matched the document: K-8 file covers grades K-8 as listed; 9-12 file courses are tied to single grades 9, 10, 11, 12 as listed in the guide."
+ ]
+}

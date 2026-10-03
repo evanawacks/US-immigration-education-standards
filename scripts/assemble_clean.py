@@ -77,9 +77,10 @@ def assemble_state(st, cfg, names):
         course_rows = {}   # (title, grades) -> grades
         for l in labels:
             if l.get("course"):
-                t = l["course"].strip()
+                t = " ".join(l["course"].split())
                 G = gset(l["grades"]) if str(l["grades"]) != "all" else doc_grades
-                course_rows[(t, G)] = G
+                if not any(k[0].lower() == t.lower() and k[1] == G for k in course_rows):
+                    course_rows[(t, G)] = G
         assigned = {}
         for l in labels:
             for x in parse_units(l["units"]):
@@ -98,7 +99,7 @@ def assemble_state(st, cfg, names):
         def course_row(key):
             t, G = key
             std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
-            return row(("C", t, G), G, std, t)
+            return row(("C", t.lower(), G), G, std, t)
         touched = set()
         for uid in sorted(units):
             u = units[uid]
@@ -111,7 +112,9 @@ def assemble_state(st, cfg, names):
             G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
             targets = []
             if l.get("course"):
-                targets.append(course_row((l["course"].strip(), G)))
+                t = " ".join(l["course"].split())
+                key = next(k for k in course_rows if k[0].lower() == t.lower() and k[1] == G)
+                targets.append(course_row(key))
             elif cat == "backup" and (str(l["grades"]) == "all" or G >= doc_grades):
                 targets.append(course_row(next(iter(course_rows))) if single_course else allrow)
             else:
@@ -144,6 +147,12 @@ def assemble_state(st, cfg, names):
             if units[uid].get("furniture") and t not in furn: furn.append(t)
         if furn: allrow["backup"].append((fname, 0, "[running headers/footers] " + " | ".join(furn)))
         if fname not in allrow["files"]: allrow["files"].append(fname)
+    for key in [k for k, r in rows.items() if k[0] != "ALL" and not r["standards"] and not r["examples"]]:
+        r = rows.pop(key)
+        label = r["course_title"] or gtoken(r["grades"])
+        allrow["backup"].extend((f, u, f"[{label}] {t}") for f, u, t in r["backup"])
+        for f in r["files"]:
+            if f not in allrow["files"]: allrow["files"].append(f)
     allrow["issues"] = state_issues + allrow["issues"]
     out = []
     for key, r in rows.items():

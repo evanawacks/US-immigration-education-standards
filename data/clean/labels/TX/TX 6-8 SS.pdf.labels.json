@@ -1,0 +1,123 @@
+{
+ "state": "TX",
+ "file": "TX 6-8 SS.pdf",
+ "structure": "Texas Administrative Code Ch. 113 Subchapter B (Middle School). One section per grade: \u00a7113.18 Grade 6, \u00a7113.19 Grade 7, \u00a7113.20 Grade 8 ('Adopted 2022'). Each section: heading, (a) Implementation, (b) Introduction with numbered paragraphs (1)-(8) (grade overview, resources, strands, free enterprise, constitutional republic, Celebrate Freedom Week, etc.), (c) Knowledge and skills = numbered TEKS (1)..(n) with strand name (History, Geography, Economics, Government, Citizenship, Culture, Science technology and society, Social studies skills) and 'The student is expected to:' sub-items (A), (B)...; trailing 'Source:' note. Grade comes from the section heading; skills strands repeat in each grade section.",
+ "labels": [
+  {
+   "units": "u3-u5",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Chapter 113 / Subchapter B titles and statutory authority"
+  },
+  {
+   "units": "u6",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.18. Social Studies Grade 6 > section heading/title"
+  },
+  {
+   "units": "u7",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.18. Social Studies Grade 6 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u8-u23",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.18. Social Studies Grade 6 > (b) Introduction"
+  },
+  {
+   "units": "u24-u130",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.18. Social Studies Grade 6 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u131",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.18. Social Studies Grade 6 > Source note"
+  },
+  {
+   "units": "u132",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.19. Social Studies Grade 7 > section heading/title"
+  },
+  {
+   "units": "u133",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.19. Social Studies Grade 7 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u134-u149",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.19. Social Studies Grade 7 > (b) Introduction"
+  },
+  {
+   "units": "u150-u267",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.19. Social Studies Grade 7 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u268",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.19. Social Studies Grade 7 > Source note"
+  },
+  {
+   "units": "u269",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.20. Social Studies Grade 8 > section heading/title"
+  },
+  {
+   "units": "u270",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.20. Social Studies Grade 8 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u271-u286",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.20. Social Studies Grade 8 > (b) Introduction"
+  },
+  {
+   "units": "u287-u441",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.20. Social Studies Grade 8 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u442",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.20. Social Studies Grade 8 > Source note"
+  }
+ ],
+ "issues": [
+  "(b) Introduction paragraphs (from each '(b) Introduction.' to before '(c) Knowledge and skills.') labeled examples per state guide, including mandate-like paragraphs (Celebrate Freedom Week (7)(A)-(B): u15-u22, u146-u148, u283-u285); they could arguably be backup.",
+  "u16-u21, u139-u144, u157-u162, u272-u277: sentences split across page breaks into separate units; same section so labels unaffected."
+ ]
+}

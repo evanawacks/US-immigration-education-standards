@@ -1,0 +1,1774 @@
+{
+ "state": "GA",
+ "file": "Social Studies - Georgia Department of Education-CASE-items.csv",
+ "structure": "CASE (Common Standards... Frameworks) export as a CSV: each unit is one row 'Item Type | Sequence | Human Code | Full Statement | Ed. Level | Last Modified' in hierarchical order. Top: header row, then two KG-12 skills charts (Map and Globe Skills SSMGS1-12; Information Processing Skills SSIPS1-17). Then 'Grade Level' band rows (Elementary K-5, Middle School 6-8, High School 9-12). Under K-8 each 'Course' row is 'Social Studies/Grade N' (Ed. Level KG, 01..08) holding Clusters (Historical/Geographic/Government-Civic/Economic Understandings; in Grades 6-7 wrapped in regional Domains such as Latin America and Canada, Europe, Australia, Africa, Southwest Asia, Southern and Eastern Asia; Grade 8 = Georgia Studies) with Content Standards (codes like SS4H1, SS6G1) and lettered Elements (SS4H1.a); each grade also repeats Map and Globe Skills / Information Processing Skills with proficiency levels (Introduced, Developing, Mastery, Apply and Improve Mastered Skills) and grades 6-8 repeat the RHSS/WHST literacy standards. High School (09-12): shared RHSS/WHST literacy standards for 9-10 and 11-12 (backup), then one Course row per HS course (course title = Full Statement, e.g. 'United States History', 'World History', 'American Government/Civics', 'Personal Finance and Economics') whose Cluster/Domain/Topic rows, Content Standards (SS... codes) and Elements belong to that course until the next Course row; some older courses use numbered 'Standard' items. Finally a '**Deprecated**' Grade Level with the replaced Economics course (backup). No examples/teacher notes exist in this export.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Header row of CSV export"
+  },
+  {
+   "units": "u2-u14",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 skills chart: Map and Globe Skills K-12"
+  },
+  {
+   "units": "u15-u32",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 skills chart: Information Processing Skills K-12"
+  },
+  {
+   "units": "u33",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Band header: Elementary Social Studies K-5"
+  },
+  {
+   "units": "u34",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K course row: Social Studies/Grade K"
+  },
+  {
+   "units": "u35-u63",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Historical Understandings"
+  },
+  {
+   "units": "u64-u70",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Geographic Understandings"
+  },
+  {
+   "units": "u71-u75",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Government/Civic Understandings"
+  },
+  {
+   "units": "u76-u82",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Economic Understandings"
+  },
+  {
+   "units": "u83-u84",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Map and Globe Skills"
+  },
+  {
+   "units": "u85-u88",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Information Processing Skills"
+  },
+  {
+   "units": "u89",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 course row: Social Studies/Grade 1"
+  },
+  {
+   "units": "u90-u93",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Historical Understandings"
+  },
+  {
+   "units": "u94-u104",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geographic Understandings"
+  },
+  {
+   "units": "u105-u107",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Government/Civic Understandings"
+  },
+  {
+   "units": "u108-u112",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economic Understandings"
+  },
+  {
+   "units": "u113-u116",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Map and Globe Skills K-12"
+  },
+  {
+   "units": "u117-u124",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Information Processing Skills"
+  },
+  {
+   "units": "u125",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 course row: Social Studies/Grade 2"
+  },
+  {
+   "units": "u126-u135",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Historical Understandings"
+  },
+  {
+   "units": "u136-u144",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geographic Understandings"
+  },
+  {
+   "units": "u145-u151",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Government/Civic Understandings"
+  },
+  {
+   "units": "u152-u156",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economic Understandings"
+  },
+  {
+   "units": "u157-u163",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Map and Globe Skills K-12"
+  },
+  {
+   "units": "u164-u174",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Information Processing Skills K-12"
+  },
+  {
+   "units": "u175",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 course row: Social Studies/Grade 3"
+  },
+  {
+   "units": "u176-u188",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Historical Understandings"
+  },
+  {
+   "units": "u189-u197",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geographic Understandings"
+  },
+  {
+   "units": "u198-u205",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Government/Civic Understandings"
+  },
+  {
+   "units": "u206-u218",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economic Understandings"
+  },
+  {
+   "units": "u219-u227",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Map and Globe Skills K-12"
+  },
+  {
+   "units": "u228-u241",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Information Processing Skills K-12"
+  },
+  {
+   "units": "u242",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 course row: Social Studies/Grade 4"
+  },
+  {
+   "units": "u243-u268",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Historical Understandings"
+  },
+  {
+   "units": "u269-u275",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geographic Understandings"
+  },
+  {
+   "units": "u276-u285",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Government/Civic Understandings"
+  },
+  {
+   "units": "u286-u294",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economic Understandings"
+  },
+  {
+   "units": "u295-u306",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Map and Globe Skills K-12"
+  },
+  {
+   "units": "u307-u324",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Information Processing Skills K-12"
+  },
+  {
+   "units": "u325",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 course row: Social Studies/Grade 5"
+  },
+  {
+   "units": "u326-u359",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Historical Understandings"
+  },
+  {
+   "units": "u360-u365",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geographic Understandings"
+  },
+  {
+   "units": "u366-u374",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Government/Civic Understandings"
+  },
+  {
+   "units": "u375-u390",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economic Understandings"
+  },
+  {
+   "units": "u391-u402",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Map and Globe Skills K-12"
+  },
+  {
+   "units": "u403-u420",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Information Processing Skills K-12"
+  },
+  {
+   "units": "u421",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Band header: Middle School Social Studies 6-8"
+  },
+  {
+   "units": "u422",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 course row: Social Studies/Grade 6"
+  },
+  {
+   "units": "u423",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Latin America and Canada"
+  },
+  {
+   "units": "u424-u430",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Latin America and Canada > Historical Understandings"
+  },
+  {
+   "units": "u431-u447",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Latin America and Canada > Geographic Understandings"
+  },
+  {
+   "units": "u448-u453",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Latin America and Canada > Government/Civic Understandings"
+  },
+  {
+   "units": "u454-u484",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Latin America and Canada > Economic Understandings"
+  },
+  {
+   "units": "u485",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Europe"
+  },
+  {
+   "units": "u486-u490",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Europe > Historical Understandings"
+  },
+  {
+   "units": "u491-u503",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Europe > Geographic Understandings"
+  },
+  {
+   "units": "u504-u507",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Europe > Government/Civic Understandings"
+  },
+  {
+   "units": "u508-u523",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Europe > Economic Understandings"
+  },
+  {
+   "units": "u524",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Australia"
+  },
+  {
+   "units": "u525-u526",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Australia > Historical Understandings"
+  },
+  {
+   "units": "u527-u531",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Australia > Geographic Understandings"
+  },
+  {
+   "units": "u532-u534",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Australia > Government/Civic Understandings"
+  },
+  {
+   "units": "u535-u554",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Australia > Economic Understandings"
+  },
+  {
+   "units": "u555",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8"
+  },
+  {
+   "units": "u556-u559",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Key Ideas and Details"
+  },
+  {
+   "units": "u560-u563",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Craft and Structure"
+  },
+  {
+   "units": "u564-u567",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Integration of Knowledge and Ideas"
+  },
+  {
+   "units": "u568-u569",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Range of Reading and Level of Text Complexity"
+  },
+  {
+   "units": "u570",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8"
+  },
+  {
+   "units": "u571-u585",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Text Types and Purposes"
+  },
+  {
+   "units": "u586-u589",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Production and Distribution of Writing"
+  },
+  {
+   "units": "u590-u593",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Research to Build and Present Knowledge"
+  },
+  {
+   "units": "u594-u595",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 6 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Range of Writing"
+  },
+  {
+   "units": "u596-u613",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Information Processing Skills"
+  },
+  {
+   "units": "u614-u626",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Map and Globe Skills"
+  },
+  {
+   "units": "u627",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 course row: Social Studies/Grade 7"
+  },
+  {
+   "units": "u628",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Africa"
+  },
+  {
+   "units": "u629-u633",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Africa > Historical Understandings"
+  },
+  {
+   "units": "u634-u646",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Africa > Geographic Understandings"
+  },
+  {
+   "units": "u647-u653",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Africa > Government/Civic Understandings"
+  },
+  {
+   "units": "u654-u668",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Africa > Economic Understandings"
+  },
+  {
+   "units": "u669",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia (Middle East)"
+  },
+  {
+   "units": "u670-u675",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia (Middle East) > Historical Understandings"
+  },
+  {
+   "units": "u676-u679",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia (Middle East) > Government/Civic Understandings"
+  },
+  {
+   "units": "u680-u691",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia (Middle East) > Geographic Understandings"
+  },
+  {
+   "units": "u692-u707",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southwest Asia (Middle East) > Economic Understandings"
+  },
+  {
+   "units": "u708",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southern and Eastern Asia"
+  },
+  {
+   "units": "u709-u715",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southern and Eastern Asia > Historical Understandings"
+  },
+  {
+   "units": "u716-u727",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southern and Eastern Asia > Geographic Understandings"
+  },
+  {
+   "units": "u728-u731",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southern and Eastern Asia > Government/Civic Understandings"
+  },
+  {
+   "units": "u732-u751",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Southern and Eastern Asia > Economic Understandings"
+  },
+  {
+   "units": "u752",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8"
+  },
+  {
+   "units": "u753-u756",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Key Ideas and Details"
+  },
+  {
+   "units": "u757-u760",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Craft and Structure"
+  },
+  {
+   "units": "u761-u764",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Integration of Knowledge and Ideas"
+  },
+  {
+   "units": "u765-u766",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Range of Reading and Level of Text Complexity"
+  },
+  {
+   "units": "u767",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8"
+  },
+  {
+   "units": "u768-u782",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Text Types and Purposes"
+  },
+  {
+   "units": "u783-u786",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Production and Distribution of Writing"
+  },
+  {
+   "units": "u787-u790",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Research to Build and Present Knowledge"
+  },
+  {
+   "units": "u791-u792",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 7 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Range of Writing"
+  },
+  {
+   "units": "u793-u810",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Information Processing Skills"
+  },
+  {
+   "units": "u811-u823",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Map and Globe Skills"
+  },
+  {
+   "units": "u824",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 course row: Social Studies/Grade 8"
+  },
+  {
+   "units": "u825",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Georgia Studies"
+  },
+  {
+   "units": "u826-u884",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Georgia Studies > Historical Understandings"
+  },
+  {
+   "units": "u885-u890",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Georgia Studies > Geographic Understandings"
+  },
+  {
+   "units": "u891-u917",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Georgia Studies > Government/Civic Understandings"
+  },
+  {
+   "units": "u918-u930",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Georgia Studies > Economic Understandings"
+  },
+  {
+   "units": "u931",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8"
+  },
+  {
+   "units": "u932-u935",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Key Ideas and Details"
+  },
+  {
+   "units": "u936-u939",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Craft and Structure"
+  },
+  {
+   "units": "u940-u943",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Integration of Knowledge and Ideas"
+  },
+  {
+   "units": "u944-u945",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 6-8 > Range of Reading and Level of Text Complexity"
+  },
+  {
+   "units": "u946",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8"
+  },
+  {
+   "units": "u947-u961",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Text Types and Purposes"
+  },
+  {
+   "units": "u962-u965",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Production and Distribution of Writing"
+  },
+  {
+   "units": "u966-u969",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Research to Build and Present Knowledge"
+  },
+  {
+   "units": "u970-u971",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Literacy in History/Social Studies (RHSS/WHST 6-8), copy in Grade 8 > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 6-8 > Range of Writing"
+  },
+  {
+   "units": "u972-u989",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Information Processing Skills"
+  },
+  {
+   "units": "u990-u1002",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Map and Globe Skills"
+  },
+  {
+   "units": "u1003",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Band header: High School Social Studies 9-12"
+  },
+  {
+   "units": "u1004",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > High School Literacy Standards"
+  },
+  {
+   "units": "u1005",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 9-10"
+  },
+  {
+   "units": "u1006-u1009",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 9-10 > Key Ideas and Details"
+  },
+  {
+   "units": "u1010-u1013",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 9-10 > Craft and Structure"
+  },
+  {
+   "units": "u1014-u1017",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 9-10 > Integration of Knowledge and Ideas"
+  },
+  {
+   "units": "u1018-u1019",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 9-10 > Range of Reading and Level of Text Complexity"
+  },
+  {
+   "units": "u1020",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 9-10"
+  },
+  {
+   "units": "u1021-u1035",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 9-10 > Text Types and Purposes"
+  },
+  {
+   "units": "u1036-u1039",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 9-10 > Production and Distribution of Writing"
+  },
+  {
+   "units": "u1040-u1043",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 9-10 > Research to Build and Present Knowledge"
+  },
+  {
+   "units": "u1044-u1045",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 9-10 > Range of Writing"
+  },
+  {
+   "units": "u1046",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 11-12"
+  },
+  {
+   "units": "u1047-u1050",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 11-12 > Key Ideas and Details"
+  },
+  {
+   "units": "u1051-u1054",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 11-12 > Craft and Structure"
+  },
+  {
+   "units": "u1055-u1058",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 11-12 > Integration of Knowledge and Ideas"
+  },
+  {
+   "units": "u1059-u1060",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Reading Standards for Literacy in History/Social Studies (RHSS) Grades 11-12 > Range of Reading and Level of Text Complexity"
+  },
+  {
+   "units": "u1061",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 11-12"
+  },
+  {
+   "units": "u1062-u1075",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 11-12 > Text Types and Purposes"
+  },
+  {
+   "units": "u1076-u1079",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 11-12 > Production and Distribution of Writing"
+  },
+  {
+   "units": "u1080-u1083",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 11-12 > Research to Build and Present Knowledge"
+  },
+  {
+   "units": "u1084-u1085",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "HS literacy standards (CCSS RH/WHST) > Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects (WHST) Grades 11-12 > Range of Writing"
+  },
+  {
+   "units": "u1086",
+   "grades": "9-12",
+   "course": "Comparative Religions",
+   "cat": "standards",
+   "section": "Comparative Religions: course title"
+  },
+  {
+   "units": "u1087",
+   "grades": "9-12",
+   "course": "Current Issues",
+   "cat": "standards",
+   "section": "Current Issues: course title"
+  },
+  {
+   "units": "u1088",
+   "grades": "9-12",
+   "course": "The Humanities/Social Studies",
+   "cat": "standards",
+   "section": "The Humanities/Social Studies: course title"
+  },
+  {
+   "units": "u1089",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology: course title"
+  },
+  {
+   "units": "u1090-u1102",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Psychology Foundations and Research"
+  },
+  {
+   "units": "u1103-u1130",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Biological Foundations"
+  },
+  {
+   "units": "u1131-u1146",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Change in Behavior and Cognition"
+  },
+  {
+   "units": "u1147-u1165",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Variability of Behavior among Individuals and Groups"
+  },
+  {
+   "units": "u1166-u1171",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Social Psychology"
+  },
+  {
+   "units": "u1172",
+   "grades": "9-12",
+   "course": "Sports in United States Society",
+   "cat": "standards",
+   "section": "Sports in United States Society: course title"
+  },
+  {
+   "units": "u1173-u1210",
+   "grades": "9-12",
+   "course": "Sports in United States Society",
+   "cat": "standards",
+   "section": "Sports in United States Society"
+  },
+  {
+   "units": "u1211",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology: course title"
+  },
+  {
+   "units": "u1212-u1217",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Anthropology"
+  },
+  {
+   "units": "u1218-u1219",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Archaeology"
+  },
+  {
+   "units": "u1220-u1221",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Archaeological Techniques"
+  },
+  {
+   "units": "u1222-u1225",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Physical Anthropology"
+  },
+  {
+   "units": "u1226-u1227",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Culture"
+  },
+  {
+   "units": "u1228-u1229",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Ethnology"
+  },
+  {
+   "units": "u1230-u1232",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology > Cultural Anthropology"
+  },
+  {
+   "units": "u1233",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology: course title"
+  },
+  {
+   "units": "u1234-u1247",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Foundations and Research"
+  },
+  {
+   "units": "u1248-u1262",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Culture and Social Structure"
+  },
+  {
+   "units": "u1263-u1285",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Socialization and Social Control"
+  },
+  {
+   "units": "u1286-u1296",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Social Inequities and Change"
+  },
+  {
+   "units": "u1297",
+   "grades": "9-12",
+   "course": "Ethnic Studies",
+   "cat": "standards",
+   "section": "Ethnic Studies: course title"
+  },
+  {
+   "units": "u1298",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory: course title"
+  },
+  {
+   "units": "u1299-u1300",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Evolution of Legal System"
+  },
+  {
+   "units": "u1301-u1302",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Definition of terms"
+  },
+  {
+   "units": "u1303-u1304",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Influences on American Government"
+  },
+  {
+   "units": "u1305-u1306",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > English Law"
+  },
+  {
+   "units": "u1307-u1308",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Colonial Government"
+  },
+  {
+   "units": "u1309-u1310",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > American Revolution and Articles of Confederation"
+  },
+  {
+   "units": "u1311-u1312",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Fundamental Principles"
+  },
+  {
+   "units": "u1313-u1314",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Executive, Legislative, Judicial Branches of Government"
+  },
+  {
+   "units": "u1315-u1316",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Court System"
+  },
+  {
+   "units": "u1317-u1318",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Supreme Court"
+  },
+  {
+   "units": "u1319-u1320",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > State and Local Courts"
+  },
+  {
+   "units": "u1321-u1323",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Judicial Review"
+  },
+  {
+   "units": "u1324-u1325",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Criminal and civil laws"
+  },
+  {
+   "units": "u1326-u1327",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Juvenile and Adult Laws"
+  },
+  {
+   "units": "u1328-u1329",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Contract and Property Rights"
+  },
+  {
+   "units": "u1330-u1331",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Torts"
+  },
+  {
+   "units": "u1332-u1333",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > FCL"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Constitutional Protections"
+  },
+  {
+   "units": "u1336-u1337",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Rights of the individual"
+  },
+  {
+   "units": "u1338-u1339",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Court Procedures"
+  },
+  {
+   "units": "u1340-u1341",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Protection of Individual Rights"
+  },
+  {
+   "units": "u1342-u1343",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Legal Precedents"
+  },
+  {
+   "units": "u1344-u1345",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Constitutional Cases"
+  },
+  {
+   "units": "u1346-u1347",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Minority Rights, Suffrage"
+  },
+  {
+   "units": "u1348-u1349",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Individual Rights"
+  },
+  {
+   "units": "u1350-u1351",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Branches of U. S. Government"
+  },
+  {
+   "units": "u1352-u1353",
+   "grades": "9-12",
+   "course": "Constitutional Theory",
+   "cat": "standards",
+   "section": "Constitutional Theory > Influences of the News Media"
+  },
+  {
+   "units": "u1354",
+   "grades": "9-12",
+   "course": "The Individual and the Law",
+   "cat": "standards",
+   "section": "The Individual and the Law: course title"
+  },
+  {
+   "units": "u1355",
+   "grades": "9-12",
+   "course": "American Government/Civics",
+   "cat": "standards",
+   "section": "American Government/Civics: course title"
+  },
+  {
+   "units": "u1356-u1437",
+   "grades": "9-12",
+   "course": "American Government/Civics",
+   "cat": "standards",
+   "section": "American Government/Civics"
+  },
+  {
+   "units": "u1438",
+   "grades": "9-12",
+   "course": "Introduction to U.S. Intelligence and National Security Studies",
+   "cat": "standards",
+   "section": "Introduction to U.S. Intelligence and National Security Studies: course title"
+  },
+  {
+   "units": "u1439-u1474",
+   "grades": "9-12",
+   "course": "Introduction to U.S. Intelligence and National Security Studies",
+   "cat": "standards",
+   "section": "Introduction to U.S. Intelligence and National Security Studies"
+  },
+  {
+   "units": "u1475",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics: course title"
+  },
+  {
+   "units": "u1476-u1492",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics > Fundamentals of Economic Decision-Making"
+  },
+  {
+   "units": "u1493-u1545",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics > Personal Finance"
+  },
+  {
+   "units": "u1546-u1555",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics > Microeconomics"
+  },
+  {
+   "units": "u1556-u1563",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics > International"
+  },
+  {
+   "units": "u1564-u1575",
+   "grades": "9-12",
+   "course": "Personal Finance and Economics",
+   "cat": "standards",
+   "section": "Personal Finance and Economics > Macroeconomics"
+  },
+  {
+   "units": "u1576",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems: course title"
+  },
+  {
+   "units": "u1577-u1578",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Political Systems"
+  },
+  {
+   "units": "u1579-u1580",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Economic Systems"
+  },
+  {
+   "units": "u1581-u1582",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Political and Economic Development"
+  },
+  {
+   "units": "u1583-u1584",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Democratic Ideology"
+  },
+  {
+   "units": "u1585-u1586",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Forms of Democracy"
+  },
+  {
+   "units": "u1587-u1588",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Democratic Societies"
+  },
+  {
+   "units": "u1589-u1592",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Democratic Systems"
+  },
+  {
+   "units": "u1593-u1594",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Development and Expansion"
+  },
+  {
+   "units": "u1595-u1600",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Authoritarian Regimes"
+  },
+  {
+   "units": "u1601-u1602",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Capitalism"
+  },
+  {
+   "units": "u1603-u1606",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Private Enterprise System"
+  },
+  {
+   "units": "u1607-u1611",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Socialist System"
+  },
+  {
+   "units": "u1612-u1615",
+   "grades": "9-12",
+   "course": "Comparative Political/Economic Systems",
+   "cat": "standards",
+   "section": "Comparative Political/Economic Systems > Countries in Transition"
+  },
+  {
+   "units": "u1616",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "Personal Financial Literacy: course title"
+  },
+  {
+   "units": "u1617-u1688",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "Personal Financial Literacy"
+  },
+  {
+   "units": "u1689",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: course title"
+  },
+  {
+   "units": "u1690-u1699",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Physical Geography"
+  },
+  {
+   "units": "u1700-u1706",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Cultural Geography"
+  },
+  {
+   "units": "u1707-u1712",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Political Geography"
+  },
+  {
+   "units": "u1713-u1718",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Population Geography"
+  },
+  {
+   "units": "u1719-u1725",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Environmental Geography"
+  },
+  {
+   "units": "u1726-u1732",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography > Economic Geography"
+  },
+  {
+   "units": "u1733",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies: course title"
+  },
+  {
+   "units": "u1734-u1744",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asia"
+  },
+  {
+   "units": "u1745-u1747",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Civilizations"
+  },
+  {
+   "units": "u1748-u1749",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Politics"
+  },
+  {
+   "units": "u1750-u1751",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Economic Development"
+  },
+  {
+   "units": "u1752-u1753",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Oil"
+  },
+  {
+   "units": "u1754-u1755",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Cultures"
+  },
+  {
+   "units": "u1756-u1757",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Influence of Religion"
+  },
+  {
+   "units": "u1758-u1759",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > World’s Greatest Religions"
+  },
+  {
+   "units": "u1760-u1761",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Asian Studies > Asian Religions"
+  },
+  {
+   "units": "u1762",
+   "grades": "9-12",
+   "course": "Latin American Studies",
+   "cat": "standards",
+   "section": "Latin American Studies: course title"
+  },
+  {
+   "units": "u1763",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History: course title"
+  },
+  {
+   "units": "u1764-u1879",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "United States History"
+  },
+  {
+   "units": "u1880",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History: course title"
+  },
+  {
+   "units": "u1881-u1985",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "World History"
+  },
+  {
+   "units": "u1986",
+   "grades": "9-12",
+   "course": "History and Literature of the Old Testament",
+   "cat": "standards",
+   "section": "History and Literature of the Old Testament: course title"
+  },
+  {
+   "units": "u1987",
+   "grades": "9-12",
+   "course": "History and Literature of the New Testament",
+   "cat": "standards",
+   "section": "History and Literature of the New Testament: course title"
+  },
+  {
+   "units": "u1988",
+   "grades": "9-12",
+   "course": "United States and World Affairs",
+   "cat": "standards",
+   "section": "United States and World Affairs: course title"
+  },
+  {
+   "units": "u1989",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Deprecated items (header)"
+  },
+  {
+   "units": "u1990-u2085",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Deprecated Economics course items"
+  }
+ ],
+ "issues": [
+  "u2-u32: Top-level 'Map and Globe Skills K-12' and 'Information Processing Skills K-12' charts (Ed. Level KG-12) labeled grades K-12 standards, copied to every grade.",
+  "u84-u86 and similar skill blocks nested inside each K-5 grade (Domain/Skill rows 'Map and Globe Skills', 'Information Processing Skills'): Ed. Level on these rows says KG-12 (some rows say KG, 01, etc.) but each item carries a grade-specific proficiency tag such as (Introduced), (Developing), (Mastery), (Apply and Improve Mastered Skills); labeled with the enclosing grade (K,1,2,3,4,5) rather than K-12. Examples: u84-u88 (K), u113-u124 (1), u157-u173 (2), u219-u241 (3), u295-u324 (4), u391-u420 (5).",
+  "Grade 6, 7, 8 course sections each repeat the identical 6-8 RHSS/WHST literacy standards (Ed. Level 06-08): u555-u595 (grade 6), u752-u792 (grade 7), u931-u971 (grade 8). Labeled backup with the enclosing grade (6, 7, 8 respectively) instead of 6-8 so copies are not triplicated in each grade; the CASE rows themselves mark Ed. Level 06-08.",
+  "Grade 6-8 Information Processing Skills and Map and Globe Skills domains (u596-u626, u793-u823, u972-u1002) carry Ed. Level of a single grade (06, 07, 08) and are labeled with that grade as standards.",
+  "u1003-u1085: High School Literacy Standards (RHSS/WHST, CCSS-based) are shared HS literacy content with no course; labeled backup, course null, grades 9-10 (u1005-u1045) and 11-12 (u1046-u1085); u1003 (band header) standards 9-12 and u1004 (cluster title) backup 9-12.",
+  "u1086, u1087, u1088, u1297, u1354, u1762, u1986, u1987, u1988: HS Course rows with no child standards in this CASE export (Comparative Religions, Current Issues, The Humanities/Social Studies, Ethnic Studies, The Individual and the Law, Latin American Studies, History and Literature of the Old Testament, History and Literature of the New Testament, United States and World Affairs); only the course title row is labeled.",
+  "u1482-u1491: Ed. Level field is missing (the Ed. Level column is empty so the row shows only the date) for Personal Finance and Economics SSEF2-SSEF4 rows; grade 9-12 inferred from the enclosing course.",
+  "u1213-u1217, u1578-u1615, u1735-u1761: Anthropology, Comparative Political/Economic Systems and Asian Studies standards are old-style numbered 'Standard' items (e.g. '1. Defines Anthropology.'); numbering in Asian Studies (u1735-u1761) is non-sequential across clusters (1,2,3,6,7,8,11,...) as exported.",
+  "u1339: Human Code and statement run together ('CT21CTPExamines | the relationship of court procedure...'); extraction/data-entry error in the source CSV, labeled as a standard of Constitutional Theory.",
+  "u1332: Topic row 'FCL | Family and Consumer Laws' has the Human Code and title merged into the title position in the source.",
+  "u1173-u1210 (Sports in United States Society): codes use 'SSSUSSl' (lowercase L) and 'Ill' for III in the text (e.g. u1189) as in the source.",
+  "u1989-u2085: Deprecated item types ('Deprecated' Economics course replaced by Personal Finance and Economics, SSEF/SSEMI/SSEMA/SSEIN/SSEPF codes) labeled backup, grades 9-12, course null, per state guide.",
+  "Course titles taken from the Course row's Full Statement: 'Personal Finance and Economics' (u1475-u1575) contains domains Fundamentals of Economic Decision-Making, Personal Finance, Microeconomics, International, Macroeconomics as in the document; 'American Government/Civics' (u1355-u1437) has standards SSCG1-SSCG18 directly under the course (no cluster rows).",
+  "State guide says Ed. Level 'KG-12' skills charts apply to the grades marked; K-8 grade-section copies were assigned to their parent grade (see above). Grade 9-12 skills copies do not exist in this export.",
+  "u421: Grade Level row 'Middle School Social Studies 6-8' and u33 'Elementary Social Studies K-5' and u1003 'High School Social Studies 9-12' are band header rows labeled standards for their band (K-5, 6-8, 9-12)."
+ ]
+}

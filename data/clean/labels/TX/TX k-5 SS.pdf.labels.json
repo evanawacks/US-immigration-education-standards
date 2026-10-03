@@ -1,0 +1,229 @@
+{
+ "state": "TX",
+ "file": "TX k-5 SS.pdf",
+ "structure": "Texas Administrative Code Ch. 113 Subchapter A (Elementary). One section per grade: \u00a7113.11 Kindergarten, \u00a7113.12-113.16 Grades 1-5, 'Adopted 2022'. Each section: heading, (a) Implementation, (b) Introduction with numbered paragraphs (1)-(8) (grade overview, resources, strands, free enterprise, Celebrate Freedom Week, etc.), (c) Knowledge and skills = numbered TEKS (1)..(n) with strand name (History, Geography, Economics, Government, Citizenship, Culture, Science technology and society, Social studies skills) and 'The student is expected to:' sub-items (A), (B)...; trailing 'Source:' note. Grade comes from the section heading; skills strands are repeated in each grade section so each copy gets its own grade.",
+ "labels": [
+  {
+   "units": "u3-u5",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Chapter 113 / Subchapter A titles and statutory authority"
+  },
+  {
+   "units": "u6",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.11. Grade K > section heading/title"
+  },
+  {
+   "units": "u7",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.11. Grade K > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u8-u16",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.11. Grade K > (b) Introduction"
+  },
+  {
+   "units": "u21-u75",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.11. Grade K > (c) Knowledge and skills"
+  },
+  {
+   "units": "u76",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.11. Grade K > Source note"
+  },
+  {
+   "units": "u81",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.12. Grade 1 > section heading/title"
+  },
+  {
+   "units": "u82",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.12. Grade 1 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u83-u91",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.12. Grade 1 > (b) Introduction"
+  },
+  {
+   "units": "u92-u170",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.12. Grade 1 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u171",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.12. Grade 1 > Source note"
+  },
+  {
+   "units": "u172",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.13. Grade 2 > section heading/title"
+  },
+  {
+   "units": "u173",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.13. Grade 2 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u174-u186",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.13. Grade 2 > (b) Introduction"
+  },
+  {
+   "units": "u187-u259",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.13. Grade 2 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u260",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.13. Grade 2 > Source note"
+  },
+  {
+   "units": "u265",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.14. Grade 3 > section heading/title"
+  },
+  {
+   "units": "u266",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.14. Grade 3 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u267-u282",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.14. Grade 3 > (b) Introduction"
+  },
+  {
+   "units": "u283-u354",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.14. Grade 3 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u355",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.14. Grade 3 > Source note"
+  },
+  {
+   "units": "u356",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.15. Grade 4 > section heading/title"
+  },
+  {
+   "units": "u357",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.15. Grade 4 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u362-u376",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.15. Grade 4 > (b) Introduction"
+  },
+  {
+   "units": "u377-u488",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.15. Grade 4 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u489",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.15. Grade 4 > Source note"
+  },
+  {
+   "units": "u490",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.16. Grade 5 > section heading/title"
+  },
+  {
+   "units": "u491",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.16. Grade 5 > (a) Implementation/General requirements"
+  },
+  {
+   "units": "u492-u507",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "\u00a7113.16. Grade 5 > (b) Introduction"
+  },
+  {
+   "units": "u508-u647",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "\u00a7113.16. Grade 5 > (c) Knowledge and skills"
+  },
+  {
+   "units": "u648",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.16. Grade 5 > Source note"
+  }
+ ],
+ "issues": [
+  "(b) Introduction paragraphs (units from each '(b) Introduction.' to before '(c) Knowledge and skills.') labeled examples per state guide, including mandate-like paragraphs (Celebrate Freedom Week (7)(A)-(B) in Grades 3-5, e.g. u274-u281, u369-u375, u504-u506, and the free-enterprise/constitutional-republic statements); they could arguably be backup.",
+  "Grade 5 (u514-u621): sub-item labels (A)/(B)/(C) are separated from their text and sometimes swapped in extraction (e.g. u518-u521, u546-u551, u556-u560, u565-u566, u577-u583, u589-u590, u595-u596, u604-u607, u613-u616, u618-u621); text order is garbled but each unit is within the same TEKS so grade/category are unaffected.",
+  "u276-u281: Declaration of Independence quotation split across page break (u276 to u281)."
+ ]
+}

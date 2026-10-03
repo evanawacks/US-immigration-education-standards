@@ -1,0 +1,2623 @@
+{
+ "state": "DC",
+ "file": "DC Standards in English.pdf",
+ "structure": "Single English PDF (2023 DC K-12 Social Studies Standards). Front matter (cover, TOC, OSSE message, role and organization of the standards), then 'Statements of Practice for Social Studies' (pp. 6-10: Inquiry Arc, History, Civics/Government/Human Rights, Geography, Economics competencies; K-12 skills, two-column page layout extracted in scrambled order). Content is organized as a grade/course overview page (table cell with title, theme and narrative, plus page-number cell), then pages of Driving Concepts. Each Driving Concept = heading 'Driving Concept N: title', a narrative description ('In this driving concept, students will...'), and numbered standards. Codes: K.1-K.27 (kindergarten), 1.1-1.35, 2.1-2.32, 3.1-3.42, 4.1-4.54, 5.1-5.56, 6.1-6.68, 7.1-7.80, 8.1-8.67 (grade level, numbering continuous across driving concepts); high school courses use prefixes WH1.n (World History I), WH2.n (World History II), US2.n (US History II: Reconstruction through the Present; 'US.56' is a typo for US2.56), GC.n (Government and Civics), DC.n (District of Columbia History and Government). Grade bands K-2, 3-5, 6-8, 9-12 appear as heading cells above the grade overview. Running headers inside the units (x~754) repeat the grade/course title and are labeled standards (title). Narrative driving-concept descriptions and grade/course overview narratives are labeled examples; no separate example/teacher-note blocks exist. Some units mix the last standard of one driving concept with the next driving concept heading or the 'STANDARD:' marker; those are labeled standards. High school courses are not tied to a single grade (9-12) and use the course title as written. Acknowledgements and back cover are backup.",
+ "labels": [
+  {
+   "units": "u1-u38",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, table of contents, message from OSSE, role and organization of the standards"
+  },
+  {
+   "units": "u41-u42",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u43-u45",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u46",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u47-u58",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u59",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u60-u74",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u75",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u76-u87",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u88",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u89-u103",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u104",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Statements of Practice: intro text / repeated page header"
+  },
+  {
+   "units": "u105-u116",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Statements of Practice for Social Studies (disciplinary competencies; scrambled two-column order)"
+  },
+  {
+   "units": "u119",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade band heading K-2"
+  },
+  {
+   "units": "u120",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community: grade/course overview narrative"
+  },
+  {
+   "units": "u121",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Myself and My Community: page number"
+  },
+  {
+   "units": "u122",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 1: Working Together"
+  },
+  {
+   "units": "u123",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community: grade/course title (running header)"
+  },
+  {
+   "units": "u124",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 1: Working Together: driving concept description"
+  },
+  {
+   "units": "u126-u133",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 1: Working Together"
+  },
+  {
+   "units": "u134",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 2: Showing Why History Matters: driving concept description"
+  },
+  {
+   "units": "u136-u140",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 2: Showing Why History Matters"
+  },
+  {
+   "units": "u143",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 3: Who are We?"
+  },
+  {
+   "units": "u144",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community: grade/course title (running header)"
+  },
+  {
+   "units": "u145",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 3: Who are We?: driving concept description"
+  },
+  {
+   "units": "u147-u151",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 3: Who are We?"
+  },
+  {
+   "units": "u152",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 4: Where I Live"
+  },
+  {
+   "units": "u153",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 4: Where I Live: driving concept description"
+  },
+  {
+   "units": "u155-u158",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 4: Where I Live"
+  },
+  {
+   "units": "u161",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 5: Meeting Community Needs"
+  },
+  {
+   "units": "u162",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community: grade/course title (running header)"
+  },
+  {
+   "units": "u163",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 5: Meeting Community Needs: driving concept description"
+  },
+  {
+   "units": "u165-u169",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community > Driving Concept 5: Meeting Community Needs"
+  },
+  {
+   "units": "u172",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Working and Building Together: grade/course overview narrative"
+  },
+  {
+   "units": "u173",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Working and Building Together: page number"
+  },
+  {
+   "units": "u174",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 1: Building a Community"
+  },
+  {
+   "units": "u175",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together: grade/course title (running header)"
+  },
+  {
+   "units": "u176",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Working and Building Together > Driving Concept 1: Building a Community: driving concept description"
+  },
+  {
+   "units": "u178-u192",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 1: Building a Community"
+  },
+  {
+   "units": "u195",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 2: In This Space"
+  },
+  {
+   "units": "u196",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together: grade/course title (running header)"
+  },
+  {
+   "units": "u197",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Working and Building Together > Driving Concept 2: In This Space: driving concept description"
+  },
+  {
+   "units": "u199-u207",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 2: In This Space"
+  },
+  {
+   "units": "u208",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Working and Building Together > Driving Concept 3: My Community Then and Now: driving concept description"
+  },
+  {
+   "units": "u210-u215",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 3: My Community Then and Now"
+  },
+  {
+   "units": "u218",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 4: Meeting a Community’s Needs"
+  },
+  {
+   "units": "u219",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together: grade/course title (running header)"
+  },
+  {
+   "units": "u220",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Working and Building Together > Driving Concept 4: Meeting a Community’s Needs: driving concept description"
+  },
+  {
+   "units": "u222-u226",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Working and Building Together > Driving Concept 4: Meeting a Community’s Needs"
+  },
+  {
+   "units": "u229",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World: grade/course overview narrative"
+  },
+  {
+   "units": "u230",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: This Wide World: page number"
+  },
+  {
+   "units": "u231",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 1: Understanding Ourselves in the Larger World"
+  },
+  {
+   "units": "u232",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World: grade/course title (running header)"
+  },
+  {
+   "units": "u233",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World > Driving Concept 1: Understanding Ourselves in the Larger World: driving concept description"
+  },
+  {
+   "units": "u235-u241",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 1: Understanding Ourselves in the Larger World"
+  },
+  {
+   "units": "u242",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 2: First Ancient Civilizations"
+  },
+  {
+   "units": "u243",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World > Driving Concept 2: First Ancient Civilizations: driving concept description"
+  },
+  {
+   "units": "u245-u252",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 2: First Ancient Civilizations"
+  },
+  {
+   "units": "u253",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World: grade/course title (running header)"
+  },
+  {
+   "units": "u254-u255",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 2: First Ancient Civilizations"
+  },
+  {
+   "units": "u256",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 3: Innovations of Long Ago"
+  },
+  {
+   "units": "u257",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World > Driving Concept 3: Innovations of Long Ago: driving concept description"
+  },
+  {
+   "units": "u259-u265",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 3: Innovations of Long Ago"
+  },
+  {
+   "units": "u268",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 4: Kingdoms, Cities and Communities"
+  },
+  {
+   "units": "u269",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World: grade/course title (running header)"
+  },
+  {
+   "units": "u270",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World > Driving Concept 4: Kingdoms, Cities and Communities: driving concept description"
+  },
+  {
+   "units": "u272-u277",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 4: Kingdoms, Cities and Communities"
+  },
+  {
+   "units": "u278",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 5: Our World Today"
+  },
+  {
+   "units": "u279",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: This Wide World > Driving Concept 5: Our World Today: driving concept description"
+  },
+  {
+   "units": "u281-u284",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: This Wide World > Driving Concept 5: Our World Today"
+  },
+  {
+   "units": "u287",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade band heading 3-5"
+  },
+  {
+   "units": "u288",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia: grade/course overview narrative"
+  },
+  {
+   "units": "u289",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia: page number"
+  },
+  {
+   "units": "u290",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 1: Changing Geography of Washington, DC"
+  },
+  {
+   "units": "u291",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia: grade/course title (running header)"
+  },
+  {
+   "units": "u292",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 1: Changing Geography of Washington, DC: driving concept description"
+  },
+  {
+   "units": "u294-u303",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 1: Changing Geography of Washington, DC"
+  },
+  {
+   "units": "u304",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 2: Shaping the Early History of Washington, DC"
+  },
+  {
+   "units": "u305",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 2: Shaping the Early History of Washington, DC: driving concept description"
+  },
+  {
+   "units": "u307-u311",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 2: Shaping the Early History of Washington, DC"
+  },
+  {
+   "units": "u312",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia: grade/course title (running header)"
+  },
+  {
+   "units": "u313-u315",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 2: Shaping the Early History of Washington, DC"
+  },
+  {
+   "units": "u316",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 3: Building the Capital City: driving concept description"
+  },
+  {
+   "units": "u318-u324",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 3: Building the Capital City"
+  },
+  {
+   "units": "u325",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 4: The Evolving History of Washington, DC"
+  },
+  {
+   "units": "u326",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 4: The Evolving History of Washington, DC: driving concept description"
+  },
+  {
+   "units": "u328-u331",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 4: The Evolving History of Washington, DC"
+  },
+  {
+   "units": "u332",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia: grade/course title (running header)"
+  },
+  {
+   "units": "u333-u338",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 4: The Evolving History of Washington, DC"
+  },
+  {
+   "units": "u339",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 5: Today’s Washington, DC"
+  },
+  {
+   "units": "u340",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 5: Today’s Washington, DC: driving concept description"
+  },
+  {
+   "units": "u342-u352",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Geography, History, and Cultures of the District of Columbia > Driving Concept 5: Today’s Washington, DC"
+  },
+  {
+   "units": "u355",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations: grade/course overview narrative"
+  },
+  {
+   "units": "u356",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: American Foundations: page number"
+  },
+  {
+   "units": "u357",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u358",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 1: Early Societies in the Americas (13000 BCE to 1100 CE)"
+  },
+  {
+   "units": "u359-u360",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u361",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations > Driving Concept 1: Early Societies in the Americas (13000 BCE to 1100 CE): driving concept description"
+  },
+  {
+   "units": "u363-u369",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 1: Early Societies in the Americas (13000 BCE to 1100 CE)"
+  },
+  {
+   "units": "u372",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u373",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 2: Civilizations of the Americas (1100 CE to 1500 CE)"
+  },
+  {
+   "units": "u374",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u375",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations > Driving Concept 2: Civilizations of the Americas (1100 CE to 1500 CE): driving concept description"
+  },
+  {
+   "units": "u377-u383",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 2: Civilizations of the Americas (1100 CE to 1500 CE)"
+  },
+  {
+   "units": "u386",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u387",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 3: Europeans Enter the Americas (1400s-1500s)"
+  },
+  {
+   "units": "u388-u389",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u390",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations > Driving Concept 3: Europeans Enter the Americas (1400s-1500s): driving concept description"
+  },
+  {
+   "units": "u392-u397",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 3: Europeans Enter the Americas (1400s-1500s)"
+  },
+  {
+   "units": "u398",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations > Driving Concept 4: Life in the Colonies – Rebellions and the Roots of Revolution (1500s-1700s): driving concept description"
+  },
+  {
+   "units": "u400-u405",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 4: Life in the Colonies – Rebellions and the Roots of Revolution (1500s-1700s)"
+  },
+  {
+   "units": "u408",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u409",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 4: Life in the Colonies – Rebellions and the Roots of Revolution (1500s-1700s)"
+  },
+  {
+   "units": "u410",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u411-u419",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 4: Life in the Colonies – Rebellions and the Roots of Revolution (1500s-1700s)"
+  },
+  {
+   "units": "u422",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u423",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 5: The Creation of a New Nation – The American Revolution and Founding of the United States Government (1700s-1790s)"
+  },
+  {
+   "units": "u424-u425",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations: grade/course title (running header)"
+  },
+  {
+   "units": "u426",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: American Foundations > Driving Concept 5: The Creation of a New Nation – The American Revolution and Founding of the United States Government (1700s-1790s): driving concept description"
+  },
+  {
+   "units": "u428-u445",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: American Foundations > Driving Concept 5: The Creation of a New Nation – The American Revolution and Founding of the United States Government (1700s-1790s)"
+  },
+  {
+   "units": "u448",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course overview narrative"
+  },
+  {
+   "units": "u449",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Foundations of the Modern United States: page number"
+  },
+  {
+   "units": "u450",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course title (running header)"
+  },
+  {
+   "units": "u451",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 1: Inquiry in American History"
+  },
+  {
+   "units": "u452",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 1: Inquiry in American History: driving concept description"
+  },
+  {
+   "units": "u454-u459",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 1: Inquiry in American History"
+  },
+  {
+   "units": "u460",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 2: War and Conquest in the West: driving concept description"
+  },
+  {
+   "units": "u462-u467",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 2: War and Conquest in the West"
+  },
+  {
+   "units": "u470",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course title (running header)"
+  },
+  {
+   "units": "u471-u475",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 2: War and Conquest in the West"
+  },
+  {
+   "units": "u476",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 3: Enslavement and Resistance: driving concept description"
+  },
+  {
+   "units": "u478-u486",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 3: Enslavement and Resistance"
+  },
+  {
+   "units": "u489",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course title (running header)"
+  },
+  {
+   "units": "u490",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 4: Civil War"
+  },
+  {
+   "units": "u491",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 4: Civil War: driving concept description"
+  },
+  {
+   "units": "u493-u501",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 4: Civil War"
+  },
+  {
+   "units": "u502",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 5: Reconstruction and the Early Struggle for Equality: driving concept description"
+  },
+  {
+   "units": "u504-u507",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 5: Reconstruction and the Early Struggle for Equality"
+  },
+  {
+   "units": "u510",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course title (running header)"
+  },
+  {
+   "units": "u511-u513",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 5: Reconstruction and the Early Struggle for Equality"
+  },
+  {
+   "units": "u514",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 6: World War II and Postwar US: driving concept description"
+  },
+  {
+   "units": "u516-u520",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 6: World War II and Postwar US"
+  },
+  {
+   "units": "u523",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States: grade/course title (running header)"
+  },
+  {
+   "units": "u524",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 7: The Long Civil Rights Movement"
+  },
+  {
+   "units": "u525",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 7: The Long Civil Rights Movement: driving concept description"
+  },
+  {
+   "units": "u527-u534",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Foundations of the Modern United States > Driving Concept 7: The Long Civil Rights Movement"
+  },
+  {
+   "units": "u537",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade band heading 6-8"
+  },
+  {
+   "units": "u538",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography: grade/course overview narrative"
+  },
+  {
+   "units": "u539",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: World Geography: page number"
+  },
+  {
+   "units": "u540",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 1: The Power of Maps"
+  },
+  {
+   "units": "u541",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u542",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 1: The Power of Maps: driving concept description"
+  },
+  {
+   "units": "u544-u549",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 1: The Power of Maps"
+  },
+  {
+   "units": "u550",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 2: Africa: driving concept description"
+  },
+  {
+   "units": "u552-u560",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 2: Africa"
+  },
+  {
+   "units": "u561",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u562-u566",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 2: Africa"
+  },
+  {
+   "units": "u567",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 3: Asia: driving concept description"
+  },
+  {
+   "units": "u569-u581",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 3: Asia"
+  },
+  {
+   "units": "u582",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u583",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 3: Asia"
+  },
+  {
+   "units": "u584",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 4: South America and the Caribbean: driving concept description"
+  },
+  {
+   "units": "u586-u595",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 4: South America and the Caribbean"
+  },
+  {
+   "units": "u598",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 5: Europe"
+  },
+  {
+   "units": "u599",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u600",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 5: Europe: driving concept description"
+  },
+  {
+   "units": "u602-u609",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 5: Europe"
+  },
+  {
+   "units": "u612",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 6: North America"
+  },
+  {
+   "units": "u613",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u614",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 6: North America: driving concept description"
+  },
+  {
+   "units": "u616-u621",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 6: North America"
+  },
+  {
+   "units": "u622",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 7: Oceania: driving concept description"
+  },
+  {
+   "units": "u624-u631",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 7: Oceania"
+  },
+  {
+   "units": "u632",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography: grade/course title (running header)"
+  },
+  {
+   "units": "u633",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 7: Oceania"
+  },
+  {
+   "units": "u634",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 8: Thinking and Acting Globally"
+  },
+  {
+   "units": "u635",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: World Geography > Driving Concept 8: Thinking and Acting Globally: driving concept description"
+  },
+  {
+   "units": "u637-u643",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: World Geography > Driving Concept 8: Thinking and Acting Globally"
+  },
+  {
+   "units": "u646",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I: grade/course overview narrative"
+  },
+  {
+   "units": "u647",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: US History I: page number"
+  },
+  {
+   "units": "u648-u649",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 1: Indigenous Nations and Early European Colonization: Political, Social, and Economic Structures of the Americas in the 15th and 16th Century"
+  },
+  {
+   "units": "u650",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 1: Indigenous Nations and Early European Colonization: Political, Social, and Economic Structures of the Americas in the 15th and 16th Century: driving concept description"
+  },
+  {
+   "units": "u651-u664",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 1: Indigenous Nations and Early European Colonization: Political, Social, and Economic Structures of the Americas in the 15th and 16th Century"
+  },
+  {
+   "units": "u667-u668",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 2: Colonization and Revolution (1500-1783)"
+  },
+  {
+   "units": "u669-u670",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 2: Colonization and Revolution (1500-1783): driving concept description"
+  },
+  {
+   "units": "u671-u679",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 2: Colonization and Revolution (1500-1783)"
+  },
+  {
+   "units": "u680",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 3: A Newly Formed, Diverse Nation: Confederation to Constitution (1770s-1800s)"
+  },
+  {
+   "units": "u681",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 3: A Newly Formed, Diverse Nation: Confederation to Constitution (1770s-1800s): driving concept description"
+  },
+  {
+   "units": "u682-u698",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 3: A Newly Formed, Diverse Nation: Confederation to Constitution (1770s-1800s)"
+  },
+  {
+   "units": "u699",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 4: Invasion and Control: Conquest of the Nation (1800-1860)"
+  },
+  {
+   "units": "u700",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 4: Invasion and Control: Conquest of the Nation (1800-1860): driving concept description"
+  },
+  {
+   "units": "u701-u708",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 4: Invasion and Control: Conquest of the Nation (1800-1860)"
+  },
+  {
+   "units": "u711-u712",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 5: Emerging Social Movements (1800-1877)"
+  },
+  {
+   "units": "u713",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 5: Emerging Social Movements (1800-1877): driving concept description"
+  },
+  {
+   "units": "u714-u720",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 5: Emerging Social Movements (1800-1877)"
+  },
+  {
+   "units": "u721",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 6: The Civil War: driving concept description"
+  },
+  {
+   "units": "u722-u729",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 6: The Civil War"
+  },
+  {
+   "units": "u732-u733",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 7: Unresolved: The Reconstruction Era (1865-1877)"
+  },
+  {
+   "units": "u734",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: US History I > Driving Concept 7: Unresolved: The Reconstruction Era (1865-1877): driving concept description"
+  },
+  {
+   "units": "u735-u744",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: US History I > Driving Concept 7: Unresolved: The Reconstruction Era (1865-1877)"
+  },
+  {
+   "units": "u747",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics: grade/course overview narrative"
+  },
+  {
+   "units": "u748",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: Action Civics: page number"
+  },
+  {
+   "units": "u749",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 1: The Role of Government in Society"
+  },
+  {
+   "units": "u750",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u751",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 1: The Role of Government in Society: driving concept description"
+  },
+  {
+   "units": "u753-u760",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 1: The Role of Government in Society"
+  },
+  {
+   "units": "u761",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 2: How does the Government Function?: driving concept description"
+  },
+  {
+   "units": "u762-u769",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 2: How does the Government Function?"
+  },
+  {
+   "units": "u770",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u771-u778",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 2: How does the Government Function?"
+  },
+  {
+   "units": "u779",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 3: Media, Society, Government, and Digital Literacy"
+  },
+  {
+   "units": "u780",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 3: Media, Society, Government, and Digital Literacy: driving concept description"
+  },
+  {
+   "units": "u781-u791",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 3: Media, Society, Government, and Digital Literacy"
+  },
+  {
+   "units": "u794",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 4: Rights of the People"
+  },
+  {
+   "units": "u795",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u796",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 4: Rights of the People: driving concept description"
+  },
+  {
+   "units": "u798-u807",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 4: Rights of the People"
+  },
+  {
+   "units": "u808",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 5: Power and Access to Power in Society"
+  },
+  {
+   "units": "u809",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 5: Power and Access to Power in Society: driving concept description"
+  },
+  {
+   "units": "u810-u811",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 5: Power and Access to Power in Society"
+  },
+  {
+   "units": "u814",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u815-u821",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 5: Power and Access to Power in Society"
+  },
+  {
+   "units": "u822",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 6: Protest and Resistance"
+  },
+  {
+   "units": "u823",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 6: Protest and Resistance: driving concept description"
+  },
+  {
+   "units": "u824-u833",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 6: Protest and Resistance"
+  },
+  {
+   "units": "u836",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 7: Global Opportunities for Action"
+  },
+  {
+   "units": "u837",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u838",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Action Civics > Driving Concept 7: Global Opportunities for Action: driving concept description"
+  },
+  {
+   "units": "u839-u843",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Action Civics > Driving Concept 7: Global Opportunities for Action"
+  },
+  {
+   "units": "u846",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade band heading 9-12"
+  },
+  {
+   "units": "u847",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I: grade/course overview narrative"
+  },
+  {
+   "units": "u848",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "backup",
+   "section": "World History I: page number"
+  },
+  {
+   "units": "u849",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 1: The Beginnings of Human Communities (Up to 8000 BCE)"
+  },
+  {
+   "units": "u850",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I: grade/course title (running header)"
+  },
+  {
+   "units": "u851",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 1: The Beginnings of Human Communities (Up to 8000 BCE): driving concept description"
+  },
+  {
+   "units": "u852-u861",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 1: The Beginnings of Human Communities (Up to 8000 BCE)"
+  },
+  {
+   "units": "u862",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 2: Early Societies and Cities (10,000 BCE to 500 BCE)"
+  },
+  {
+   "units": "u863",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 2: Early Societies and Cities (10,000 BCE to 500 BCE): driving concept description"
+  },
+  {
+   "units": "u864-u869",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 2: Early Societies and Cities (10,000 BCE to 500 BCE)"
+  },
+  {
+   "units": "u870",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I: grade/course title (running header)"
+  },
+  {
+   "units": "u871-u876",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 2: Early Societies and Cities (10,000 BCE to 500 BCE)"
+  },
+  {
+   "units": "u877",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 3: Ancient Empires (800 BCE to 700 CE)"
+  },
+  {
+   "units": "u878",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 3: Ancient Empires (800 BCE to 700 CE): driving concept description"
+  },
+  {
+   "units": "u879-u888",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 3: Ancient Empires (800 BCE to 700 CE)"
+  },
+  {
+   "units": "u889",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I: grade/course title (running header)"
+  },
+  {
+   "units": "u890-u893",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 3: Ancient Empires (800 BCE to 700 CE)"
+  },
+  {
+   "units": "u894",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 4: Reorganization of Societies and Increasing Networks of Exchange (400-1200 CE)"
+  },
+  {
+   "units": "u895",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 4: Reorganization of Societies and Increasing Networks of Exchange (400-1200 CE): driving concept description"
+  },
+  {
+   "units": "u896-u904",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 4: Reorganization of Societies and Increasing Networks of Exchange (400-1200 CE)"
+  },
+  {
+   "units": "u907",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 5: Early Modern Empires (1000 CE-1600 CE)"
+  },
+  {
+   "units": "u908",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I: grade/course title (running header)"
+  },
+  {
+   "units": "u909",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 5: Early Modern Empires (1000 CE-1600 CE): driving concept description"
+  },
+  {
+   "units": "u910-u917",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 5: Early Modern Empires (1000 CE-1600 CE)"
+  },
+  {
+   "units": "u920",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 6: Analyzing Antiquity"
+  },
+  {
+   "units": "u921",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I: grade/course title (running header)"
+  },
+  {
+   "units": "u922",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I > Driving Concept 6: Analyzing Antiquity: driving concept description"
+  },
+  {
+   "units": "u924-u927",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I > Driving Concept 6: Analyzing Antiquity"
+  },
+  {
+   "units": "u930",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II: grade/course overview narrative"
+  },
+  {
+   "units": "u931",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "backup",
+   "section": "World History II: page number"
+  },
+  {
+   "units": "u932",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 1: Intraregional Interactions"
+  },
+  {
+   "units": "u933",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u934",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 1: Intraregional Interactions: driving concept description"
+  },
+  {
+   "units": "u936-u944",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 1: Intraregional Interactions"
+  },
+  {
+   "units": "u947",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 2: Convergence, Upheaval and Resistance (1400- 1750)"
+  },
+  {
+   "units": "u948",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u949",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 2: Convergence, Upheaval and Resistance (1400- 1750): driving concept description"
+  },
+  {
+   "units": "u951-u968",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 2: Convergence, Upheaval and Resistance (1400- 1750)"
+  },
+  {
+   "units": "u971",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 3: Cultural Shifts (1500-1750)"
+  },
+  {
+   "units": "u972",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u973",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 3: Cultural Shifts (1500-1750): driving concept description"
+  },
+  {
+   "units": "u975-u981",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 3: Cultural Shifts (1500-1750)"
+  },
+  {
+   "units": "u982",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 4: Empires and Power Structures (1500-1750): driving concept description"
+  },
+  {
+   "units": "u984-u991",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 4: Empires and Power Structures (1500-1750)"
+  },
+  {
+   "units": "u992",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u993-u1000",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 4: Empires and Power Structures (1500-1750)"
+  },
+  {
+   "units": "u1001",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 5: Revolutions (1750-1930): driving concept description"
+  },
+  {
+   "units": "u1003-u1013",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 5: Revolutions (1750-1930)"
+  },
+  {
+   "units": "u1014",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u1015-u1030",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 5: Revolutions (1750-1930)"
+  },
+  {
+   "units": "u1033",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 6: World Wars (1870-1945)"
+  },
+  {
+   "units": "u1034",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u1035",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 6: World Wars (1870-1945): driving concept description"
+  },
+  {
+   "units": "u1036-u1052",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 6: World Wars (1870-1945)"
+  },
+  {
+   "units": "u1055",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 7: Cold War, Decolonization and Nation Building"
+  },
+  {
+   "units": "u1056",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u1057",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 7: Cold War, Decolonization and Nation Building: driving concept description"
+  },
+  {
+   "units": "u1058-u1072",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 7: Cold War, Decolonization and Nation Building"
+  },
+  {
+   "units": "u1075",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u1076-u1081",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 7: Cold War, Decolonization and Nation Building"
+  },
+  {
+   "units": "u1084",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 8: Shifting power (1980s- Modern Era)"
+  },
+  {
+   "units": "u1085",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II: grade/course title (running header)"
+  },
+  {
+   "units": "u1086",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II > Driving Concept 8: Shifting power (1980s- Modern Era): driving concept description"
+  },
+  {
+   "units": "u1088-u1096",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II > Driving Concept 8: Shifting power (1980s- Modern Era)"
+  },
+  {
+   "units": "u1099",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present: grade/course overview narrative"
+  },
+  {
+   "units": "u1100",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "backup",
+   "section": "US History II: Reconstruction through the Present: page number"
+  },
+  {
+   "units": "u1101",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 1: Reconstruction"
+  },
+  {
+   "units": "u1102",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1103",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 1: Reconstruction: driving concept description"
+  },
+  {
+   "units": "u1104-u1116",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 1: Reconstruction"
+  },
+  {
+   "units": "u1119",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 2: Rise of Industrial and Progressive America"
+  },
+  {
+   "units": "u1120",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1121",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 2: Rise of Industrial and Progressive America: driving concept description"
+  },
+  {
+   "units": "u1122-u1134",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 2: Rise of Industrial and Progressive America"
+  },
+  {
+   "units": "u1137",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 3: Empire, Expansion and Consequences"
+  },
+  {
+   "units": "u1138",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1139",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 3: Empire, Expansion and Consequences"
+  },
+  {
+   "units": "u1140",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 4: “Prosperity and Progress” to Depression"
+  },
+  {
+   "units": "u1141",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 4: “Prosperity and Progress” to Depression: driving concept description"
+  },
+  {
+   "units": "u1142",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 4: “Prosperity and Progress” to Depression"
+  },
+  {
+   "units": "u1145",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 5: Emerging as a World Power: Conflict at Home and Abroad"
+  },
+  {
+   "units": "u1146",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1147",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 5: Emerging as a World Power: Conflict at Home and Abroad: driving concept description"
+  },
+  {
+   "units": "u1148-u1156",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 5: Emerging as a World Power: Conflict at Home and Abroad"
+  },
+  {
+   "units": "u1157",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 6: Ideological Global Conflict"
+  },
+  {
+   "units": "u1158",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 6: Ideological Global Conflict: driving concept description"
+  },
+  {
+   "units": "u1159-u1166",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 6: Ideological Global Conflict"
+  },
+  {
+   "units": "u1167",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1168",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 6: Ideological Global Conflict"
+  },
+  {
+   "units": "u1169",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 7: Movements for Justice and Equality"
+  },
+  {
+   "units": "u1170",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 7: Movements for Justice and Equality: driving concept description"
+  },
+  {
+   "units": "u1171-u1186",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 7: Movements for Justice and Equality"
+  },
+  {
+   "units": "u1187",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present: grade/course title (running header)"
+  },
+  {
+   "units": "u1188",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 7: Movements for Justice and Equality"
+  },
+  {
+   "units": "u1189",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 8: Access to Democracy and Power from the 1980s-Present Day"
+  },
+  {
+   "units": "u1190",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "examples",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 8: Access to Democracy and Power from the 1980s-Present Day: driving concept description"
+  },
+  {
+   "units": "u1191-u1203",
+   "grades": "9-12",
+   "course": "US History II: Reconstruction through the Present",
+   "cat": "standards",
+   "section": "US History II: Reconstruction through the Present > Driving Concept 8: Access to Democracy and Power from the 1980s-Present Day"
+  },
+  {
+   "units": "u1206",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics: grade/course overview narrative"
+  },
+  {
+   "units": "u1207",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "backup",
+   "section": "Government and Civics: page number"
+  },
+  {
+   "units": "u1208",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics: grade/course overview narrative"
+  },
+  {
+   "units": "u1209",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u1210",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 1: Foundations of American Democracy"
+  },
+  {
+   "units": "u1211",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics > Driving Concept 1: Foundations of American Democracy: driving concept description"
+  },
+  {
+   "units": "u1212-u1223",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 1: Foundations of American Democracy"
+  },
+  {
+   "units": "u1226",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 2: Rights and Responsibilities"
+  },
+  {
+   "units": "u1227",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u1228",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics > Driving Concept 2: Rights and Responsibilities: driving concept description"
+  },
+  {
+   "units": "u1229-u1238",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 2: Rights and Responsibilities"
+  },
+  {
+   "units": "u1239",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 3: Citizenship in a Digital World"
+  },
+  {
+   "units": "u1240",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics > Driving Concept 3: Citizenship in a Digital World: driving concept description"
+  },
+  {
+   "units": "u1243",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 3: Citizenship in a Digital World"
+  },
+  {
+   "units": "u1244",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u1245-u1250",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 3: Citizenship in a Digital World"
+  },
+  {
+   "units": "u1251",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 4: Political Participation and Engagement"
+  },
+  {
+   "units": "u1252",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics > Driving Concept 4: Political Participation and Engagement: driving concept description"
+  },
+  {
+   "units": "u1253-u1262",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 4: Political Participation and Engagement"
+  },
+  {
+   "units": "u1265",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 5: Public Policy"
+  },
+  {
+   "units": "u1266",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics: grade/course title (running header)"
+  },
+  {
+   "units": "u1267",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "examples",
+   "section": "Government and Civics > Driving Concept 5: Public Policy: driving concept description"
+  },
+  {
+   "units": "u1268-u1277",
+   "grades": "9-12",
+   "course": "Government and Civics",
+   "cat": "standards",
+   "section": "Government and Civics > Driving Concept 5: Public Policy"
+  },
+  {
+   "units": "u1280",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government: grade/course overview narrative"
+  },
+  {
+   "units": "u1281",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "backup",
+   "section": "District of Columbia History and Government: page number"
+  },
+  {
+   "units": "u1282",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 1: Early Settlement and Geography of Washington, DC (1400- 1790)"
+  },
+  {
+   "units": "u1283",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government: grade/course title (running header)"
+  },
+  {
+   "units": "u1284",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government > Driving Concept 1: Early Settlement and Geography of Washington, DC (1400- 1790): driving concept description"
+  },
+  {
+   "units": "u1286-u1291",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 1: Early Settlement and Geography of Washington, DC (1400- 1790)"
+  },
+  {
+   "units": "u1294",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 2: Birth and Early Development of the Nation’s Capital (1790- 1865)"
+  },
+  {
+   "units": "u1295",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government: grade/course title (running header)"
+  },
+  {
+   "units": "u1296",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government > Driving Concept 2: Birth and Early Development of the Nation’s Capital (1790- 1865): driving concept description"
+  },
+  {
+   "units": "u1297-u1307",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 2: Birth and Early Development of the Nation’s Capital (1790- 1865)"
+  },
+  {
+   "units": "u1310",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 3: Emergence of Modern Washington, DC (1865-1968)"
+  },
+  {
+   "units": "u1311",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government: grade/course title (running header)"
+  },
+  {
+   "units": "u1312",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government > Driving Concept 3: Emergence of Modern Washington, DC (1865-1968): driving concept description"
+  },
+  {
+   "units": "u1313-u1328",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 3: Emergence of Modern Washington, DC (1865-1968)"
+  },
+  {
+   "units": "u1331",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 4: Self-Determination in the District (1968-1998)"
+  },
+  {
+   "units": "u1332",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government: grade/course title (running header)"
+  },
+  {
+   "units": "u1333",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government > Driving Concept 4: Self-Determination in the District (1968-1998): driving concept description"
+  },
+  {
+   "units": "u1334-u1340",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 4: Self-Determination in the District (1968-1998)"
+  },
+  {
+   "units": "u1343",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 5: Contemporary Washington, DC (1998-present)"
+  },
+  {
+   "units": "u1344",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government: grade/course title (running header)"
+  },
+  {
+   "units": "u1345",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "examples",
+   "section": "District of Columbia History and Government > Driving Concept 5: Contemporary Washington, DC (1998-present): driving concept description"
+  },
+  {
+   "units": "u1346-u1356",
+   "grades": "9-12",
+   "course": "District of Columbia History and Government",
+   "cat": "standards",
+   "section": "District of Columbia History and Government > Driving Concept 5: Contemporary Washington, DC (1998-present)"
+  },
+  {
+   "units": "u1359-u1426",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Acknowledgements / back cover"
+  }
+ ],
+ "issues": [
+  "u41-u116: Statements of Practice pages are two/three-column and units are in scrambled reading order (e.g. u74, u83, u103, u116 are continuations split across pages); all labeled standards K-12 as shared practice/competency statements; u41,u42,u46,u59,u75,u88,u104 (repeated page header / intro) labeled backup.",
+  "u120,u172,u229,u288,u355,u448,u538,u646,u747,u847,u930,u1099,u1206,u1280: each overview cell mixes the grade/course title and theme (which would be standards) with the overview narrative; labeled examples as a whole per guide (narrative overview). Page-number cells and the footer text inside the same cell are page furniture.",
+  "u119,u287,u537,u846: grade-band heading cells (K-2, 3-5, 6-8, 9-12 STANDARDS) labeled standards with the band range; could alternatively be treated as backup.",
+  "u133,u207,u397,u459,u475,u501,u513,u549,u566,u583,u621,u663,u720,u760,u981,u1000: units that combine the last standard of one driving concept with the next driving concept heading are labeled standards (not split); the next narrative is labeled examples.",
+  "u1139: narrative driving-concept description for US History II DC3 is merged in one unit with 'STANDARD:' and standards US2.27-US2.36; labeled standards. Similarly u1035 and u1057 (narrative + trailing 'STANDARD:' marker) labeled examples; u1142 (US2.37-2.42), u671 (7.15-7.28), u1139 contain multiple standards in one unit.",
+  "u1163: code printed as 'US.56' (typo for US2.56). u491-u493: 5.27 is missing from the document (numbering jumps 5.26 -> 5.28); u493 is 5.28.",
+  "u357-u360, u372-u374, u386-u389, u408-u410, u422-u425: Grade 4 running header is split across lines and misplaced (fragments 'the Founding of the United States', x=-11 / x=763) and sometimes merged with driving concept headings (u373 'BDriving Concept 2', u423 '2BDriving Concept 5', u920 '57BDriving Concept 6'); labeled standards for the grade/course.",
+  "u951,u953,u955,u957,u961,u965,u967,u984,u996,u999,u1003,u1007,u1016,u1023,u1029,u1036,u1041,u1045,u1059,u1066,u1076: sub-topic headings inside World History II driving concepts; labeled standards (strand headings).",
+  "u863,u878,u895,u909: World History I driving-concept descriptions include lists of suggested case-study societies; labeled examples as part of the narrative.",
+  "Guide notes (grade clusters K,1,...,8,9-12) verified: no disagreement. High-school courses (WH I, WH II, US History II, Government and Civics, DC History and Government) all labeled grades 9-12 with course title; no US History I course exists in the document (US History I is Grade 7)."
+ ]
+}

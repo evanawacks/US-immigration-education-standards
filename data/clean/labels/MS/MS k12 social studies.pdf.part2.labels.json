@@ -1,0 +1,4130 @@
+{
+ "state": "MS",
+ "file": "MS k12 social studies.pdf",
+ "range": "u2594-u4941",
+ "structure": "MS CCRS Social Studies, one PDF containing two documents. Part A (earlier units, outside this range) is the 2021 K-12 standards; within this range it continues as the 2021 high-school course tables: each course has a divider page (course title, Carnegie unit, 'Page n-m'), then a two-column table 'Standard | Objectives' repeated per page, with standard codes like USH n, USG.n, E.n, AWG.n, AAS.n, HAME.n, PAD.n, PSY.n, SOC.n, LRE.n, MIN.n, HUM.n; the standard text is in the first column cell and its numbered objectives are in the next cell (often in one merged unit). All high-school courses are Carnegie-unit courses labeled grades 9-12 with course = title as written. USH 5-12 here belong to 'US History: 1877 to Present' (course title from the divider before the range, u2529). Part B (from u3212/u3215) is a second document, the 2018 MS CCRS with 2021 redline revisions: cover, acknowledgments, introduction, five strands (Civics, Economics, Civil Rights, Geography, History), sequencing charts, then grade sections (Kindergarten ... Eighth Grade, Seventh Grade Compacted) and 2018 HS courses (Mississippi Studies, Introduction to Geography, World History: Age of Enlightenment to Present, US History: 1877 to Present, US Government, Economics). Each grade section = theme row, then per-strand tables 'STANDARD | OBJECTIVE(S)' with 2018 codes (CI.K.1, E.1.1, G.4.2, H.5.3 ...) merged in the same cell with the revised 2021 codes (K.CI.1, 4.MS.5, 5.2, 7C.6, 8.1 ...); old and revised wording and 'becomes N' / 'Reordered/Updated Objectives' are concatenated in the same cell, so units mix struck-through and inserted text. Grades 4 and 5 are followed by clean 2021 chronological versions (4.MS.n; 5.n). Every page of part B carries a repeated running header unit ('MISSISSIPPI COLLEGE- and CAREER-READINESS STANDARDS for the Social Studies - 2018') that is labeled backup. Immigration-relevant objectives sit inside the standards cells (no separate example blocks exist).",
+ "labels": [
+  {
+   "units": "u2594-u2595",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2596-u2597",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 5"
+  },
+  {
+   "units": "u2599-u2600",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2601-u2614",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 6"
+  },
+  {
+   "units": "u2616-u2617",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2618-u2619",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 7"
+  },
+  {
+   "units": "u2621-u2622",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2623-u2642",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 8"
+  },
+  {
+   "units": "u2644-u2645",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2646-u2647",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 9"
+  },
+  {
+   "units": "u2649-u2650",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2651-u2660",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 10"
+  },
+  {
+   "units": "u2662-u2663",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2664-u2665",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 11"
+  },
+  {
+   "units": "u2667-u2668",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text)"
+  },
+  {
+   "units": "u2669-u2678",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History: 1877 to Present (2021 text) > USH 12"
+  },
+  {
+   "units": "u2680-u2681",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "Course divider: United States Government"
+  },
+  {
+   "units": "u2683-u2686",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2687-u2688",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.1"
+  },
+  {
+   "units": "u2689-u2690",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.2"
+  },
+  {
+   "units": "u2692-u2693",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2694-u2695",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.2"
+  },
+  {
+   "units": "u2697-u2698",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2699-u2700",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.3"
+  },
+  {
+   "units": "u2701-u2702",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.4"
+  },
+  {
+   "units": "u2704-u2705",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2706-u2707",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.5"
+  },
+  {
+   "units": "u2709-u2710",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2711-u2712",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.6"
+  },
+  {
+   "units": "u2714-u2715",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2716-u2717",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.7"
+  },
+  {
+   "units": "u2719-u2720",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text)"
+  },
+  {
+   "units": "u2721-u2722",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] United States Government (2021 text) > USG.8"
+  },
+  {
+   "units": "u2724-u2725",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Course divider: Economics"
+  },
+  {
+   "units": "u2727-u2730",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2731-u2732",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.1"
+  },
+  {
+   "units": "u2733-u2734",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.2"
+  },
+  {
+   "units": "u2736-u2737",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2738-u2739",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.3"
+  },
+  {
+   "units": "u2741-u2742",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2743-u2744",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.4"
+  },
+  {
+   "units": "u2746-u2747",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2748-u2749",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.5"
+  },
+  {
+   "units": "u2750-u2751",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.6"
+  },
+  {
+   "units": "u2753-u2754",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2755-u2756",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.7"
+  },
+  {
+   "units": "u2757-u2758",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.8"
+  },
+  {
+   "units": "u2760-u2761",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2762-u2763",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.9"
+  },
+  {
+   "units": "u2764-u2765",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.10"
+  },
+  {
+   "units": "u2767-u2768",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text)"
+  },
+  {
+   "units": "u2769-u2770",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2021 text) > E.11"
+  },
+  {
+   "units": "u2772",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Divider: elective courses"
+  },
+  {
+   "units": "u2774-u2775",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "Course divider: Advanced World Geography"
+  },
+  {
+   "units": "u2777-u2780",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography"
+  },
+  {
+   "units": "u2781-u2782",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.1"
+  },
+  {
+   "units": "u2783-u2784",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.2"
+  },
+  {
+   "units": "u2785-u2786",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.3"
+  },
+  {
+   "units": "u2788-u2789",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography"
+  },
+  {
+   "units": "u2790-u2791",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.4"
+  },
+  {
+   "units": "u2792-u2793",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.5"
+  },
+  {
+   "units": "u2794-u2795",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.6"
+  },
+  {
+   "units": "u2797-u2798",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography"
+  },
+  {
+   "units": "u2799-u2800",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.7"
+  },
+  {
+   "units": "u2801-u2802",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.8"
+  },
+  {
+   "units": "u2803-u2804",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.9"
+  },
+  {
+   "units": "u2806-u2807",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography"
+  },
+  {
+   "units": "u2808-u2809",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.10"
+  },
+  {
+   "units": "u2810-u2811",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.11"
+  },
+  {
+   "units": "u2812-u2813",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Advanced World Geography > AWG.12"
+  },
+  {
+   "units": "u2815-u2816",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "Course divider: African American Studies"
+  },
+  {
+   "units": "u2818-u2821",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies"
+  },
+  {
+   "units": "u2822-u2823",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.1"
+  },
+  {
+   "units": "u2824-u2825",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.2"
+  },
+  {
+   "units": "u2826-u2827",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.3"
+  },
+  {
+   "units": "u2829-u2830",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies"
+  },
+  {
+   "units": "u2831-u2832",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.4"
+  },
+  {
+   "units": "u2834-u2835",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies"
+  },
+  {
+   "units": "u2836-u2837",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.5"
+  },
+  {
+   "units": "u2839-u2840",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies"
+  },
+  {
+   "units": "u2841-u2842",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.6"
+  },
+  {
+   "units": "u2843-u2844",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.7"
+  },
+  {
+   "units": "u2846-u2847",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies"
+  },
+  {
+   "units": "u2848-u2849",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.8"
+  },
+  {
+   "units": "u2850-u2851",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "[superseded edition] African American Studies > AAS.9"
+  },
+  {
+   "units": "u2853-u2854",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "Course divider: History of the Ancient Middle East"
+  },
+  {
+   "units": "u2856-u2859",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East"
+  },
+  {
+   "units": "u2860-u2861",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.1"
+  },
+  {
+   "units": "u2862-u2863",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.2"
+  },
+  {
+   "units": "u2864-u2865",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.3"
+  },
+  {
+   "units": "u2866-u2867",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.4"
+  },
+  {
+   "units": "u2869-u2870",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East"
+  },
+  {
+   "units": "u2871-u2872",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.5"
+  },
+  {
+   "units": "u2873-u2874",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.6"
+  },
+  {
+   "units": "u2875-u2876",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "[superseded edition] History of the Ancient Middle East > HAME.7"
+  },
+  {
+   "units": "u2878-u2879",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "Course divider: Problems of American Democracy"
+  },
+  {
+   "units": "u2881-u2884",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy"
+  },
+  {
+   "units": "u2885-u2886",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.1"
+  },
+  {
+   "units": "u2887-u2888",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.2"
+  },
+  {
+   "units": "u2890-u2891",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy"
+  },
+  {
+   "units": "u2892-u2893",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.3"
+  },
+  {
+   "units": "u2894-u2895",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.4"
+  },
+  {
+   "units": "u2897-u2898",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy"
+  },
+  {
+   "units": "u2899-u2900",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.5"
+  },
+  {
+   "units": "u2901-u2902",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.6"
+  },
+  {
+   "units": "u2903-u2904",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.7"
+  },
+  {
+   "units": "u2906-u2907",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy"
+  },
+  {
+   "units": "u2908-u2909",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.8"
+  },
+  {
+   "units": "u2910-u2911",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.9"
+  },
+  {
+   "units": "u2913-u2914",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy"
+  },
+  {
+   "units": "u2915-u2916",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "[superseded edition] Problems of American Democracy > PAD.10"
+  },
+  {
+   "units": "u2918-u2919",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Course divider: Psychology"
+  },
+  {
+   "units": "u2921-u2924",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2925-u2926",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.1"
+  },
+  {
+   "units": "u2927-u2928",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.2"
+  },
+  {
+   "units": "u2929-u2930",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.3"
+  },
+  {
+   "units": "u2932-u2933",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2934-u2935",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.4"
+  },
+  {
+   "units": "u2936-u2937",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.5"
+  },
+  {
+   "units": "u2938-u2939",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.6"
+  },
+  {
+   "units": "u2941-u2942",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2943-u2944",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.7"
+  },
+  {
+   "units": "u2945-u2946",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.8"
+  },
+  {
+   "units": "u2947-u2948",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.9"
+  },
+  {
+   "units": "u2950-u2951",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2952-u2953",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.10"
+  },
+  {
+   "units": "u2954-u2955",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.11"
+  },
+  {
+   "units": "u2957-u2958",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2959-u2960",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.12"
+  },
+  {
+   "units": "u2961-u2962",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.13"
+  },
+  {
+   "units": "u2963-u2964",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.14"
+  },
+  {
+   "units": "u2966-u2967",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology"
+  },
+  {
+   "units": "u2968-u2969",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.15"
+  },
+  {
+   "units": "u2970-u2971",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "[superseded edition] Psychology > PSY.16"
+  },
+  {
+   "units": "u2973-u2974",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Course divider: Sociology"
+  },
+  {
+   "units": "u2976-u2979",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology"
+  },
+  {
+   "units": "u2980-u2981",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.1"
+  },
+  {
+   "units": "u2982-u2987",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.2"
+  },
+  {
+   "units": "u2989-u2990",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology"
+  },
+  {
+   "units": "u2991-u2992",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.3"
+  },
+  {
+   "units": "u2993-u3002",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.4"
+  },
+  {
+   "units": "u3004-u3005",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology"
+  },
+  {
+   "units": "u3006-u3007",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.5"
+  },
+  {
+   "units": "u3008-u3013",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.6"
+  },
+  {
+   "units": "u3014-u3020",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.7"
+  },
+  {
+   "units": "u3021-u3024",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.8"
+  },
+  {
+   "units": "u3026-u3027",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology"
+  },
+  {
+   "units": "u3028-u3029",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.9"
+  },
+  {
+   "units": "u3030-u3036",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "[superseded edition] Sociology > SOC.10"
+  },
+  {
+   "units": "u3038-u3039",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "Course divider: Law Related Education"
+  },
+  {
+   "units": "u3041-u3044",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education"
+  },
+  {
+   "units": "u3045-u3046",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.1"
+  },
+  {
+   "units": "u3047-u3059",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.2"
+  },
+  {
+   "units": "u3061-u3062",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education"
+  },
+  {
+   "units": "u3063-u3064",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.3"
+  },
+  {
+   "units": "u3065-u3075",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.4"
+  },
+  {
+   "units": "u3077-u3078",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education"
+  },
+  {
+   "units": "u3079-u3080",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.5"
+  },
+  {
+   "units": "u3081-u3089",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.6"
+  },
+  {
+   "units": "u3091-u3092",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education"
+  },
+  {
+   "units": "u3093-u3094",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "[superseded edition] Law Related Education > LRE.7"
+  },
+  {
+   "units": "u3096-u3097",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "Course divider: Minority Studies"
+  },
+  {
+   "units": "u3099-u3102",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies"
+  },
+  {
+   "units": "u3103-u3116",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.1"
+  },
+  {
+   "units": "u3117-u3122",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.2"
+  },
+  {
+   "units": "u3124-u3125",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies"
+  },
+  {
+   "units": "u3126-u3133",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.3"
+  },
+  {
+   "units": "u3134-u3144",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.4"
+  },
+  {
+   "units": "u3145-u3149",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.5"
+  },
+  {
+   "units": "u3151-u3152",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies"
+  },
+  {
+   "units": "u3153-u3154",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.6"
+  },
+  {
+   "units": "u3155-u3161",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.7"
+  },
+  {
+   "units": "u3163-u3164",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies"
+  },
+  {
+   "units": "u3165-u3174",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.8"
+  },
+  {
+   "units": "u3175-u3181",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Minority Studies > MIN.9"
+  },
+  {
+   "units": "u3183-u3184",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Course divider: Humanities"
+  },
+  {
+   "units": "u3186-u3189",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities"
+  },
+  {
+   "units": "u3190-u3191",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.1"
+  },
+  {
+   "units": "u3192-u3193",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.2"
+  },
+  {
+   "units": "u3195-u3196",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities"
+  },
+  {
+   "units": "u3197-u3198",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.3"
+  },
+  {
+   "units": "u3199-u3200",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.4"
+  },
+  {
+   "units": "u3202-u3203",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities"
+  },
+  {
+   "units": "u3204-u3205",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.5"
+  },
+  {
+   "units": "u3206-u3207",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.6"
+  },
+  {
+   "units": "u3208-u3209",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Humanities > HUM.7"
+  },
+  {
+   "units": "u3212-u3213",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Colophon of first (2021) document"
+  },
+  {
+   "units": "u3215-u3376",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3378",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3379-u3393",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3395",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3396-u3405",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3407",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3408-u3420",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3422",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3423-u3429",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3431",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3432-u3456",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3458",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3459-u3486",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3488",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing > running page header"
+  },
+  {
+   "units": "u3489-u3546",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Second document (2018 standards with 2021 revisions): cover, front matter, strands, sequencing"
+  },
+  {
+   "units": "u3548",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3549-u3550",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u3551-u3553",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civics"
+  },
+  {
+   "units": "u3554-u3555",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civics > CI.K.1"
+  },
+  {
+   "units": "u3556-u3557",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civics > CI.K.2"
+  },
+  {
+   "units": "u3558-u3559",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civics > K.CI.2"
+  },
+  {
+   "units": "u3561",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3562-u3563",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civics > CI.K.3"
+  },
+  {
+   "units": "u3564-u3566",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Economics"
+  },
+  {
+   "units": "u3567-u3568",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Economics > E.K.1"
+  },
+  {
+   "units": "u3569-u3570",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Economics > E.K.2"
+  },
+  {
+   "units": "u3571-u3572",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Economics > E.K.3"
+  },
+  {
+   "units": "u3573-u3575",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civil Rights"
+  },
+  {
+   "units": "u3577",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3578-u3579",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civil Rights > CR.K.1"
+  },
+  {
+   "units": "u3580-u3583",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Civil Rights > CR.K.3"
+  },
+  {
+   "units": "u3584-u3586",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Geography"
+  },
+  {
+   "units": "u3587-u3588",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Geography > G.K.1"
+  },
+  {
+   "units": "u3589-u3590",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Geography > G.K.2"
+  },
+  {
+   "units": "u3592",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3593-u3600",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > Geography > G.K.3"
+  },
+  {
+   "units": "u3601-u3603",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > History"
+  },
+  {
+   "units": "u3604-u3605",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > History > H.K.1"
+  },
+  {
+   "units": "u3606-u3612",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Kindergarten (2018 with 2021 revisions) > History > H.K.2"
+  },
+  {
+   "units": "u3614",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3615-u3616",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u3617-u3619",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civics"
+  },
+  {
+   "units": "u3620-u3621",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civics > CI.1.1"
+  },
+  {
+   "units": "u3622-u3623",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civics > CI.1.2"
+  },
+  {
+   "units": "u3624-u3625",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civics > CI.1.3"
+  },
+  {
+   "units": "u3627",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3628-u3630",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Economics"
+  },
+  {
+   "units": "u3631-u3632",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Economics > E.1.1"
+  },
+  {
+   "units": "u3633-u3634",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Economics > E.1.2"
+  },
+  {
+   "units": "u3635-u3636",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Economics > E.1.3"
+  },
+  {
+   "units": "u3637-u3639",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civil Rights"
+  },
+  {
+   "units": "u3640-u3641",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civil Rights > CR.1.1"
+  },
+  {
+   "units": "u3642-u3643",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civil Rights > CR.1.2"
+  },
+  {
+   "units": "u3645",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3646-u3647",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civil Rights > CR.1.3"
+  },
+  {
+   "units": "u3648-u3649",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Civil Rights > 1.CR.2"
+  },
+  {
+   "units": "u3650-u3652",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Geography"
+  },
+  {
+   "units": "u3653-u3654",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Geography > G.1.1"
+  },
+  {
+   "units": "u3655-u3656",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Geography > G.1.2"
+  },
+  {
+   "units": "u3658",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3659-u3665",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > Geography > G.1.3"
+  },
+  {
+   "units": "u3666-u3668",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > History"
+  },
+  {
+   "units": "u3669-u3670",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > History > H.1.1"
+  },
+  {
+   "units": "u3671-u3679",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 1 (2018 with 2021 revisions) > History > H.1.2"
+  },
+  {
+   "units": "u3681",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3682-u3683",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u3684-u3686",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civics"
+  },
+  {
+   "units": "u3687-u3688",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civics > CI.2.1"
+  },
+  {
+   "units": "u3689-u3690",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civics > CI.2.2"
+  },
+  {
+   "units": "u3691-u3692",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civics > CI.2.3"
+  },
+  {
+   "units": "u3694",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3695-u3697",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Economics"
+  },
+  {
+   "units": "u3698-u3699",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Economics > E.2.1"
+  },
+  {
+   "units": "u3700-u3701",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Economics > E.2.2"
+  },
+  {
+   "units": "u3702-u3705",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Economics > E.2.3"
+  },
+  {
+   "units": "u3707",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3708-u3710",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civil Rights"
+  },
+  {
+   "units": "u3711-u3712",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civil Rights > CR.2.1"
+  },
+  {
+   "units": "u3713-u3714",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civil Rights > CR.2.2"
+  },
+  {
+   "units": "u3715-u3716",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Civil Rights > CR.2.3"
+  },
+  {
+   "units": "u3717-u3719",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Geography"
+  },
+  {
+   "units": "u3720-u3721",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Geography > G.2.1"
+  },
+  {
+   "units": "u3723",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3724-u3725",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Geography > G.2.2"
+  },
+  {
+   "units": "u3726-u3727",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Geography > G.2.3"
+  },
+  {
+   "units": "u3728-u3729",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > Geography > 2.G.4"
+  },
+  {
+   "units": "u3731",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3732-u3734",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > History"
+  },
+  {
+   "units": "u3735-u3736",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > History > H.2.1"
+  },
+  {
+   "units": "u3737-u3742",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 2 (2018 with 2021 revisions) > History > H.2.2"
+  },
+  {
+   "units": "u3744",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3745-u3746",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u3747-u3749",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civics"
+  },
+  {
+   "units": "u3750-u3751",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civics > CI.3.1"
+  },
+  {
+   "units": "u3752-u3753",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civics > CI.3.2"
+  },
+  {
+   "units": "u3754-u3755",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civics > CI.3.3"
+  },
+  {
+   "units": "u3757",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3758-u3760",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Economics"
+  },
+  {
+   "units": "u3761-u3762",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Economics > E.3.1"
+  },
+  {
+   "units": "u3763-u3764",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Economics > E.3.2"
+  },
+  {
+   "units": "u3765-u3766",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Economics > E.3.3"
+  },
+  {
+   "units": "u3768",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3769-u3771",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civil Rights"
+  },
+  {
+   "units": "u3772-u3773",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civil Rights > CR.3.3"
+  },
+  {
+   "units": "u3774-u3775",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civil Rights > CR.3.1"
+  },
+  {
+   "units": "u3776-u3777",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Civil Rights > CR.3.2"
+  },
+  {
+   "units": "u3779",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3780-u3782",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography"
+  },
+  {
+   "units": "u3783-u3784",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography > G.3.1"
+  },
+  {
+   "units": "u3785-u3786",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography > G.3.2"
+  },
+  {
+   "units": "u3787-u3788",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography > G.3.3"
+  },
+  {
+   "units": "u3790",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3791-u3792",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography > G.3.4"
+  },
+  {
+   "units": "u3793-u3794",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > Geography > G.3.5"
+  },
+  {
+   "units": "u3795-u3797",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > History"
+  },
+  {
+   "units": "u3798-u3799",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > History > H.3.1"
+  },
+  {
+   "units": "u3801",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u3802-u3803",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > History > H.3.2"
+  },
+  {
+   "units": "u3804-u3805",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 3 (2018 with 2021 revisions) > History > H.3.3"
+  },
+  {
+   "units": "u3807",
+   "grades": "4,5",
+   "course": null,
+   "cat": "backup",
+   "section": "Note on reorganized grade 4/5 courses > running page header"
+  },
+  {
+   "units": "u3808",
+   "grades": "4,5",
+   "course": null,
+   "cat": "backup",
+   "section": "Note on reorganized grade 4/5 courses"
+  },
+  {
+   "units": "u3810",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3811-u3812",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u3813-u3815",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civics"
+  },
+  {
+   "units": "u3816-u3817",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civics > CI.4.1"
+  },
+  {
+   "units": "u3818-u3819",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civics > CI.4.2"
+  },
+  {
+   "units": "u3820-u3821",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civics > CI.4.3"
+  },
+  {
+   "units": "u3823",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3824-u3826",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Economics"
+  },
+  {
+   "units": "u3827-u3828",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Economics > E.4.1"
+  },
+  {
+   "units": "u3829-u3830",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Economics > E.4.2"
+  },
+  {
+   "units": "u3832",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3833-u3844",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Economics > E.4.3"
+  },
+  {
+   "units": "u3846",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3847-u3849",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civil Rights"
+  },
+  {
+   "units": "u3850-u3851",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civil Rights > CR.4.1"
+  },
+  {
+   "units": "u3852-u3853",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Civil Rights > CR.4.2"
+  },
+  {
+   "units": "u3855",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3856-u3858",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Geography"
+  },
+  {
+   "units": "u3859-u3860",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Geography > G.4.1"
+  },
+  {
+   "units": "u3861-u3862",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Geography > G.4.2"
+  },
+  {
+   "units": "u3864",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3865-u3866",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > Geography > G.4.3"
+  },
+  {
+   "units": "u3867-u3869",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History"
+  },
+  {
+   "units": "u3870-u3871",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.1"
+  },
+  {
+   "units": "u3872-u3873",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.2"
+  },
+  {
+   "units": "u3874-u3875",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.3"
+  },
+  {
+   "units": "u3877",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3878-u3879",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.4"
+  },
+  {
+   "units": "u3880-u3881",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.5"
+  },
+  {
+   "units": "u3882-u3890",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > History > H.4.6"
+  },
+  {
+   "units": "u3892",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3893-u3897",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u3898-u3899",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.1"
+  },
+  {
+   "units": "u3900-u3904",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.2"
+  },
+  {
+   "units": "u3905-u3906",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.3"
+  },
+  {
+   "units": "u3907-u3910",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.4"
+  },
+  {
+   "units": "u3911-u3912",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.5"
+  },
+  {
+   "units": "u3914",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3915-u3916",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u3917-u3921",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.6"
+  },
+  {
+   "units": "u3922-u3923",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.7"
+  },
+  {
+   "units": "u3924-u3929",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.8"
+  },
+  {
+   "units": "u3930-u3931",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.9"
+  },
+  {
+   "units": "u3933",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3934-u3936",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u3937-u3940",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.10"
+  },
+  {
+   "units": "u3941-u3942",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 4 (2018 with 2021 revisions, then 2021 version) > 4.MS.11"
+  },
+  {
+   "units": "u3944",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3945-u3946",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u3947-u3949",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civics"
+  },
+  {
+   "units": "u3950-u3951",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civics > CI.5.1"
+  },
+  {
+   "units": "u3952-u3953",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civics > CI.5.2"
+  },
+  {
+   "units": "u3954-u3956",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Economics"
+  },
+  {
+   "units": "u3957-u3958",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Economics > E.5.1"
+  },
+  {
+   "units": "u3960",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3961-u3962",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Economics > E.5.2"
+  },
+  {
+   "units": "u3963-u3965",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civil Rights"
+  },
+  {
+   "units": "u3966-u3967",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civil Rights > CR.5.1"
+  },
+  {
+   "units": "u3968-u3969",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Civil Rights > CR.5.2"
+  },
+  {
+   "units": "u3970-u3972",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Geography"
+  },
+  {
+   "units": "u3973-u3974",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Geography > G.5.1"
+  },
+  {
+   "units": "u3976",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3977-u3978",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Geography > G.5.2"
+  },
+  {
+   "units": "u3979-u3980",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > Geography > G.5.3"
+  },
+  {
+   "units": "u3981-u3983",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History"
+  },
+  {
+   "units": "u3984-u3985",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.1"
+  },
+  {
+   "units": "u3987",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u3988-u3989",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.2"
+  },
+  {
+   "units": "u3990-u4008",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.3"
+  },
+  {
+   "units": "u4010",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4011-u4012",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.4"
+  },
+  {
+   "units": "u4013-u4019",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.5"
+  },
+  {
+   "units": "u4021",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4022-u4023",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.6"
+  },
+  {
+   "units": "u4024-u4025",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > History > H.5.7"
+  },
+  {
+   "units": "u4027",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4028-u4032",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u4033-u4034",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.1"
+  },
+  {
+   "units": "u4035-u4045",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.2"
+  },
+  {
+   "units": "u4047",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4048-u4050",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u4051-u4052",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.3"
+  },
+  {
+   "units": "u4053-u4056",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.4"
+  },
+  {
+   "units": "u4058",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4059-u4061",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u4062-u4063",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.5"
+  },
+  {
+   "units": "u4065",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 (2018 with 2021 revisions, then 2021 version) > running page header"
+  },
+  {
+   "units": "u4066-u4068",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version)"
+  },
+  {
+   "units": "u4069-u4079",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 5 (2018 with 2021 revisions, then 2021 version) > 5.6"
+  },
+  {
+   "units": "u4081",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4082-u4083",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4084-u4086",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civics"
+  },
+  {
+   "units": "u4087-u4088",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civics > CI.6.1"
+  },
+  {
+   "units": "u4090",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4091-u4092",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civics > CI.6.2"
+  },
+  {
+   "units": "u4093-u4095",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Economics"
+  },
+  {
+   "units": "u4096-u4097",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Economics > E.6.1"
+  },
+  {
+   "units": "u4099",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4100-u4101",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Economics > E.6.2"
+  },
+  {
+   "units": "u4102-u4104",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civil Rights"
+  },
+  {
+   "units": "u4105-u4106",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civil Rights > CR.6.1"
+  },
+  {
+   "units": "u4108",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4109-u4142",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civil Rights > CR.6.2"
+  },
+  {
+   "units": "u4144",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4145",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Civil Rights > CR.6.2"
+  },
+  {
+   "units": "u4146-u4148",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography"
+  },
+  {
+   "units": "u4149-u4150",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.1"
+  },
+  {
+   "units": "u4151-u4152",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.2"
+  },
+  {
+   "units": "u4153-u4154",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.3"
+  },
+  {
+   "units": "u4155-u4156",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.4"
+  },
+  {
+   "units": "u4158",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6 (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4159-u4160",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.5"
+  },
+  {
+   "units": "u4161-u4162",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.6"
+  },
+  {
+   "units": "u4163-u4164",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > Geography > G.6.7"
+  },
+  {
+   "units": "u4165-u4167",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > History"
+  },
+  {
+   "units": "u4168-u4169",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 6 (2018 with 2021 revisions) > History > H.6.1"
+  },
+  {
+   "units": "u4171",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Early World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4172-u4176",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4177-u4178",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.1"
+  },
+  {
+   "units": "u4179-u4180",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.2"
+  },
+  {
+   "units": "u4181-u4182",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.3"
+  },
+  {
+   "units": "u4184",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Early World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4185-u4186",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.4"
+  },
+  {
+   "units": "u4187-u4188",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.5"
+  },
+  {
+   "units": "u4189-u4190",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.6"
+  },
+  {
+   "units": "u4192",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Early World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4193-u4194",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.7"
+  },
+  {
+   "units": "u4195-u4196",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.8"
+  },
+  {
+   "units": "u4197-u4198",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Early World History (2018 with 2021 revisions) > 7.9"
+  },
+  {
+   "units": "u4200",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4201-u4205",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4206-u4207",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.1"
+  },
+  {
+   "units": "u4209",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4210-u4223",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.2"
+  },
+  {
+   "units": "u4225",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4226-u4227",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.3"
+  },
+  {
+   "units": "u4228-u4229",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.4"
+  },
+  {
+   "units": "u4231",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4232-u4233",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.5"
+  },
+  {
+   "units": "u4234-u4235",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.6"
+  },
+  {
+   "units": "u4236-u4237",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.7"
+  },
+  {
+   "units": "u4239",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4240-u4241",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.8"
+  },
+  {
+   "units": "u4242-u4258",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.9"
+  },
+  {
+   "units": "u4260",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4261-u4262",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.10"
+  },
+  {
+   "units": "u4263-u4264",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.11"
+  },
+  {
+   "units": "u4265-u4266",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.12"
+  },
+  {
+   "units": "u4268",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4269-u4270",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.13"
+  },
+  {
+   "units": "u4271-u4272",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.14"
+  },
+  {
+   "units": "u4274",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 Compacted (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4275-u4290",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 7 Compacted (2018 with 2021 revisions) > 7C.15"
+  },
+  {
+   "units": "u4292",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 US History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4293-u4297",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4298-u4299",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.1"
+  },
+  {
+   "units": "u4300-u4301",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.2"
+  },
+  {
+   "units": "u4303",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 US History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4304-u4305",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.3"
+  },
+  {
+   "units": "u4306-u4307",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.4"
+  },
+  {
+   "units": "u4308-u4309",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.5"
+  },
+  {
+   "units": "u4311",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 US History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4312-u4313",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.6"
+  },
+  {
+   "units": "u4314-u4315",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.7"
+  },
+  {
+   "units": "u4316-u4317",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.8"
+  },
+  {
+   "units": "u4319",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8 US History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4320-u4321",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.9"
+  },
+  {
+   "units": "u4322-u4323",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "[superseded edition] Grade 8 US History (2018 with 2021 revisions) > 8.10"
+  },
+  {
+   "units": "u4325",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "Mississippi Studies (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4326-u4330",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4331-u4332",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.1"
+  },
+  {
+   "units": "u4333-u4334",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.2"
+  },
+  {
+   "units": "u4335-u4336",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.3"
+  },
+  {
+   "units": "u4338",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "Mississippi Studies (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4339-u4340",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.4"
+  },
+  {
+   "units": "u4341-u4342",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.5"
+  },
+  {
+   "units": "u4343-u4344",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.6"
+  },
+  {
+   "units": "u4345-u4346",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.7"
+  },
+  {
+   "units": "u4348",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "Mississippi Studies (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4349-u4350",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.8"
+  },
+  {
+   "units": "u4351-u4352",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.9"
+  },
+  {
+   "units": "u4353-u4354",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.10"
+  },
+  {
+   "units": "u4355-u4356",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.11"
+  },
+  {
+   "units": "u4357-u4358",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "[superseded edition] Mississippi Studies (2018 with 2021 revisions) > MS.12"
+  },
+  {
+   "units": "u4360",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "Introduction to Geography (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4361-u4365",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4366-u4367",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.1"
+  },
+  {
+   "units": "u4368-u4369",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.2"
+  },
+  {
+   "units": "u4370-u4371",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.3"
+  },
+  {
+   "units": "u4373",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "Introduction to Geography (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4374-u4375",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.4"
+  },
+  {
+   "units": "u4376-u4377",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.5"
+  },
+  {
+   "units": "u4378-u4379",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.6"
+  },
+  {
+   "units": "u4381",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "Introduction to Geography (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4382-u4383",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.7"
+  },
+  {
+   "units": "u4384-u4385",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.8"
+  },
+  {
+   "units": "u4386-u4387",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.9"
+  },
+  {
+   "units": "u4389",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "Introduction to Geography (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4390-u4391",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.10"
+  },
+  {
+   "units": "u4392-u4393",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.11"
+  },
+  {
+   "units": "u4394-u4395",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "[superseded edition] Introduction to Geography (2018 with 2021 revisions) > ITG.12"
+  },
+  {
+   "units": "u4397",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4398-u4402",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4403-u4404",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.1"
+  },
+  {
+   "units": "u4405-u4406",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.2"
+  },
+  {
+   "units": "u4408",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4409-u4410",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.3"
+  },
+  {
+   "units": "u4411-u4412",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.4"
+  },
+  {
+   "units": "u4414",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4415-u4416",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.5"
+  },
+  {
+   "units": "u4417-u4418",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.6"
+  },
+  {
+   "units": "u4420",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4421-u4422",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.7"
+  },
+  {
+   "units": "u4423-u4424",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.8"
+  },
+  {
+   "units": "u4426",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4427-u4428",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.9"
+  },
+  {
+   "units": "u4429-u4430",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.10"
+  },
+  {
+   "units": "u4432",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4433-u4452",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.11"
+  },
+  {
+   "units": "u4454",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "World History (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4455-u4470",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "[superseded edition] World History (2018 with 2021 revisions) > WH.12"
+  },
+  {
+   "units": "u4472",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4473-u4477",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4478-u4479",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.1"
+  },
+  {
+   "units": "u4481",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4482-u4501",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.2"
+  },
+  {
+   "units": "u4503",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4504-u4521",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.3"
+  },
+  {
+   "units": "u4523",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4524-u4546",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.4"
+  },
+  {
+   "units": "u4548",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4549-u4571",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.5"
+  },
+  {
+   "units": "u4573",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4574-u4587",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.6"
+  },
+  {
+   "units": "u4589",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4590-u4614",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.7"
+  },
+  {
+   "units": "u4616",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4617-u4636",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.8"
+  },
+  {
+   "units": "u4638",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4639-u4640",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.9"
+  },
+  {
+   "units": "u4641-u4642",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.10"
+  },
+  {
+   "units": "u4644",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4645-u4646",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.11"
+  },
+  {
+   "units": "u4648",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "US History 1877 to Present (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4649-u4650",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "[superseded edition] US History 1877 to Present (2018 with 2021 revisions) > US.12"
+  },
+  {
+   "units": "u4652",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4653-u4657",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4658-u4659",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.1"
+  },
+  {
+   "units": "u4661",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4662-u4695",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.2"
+  },
+  {
+   "units": "u4697",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4698",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.2"
+  },
+  {
+   "units": "u4699-u4700",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.3"
+  },
+  {
+   "units": "u4702",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4703-u4706",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.4"
+  },
+  {
+   "units": "u4708",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4709-u4729",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.5"
+  },
+  {
+   "units": "u4731",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4732-u4753",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.6"
+  },
+  {
+   "units": "u4755",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "US Government (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4756-u4784",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "[superseded edition] US Government (2018 with 2021 revisions) > USG.7"
+  },
+  {
+   "units": "u4786",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4787-u4791",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions)"
+  },
+  {
+   "units": "u4792-u4793",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.1"
+  },
+  {
+   "units": "u4795",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4796-u4810",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.2"
+  },
+  {
+   "units": "u4812",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4813-u4846",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.3"
+  },
+  {
+   "units": "u4848",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4849-u4886",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.4"
+  },
+  {
+   "units": "u4888",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4889-u4898",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.4"
+  },
+  {
+   "units": "u4900",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4901-u4933",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.5"
+  },
+  {
+   "units": "u4935",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (2018 with 2021 revisions) > running page header"
+  },
+  {
+   "units": "u4936",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.5"
+  },
+  {
+   "units": "u4937-u4938",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.6"
+  },
+  {
+   "units": "u4939-u4940",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "[superseded edition] Economics (2018 with 2021 revisions) > E.7"
+  }
+ ],
+ "issues": [
+  "Range u2594-u4941: the last unit present in the view is u4940 (u4941 is not in the view).",
+  "u2594-u2678 (USH 5-12): the 2021 course title (source: 'US History: 1877 to Present') is taken from the divider before this range (u2529-u2530); objectives numbering starts mid-sequence (e.g. USH 5 objectives 11-20, USG.2 starts at 16) and some cells have objectives 1-4 missing, so the extraction/table appears to omit or renumber objectives; units are labeled as found.",
+  "u2689-u2690, u2694-u2695: USG.2 is split across two pages ('This section is continued on next page'); labeled as one standard.",
+  "u2993-u3006 (SOC.4): table cells for the standard text and objectives are interleaved line by line (columns C2/C5); text order is scrambled but all belong to SOC.4.",
+  "u3207-u3208: HUM.6 objectives repeat the HUM.5 objectives verbatim (source error), labeled as found.",
+  "Course naming: to match part1 labels, 'US History: 1877 to the Present' and 'United States Government' are used for every copy of those courses (the source writes 'US History: 1877 to Present' and, in the 2018 part, 'US Government'); Psychology here is unnumbered 'Psychology' while part1 uses 'Psychology I/II'. Mississippi Studies and Introduction to Geography (2018 part, u4325-u4395) are given grades 9-12; the sequencing chart (u3489-u3546) places them in grades 8 or 9 depending on option.",
+  "u3212-u3213: page 333 colophon ('2021 MS CCRS ... Jennifer Desai Source Code ...') ends the first document; u3215-u3216 'the Social Studies' fragments of the second document's cover; labeled backup, grades all.",
+  "u3396-u3405: strands graphic extracted as scattered words (u3399-u3403); u3458-u3486 and u3489-u3546: course sequencing charts are garbled (fragments out of order); all labeled backup, grades all, nothing standard in them.",
+  "u3807-u3808: note explaining that grade 4 and 5 were reorganized into chronological courses and updated 2021 versions follow; labeled backup with grades 4,5 (the note concerns both grades).",
+  "2018 grade sections (u3548-u4323): cells concatenate 2018 text, tracked-change deletions, insertions and 'Reordered/Updated Objectives'; the surviving revised wording cannot be separated from the superseded wording at unit level, so whole cells are labeled standards. Duplicated objective text inside one cell (e.g. u3607-u3612, u3672-u3679, u3739-u3742) is extraction repeat of the same row.",
+  "u3557, u3561-u3563, u3579-u3587, u3588: Kindergarten objective numbering jumps (1-5, 7-9, 9-13) because the struck 2018 objectives and 2021 revisions are merged; no content judged to belong to other grades.",
+  "u3793-u3794 (G.3.5 'Combined with Standard 3'), u3973 and u3978 ('Included in 5.1'): editorial notes inside standards cells, kept as standards.",
+  "u3893-u3942 (Fourth Grade 2021) and u4028-u4079 (Fifth Grade): clean 2021 chronological versions; they duplicate the 2018 cells above them with new codes (4.MS.n, 5.n). Objective numbering in these tables is offset (e.g. 4.MS.1 objectives 4-6, 5.1 objectives 6-10) as in the source.",
+  "u4200-u4290 (Seventh Grade Compacted, 7C.n): labeled grade 7 with course null (grade-level content, not a separate course); the codes 7C.n and later 7C.n|U.S. History cells mix Early World History and U.S. History content for the compacted option.",
+  "u4849-u4886 (E.4, 2018 Economics): code, title and objectives are split into separate interleaved cells (C2/C5); labeled together as E.4. u4936: one cell holds E.5 objectives 28-29 followed by E.7-type objectives 13-17; labeled standards as one unit.",
+  "u4937-u4940 (E.6, E.7 in 2018 Economics) use numbering 9-12 that continues from earlier objectives; in this redline the same units appear before the E.8 heading in a different order than the 2021 E-number sequence.",
+  "Immigration-relevant content (e.g. Immigration Act of 1965, Chinese Exclusion Act, immigration quotas, 'American Muslims and Hispanic Americans', naturalization in USG.8) appears only inside standards/objectives cells and is labeled standards with the course/grade of its section.",
+  "Reviewer: the PDF contains the 2022 standards (u1-u1641), a superseded 2021 edition (u1642-u3211) and the 2018 standards with 2021 redlines (u3212-end). The 2022 edition covers every grade/course except Humanities, so only the 2021 Humanities course is kept from the older editions; all other older-edition text was moved to backup."
+ ]
+}

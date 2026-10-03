@@ -1,0 +1,568 @@
+{
+ "state": "TX",
+ "file": "TX highschool SS.pdf",
+ "structure": "Texas Administrative Code Ch. 113 Subchapter C (High School). \u00a7113.30 implementation note, then one section per course: \u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits, \u00a7113.41 United States History Studies Since 1877, \u00a7113.42 World History Studies, \u00a7113.43 World Geography Studies, \u00a7113.44 United States Government, \u00a7113.45 Psychology, \u00a7113.46 Sociology, \u00a7113.47 Special Topics in Social Studies, \u00a7113.48 Social Studies Research Methods, \u00a7113.49 Personal Financial Literacy, \u00a7113.50 Ethnic Studies: Mexican American Studies, \u00a7113.51 Ethnic Studies: African American Studies, \u00a7113.60 Social Studies Advanced Studies, \u00a7113.61 Economics Advanced Studies, \u00a7113.76 Personal Financial Literacy and Economics. Each section: title line (course, credit, adoption), (a) Implementation and/or General requirements (credit, recommended grade), Introduction (lettered (b) or (c); numbered paragraphs), Knowledge and skills (lettered (c) or (d); numbered TEKS (1).. with strand/topic name and 'The student is expected to:' sub-items (A), (B)...), then Statutory Authority / Source notes. Course = course title as written without the section number, credit and adoption parentheticals. No grade level is tied to any course, so all content is 9-12.",
+ "labels": [
+  {
+   "units": "u3-u5",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Chapter 113 / Subchapter C titles and statutory authority"
+  },
+  {
+   "units": "u6",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.30 Implementation of Texas Essential Knowledge and Skills for Social Studies > section heading/title"
+  },
+  {
+   "units": "u7-u8",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.30 Implementation of Texas Essential Knowledge and Skills for Social Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u9",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "\u00a7113.30 Implementation of Texas Essential Knowledge and Skills for Social Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u10",
+   "grades": "9-12",
+   "course": "Economics with Emphasis on the Free Enterprise System and Its Benefits",
+   "cat": "standards",
+   "section": "\u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits > section heading/title"
+  },
+  {
+   "units": "u11-u12",
+   "grades": "9-12",
+   "course": "Economics with Emphasis on the Free Enterprise System and Its Benefits",
+   "cat": "backup",
+   "section": "\u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits > Implementation / General requirements"
+  },
+  {
+   "units": "u13-u27",
+   "grades": "9-12",
+   "course": "Economics with Emphasis on the Free Enterprise System and Its Benefits",
+   "cat": "examples",
+   "section": "\u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits > Introduction"
+  },
+  {
+   "units": "u28-u137",
+   "grades": "9-12",
+   "course": "Economics with Emphasis on the Free Enterprise System and Its Benefits",
+   "cat": "standards",
+   "section": "\u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits > Knowledge and skills"
+  },
+  {
+   "units": "u138",
+   "grades": "9-12",
+   "course": "Economics with Emphasis on the Free Enterprise System and Its Benefits",
+   "cat": "backup",
+   "section": "\u00a7113.31 Economics with Emphasis on the Free Enterprise System and Its Benefits > Statutory authority / source note"
+  },
+  {
+   "units": "u139",
+   "grades": "9-12",
+   "course": "United States History Studies Since 1877",
+   "cat": "standards",
+   "section": "\u00a7113.41 United States History Studies Since 1877 > section heading/title"
+  },
+  {
+   "units": "u140-u141",
+   "grades": "9-12",
+   "course": "United States History Studies Since 1877",
+   "cat": "backup",
+   "section": "\u00a7113.41 United States History Studies Since 1877 > Implementation / General requirements"
+  },
+  {
+   "units": "u142-u157",
+   "grades": "9-12",
+   "course": "United States History Studies Since 1877",
+   "cat": "examples",
+   "section": "\u00a7113.41 United States History Studies Since 1877 > Introduction"
+  },
+  {
+   "units": "u158-u329",
+   "grades": "9-12",
+   "course": "United States History Studies Since 1877",
+   "cat": "standards",
+   "section": "\u00a7113.41 United States History Studies Since 1877 > Knowledge and skills"
+  },
+  {
+   "units": "u330",
+   "grades": "9-12",
+   "course": "United States History Studies Since 1877",
+   "cat": "backup",
+   "section": "\u00a7113.41 United States History Studies Since 1877 > Statutory authority / source note"
+  },
+  {
+   "units": "u331",
+   "grades": "9-12",
+   "course": "World History Studies",
+   "cat": "standards",
+   "section": "\u00a7113.42 World History Studies > section heading/title"
+  },
+  {
+   "units": "u332-u337",
+   "grades": "9-12",
+   "course": "World History Studies",
+   "cat": "backup",
+   "section": "\u00a7113.42 World History Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u338-u354",
+   "grades": "9-12",
+   "course": "World History Studies",
+   "cat": "examples",
+   "section": "\u00a7113.42 World History Studies > Introduction"
+  },
+  {
+   "units": "u355-u533",
+   "grades": "9-12",
+   "course": "World History Studies",
+   "cat": "standards",
+   "section": "\u00a7113.42 World History Studies > Knowledge and skills"
+  },
+  {
+   "units": "u534",
+   "grades": "9-12",
+   "course": "World History Studies",
+   "cat": "backup",
+   "section": "\u00a7113.42 World History Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u535",
+   "grades": "9-12",
+   "course": "World Geography Studies",
+   "cat": "standards",
+   "section": "\u00a7113.43 World Geography Studies > section heading/title"
+  },
+  {
+   "units": "u536-u537",
+   "grades": "9-12",
+   "course": "World Geography Studies",
+   "cat": "backup",
+   "section": "\u00a7113.43 World Geography Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u538-u552",
+   "grades": "9-12",
+   "course": "World Geography Studies",
+   "cat": "examples",
+   "section": "\u00a7113.43 World Geography Studies > Introduction"
+  },
+  {
+   "units": "u553-u667",
+   "grades": "9-12",
+   "course": "World Geography Studies",
+   "cat": "standards",
+   "section": "\u00a7113.43 World Geography Studies > Knowledge and skills"
+  },
+  {
+   "units": "u668",
+   "grades": "9-12",
+   "course": "World Geography Studies",
+   "cat": "backup",
+   "section": "\u00a7113.43 World Geography Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u669",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "\u00a7113.44 United States Government > section heading/title"
+  },
+  {
+   "units": "u670-u671",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "\u00a7113.44 United States Government > Implementation / General requirements"
+  },
+  {
+   "units": "u672-u686",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "\u00a7113.44 United States Government > Introduction"
+  },
+  {
+   "units": "u687-u800",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "\u00a7113.44 United States Government > Knowledge and skills"
+  },
+  {
+   "units": "u805",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "\u00a7113.44 United States Government > Statutory authority / source note"
+  },
+  {
+   "units": "u806",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "\u00a7113.45 Psychology > section heading/title"
+  },
+  {
+   "units": "u807",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "\u00a7113.45 Psychology > Implementation / General requirements"
+  },
+  {
+   "units": "u808-u815",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "\u00a7113.45 Psychology > Introduction"
+  },
+  {
+   "units": "u816-u907",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "\u00a7113.45 Psychology > Knowledge and skills"
+  },
+  {
+   "units": "u908",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "\u00a7113.45 Psychology > Statutory authority / source note"
+  },
+  {
+   "units": "u909",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "\u00a7113.46 Sociology > section heading/title"
+  },
+  {
+   "units": "u910",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "\u00a7113.46 Sociology > Implementation / General requirements"
+  },
+  {
+   "units": "u911-u924",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "\u00a7113.46 Sociology > Introduction"
+  },
+  {
+   "units": "u925-u1035",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "\u00a7113.46 Sociology > Knowledge and skills"
+  },
+  {
+   "units": "u1036",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "\u00a7113.46 Sociology > Statutory authority / source note"
+  },
+  {
+   "units": "u1037",
+   "grades": "9-12",
+   "course": "Special Topics in Social Studies",
+   "cat": "standards",
+   "section": "\u00a7113.47 Special Topics in Social Studies > section heading/title"
+  },
+  {
+   "units": "u1038",
+   "grades": "9-12",
+   "course": "Special Topics in Social Studies",
+   "cat": "backup",
+   "section": "\u00a7113.47 Special Topics in Social Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u1039-u1050",
+   "grades": "9-12",
+   "course": "Special Topics in Social Studies",
+   "cat": "examples",
+   "section": "\u00a7113.47 Special Topics in Social Studies > Introduction"
+  },
+  {
+   "units": "u1051-u1081",
+   "grades": "9-12",
+   "course": "Special Topics in Social Studies",
+   "cat": "standards",
+   "section": "\u00a7113.47 Special Topics in Social Studies > Knowledge and skills"
+  },
+  {
+   "units": "u1082",
+   "grades": "9-12",
+   "course": "Special Topics in Social Studies",
+   "cat": "backup",
+   "section": "\u00a7113.47 Special Topics in Social Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u1083",
+   "grades": "9-12",
+   "course": "Social Studies Research Methods",
+   "cat": "standards",
+   "section": "\u00a7113.48 Social Studies Research Methods > section heading/title"
+  },
+  {
+   "units": "u1084",
+   "grades": "9-12",
+   "course": "Social Studies Research Methods",
+   "cat": "backup",
+   "section": "\u00a7113.48 Social Studies Research Methods > Implementation / General requirements"
+  },
+  {
+   "units": "u1085-u1097",
+   "grades": "9-12",
+   "course": "Social Studies Research Methods",
+   "cat": "examples",
+   "section": "\u00a7113.48 Social Studies Research Methods > Introduction"
+  },
+  {
+   "units": "u1098-u1154",
+   "grades": "9-12",
+   "course": "Social Studies Research Methods",
+   "cat": "standards",
+   "section": "\u00a7113.48 Social Studies Research Methods > Knowledge and skills"
+  },
+  {
+   "units": "u1155",
+   "grades": "9-12",
+   "course": "Social Studies Research Methods",
+   "cat": "backup",
+   "section": "\u00a7113.48 Social Studies Research Methods > Statutory authority / source note"
+  },
+  {
+   "units": "u1156",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "\u00a7113.49 Personal Financial Literacy > section heading/title"
+  },
+  {
+   "units": "u1157",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "backup",
+   "section": "\u00a7113.49 Personal Financial Literacy > Implementation / General requirements"
+  },
+  {
+   "units": "u1158-u1172",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "examples",
+   "section": "\u00a7113.49 Personal Financial Literacy > Introduction"
+  },
+  {
+   "units": "u1173-u1261",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "\u00a7113.49 Personal Financial Literacy > Knowledge and skills"
+  },
+  {
+   "units": "u1262-u1263",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "backup",
+   "section": "\u00a7113.49 Personal Financial Literacy > Statutory authority / source note"
+  },
+  {
+   "units": "u1264",
+   "grades": "9-12",
+   "course": "Ethnic Studies: Mexican American Studies",
+   "cat": "standards",
+   "section": "\u00a7113.50 Ethnic Studies: Mexican American Studies > section heading/title"
+  },
+  {
+   "units": "u1265",
+   "grades": "9-12",
+   "course": "Ethnic Studies: Mexican American Studies",
+   "cat": "backup",
+   "section": "\u00a7113.50 Ethnic Studies: Mexican American Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u1266-u1282",
+   "grades": "9-12",
+   "course": "Ethnic Studies: Mexican American Studies",
+   "cat": "examples",
+   "section": "\u00a7113.50 Ethnic Studies: Mexican American Studies > Introduction"
+  },
+  {
+   "units": "u1283-u1348",
+   "grades": "9-12",
+   "course": "Ethnic Studies: Mexican American Studies",
+   "cat": "standards",
+   "section": "\u00a7113.50 Ethnic Studies: Mexican American Studies > Knowledge and skills"
+  },
+  {
+   "units": "u1349-u1350",
+   "grades": "9-12",
+   "course": "Ethnic Studies: Mexican American Studies",
+   "cat": "backup",
+   "section": "\u00a7113.50 Ethnic Studies: Mexican American Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u1351",
+   "grades": "9-12",
+   "course": "Ethnic Studies: African American Studies",
+   "cat": "standards",
+   "section": "\u00a7113.51 Ethnic Studies: African American Studies > section heading/title"
+  },
+  {
+   "units": "u1352",
+   "grades": "9-12",
+   "course": "Ethnic Studies: African American Studies",
+   "cat": "backup",
+   "section": "\u00a7113.51 Ethnic Studies: African American Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u1353-u1368",
+   "grades": "9-12",
+   "course": "Ethnic Studies: African American Studies",
+   "cat": "examples",
+   "section": "\u00a7113.51 Ethnic Studies: African American Studies > Introduction"
+  },
+  {
+   "units": "u1369-u1504",
+   "grades": "9-12",
+   "course": "Ethnic Studies: African American Studies",
+   "cat": "standards",
+   "section": "\u00a7113.51 Ethnic Studies: African American Studies > Knowledge and skills"
+  },
+  {
+   "units": "u1505-u1506",
+   "grades": "9-12",
+   "course": "Ethnic Studies: African American Studies",
+   "cat": "backup",
+   "section": "\u00a7113.51 Ethnic Studies: African American Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u1507",
+   "grades": "9-12",
+   "course": "Social Studies Advanced Studies",
+   "cat": "standards",
+   "section": "\u00a7113.60 Social Studies Advanced Studies > section heading/title"
+  },
+  {
+   "units": "u1508",
+   "grades": "9-12",
+   "course": "Social Studies Advanced Studies",
+   "cat": "backup",
+   "section": "\u00a7113.60 Social Studies Advanced Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u1509",
+   "grades": "9-12",
+   "course": "Social Studies Advanced Studies",
+   "cat": "examples",
+   "section": "\u00a7113.60 Social Studies Advanced Studies > Introduction"
+  },
+  {
+   "units": "u1510-u1538",
+   "grades": "9-12",
+   "course": "Social Studies Advanced Studies",
+   "cat": "standards",
+   "section": "\u00a7113.60 Social Studies Advanced Studies > Knowledge and skills"
+  },
+  {
+   "units": "u1539-u1540",
+   "grades": "9-12",
+   "course": "Social Studies Advanced Studies",
+   "cat": "backup",
+   "section": "\u00a7113.60 Social Studies Advanced Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u1541",
+   "grades": "9-12",
+   "course": "Economics Advanced Studies",
+   "cat": "standards",
+   "section": "\u00a7113.61 Economics Advanced Studies > section heading/title"
+  },
+  {
+   "units": "u1542",
+   "grades": "9-12",
+   "course": "Economics Advanced Studies",
+   "cat": "backup",
+   "section": "\u00a7113.61 Economics Advanced Studies > Implementation / General requirements"
+  },
+  {
+   "units": "u1543-u1548",
+   "grades": "9-12",
+   "course": "Economics Advanced Studies",
+   "cat": "examples",
+   "section": "\u00a7113.61 Economics Advanced Studies > Introduction"
+  },
+  {
+   "units": "u1549-u1573",
+   "grades": "9-12",
+   "course": "Economics Advanced Studies",
+   "cat": "standards",
+   "section": "\u00a7113.61 Economics Advanced Studies > Knowledge and skills"
+  },
+  {
+   "units": "u1574-u1575",
+   "grades": "9-12",
+   "course": "Economics Advanced Studies",
+   "cat": "backup",
+   "section": "\u00a7113.61 Economics Advanced Studies > Statutory authority / source note"
+  },
+  {
+   "units": "u1580",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy and Economics",
+   "cat": "standards",
+   "section": "\u00a7113.76 Personal Financial Literacy and Economics > section heading/title"
+  },
+  {
+   "units": "u1581-u1582",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy and Economics",
+   "cat": "backup",
+   "section": "\u00a7113.76 Personal Financial Literacy and Economics > Implementation / General requirements"
+  },
+  {
+   "units": "u1583-u1597",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy and Economics",
+   "cat": "examples",
+   "section": "\u00a7113.76 Personal Financial Literacy and Economics > Introduction"
+  },
+  {
+   "units": "u1598-u1689",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy and Economics",
+   "cat": "standards",
+   "section": "\u00a7113.76 Personal Financial Literacy and Economics > Knowledge and skills"
+  },
+  {
+   "units": "u1690",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy and Economics",
+   "cat": "backup",
+   "section": "\u00a7113.76 Personal Financial Literacy and Economics > Statutory authority / source note"
+  }
+ ],
+ "issues": [
+  "All course sections are labeled grades 9-12 (some courses state a recommended grade, e.g. \u00a7113.31 recommended Grade 12, \u00a7113.49 and \u00a7113.50-113.51 recommended Grades 10-12, \u00a7113.76 recommended Grades 11-12; not treated as binding).",
+  "Introduction paragraphs (including mandate-like paragraphs such as Celebrate Freedom Week (A)/(B)) labeled examples per state guide; they could arguably be backup.",
+  "u154-u156 (\u00a7113.41): the '(A)' label u155 is separated from its text u154 (order swapped in extraction); similar split/swapped sub-item labels at u707-u708, u773-u775 (\u00a7113.44).",
+  "Several \u00a7113.4x-113.5x sentences split across page breaks into adjacent units (e.g. u1091-u1096, u1165-u1170, u1589-u1594, u1271-u1276); same label applies.",
+  "u1509, u1543-u1548 (\u00a7113.60, \u00a7113.61): the '(b) Introduction.' text is inline in the same unit; labeled examples. These two sections' TEKS have no strand names.",
+  "Statutory Authority and Source notes (u1262-u1263, u1349-u1350, u1505-u1506, u1539-u1540, u1574-u1575) labeled backup."
+ ]
+}

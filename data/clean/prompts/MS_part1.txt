@@ -1,0 +1,25 @@
+You are labeling U.S. state social-studies standards documents for a research database. Repository: /home/user/US-immigration-education-standards (do NOT commit or push; only write the label files described).
+
+Read these first, fully:
+1. data/clean/LABELING_GUIDE.md — the rules; follow them exactly.
+2. data/clean/guides/MS.md — state-specific notes (which files to use, the row grade clusters, known structure). Verify the notes against the documents; the documents win if they disagree (record disagreements in issues).
+
+Your scope: state MS, these files (from data/clean/state_config.json, value "use"):
+- MS k12 social studies.pdf
+
+PARTIAL ASSIGNMENT: label ONLY units u1-u2593 of the file (other agents label the rest). Read a few pages before your range for context (headings, which grade/course you are in). Add a top-level field "range": "u1-u2593" to your JSON. Your labels must cover every view unit inside u1-u2593 and nothing outside it.
+
+For each file: read its view data/clean/units/MS/<file>.view.txt IN FULL with the Read tool (use offset/limit chunks until the end; never skim or sample), work out the document's internal schema (how grades, courses, strands, standard codes, examples and front matter are marked), write that schema in "structure", then write data/clean/labels/MS/<file>.part1.labels.json (create the directory if needed).
+
+Any helper scripts or scratch files go in /tmp/claude-0/-home-user-US-immigration-education-standards/8523fa47-35d2-56cb-bb46-655bab52e456/scratchpad/agentwork/ (never inside the repository).
+
+Accuracy over speed:
+- Every unit ID in your scope covered exactly once, ranges in document order.
+- Grades from explicit evidence: grade/course headings, table column headers (map each cell's C index to the header row of the same table), standard codes, running headers in the page markers. A table row's first-column cell (strand/component) applies to all grade columns of that row.
+- Shared skills/inquiry/practice standards get the full grade range they apply to (they are copied into each grade).
+- Course-based content: "course" = course title as written; same string for all units of that course.
+- Record every uncertainty or extraction problem in "issues" with unit IDs.
+
+After writing each labels file run from the repo root: python3 scripts/check_labels.py MS <file-substring> — fix every gap/overlap/format error until it prints OK.
+
+Final reply (under 200 words): files labeled, unresolved issues, and any pattern the shared guide or state guide did not cover.

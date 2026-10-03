@@ -1,0 +1,608 @@
+{
+ "state": "HI",
+ "file": "HCPSIII_Economics_ede75f.pdf",
+ "structure": "Single high school course (header u1: 'Grade/Course: Economics / ACCN: CSD2500'). Small tables per page: Strand (Economics) + 'Standard N: ...' heading; then per benchmark a table with Topic, Benchmark text and code (SS.12E.n.m, text and code interleaved across rows), Sample Performance (example task), Assessment (SPA) and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Page breaks split a few rubric rows.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u6",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi >  "
+  },
+  {
+   "units": "u7-u9",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Opportunity Costs and Trade-offs "
+  },
+  {
+   "units": "u10-u11",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Opportunity Costs and Trade-offs SS.12E.1.1"
+  },
+  {
+   "units": "u12-u13",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Opportunity Costs and Trade-offs SS.12E.1.1: sample performance"
+  },
+  {
+   "units": "u14-u23",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u24",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Opportunity Costs and Trade-offs "
+  },
+  {
+   "units": "u25-u27",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Productivity "
+  },
+  {
+   "units": "u28-u29",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Productivity SS.12E.1.2"
+  },
+  {
+   "units": "u30-u31",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Productivity SS.12E.1.2: sample performance"
+  },
+  {
+   "units": "u32-u41",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u42-u43",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 1: Understand that scarcity and choice impact economic activity of indi > Productivity SS.12E.1.2"
+  },
+  {
+   "units": "u44-u46",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  >  "
+  },
+  {
+   "units": "u47-u50",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets "
+  },
+  {
+   "units": "u51-u53",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets SS.12E.2.1"
+  },
+  {
+   "units": "u54-u55",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets SS.12E.2.1: sample performance"
+  },
+  {
+   "units": "u56-u65",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u66-u69",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets "
+  },
+  {
+   "units": "u70-u71",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets SS.12E.2.2"
+  },
+  {
+   "units": "u72-u73",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets SS.12E.2.2: sample performance"
+  },
+  {
+   "units": "u74-u83",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u84-u85",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 2: Understand markets and the role of supply and demand in determining  > Role and Function of Markets SS.12E.2.2"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom >  "
+  },
+  {
+   "units": "u88-u91",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth "
+  },
+  {
+   "units": "u92-u94",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth SS.12E.3.1"
+  },
+  {
+   "units": "u95-u96",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth SS.12E.3.1: sample performance"
+  },
+  {
+   "units": "u97-u106",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u107-u110",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth "
+  },
+  {
+   "units": "u111-u112",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth SS.12E.3.2"
+  },
+  {
+   "units": "u113-u114",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth SS.12E.3.2: sample performance"
+  },
+  {
+   "units": "u115-u124",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u125-u126",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 3: Understand the sources of income and growth in a market-based econom > Economic Growth SS.12E.3.2"
+  },
+  {
+   "units": "u127-u129",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  >  "
+  },
+  {
+   "units": "u130-u134",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Personal Economic Decisions "
+  },
+  {
+   "units": "u135-u137",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Personal Economic Decisions SS.12E.4.1"
+  },
+  {
+   "units": "u138-u139",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Personal Economic Decisions SS.12E.4.1: sample performance"
+  },
+  {
+   "units": "u140-u149",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u150",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Personal Economic Decisions "
+  },
+  {
+   "units": "u151-u153",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Economic Reasoning "
+  },
+  {
+   "units": "u154-u155",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Economic Reasoning SS.12E.4.2"
+  },
+  {
+   "units": "u156-u157",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Economic Reasoning SS.12E.4.2: sample performance"
+  },
+  {
+   "units": "u158-u170",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u171-u172",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 4: Understand how to use personal economic decision-making to maximize  > Economic Reasoning SS.12E.4.2"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo >  "
+  },
+  {
+   "units": "u175-u178",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Economic Institutions "
+  },
+  {
+   "units": "u179-u181",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Economic Institutions SS.12E.5.1"
+  },
+  {
+   "units": "u182-u183",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Economic Institutions SS.12E.5.1: sample performance"
+  },
+  {
+   "units": "u184-u193",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u194",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Economic Institutions "
+  },
+  {
+   "units": "u195-u199",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Competition "
+  },
+  {
+   "units": "u200-u202",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Competition SS.12E.5.2"
+  },
+  {
+   "units": "u203-u204",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Competition SS.12E.5.2: sample performance"
+  },
+  {
+   "units": "u205-u214",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u215-u216",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 5: Understand the various economic institutions of a market-based econo > Competition SS.12E.5.2"
+  },
+  {
+   "units": "u217-u218",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies >  "
+  },
+  {
+   "units": "u219-u222",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > National Economy "
+  },
+  {
+   "units": "u223-u224",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > National Economy SS.12E.6.1"
+  },
+  {
+   "units": "u225-u226",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 6: Understand the national economy and economic policies > National Economy SS.12E.6.1: sample performance"
+  },
+  {
+   "units": "u227-u236",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u237",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > National Economy "
+  },
+  {
+   "units": "u238-u241",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Economic Policies "
+  },
+  {
+   "units": "u242-u243",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Economic Policies SS.12E.6.2"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 6: Understand the national economy and economic policies > Economic Policies SS.12E.6.2: sample performance"
+  },
+  {
+   "units": "u246-u255",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u256",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Economic Policies "
+  },
+  {
+   "units": "u257-u260",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Revenue "
+  },
+  {
+   "units": "u261-u262",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Revenue SS.12E.6.3"
+  },
+  {
+   "units": "u263-u264",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 6: Understand the national economy and economic policies > Revenue SS.12E.6.3: sample performance"
+  },
+  {
+   "units": "u265-u274",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u275-u276",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 6: Understand the national economy and economic policies > Revenue SS.12E.6.3"
+  },
+  {
+   "units": "u277-u278",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development >  "
+  },
+  {
+   "units": "u279-u281",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Characteristics of Global Trade "
+  },
+  {
+   "units": "u282-u283",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Characteristics of Global Trade SS.12E.7.1"
+  },
+  {
+   "units": "u284-u285",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Characteristics of Global Trade SS.12E.7.1: sample performance"
+  },
+  {
+   "units": "u286-u295",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u296",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Characteristics of Global Trade "
+  },
+  {
+   "units": "u297-u299",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development "
+  },
+  {
+   "units": "u300-u301",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development SS.12E.7.2"
+  },
+  {
+   "units": "u302-u303",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development SS.12E.7.2: sample performance"
+  },
+  {
+   "units": "u304-u313",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u314-u317",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development "
+  },
+  {
+   "units": "u318-u319",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development SS.12E.7.3"
+  },
+  {
+   "units": "u320-u321",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Standard 7: Understand the principles of global trade and economic development > Economic Development SS.12E.7.3: sample performance"
+  },
+  {
+   "units": "u322-u331",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Benchmark text is interleaved with code cells (e.g. u131-u137); kept together as standards.",
+  "u164-u170: rubric rows split across page break (backup).",
+  "Course code SS.12E suggests grade 12 but no grade is stated; assigned 9-12."
+ ]
+}

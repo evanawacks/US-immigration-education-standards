@@ -1,0 +1,405 @@
+{
+ "state": "HI",
+ "file": "HCPSIII_GlobalStudies_605e6f.pdf",
+ "structure": "Single high school course. Header u1 gives 'Grade/Course: Global Studies / ACCN: CGW2400'. Pages are series of small tables: Strand (Global Studies) + Standard heading: 'Standard N: ...' (standards 1-5 cycle twice); per benchmark a table with Topic, benchmark text and code (Benchmark SS.G.S.n.m), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u5",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence >  "
+  },
+  {
+   "units": "u6-u8",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > Economic Integration "
+  },
+  {
+   "units": "u9-u10",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand characteristics of global interdependence > Economic Integration : sample performance"
+  },
+  {
+   "units": "u11-u20",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u21-u22",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > Economic Integration "
+  },
+  {
+   "units": "u23-u24",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them >  "
+  },
+  {
+   "units": "u25-u27",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > Conflicting Groups "
+  },
+  {
+   "units": "u28-u29",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > Conflicting Groups : sample performance"
+  },
+  {
+   "units": "u30-u39",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u40-u41",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > Conflicting Groups "
+  },
+  {
+   "units": "u42-u43",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries >  "
+  },
+  {
+   "units": "u44-u49",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries > Human Rights "
+  },
+  {
+   "units": "u50-u51",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand issues of social justice in various countries > Human Rights : sample performance"
+  },
+  {
+   "units": "u52-u61",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u62-u63",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries > Human Rights "
+  },
+  {
+   "units": "u64-u65",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand interactions and perceptions among world cultures >  "
+  },
+  {
+   "units": "u66-u69",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand interactions and perceptions among world cultures > Cultural Integration "
+  },
+  {
+   "units": "u70-u71",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand interactions and perceptions among world cultures > Cultural Integration : sample performance"
+  },
+  {
+   "units": "u72-u81",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u82-u83",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand interactions and perceptions among world cultures > Cultural Integration "
+  },
+  {
+   "units": "u84-u85",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future >  "
+  },
+  {
+   "units": "u86-u89",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Environmental Issues "
+  },
+  {
+   "units": "u90-u91",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Environmental Issues : sample performance"
+  },
+  {
+   "units": "u92-u101",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u102-u103",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Environmental Issues "
+  },
+  {
+   "units": "u104-u105",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence >  "
+  },
+  {
+   "units": "u106-u109",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > Technological Transformations "
+  },
+  {
+   "units": "u110-u111",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand characteristics of global interdependence > Technological Transformations : sample performance"
+  },
+  {
+   "units": "u112-u121",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u122-u123",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > Technological Transformations "
+  },
+  {
+   "units": "u124-u125",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them >  "
+  },
+  {
+   "units": "u126-u130",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > International Law "
+  },
+  {
+   "units": "u131-u132",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > International Law : sample performance"
+  },
+  {
+   "units": "u133-u142",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u143-u144",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > International Law "
+  },
+  {
+   "units": "u145-u146",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries >  "
+  },
+  {
+   "units": "u147-u150",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries > Immigrants "
+  },
+  {
+   "units": "u151-u152",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand issues of social justice in various countries > Immigrants : sample performance"
+  },
+  {
+   "units": "u153-u166",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u167-u168",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues of social justice in various countries > Immigrants "
+  },
+  {
+   "units": "u169-u170",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future >  "
+  },
+  {
+   "units": "u171-u174",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Population Issues "
+  },
+  {
+   "units": "u175-u176",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Population Issues : sample performance"
+  },
+  {
+   "units": "u177-u186",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u187-u188",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand potential impacts of large scale changes on the future > Population Issues "
+  },
+  {
+   "units": "u189-u190",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence >  "
+  },
+  {
+   "units": "u191-u193",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > International Relations "
+  },
+  {
+   "units": "u194-u195",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand characteristics of global interdependence > International Relations : sample performance"
+  },
+  {
+   "units": "u196-u205",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u206-u207",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand characteristics of global interdependence > International Relations "
+  },
+  {
+   "units": "u208-u209",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them >  "
+  },
+  {
+   "units": "u210-u214",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "standards",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > Democratic Movements "
+  },
+  {
+   "units": "u215-u216",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "examples",
+   "section": "Standard 2: Examine conflicts in the world and efforts to resolve them > Democratic Movements : sample performance"
+  },
+  {
+   "units": "u217-u226",
+   "grades": "9-12",
+   "course": "Global Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "Standard headings repeat (Standard 1-5, then Standard 1-3 again) with new benchmarks SS.G.S.1.2, 1.3, 2.2, 2.3, 3.2, 5.2; this is the document's structure.",
+  "u159-u166: rubric row split across page break (backup)."
+ ]
+}

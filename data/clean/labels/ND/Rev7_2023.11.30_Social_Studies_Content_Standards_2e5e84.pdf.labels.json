@@ -1,0 +1,4226 @@
+{
+ "state": "ND",
+ "file": "Rev7_2023.11.30_Social_Studies_Content_Standards_2e5e84.pdf",
+ "structure": "North Dakota Social Studies Content Standards (Rev7, 11/30/2023; cover dated August 2019). Front matter (credits, foreword, revision log, TOC, introduction, references). Standards are written in grade bands, not single grades; districts set grade-level benchmarks. Grades K-5 section: four strands (Civics & Government, Economics, Geography, History), each first printed as a list of standards by band (codes C.K_2.1 = strand.band.number, C.3_5.1; diamond marks Century Code items), then repeated in tables per theme with columns 'Grades K-2' | 'Grades 3-5' | 'Guiding Questions' (guiding questions column is shared by both bands; treated as examples). Grades 6-12 section: eight strands/courses (Civics & Government, Economics, Geography, United States History, World History, North Dakota Studies, Sociology, Psychology), each with intro narrative then a table 'Code | Standard | Benchmarks | Guiding Topics' (C.6_12.2 = standard, C.6_12.2.1 = benchmark). US History (5 eras, codes US.6_12.1-6.E1.1), World History (4 eras, WH.6_12.1-6.E1.1), Sociology (4 domains, SOC.6_12.1-2.D1.1) and Psychology (8 domains, PSY.6_12.1-3.D1.1) repeat the same anchor standards under each era/domain with era/domain-specific benchmarks; Guiding Topics are the examples column. Extraction wraps the underscore of the printed code (C.6_12 shown as 'C.6 12') and puts a trailing ' _' on wrapped lines. Appendix A: scope and sequence (K-5 optional progression chart per grade K-5 with topic cells per grade column, plus K-12 Options A/B). Appendix B: Native American Essential Understandings (NDNAEU 1-7) and two Inquiry Design Model blueprints. Appendix C: civics learning design. Appendix D: ND literacy standards (RH, WHST) for grades 6-12. In the 6-12 section each strand is labeled as a course (course = strand title as written) with grades 6-12.",
+ "labels": [
+  {
+   "units": "u2-u192",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: cover, credits, foreword, revision log, TOC, introduction, references"
+  },
+  {
+   "units": "u195-u210",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "K-5 content standards intro and how-to-read (sample table)"
+  },
+  {
+   "units": "u213",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u214",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u215-u216",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u217",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u218",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u219",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u220",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u221",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u222",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u223",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u226",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u227",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u228",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u229",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u230",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u231",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u232",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u235",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u236",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u237-u238",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u239",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u240",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u241",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u242",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u243",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u244",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u245",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u248",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u249",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u250",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u251",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u252",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u253",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u256",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u257",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u258-u259",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u260",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u261",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u262",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u263",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u264",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u265",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u266",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u269",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u270",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u271",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u272",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u273",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u274",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u275",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u276",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u277",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u278",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u279",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u280",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u281",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u284",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u285",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u286",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u287",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u288",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u289",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u290",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u291",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u292",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u295",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u296",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u297",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u298",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u299",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u300",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u301",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u302",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u303",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u304",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u305",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u306",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u307",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u308",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 content standards"
+  },
+  {
+   "units": "u311-u356",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "6-12 content standards intro, coding explanation, sample tables"
+  },
+  {
+   "units": "u359",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government intro/heading"
+  },
+  {
+   "units": "u360",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics & Government — 6-12 Civics & Government intro/heading"
+  },
+  {
+   "units": "u361",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government intro/heading"
+  },
+  {
+   "units": "u362",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics & Government — 6-12 Civics & Government intro/heading"
+  },
+  {
+   "units": "u363",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government intro/heading"
+  },
+  {
+   "units": "u364-u366",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u367",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u368-u370",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u371",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u372",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u373",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u374",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u375",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u378-u380",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u381",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u382-u384",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u385",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u386",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u387",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u388",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u389",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u390",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u391",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u392",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u393",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u394-u396",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u397",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u398-u400",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u401",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u402",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u403",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u406-u408",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u409",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u410-u412",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u413",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u414",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u415",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u416",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u417",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u418",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u419",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u420",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u421",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics & Government — 6-12 Civics & Government standards table"
+  },
+  {
+   "units": "u424",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics intro/heading"
+  },
+  {
+   "units": "u425",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics intro/heading"
+  },
+  {
+   "units": "u426-u427",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics — 6-12 Economics intro/heading"
+  },
+  {
+   "units": "u428",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics intro/heading"
+  },
+  {
+   "units": "u429-u431",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u432",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u433-u435",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u436",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u437",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u438",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u439-u441",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u442",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u443-u445",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u446",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u449-u451",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u452",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u453-u455",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u456",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u457",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u458",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u459",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u460",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u461-u463",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u464",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u465-u467",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u468",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u469",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u470",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u471",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u472",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u473-u475",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u476",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u477-u479",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u480",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u481-u483",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u484",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u485-u487",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u488",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u489",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u490",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u493-u495",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u496",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u497-u499",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u500",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u501",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u502",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u503",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u504",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u505",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u506",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u507",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u508",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics — 6-12 Economics standards table"
+  },
+  {
+   "units": "u511",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography intro/heading"
+  },
+  {
+   "units": "u512-u513",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography intro/heading"
+  },
+  {
+   "units": "u514",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography intro/heading"
+  },
+  {
+   "units": "u515-u517",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u518",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u519-u521",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u522",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u523",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u524",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u525",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u526",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u527",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u528",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u529",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u530",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u533-u535",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u536",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u537-u539",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u540",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u541",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u542",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u543",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u544",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u545-u547",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u548",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u549-u551",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u552",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u553",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u554",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u555",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u556",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u557",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u558",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u559-u561",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u562",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u563-u565",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u566",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u567",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u568",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u571-u573",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u574",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u575-u577",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u578",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u579",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u580",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography — 6-12 Geography standards table"
+  },
+  {
+   "units": "u583",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History intro/heading"
+  },
+  {
+   "units": "u584",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History intro/heading"
+  },
+  {
+   "units": "u585",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "United States History — 6-12 United States History intro/heading"
+  },
+  {
+   "units": "u586",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History intro/heading"
+  },
+  {
+   "units": "u587-u590",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u591",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u592-u594",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u595",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u596-u611",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u612",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u613-u615",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u616",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u617-u632",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u633",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u634-u636",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u637",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u638-u653",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u654",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u655-u657",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u658",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u659-u672",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u673",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u674-u676",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u677",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u678-u687",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History — 6-12 United States History standards table"
+  },
+  {
+   "units": "u690",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u691",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u692",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u693",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u694",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u697",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History intro/heading"
+  },
+  {
+   "units": "u698-u701",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u702",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u703-u705",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u706",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u707-u720",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u721",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u722-u724",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u725",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u726-u741",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u742",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u743-u745",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u746",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u747-u760",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u761",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u762-u764",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u765",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u766-u775",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History — 6-12 World History standards table"
+  },
+  {
+   "units": "u778",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies intro/heading"
+  },
+  {
+   "units": "u779-u780",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies intro/heading"
+  },
+  {
+   "units": "u781",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies intro/heading"
+  },
+  {
+   "units": "u782-u784",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u785",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u786-u788",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u789",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u790",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u791",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u792",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u793",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u796-u798",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u799",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u800-u802",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u803",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u804",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u805",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u806",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u807",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u808-u810",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u811",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u812-u814",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u815",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u816",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u817",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u820-u822",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u823",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u824-u826",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u827",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u828",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u829",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u830",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u831",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u832",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u833",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u834",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u835",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u836",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u837",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "North Dakota Studies — 6-12 North Dakota Studies standards table"
+  },
+  {
+   "units": "u840",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology intro/heading"
+  },
+  {
+   "units": "u841-u842",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology intro/heading"
+  },
+  {
+   "units": "u843",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology intro/heading"
+  },
+  {
+   "units": "u844-u847",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u848",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u849-u851",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u852",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u853-u858",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u859",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u860-u862",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u863",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u864-u871",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u872",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u873-u875",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u876",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u877-u882",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u883",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u884-u886",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u887",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u888-u889",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sociology — 6-12 Sociology standards table"
+  },
+  {
+   "units": "u892",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology intro/heading"
+  },
+  {
+   "units": "u893-u894",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology intro/heading"
+  },
+  {
+   "units": "u895",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology intro/heading"
+  },
+  {
+   "units": "u896-u899",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u900",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u901-u903",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u904",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u905-u914",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u915",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u916-u918",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u919",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u920-u927",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u928",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u929-u931",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u932",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u933-u942",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u943",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u944-u946",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u947",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u948-u955",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u956",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u957-u959",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u960",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u961-u970",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u971",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u972-u974",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u975",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u976-u983",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u984",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u985-u987",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u988",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u989-u996",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u997",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u998-u1000",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u1001",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u1002-u1005",
+   "grades": "6-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Psychology — 6-12 Psychology standards table"
+  },
+  {
+   "units": "u1009-u1018",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: scope and sequence option (cover/intro)"
+  },
+  {
+   "units": "u1019-u1020",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1021",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1022",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1023",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1024",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1025",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1026",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1027",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1028-u1029",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1030",
+   "grades": "1-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1031-u1032",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1033-u1034",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1035",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 overview progression graphic"
+  },
+  {
+   "units": "u1038-u1039",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1040",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1041",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1042",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1043",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1044",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1045",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1046",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1047",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1048",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1049",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1050",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1051",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1052",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1053",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1054",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1055",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1056",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1057-u1058",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1059",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1060",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1061",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1062",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1063",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1064",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1065",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1066",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1067",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1068",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1069",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1070",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1071",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1072",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1073",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1074",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1075",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1076-u1078",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1079",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1080",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1081",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1082",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1083",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1084",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1085",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1086",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1087",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1088",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1089",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1090",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1091",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1092",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1093",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1094-u1095",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1096",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1097",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1098",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1099",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1100",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1101",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1102",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1103",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1104",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1105",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1106",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1107",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1108",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1109",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1110",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1111",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1114",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1115",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1116",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1117",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1118",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1119",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1120",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1121",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1122-u1123",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1124",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1125",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1126",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1127",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1128",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1129",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1130",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1131",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1132",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1133",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1134",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1135",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1136",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1137",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1138",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1139",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1140",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1141",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1142",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1143",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1144",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1145",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1146",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1147",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1148-u1149",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1150",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1151",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1152",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1153-u1154",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1155",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1156",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1157-u1158",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1159",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1160",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1161",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1162",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1165",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1166",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1167",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1168",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1169",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1170",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1171",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1172",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1173",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1174",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1175",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1176",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1177",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1178",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1179",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1180",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1181",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1182-u1183",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1184",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1185",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1186",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1187-u1189",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1190",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1191",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1192",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1193",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1194",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1195",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1196",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1197",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1198",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1199",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1200",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1201",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1202-u1203",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1204",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1205",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1206",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1207",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1208",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1209",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1210",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1211",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1212",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1215",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1216",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1217",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1218",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1219",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1220",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1221",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1222",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1223-u1224",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1225",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1226",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1227",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1228",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1229",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1230",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1231",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1232",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1233",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1234",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1235",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1236",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1237",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1238",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1239-u1240",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1241",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1242",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1243",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1244-u1245",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1246",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1247-u1248",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1249",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1250",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1251",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1252",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1253",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1254",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1255",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1256",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1257",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1258",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1259",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1260",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1261",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1262",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1263-u1264",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1265",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1266",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1267",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1268",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1269",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1270",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1271",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1272-u1273",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1274",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: K-5 optional progression chart"
+  },
+  {
+   "units": "u1277-u1300",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: scope and sequence options A and B (course sequence by grade)"
+  },
+  {
+   "units": "u1304-u1305",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix B cover"
+  },
+  {
+   "units": "u1308-u1330",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B: Native American Essential Understandings"
+  },
+  {
+   "units": "u1331-u1361",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B: IDM blueprint Tribal Government"
+  },
+  {
+   "units": "u1364-u1371",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B: Native American Essential Understandings (Perspectives blueprint)"
+  },
+  {
+   "units": "u1372-u1406",
+   "grades": "6-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B: IDM blueprint Perspectives"
+  },
+  {
+   "units": "u1410-u1424",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix C: Civics education learning design"
+  },
+  {
+   "units": "u1428-u1430",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D cover"
+  },
+  {
+   "units": "u1433-u1580",
+   "grades": "6-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D: literacy standards (RH, WHST)"
+  }
+ ],
+ "issues": [
+  "Judgment call: the 6-12 strands are not formally courses in the document (standards 'do not specify a course'), but each strand has its own standards/benchmarks, and Appendix A names Economics, Government, Geography, World History, US History and elective courses. I set course to the strand title (Civics & Government, Economics, Geography, United States History, World History, North Dakota Studies, Sociology, Psychology) with grades 6-12 for units u359-u1005. K-5 strands have course null.",
+  "u195-u210: page 10 'How to read' sample table repeats Civics standard C.K_2.5/C.3_5.5 text; labeled backup (illustration, duplicate of u230-u231).",
+  "u315-u356: pages 19-20 coding-example tables repeat C.6_12.2.1-2 and US.6_12.1 Era 1 standards; labeled backup as coding examples (full versions at u382-u387 and u587-u605).",
+  "K-5 standards appear twice: as a plain list (u214-u216, u236-u238, u257-u259, u284-u285) and again in the theme tables; both labeled standards, grades by band. Extraction of the table cells has ' _' line-wrap artifacts.",
+  "K-5 'Guiding Questions' cells span both bands: grades K-5 where both K-2 and 3-5 cells exist; u253 and u281 set to 3-5 because the K-2 cell for that theme is empty.",
+  "u251, u279: 'Guiding Questions' header cells labeled K-5 examples even though the National Economy and Human Population themes have no K-2 standards.",
+  "u284: one unit merges the heading 'K-5 History Standards' with the K-2 list; labeled K-2 standards.",
+  "u1019-u1035: Appendix A page 47 graphic (My Family/School/Community/State/Country/World) was extracted as table cells with merged columns; grades assigned by column start (u1028-u1029 K, u1030 1-2, u1031-u1032 3, u1033-u1034 4, u1035 5), uncertain. Treated as examples.",
+  "u1038-u1274: Appendix A K-5 progression chart. Grade columns: C1=K, C2=1, C3=2, C5=3, C6=4, C7=5 (C4 empty). Topic cells labeled examples with their single grade; repeated standard statements and their wrapped continuation lines (K-2 in C1, 3-5 in C5) labeled backup. A topic cell cannot be separated from its continuation lines with certainty in a few rows (e.g. u1048-u1049, u1104-u1105, u1231, u1254-u1255). The chart contains a code typo 'H.K 2.8' (u1262) for H.K_2.5.",
+  "u1277-u1300: Appendix A scope-and-sequence Options A/B tables are heavily merged (grades K-8 lumped in one cell); labeled backup for all grades, not split by grade.",
+  "u1308-u1330, u1366-u1371: Native American Essential Understandings labeled K-12 examples per state guide. u1319-u1320, u1331-u1361, u1364-u1365, u1372-u1406: Inquiry Design Model blueprints (sample lesson plans) labeled examples for 6-12 (they cite US.6_12/ND.6_12 standards); could instead be backup.",
+  "u172-u179: NDNAEU summary in the front-matter 'Resources Reviewed' list kept as backup.",
+  "u1428-u1580: Appendix D literacy standards (RH/WHST by grade clusters 6-8/9-10/11-12) labeled backup, grades 6-12; table cells extracted with merged columns (e.g. u1545 C6, u1538 C5). u1428-u1430 cover labeled all.",
+  "u886: Sociology Domain 4 benchmark cell contains a mis-coded fourth benchmark 'SOC.6 12.4.4' (should be D4.4); left as is. u1262 and u1154 code typos noted. u836 (Era 3 benchmark 3) uses 'US 6-12.1-6.E3.3' code format.",
+  "Document title page says August 2019 while revision log shows changes through 11/30/2023 (Rev7); no missing pages detected.",
+  "Strand intro paragraphs: banding/guiding-topic mechanics and pedagogy labeled backup (u360, u362, u426, u427, u585, u692, u694); descriptions of what students study labeled examples (u361, u425, u512-u513, u584, u691, u693, u779-u780, u841-u842, u893-u894). u692 (Pirenne vision statement) labeled backup as philosophy.",
+  "Reviewer: ND 6-12 standards are grade-banded strands, not courses (the document says they can be applied to multiple grade levels); one 6-12 row."
+ ]
+}

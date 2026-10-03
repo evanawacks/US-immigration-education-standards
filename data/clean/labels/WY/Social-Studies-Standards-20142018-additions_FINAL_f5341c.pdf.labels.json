@@ -1,0 +1,2103 @@
+{
+ "state": "WY",
+ "file": "Social-Studies-Standards-20142018-additions_FINAL_f5341c.pdf",
+ "structure": "Wyoming Social Studies Content and Performance Standards 2014 with 2018 additions. Front matter (cover, acknowledgments, rationale, 2018 American Indian additions rationale, organization, cross-curricular codes), then six Content Standards (1 Citizenship, Government, and Democracy; 2 Culture and Cultural Diversity; 3 Production, Distribution, and Consumption; 4 Time, Continuity, and Change; 5 People, Places, and Environments; 6 Technology, Literacy, and Global Connections). Each has a heading with description, a Rationale, a 'Benchmarks Students will:' table spread over several pages with four columns C1=End of Grade 2 (K-2 band), C2=End of Grade 5 (3-5), C3=End of Grade 8 (6-8), C4=Upon Graduation/Grade 12 (9-12); table rows give benchmarks coded SSg.s.n (g=2,5,8,12; s=standard; n=benchmark) and 2018 additions coded with a suffix (e.g. SS8.1.1.a), plus ELA/health/CV cross-curricular codes appended in the cell. Strand labels in standard 5 (Spatial; Physical Place and Region; Human Place and Movement; Environment and Society) appear as cells in each column. Then Performance Level Descriptors per content standard by grade 2, 5, 8, 12 (Advanced/Proficient/Basic/Below Basic). Back matter: glossary with examples, historical background, references, committee lists.",
+ "labels": [
+  {
+   "units": "u1-u25",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and board list"
+  },
+  {
+   "units": "u26-u53",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Acknowledgments"
+  },
+  {
+   "units": "u56-u61",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "2014 Rationale"
+  },
+  {
+   "units": "u62",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u63",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u64",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u65",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u66",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u67",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u68",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u69",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u70",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u71",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u72",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u73",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of benchmark codes for Constitution instruction (SS2.1.1 ...)"
+  },
+  {
+   "units": "u76-u91",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "2018 additions rationale; Indigenous Tribes definition"
+  },
+  {
+   "units": "u94-u108",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Organization of standards"
+  },
+  {
+   "units": "u111-u117",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "List of six content standards"
+  },
+  {
+   "units": "u118",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Pointer to standards webpage"
+  },
+  {
+   "units": "u121-u130",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cross-curricular connections"
+  },
+  {
+   "units": "u133",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 heading"
+  },
+  {
+   "units": "u134",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 1 rationale"
+  },
+  {
+   "units": "u135",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Content Standard 1 statutory text W.S. 21-9-102"
+  },
+  {
+   "units": "u136",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 heading"
+  },
+  {
+   "units": "u137",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u138",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u139",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u140",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u141",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u142",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u143",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u144",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u145",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u146",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u147",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u148",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u149",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u152-u153",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 heading"
+  },
+  {
+   "units": "u154",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u155",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u156",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u157-u158",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u159",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u160",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u161",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u162",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u163",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u164",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u165",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u166",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u167",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u168",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u169",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u170",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u171-u174",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u175",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u176",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u179",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u180",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u181",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u182",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u183",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u184",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 1 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u187",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u188-u191",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors"
+  },
+  {
+   "units": "u192-u201",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors"
+  },
+  {
+   "units": "u204",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u205-u211",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors"
+  },
+  {
+   "units": "u212-u220",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 1 Performance Level Descriptors"
+  },
+  {
+   "units": "u223",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 heading"
+  },
+  {
+   "units": "u224",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 2 rationale"
+  },
+  {
+   "units": "u225",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 heading"
+  },
+  {
+   "units": "u226",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u227",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u228",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u229",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u230",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u231",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u232",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u233",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u234",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u237-u238",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 heading"
+  },
+  {
+   "units": "u239",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u240",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u241",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u242",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u243",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u244",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u245",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u246",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u247",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u248",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u249",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u250",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u251",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u254-u255",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 heading"
+  },
+  {
+   "units": "u256",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u257",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u258",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u259",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u260",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u261",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u262",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u263",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u264",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 2 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u267",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u268-u271",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors"
+  },
+  {
+   "units": "u272-u275",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors"
+  },
+  {
+   "units": "u278",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u279-u282",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors"
+  },
+  {
+   "units": "u283-u287",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 2 Performance Level Descriptors"
+  },
+  {
+   "units": "u290",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 heading"
+  },
+  {
+   "units": "u291",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 3 rationale"
+  },
+  {
+   "units": "u292",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 heading"
+  },
+  {
+   "units": "u293",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u294",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u295",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u296",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u297",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u298",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u299",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u300",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u301",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u302",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u303",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u304",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u305",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u306",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u307",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u308",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u309",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u313-u314",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 heading"
+  },
+  {
+   "units": "u315",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u316",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u317",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u318",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u319",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u320",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u321",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u322",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u323",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u324",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u325",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u326",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u327",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 3 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u330",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u331-u334",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors"
+  },
+  {
+   "units": "u335-u338",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors"
+  },
+  {
+   "units": "u341",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u342-u345",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors"
+  },
+  {
+   "units": "u346-u349",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 3 Performance Level Descriptors"
+  },
+  {
+   "units": "u352",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 heading"
+  },
+  {
+   "units": "u353",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 4 rationale"
+  },
+  {
+   "units": "u354",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 heading"
+  },
+  {
+   "units": "u355",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u356",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u357",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u358-u359",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u360",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u361",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u362",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u363",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u366-u367",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 heading"
+  },
+  {
+   "units": "u368",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u369",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u370",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u371-u372",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u373",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u374",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u375",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u376",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u377",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u378",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u379",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u380",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u383-u384",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 heading"
+  },
+  {
+   "units": "u385",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u386",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u387",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u388-u389",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u390",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u391",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u392",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u393",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u394",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u395",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u396",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u397",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 4 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u400",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u401-u404",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors"
+  },
+  {
+   "units": "u405-u408",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors"
+  },
+  {
+   "units": "u411",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u412-u415",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors"
+  },
+  {
+   "units": "u416-u419",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 4 Performance Level Descriptors"
+  },
+  {
+   "units": "u422",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 heading"
+  },
+  {
+   "units": "u423",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 5 rationale"
+  },
+  {
+   "units": "u424",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 heading"
+  },
+  {
+   "units": "u425",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u426",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u427",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u428",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u429",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u430",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u431",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u432",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u433",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u434",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u435",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u436",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u437",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u440-u441",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 heading"
+  },
+  {
+   "units": "u442",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u443",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u444",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u445-u446",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u447",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u448",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u449",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u450",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u451",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u452",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u453",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u454",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u455",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u456",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u457",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u460-u461",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 heading"
+  },
+  {
+   "units": "u462",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u463",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u464",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u465",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u466",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u467",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u468",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u469",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u470",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u471",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u472",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u473",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u474",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u475",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u476",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u477",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u478",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u479",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u480",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u481",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u482",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u483",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 5 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u486",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u487-u490",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors"
+  },
+  {
+   "units": "u493",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u494-u497",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors"
+  },
+  {
+   "units": "u500",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u501-u504",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors"
+  },
+  {
+   "units": "u507",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u508-u511",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 5 Performance Level Descriptors"
+  },
+  {
+   "units": "u514",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 heading"
+  },
+  {
+   "units": "u515",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Content Standard 6 rationale"
+  },
+  {
+   "units": "u516",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 heading"
+  },
+  {
+   "units": "u517",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u518",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u519",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u520",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u521",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u522",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u523",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u524",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u525",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u526",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u527",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u528",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u529",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u532-u533",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 heading"
+  },
+  {
+   "units": "u534",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u535",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u536",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u537",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u538",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u539",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u540",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u541",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u542",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u543",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u544",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (3-5 column)"
+  },
+  {
+   "units": "u545",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (6-8 column)"
+  },
+  {
+   "units": "u546",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (9-12 column)"
+  },
+  {
+   "units": "u547",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 benchmark table (K-2 column)"
+  },
+  {
+   "units": "u548",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on literacy standards"
+  },
+  {
+   "units": "u551",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Content Standard 6 heading"
+  },
+  {
+   "units": "u552",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u553-u556",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors"
+  },
+  {
+   "units": "u557-u560",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors"
+  },
+  {
+   "units": "u563",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors heading"
+  },
+  {
+   "units": "u564-u567",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors"
+  },
+  {
+   "units": "u568-u571",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Standard 6 Performance Level Descriptors"
+  },
+  {
+   "units": "u574-u857",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Glossary, historical background, references, committee lists"
+  }
+ ],
+ "issues": [
+  "u62-u73: page-4 table lists benchmark codes (SS2.1.1 ... SS12.1.5) only; labeled backup by column band.",
+  "Benchmark tables: table header cells (End of Grade 2/5/8, Upon Graduation, Grade 12) and strand label cells (Spatial, Physical Place and Region, Human Place and Movement, Environment and Society) are split across rows/columns in extraction; labeled standards by column band (C1 K-2, C2 3-5, C3 6-8, C4 9-12). Their R/C order is row-wise so ranges are broken into many labels.",
+  "Cells reading 'Not assessed at this' / 'time.' / 'Assessed in SSx.y.z' (e.g. u167, u171, u179-u180, u183-u184, u248, u261, u320, u324-u325, u390, u394, u543, u547) are placeholders where no benchmark exists for that band; labeled standards for the column band.",
+  "Several benchmark cells contain appended ELA/CV/FPA/science cross-curricular codes and tracked-change remnants (e.g. u232 'SS.5.2.1', u245 'Identify and d Describe', u246 'Examine and e Evaluate', u262 'tensions between among'); strikethrough/blue-insert formatting lost, so deleted 2014 text and added 2018 text appear together.",
+  "Performance Level Descriptors (units after each 'Performance Level Descriptor(s)' heading) are assessment descriptors, labeled backup by band (Grade 2 -> K-2, 5 -> 3-5, 8 -> 6-8, 12 -> 9-12). Some descriptor units run two grades' Advanced/Proficient/Basic text together in one unit; assignment follows the leading GRADE marker.",
+  "u135 is statutory text, labeled backup (u134 rationale is examples, K-12). u149 and similar: 12th-grade cells contain both parent benchmark and its 2018 'a' addition in one unit.",
+  "Glossary (u574-u708) labeled backup including its examples; u702-u706 'Secondary Source' examples list separate. u638, u715, u717 and other empty units are blank lines in the extraction.",
+  "u81/u76: 2018 additions are marked with suffix 'a' (e.g. SS8.5.2a) within cells; no separate additions section exists, so additions are labeled with their benchmark (standards)."
+ ]
+}

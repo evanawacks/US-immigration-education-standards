@@ -1,0 +1,215 @@
+{
+ "state": "HI",
+ "file": "Financial-Literacy-Standards_1b3278.pdf",
+ "structure": "Single high school program (Financial Literacy). Page 1 introduction. Pages 2-7: six themes (Earning Income, Spending, Saving, Investing, Managing Credit, Managing Risk). Each theme is a table: row 1 theme title + overview narrative; row 2 headers 'Content Standards' / 'Sample Learning Outcomes'; row 3 five numbered content standards (C1) and five sample learning outcomes (C2 or C3).",
+ "labels": [
+  {
+   "units": "u1-u7",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "backup",
+   "section": "Title and introduction"
+  },
+  {
+   "units": "u9",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 1 Earning Income: theme overview narrative"
+  },
+  {
+   "units": "u10-u11",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 1 Earning Income: column headers"
+  },
+  {
+   "units": "u12",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 1 Earning Income: content standards 1-5"
+  },
+  {
+   "units": "u13",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 1 Earning Income: sample learning outcomes"
+  },
+  {
+   "units": "u15",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 2 Spending: theme overview narrative"
+  },
+  {
+   "units": "u16-u17",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 2 Spending: column headers"
+  },
+  {
+   "units": "u18",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 2 Spending: content standards 1-5"
+  },
+  {
+   "units": "u19",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 2 Spending: sample learning outcomes"
+  },
+  {
+   "units": "u20-u31",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 2 Spending: stray repeated fragments of content standards (extraction duplicate)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 3 Saving: theme overview narrative"
+  },
+  {
+   "units": "u34-u35",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 3 Saving: column headers"
+  },
+  {
+   "units": "u36",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 3 Saving: content standards 1-5"
+  },
+  {
+   "units": "u37",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 3 Saving: sample learning outcomes"
+  },
+  {
+   "units": "u38-u58",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 3 Saving: stray repeated fragments of content standards (extraction duplicate)"
+  },
+  {
+   "units": "u60",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 4 Investing: theme overview narrative"
+  },
+  {
+   "units": "u61-u62",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 4 Investing: column headers"
+  },
+  {
+   "units": "u63",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 4 Investing: content standards 1-5"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 4 Investing: sample learning outcomes"
+  },
+  {
+   "units": "u65-u76",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 4 Investing: stray repeated fragments of content standards (extraction duplicate)"
+  },
+  {
+   "units": "u78",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 5 Managing Credit: theme overview narrative"
+  },
+  {
+   "units": "u79-u80",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 5 Managing Credit: column headers"
+  },
+  {
+   "units": "u81",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 5 Managing Credit: content standards 1-5"
+  },
+  {
+   "units": "u82",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 5 Managing Credit: sample learning outcomes"
+  },
+  {
+   "units": "u84",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 6 Managing Risk: theme overview narrative"
+  },
+  {
+   "units": "u85-u86",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 6 Managing Risk: column headers"
+  },
+  {
+   "units": "u87",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 6 Managing Risk: content standards 1-5"
+  },
+  {
+   "units": "u88",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Theme 6 Managing Risk: sample learning outcomes"
+  },
+  {
+   "units": "u89-u107",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Theme 6 Managing Risk: stray repeated fragments of content standards (extraction duplicate)"
+  }
+ ],
+ "issues": [
+  "u9,u15,u33,u60,u78,u84: theme title and overview narrative are in one unit; labeled examples (narrative) although the title part is a heading.",
+  "u20-u31, u38-u58, u65-u76, u89-u107: extraction repeated parts of content standards 2-5 as one-line row fragments (duplicates of the text in the preceding standards unit); labeled standards.",
+  "No grade stated; program is for high school students per u3, so 9-12."
+ ]
+}

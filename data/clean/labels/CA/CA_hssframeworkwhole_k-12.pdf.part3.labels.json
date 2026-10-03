@@ -1,0 +1,1981 @@
+{
+ "state": "CA",
+ "file": "CA_hssframeworkwhole_k-12.pdf",
+ "range": "u2374-u3627",
+ "structure": "California History-Social Science Framework (2016), K-12, organized by numbered chapters; running page headers 'Grade Eight'/'Grade Nine'/'Grade Ten'/'Grades Nine-Twelve' appear as text units at the top of each page (labeled backup). This part covers the end of Ch12 (Grade 8: units Envisioning a New America, Divergent Paths of the American People 1800-1850, Causes/Course/Consequences of the Civil War, Rise of Industrial America 1877-1914), Ch13 (Instructional Practice for Grades 9-12, backup), Ch14 (Grade 9 elective courses, each introduced by a course-title heading, a guiding question in 'n n' bullet lines, narrative, and Classroom Example boxes), and Ch15 (Grade 10 World History, Culture, and Geography: The Modern World, organized by unit headings with bulleted guiding questions, narrative, and Classroom Example boxes). Classroom Example boxes start with a heading 'Grade X Classroom Example: ...', continue after page breaks with 'Example (continued)', and end with an alignment line 'CA HSS Content Standard(s): ... CA HSS Analysis Skills ... CA CCSS ... CA ELD Standards ...'. No formal standards text (Appendix C) falls in this range; all chapter narrative, guiding questions, vignettes are 'examples'.",
+ "labels": [
+  {
+   "units": "u2374",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2375-u2380",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Envisioning a New America (cont.)"
+  },
+  {
+   "units": "u2381",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2382-u2395",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Divergent Paths of the American People: 1800-1850"
+  },
+  {
+   "units": "u2396",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2397-u2402",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Divergent Paths of the American People: 1800-1850"
+  },
+  {
+   "units": "u2403",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2404-u2409",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Divergent Paths of the American People: 1800-1850"
+  },
+  {
+   "units": "u2410",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2411",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Divergent Paths of the American People: 1800-1850"
+  },
+  {
+   "units": "u2412-u2418",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Civic Purpose of Public Education"
+  },
+  {
+   "units": "u2419-u2420",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2421-u2425",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Civic Purpose of Public Education"
+  },
+  {
+   "units": "u2426-u2427",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): women's rights"
+  },
+  {
+   "units": "u2428",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2429-u2434",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): Northeast, South, abolition"
+  },
+  {
+   "units": "u2435",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2436-u2443",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): Northeast, South, abolition"
+  },
+  {
+   "units": "u2444",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2445-u2451",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): Northeast, South, abolition"
+  },
+  {
+   "units": "u2452",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2453-u2459",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Antislavery Movement"
+  },
+  {
+   "units": "u2460-u2461",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2462-u2470",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Antislavery Movement"
+  },
+  {
+   "units": "u2471-u2472",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2473-u2485",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Antislavery Movement"
+  },
+  {
+   "units": "u2486-u2487",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2488-u2505",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Antislavery Movement"
+  },
+  {
+   "units": "u2506-u2516",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Example source/credit lines"
+  },
+  {
+   "units": "u2517",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: The Antislavery Movement"
+  },
+  {
+   "units": "u2518-u2522",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): The West, Jacksonian democracy"
+  },
+  {
+   "units": "u2523-u2524",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2525-u2531",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): The West, Jacksonian democracy"
+  },
+  {
+   "units": "u2532",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2533-u2534",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): The West, Jacksonian democracy"
+  },
+  {
+   "units": "u2535-u2538",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: Western Expansion"
+  },
+  {
+   "units": "u2539-u2540",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2541-u2542",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: Western Expansion"
+  },
+  {
+   "units": "u2543",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Example source credit"
+  },
+  {
+   "units": "u2544",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Classroom Example: Western Expansion"
+  },
+  {
+   "units": "u2545-u2548",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): Mexican-American War, frontier"
+  },
+  {
+   "units": "u2549",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2550-u2555",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Divergent Paths (cont.): Mexican-American War, frontier"
+  },
+  {
+   "units": "u2556",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2557-u2563",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2564-u2565",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Sidebar: History Blueprint curriculum resource"
+  },
+  {
+   "units": "u2566-u2569",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2570",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2571-u2577",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2578",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2579-u2586",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2587",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2588-u2593",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2594",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2595-u2602",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2603",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2604-u2605",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > Causes, Course, and Consequences of the Civil War"
+  },
+  {
+   "units": "u2606-u2615",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2616",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2617-u2622",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2623",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2624-u2630",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2631",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2632-u2639",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2640",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2641-u2646",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2647",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2648-u2656",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2657",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2658-u2662",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch12 Grade 8 > The Rise of Industrial America: 1877-1914"
+  },
+  {
+   "units": "u2663",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2664-u2670",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2671",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2672-u2680",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2681",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2682-u2690",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2691",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2692-u2699",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2700",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2701-u2707",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2708",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2709-u2719",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2720-u2721",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2722-u2730",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2731",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2732-u2738",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2739",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2740-u2747",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2748",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2749-u2755",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch13 Instructional Practice for Grades 9-12"
+  },
+  {
+   "units": "u2756",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2757-u2762",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch14 Grade 9 elective courses: chapter introduction"
+  },
+  {
+   "units": "u2763",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2764",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch14 Grade 9 elective courses: chapter introduction"
+  },
+  {
+   "units": "u2765-u2773",
+   "grades": "9",
+   "course": "World and Regional Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > World and Regional Geography"
+  },
+  {
+   "units": "u2774",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2775-u2782",
+   "grades": "9",
+   "course": "World and Regional Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > World and Regional Geography"
+  },
+  {
+   "units": "u2783",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2784-u2785",
+   "grades": "9",
+   "course": "World and Regional Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > World and Regional Geography"
+  },
+  {
+   "units": "u2786-u2793",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2794",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2795-u2801",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2802",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2803-u2809",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2810-u2811",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2812-u2819",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2820",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2821-u2827",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2828",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2829-u2855",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2856-u2857",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2858-u2874",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2875-u2876",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2877-u2883",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2884",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2885-u2891",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2892",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2893-u2898",
+   "grades": "9",
+   "course": "Modern California (Twentieth and Twenty-First Centuries)",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Modern California"
+  },
+  {
+   "units": "u2899",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2900-u2909",
+   "grades": "9",
+   "course": "Physical Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Physical Geography"
+  },
+  {
+   "units": "u2910",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2911-u2918",
+   "grades": "9",
+   "course": "Physical Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Physical Geography"
+  },
+  {
+   "units": "u2919",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2920-u2921",
+   "grades": "9",
+   "course": "Physical Geography",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Physical Geography"
+  },
+  {
+   "units": "u2922-u2928",
+   "grades": "9",
+   "course": "Survey of World Religions",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Survey of World Religions"
+  },
+  {
+   "units": "u2929",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2930-u2941",
+   "grades": "9",
+   "course": "Survey of World Religions",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Survey of World Religions"
+  },
+  {
+   "units": "u2942",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2943-u2951",
+   "grades": "9",
+   "course": "The Humanities",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > The Humanities"
+  },
+  {
+   "units": "u2952",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2953-u2956",
+   "grades": "9",
+   "course": "The Humanities",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > The Humanities"
+  },
+  {
+   "units": "u2957-u2961",
+   "grades": "9",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Anthropology"
+  },
+  {
+   "units": "u2962",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2963-u2967",
+   "grades": "9",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Anthropology"
+  },
+  {
+   "units": "u2968-u2973",
+   "grades": "9",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Psychology"
+  },
+  {
+   "units": "u2974",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2975-u2991",
+   "grades": "9",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Psychology"
+  },
+  {
+   "units": "u2992-u2994",
+   "grades": "9",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Footnote citation"
+  },
+  {
+   "units": "u2995",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u2996-u3001",
+   "grades": "9",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Sociology"
+  },
+  {
+   "units": "u3002-u3004",
+   "grades": "9",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Footnote citation"
+  },
+  {
+   "units": "u3005",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3006-u3007",
+   "grades": "9",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Sociology"
+  },
+  {
+   "units": "u3008-u3020",
+   "grades": "9",
+   "course": "Women in United States History",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Women in United States History"
+  },
+  {
+   "units": "u3021",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3022-u3030",
+   "grades": "9",
+   "course": "Women in United States History",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Women in United States History"
+  },
+  {
+   "units": "u3031-u3039",
+   "grades": "9",
+   "course": "Ethnic Studies",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Ethnic Studies (incl. Classroom Example: Local History)"
+  },
+  {
+   "units": "u3040",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3041-u3046",
+   "grades": "9",
+   "course": "Ethnic Studies",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Ethnic Studies (incl. Classroom Example: Local History)"
+  },
+  {
+   "units": "u3047",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3048-u3054",
+   "grades": "9",
+   "course": "Ethnic Studies",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Ethnic Studies (incl. Classroom Example: Local History)"
+  },
+  {
+   "units": "u3055",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3056-u3062",
+   "grades": "9",
+   "course": "Ethnic Studies",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Ethnic Studies (incl. Classroom Example: Local History)"
+  },
+  {
+   "units": "u3063-u3064",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3065-u3068",
+   "grades": "9",
+   "course": "Ethnic Studies",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Ethnic Studies (incl. Classroom Example: Local History)"
+  },
+  {
+   "units": "u3069-u3073",
+   "grades": "9",
+   "course": "Law-Related Education",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Law-Related Education"
+  },
+  {
+   "units": "u3074",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3075-u3076",
+   "grades": "9",
+   "course": "Law-Related Education",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Law-Related Education"
+  },
+  {
+   "units": "u3077-u3084",
+   "grades": "9",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Financial Literacy"
+  },
+  {
+   "units": "u3085",
+   "grades": "9",
+   "course": null,
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3086-u3089",
+   "grades": "9",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Ch14 Grade 9 > Financial Literacy"
+  },
+  {
+   "units": "u3090",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3091-u3108",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3109",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3110-u3123",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3124",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3125-u3130",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3131-u3133",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Pedagogical advice: disciplinary literacy skills"
+  },
+  {
+   "units": "u3134",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3135-u3144",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3145",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3146-u3152",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3153-u3154",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3155-u3170",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3171",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3172-u3179",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3180",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3181-u3185",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3186",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3187-u3195",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3196-u3197",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3198-u3201",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3202-u3203",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Example source credit"
+  },
+  {
+   "units": "u3204-u3205",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3206",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3207-u3212",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3213",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3214-u3221",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3222",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3223-u3234",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3235",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3236-u3241",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3242",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3243-u3249",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3250",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3251-u3257",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3258",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3259-u3271",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3272",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3273-u3279",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3280",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3281-u3287",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3288",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3289-u3295",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3296",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3297-u3303",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3304",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3305-u3313",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3314-u3315",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3316-u3323",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3324-u3325",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3326-u3328",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3329-u3330",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Example source credit"
+  },
+  {
+   "units": "u3331-u3332",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3333-u3336",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3337-u3339",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Example sources list"
+  },
+  {
+   "units": "u3340-u3342",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3343",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3344-u3354",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3355",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3356-u3362",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3363",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3364-u3370",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3371",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3372-u3386",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3387",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3388-u3393",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3394",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3395-u3399",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3400",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3401-u3411",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3412",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3413-u3418",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3419",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3420-u3433",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3434",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3435-u3441",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3442",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3443-u3448",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3449",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3450-u3457",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3458",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3459-u3465",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3466",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3467-u3476",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3477",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3478-u3483",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3484",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3485-u3491",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3492",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3493-u3517",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3518",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3519-u3526",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3527",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3528-u3539",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3540",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3541-u3547",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3548",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3549-u3553",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3554",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3555-u3561",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3562-u3563",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3564-u3565",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3566",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Example source credit"
+  },
+  {
+   "units": "u3567-u3570",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3571",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3572-u3581",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3582",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3583-u3588",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3589",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3590-u3596",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3597",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3598-u3604",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3605",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3606-u3611",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3612",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3613-u3619",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  },
+  {
+   "units": "u3620",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "backup",
+   "section": "Running page header / continuation label"
+  },
+  {
+   "units": "u3621-u3627",
+   "grades": "10",
+   "course": "World History, Culture, and Geography: The Modern World",
+   "cat": "examples",
+   "section": "Ch15 Grade 10 > World History, Culture, and Geography: The Modern World"
+  }
+ ],
+ "issues": [
+  "u2374-u3627: unit u3627 itself is absent from the view; the last view unit in range is u3625 (u3626-u3627 are furniture/page marker material).",
+  "Page header units 'Grade Eight'/'Grade Nine'/'Grade Ten'/'Grades Nine–Twelve'/'Example (continued)' appear as ordinary units on every page; labeled backup (course null for Ch12/Ch14, Ch15 course kept) rather than merged into content.",
+  "u2523-u2524: page-header 'Grade Eig' + 'ht' split by extraction; labeled backup.",
+  "u2486-u2506: Classroom Example 'The Antislavery Movement' (page 272) has garbled/scrambled text fragments (drop-cap letters split off: u2489, u2491, u2495, u2498, u2502, u2504, u2506-u2507); labeled examples/backup as best as possible, order of text not reliable.",
+  "u3492-u3516 (page 371, Ch15 Cold War): lines have missing first characters/words scattered across units (e.g. u3494-u3495, u3499, u3504, u3507, u3512, u3516); content is Grade 10 examples but text order is garbled.",
+  "u2523-u2660: u2563-u2565 and u2649-u2654 are two-column sidebars (x=94 / x=277 / x=367) interleaved with main text; sidebar 'Defining American Citizenship' (u2649-u2650, u2652, u2654) labeled examples, History Blueprint promo (u2564-u2565) labeled backup; interleaving order is by extraction.",
+  "u2564-u2565: History Blueprint curriculum promotion sidebar labeled backup (resource); could arguably be examples.",
+  "u2663-u2753 (Ch13 Instructional Practice 9-12): labeled backup grades 9-12 per state guide, including the 'Disciplinary Thinking and Analysis Skills' descriptions (civics, economics, geography, history) which describe inquiry skills but are framework narrative, not formal standards.",
+  "u2709-u2714: Ch13 'English Language Development' heading fragments (drop caps 'D','e') split in extraction.",
+  "u2722-u2725 table (Integrated ELD / Designated ELD) in Ch13; backup 9-12.",
+  "u2756-u2764: Ch14 chapter introduction (elective course placement guidance) labeled backup, grade 9, course null; course sections are examples with course = course title heading as written.",
+  "u2765-u3089: Ch14 elective course titles taken from headings; 'Modern California (Twentieth and Twenty-First Centuries)' includes sub-unit headings (Turn-of-the-Century California, Boom and Bust, WWII, Diversity and Limits, Global California) kept in the same course. Final 'Global California' unit continues past u2890-u2896.",
+  "u2899, u2995: page header units that sit just before a new course heading; labeled course null backup.",
+  "u3131: general advice on reading/writing/speaking skills in Grade 10 chapter labeled backup (pedagogical); u3129-u3130 guiding-question narrative labeled examples.",
+  "u3090-u3106: Ch15 chapter title and overarching guiding questions (large display text, split lines with stray 'n' bullets); labeled examples with course 'World History, Culture, and Geography: The Modern World' grade 10.",
+  "Example source/credit lines (u2506-u2516, u2543, u3202-u3203, u3329, u3337-u3339, u3566) labeled backup; alignment lines 'CA HSS Content Standard(s): ...' (u2425, u2517, u2544, u2813, u2878, u3068, u3158, u3204, u3340, u3567) kept as examples with their Classroom Example.",
+  "Ch12 vs Ch15 content on genocide, Armenian Genocide (u3360-u3367), Holocaust (u3455-u3467), and immigration-related passages (u2633, u2659, u2895, u3551) all labeled by chapter grade only.",
+  "u3591-u3633: excerpt adapted from Appendix D 'Teaching the Contemporary World' inside Ch15; labeled examples grade 10 (not all/backup) because it is embedded in the Grade 10 chapter."
+ ]
+}

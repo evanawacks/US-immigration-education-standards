@@ -1,0 +1,284 @@
+{
+ "state": "HI",
+ "file": "FilipinoHistoryCultureCourseStandards_96ad1e.pdf",
+ "structure": "Single high school course 'Filipino History Culture'. Page 1-2: table of Inquiry Standards SS.9-12.1.1-5.4 under Anchor Standards 1-5. Pages 3-9: six themes (Theme N title, Sample Compelling Questions row, then a 4-column table Anchor Standard / Topic / Content Standard / Sample Content/Concepts). Each theme lists two or so content standards borrowed from other courses' codes (e.g. SS.3.2.7.3); the 4th column holds sample content bullets.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u5",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "High School Inquiry Standards table headers"
+  },
+  {
+   "units": "u6-u24",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Inquiry Standards SS.9-12 (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u25-u26",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 1 Identity: theme title"
+  },
+  {
+   "units": "u27-u28",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 1 Identity: sample compelling questions"
+  },
+  {
+   "units": "u29-u37",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 1 Identity: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u38",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 1 Identity: sample content/concepts"
+  },
+  {
+   "units": "u39-u41",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 1 Identity: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u42",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 1 Identity: sample content/concepts"
+  },
+  {
+   "units": "u43-u44",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 2 Historical Interactions & Developments: theme title"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 2 Historical Interactions & Developments: sample compelling questions"
+  },
+  {
+   "units": "u47-u55",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 2 Historical Interactions & Developments: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u56",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 2 Historical Interactions & Developments: sample content/concepts"
+  },
+  {
+   "units": "u57-u59",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 2 Historical Interactions & Developments: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u60",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 2 Historical Interactions & Developments: sample content/concepts"
+  },
+  {
+   "units": "u61-u62",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 3 Culture and Connections: theme title"
+  },
+  {
+   "units": "u63-u64",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 3 Culture and Connections: sample compelling questions"
+  },
+  {
+   "units": "u65-u73",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 3 Culture and Connections: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u74",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 3 Culture and Connections: sample content/concepts"
+  },
+  {
+   "units": "u75-u77",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 3 Culture and Connections: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u78",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 3 Culture and Connections: sample content/concepts"
+  },
+  {
+   "units": "u79-u80",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: theme title"
+  },
+  {
+   "units": "u81-u82",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: sample compelling questions"
+  },
+  {
+   "units": "u83-u91",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u92",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: sample content/concepts"
+  },
+  {
+   "units": "u93-u95",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u96",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 4 Filipinos in Hawaii and in the United States: sample content/concepts"
+  },
+  {
+   "units": "u97-u98",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 5 The Philippines in an Interconnected World: theme title"
+  },
+  {
+   "units": "u99-u100",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 5 The Philippines in an Interconnected World: sample compelling questions"
+  },
+  {
+   "units": "u101-u109",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 5 The Philippines in an Interconnected World: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u110",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 5 The Philippines in an Interconnected World: sample content/concepts"
+  },
+  {
+   "units": "u111-u113",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 5 The Philippines in an Interconnected World: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u114",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 5 The Philippines in an Interconnected World: sample content/concepts"
+  },
+  {
+   "units": "u115-u116",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 6 Community Engagement and Civic Action: theme title"
+  },
+  {
+   "units": "u117-u118",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 6 Community Engagement and Civic Action: sample compelling questions"
+  },
+  {
+   "units": "u119-u127",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 6 Community Engagement and Civic Action: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u128",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 6 Community Engagement and Civic Action: sample content/concepts"
+  },
+  {
+   "units": "u129-u131",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "standards",
+   "section": "Theme 6 Community Engagement and Civic Action: anchor standard / topic / content standard"
+  },
+  {
+   "units": "u132",
+   "grades": "9-12",
+   "course": "Filipino History Culture",
+   "cat": "examples",
+   "section": "Theme 6 Community Engagement and Civic Action: sample content/concepts"
+  }
+ ],
+ "issues": [
+  "Course title taken as written in u1 ('Filipino History Culture'); no explicit grade, treated as 9-12.",
+  "Content standard codes (SS.1.2.14.3, SS.7HHK.2.14.4, SS.US.10.6.4 etc.) come from other grades/courses but are used as this course's content standards; all assigned 9-12."
+ ]
+}

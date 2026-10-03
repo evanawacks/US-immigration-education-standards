@@ -1,0 +1,2532 @@
+=== page 1 === [running header: WISCONSIN STANDARDS FOR Social Studies]
+u2 Wisconsin Department of Public Instruction
+u3 Wisconsin Department of Public Instruction
+=== page 2 ===
+u4 WISCONSIN STANDARDS FOR
+u5 Social Studies
+u6 Wisconsin Department of Public Instruction
+u7 Tony Evers, State Superintendent
+u8 Madison, Wisconsin
+=== page 3 === [running header: Wisconsin Standards for Social Studies]
+u9 This publication is available from:
+u10 Wisconsin Department of Public Instruction
+u11 125 South Webster Street Madison, WI 53703
+u12 (608) 266-8960 dpi.gov/social-studies
+u13 May 2018 Wisconsin Department of Public Instruction
+u14 The Wisconsin Department of Public Instruction does not discriminate on the basis of sex, race, color, religion, creed, age, national origin, ancestry, pregnancy, marital status or parental status, sexual orientation; or ability and provides equal access to the Boy Scouts of America
+u15 and other designated youth groups.
+=== page 4 === [running header: Wisconsin Standards for Social Studies]
+u18 Table of Contents
+u19 (x=90) Foreword .....................................................................................................................................................................................................................................
+u21 (x=90) Acknowledgements ................................................................................................................................................................................................................
+u23 (x=90) Section I:
+u24 (x=153) Wisconsin’s Approach to Academic Standards .......................................................................................................................
+u26 (x=153) Purpose of the Document .........................................................................................................................................................................
+u28 (x=153) What Are the Academic Standards? .....................................................................................................................................................
+u30 (x=153) Relating the Academic Standards to All Students ............................................................................................................................
+u32 (x=153) Ensuring a Process for Student Success ...............................................................................................................................................
+u34 (x=153) References .......................................................................................................................................................................................................
+u36 (x=90) Section II:
+u37 (x=153) Wisconsin Standards for Social Studies ......................................................................................................................................
+u39 (x=153) What is Social Studies Education? .........................................................................................................................................................
+u41 (x=153) Wisconsin’s Approach to Standards in Social Studies ...................................................................................................................
+u43 (x=153) Standards Structure .....................................................................................................................................................................................
+u45 (x=153) Definitions .......................................................................................................................................................................................................
+u47 (x=153) Social Studies Strands .................................................................................................................................................................................
+u49 (x=153) At-A-Glance ....................................................................................................................................................................................................
+u51 (x=153) Standards, Learning Priorities, and Performance Indicators for Social Studies ..................................................................
+u53 (x=90) Section III:
+u54 (x=153) Discipline: Social Studies (SS) Standards ....................................................................................................................................
+u56 (x=153) Content Area: Social Studies Inquiry Practices and Processes (Inq) .......................................................................................
+u58 (x=153) Content Area: Behavioral Sciences (BH) ............................................................................................................................................
+u60 (x=153) Content Area: Economics (Econ) ............................................................................................................................................................
+u62 (x=153) Content Area: Geography (Geog) ...........................................................................................................................................................
+u64 (x=153) Content Area: History (Hist) ....................................................................................................................................................................
+u66 (x=153) Content Area: Political Science (PS) ......................................................................................................................................................
+=== page 5 === [running header: Wisconsin Standards for Social Studies]
+u70 Foreword
+u71 On May 29, 2018, I formally adopted the Wisconsin Standards for Social Studies (2018). This new set of academic standards provides a foundational framework that identifies what students should know and be able to do in social studies.
+u72 The adoption of the Wisconsin Standards for Social Studies was part of a concerted effort led by Wisconsin educators and stakeholders who shared their expertise in social studies and teaching from kindergarten through higher education. The public and legislature provided feedback for the writing committee to consider as part of Wisconsin’s Academic Standards Review and Revision Process.
+u73 Social Studies is composed of deep and enduring understandings, content, inquiry, concepts, and skills from the fields of geography, history, political science and civics, economics, and the behavioral sciences. Social studies prepares our young people to be college, career, and community ready.
+u74 The knowledge and skills described in the new standards provide guidance to educators across the state regarding what students should know and be able to do in each of the four grade bands (K-2, 3-5, 6-8, 9-12). These standards emphasize the concept of inquiry in the social studies classroom, and encourage teachers and districts to provide meaningful ways for students to be civically engaged in their communities.
+u75 The Wisconsin Department of Public Instruction will continue to build on this work to support implementation of the standards with resources for the field. I am excited to share the Wisconsin Standards in Social Studies, which aim to build skills, knowledge, and engagement opportunities in geography, history, political science, economics, and the behavioral sciences for all Wisconsin students.
+u76 Tony Evers, PhD State Superintendent
+=== page 6 === [running header: Wisconsin Standards for Social Studies]
+u79 Acknowledgements
+u80 The Wisconsin Department of Public Instruction (DPI) wishes to acknowledge the ongoing work, commitment, and various contributions of individuals to revise our state’s academic standards for social studies. Thank you to the State Superintendent’s Standards Review Council for their work and guidance through the standards process. A special thanks to the Social Studies Writing Committee for taking on this important project that will shape the classrooms of today and tomorrow. Thanks to the many staff members across the division and other teams at DPI who have contributed their time and talent to this project, particularly Kevin Anderson, Sara Baird, Pamela Delfosse, Marci Glaus, Audrey Lesondak, David O’Connor, Julie Palkowski, David Thomas, and Chris Tiedje. Finally, a special thanks to Wisconsin educators, businesspeople, parents, and citizens who provided comment and feedback to drafts of these standards.
+u81 Wisconsin Standards for Social Studies Writing Team
+u82 (x=90) Co-Chairs:
+u83 (x=162) Corey Thompson, Cardinal Stritch University Che Kearby, Kenosha Unified School District
+u84 (x=90) DPI Liaison:
+u85 (x=162) Kris McDaniel, Social Studies Consultant, DPI
+u86 (x=90) Jacob Bertagnoli, Lincoln HS
+u87 (x=246) E-Ben Grisby, West HS
+u88 (x=402) Parisa Meymand, Central HS
+u89 (x=558) Amber Seitz, Wisconsin Bankers
+u90 (x=90) Sandra Brauer, North Woods
+u91 (x=246) Dr. Jennifer Hafer, UW-River Falls
+u92 (x=402) Sherri Michalowski, Wisconsin Hills
+u93 (x=558) Association
+u94 (x=90) International School
+u95 (x=246) Anne Hasse, Wakanda Elementary
+u96 (x=402) MS
+u97 (x=558) Kyle Smith, Superior HS
+u98 (x=90) Kimberly Cade, Viroqua Elementary
+u99 (x=246) Pam Kaiser, Osceola HS
+u100 (x=402) Connie Michaud, Fairview School
+u101 (x=558) Chuck Taft, University School of
+u102 (x=558) Milwaukee
+u103 (x=90) Carrie Carlson, North HS
+u104 (x=246) Mike Ketola, Northwestern MS
+u105 (x=402) Jennifer Morgan, West Salem MS
+u106 (x=558) Ann Viegut, John Muir MS
+u107 (x=90) Joel Chrisler, Sauk Prairie HS
+u108 (x=246) Todd Kornack, Chippewa Falls HS
+u109 (x=402) David Olson, James Madison
+u110 (x=402) Memorial HS
+u111 (x=558) Jen Wachowski, Mishicot HS
+u112 (x=90) Craig Clauson, Edgewood HS
+u113 (x=246) Sara Kreibich, Somerset HS
+u114 (x=402) Erin Patchak, Bay View MS
+u115 (x=558) Michelle Wade, Milwaukee Public
+u116 (x=90) Tony DeVine, Dr. Rose Minoka-Hill
+u117 (x=246) Emily Lovell, Holmen MS
+u118 (x=90) School
+u119 (x=402) Kevin Podeweltz, Riverside
+u120 (x=558) Schools
+u121 (x=246) Jodi Mallak, Wittenberg Elementary
+u122 (x=90) Lyman Elliott, Madison
+u123 (x=402) Elementary
+u124 (x=558) Paul Walter, Slinger MS
+u125 (x=246) Andrew Martin, James Madison
+u126 (x=90) Metropolitan School District
+u127 (x=402) Vicki Porior, Carl Traeger MS
+u128 (x=558) Rhonda Watton, Templeton MS
+u129 (x=246) Academic Campus
+u130 (x=90) Matt Fry, Lancaster MS
+u131 (x=402) Andy Riechers, Belmont Jr/Sr HS
+u132 (x=558) Michael Yell, Hudson MS
+u133 (x=246) Matthew Mauk, Oshkosh West High
+u134 (x=90) Tom Fugate, Homestead HS
+u135 (x=558) Brent Zinkel, Wausau East HS
+=== page 7 === [running header: Wisconsin Standards for Social Studies]
+u138 Department of Public Instruction, Academic Standards
+u139 • John W. Johnson, Director, Literacy and Mathematics, and Director for Academic Standards
+u140 • Meri Annin, Lead Visual Communications Designer
+u141 • Marci Glaus, Strategic Communications Consultant
+u142 • David McHugh, Education Consultant for Strategic Planning and Professional Learning
+u143 Department of Public Instruction Leaders
+u144 • Scott Jones, Chief of Staff, Office of the State Superintendent
+u145 • Sheila Briggs, Assistant State Superintendent, Division of Academic Excellence
+u146 • Rebecca Vail, Director, Content and Learning Team
+=== page 8 ===
+u149 Section I
+u150 Wisconsin’s Approach to Academic Standards
+=== page 9 === [running header: Wisconsin Standards for Social Studies]
+u151 Purpose of the Document
+u152 The purpose of this guide is to improve Social Studies education for students and for communities. The Wisconsin Department of Public Instruction (DPI) has developed standards to assist Wisconsin educators and stakeholders in understanding, developing, and implementing social studies course offerings and curriculum in school districts across Wisconsin.
+u153 This publication provides a vision for student success and follows The Guiding Principles for Teaching and Learning (2011). In brief, the principles are:
+u154 Every student has the right to learn.
+u155 Instruction must be rigorous and relevant.
+u156 Purposeful assessment drives instruction and affects learning.
+u157 Learning is a collaborative responsibility.
+u158 Students bring strengths and experiences to learning.
+u159 Responsive environments engage learners.
+u160 Program leaders will find the guide valuable for making decisions about:
+u161 • Program structure and integration
+u162 • Curriculum redesign
+u163 • Staffing and staff development
+u164 • Scheduling and student grouping
+u165 • Facility organization
+u166 • Learning spaces and materials development
+u167 • Resource allocation and accountability
+u168 • Collaborative work with other units of the school, district and community
+=== page 10 === [running header: Wisconsin Standards for Social Studies]
+u171 What Are the Academic Standards?
+u172 Wisconsin Academic Standards specify what students should know and be able to do in the classroom. They serve as goals for teaching and learning. Setting high standards enables students, parents, educators, and citizens to know what students should have learned at a given point in time. In Wisconsin, all state standards serve as a model. Locally elected school boards adopt academic standards in each subject area to best serve their local communities. We must ensure that all children have equal access to high-quality education programs. Clear statements about what students must know and be able to do are essential in making sure our schools offer opportunities to get the knowledge and skills necessary for success beyond the classroom.
+u173 Adopting these standards is voluntary. Districts may use the academic standards as guides for developing local grade-by-grade level curriculum. Implementing standards may require some school districts to upgrade school and district curriculums. This may result in changes in instructional methods and materials, local assessments, and professional development opportunities for the teaching and administrative staff.
+u174 What is the Difference between Academic Standards and Curriculum? Standards are statements about what students should know and be able to do, what they might be asked to do to give evidence of learning, and how well they should be expected to know or do it. Curriculum is the program devised by local school districts used to prepare students to meet standards. It consists of activities and lessons at each grade level, instructional materials, and various instructional techniques. In short, standards define what is to be learned at certain points in time, and from a broad perspective, what performances will be accepted as evidence that the learning has occurred. Curriculum specifies the details of the day-to-day schooling at the local level.
+u175 Developing the Academic Standards DPI has a transparent and comprehensive process for reviewing and revising academic standards. The process begins with a notice of intent to review an academic area with a public comment period. The State Superintendent’s Standards Review Council examines those comments and may recommend revision or development of standards in that academic area. The state superintendent authorizes whether or not to pursue a revision or development process. Following this, a state writing committee is formed to work on those standards for all grade levels. That draft is then made available for open review to get feedback from the public, key stakeholders, educators, and the Legislature with further review by the State Superintendent’s Standards Review Council. The state superintendent then determines adoption of the standards.
+=== page 11 === [running header: Wisconsin Standards for Social Studies]
+u178 Aligning for Student Success To build and sustain schools that support every student in achieving success, educators must work together with families, community members, and business partners to connect the most promising practices in the most meaningful contexts. The release of the Wisconsin Standards for Social Studies provides a set of important academic standards for school districts to implement. This is connected to a larger vision of every child graduating college and career ready. Academic standards work together with other critical principles and efforts to educate every child to graduate college and career ready. Here, the vision and set of Guiding Principles form the foundation for building a supportive process for teaching and learning rigorous and relevant content. The following sections articulate this integrated approach to increasing student success in Wisconsin schools and communities.
+u179 Relating the Academic Standards to All Students
+u180 Grade-level standards should allow ALL students to engage, access, and be assessed in ways that fit their strengths, needs, and interests. This applies to the achievement of students with IEPs (individualized education plans), English learners, and gifted and talented pupils, consistent with all other students. Academic standards serve as the foundation for individualized programming decisions for all students.
+u181 Academic standards serve as a valuable basis for establishing concrete, meaningful goals as part of each student’s developmental progress and demonstration of proficiency. Students with IEPs must be provided specially designed instruction that meets their individual needs. It is expected that each individual student with an IEP will require unique services and supports matched to their strengths and needs in order to close achievement gaps in grade-level standards. Alternate standards are only available for students with the most significant cognitive disabilities.
+u182 Gifted and talented students may achieve well beyond the academic standards and move into advanced grade levels or into advanced coursework.
+u183 Our Vision: Every Child a Graduate, College and Career Ready We are committed to ensuring every child graduates from high school academically prepared and socially and emotionally competent. A successful Wisconsin student is proficient in academic content and can apply their knowledge through skills such as critical thinking, communication, collaboration, and creativity. The successful student will also possess critical habits such as perseverance, responsibility, adaptability, and leadership. This vision for every child as a college and career ready graduate guides our beliefs and approaches to education in Wisconsin.
+=== page 12 === [running header: Wisconsin Standards for Social Studies]
+u186 Guided by Principles All educational initiatives are guided and impacted by important and often unstated attitudes or principles for teaching and learning. The Guiding Principles for Teaching and Learning (2011) emerge from research and provide the touchstone for practices that truly affect the vision of Every Child a Graduate Prepared for College and Career. When made transparent, these principles inform what happens in the classroom, direct the implementation and evaluation of programs, and most importantly, remind us of our own beliefs and expectations for students.
+u187 Ensuring a Process for Student Success
+u188 For Wisconsin schools and districts, implementing the Framework for Equitable Multi-Level Systems of Supports (2017) means providing equitable services, practices, and resources to every learner based upon responsiveness to effective instruction and intervention. In this system, high-quality instruction, strategic use of data, and collaboration interact within a continuum of supports to facilitate learner success. Schools provide varying types of supports with differing levels of intensity to proactively and responsibly adjust to the needs of the whole child. These include the knowledge, skills, and habits learners need for success beyond high school, including developmental, academic, behavioral, social, and emotional skills.
+u189 Connecting to Content: Wisconsin Academic Standards Within this vision for increased student success, rigorous, internationally benchmarked academic standards provide the content for high-quality curriculum and instruction and for a strategic assessment system aligned to those standards. With the adoption of the standards, Wisconsin has the tools to design curriculum, instruction, and assessments to maximize student learning. The standards articulate what we teach so that educators can focus on how instruction can best meet the needs of each student. When implemented within an equitable multi-level system of support, the standards can help to ensure that every child will graduate college and career ready.
+=== page 13 === [running header: Wisconsin Standards for Social Studies]
+u192 References
+u193 The Guiding Principles for Teaching and Learning. 2011. Madison, WI: Wisconsin Department of Public Instruction. Retrieved from https://dpi.wi.gov/standards/guiding-principles.
+u194 Framework for Equitable Multi-Level Systems of Supports. 2017. Madison, WI: Wisconsin Department of Public Instruction. Retrieved from https://dpi.wi.gov/rti.
+=== page 14 === [running header: Wisconsin Standards for Social Studies]
+u197 Section II
+=== page 15 === [running header: Wisconsin Standards for Social Studies]
+u199 What is Social Studies Education?
+u200 Social studies is the integrated study of economics, geography, history, political science, and the behavioral sciences of psychology, sociology, and anthropology to promote civic competence. The standards outlined in this document provide an important foundation to prepare students to become engaged, informed participants committed to the ideas and values of our democratic republic, able to apply the skills of inquiry, collaboration, decision making, and problem solving (adapted from the National Council for the Social Studies definition).
+u201 [T1 R1 C1] The Vision for Wisconsin Social Studies was written in 2015 by the State Superintendent’s K-12 Social Studies Advisory
+u202 [T1 R2 C1] Committee:
+u203 Wisconsin students will become civically-engaged problem-solvers who critically examine their roles in local, regional, state, national, and global communities. Through the study and application of the individual disciplines of social studies (behavioral sciences, economics, geography, history, and political science), students become lifelong learners able to collaborate and thrive in our interdependent world.
+u204 Wisconsin’s Approach to Standards in Social Studies
+u205 The Wisconsin Standards for Social Studies were written by a committee of educators, professors, and business people from across the state. This team was tasked with outlining what content, practices, and ways of thinking are critical for Wisconsin students to be college, career, and community ready upon high school graduation.
+u206 These standards articulate end-of-grade level expectations. Some students - including students who receive special education services through an Individualized Education Program (IEP), students with gifts and talents, and English language learners - may benefit from additional supports or challenges. Some barriers to learning and engagement can be minimized through Universal Design for Learning (UDL). In addition, learning can be personalized through collaboration between educators, school staff, families, and students.
+u207 The foundational documents and supports for this group include:
+u208 • National Council for the Social Studies (NCSS), 2013. The College, Career, and Civic Life (C3) Framework for Social Studies State Standards: Guidance for Enhancing the Rigor of K-12 Civics, Economics, Geography, and History. Silver Spring, MD: NCSS.
+u209 • National Council for the Social Studies (NCSS). 2010. National Curriculum Standards for Social Studies. Silver Spring, MD: NCSS.
+=== page 16 === [running header: Wisconsin Standards for Social Studies]
+u212 Specific content standards were referenced from national organizations, including:
+u213 • American Psychological Association. 2011. National Standards for High School Psychology Curricula. Washington, DC: American Psychological Association.
+u214 • Council for Economic Education (CEE). 2010. Voluntary National Content Standards in Economics. New York: CEE.
+u215 • Geography Education National Implementation Project (GENIP). 2012. Geography for Life: National Geography Standards. Silver Spring, MD: GENIP
+u216 • National Center for History in the Schools (NCHS). 1996. National Standards for History. Los Angeles: University of California Los Angeles (UCLA Department of History Public History Initiative).
+u217 State Social Studies Standards were referenced, including:
+u218 • Arizona Department of Education. 2017. Academic Standards K-12 Social Studies (draft). Phoenix, AD: Arizona Department of Education,
+u219 • The College Board (Advanced Placement). 2016. Historical Thinking Skills. New York: The College Board.
+u220 • Delaware Department of Education. 2016. Delaware State Standards for Social Studies. Dover, DE: Delaware Department of Education,
+u221 • Harvey, Stephanie. 1997. Nonfiction Matters. Portsmouth, NH: Stenhouse Publishers.
+u222 • Harvey, Stephanie and Harvey Daniels. 2009. Comprehension & Collaboration: Inquiry Circles in Action. Portsmouth, NH: Heinemann
+u223 • Illinois State Board of Education. 2016. Social Science Learning Standards. Springfield, IL: Illinois State Board of Education,
+u224 • University of Wisconsin Oshkosh. Fox Valley Writing Project (additional resource material).
+u225 • Wisconsin Department of Public Instruction. 1998. Wisconsin’s Model Academic Standards for Social Studies. Madison, WI: Wisconsin Department of Public Instruction.
+=== page 17 === [running header: Wisconsin Standards for Social Studies]
+u228 Standards Structure
+u229 The Wisconsin Standards for Social Studies follow a specific structure.
+u230 Standards Formatting
+u231 • Content Area (Strand): History
+u232 • Standard: Broad statement that tells what students are expected to know or be able to do
+u233 • Learning Priority: Breaks down the broad statement into manageable learning pieces
+u234 • Performance Indicator by Grade Band: Measurable degree to which a standard has been developed and/or met
+u235 (x=90) Content areas for social studies in this code structure include:
+u236 (x=531) Standard Statement
+u237 (x=447) Discipline
+u238 (x=108) • Inq—Inquiry
+u239 • BH—Behavioral Sciences
+u240 (x=108) • Econ—Economics
+u241 (x=466) SS. Hist 1. A. e
+u242 (x=672) Grade Band
+u243 (x=108) • Geog—Geography
+u244 • Hist—History
+u245 (x=108) • PS—Political Science
+u246 (x=528) Content
+u247 (x=595) Learning
+u248 (x=537) Area
+u249 (x=598) Priority
+u250 Grade Bands All new Wisconsin standards are formatted to a common template to support educators in reading and interpreting them.
+=== page 18 === [running header: Wisconsin Standards for Social Studies]
+u253 Grade bands of K-2, 3-5, 6-8, and 9-12 align to typical elementary (e), intermediate (i), middle (m), and high school (h) levels. Each row of learning priorities shows a progression of indicators across the grade bands.
+u254 Each performance indicator is associated with a suggested grade level within the elementary and intermediate grade bands; the code for the performance indicator notes the appropriate grade level at the end. These grade levels are recommended to offer guidance and assistance to districts, and to support consistency across the state, state standardized assessment preparation, and student transfers between districts. For example, SS.Econ1.a.1 refers to the developmentally appropriate understanding of economic decision making for the K-2 grade band, and it is suggested that this content be learned in grade 1. With local control, districts can assign performance indicators to elementary grade levels that best fit their needs. If an indicator uses the term “e” or “i”, it is appropriate to use at all grade levels in a band.
+u255 Performance indicators at the middle and high school grade bands are not associated with suggested grade levels, so the codes are simply “m” for middle school, and “h” for high school.
+u256 Some performance indicator boxes are intentionally left blank where it is not developmentally appropriate to teach a particular social studies topic at that grade band level.
+u257 Definitions
+u258 The use of “i.e.” and “e.g.” in the indicators is in the manner of the original Latin. The abbreviation “i.e.”, from the Latin id est, means “that is”, and is used as a definition (required information). The abbreviation “e.g.” is from the Latin exempli gratia, and means “for example” (suggested information).
+u259 Inquiry: A systematic investigation with five distinct parts: questioning, research, analysis, communication of results, and civic engagement.
+u260 Market: A place (actual or virtual) where the forces of supply and demand operate, and buyers and sellers meet to exchange goods and services for money or barter.
+u261 Mental Map: A person’s perception of a place, including physical attributes and attributes; in K-12 Geography, it aligns to constructing (on paper or digitally) a map from memory.
+u262 Technology: The sum of the ways in which social groups provide themselves with the material objects of their civilization.
+=== page 19 === [running header: Wisconsin Standards for Social Studies]
+u265 Appendices for the standards document may provide more guidance for curriculum work and should be referenced when starting a revision cycle.
+u266 Social Studies Strands
+u267 Social Studies Inquiry Practices and Processes
+u268 Advances in human knowledge come about not because people can memorize factoids or are great at filling out worksheets in school; rather, they come about when people ask questions and pursue those questions in reasoned self-critical ways. This is the essence of inquiry, beginning with questions to be answered and the work needed to begin to answer them, and is the reason that the social studies C3 document, developed by 15
+u269 professional social studies and content area associations, is built around the “inquiry arc” (developing questions, students learning to use disciplinary tools and concepts, evaluating sources and using evidence, communicating conclusions).*
+u270 Teaching our social studies content incorporating the inquiry arc offers students the opportunity to investigate questions in a deep and engaging manner, and offers our students the opportunity to work collaboratively, as well as individually, on significant questions within the social studies disciplines. Inquiry can and should be used within all social studies disciplines and, as such, is an “umbrella strand” covering all content strands.
+u271 (x=90) Teaching with the inquiry arc is a process that can move from teacher-structured inquiries to guided individual inquiry. The proper use of the inquiry arc within our classrooms, along with other thoughtful social studies strategies, will help our students build the intellectual habits of mind that will be with them long after the content is forgotten. It can create in our students the confidence in their own skills to make sense of an increasingly complex world.
+u272 (x=566) “Nobody works harder at learning than a curious kid.”
+u273 (x=577) —Thomas Friedman (The World is Flat: A Brief History of the Twenty-First Century)
+u274 * National Council for the Social Studies, Social Studies for the Next Generation: Purposes, Practices, and Implications
+u275 of the College, Career, and Civic Life (C3) Framework for Social Studies State Standards (Silver Spring, MD: NCSS, 2013).
+=== page 20 === [running header: Wisconsin Standards for Social Studies]
+u278 Behavioral Sciences Strand Learning about the behavioral sciences helps students understand people in various times and places. By examining cultures, students are able to compare our ways of life and those of other groups of people in the past and present. As citizens, students need to know how institutions are maintained or changed and how they influence individuals, cultures, and societies. Knowledge of the factors that contribute to an individual’s uniqueness is essential to understanding the influence on self and on others.
+u279 Economics Strand Individuals, families, businesses, and governments must make complex economic choices as they decide what goods and services to provide and how to allocate limited resources for distribution and consumption. In a global economy marked by rapid technological change, students must learn how to be better producers, consumers, and economic citizens.
+u280 Geography Strand Students gain geographical perspectives of the world by studying the earth and the interactions of people with places where they live, work, and play. Knowledge of geography helps students to address the various cultural, economic, social, and civic implications of life in earth’s many environments.
+u281 History Strand Students need to understand their historical roots and those of others, and how past events have shaped their world. In developing these insights, students must know what life was like in the past and how things change and develop over time. Reconstructing and interpreting historical events provides a needed perspective in addressing the past, the present, and the future.
+u282 Political Science Strand Knowledge about the structures of power, authority, and governance and their evolving functions in contemporary society is essential if young citizens are to develop civic responsibility. Young people become more effective citizens and problem solvers when they know how local, state, and national governments and international organizations function and interact.
+=== page 21 === [running header: Wisconsin Standards for Social Studies]
+u285 At-A-Glance: Wisconsin Standards for Social Studies
+u286 (x=90) Wisconsin students will... Social Studies Inquiry Practices and Processes
+u287 (x=410) Geography
+u288 (x=104) 1. Construct meaningful questions that initiate an inquiry. 2. Gather and evaluate sources. 3. Develop claims using evidence to support reasoning. 4. Communicate and critique conclusions. 5. Be civically engaged.
+u289 (x=424) 1. Use geographic tools and ways of thinking to analyze the world. 2. Analyze human movement and population patterns. 3. Examine the impacts of global interconnections and relationships. 4. Evaluate the relationship between identity and place. 5. Evaluate the relationship between humans and the environment.
+u290 (x=90) Behavioral Science
+u291 (x=104) 1. Examine individual cognition, perception, behavior, and identity (Psychology). 2. Investigate interactions between individuals and groups (Sociology). 3. Assess the role that human behavior and cultures play in the development of social endeavors (Anthropology). 4. Examine the progression of specific forms of technology and their influence within various societies.
+u292 (x=410) History
+u293 (x=424) 1. Use historical evidence for determining cause and effect. 2. Analyze, recognize, and evaluate patterns of continuity and change over time and contextualization of historical events. 3. Connect past events, people, and ideas to the present, use different perspectives to draw conclusions, and suggest current implications. 4. Evaluate a variety of primary and secondary sources to interpret the historical context, intended audience, purpose, and/or author’s point of view (Historical Methodology).
+u294 (x=90) Economics
+u295 (x=112) Use economic reasoning to understand issues.
+u296 (x=112) Analyze how decisions are made and interactions occur
+u297 (x=122) among individuals, households, and firms/businesses (Microeconomics).
+u298 (x=112) Analyze how an economy functions as a whole
+u299 (x=410) Political Science
+u300 (x=424) 1. Identify and analyze democratic principles and ideals. 2. Examine and interpret rights, privileges, and responsibilities in society. 3. Analyze and evaluate the powers and purposes of political and civic institutions. 4. Develop and employ skills for civic literacy.
+u301 (x=122) (Macroeconomics).
+u302 (x=112) Evaluate government decisions and their impact on
+u303 (x=122) individuals, businesses, markets, and resources (Role of Government).
+=== page 22 === [running header: Wisconsin Standards for Social Studies]
+u306 Standards, Learning Priorities, and Performance Indicators for Social Studies
+u307 The Wisconsin Standards for Social Studies outline what students should know and be able to do upon graduation from a Wisconsin public high school to prepare for college, career, and community life. The standards are divided into six strands: Social Studies Inquiry Practices and Processes, Behavioral Sciences, Economics, Geography, History, and Political Science. Each strand has four or five standard statements that are divided into learning priorities and performance indicators that progress across the grade bands.
+u308 The strands in social studies are meant to be used together; for example, although trade and movement of goods and services is an important aspect to the study of human geography, indicators on trade will mostly be found in the economics strand. It will be helpful to educators and districts conducting a curriculum review to unpack the standards in every strand to see where they are best met in the local district. Research in social studies education supports this; studies have shown that students recall and understand themes and topics better if the social studies strands are integrated and not taught in isolation.
+u309 The Social Studies Inquiry Practices and Processes provide a key aspect of social studies teaching and learning. They emphasize how students should engage in accessing all courses and strands of social studies and is supported by the work of the College, Career, and Civic Life Ready Framework for State Social Studies Standards, published by the National Council for the Social Studies in 2013.
+u310 The visual shows how the strands of social studies should be integrated into the curriculum and how the inquiry arc surrounds the content.
+=== page 23 ===
+u313 Section III
+u314 Discipline: Social Studies (SS) Standards
+=== page 24 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u315 Content Area: Social Studies Inquiry Practices and Processes (Inq)
+u316 Inquiry Practices and Processes can and should be used within all social studies disciplines and, as such, is an “umbrella strand” covering all content strands.
+u317 Standard SS.Inq1: Wisconsin students will construct meaningful questions that initiate an inquiry.
+u319 [T1 R1 C2] Learning Priority
+u320 [T1 R1 C5] K-2 (e)
+u321 [T1 R1 C8] 3-5 (i)
+u322 [T1 R1 C11] 6-8 (m)
+u323 [T1 R1 C14] 9-12 (h)
+u324 [T1 R2 C1] Inq1.a: Develop questions based on a topic
+u325 [T1 R2 C2] Inq1.a: Develop
+u326 [T1 R2 C4] SS.Inq1.a.e Explain why or how a teacher- or text-provided question is important to a topic or issue.
+u327 [T1 R2 C5] SS.Inq1.a.e
+u328 [T1 R2 C7] SS.Inq1.a.i Develop a list of open- and closed-ended questions on a topic or issue.
+u329 [T1 R2 C8] SS.Inq1.a.i
+u330 [T1 R2 C10] SS.Inq1.a.m Formulate open-ended questions for further research within one of the social studies disciplines.
+u331 [T1 R2 C11] SS.Inq1.a.m
+u332 [T1 R2 C14] SS.Inq1.a.h
+u333 [T1 R3 C2] questions based
+u334 [T1 R4 C5] Explain why or how a
+u335 [T1 R4 C8] Develop a list of open- and
+u336 [T1 R4 C11] Formulate open-ended
+u337 [T1 R4 C14] Frame researchable,
+u338 [T1 R5 C2] on a topic
+u339 [T1 R5 C5] teacher- or text-provided
+u340 [T1 R5 C8] closed-ended questions on
+u341 [T1 R5 C11] questions for further
+u342 [T1 R5 C14] complex, and open-ended
+u343 [T1 R6 C5] question is important to a
+u344 [T1 R6 C8] a topic or issue.
+u345 [T1 R6 C11] research within one of the
+u346 [T1 R6 C14] questions, integrating
+u347 [T1 R7 C5] topic or issue.
+u348 [T1 R7 C11] social studies disciplines.
+u349 [T1 R7 C14] multiple social studies
+u350 [T1 R8 C14] strands that call for
+u351 [T1 R9 C14] investigation.
+u352 [T1 R10 C1] Inq1.b: Plan an inquiry
+u353 [T1 R10 C5] SS.Inq1.b.e
+u354 [T1 R10 C7] SS.Inq1.b.i Develop a list of questions that support the research through discussion and investigation to guide inquiry.
+u355 [T1 R10 C10] SS.Inq1.b.m Identify additional questions that support the research and possible resources to guide the inquiry.
+u356 [T1 R10 C14] SS.Inq1.b.h
+u357 [T1 R11 C5] When provided with a
+u358 [T1 R11 C14] Construct questions that
+u359 [T1 R12 C5] question, determine what
+u360 [T1 R12 C14] support the research and
+u361 [T1 R13 C5] other questions are needed
+u362 [T1 R13 C14] identify the sources that
+u363 [T1 R14 C5] to support the research (i.e.,
+u364 [T1 R14 C14] will be used in the student-
+u365 [T1 R15 C5] “What more do we need to
+u366 [T1 R15 C14] developed research
+u367 [T1 R16 C5] know?”).
+u368 [T1 R16 C14] proposal.
+=== page 25 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u371 Content Area: Social Studies Inquiry Practices and Processes (Inq)
+u372 Standard SS.Inq2: Wisconsin students will gather and evaluate sources.
+u374 [T1 R1 C2] Learning Priority
+u375 [T1 R1 C5] K-2 (e)
+u376 [T1 R1 C8] 3-5 (i)
+u377 [T1 R1 C11] 6-8 (m)
+u378 [T1 R1 C14] 9-12 (h)
+u379 [T1 R2 C1] Inq2.a: Gather diverse sources (electronic, digital, print, and other mass media) applicable to the inquiry
+u380 [T1 R2 C2] Inq2.a: Gather
+u381 [T1 R2 C4] SS.Inq2.a.e Brainstorm what resources would be valuable to guide the inquiry.
+u382 [T1 R2 C5] SS.Inq2.a.e
+u383 [T1 R2 C7] SS.Inq2.a.i Gather a variety of resources into categories to guide the inquiry.
+u384 [T1 R2 C8] SS.Inq2.a.i
+u385 [T1 R2 C10] SS.Inq2.a.m Explore evidence from multiple reliable sources representing a range of perspectives and media that have been selected through research to guide the inquiry.
+u386 [T1 R2 C11] SS.Inq2.a.m
+u387 [T1 R2 C14] SS.Inq2.a.h
+u388 [T1 R3 C2] diverse sources
+u389 [T1 R4 C5] Brainstorm what resources
+u390 [T1 R4 C8] Gather a variety of
+u391 [T1 R4 C11] Explore evidence from
+u392 [T1 R4 C14] Explore evidence
+u393 [T1 R5 C2] (electronic,
+u394 [T1 R6 C5] would be valuable to guide
+u395 [T1 R6 C8] resources into categories to
+u396 [T1 R6 C11] multiple reliable sources
+u397 [T1 R6 C14] discovered through
+u398 [T1 R7 C2] digital, print, and
+u399 [T1 R7 C5] the inquiry.
+u400 [T1 R7 C8] guide the inquiry.
+u401 [T1 R7 C11] representing a range of
+u402 [T1 R7 C14] personal research through a
+u403 [T1 R8 C2] other mass
+u404 [T1 R8 C11] perspectives and media that
+u405 [T1 R8 C14] variety of disciplinary
+u406 [T1 R9 C2] media)
+u407 [T1 R9 C11] have been selected through
+u408 [T1 R9 C14] lenses (e.g., economics,
+u409 [T1 R10 C2] applicable to the
+u410 [T1 R10 C11] research to guide the
+u411 [T1 R10 C14] history, political science)
+u412 [T1 R11 C2] inquiry
+u413 [T1 R11 C11] inquiry.
+u414 [T1 R11 C14] and multiple perspectives
+u415 [T1 R12 C14] (e.g., race, gender, ethnicity,
+u416 [T1 R13 C14] language, ability, sexual
+u417 [T1 R14 C14] orientation, family
+u418 [T1 R15 C14] background, and/or family
+u419 [T1 R16 C14] income) with a variety of
+u420 [T1 R17 C14] sources including primary
+u421 [T1 R18 C14] and secondary sources and
+u422 [T1 R19 C14] media resources.
+u423 [T1 R20 C1] Inq2.b: Evaluate sources
+u424 [T1 R20 C4] SS.Inq2.b.e Review and ask questions about books, photos, artifacts, websites, and other sources that will give insight into the inquiry.
+u425 [T1 R20 C7] SS.Inq2.b.i Evaluate resources to determine which best support the inquiry and supporting questions.
+u426 [T1 R20 C10] SS.Inq2.b.m Determine credibility and applicability of a source by considering a variety of factors through the lens of a social studies strand.
+u427 [T1 R20 C14] SS.Inq2.b.h
+u428 [T1 R21 C14] Analyze and weigh
+u429 [T1 R22 C14] relevance of a source
+u430 [T1 R23 C14] through a disciplinary lens
+u431 [T1 R24 C14] to determine how the
+u432 [T1 R25 C14] author, context, audience,
+u433 [T1 R26 C14] and purpose affect the
+u434 [T1 R27 C14] reliability, limitations, and
+u435 [T1 R28 C14] usefulness of a source.
+=== page 26 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u438 Content Area: Social Studies Inquiry Practices and Processes (Inq)
+u439 Standard SS.Inq3: Wisconsin students will develop claims using evidence to support reasoning.
+u441 [T1 R1 C2] Learning Priority
+u442 [T1 R1 C5] K-2 (e)
+u443 [T1 R1 C8] 3-5 (i)
+u444 [T1 R1 C11] 6-8 (m)
+u445 [T1 R1 C14] 9-12 (h)
+u446 [T1 R2 C1] Inq3.a: Develop claims to answer an inquiry question
+u447 [T1 R2 C2] Inq3.a: Develop
+u448 [T1 R2 C5] SS.Inq3.a.e
+u449 [T1 R2 C7] SS.Inq3.a.i Create a thesis statement based on evidence found in sources to make a claim.
+u450 [T1 R2 C8] SS.Inq3.a.i
+u451 [T1 R2 C10] SS.Inq3.a.m Develop a debatable and defensible claim based upon the analysis of sources.
+u452 [T1 R2 C11] SS.Inq3.a.m
+u453 [T1 R2 C14] SS.Inq3.a.h
+u454 [T1 R3 C2] claims to answer
+u455 [T1 R4 C5] With prompting and
+u456 [T1 R4 C8] Create a thesis statement
+u457 [T1 R4 C11] Develop a debatable and
+u458 [T1 R4 C14] Develop a defensible claim
+u459 [T1 R5 C2] an inquiry
+u460 [T1 R5 C5] support, state a claim to
+u461 [T1 R5 C8] based on evidence found in
+u462 [T1 R5 C11] defensible claim based upon
+u463 [T1 R5 C14] to provide focus for an
+u464 [T1 R6 C2] question
+u465 [T1 R6 C5] answer a question that the
+u466 [T1 R6 C8] sources to make a claim.
+u467 [T1 R6 C11] the analysis of sources.
+u468 [T1 R6 C14] inquiry that is based upon
+u469 [T1 R7 C5] class is considering.
+u470 [T1 R7 C14] the analysis of sources.
+u471 [T1 R8 C1] Inq3.b: Cite evidence from multiple sources to support a claim
+u472 [T1 R8 C4] SS.Inq3.b.e Determine which evidence in teacher-provided sources support a claim that answers a compelling question.
+u473 [T1 R8 C5] SS.Inq3.b.e
+u474 [T1 R8 C7] SS.Inq3.b.i Select appropriate evidence from sources to support a claim.
+u475 [T1 R8 C11] SS.Inq3.b.m
+u476 [T1 R8 C13] SS.Inq3.b.h Support a claim with evidence using sources from multiple perspectives and media (electronic, digital, print, and other mass media).
+u477 [T1 R8 C14] SS.Inq3.b.h
+u478 [T1 R9 C5] Determine which evidence
+u479 [T1 R9 C11] Support a claim with
+u480 [T1 R9 C14] Support a claim with
+u481 [T1 R10 C5] in teacher-provided sources
+u482 [T1 R10 C11] evidence from multiple
+u483 [T1 R10 C14] evidence using sources
+u484 [T1 R11 C5] support a claim that
+u485 [T1 R11 C11] reliable sources
+u486 [T1 R11 C14] from multiple perspectives
+u487 [T1 R12 C5] answers a compelling
+u488 [T1 R12 C11] representing a range of
+u489 [T1 R12 C14] and media (electronic,
+u490 [T1 R13 C5] question.
+u491 [T1 R13 C11] media (electronic, digital,
+u492 [T1 R13 C14] digital, print, and other
+u493 [T1 R14 C11] print, and other mass
+u494 [T1 R14 C14] mass media).
+u495 [T1 R15 C11] media).
+u496 [T1 R16 C1] Inq3.c: Elaborate how evidence supports a claim
+u497 [T1 R16 C4] SS.Inq3.c.e Explain how evidence supports a claim for a class inquiry.
+u498 [T1 R16 C7] SS.Inq3.c.i Assess how evidence supports a claim.
+u499 [T1 R16 C11] SS.Inq3.c.m
+u500 [T1 R16 C14] SS.Inq3.c.h
+u501 [T1 R17 C11] Analyze the extent to which
+u502 [T1 R17 C14] Analyze the extent to which
+u503 [T1 R18 C11] evidence supports or does
+u504 [T1 R18 C14] evidence supports or does
+u505 [T1 R19 C11] not support a claim, and if it
+u506 [T1 R19 C14] not support a claim, and if it
+u507 [T1 R20 C11] does not, adjust claim
+u508 [T1 R20 C14] does not, modify the claim
+u509 [T1 R21 C11] appropriately.
+u510 [T1 R21 C14] appropriately.
+=== page 27 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u513 Content Area: Social Studies Inquiry Practices and Processes (Inq)
+u514 Standard SS.Inq4: Wisconsin students will communicate and critique conclusions.
+u516 [T1 R1 C2] Learning Priority
+u517 [T1 R1 C5] K-2 (e)
+u518 [T1 R1 C8] 3-5 (i)
+u519 [T1 R1 C11] 6-8 (m)
+u520 [T1 R1 C14] 9-12 (h)
+u521 [T1 R2 C1] Inq4.a: Communicate conclusions
+u522 [T1 R2 C2] Inq4.a:
+u523 [T1 R2 C4] SS.Inq4.a.e Communicate conclusions.
+u524 [T1 R2 C5] SS.Inq4.a.e
+u525 [T1 R2 C7] SS.Inq4.a.i Communicate conclusions from a variety of teacher- provided presentation options.
+u526 [T1 R2 C8] SS.Inq4.a.i
+u527 [T1 R2 C10] SS.Inq4.a.m Communicate conclusions using a variety of media (i.e. video or online, documentaries, exhibits, research papers, or web pages).
+u528 [T1 R2 C11] SS.Inq4.a.m
+u529 [T1 R2 C14] SS.Inq4.a.h
+u530 [T1 R3 C2] Communicate
+u531 [T1 R4 C5] Communicate conclusions.
+u532 [T1 R4 C8] Communicate conclusions
+u533 [T1 R4 C11] Communicate conclusions
+u534 [T1 R4 C14] Communicate conclusions
+u535 [T1 R5 C2] conclusions
+u536 [T1 R5 C8] from a variety of teacher-
+u537 [T1 R5 C11] using a variety of media (i.e.
+u538 [T1 R5 C14] while taking into
+u539 [T1 R6 C8] provided presentation
+u540 [T1 R6 C11] video or online,
+u541 [T1 R6 C14] consideration that
+u542 [T1 R7 C8] options.
+u543 [T1 R7 C11] documentaries, exhibits,
+u544 [T1 R7 C14] audiences from diverse
+u545 [T1 R8 C11] research papers, or web
+u546 [T1 R8 C14] backgrounds (e.g., gender,
+u547 [T1 R9 C11] pages).
+u548 [T1 R9 C14] class, proximity to the event
+u549 [T1 R10 C14] or issue) may interpret the
+u550 [T1 R11 C14] information in different
+u551 [T1 R12 C14] ways).
+u552 [T1 R13 C1] Inq4.b: Critique conclusions
+u553 [T1 R13 C4] SS.Inq4.b.e Respond effectively to questions about their inquiry.
+u554 [T1 R13 C7] SS.Inq4.b.i Evaluate the strength of a claim, evidence, and communication using criteria established by both teacher and student.
+u555 [T1 R13 C10] SS.Inq4.b.m Analyze and evaluate the logic, relevance, and accuracy of others’ claims, taking into consideration potential bias.
+u556 [T1 R13 C14] SS.Inq4.b.h
+u557 [T1 R14 C14] Examine a claim’s strengths
+u558 [T1 R15 C14] and weaknesses, including
+u559 [T1 R16 C14] an evaluation of supporting
+u560 [T1 R17 C14] evidence, taking into
+u561 [T1 R18 C14] consideration cultural,
+u562 [T1 R19 C14] social, economic, political,
+u563 [T1 R20 C14] geographic, and historic
+u564 [T1 R21 C14] influences that inform these
+u565 [T1 R22 C14] perspectives.
+=== page 28 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u568 Content Area: Social Studies Inquiry Practices and Processes (Inq)
+u569 Standard SS.Inq5: Wisconsin students will be civically engaged.
+u571 [T1 R1 C2] Learning Priority
+u572 [T1 R1 C5] K-2 (e)
+u573 [T1 R1 C8] 3-5 (i)
+u574 [T1 R1 C11] 6-8 (m)
+u575 [T1 R1 C14] 9-12 (h)
+u576 [T1 R2 C1] Inq5.a: Civic engagement
+u577 [T1 R2 C2] Inq5.a: Civic
+u578 [T1 R2 C4] SS.Inq5.a.e Explore opportunities for personal or collaborative civic engagement with community, school, state, tribal, national, and/or global implications.
+u579 [T1 R2 C5] SS.Inq5.a.e
+u580 [T1 R2 C7] SS.Inq5.a.i Explore opportunities for personal or collaborative civic engagement with community, school, state, tribal, national, and/or global implications.
+u581 [T1 R2 C8] SS.Inq5.a.i
+u582 [T1 R2 C10] SS.Inq5.a.m Explore opportunities for personal or collaborative civic engagement with community, school, state, tribal, national, and/or global implications.
+u583 [T1 R2 C11] SS.Inq5.a.m
+u584 [T1 R2 C14] SS.Inq5.a.h
+u585 [T1 R3 C2] engagement
+u586 [T1 R4 C5] Explore opportunities for
+u587 [T1 R4 C8] Explore opportunities for
+u588 [T1 R4 C11] Explore opportunities for
+u589 [T1 R4 C14] Explore opportunities,
+u590 [T1 R5 C5] personal or collaborative
+u591 [T1 R5 C8] personal or collaborative
+u592 [T1 R5 C11] personal or collaborative
+u593 [T1 R5 C14] informed by the knowledge
+u594 [T1 R6 C5] civic engagement with
+u595 [T1 R6 C8] civic engagement with
+u596 [T1 R6 C11] civic engagement with
+u597 [T1 R6 C14] and methods of the social
+u598 [T1 R7 C5] community, school, state,
+u599 [T1 R7 C8] community, school, state,
+u600 [T1 R7 C11] community, school, state,
+u601 [T1 R7 C14] sciences, for personal or
+u602 [T1 R8 C5] tribal, national, and/or
+u603 [T1 R8 C8] tribal, national, and/or
+u604 [T1 R8 C11] tribal, national, and/or
+u605 [T1 R8 C14] collaborative civic
+u606 [T1 R9 C5] global implications.
+u607 [T1 R9 C8] global implications.
+u608 [T1 R9 C11] global implications.
+u609 [T1 R9 C14] engagement with
+u610 [T1 R10 C14] community, school, state,
+u611 [T1 R12 C14] tribal, national, and/or
+u612 [T1 R13 C14] global implications.
+=== page 29 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u615 Content Area: Behavioral Sciences (BH)
+u616 Standard SS.BH1: Wisconsin students will examine individual cognition, perception, behavior, and identity (Psychology).
+u618 [T1 R1 C2] Learning Priority
+u619 [T1 R1 C5] K-2 (e)
+u620 [T1 R1 C8] 3-5 (i)
+u621 [T1 R1 C11] 6-8 (m)
+u622 [T1 R1 C14] 9-12 (h)
+u623 [T1 R2 C1] BH1.a: Individual cognition, perception, and behavior
+u624 [T1 R2 C2] BH1.a:
+u625 [T1 R2 C4] SS.BH1.a.2 Understand we are individuals influenced by our relationships and environments.
+u626 [T1 R2 C7] SS.BH1.a.4 Describe how a person's understanding, perceptions, and behaviors are affected by relationships and environments.
+u627 [T1 R2 C8] SS.BH1.a.4
+u628 [T1 R2 C10] SS.BH1.a.m Identify patterns such as culture, prior knowledge, family, peers, school, communities, and personal interests that influence a person’s cognition, perception, and behavior.
+u629 [T1 R2 C11] SS.BH1.a.m
+u630 [T1 R2 C14] SS.BH1.a.h
+u631 [T1 R3 C2] Individual
+u632 [T1 R4 C8] Describe how a person's
+u633 [T1 R4 C11] Identify patterns such as
+u634 [T1 R4 C14] Analyze biological and
+u635 [T1 R5 C2] cognition,
+u636 [T1 R5 C8] understanding, perceptions,
+u637 [T1 R5 C11] culture, prior knowledge,
+u638 [T1 R5 C14] environmental factors that
+u639 [T1 R6 C2] perception, and
+u640 [T1 R6 C8] and behaviors are affected
+u641 [T1 R6 C11] family, peers, school,
+u642 [T1 R6 C14] influence a person’s
+u643 [T1 R7 C2] behavior
+u644 [T1 R7 C8] by relationships and
+u645 [T1 R7 C11] communities, and personal
+u646 [T1 R7 C14] cognition, perception, and
+u647 [T1 R8 C8] environments.
+u648 [T1 R8 C11] interests that influence a
+u649 [T1 R8 C14] behavior.
+u650 [T1 R10 C11] person’s cognition,
+u651 [T1 R11 C14] Explain the interaction of
+u652 [T1 R12 C11] perception, and behavior.
+u653 [T1 R13 C14] biology and experience (i.e.,
+u654 [T1 R14 C14] nature and nurture) and its
+u655 [T1 R15 C14] influence on behavior.
+u656 [T1 R16 C14] Using scientific practices,
+u657 [T1 R17 C14] conduct research related to
+u658 [T1 R18 C14] a problem or issue affecting
+u659 [T1 R19 C14] individuals and/or society.
+u660 [T1 R20 C1] BH1.b: Personal identity and empathy
+u661 [T1 R20 C4] SS.BH1.b.2 Identify situations and places that impact a person’s emotions.
+u662 [T1 R20 C7] SS.BH1.b.4 Describe how culture, ethnicity, race, age, religion, gender, and social class can help form self-image and identity.
+u663 [T1 R20 C10] SS.BH1.b.m Analyze how culture, ethnicity, race, age, religion, gender, and social class affect a person's self-image and identity and interactions with others.
+u664 [T1 R20 C14] SS.BH1.b.h
+u665 [T1 R21 C14] Examine the effects of
+u666 [T1 R22 C14] discrimination on identity.
+u667 [T1 R23 C14] Explore developmental
+u668 [T1 R24 C14] theories (e.g., Piaget,
+u669 [T1 R25 C14] Erikson, Maslow) as they
+u670 [T1 R26 C14] relate to cultural bias.
+=== page 30 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u673 Content Area: Behavioral Sciences (BH)
+u674 Standard SS.BH2: Wisconsin students will investigate and interpret interactions between individuals and groups (Sociology).
+u676 [T1 R1 C2] Learning Priority
+u677 [T1 R1 C5] K-2 (e)
+u678 [T1 R1 C8] 3-5 (i)
+u679 [T1 R1 C11] 6-8 (m)
+u680 [T1 R1 C14] 9-12 (h)
+u681 [T1 R2 C1] BH2.a: Relationship of people and groups
+u682 [T1 R2 C2] BH2.a:
+u683 [T1 R2 C4] SS.BH2.a.K-1 Describe how groups of people are alike and different.
+u684 [T1 R2 C7] SS.BH2.a.4-5 Compare how people from different cultures solve common problems, such as distribution of food, shelter, and social interactions.
+u685 [T1 R2 C8] SS.BH2.a.4-5
+u686 [T1 R2 C10] SS.BH2.a.m Summarize the role culture plays in personal and group behavior. Categorize factors that contribute to cooperation and conflict among peoples of a country and/or the world (i.e., culture, language, religion, political beliefs).
+u687 [T1 R2 C11] SS.BH2.a.m
+u688 [T1 R2 C14] SS.BH2.a.h
+u689 [T1 R3 C2] Relationship of
+u690 [T1 R4 C8] Compare how people from
+u691 [T1 R4 C11] Summarize the role culture
+u692 [T1 R4 C14] Investigate how language
+u693 [T1 R5 C2] people and
+u694 [T1 R5 C8] different cultures solve
+u695 [T1 R5 C11] plays in personal and group
+u696 [T1 R5 C14] and culture can unify a
+u697 [T1 R6 C2] groups
+u698 [T1 R6 C8] common problems, such as
+u699 [T1 R6 C11] behavior.
+u700 [T1 R6 C14] group of people.
+u701 [T1 R7 C8] distribution of food, shelter,
+u702 [T1 R8 C11] Categorize factors that
+u703 [T1 R8 C14] Evaluate the factors that
+u704 [T1 R9 C8] and social interactions.
+u705 [T1 R10 C11] contribute to cooperation
+u706 [T1 R10 C14] contribute to cooperation
+u707 [T1 R11 C11] and conflict among peoples
+u708 [T1 R11 C14] and conflict among peoples
+u709 [T1 R12 C11] of a country and/or the
+u710 [T1 R12 C14] of a country and the world
+u711 [T1 R13 C11] world (i.e., culture,
+u712 [T1 R13 C14] (e.g., language, religion,
+u713 [T1 R14 C11] language, religion, political
+u714 [T1 R14 C14] culture, race, ethnicity,
+u715 [T1 R15 C11] beliefs).
+u716 [T1 R15 C14] gender, social or financial
+u717 [T1 R16 C14] inequity, political beliefs,
+u718 [T1 R17 C14] access to resources,
+u719 [T1 R18 C14] economics, environment).
+u720 [T1 R19 C1] BH2.b: Cultural patterns
+u721 [T1 R19 C4] SS.BH2.b.1 Understand ways people change and adapt to new situations in places and within a family.
+u722 [T1 R19 C7] SS.BH2.b.4 Give examples of how peoples from different cultures develop different values and ways of interpreting experiences.
+u723 [T1 R19 C11] SS.BH2.b.m
+u724 [T1 R19 C13] SS.BH2.b.h Critique interpretations of how different cultures interact with their environment.
+u725 [T1 R19 C14] SS.BH2.b.h
+u726 [T1 R20 C11] Model how individuals learn
+u727 [T1 R20 C14] Critique interpretations of
+u728 [T1 R21 C11] the elements of their
+u729 [T1 R21 C14] how different cultures
+u730 [T1 R22 C11] culture through
+u731 [T1 R22 C14] interact with their
+u732 [T1 R23 C11] interactions with others,
+u733 [T1 R23 C14] environment.
+u734 [T1 R24 C11] and how individuals learn of
+u735 [T1 R25 C11] other cultures through
+u736 [T1 R26 C11] communication, travel, and
+u737 [T1 R27 C11] study.
+=== page 31 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u740 Content Area: Behavioral Sciences (BH)
+u741 Standard SS.BH3: Wisconsin students will assess the role that human behavior and cultures play in the development of social endeavors (Anthropology).
+u743 [T1 R1 C2] Learning Priority
+u744 [T1 R1 C5] K-2 (e)
+u745 [T1 R1 C8] 3-5 (i)
+u746 [T1 R1 C11] 6-8 (m)
+u747 [T1 R1 C14] 9-12 (h)
+u748 [T1 R2 C1] BH3.a: Social interactions
+u749 [T1 R2 C2] BH3.a: Social
+u750 [T1 R2 C4] SS.BH3.a.2 Compare a belief in one culture to one in a different culture (e.g., How do people in a different country celebrate their birthdays?).
+u751 [T1 R2 C5] SS.BH3.a.2
+u752 [T1 R2 C7] SS.BH3.a.5 Investigate how interpretations of similarities and differences between and among cultures may lead to understandings or misunderstandings.
+u753 [T1 R2 C8] SS.BH3.a.5
+u754 [T1 R2 C10] SS.BH3.a.m Analyze how a person’s local actions can have global consequences and how global patterns and processes can affect seemingly unrelated local actions.
+u755 [T1 R2 C11] SS.BH3.a.m
+u756 [T1 R2 C14] SS.BH3.a.h
+u757 [T1 R3 C2] interactions
+u758 [T1 R4 C5] Compare a belief in one
+u759 [T1 R4 C8] Investigate how
+u760 [T1 R4 C11] Analyze how a person’s
+u761 [T1 R4 C14] Analyze the means by and
+u762 [T1 R5 C5] culture to one in a different
+u763 [T1 R5 C8] interpretations of
+u764 [T1 R5 C11] local actions can have
+u765 [T1 R5 C14] extent to which groups and
+u766 [T1 R6 C5] culture (e.g., How do people
+u767 [T1 R6 C8] similarities and differences
+u768 [T1 R6 C11] global consequences and
+u769 [T1 R6 C14] institutions can influence
+u770 [T1 R7 C5] in a different country
+u771 [T1 R7 C8] between and among
+u772 [T1 R7 C11] how global patterns and
+u773 [T1 R7 C14] people, events, and cultures
+u774 [T1 R8 C5] celebrate their birthdays?).
+u775 [T1 R8 C8] cultures may lead to
+u776 [T1 R8 C11] processes can affect
+u777 [T1 R8 C14] in both historical and
+u778 [T1 R9 C8] understandings or
+u779 [T1 R9 C11] seemingly unrelated local
+u780 [T1 R9 C14] contemporary settings.
+u781 [T1 R11 C8] misunderstandings.
+u782 [T1 R11 C11] actions.
+u783 [T1 R12 C14] Become critically aware of
+u784 [T1 R13 C14] ethnocentrism, its
+u785 [T1 R14 C14] manifestations, and
+u786 [T1 R15 C14] consequences in a world
+u787 [T1 R16 C14] that is increasingly
+u788 [T1 R17 C14] interconnected.
+=== page 32 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u791 Content Area: Behavioral Sciences (BH)
+u792 Standard SS.BH4: Wisconsin students will examine the progression of specific forms of technology and their influence within various societies.
+u794 [T1 R1 C2] Learning Priority
+u795 [T1 R1 C5] K-2 (e)
+u796 [T1 R1 C8] 3-5 (i)
+u797 [T1 R1 C11] 6-8 (m)
+u798 [T1 R1 C14] 9-12 (h)
+u799 [T1 R2 C1] BH4.a: Progression of technology
+u800 [T1 R2 C2] BH4.a:
+u801 [T1 R2 C4] SS.BH4.a.e Describe specific types of technology and demonstrate how they are used on a daily basis for social or cultural purposes.
+u802 [T1 R2 C5] SS.BH4.a.e
+u803 [T1 R2 C7] SS.BH4.a.i Classify technologies based on intended use, access, and design, and how they might change people’s lives (for better or worse).
+u804 [T1 R2 C8] SS.BH4.a.i
+u805 [T1 R2 C10] SS.BH4.a.m Differentiate between intended and unintended consequences of various forms of technology and how they may affect societies and cultures.
+u806 [T1 R2 C11] SS.BH4.a.m
+u807 [T1 R2 C13] SS.BH4.a.h Evaluate the purpose for which a technology is created and analyze the consequences (intended and unintended) to different cultures.
+u808 [T1 R2 C14] SS.BH4.a.h
+u809 [T1 R3 C2] Progression of
+u810 [T1 R4 C5] Describe specific types of
+u811 [T1 R4 C8] Classify technologies based
+u812 [T1 R4 C11] Differentiate between
+u813 [T1 R4 C14] Evaluate the purpose for
+u814 [T1 R5 C2] technology
+u815 [T1 R5 C5] technology and
+u816 [T1 R5 C8] on intended use, access, and
+u817 [T1 R5 C11] intended and unintended
+u818 [T1 R5 C14] which a technology is
+u819 [T1 R6 C5] demonstrate how they are
+u820 [T1 R6 C8] design, and how they might
+u821 [T1 R6 C11] consequences of various
+u822 [T1 R6 C14] created and analyze the
+u823 [T1 R7 C5] used on a daily basis for
+u824 [T1 R7 C8] change people’s lives (for
+u825 [T1 R7 C11] forms of technology and
+u826 [T1 R7 C14] consequences (intended
+u827 [T1 R8 C5] social or cultural purposes.
+u828 [T1 R8 C8] better or worse).
+u829 [T1 R8 C11] how they may affect
+u830 [T1 R8 C14] and unintended) to
+u831 [T1 R9 C11] societies and cultures.
+u832 [T1 R9 C14] different cultures.
+=== page 33 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u835 Content Area: Economics (Econ)
+u836 Standard SS.Econ1: Wisconsin students use economic reasoning to understand issues.
+u838 [T1 R1 C2] Learning Priority
+u839 [T1 R1 C5] K-2 (e)
+u840 [T1 R1 C8] 3-5 (i)
+u841 [T1 R1 C11] 6-8 (m)
+u842 [T1 R1 C14] 9-12 (h)
+u843 [T1 R2 C1] Econ1.a: Choices and decision making
+u844 [T1 R2 C2] Econ1.a: Choices
+u845 [T1 R2 C4] SS.Econ1.a.1 Differentiate between a “want” and a “need”. Describe resources that are important or useful to you, your family, community, and country.
+u846 [T1 R2 C5] SS.Econ1.a.1
+u847 [T1 R2 C7] SS.Econ1.a.3 Use economic reasoning to compare and contrast the costs and benefits of a decision. Categorize different limited resources (e.g., money, materials, time, labor or workers, land, natural resources, renewable or non-renewable).
+u848 [T1 R2 C8] SS.Econ1.a.3
+u849 [T1 R2 C11] SS.Econ1.a.m
+u850 [T1 R2 C13] SS.Econ1.a.h Perform a cost–benefit analysis on a real-world situation, using economic thinking to describe the marginal costs and benefits of a particular decision.
+u851 [T1 R2 C14] SS.Econ1.a.h
+u852 [T1 R3 C2] and decision
+u853 [T1 R4 C5] Differentiate between a
+u854 [T1 R4 C8] Use economic reasoning to
+u855 [T1 R4 C11] Predict the opportunity
+u856 [T1 R4 C14] Perform a cost–benefit
+u857 [T1 R5 C2] making
+u858 [T1 R5 C5] “want” and a “need”.
+u859 [T1 R5 C8] compare and contrast the
+u860 [T1 R5 C11] costs of various decisions
+u861 [T1 R5 C14] analysis on a real-world
+u862 [T1 R6 C5] Describe resources that are
+u863 [T1 R6 C8] costs and benefits of a
+u864 [T1 R6 C11] and explain why the
+u865 [T1 R6 C14] situation, using economic
+u866 [T1 R7 C8] decision.
+u867 [T1 R7 C11] opportunity cost might
+u868 [T1 R7 C14] thinking to describe the
+u869 [T1 R8 C5] important or useful to you,
+u870 [T1 R9 C11] differ from person to
+u871 [T1 R9 C14] marginal costs and benefits
+u872 [T1 R10 C5] your family, community,
+u873 [T1 R10 C8] Categorize different limited
+u874 [T1 R11 C11] person or in different
+u875 [T1 R11 C14] of a particular decision.
+u876 [T1 R12 C5] and country.
+u877 [T1 R12 C8] resources (e.g., money,
+u878 [T1 R13 C11] situations.
+u879 [T1 R14 C8] materials, time, labor or
+u880 [T1 R15 C8] workers, land, natural
+u881 [T1 R15 C11] Assess how limited
+u882 [T1 R16 C8] resources, renewable or
+u883 [T1 R16 C11] resources (e.g., money, land,
+u884 [T1 R17 C8] non-renewable).
+u885 [T1 R17 C11] natural resources, workers,
+u886 [T1 R18 C11] time) impact the choices of
+u887 [T1 R19 C11] individuals, households,
+u888 [T1 R20 C11] communities, businesses,
+u889 [T1 R21 C11] and countries.
+u890 [T1 R22 C1] Econ1.b: Incentives
+u891 [T1 R22 C4] SS.Econ1.b.2 Predict a person’s change in behavior in response to different potential rewards.
+u892 [T1 R22 C7] SS.Econ1.b.4 Infer potential incentives in a real-world situation.
+u893 [T1 R22 C10] SS.Econ1.b.m Evaluate how incentives impact individual and/or household decision making.
+u894 [T1 R22 C11] SS.Econ1.b.m
+u895 [T1 R22 C14] SS.Econ1.b.h
+u896 [T1 R23 C11] Evaluate how incentives
+u897 [T1 R23 C14] Evaluate how incentives
+u898 [T1 R24 C11] impact individual and/or
+u899 [T1 R24 C14] determine what is produced
+u900 [T1 R25 C11] household decision making.
+u901 [T1 R25 C14] and distributed in a
+u902 [T1 R26 C14] competitive market system.
+=== page 34 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u905 Content Area: Economics (Econ)
+u906 Standard SS.Econ2: Wisconsin students will analyze how decisions are made and interactions occur among individuals, households, and firms or businesses (Microeconomics).
+u908 [T1 R1 C2] Learning Priority
+u909 [T1 R1 C5] K-2 (e)
+u910 [T1 R1 C8] 3-5 (i)
+u911 [T1 R1 C11] 6-8 (m)
+u912 [T1 R1 C14] 9-12 (h)
+u913 [T1 R2 C1] Econ2.a: Consumers, producers, and markets
+u914 [T1 R2 C2] Econ2.a:
+u915 [T1 R2 C4] SS.Econ2.a.1 Differentiate between buyers (consumers) and sellers (producers).
+u916 [T1 R2 C5] SS.Econ2.a.1
+u917 [T1 R2 C7] SS.Econ2.a.3-4 Compare two product markets found in the local community. Differentiate between goods and services.
+u918 [T1 R2 C8] SS.Econ2.a.3-4
+u919 [T1 R2 C10] SS.Econ2.a.m Analyze the role of consumers and producers in product markets. Provide examples of how individuals and households are both consumers and producers.
+u920 [T1 R2 C11] SS.Econ2.a.m
+u921 [T1 R2 C14] SS.Econ2.a.h
+u922 [T1 R3 C2] Consumers,
+u923 [T1 R4 C5] Differentiate between
+u924 [T1 R4 C8] Compare two product
+u925 [T1 R4 C11] Analyze the role of
+u926 [T1 R4 C14] Connect the roles of
+u927 [T1 R5 C2] producers, and
+u928 [T1 R6 C5] buyers (consumers) and
+u929 [T1 R6 C8] markets found in the local
+u930 [T1 R6 C11] consumers and producers in
+u931 [T1 R6 C14] consumers and producers in
+u932 [T1 R7 C2] markets
+u933 [T1 R7 C5] sellers (producers).
+u934 [T1 R7 C8] community.
+u935 [T1 R7 C11] product markets.
+u936 [T1 R7 C14] the product, labor, and
+u937 [T1 R8 C14] financial markets, and the
+u938 [T1 R9 C8] Differentiate between
+u939 [T1 R9 C11] Provide examples of how
+u940 [T1 R10 C14] economy as a whole.
+u941 [T1 R11 C8] goods and services.
+u942 [T1 R11 C11] individuals and households
+u943 [T1 R12 C11] are both consumers and
+u944 [T1 R12 C14] Analyze the roles of the
+u945 [T1 R13 C11] producers.
+u946 [T1 R13 C14] market for goods and
+u947 [T1 R14 C14] services (product market)
+u948 [T1 R15 C14] and the market for factors
+u949 [T1 R16 C14] of production (factor
+u950 [T1 R17 C14] market).
+u951 [T1 R18 C1] Econ2.b: Supply, demand, and competition
+u952 [T1 R18 C4] SS.Econ2.b.2 Define product market and categorize prices of products in a local market.
+u953 [T1 R18 C7] SS.Econ2.b.4-5 Assess the roles of consumers (demand), producers (supply), prices, non-price factors (e.g., drought or a fad item), and competition in the product market.
+u954 [T1 R18 C10] SS.Econ2.b.m Investigate the relationship between supply and demand. Evaluate the extent to which competition exists in product markets, and its relationship to price and quality of goods and services.
+u955 [T1 R18 C14] SS.Econ2.b.h
+u956 [T1 R19 C14] Differentiate between
+u957 [T1 R20 C14] supply and demand and the
+u958 [T1 R21 C14] resulting impact on
+u959 [T1 R22 C14] equilibrium prices and
+u960 [T1 R23 C14] quantities produced.
+u961 [T1 R24 C14] Compare and contrast
+u962 [T1 R25 C14] various degrees of
+u963 [T1 R26 C14] competition in markets (e.g.,
+u964 [T1 R27 C14] perfect competition,
+u965 [T1 R28 C14] monopolistic competition,
+u966 [T1 R29 C14] oligopoly, monopoly) and
+u967 [T1 R30 C14] how the extent of
+u968 [T1 R31 C14] competition in various
+u969 [T1 R32 C14] markets can affect price,
+u970 [T1 R33 C14] quantity, and variety.
+u971 NOTE: This standard continued on next page.
+=== page 35 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u974 Content Area: Economics (Econ)
+u975 Standard SS.Econ2: Wisconsin students will analyze how decisions are made and interactions occur among individuals, households, and firms/businesses (Microeconomics) (cont’d).
+u977 [T1 R1 C1] Learning Priority
+u978 [T1 R1 C3] K-2 (e)
+u979 [T1 R1 C6] 3-5 (i)
+u980 [T1 R1 C9] 6-8 (m)
+u981 [T1 R1 C12] 9-12 (h)
+u982 [T1 R2 C1] Econ2.c: Firm/business behavior and costs of production
+u983 [T1 R2 C2] SS.Econ2.c.2 Predict how producers use the factors of production (i.e., land, labor, human and physical capital, and entrepreneurship) to make goods, deliver services, and earn profits.
+u984 [T1 R2 C3] SS.Econ2.c.2
+u985 [T1 R2 C6] SS.Econ2.c.3
+u986 [T1 R2 C8] SS.Econ2.c.m Categorize factors of production and how they are combined to make goods and deliver services. Evaluate how profits influence sellers in markets.
+u987 [T1 R2 C9] SS.Econ2.c.m
+u988 [T1 R2 C11] SS.Econ2.c.h Calculate the costs of production and explain their role in firm decision making. Differentiate between and calculate revenue and profit for a given firm.
+u989 [T1 R2 C12] SS.Econ2.c.h
+u990 [T1 R3 C3] Predict how producers use
+u991 [T1 R3 C6] Compare the skills and
+u992 [T1 R3 C9] Categorize factors of
+u993 [T1 R3 C12] Calculate the costs of
+u994 [T1 R4 C3] the factors of production
+u995 [T1 R4 C6] knowledge required to
+u996 [T1 R4 C9] production and how they
+u997 [T1 R4 C12] production and explain
+u998 [T1 R5 C3] (i.e., land, labor, human and
+u999 [T1 R5 C6] produce certain goods and
+u1000 [T1 R5 C9] are combined to make
+u1001 [T1 R5 C12] their role in firm decision
+u1002 [T1 R6 C3] physical capital, and
+u1003 [T1 R6 C6] services.
+u1004 [T1 R6 C9] goods and deliver services.
+u1005 [T1 R6 C12] making.
+u1006 [T1 R7 C3] entrepreneurship) to make
+u1007 [T1 R8 C6] Provide an example of the
+u1008 [T1 R8 C9] Evaluate how profits
+u1009 [T1 R8 C12] Differentiate between and
+u1010 [T1 R9 C3] goods, deliver services, and
+u1011 [T1 R10 C6] factors of production (i.e.,
+u1012 [T1 R10 C9] influence sellers in markets.
+u1013 [T1 R10 C12] calculate revenue and profit
+u1014 [T1 R11 C3] earn profits.
+u1015 [T1 R12 C6] land, labor, capital,
+u1016 [T1 R12 C12] for a given firm.
+u1017 [T1 R13 C6] entrepreneurship) for a
+u1018 [T1 R14 C6] given product.
+=== page 36 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1021 Content Area: Economics (Econ)
+u1022 Standard SS.Econ3: Wisconsin students will analyze how an economy functions as a whole (Macroeconomics).
+u1024 [T1 R1 C2] Learning Priority
+u1025 [T1 R1 C5] K-2 (e)
+u1026 [T1 R1 C8] 3-5 (i)
+u1027 [T1 R1 C11] 6-8 (m)
+u1028 [T1 R1 C14] 9-12 (h)
+u1029 [T1 R2 C1] Econ3.a: Economic indicators
+u1030 [T1 R2 C2] Econ3.a:
+u1031 [T1 R2 C4] SS.Econ3.a.1 Identify the cost of everyday goods (e.g., milk, bread, fruit, vegetables, cheese).
+u1032 [T1 R2 C5] SS.Econ3.a.1
+u1033 [T1 R2 C7] SS.Econ3.a.4 Investigate how the cost of things changes over time.
+u1034 [T1 R2 C8] SS.Econ3.a.4
+u1035 [T1 R2 C10] SS.Econ3.a.m Analyze how inflation, deflation, and unemployment affect different groups.
+u1036 [T1 R2 C11] SS.Econ3.a.m
+u1037 [T1 R2 C14] SS.Econ3.a.h
+u1038 [T1 R3 C2] Economic
+u1039 [T1 R4 C5] Identify the cost of
+u1040 [T1 R4 C8] Investigate how the cost of
+u1041 [T1 R4 C11] Analyze how inflation,
+u1042 [T1 R4 C14] Assess how decisions about
+u1043 [T1 R5 C2] indicators
+u1044 [T1 R5 C5] everyday goods (e.g., milk,
+u1045 [T1 R5 C8] things changes over time.
+u1046 [T1 R5 C11] deflation, and
+u1047 [T1 R5 C14] spending and production
+u1048 [T1 R6 C5] bread, fruit, vegetables,
+u1049 [T1 R6 C11] unemployment affect
+u1050 [T1 R6 C14] made by households,
+u1051 [T1 R7 C5] cheese).
+u1052 [T1 R7 C11] different groups.
+u1053 [T1 R7 C14] businesses, and
+u1054 [T1 R8 C14] governments determine the
+u1055 [T1 R10 C14] country’s levels of income,
+u1056 [T1 R11 C14] employment, and prices.
+u1057 [T1 R12 C14] Analyze why
+u1058 [T1 R13 C14] unemployment rates differ
+u1059 [T1 R14 C14] for people of different ages,
+u1060 [T1 R15 C14] races, and genders.
+u1061 [T1 R16 C14] Use economic indicators to
+u1062 [T1 R17 C14] analyze the current and
+u1063 [T1 R18 C14] future state of the
+u1064 [T1 R19 C14] economy.
+u1065 [T1 R20 C1] Econ3.b: Money
+u1066 [T1 R20 C4] SS.Econ3.b.1 Categorize types of money (e.g., coins, bills) and explain why money is used. Formulate reasons why people save.
+u1067 [T1 R20 C7] SS.Econ3.b.5 Describe the role of money, banking, and savings in everyday life, including why people borrow money and the role of interest.
+u1068 [T1 R20 C11] SS.Econ3.b.m
+u1069 [T1 R20 C13] SS.Econ3.b.h Evaluate the structure and functions of money in the United States, including the role of interest rates.
+u1070 [T1 R20 C14] SS.Econ3.b.h
+u1071 [T1 R21 C11] Differentiate between the
+u1072 [T1 R21 C14] Evaluate the structure and
+u1073 [T1 R22 C11] functions of money (i.e.,
+u1074 [T1 R22 C14] functions of money in the
+u1075 [T1 R23 C11] medium of exchange, store
+u1076 [T1 R23 C14] United States, including the
+u1077 [T1 R24 C11] of value, unit of account).
+u1078 [T1 R24 C14] role of interest rates.
+u1079 [T1 R25 C11] Assess how interest rates
+u1080 [T1 R26 C11] influence borrowing and
+u1081 [T1 R27 C11] investing.
+u1082 NOTE: This standard continued on next page.
+=== page 37 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1085 Content Area: Economics (Econ)
+u1086 Standard SS.Econ3: Wisconsin students will analyze how an economy functions as a whole (Macroeconomics) (cont’d).
+u1088 [T1 R1 C2] Learning Priority
+u1089 [T1 R1 C5] K-2 (e)
+u1090 [T1 R1 C8] 3-5 (i)
+u1091 [T1 R1 C11] 6-8 (m)
+u1092 [T1 R1 C14] 9-12 (h)
+u1093 [T1 R2 C1] Econ 3.c: Economic fluctuations and business cycles
+u1094 [T1 R2 C2] Econ 3.c:
+u1095 [T1 R2 C10] SS.Econ3.c.m Define Gross Domestic Product (GDP), and compare the GDP of different nations.
+u1096 [T1 R2 C11] SS.Econ3.c.m
+u1097 [T1 R2 C14] SS.Econ3.c.h
+u1098 [T1 R3 C2] Economic
+u1099 [T1 R4 C11] Define Gross Domestic
+u1100 [T1 R4 C14] Connect the components of
+u1101 [T1 R5 C2] fluctuations and
+u1102 [T1 R5 C11] Product (GDP), and
+u1103 [T1 R5 C14] Gross Domestic Product
+u1104 [T1 R6 C2] business cycles
+u1105 [T1 R6 C11] compare the GDP of
+u1106 [T1 R6 C14] (GDP) to different parts of
+u1107 [T1 R7 C11] different nations.
+u1108 [T1 R7 C14] an economy and
+u1109 [T1 R8 C14] differentiate between real
+u1110 [T1 R9 C14] and nominal GDP.
+u1111 [T1 R10 C14] Compare and contrast the
+u1112 [T1 R11 C14] parts of a business cycle of
+u1113 [T1 R12 C14] an economy (i.e.,
+u1114 [T1 R13 C14] expansion/prosperity, peak,
+u1115 [T1 R14 C14] contraction or recession,
+u1116 [T1 R15 C14] trough).
+=== page 38 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1119 Content Area: Economics (Econ)
+u1120 Standard SS.Econ4: Wisconsin students will evaluate government decisions and their impact on individuals, businesses, markets, and resources (Role of Government).
+u1122 [T1 R1 C2] Learning Priority
+u1123 [T1 R1 C5] K-2 (e)
+u1124 [T1 R1 C8] 3-5 (i)
+u1125 [T1 R1 C11] 6-8 (m)
+u1126 [T1 R1 C14] 9-12 (h)
+u1127 [T1 R2 C1] Econ4.a: Economic systems and allocation of resources
+u1128 [T1 R2 C2] Econ4.a:
+u1129 [T1 R2 C4] SS.Econ4.a.2 Hypothesize how a good gets to the local community market.
+u1130 [T1 R2 C5] SS.Econ4.a.2
+u1131 [T1 R2 C7] SS.Econ4.a.3 Trace the chain of supply for a needed product (e.g., food, shelter).
+u1132 [T1 R2 C8] SS.Econ4.a.3
+u1133 [T1 R2 C10] SS.Econ4.a.m Compare and contrast how different economic systems (traditional, command, market, mixed) choose to allocate the production, distribution, and consumption of resources (what, how, for whom is it produced).
+u1134 [T1 R2 C11] SS.Econ4.a.m
+u1135 [T1 R2 C14] SS.Econ4.a.h
+u1136 [T1 R3 C2] Economic
+u1137 [T1 R4 C5] Hypothesize how a good
+u1138 [T1 R4 C8] Trace the chain of supply
+u1139 [T1 R4 C11] Compare and contrast how
+u1140 [T1 R4 C14] Evaluate how values and
+u1141 [T1 R5 C2] systems and
+u1142 [T1 R5 C5] gets to the local community
+u1143 [T1 R5 C8] for a needed product (e.g.,
+u1144 [T1 R5 C11] different economic systems
+u1145 [T1 R5 C14] beliefs (e.g., economic
+u1146 [T1 R6 C2] allocation of
+u1147 [T1 R6 C5] market.
+u1148 [T1 R6 C8] food, shelter).
+u1149 [T1 R6 C11] (traditional, command,
+u1150 [T1 R6 C14] freedom, economic
+u1151 [T1 R7 C2] resources
+u1152 [T1 R7 C11] market, mixed) choose to
+u1153 [T1 R7 C14] efficiency, equity, full
+u1154 [T1 R8 C11] allocate the production,
+u1155 [T1 R8 C14] employment, price stability,
+u1156 [T1 R9 C11] distribution, and
+u1157 [T1 R9 C14] security, efficiency and
+u1158 [T1 R10 C11] consumption of resources
+u1159 [T1 R10 C14] growth) help to form
+u1160 [T1 R11 C11] (what, how, for whom is it
+u1161 [T1 R11 C14] different types of economic
+u1162 [T1 R12 C11] produced).
+u1163 [T1 R12 C14] systems and analyze how
+u1164 [T1 R13 C14] they have been affected by
+u1165 [T1 R14 C14] specific political and social
+u1166 [T1 R15 C14] systems and important
+u1167 [T1 R16 C14] events.
+u1168 [T1 R17 C14] Analyze how the allocation
+u1169 [T1 R18 C14] of resources can impact the
+u1170 [T1 R19 C14] distribution of wealth and
+u1171 [T1 R20 C14] income equality or
+u1172 [T1 R21 C14] inequality.
+u1173 NOTE: This standard continued on next page.
+=== page 39 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1176 Content Area: Economics (Econ)
+u1177 Standard SS.Econ4: Wisconsin students will evaluate government decisions and their impact on individuals, businesses, markets, and resources (Role of Government) (cont’d).
+u1179 [T1 R1 C1] Learning Priority
+u1180 [T1 R1 C2] K-2 (e)
+u1181 [T1 R1 C3] 3-5 (i)
+u1182 [T1 R1 C4] 6-8 (m)
+u1183 [T1 R1 C5] 9-12 (h)
+u1184 [T1 R2 C1] Econ4.b: Institutions
+u1185 [T1 R2 C2] SS.Econ4.b.1 Classify different jobs people have and how these jobs help others. Explain what major public, private, and tribal institutions (e.g., schools, police, fire station) do for people.
+u1186 [T1 R2 C3] SS.Econ4.b.4-5 Assess the role of economic institutions (e.g., banks, government) in helping individuals and society. Differentiate between private property (e.g., factories and homes) and public property (e.g., parks, public schools, and government buildings).
+u1187 [T1 R2 C4] SS.Econ4.b.m Compare and contrast the role of different economic institutions such as banks, labor unions, non-profits, and businesses in an economy. Analyze rules and laws that protect and support both consumers (e.g., private property, zoning, contracts, agreements, and product safety) and workers (e.g., labor unions, regulations, minimum wage).
+u1188 [T1 R2 C6] SS.Econ4.b.h
+u1189 [T1 R3 C6] Analyze the impact
+u1190 [T1 R4 C6] economic institutions (such
+u1191 [T1 R5 C6] as the Federal Reserve,
+u1192 [T1 R6 C6] property rights, legal
+u1193 [T1 R7 C6] systems or rule of law,
+u1194 [T1 R8 C6] corporations, minimum
+u1195 [T1 R9 C6] wage, regulations) have on
+u1196 [T1 R10 C6] our country.
+u1197 [T1 R11 C6] Analyze the impact of
+u1198 [T1 R12 C6] institutions (e.g.,
+u1199 [T1 R13 C6] corporations, labor unions,
+u1200 [T1 R14 C6] civil service system,
+u1201 [T1 R15 C6] government, associations)
+u1202 [T1 R16 C6] on wages, benefits, living
+u1203 [T1 R17 C6] standards, and a local
+u1204 [T1 R18 C6] community's economy.
+u1205 [T1 R19 C6] Assess how property rights
+u1206 [T1 R20 C6] are defined, protected,
+u1207 [T1 R21 C6] enforced, and limited by
+u1208 [T1 R22 C6] government (e.g., zoning
+u1209 [T1 R23 C6] laws, copyright laws,
+u1210 [T1 R24 C6] patents, intellectual
+u1211 [T1 R25 C6] property).
+u1212 NOTE: This standard continued on next page.
+=== page 40 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1215 Content Area: Economics (Econ)
+u1216 Standard SS.Econ4: Wisconsin students will evaluate government decisions and their impact on individuals, businesses, markets, and resources (Role of Government) (cont’d).
+u1218 [T1 R1 C1] Learning Priority
+u1219 [T1 R1 C2] K-2 (e)
+u1220 [T1 R1 C3] 3-5 (i)
+u1221 [T1 R1 C4] 6-8 (m)
+u1222 [T1 R1 C5] 9-12 (h)
+u1223 [T1 R2 C1] Econ4.c: Role of government
+u1224 [T1 R2 C2] SS.Econ4.c.2 Summarize goods and services that the government provides (e.g., roads, schools, police), and how they help people.
+u1225 [T1 R2 C3] SS.Econ4.c.5 Discuss reasons a government taxes people.
+u1226 [T1 R2 C4] SS.Econ4.c.m Analyze the impact of different government policies (e.g., taxation and government spending) on the economy.
+u1227 [T1 R2 C6] SS.Econ4.c.h
+u1228 [T1 R3 C6] Evaluate types of taxes (i.e.,
+u1229 [T1 R4 C6] progressive, regressive) and
+u1230 [T1 R5 C6] earned benefits with
+u1231 [T1 R6 C6] eligibility criteria (e.g.,
+u1232 [T1 R7 C6] Social Security, Medicare,
+u1233 [T1 R8 C6] Medicaid). Justify the
+u1234 [T1 R9 C6] selection of fiscal and
+u1235 [T1 R10 C6] monetary policies in
+u1236 [T1 R11 C6] expanding or contracting
+u1237 [T1 R12 C6] the economy.
+u1238 [T1 R13 C1] Econ4.d: Impact of government interventions
+u1239 [T1 R13 C2] SS.Econ4.d.1 Give an example of an unintended cost or benefit to an event (e.g., getting new playground equipment, receiving a present).
+u1240 [T1 R13 C3] SS.Econ4.d.5 Predict unintended costs and benefits (i.e., externalities) for a given current situation or event.
+u1241 [T1 R13 C4] SS.Econ4.d.m Analyze potential unintended costs and benefits (i.e., externalities) for a local or state law or policy.
+u1242 [T1 R13 C6] SS.Econ4.d.h
+u1243 [T1 R14 C6] Evaluate the intended and
+u1244 [T1 R15 C6] unintended costs and
+u1245 [T1 R16 C6] benefits (i.e., externalities)
+u1246 [T1 R17 C6] of government policies to
+u1247 [T1 R18 C6] improve market outcomes
+u1248 [T1 R19 C6] and standards of living.
+u1249 [T1 R20 C6] Analyze the effectiveness of
+u1250 [T1 R21 C6] how people, government
+u1251 [T1 R22 C6] policies, and economic
+u1252 [T1 R23 C6] systems have attempted to
+u1253 [T1 R24 C6] address income inequality
+u1254 [T1 R25 C6] and working conditions
+u1255 [T1 R26 C6] both now and in the past.
+=== page 41 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1258 Content Area: Economics (Econ)
+u1259 Standard SS.Econ4: Wisconsin students will evaluate government decisions and their impact on individuals, businesses, markets, and resources (Role of Government) (cont’d).
+u1261 [T1 R1 C1] Learning Priority
+u1262 [T1 R1 C2] K-2 (e)
+u1263 [T1 R1 C3] 3-5 (i)
+u1264 [T1 R1 C4] 6-8 (m)
+u1265 [T1 R1 C5] 9-12 (h)
+u1266 [T1 R2 C1] Econ4.e: Specialization, trade, and interdependence
+u1267 [T1 R2 C2] SS.Econ4.e.2 Investigate how people can benefit themselves and others by developing special skills and strengths. Hypothesize why people in one country trade goods with people in another country.
+u1268 [T1 R2 C3] SS.Econ4.e.3 Compare and contrast specialization in two or more regions (e.g., Midwest and Northeastern United States, United States and Japan, Europe and South America).
+u1269 [T1 R2 C4] SS.Econ4.e.m Summarize the role of specialization on trade and cost of goods/services. Identify examples of U.S. exports and imports.
+u1270 [T1 R2 C6] SS.Econ4.e.h
+u1271 [T1 R3 C6] Draw conclusions of the
+u1272 [T1 R4 C6] effect of specialization and
+u1273 [T1 R5 C6] trade on production and
+u1274 [T1 R6 C6] consumption of goods and
+u1275 [T1 R7 C6] services upon individuals,
+u1276 [T1 R8 C6] businesses, and societies
+u1277 [T1 R9 C6] Analyze the role of
+u1278 [T1 R10 C6] comparative advantage in
+u1279 [T1 R11 C6] international trade of goods
+u1280 [T1 R12 C6] and services.
+=== page 42 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1283 Content Area: Geography (Geog)
+u1284 Standard SS.Geog1: Wisconsin students will use geographic tools and ways of thinking to analyze the world.
+u1286 [T1 R1 C2] Learning Priority
+u1287 [T1 R1 C5] K-2 (e)
+u1288 [T1 R1 C8] 3-5 (i)
+u1289 [T1 R1 C11] 6-8 (m)
+u1290 [T1 R1 C14] 9-12 (h)
+u1291 [T1 R2 C1] Geog1.a: Tools of geography
+u1292 [T1 R2 C2] Geog1.a: Tools
+u1293 [T1 R2 C4] SS.Geog1.a.1 Recognize the difference between maps (paper or digital) and globes, and why someone might choose one over the other for a given task.
+u1294 [T1 R2 C5] SS.Geog1.a.1
+u1295 [T1 R2 C7] SS.Geog1.a.4-5 Summarize how location (absolute and relative) affects people, places, and environment. Construct maps (paper or digital), charts, and graphs using appropriate elements (i.e., date, orientation, grid, scale, title, author, index, legend, situation)
+u1296 [T1 R2 C8] SS.Geog1.a.4-5
+u1297 [T1 R2 C10] SS.Geog1.a.m Use paper and digital maps to ask and answer geographic questions (e.g., Where are there patterns? Why there? So what?). Analyze how various map projections distort shape, area, distance, and direction (e.g., Mercator, Robinson, Peters).
+u1298 [T1 R2 C11] SS.Geog1.a.m
+u1299 [T1 R2 C14] SS.Geog1.a.h
+u1300 [T1 R3 C2] of geography
+u1301 [T1 R4 C5] Recognize the difference
+u1302 [T1 R4 C8] Summarize how location
+u1303 [T1 R4 C11] Use paper and digital maps
+u1304 [T1 R4 C14] Use printed and digital
+u1305 [T1 R5 C5] between maps (paper or
+u1306 [T1 R5 C8] (absolute and relative)
+u1307 [T1 R5 C11] to ask and answer
+u1308 [T1 R5 C14] maps to ask and answer
+u1309 [T1 R6 C5] digital) and globes, and why
+u1310 [T1 R6 C8] affects people, places, and
+u1311 [T1 R6 C11] geographic questions (e.g.,
+u1312 [T1 R6 C14] geographic questions (e.g.,
+u1313 [T1 R7 C5] someone might choose one
+u1314 [T1 R7 C8] environment.
+u1315 [T1 R7 C11] Where are there patterns?
+u1316 [T1 R7 C14] Where are there patterns?
+u1317 [T1 R8 C5] over the other for a given
+u1318 [T1 R8 C11] Why there? So what?).
+u1319 [T1 R8 C14] Why there? So what?) and
+u1320 [T1 R9 C8] Construct maps (paper or
+u1321 [T1 R10 C5] task.
+u1322 [T1 R10 C14] evaluate the
+u1323 [T1 R11 C8] digital), charts, and graphs
+u1324 [T1 R11 C11] Analyze how various map
+u1325 [T1 R12 C14] appropriateness of
+u1326 [T1 R13 C8] using appropriate elements
+u1327 [T1 R13 C11] projections distort shape,
+u1328 [T1 R14 C14] geographic data and
+u1329 [T1 R15 C8] (i.e., date, orientation, grid,
+u1330 [T1 R15 C11] area, distance, and direction
+u1331 [T1 R16 C14] representations to
+u1332 [T1 R17 C8] scale, title, author, index,
+u1333 [T1 R17 C11] (e.g., Mercator, Robinson,
+u1334 [T1 R18 C14] understand real-world
+u1335 [T1 R19 C8] legend, situation)
+u1336 [T1 R19 C11] Peters).
+u1337 [T1 R20 C14] problems.
+u1338 [T1 R21 C14] Explain how current
+u1339 [T1 R22 C14] geospatial technologies
+u1340 [T1 R23 C14] (e.g., Geographic
+u1341 [T1 R24 C14] Information Systems (GIS),
+u1342 [T1 R25 C14] Global Positioning Systems
+u1343 [T1 R26 C14] (GPS), satellite images,
+u1344 [T1 R27 C14] remote sensing) are used
+u1345 [T1 R28 C14] for personal, business, and
+u1346 [T1 R29 C14] government purposes.
+u1347 NOTE: This standard continued on next page.
+=== page 43 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1350 Content Area: Geography (Geog)
+u1351 Standard SS.Geog1: Wisconsin students will use geographic tools and ways of thinking to analyze the world (cont’d).
+u1353 [T1 R1 C2] Learning Priority
+u1354 [T1 R1 C5] K-2 (e)
+u1355 [T1 R1 C8] 3-5 (i)
+u1356 [T1 R1 C11] 6-8 (m)
+u1357 [T1 R1 C14] 9-12 (h)
+u1358 [T1 R2 C1] Geog1.b: Spatial thinking (map interpretation)
+u1359 [T1 R2 C2] Geog1.b: Spatial
+u1360 [T1 R2 C4] SS.Geog1.b.1-2 Identify physical and human characteristics of a place using maps, graphs, photographs, and other representations.
+u1361 [T1 R2 C5] SS.Geog1.b.1-2
+u1362 [T1 R2 C7] SS.Geog1.b.i Identify purposes of and differences among maps, globes, aerial photographs, charts, and satellite images.
+u1363 [T1 R2 C8] SS.Geog1.b.i
+u1364 [T1 R2 C11] SS.Geog1.b.m
+u1365 [T1 R2 C13] SS.Geog1.b.h Interpret maps and images (e.g., political, physical, relief, thematic, virtual or electronic) to analyze geographic problems and changes over time.
+u1366 [T1 R2 C14] SS.Geog1.b.h
+u1367 [T1 R3 C2] thinking (map
+u1368 [T1 R4 C5] Identify physical and human
+u1369 [T1 R4 C8] Identify purposes of and
+u1370 [T1 R4 C11] Interpret patterns in a
+u1371 [T1 R4 C14] Interpret maps and images
+u1372 [T1 R5 C2] interpretation)
+u1373 [T1 R5 C5] characteristics of a place
+u1374 [T1 R5 C8] differences among maps,
+u1375 [T1 R5 C11] variety of maps, charts, and
+u1376 [T1 R5 C14] (e.g., political, physical,
+u1377 [T1 R6 C5] using maps, graphs,
+u1378 [T1 R6 C8] globes, aerial photographs,
+u1379 [T1 R6 C11] graphs to display
+u1380 [T1 R6 C14] relief, thematic, virtual or
+u1381 [T1 R7 C5] photographs, and other
+u1382 [T1 R7 C8] charts, and satellite images.
+u1383 [T1 R7 C11] geographic information
+u1384 [T1 R7 C14] electronic) to analyze
+u1385 [T1 R8 C5] representations.
+u1386 [T1 R8 C11] (contour, cartogram,
+u1387 [T1 R8 C14] geographic problems and
+u1388 [T1 R9 C11] population, natural
+u1389 [T1 R9 C14] changes over time.
+u1390 [T1 R10 C11] resource, historical maps)
+u1391 [T1 R11 C11] and explain relationships
+u1392 [T1 R12 C11] among them.
+u1393 [T1 R13 C1] Geog1.c: Mental mapping and maps from memory
+u1394 [T1 R13 C4] SS.Geog1.c.1 Construct a map (paper or digital) of a familiar place (i.e., bedroom, classroom, playground) using title, compass rose, and symbols.
+u1395 [T1 R13 C7] SS.Geog1.c.4-5 Create and label a map (paper or digital) of the local community, state, tribal lands, and country, including both physical (e.g., oceans and continents) and human (e.g., roads, buildings) characteristics. Identify and construct regions (digital or paper) in Wisconsin and the United States.
+u1396 [T1 R13 C11] SS.Geog1.c.m
+u1397 [T1 R13 C13] SS.Geog1.c.h Compare and contrast a mental map before and after an event to see if perception reshaped their perspectives. Explain how using a virtual or electronic mapping application can aid in the development of a more complete and accurate mental map of places and region.
+u1398 [T1 R14 C11] Construct a mental map of
+u1399 [T1 R15 C11] regions and locate the
+u1400 [T1 R16 C11] major regions of the world
+u1401 [T1 R17 C11] and their physical and
+u1402 [T1 R18 C11] cultural features including
+u1403 [T1 R19 C11] continents, cities, countries,
+u1404 [T1 R20 C11] bodies of water, landforms,
+u1405 [T1 R21 C11] mountain ranges, and
+u1406 [T1 R22 C11] climate zones.
+u1407 [T1 R23 C11] Compare mental maps
+u1408 [T1 R24 C11] shaped by individual
+u1409 [T1 R25 C11] perceptions of people,
+u1410 [T1 R26 C11] places, regions, and
+u1411 [T1 R27 C11] environments.
+=== page 44 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1414 Content Area: Geography (Geog)
+u1415 Standard SS.Geog2: Wisconsin students will analyze human movement and population patterns.
+u1417 [T1 R1 C2] Learning Priority
+u1418 [T1 R1 C5] K-2 (e)
+u1419 [T1 R1 C8] 3-5 (i)
+u1420 [T1 R1 C11] 6-8 (m)
+u1421 [T1 R1 C14] 9-12 (h)
+u1422 [T1 R2 C1] Geog2.a: Population and place
+u1423 [T1 R2 C2] Geog2.a:
+u1424 [T1 R2 C4] SS.Geog2.a.K-1 Analyze where and why people live in certain places. Classify the local community as rural, suburban, urban, or tribal.
+u1425 [T1 R2 C5] SS.Geog2.a.K-1
+u1426 [T1 R2 C8] SS.Geog2.a.3
+u1427 [T1 R2 C10] SS.Geog2.a.m Analyze why populations increase or decrease in various regions throughout the world. Analyze the distribution of population patterns at various scales (i.e., local, state, country, region).
+u1428 [T1 R2 C11] SS.Geog2.a.m
+u1429 [T1 R2 C14] SS.Geog2.a.h
+u1430 [T1 R3 C2] Population and
+u1431 [T1 R4 C5] Analyze where and why
+u1432 [T1 R4 C8] Categorize the populations
+u1433 [T1 R4 C11] Analyze why populations
+u1434 [T1 R4 C14] Evaluate population policies
+u1435 [T1 R5 C2] place
+u1436 [T1 R5 C5] people live in certain places.
+u1437 [T1 R5 C8] of people living in their
+u1438 [T1 R5 C11] increase or decrease in
+u1439 [T1 R5 C14] by analyzing how
+u1440 [T1 R6 C5] Classify the local
+u1441 [T1 R6 C8] state and country.
+u1442 [T1 R6 C11] various regions throughout
+u1443 [T1 R6 C14] governments affect
+u1444 [T1 R7 C11] the world.
+u1445 [T1 R7 C14] population change.
+u1446 [T1 R8 C5] community as rural,
+u1447 [T1 R8 C8] Compare and contrast
+u1448 [T1 R9 C5] suburban, urban, or tribal.
+u1449 [T1 R9 C8] types of communities (i.e.,
+u1450 [T1 R9 C11] Analyze the distribution of
+u1451 [T1 R9 C14] Analyze population
+u1452 [T1 R10 C8] rural, suburban, urban, or
+u1453 [T1 R10 C11] population patterns at
+u1454 [T1 R10 C14] compositions (e.g., age,
+u1455 [T1 R11 C8] tribal), and different types
+u1456 [T1 R11 C11] various scales (i.e., local,
+u1457 [T1 R11 C14] gender, ethnicity) and the
+u1458 [T1 R12 C8] of places on Earth (e.g.,
+u1459 [T1 R12 C11] state, country, region).
+u1460 [T1 R12 C14] different implications each
+u1461 [T1 R13 C8] community, state, region,
+u1462 [T1 R13 C14] has on countries or regions
+u1463 [T1 R14 C8] country or nation).
+u1464 [T1 R14 C14] throughout the world.
+u1465 [T1 R15 C1] Geog2.b: Reasons people move
+u1466 [T1 R15 C4] SS.Geog2.b.2 Explain why people have moved to and away from their community.
+u1467 [T1 R15 C7] SS.Geog2.b.5 Investigate push and pull factors of movement in their community, state, country, and world.
+u1468 [T1 R15 C8] SS.Geog2.b.5
+u1469 [T1 R15 C10] SS.Geog2.b.m Analyze patterns of migration of various types (e.g., age, sex, ethnicity, race) in the community, state, country, and world.
+u1470 [T1 R15 C14] SS.Geog2.b.h
+u1471 [T1 R16 C8] Investigate push and pull
+u1472 [T1 R16 C14] Evaluate the impact of
+u1473 [T1 R17 C8] factors of movement in
+u1474 [T1 R17 C14] major international
+u1475 [T1 R18 C8] their community, state,
+u1476 [T1 R18 C14] migrations, both past and
+u1477 [T1 R19 C8] country, and world.
+u1478 [T1 R19 C14] present, on physical and
+u1479 [T1 R20 C14] human systems.
+u1480 [T1 R22 C1] Geog2.c: Impact of movement
+u1481 [T1 R22 C4] SS.Geog2.c.2 Describe population changes in their community over time.
+u1482 [T1 R22 C7] SS.Geog2.c.5 Describe population changes in their state and country over time.
+u1483 [T1 R22 C11] SS.Geog2.c.m
+u1484 [T1 R22 C13] SS.Geog2.c.h Analyze the social impact of movement of people to different locations in a variety of time periods and locations throughout the world.
+u1485 [T1 R22 C14] SS.Geog2.c.h
+u1486 [T1 R23 C11] Use regions in the world to
+u1487 [T1 R23 C14] Analyze the social impact of
+u1488 [T1 R24 C11] analyze the role of
+u1489 [T1 R24 C14] movement of people to
+u1490 [T1 R25 C11] population shifts in why
+u1491 [T1 R25 C14] different locations in a
+u1492 [T1 R26 C11] places change over time.
+u1493 [T1 R26 C14] variety of time periods and
+u1494 [T1 R27 C14] locations throughout the
+u1495 [T1 R28 C11] Evaluate the impact of
+u1496 [T1 R29 C14] world.
+u1497 [T1 R30 C11] migration on the place of
+u1498 [T1 R31 C11] origin and the place of
+u1499 [T1 R32 C11] settlement.
+u1500 NOTE: This standard continued on next page.
+=== page 45 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1503 Content Area: Geography (Geog)
+u1504 Standard SS.Geog2: Wisconsin students will analyze human movement and population patterns (cont’d).
+u1506 [T1 R1 C2] Learning Priority
+u1507 [T1 R1 C5] K-2 (e)
+u1508 [T1 R1 C8] 3-5 (i)
+u1509 [T1 R1 C11] 6-8 (m)
+u1510 [T1 R1 C14] 9-12 (h)
+u1511 [T1 R2 C1] Geog2d. Urbanization
+u1512 [T1 R2 C2] Geog2d.
+u1513 [T1 R2 C4] SS.Geog2.d.1 Identify and explain differences between rural and urban areas.
+u1514 [T1 R2 C5] SS.Geog2.d.1
+u1515 [T1 R2 C7] SS.Geog2.d.4-5 Summarize positive and negative factors of cities. Identify the location and patterns of cities within our state and country.
+u1516 [T1 R2 C8] SS.Geog2.d.4-5
+u1517 [T1 R2 C10] SS.Geog2.d.m Investigate the impact of rural decline and the growth of cities on a place. Analyze patterns of urbanization around the world.
+u1518 [T1 R2 C11] SS.Geog2.d.m
+u1519 [T1 R2 C14] SS.Geog2.d.h
+u1520 [T1 R3 C2] Urbanization
+u1521 [T1 R4 C5] Identify and explain
+u1522 [T1 R4 C8] Summarize positive and
+u1523 [T1 R4 C11] Investigate the impact of
+u1524 [T1 R4 C14] Evaluate the impact of
+u1525 [T1 R5 C5] differences between rural
+u1526 [T1 R5 C8] negative factors of cities.
+u1527 [T1 R5 C11] rural decline and the
+u1528 [T1 R5 C14] spatial inequality as a result
+u1529 [T1 R6 C5] and urban areas.
+u1530 [T1 R6 C11] growth of cities on a place.
+u1531 [T1 R6 C14] of urbanization and develop
+u1532 [T1 R7 C8] Identify the location and
+u1533 [T1 R8 C14] various solutions to address
+u1534 [T1 R9 C8] patterns of cities within our
+u1535 [T1 R9 C11] Analyze patterns of
+u1536 [T1 R10 C14] these inequalities.
+u1537 [T1 R11 C8] state and country.
+u1538 [T1 R11 C11] urbanization around the
+u1539 [T1 R12 C11] world.
+u1540 [T1 R12 C14] Analyze the impact of rural
+u1541 [T1 R13 C14] decline and urbanization on
+u1542 [T1 R14 C14] a place.
+=== page 46 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1545 Content Area: Geography (Geog)
+u1546 Standard SS.Geog3: Wisconsin students will examine the impacts of global interconnections and relationships.
+u1548 [T1 R1 C2] Learning Priority
+u1549 [T1 R1 C5] K-2 (e)
+u1550 [T1 R1 C8] 3-5 (i)
+u1551 [T1 R1 C11] 6-8 (m)
+u1552 [T1 R1 C14] 9-12 (h)
+u1553 [T1 R2 C1] Geog3.a: Distribution of resources
+u1554 [T1 R2 C2] Geog3.a:
+u1555 [T1 R2 C4] SS.Geog3.a.1 Analyze how different access to resources can create stress in a society (e.g., Who sits closer to the bathroom? Who gets to the lunchroom first?)
+u1556 [T1 R2 C5] SS.Geog3.a.1
+u1557 [T1 R2 C7] SS.Geog3.a.5 Classify a provided set of resources as renewable or nonrenewable, and analyze the implications of both at the local, national, and global level.
+u1558 [T1 R2 C8] SS.Geog3.a.5
+u1559 [T1 R2 C10] SS.Geog3.a.m Analyze the relationship between the distribution of resources and patterns of human settlement within states, countries, and regions of the world now and in the past.
+u1560 [T1 R2 C11] SS.Geog3.a.m
+u1561 [T1 R2 C14] SS.Geog3.a.h
+u1562 [T1 R3 C2] Distribution of
+u1563 [T1 R4 C5] Analyze how different
+u1564 [T1 R4 C8] Classify a provided set of
+u1565 [T1 R4 C11] Analyze the relationship
+u1566 [T1 R4 C14] Evaluate, in both current
+u1567 [T1 R5 C2] resources
+u1568 [T1 R5 C5] access to resources can
+u1569 [T1 R5 C8] resources as renewable or
+u1570 [T1 R5 C11] between the distribution of
+u1571 [T1 R5 C14] and historical context, how
+u1572 [T1 R6 C5] create stress in a society
+u1573 [T1 R6 C8] nonrenewable, and analyze
+u1574 [T1 R6 C11] resources and patterns of
+u1575 [T1 R6 C14] the prospect of gaining
+u1576 [T1 R7 C5] (e.g., Who sits closer to the
+u1577 [T1 R7 C8] the implications of both at
+u1578 [T1 R7 C11] human settlement within
+u1579 [T1 R7 C14] access to resources in
+u1580 [T1 R8 C5] bathroom? Who gets to the
+u1581 [T1 R8 C8] the local, national, and
+u1582 [T1 R8 C11] states, countries, and
+u1583 [T1 R8 C14] contested zones creates
+u1584 [T1 R9 C5] lunchroom first?)
+u1585 [T1 R9 C8] global level.
+u1586 [T1 R9 C11] regions of the world now
+u1587 [T1 R9 C14] competition among
+u1588 [T1 R10 C11] and in the past.
+u1589 [T1 R10 C14] countries.
+u1590 [T1 R11 C14] Assess how and why
+u1591 [T1 R12 C14] consumption of resources
+u1592 [T1 R13 C14] (e.g., petroleum, coal,
+u1593 [T1 R14 C14] electricity, steel, water,
+u1594 [T1 R15 C14] food) differs between
+u1595 [T1 R16 C14] developed and developing
+u1596 [T1 R17 C14] countries now and in the
+u1597 [T1 R18 C14] past.
+u1598 [T1 R19 C1] Geog3.b: Networks
+u1599 [T1 R19 C4] SS.Geog3.b.2 Compare and contrast the different modes of transportation and communication used by families in work and daily lives.
+u1600 [T1 R19 C7] SS.Geog3.b.4 Classify various ways that people and countries depend on one another. Summarize how transportation and communication have changed economic activities over time.
+u1601 [T1 R19 C11] SS.Geog3.b.m
+u1602 [T1 R19 C14] SS.Geog3.b.h
+u1603 [T1 R20 C11] Analyze spatial patterns of
+u1604 [T1 R20 C14] Analyze the evolution of the
+u1605 [T1 R21 C11] social and economic
+u1606 [T1 R21 C14] global economy to its
+u1607 [T1 R22 C11] development in a variety of
+u1608 [T1 R22 C14] present state and the role it
+u1609 [T1 R23 C11] regions in the world.
+u1610 [T1 R23 C14] plays in the economic
+u1611 [T1 R24 C14] development of world
+u1612 [T1 R25 C11] Identify how people,
+u1613 [T1 R26 C14] regions.
+u1614 [T1 R27 C11] products, and ideas move
+u1615 [T1 R28 C11] between places (e.g.,
+u1616 [T1 R28 C14] Analyze the role of
+u1617 [T1 R29 C11] internet commerce,
+u1618 [T1 R29 C14] supranational organizations
+u1619 [T1 R30 C11] outsourcing).
+u1620 [T1 R30 C14] (e.g., NAFTA, NATO, UN).
+=== page 47 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1623 Content Area: Geography (Geog)
+u1624 Standard SS.Geog4: Wisconsin students will evaluate the relationship between identity and place.
+u1626 [T1 R1 C2] Learning Priority
+u1627 [T1 R1 C5] K-2 (e)
+u1628 [T1 R1 C8] 3-5 (i)
+u1629 [T1 R1 C11] 6-8 (m)
+u1630 [T1 R1 C14] 9-12 (h)
+u1631 [T1 R2 C1] Geog4.a: Characteristics of place
+u1632 [T1 R2 C2] Geog4.a:
+u1633 [T1 R2 C4] SS.Geog4.a.2 Categorize characteristics of the local community (e.g., weather and climate, population, landforms, vegetation, culture, industry). Describe how certain places have meanings that distinguish them from other places. (e.g., shopping mall, park, places of worship).
+u1634 [T1 R2 C5] SS.Geog4.a.2
+u1635 [T1 R2 C7] SS.Geog4.a.4 Describe how certain places may have meanings that distinguish them from other places (e.g., cemetery, places of worship, state or national parks, historical park, or battlefield). Compare and contrast the human characteristics of rural, suburban, urban, and tribal locations in Wisconsin and the United States. Identify and describe how people may view places in the community differently (e.g., students and senior citizens responding to a new playground).
+u1636 [T1 R2 C8] SS.Geog4.a.4
+u1637 [T1 R2 C10] SS.Geog4.a.m Explain how place-based identities can change places over time. Investigate how place- based identity results from the characteristics of a place and can sometimes result in stereotypes of people from a specific place. Describe students’ perceptions of a place that are based on indirect sources (e.g., television, movies), versus on direct sources (e.g., residing in a place, visiting a place).
+u1638 [T1 R2 C11] SS.Geog4.a.m
+u1639 [T1 R2 C14] SS.Geog4.a.h
+u1640 [T1 R3 C2] Characteristics
+u1641 [T1 R4 C5] Categorize characteristics
+u1642 [T1 R4 C8] Describe how certain places
+u1643 [T1 R4 C11] Explain how place-based
+u1644 [T1 R4 C14] Evaluate the effect of
+u1645 [T1 R5 C2] of place
+u1646 [T1 R5 C5] of the local community (e.g.,
+u1647 [T1 R5 C8] may have meanings that
+u1648 [T1 R5 C11] identities can change places
+u1649 [T1 R5 C14] culture on a place over time.
+u1650 [T1 R6 C5] weather and climate,
+u1651 [T1 R6 C8] distinguish them from other
+u1652 [T1 R6 C11] over time.
+u1653 [T1 R6 C14] Analyze how physical and
+u1654 [T1 R7 C5] population, landforms,
+u1655 [T1 R7 C8] places (e.g., cemetery,
+u1656 [T1 R8 C11] Investigate how place-
+u1657 [T1 R8 C14] human characteristics
+u1658 [T1 R9 C5] vegetation, culture,
+u1659 [T1 R9 C8] places of worship, state or
+u1660 [T1 R10 C11] based identity results from
+u1661 [T1 R10 C14] interact to give a place
+u1662 [T1 R11 C5] industry).
+u1663 [T1 R11 C8] national parks, historical
+u1664 [T1 R12 C11] the characteristics of a
+u1665 [T1 R12 C14] meaning and significance
+u1666 [T1 R13 C8] park, or battlefield).
+u1667 [T1 R14 C5] Describe how certain places
+u1668 [T1 R14 C11] place and can sometimes
+u1669 [T1 R14 C14] (e.g., Panama Canal,
+u1670 [T1 R15 C5] have meanings that
+u1671 [T1 R15 C8] Compare and contrast the
+u1672 [T1 R15 C11] result in stereotypes of
+u1673 [T1 R15 C14] Chunnel) and shape culture.
+u1674 [T1 R16 C5] distinguish them from other
+u1675 [T1 R16 C8] human characteristics of
+u1676 [T1 R16 C11] people from a specific place.
+u1677 [T1 R17 C14] Explain how and why place-
+u1678 [T1 R18 C5] places. (e.g., shopping mall,
+u1679 [T1 R18 C8] rural, suburban, urban, and
+u1680 [T1 R19 C11] Describe students’
+u1681 [T1 R19 C14] based identities can shape
+u1682 [T1 R20 C5] park, places of worship).
+u1683 [T1 R20 C8] tribal locations in
+u1684 [T1 R21 C11] perceptions of a place that
+u1685 [T1 R21 C14] events at various scales
+u1686 [T1 R22 C8] Wisconsin and the United
+u1687 [T1 R23 C11] are based on indirect
+u1688 [T1 R23 C14] (e.g., neighborhood,
+u1689 [T1 R24 C8] States.
+u1690 [T1 R25 C11] sources (e.g., television,
+u1691 [T1 R25 C14] regional identity).
+u1692 [T1 R26 C8] Identify and describe how
+u1693 [T1 R26 C11] movies), versus on direct
+u1694 [T1 R27 C14] Explain how and why
+u1695 [T1 R28 C8] people may view places in
+u1696 [T1 R28 C11] sources (e.g., residing in a
+u1697 [T1 R29 C14] people view places and
+u1698 [T1 R30 C8] the community differently
+u1699 [T1 R30 C11] place, visiting a place).
+u1700 [T1 R31 C14] regions differently as a
+u1701 [T1 R32 C8] (e.g., students and senior
+u1702 [T1 R33 C14] function of their ideology,
+u1703 [T1 R34 C8] citizens responding to a
+u1704 [T1 R35 C14] race, ethnicity, language,
+u1705 [T1 R36 C8] new playground).
+u1706 [T1 R37 C14] gender, age, religion,
+u1707 [T1 R38 C14] politics, social class, and
+u1708 [T1 R39 C14] economic status.
+=== page 48 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1711 Content Area: Geography (Geog)
+u1712 Standard SS.Geog5: Wisconsin students will evaluate the relationship between humans and the environment.
+u1714 [T1 R1 C2] Learning Priority
+u1715 [T1 R1 C5] K-2 (e)
+u1716 [T1 R1 C8] 3-5 (i)
+u1717 [T1 R1 C11] 6-8 (m)
+u1718 [T1 R1 C14] 9-12 (h)
+u1719 [T1 R2 C1] Geog5.a: Human environment interaction
+u1720 [T1 R2 C2] Geog5.a: Human
+u1721 [T1 R2 C4] SS.Geog5.a.1 Provide examples of human changes to the environment surrounding the school or neighborhood.
+u1722 [T1 R2 C5] SS.Geog5.a.1
+u1723 [T1 R2 C7] SS.Geog5.a.3-4 Compare the positive and negative effects of human actions on our physical environment (e.g., availability of water, fertility of soils) over time.
+u1724 [T1 R2 C8] SS.Geog5.a.3-4
+u1725 [T1 R2 C10] SS.Geog5.a.m Analyze how technology interacts with the environment and how increased use of technology affects the burden and use of natural resources.
+u1726 [T1 R2 C11] SS.Geog5.a.m
+u1727 [T1 R2 C14] SS.Geog5.a.h
+u1728 [T1 R3 C2] environment
+u1729 [T1 R4 C5] Provide examples of human
+u1730 [T1 R4 C8] Compare the positive and
+u1731 [T1 R4 C11] Analyze how technology
+u1732 [T1 R4 C14] Analyze the intentional and
+u1733 [T1 R5 C2] interaction
+u1734 [T1 R5 C5] changes to the environment
+u1735 [T1 R5 C8] negative effects of human
+u1736 [T1 R5 C11] interacts with the
+u1737 [T1 R5 C14] unintentional spatial
+u1738 [T1 R6 C5] surrounding the school or
+u1739 [T1 R6 C8] actions on our physical
+u1740 [T1 R6 C11] environment and how
+u1741 [T1 R6 C14] consequences of human
+u1742 [T1 R7 C5] neighborhood.
+u1743 [T1 R7 C8] environment (e.g.,
+u1744 [T1 R7 C11] increased use of technology
+u1745 [T1 R7 C14] actions on the environment
+u1746 [T1 R8 C8] availability of water,
+u1747 [T1 R8 C11] affects the burden and use
+u1748 [T1 R8 C14] at the local, state, tribal,
+u1749 [T1 R9 C8] fertility of soils) over time.
+u1750 [T1 R9 C11] of natural resources.
+u1751 [T1 R9 C14] regional, country, and world
+u1752 [T1 R10 C14] levels.
+u1753 [T1 R11 C1] Geog5.b: Interdependence
+u1754 [T1 R11 C4] SS.Geog5.b.2 Identify natural resources (e.g., fertile soil, forests, mining) of a place and provide examples of how those resources are used.
+u1755 [T1 R11 C7] SS.Geog5.b.5 Examine how human actions modify the physical environment when using natural resources (renewable and nonrenewable).
+u1756 [T1 R11 C11] SS.Geog5.b.m
+u1757 [T1 R11 C13] SS.Geog5.b.h Hypothesize how changes in human behavior (e.g., organic agriculture, Genetically Modified Organisms, ecotourism) can result in changes that have effects on a global scale.
+u1758 [T1 R11 C14] SS.Geog5.b.h
+u1759 [T1 R12 C11] Analyze how distribution of
+u1760 [T1 R12 C14] Hypothesize how changes
+u1761 [T1 R13 C11] natural resources such as
+u1762 [T1 R13 C14] in human behavior (e.g.,
+u1763 [T1 R14 C11] fisheries and crops
+u1764 [T1 R14 C14] organic agriculture,
+u1765 [T1 R15 C11] (renewable and
+u1766 [T1 R15 C14] Genetically Modified
+u1767 [T1 R16 C11] nonrenewable) creates
+u1768 [T1 R16 C14] Organisms, ecotourism) can
+u1769 [T1 R17 C11] systems of commerce
+u1770 [T1 R17 C14] result in changes that have
+u1771 [T1 R18 C11] between groups.
+u1772 [T1 R18 C14] effects on a global scale.
+u1773 [T1 R19 C11] Analyze how unequal
+u1774 [T1 R20 C11] distribution of resources
+u1775 [T1 R21 C11] creates inequities between
+u1776 [T1 R22 C11] regions and can lead to
+u1777 [T1 R23 C11] conflict between competing
+u1778 [T1 R24 C11] countries.
+=== page 49 === [running header: Wisconsin Standards for Social Studies]
+u1781 History
+u1782 Historical Eras and Themes Students in Wisconsin will learn about the history of Wisconsin, the United States, and the world.
+u1783 When teaching Wisconsin, United States, or World History, the following are topics for exploration:
+u1784 1. Historically marginalized groups (i.e., groups defined by race, gender, ethnicity, language, ability, sexual orientation, family background, and/or family income*)
+u1785 2. Human and civil rights, including suffrage, the Universal Declaration of Human Rights, and current and historic genocide, including the Holocaust or Shoah.
+u1786 3. Movement of people, goods, and services, including immigration and trade (e.g. historical, such as by Scandinavians, Germans, and recent, such as by Hmong and Latinos)
+u1787 4. The history of organized labor and the collective bargaining process [Wisc. Stat. sec. 115.28(55)]
+u1788 5. The history, culture, and tribal sovereignty of the federally recognized American Indian tribes and bands located in this state [Wisc. Stat. sec.121.02(1)(L)4] (WI 1989 Act 31)
+u1789 6. Stewardship, sustainability, and civic responsibility related to the environment and natural resources [Wis. Admin. Code sec. PI 8.01(2)(k)6.b]
+u1790 7. Wisconsin and Federal Observance days, weeks, and months
+u1791 *From Leading for Equity: Opportunities for State Education Chiefs, Council of State School Officers, 2017
+u1792 Some eras may overlap; this is due to the nature of that specific named era.
+=== page 50 === [running header: Wisconsin Standards for Social Studies]
+u1795 K-12 students studying Wisconsin history will focus on:
+u1796 [T1 R1 C2] Before 1634
+u1797 [T1 R1 C4] First People and Nations
+u1798 [T1 R2 C2] Before 1800
+u1799 [T1 R2 C4] Early European Explorers and Arrivals
+u1800 [T1 R3 C2] 1787 - 1848
+u1801 [T1 R3 C4] Territory to Statehood
+u1802 [T1 R4 C2] 1848 - 1877
+u1803 [T1 R4 C4] Early Statehood, the Civil War, and Reconstruction
+u1804 [T1 R5 C2] 1877 - 1900
+u1805 [T1 R5 C4] Industrialization, Agriculture, Urbanization, and Labor
+u1806 [T1 R6 C2] 1900 - 1918
+u1807 [T1 R6 C4] The Wisconsin Idea, the Progressive Era, and World War I
+u1808 [T1 R7 C2] 1918 - 1939
+u1809 [T1 R7 C4] Economic Growth, the Great Depression, and the New Deal
+u1810 [T1 R8 C2] 1922 - 1945
+u1811 [T1 R8 C4] Fascism, Communism, and World War II
+u1812 [T1 R9 C2] 1945 - 1954
+u1813 [T1 R9 C4] Post-War Wisconsin and the Early Cold War
+u1814 [T1 R10 C2] 1954 - 1975
+u1815 [T1 R10 C4] Civil Rights, the Later Cold War, and the Vietnam War Era
+u1816 [T1 R11 C2] 1975 - Present
+u1817 [T1 R11 C4] The Modern Era
+u1818 K-12 students studying United States history will focus on:
+u1819 [T2 R1 C2] Before 1607
+u1820 [T2 R1 C4] First People and Nations
+u1821 [T2 R2 C2] 1607 - 1754
+u1822 [T2 R2 C4] Meeting of Peoples and Cultures
+u1823 [T2 R3 C2] 1754 - 1800
+u1824 [T2 R3 C4] American Revolution and Early National Period
+u1825 [T2 R4 C2] 1800 - 1861
+u1826 [T2 R4 C4] Nationalism, and the Growth and Expansion of Slavery in an Expanding Country
+u1827 [T2 R5 C2] 1861 - 1877
+u1828 [T2 R5 C4] Civil War and Reconstruction
+u1829 [T2 R6 C2] 1870 - 1930
+u1830 [T2 R6 C4] Industrialization, Urbanization, Labor, and Immigration
+u1831 [T2 R7 C2] 1890 - 1945
+u1832 [T2 R7 C4] The Progressive Era , Prosperity and Depression, and World Wars
+u1833 [T2 R8 C2] 1945 - 1980
+u1834 [T2 R8 C4] Post-War Economic and Population Growth, Suburbanization, the Cold War, and Civil Rights
+u1835 [T2 R9 C2] 1980 - Present
+u1836 [T2 R9 C4] The Modern Era
+u1837 *Eras and themes for U.S. History adapted from the College Board Advanced Placement United States History Eras.
+=== page 51 === [running header: Wisconsin Standards for Social Studies]
+u1840 The study of World History includes civilizations from Africa, the Americas, Asia (East, South, Southeast, Southwest), Europe, and Oceania.
+u1841 K-12 students studying World History will focus on:
+u1842 [T1 R1 C2] To 600 BC
+u1843 [T1 R1 C4] Technological and Environmental Transformations
+u1844 [T1 R2 C2] 600 BC - 600 AD
+u1845 [T1 R2 C4] Organization and Reorganization of Human Societies
+u1846 [T1 R3 C2] 600 AD - 1450
+u1847 [T1 R3 C4] Regional and Interregional Interactions
+u1848 [T1 R4 C2] 1450 -1750
+u1849 [T1 R4 C4] Global Interactions
+u1850 [T1 R5 C2] 1750 - 1900
+u1851 [T1 R5 C4] Industrialization and Global Integration
+u1852 [T1 R6 C2] 1900 - Present
+u1853 [T1 R6 C4] Accelerating Global Change and Realignments
+u1854 *Eras and themes for World History adapted from the College Board Advanced Placement World History Eras.
+=== page 52 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1857 Content Area: History (Hist)
+u1858 Standard SS.Hist1: Wisconsin students will use historical evidence for determining cause and effect.
+u1860 [T1 R1 C2] Learning Priority
+u1861 [T1 R1 C5] K-2 (e)
+u1862 [T1 R1 C8] 3-5 (i)
+u1863 [T1 R1 C11] 6-8 (m)
+u1864 [T1 R1 C14] 9-12 (h)
+u1865 [T1 R2 C1] Hist1.a: Cause
+u1866 [T1 R2 C2] Hist1.a: Cause
+u1867 [T1 R2 C4] SS.Hist1.a.e Identify one or more causes of an event, issue, or problem.
+u1868 [T1 R2 C5] SS.Hist1.a.e
+u1869 [T1 R2 C7] SS.Hist1.a.i Use evidence to draw conclusions about probable causes of historical events, issues, and problems.
+u1870 [T1 R2 C8] SS.Hist1.a.i
+u1871 [T1 R2 C10] SS.Hist1.a.m Use multiple perspectives to analyze and explain the causes of issues or events within and across time periods, events, or cultures.
+u1872 [T1 R2 C11] SS.Hist1.a.m
+u1873 [T1 R2 C14] SS.Hist1.a.h
+u1874 [T1 R4 C5] Identify one or more causes
+u1875 [T1 R4 C8] Use evidence to draw
+u1876 [T1 R4 C11] Use multiple perspectives
+u1877 [T1 R4 C14] Evaluate multiple events
+u1878 [T1 R5 C5] of an event, issue, or
+u1879 [T1 R5 C8] conclusions about probable
+u1880 [T1 R5 C11] to analyze and explain the
+u1881 [T1 R5 C14] from different perspectives
+u1882 [T1 R6 C5] problem.
+u1883 [T1 R6 C8] causes of historical events,
+u1884 [T1 R6 C11] causes of issues or events
+u1885 [T1 R6 C14] using primary and
+u1886 [T1 R7 C8] issues, and problems.
+u1887 [T1 R7 C11] within and across time
+u1888 [T1 R7 C14] secondary sources and
+u1889 [T1 R8 C11] periods, events, or cultures.
+u1890 [T1 R8 C14] analyze intended and
+u1891 [T1 R9 C14] unintended causes from
+u1892 [T1 R10 C14] both long- and short-term
+u1893 [T1 R11 C14] perspectives.
+u1894 [T1 R12 C14] Evaluate how different
+u1895 [T1 R13 C14] groups and individuals
+u1896 [T1 R14 C14] contributed to the event or
+u1897 [T1 R15 C14] cause.
+u1898 [T1 R16 C1] Hist1.b: Effect
+u1899 [T1 R16 C4] SS.Hist1.b.e Identify one or more effects of an event, issue, or problem.
+u1900 [T1 R16 C7] SS.Hist1.b.i Use evidence to draw conclusions about probable effects of historical events, issues, and problems.
+u1901 [T1 R16 C10] SS.Hist1.b.m Use multiple perspectives to analyze and explain effects of issues or events within and across time periods, events, or cultures.
+u1902 [T1 R16 C14] SS.Hist1.b.h
+u1903 [T1 R17 C14] Evaluate multiple events
+u1904 [T1 R18 C14] from different perspectives
+u1905 [T1 R19 C14] using primary and
+u1906 [T1 R20 C14] secondary sources and
+u1907 [T1 R21 C14] analyze intended and
+u1908 [T1 R22 C14] unintended effects from
+u1909 [T1 R23 C14] both long- and short-term
+u1910 [T1 R24 C14] perspectives.
+u1911 [T1 R25 C14] Evaluate how different
+u1912 [T1 R26 C14] groups and individuals
+u1913 [T1 R27 C14] contributed to the effect.
+=== page 53 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1916 Content Area: History (Hist)
+u1917 Standard SS.Hist2: Wisconsin students will analyze, recognize, and evaluate patterns of continuity and change over time and contextualization of historical events.
+u1919 [T1 R1 C2] Learning Priority
+u1920 [T1 R1 C5] K-2 (e)
+u1921 [T1 R1 C8] 3-5 (i)
+u1922 [T1 R1 C11] 6-8 (m)
+u1923 [T1 R1 C14] 9-12 (h)
+u1924 [T1 R2 C1] Hist2.a: Patterns stay the same over a period of time
+u1925 [T1 R2 C2] Hist2.a: Patterns
+u1926 [T1 R2 C4] SS.Hist2.a.e Identify patterns of what stayed the same to self, family, and community over time.
+u1927 [T1 R2 C5] SS.Hist2.a.e
+u1928 [T1 R2 C7] SS.Hist2.a.i Describe patterns of continuity over time in the community, state, and the United States.
+u1929 [T1 R2 C8] SS.Hist2.a.i
+u1930 [T1 R2 C10] SS.Hist2.a.m Explain patterns of continuity over time in the community, the state, the United States, and the world.
+u1931 [T1 R2 C11] SS.Hist2.a.m
+u1932 [T1 R2 C14] SS.Hist2.a.h
+u1933 [T1 R3 C2] stay the same
+u1934 [T1 R4 C5] Identify patterns of what
+u1935 [T1 R4 C8] Describe patterns of
+u1936 [T1 R4 C11] Explain patterns of
+u1937 [T1 R4 C14] Evaluate a variety of
+u1938 [T1 R5 C2] over a period of
+u1939 [T1 R5 C5] stayed the same to self,
+u1940 [T1 R5 C8] continuity over time in the
+u1941 [T1 R5 C11] continuity over time in the
+u1942 [T1 R5 C14] primary and secondary
+u1943 [T1 R6 C2] time
+u1944 [T1 R6 C5] family, and community over
+u1945 [T1 R6 C8] community, state, and the
+u1946 [T1 R6 C11] community, the state, the
+u1947 [T1 R6 C14] sources to apply knowledge
+u1948 [T1 R7 C5] time.
+u1949 [T1 R7 C8] United States.
+u1950 [T1 R7 C11] United States, and the
+u1951 [T1 R7 C14] of major eras, enduring
+u1952 [T1 R8 C11] world.
+u1953 [T1 R8 C14] themes, turning points, and
+u1954 [T1 R9 C14] historical influences to
+u1955 [T1 R10 C14] analyze the patterns of
+u1956 [T1 R11 C14] continuity in the
+u1957 [T1 R12 C14] community, the state, the
+u1958 [T1 R13 C14] United States, and the
+u1959 [T1 R14 C14] world.
+u1960 [T1 R15 C1] Hist2.b: Patterns change over a period of time
+u1961 [T1 R15 C4] SS.Hist2.b.e Identify patterns of change to self, family, and community over time.
+u1962 [T1 R15 C7] SS.Hist2.b.i Describe patterns of change over time in the community, state, and the United States.
+u1963 [T1 R15 C10] SS.Hist2.b.m Explain patterns of change over time in the community, the state, the United States, and the world.
+u1964 [T1 R15 C14] SS.Hist2.b.h
+u1965 [T1 R16 C14] Evaluate a variety of
+u1966 [T1 R17 C14] primary and secondary
+u1967 [T1 R18 C14] sources to apply knowledge
+u1968 [T1 R19 C14] of major eras, enduring
+u1969 [T1 R20 C14] themes, turning points, and
+u1970 [T1 R21 C14] historical influences to
+u1971 [T1 R22 C14] analyze the patterns of
+u1972 [T1 R23 C14] change in the community,
+u1973 [T1 R24 C14] the state, the United States
+u1974 [T1 R25 C14] and the world.
+u1975 [T1 R26 C1] Hist2.c: Contextualiza- tion
+u1976 [T1 R26 C4] SS.Hist2.c.e Explain how something happening outside of your home can affect your family.
+u1977 [T1 R26 C8] SS.Hist2.c.i
+u1978 [T1 R26 C10] SS.Hist2.c.m Analyze how the historical context influenced the process or nature of the continuity or change that took place.
+u1979 [T1 R26 C13] SS.Hist2.c.h Evaluate how the historical context influenced the process or nature of the continuity or change that took place.
+u1980 [T1 R26 C14] SS.Hist2.c.h
+u1981 [T1 R27 C8] Analyze individuals, groups,
+u1982 [T1 R27 C14] Evaluate how the historical
+u1983 [T1 R28 C8] and events to understand
+u1984 [T1 R28 C14] context influenced the
+u1985 [T1 R29 C8] why their contributions are
+u1986 [T1 R29 C14] process or nature of the
+u1987 [T1 R30 C8] important to historical
+u1988 [T1 R30 C14] continuity or change that
+u1989 [T1 R31 C8] change or continuity.
+u1990 [T1 R31 C14] took place.
+=== page 54 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u1993 Content Area: History (Hist)
+u1994 Standard SS.Hist3: Wisconsin students will connect past events, people, and ideas to the present; use different perspectives to draw conclusions; and suggest current implications.
+u1996 [T1 R1 C1] Learning Priority
+u1997 [T1 R1 C2] K-2 (e)
+u1998 [T1 R1 C3] 3-5 (i)
+u1999 [T1 R1 C6] 6-8 (m)
+u2000 [T1 R1 C9] 9-12 (h)
+u2001 [T1 R2 C1] Hist3.a: Connections
+u2002 [T1 R2 C2] SS.Hist3.a.e Describe a person or event from the past that reflects your own life in some way.
+u2003 [T1 R2 C3] SS.Hist3.a.i Compare events in Wisconsin history to a current issue or event.
+u2004 [T1 R2 C7] SS.Hist3.a.m
+u2005 [T1 R2 C10] SS.Hist3.a.h
+u2006 [T1 R3 C7] Compare events from
+u2007 [T1 R3 C10] Analyze significant
+u2008 [T1 R4 C7] United States or world
+u2009 [T1 R4 C10] historical periods and their
+u2010 [T1 R5 C7] history to a current issue or
+u2011 [T1 R5 C10] relationship to present
+u2012 [T1 R6 C7] event.
+u2013 [T1 R6 C10] issues and events.
+u2014 [T1 R7 C1] Hist3.b: Perspective
+u2015 [T1 R7 C2] SS.Hist3.b.e Explain why two people can talk about an event from different viewpoints.
+u2016 [T1 R7 C4] SS.Hist3.b.i
+u2017 [T1 R7 C7] SS.Hist3.b.m
+u2018 [T1 R7 C10] SS.Hist3.b.h
+u2019 [T1 R8 C4] Identify different historical
+u2020 [T1 R8 C7] Apply historical
+u2021 [T1 R8 C10] Evaluate historical
+u2022 [T1 R9 C4] perspectives regarding
+u2023 [T1 R9 C7] perspectives to describe
+u2024 [T1 R9 C10] perspectives to create
+u2025 [T1 R10 C4] people and events in the
+u2026 [T1 R10 C7] differing viewpoints of
+u2027 [T1 R10 C10] arguments with evidence
+u2028 [T1 R11 C4] past.
+u2029 [T1 R11 C7] current events.
+u2030 [T1 R11 C10] concerning current events.
+u2031 [T1 R12 C1] Hist3.c: Current implications
+u2032 [T1 R12 C2] SS.Hist3.c.e Explain how something from the past can affect your life now.
+u2033 [T1 R12 C4] SS.Hist3.c.i
+u2034 [T1 R12 C6] SS.Hist3.c.m Hypothesize the direction of current events and outcomes based on the past.
+u2035 [T1 R12 C7] SS.Hist3.c.m
+u2036 [T1 R12 C9] SS.Hist3.c.h Evaluate and justify predictions of potential outcomes of current events based on the past.
+u2037 [T1 R12 C10] SS.Hist3.c.h
+u2038 [T1 R13 C4] Explain how historical
+u2039 [T1 R13 C7] Hypothesize the direction
+u2040 [T1 R13 C10] Evaluate and justify
+u2041 [T1 R14 C4] events have possible
+u2042 [T1 R14 C7] of current events and
+u2043 [T1 R14 C10] predictions of potential
+u2044 [T1 R15 C4] implications on the present.
+u2045 [T1 R15 C7] outcomes based on the
+u2046 [T1 R15 C10] outcomes of current events
+u2047 [T1 R16 C7] past.
+u2048 [T1 R16 C10] based on the past.
+=== page 55 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2051 Content Area: History (Hist)
+u2052 Standard SS.Hist4: Wisconsin students will evaluate a variety of primary and secondary sources to interpret the historical context, intended audience, purpose, or author’s point of view (Historical Methodology).
+u2054 [T1 R1 C1] Learning Priority
+u2055 [T1 R1 C2] K-2 (e)
+u2056 [T1 R1 C3] 3-5 (i)
+u2057 [T1 R1 C6] 6-8 (m)
+u2058 [T1 R1 C9] 9-12 (h)
+u2059 [T1 R2 C1] Hist4.a: Historical context
+u2060 [T1 R2 C2] SS.Hist4.a.e Describe the events that led to the creation of a primary source.
+u2061 [T1 R2 C4] SS.Hist4.a.i
+u2062 [T1 R2 C7] SS.Hist4.a.m
+u2063 [T1 R2 C10] SS.Hist4.a.h
+u2064 [T1 R3 C4] Describe the historical
+u2065 [T1 R3 C7] Explain how the historical
+u2066 [T1 R3 C10] Analyze how the historical
+u2067 [T1 R4 C4] context (situation) of a
+u2068 [T1 R4 C7] context (situation)
+u2069 [T1 R4 C10] context (situation)
+u2070 [T1 R5 C4] primary or secondary
+u2071 [T1 R5 C7] influences a primary or
+u2072 [T1 R5 C10] influences a primary or
+u2073 [T1 R6 C4] source.
+u2074 [T1 R6 C7] secondary source.
+u2075 [T1 R6 C10] secondary source.
+u2076 [T1 R7 C1] Hist4.b: Intended audience
+u2077 [T1 R7 C2] SS.Hist4.b.e Identify the intended audience for whom the primary or secondary source was created.
+u2078 [T1 R7 C3] SS.Hist4.b.i Describe the significance of the intended audience of a primary or secondary source.
+u2079 [T1 R7 C4] SS.Hist4.b.i
+u2080 [T1 R7 C6] SS.Hist4.b.m Explain the significance of the intended audience of a primary or secondary source.
+u2081 [T1 R7 C7] SS.Hist4.b.m
+u2082 [T1 R7 C10] SS.Hist4.b.h
+u2083 [T1 R8 C4] Describe the significance of
+u2084 [T1 R8 C7] Explain the significance of
+u2085 [T1 R9 C10] Analyze how the intended
+u2086 [T1 R10 C4] the intended audience of a
+u2087 [T1 R10 C7] the intended audience of a
+u2088 [T1 R10 C10] audience influences a
+u2089 [T1 R11 C4] primary or secondary
+u2090 [T1 R11 C7] primary or secondary
+u2091 [T1 R12 C10] primary or secondary
+u2092 [T1 R13 C4] source.
+u2093 [T1 R13 C7] source.
+u2094 [T1 R14 C10] source.
+u2095 [T1 R15 C1] Hist4.c: Purpose
+u2096 [T1 R15 C2] SS.Hist4.c.e Create one primary source about your life.
+u2097 [T1 R15 C3] SS.Hist4.c.i Describe the intended purpose of a specific primary or secondary source.
+u2098 [T1 R15 C6] SS.Hist4.c.m Explain the significance of the intended purpose of a specific primary or secondary source.
+u2099 [T1 R15 C10] SS.Hist4.c.h
+u2100 [T1 R16 C10] Analyze the intended
+u2101 [T1 R17 C10] purpose of a specific
+u2102 [T1 R18 C10] primary or secondary
+u2103 [T1 R19 C10] source.
+u2104 [T1 R20 C1] Hist4.d: Point of view (POV)
+u2105 [T1 R20 C2] SS.Hist4.d.e Identify the POV of your own primary or secondary source.
+u2106 [T1 R20 C3] SS.Hist4.d.i Describe the impact of the POV of the author on a primary or secondary source.
+u2107 [T1 R20 C6] SS.Hist4.d.m Explain how the POV of the author can influence the meaning of a primary or secondary source.
+u2108 [T1 R20 C10] SS.Hist4.d.h
+u2109 [T1 R21 C10] Analyze how the POV of the
+u2110 [T1 R22 C10] author can influence the
+u2111 [T1 R23 C10] content and intent of a
+u2112 [T1 R24 C10] primary or secondary
+u2113 [T1 R25 C10] source and identify whose
+u2114 [T1 R26 C10] voices may be left out.
+=== page 56 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2117 Content Area: Political Science (PS)
+u2118 Standard SS.PS1: Wisconsin students will identify and analyze democratic principles and ideals.
+u2120 [T1 R1 C2] Learning Priority
+u2121 [T1 R1 C5] K-2 (e)
+u2122 [T1 R1 C8] 3-5 (i)
+u2123 [T1 R1 C11] 6-8 (m)
+u2124 [T1 R1 C14] 9-12 (h)
+u2125 [T1 R2 C1] PS1.a: Values and principles of American constitutional democracy
+u2126 [T1 R2 C2] PS1.a: Values
+u2127 [T1 R2 C4] SS.PS1.a.K-1 Describe symbols, songs, and traditions that identify our state and country. Assess the importance of rules and laws at home, in school, and in the community.
+u2128 [T1 R2 C5] SS.PS1.a.K-1
+u2129 [T1 R2 C7] SS.PS1.a.i Differentiate between majority rule and minority rights (as a function of a democratic republic). Hypothesize why laws and constitutions exist.
+u2130 [T1 R2 C8] SS.PS1.a.i
+u2131 [T1 R2 C10] SS.PS1.a.m Investigate the components of responsible citizenship. Summarize the importance of rule of law.
+u2132 [T1 R2 C11] SS.PS1.a.m
+u2133 [T1 R2 C14] SS.PS1.a.h
+u2134 [T1 R3 C2] and principles of
+u2135 [T1 R4 C5] Describe symbols, songs,
+u2136 [T1 R4 C8] Differentiate between
+u2137 [T1 R4 C11] Investigate the components
+u2138 [T1 R4 C14] Analyze how
+u2139 [T1 R5 C2] American
+u2140 [T1 R6 C5] and traditions that identify
+u2141 [T1 R6 C8] majority rule and minority
+u2142 [T1 R6 C11] of responsible citizenship.
+u2143 [T1 R6 C14] constitutionalism attempts
+u2144 [T1 R7 C2] constitutional
+u2145 [T1 R7 C5] our state and country.
+u2146 [T1 R7 C8] rights (as a function of a
+u2147 [T1 R7 C14] to preserve fundamental
+u2148 [T1 R8 C11] Summarize the importance
+u2149 [T1 R9 C2] democracy
+u2150 [T1 R9 C8] democratic republic).
+u2151 [T1 R9 C14] societal values, protects
+u2152 [T1 R10 C5] Assess the importance of
+u2153 [T1 R10 C11] of rule of law.
+u2154 [T1 R11 C5] rules and laws at home, in
+u2155 [T1 R11 C8] Hypothesize why laws and
+u2156 [T1 R11 C14] individual freedoms and
+u2157 [T1 R12 C14] rights, promotes the
+u2158 [T1 R13 C5] school, and in the
+u2159 [T1 R13 C8] constitutions exist.
+u2160 [T1 R14 C14] general welfare, and
+u2161 [T1 R15 C5] community.
+u2162 [T1 R16 C14] responds to changing
+u2163 [T1 R17 C14] circumstances and beliefs
+u2164 [T1 R18 C14] by defining and limiting the
+u2165 [T1 R19 C14] powers of government.
+u2166 [T1 R20 C14] Analyze sources of
+u2167 [T1 R21 C14] governmental authority.
+u2168 NOTE: This standard continued on next page.
+=== page 57 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2171 Content Area: Political Science (PS)
+u2172 Standard SS.PS1: Wisconsin students will identify and analyze democratic principles and ideals (cont’d).
+u2174 [T1 R1 C2] Learning Priority
+u2175 [T1 R1 C5] K-2 (e)
+u2176 [T1 R1 C8] 3-5 (i)
+u2177 [T1 R1 C11] 6-8 (m)
+u2178 [T1 R1 C14] 9-12 (h)
+u2179 [T1 R2 C1] PS1.b: Origins and foundation of the government of the United States
+u2180 [T1 R2 C2] PS1.b: Origins
+u2181 [T1 R2 C4] SS.PS1.b.1-2 Compare contributions of two or more influential people related to the founding of the United States.
+u2182 [T1 R2 C5] SS.PS1.b.1-2
+u2183 [T1 R2 C7] SS.PS1.b.4-5 Summarize the contributions of historically significant people during the period of early United States history to the development of our political culture. Differentiate between freedom, justice, equality, rights, responsibilities, and citizenship. Apply key elements of the Wisconsin Constitution to the local community.
+u2184 [T1 R2 C8] SS.PS1.b.4-5
+u2185 [T1 R2 C10] SS.PS1.b.m Hypothesize and defend why a specific historically significant person’s contribution to the development of the political culture of the United States was important. Investigate how principles expressed in the Declaration of Independence, Constitution (including the Preamble and the Bill of Rights) have been applied throughout United States history, including how they may have evolved over time. Assess specific protections to individuals outlined in the Wisconsin Constitution and what they mean to local communities and regions of the state.
+u2186 [T1 R2 C11] SS.PS1.b.m
+u2187 [T1 R2 C14] SS.PS1.b.h
+u2188 [T1 R3 C2] and foundation
+u2189 [T1 R3 C5] Compare contributions of
+u2190 [T1 R3 C8] Summarize the
+u2191 [T1 R3 C11] Hypothesize and defend
+u2192 [T1 R3 C14] Evaluate the work and
+u2193 [T1 R4 C2] of the
+u2194 [T1 R4 C5] two or more influential
+u2195 [T1 R4 C8] contributions of historically
+u2196 [T1 R4 C11] why a specific historically
+u2197 [T1 R4 C14] actions of historically
+u2198 [T1 R5 C5] people related to the
+u2199 [T1 R5 C8] significant people during
+u2200 [T1 R5 C11] significant person’s
+u2201 [T1 R5 C14] significant people and their
+u2202 [T1 R6 C2] government of
+u2203 [T1 R7 C5] founding of the United
+u2204 [T1 R7 C8] the period of early United
+u2205 [T1 R7 C11] contribution to the
+u2206 [T1 R7 C14] contributions to the
+u2207 [T1 R8 C2] the United
+u2208 [T1 R8 C5] States.
+u2209 [T1 R8 C8] States history to the
+u2210 [T1 R8 C11] development of the political
+u2211 [T1 R8 C14] founding principles of the
+u2212 [T1 R9 C2] States
+u2213 [T1 R9 C8] development of our political
+u2214 [T1 R9 C11] culture of the United States
+u2215 [T1 R9 C14] United States.
+u2216 [T1 R10 C8] culture.
+u2217 [T1 R10 C11] was important.
+u2218 [T1 R11 C14] Analyze the foundational
+u2219 [T1 R12 C8] Differentiate between
+u2220 [T1 R12 C11] Investigate how principles
+u2221 [T1 R12 C14] ideas of United States
+u2222 [T1 R13 C8] freedom, justice, equality,
+u2223 [T1 R13 C11] expressed in the
+u2224 [T1 R13 C14] government that are
+u2225 [T1 R14 C8] rights, responsibilities, and
+u2226 [T1 R14 C11] Declaration of
+u2227 [T1 R14 C14] embedded in founding era
+u2228 [T1 R15 C8] citizenship.
+u2229 [T1 R15 C11] Independence, Constitution
+u2230 [T1 R15 C14] documents.
+u2231 [T1 R16 C11] (including the Preamble and
+u2232 [T1 R17 C8] Apply key elements of the
+u2233 [T1 R17 C14] Analyze landmark Supreme
+u2234 [T1 R18 C11] the Bill of Rights) have been
+u2235 [T1 R19 C8] Wisconsin Constitution to
+u2236 [T1 R19 C14] Court decisions regarding
+u2237 [T1 R20 C11] applied throughout United
+u2238 [T1 R21 C8] the local community.
+u2239 [T1 R21 C14] how the Constitution and
+u2240 [T1 R22 C11] States history, including
+u2241 [T1 R23 C14] the Bill of Rights limit the
+u2242 [T1 R24 C11] how they may have evolved
+u2243 [T1 R25 C14] government, protect
+u2244 [T1 R26 C11] over time.
+u2245 [T1 R27 C14] individual rights, support
+u2246 [T1 R28 C11] Assess specific protections
+u2247 [T1 R28 C14] the principle of majority
+u2248 [T1 R29 C11] to individuals outlined in
+u2249 [T1 R29 C14] rule while protecting the
+u2250 [T1 R30 C11] the Wisconsin Constitution
+u2251 [T1 R30 C14] rights of the minority, and
+u2252 [T1 R31 C11] and what they mean to local
+u2253 [T1 R31 C14] promotes the general
+u2254 [T1 R32 C11] communities and regions of
+u2255 [T1 R32 C14] welfare.
+u2256 [T1 R33 C11] the state.
+u2257 [T1 R34 C14] Analyze the meaning and
+u2258 [T1 R35 C14] importance of rights in the
+u2259 [T1 R36 C14] Wisconsin Constitution,
+u2260 [T1 R37 C14] and compare or contrast to
+u2261 [T1 R38 C14] the United States
+u2262 [T1 R39 C14] Constitution.
+=== page 58 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2265 Content Area: Political Science (PS)
+u2266 Standard SS.PS2: Wisconsin students will examine and interpret rights, privileges, and responsibilities in society.
+u2268 [T1 R1 C2] Learning Priority
+u2269 [T1 R1 C5] K-2 (e)
+u2270 [T1 R1 C8] 3-5 (i)
+u2271 [T1 R1 C11] 6-8 (m)
+u2272 [T1 R1 C14] 9-12 (h)
+u2273 [T1 R2 C1] PS2.a: Civil rights and civil liberties
+u2274 [T1 R2 C2] PS2.a: Civil
+u2275 [T1 R2 C4] SS.PS2.a.1-2 Compare rights and responsibilities within the classroom, school, and community. Classify basic rights that all humans have (i.e., life, liberty, safety).
+u2276 [T1 R2 C5] SS.PS2.a.1-2
+u2277 [T1 R2 C8] SS.PS2.a.i
+u2278 [T1 R2 C9] ,
+u2279 [T1 R2 C10] SS.PS2.a.m Analyze the scope and limits of individual protections found in the Constitution and the Bill of Rights. Describe the evolution of rights over time including key laws, constitutional changes, and court decisions that contributed to these developments. Predict how collective action movements work to extend equal rights to groups and individuals.
+u2280 [T1 R2 C11] SS.PS2.a.m
+u2281 [T1 R2 C13] SS.PS2.a.h Critique the struggle for suffrage and citizenship since the founding period. Analyze the constitutional tension between protecting individual rights and promoting the general welfare and security of the country, as well as between majority rule and minority rights. Assess the impact of individuals, groups, and movements on the development of civil rights for different groups.
+u2282 [T1 R2 C14] SS.PS2.a.h
+u2283 [T1 R3 C2] rights and civil
+u2284 [T1 R3 C5] Compare rights and
+u2285 [T1 R3 C8] Investigate examples of
+u2286 [T1 R3 C11] Analyze the scope and
+u2287 [T1 R3 C14] Critique the struggle for
+u2288 [T1 R4 C2] liberties
+u2289 [T1 R4 C5] responsibilities within the
+u2290 [T1 R4 C8] rights and responsibilities,
+u2291 [T1 R4 C11] limits of individual
+u2292 [T1 R4 C14] suffrage and citizenship
+u2293 [T1 R5 C5] classroom, school, and
+u2294 [T1 R5 C8] including the Declaration of
+u2295 [T1 R5 C11] protections found in the
+u2296 [T1 R5 C14] since the founding period.
+u2297 [T1 R6 C5] community.
+u2298 [T1 R6 C8] Independence,
+u2299 [T1 R6 C11] Constitution and the Bill of
+u2300 [T1 R7 C14] Analyze the constitutional
+u2301 [T1 R8 C8] Constitution, Bill of Rights,
+u2302 [T1 R8 C11] Rights.
+u2303 [T1 R9 C5] Classify basic rights that all
+u2304 [T1 R9 C14] tension between protecting
+u2305 [T1 R10 C8] and the Universal
+u2306 [T1 R11 C5] humans have (i.e., life,
+u2307 [T1 R11 C11] Describe the evolution of
+u2308 [T1 R11 C14] individual rights and
+u2309 [T1 R12 C8] Declaration of Human
+u2310 [T1 R13 C5] liberty, safety).
+u2311 [T1 R13 C11] rights over time including
+u2312 [T1 R13 C14] promoting the general
+u2313 [T1 R14 C8] Rights, which individuals
+u2314 [T1 R15 C11] key laws, constitutional
+u2315 [T1 R15 C14] welfare and security of the
+u2316 [T1 R16 C8] possess within the state,
+u2317 [T1 R17 C11] changes, and court
+u2318 [T1 R17 C14] country, as well as between
+u2319 [T1 R18 C8] country, and world.
+u2320 [T1 R19 C11] decisions that contributed
+u2321 [T1 R19 C14] majority rule and minority
+u2322 [T1 R20 C8] Summarize the actions of
+u2323 [T1 R20 C11] to these developments.
+u2324 [T1 R20 C14] rights.
+u2325 [T1 R21 C8] people and groups that
+u2326 [T1 R22 C11] Predict how collective
+u2327 [T1 R22 C14] Assess the impact of
+u2328 [T1 R23 C8] have advanced civil rights
+u2329 [T1 R24 C11] action movements work to
+u2330 [T1 R24 C14] individuals, groups, and
+u2331 [T1 R25 C8] for individuals.
+u2332 [T1 R26 C11] extend equal rights to
+u2333 [T1 R26 C14] movements on the
+u2334 [T1 R27 C8] Identify and describe basic
+u2335 [T1 R27 C11] groups and individuals.
+u2336 [T1 R27 C14] development of civil rights
+u2337 [T1 R28 C8] human liberties (i.e., thought
+u2338 [T1 R28 C14] for different groups.
+u2339 [T1 R29 C8] expression, privacy).
+u2340 [T1 R30 C1] PS2.b: Fundamentals of citizenship
+u2341 [T1 R30 C4] SS.PS2.b.2 Summarize situations where individuals have rights, freedoms, and equality. Develop an opinion about an issue in your school or community.
+u2342 [T1 R30 C7] SS.PS2.b.5 Compare and contrast being a citizen of a country to the principles of good citizenship. Describe the process by which people in the United States become legal citizens (i.e., natural born or naturalization).
+u2343 [T1 R30 C8] SS.PS2.b.5
+u2344 [T1 R30 C11] SS.PS2.b.m
+u2345 [T1 R30 C13] SS.PS2.b.h Assess the difference in constitutional and legal protections for citizens vs. noncitizens. Demonstrate the skills necessary to participate in the election process (i.e., registering to vote, identifying and evaluating candidates and issues, and casting a ballot).
+u2346 [T1 R31 C8] Compare and contrast
+u2347 [T1 R31 C11] Analyze the rights and
+u2348 [T1 R32 C8] being a citizen of a country
+u2349 [T1 R32 C11] responsibilities of citizens
+u2350 [T1 R33 C8] to the principles of good
+u2351 [T1 R33 C11] (i.e., voting, jury duty,
+u2352 [T1 R34 C8] citizenship.
+u2353 [T1 R34 C11] paying taxes, obeying laws).
+u2354 [T1 R35 C8] Describe the process by
+u2355 [T1 R35 C11] Synthesize the cultural
+u2356 [T1 R36 C8] which people in the United
+u2357 [T1 R36 C11] structures, types of govern-
+u2358 [T1 R37 C8] States become legal citizens
+u2359 [T1 R37 C11] ment, and economic
+u2360 [T1 R38 C8] (i.e., natural born or
+u2361 [T1 R38 C11] systems to explain differing
+u2362 [T1 R39 C8] naturalization).
+u2363 [T1 R39 C11] concepts of citizenship (e.g.,
+u2364 [T1 R40 C11] Confucianism, dictatorship,
+u2365 [T1 R41 C11] theocracy, republic,
+u2366 [T1 R42 C11] democracy).
+u2367 NOTE: This standard continued on next page.
+=== page 59 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2370 Content Area: Political Science (PS)
+u2371 Standard SS.PS2: Wisconsin students will examine and interpret rights, privileges, and responsibilities in society (cont’d).
+u2373 [T1 R1 C2] Learning Priority
+u2374 [T1 R1 C5] K-2 (e)
+u2375 [T1 R1 C8] 3-5 (i)
+u2376 [T1 R1 C11] 6-8 (m)
+u2377 [T1 R1 C14] 9-12 (h)
+u2378 [T1 R2 C1] PS2.c: Asserting and reaffirming of human rights
+u2379 [T1 R2 C2] PS2.c: Asserting
+u2380 [T1 R2 C4] SS.PS2.c.1-2 Identify groups within school, community, or society and compare their rights and responsibilities (e.g., student or teacher). Investigate ways in which people and groups can influence decision makers in school, their communities, states, or country (i.e., voting, running for office, participating in meetings).
+u2381 [T1 R2 C5] SS.PS2.c.1-2
+u2382 [T1 R2 C7] SS.PS2.c.4-5 Critique instances where groups have been denied access to power and rights, and any law or customs that have altered these instances. Summarize how people (e.g., religious groups, civil rights groups, workers, neighborhood residents) organize to gain a greater voice to impact and change their communities.
+u2383 [T1 R2 C8] SS.PS2.c.4-5
+u2384 [T1 R2 C10] SS.PS2.c.m Compare and contrast the political, social, and economic status of marginalized groups both historically and in the present, both in the United States and worldwide. Investigate how groups (e.g., women, religious groups, civil rights groups, indigenous peoples, LGBTQ) have advocated for access to greater rights.
+u2385 [T1 R2 C11] SS.PS2.c.m
+u2386 [T1 R2 C14] SS.PS2.c.h
+u2387 [T1 R3 C2] and reaffirming
+u2388 [T1 R3 C5] Identify groups within
+u2389 [T1 R3 C8] Critique instances where
+u2390 [T1 R3 C11] Compare and contrast the
+u2391 [T1 R3 C14] Analyze how the U.S.
+u2392 [T1 R4 C2] of human rights
+u2393 [T1 R4 C5] school, community, or
+u2394 [T1 R4 C8] groups have been denied
+u2395 [T1 R4 C11] political, social, and
+u2396 [T1 R4 C14] Supreme Court has allowed
+u2397 [T1 R5 C5] society and compare their
+u2398 [T1 R5 C8] access to power and rights,
+u2399 [T1 R5 C11] economic status of
+u2400 [T1 R5 C14] the restriction and enabled
+u2401 [T1 R6 C5] rights and responsibilities
+u2402 [T1 R6 C8] and any law or customs that
+u2403 [T1 R6 C11] marginalized groups both
+u2404 [T1 R6 C14] the expansion of rights for
+u2405 [T1 R7 C5] (e.g., student or teacher).
+u2406 [T1 R7 C8] have altered these
+u2407 [T1 R7 C11] historically and in the
+u2408 [T1 R7 C14] groups.
+u2409 [T1 R8 C8] instances.
+u2410 [T1 R8 C11] present, both in the United
+u2411 [T1 R9 C5] Investigate ways in which
+u2412 [T1 R9 C14] Evaluate different goals and
+u2413 [T1 R10 C11] States and worldwide.
+u2414 [T1 R11 C5] people and groups can
+u2415 [T1 R11 C8] Summarize how people
+u2416 [T1 R11 C14] methods of groups who
+u2417 [T1 R12 C5] influence decision makers
+u2418 [T1 R12 C8] (e.g., religious groups, civil
+u2419 [T1 R12 C11] Investigate how groups
+u2420 [T1 R12 C14] have advocated for access
+u2421 [T1 R13 C5] in school, their
+u2422 [T1 R13 C8] rights groups, workers,
+u2423 [T1 R13 C11] (e.g., women, religious
+u2424 [T1 R13 C14] to greater rights (e.g.,
+u2425 [T1 R14 C5] communities, states, or
+u2426 [T1 R14 C8] neighborhood residents)
+u2427 [T1 R14 C11] groups, civil rights groups,
+u2428 [T1 R14 C14] women, religious groups,
+u2429 [T1 R15 C5] country (i.e., voting, running
+u2430 [T1 R15 C8] organize to gain a greater
+u2431 [T1 R15 C11] indigenous peoples,
+u2432 [T1 R15 C14] civil rights groups,
+u2433 [T1 R16 C5] for office, participating in
+u2434 [T1 R16 C8] voice to impact and change
+u2435 [T1 R16 C11] LGBTQ) have advocated for
+u2436 [T1 R16 C14] indigenous peoples,
+u2437 [T1 R17 C5] meetings).
+u2438 [T1 R17 C8] their communities.
+u2439 [T1 R17 C11] access to greater rights.
+u2440 [T1 R17 C14] LGBTQ).
+u2441 [T1 R18 C14] Analyze the role of the
+u2442 [T1 R19 C14] Universal Declaration of
+u2443 [T1 R20 C14] Human Rights (UDHR) and
+u2444 [T1 R21 C14] nongovernment
+u2445 [T1 R22 C14] organizations (NGOs such
+u2446 [T1 R23 C14] as Save the Children or the
+u2447 [T1 R24 C14] Red Cross) in how human
+u2448 [T1 R25 C14] rights have been addressed
+u2449 [T1 R26 C14] in different countries.
+=== page 60 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2452 Content Area: Political Science (PS)
+u2453 Standard SS.PS3: Wisconsin students will analyze and evaluate the powers and processes of political and civic institutions.
+u2455 [T1 R1 C2] Learning Priority
+u2456 [T1 R1 C5] K-2 (e)
+u2457 [T1 R1 C8] 3-5 (i)
+u2458 [T1 R1 C11] 6-8 (m)
+u2459 [T1 R1 C14] 9-12 (h)
+u2460 [T1 R2 C1] PS3.a: Political participation
+u2461 [T1 R2 C2] PS3.a: Political
+u2462 [T1 R2 C4] SS.PS3.a.1 Describe and explain the effect an action has on members of a group. Express an opinion and vote on a topic in their lives.
+u2463 [T1 R2 C5] SS.PS3.a.1
+u2464 [T1 R2 C7] SS.PS3.a.4-5 Investigate reasons why citizens participate in elections. Identify their role in government at the local, state, tribal, and federal levels.
+u2465 [T1 R2 C8] SS.PS3.a.4-5
+u2466 [T1 R2 C11] SS.PS3.a.m
+u2467 [T1 R2 C13] SS.PS3.a.h Create and evaluate solutions to increase voter participation. Evaluate their role in government at the local, state, tribal, and federal levels.
+u2468 [T1 R2 C14] SS.PS3.a.h
+u2469 [T1 R3 C2] participation
+u2470 [T1 R3 C5] Describe and explain the
+u2471 [T1 R3 C8] Investigate reasons why
+u2472 [T1 R3 C11] Assess voter participation
+u2473 [T1 R3 C14] Create and evaluate
+u2474 [T1 R4 C5] effect an action has on
+u2475 [T1 R4 C8] citizens participate in
+u2476 [T1 R4 C11] in elections.
+u2477 [T1 R4 C14] solutions to increase voter
+u2478 [T1 R5 C5] members of a group.
+u2479 [T1 R5 C8] elections.
+u2480 [T1 R5 C11] Explain their role in
+u2481 [T1 R5 C14] participation.
+u2482 [T1 R6 C5] Express an opinion and vote
+u2483 [T1 R6 C8] Identify their role in
+u2484 [T1 R6 C11] government at the local,
+u2485 [T1 R6 C14] Evaluate their role in
+u2486 [T1 R7 C5] on a topic in their lives.
+u2487 [T1 R7 C8] government at the local,
+u2488 [T1 R7 C11] state, tribal, and federal
+u2489 [T1 R7 C14] government at the local,
+u2490 [T1 R8 C8] state, tribal, and federal
+u2491 [T1 R8 C11] levels.
+u2492 [T1 R8 C14] state, tribal, and federal
+u2493 [T1 R9 C8] levels.
+u2494 [T1 R9 C14] levels.
+u2495 [T1 R11 C1] PS3.b: Linkage institutions
+u2496 [T1 R11 C4] SS.PS3.b.e Identify different types of media and sources. Explain why we have elections. Summarize basic roles of civic institutions (e.g., school, home, family, community).
+u2497 [T1 R11 C7] SS.PS3.b.3-4 Provide examples of how various types of media are used in elections and government. Compare and contrast the multiple roles people play in elections. Analyze the roles civic institutions play in their lives, their community, and beyond (e.g., schools, community groups, religious institutions).
+u2498 [T1 R11 C10] SS.PS3.b.m Analyze the role of various types of media in elections and functions of government. Analyze how elections and political parties in the United States connect the people to government. Summarize how civic institutions influence society and politics. (e.g., special interest groups, chamber of commerce, lobbying).
+u2499 [T1 R11 C11] SS.PS3.b.m
+u2500 [T1 R11 C14] SS.PS3.b.h
+u2501 [T1 R12 C11] Analyze the role of various
+u2502 [T1 R12 C14] Evaluate the role of various
+u2503 [T1 R13 C11] types of media in elections and
+u2504 [T1 R13 C14] types of media in elections
+u2505 [T1 R14 C11] functions of government.
+u2506 [T1 R14 C14] and functions of
+u2507 [T1 R15 C14] government.
+u2508 [T1 R16 C11] Analyze how elections and
+u2509 [T1 R17 C11] political parties in the United
+u2510 [T1 R17 C14] Analyze how the United
+u2511 [T1 R18 C11] States connect the people to
+u2512 [T1 R18 C14] States political system is
+u2513 [T1 R19 C11] government.
+u2514 [T1 R19 C14] shaped by political parties,
+u2515 [T1 R20 C14] elections and the election
+u2516 [T1 R21 C11] Summarize how civic
+u2517 [T1 R22 C14] process, including the
+u2518 [T1 R23 C11] institutions influence society
+u2519 [T1 R24 C14] caucus and primary systems
+u2520 [T1 R25 C11] and politics. (e.g., special
+u2521 [T1 R26 C14] and procedures involved in
+u2522 [T1 R27 C11] interest groups, chamber of
+u2523 [T1 R28 C14] voting.
+u2524 [T1 R29 C11] commerce, lobbying).
+u2525 [T1 R30 C14] Evaluate civic institutions
+u2526 [T1 R31 C14] and explain how competing
+u2527 [T1 R32 C14] interests impact societal
+u2528 [T1 R33 C14] change (e.g., lobbying,
+u2529 [T1 R34 C14] citizens groups, special
+u2530 [T1 R35 C14] interest groups).
+u2531 NOTE: This standard continued on next page.
+=== page 61 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2534 Content Area: Political Science (PS)
+u2535 Standard SS.PS3: Wisconsin students will analyze and evaluate the powers and processes of political and civic institutions (cont’d).
+u2537 [T1 R1 C2] Learning Priority
+u2538 [T1 R1 C5] K-2 (e)
+u2539 [T1 R1 C8] 3-5 (i)
+u2540 [T1 R1 C11] 6-8 (m)
+u2541 [T1 R1 C14] 9-12 (h)
+u2542 [T1 R2 C1] PS3.c: Power in government
+u2543 [T1 R2 C2] PS3.c: Power in
+u2544 [T1 R2 C4] SS.PS3.c.1 Compare basic political institutions (e.g., what a government is and how it differs at the city, state, tribal, country, and global level), and the roles they serve in their lives and in the lives of others (e.g., make laws, create order).
+u2545 [T1 R2 C5] SS.PS3.c.1
+u2546 [T1 R2 C7] SS.PS3.c.4-5 Classify the basic structures and functions of governments and summarize basic powers of the government at the local, state, tribal, and federal levels.
+u2547 [T1 R2 C8] SS.PS3.c.4-5
+u2548 [T1 R2 C10] SS.PS3.c.m Analyze the structure, functions, powers, and limitations of government at the local, state, tribal, and federal levels.
+u2549 [T1 R2 C11] SS.PS3.c.m
+u2550 [T1 R2 C14] SS.PS3.c.h
+u2551 [T1 R3 C2] government
+u2552 [T1 R3 C5] Compare basic political
+u2553 [T1 R3 C8] Classify the basic structures
+u2554 [T1 R3 C11] Analyze the structure,
+u2555 [T1 R3 C14] Evaluate the structure and
+u2556 [T1 R4 C5] institutions (e.g., what a
+u2557 [T1 R4 C8] and functions of
+u2558 [T1 R4 C11] functions, powers, and
+u2559 [T1 R4 C14] functions of governments at
+u2560 [T1 R5 C5] government is and how it
+u2561 [T1 R5 C8] governments and
+u2562 [T1 R5 C11] limitations of government
+u2563 [T1 R5 C14] the local, state, tribal,
+u2564 [T1 R6 C5] differs at the city, state,
+u2565 [T1 R6 C8] summarize basic powers of
+u2566 [T1 R6 C11] at the local, state, tribal, and
+u2567 [T1 R6 C14] national, and global levels.
+u2568 [T1 R7 C5] tribal, country, and global
+u2569 [T1 R7 C8] the government at the local,
+u2570 [T1 R7 C11] federal levels.
+u2571 [T1 R8 C14] Evaluate the purpose of
+u2572 [T1 R9 C5] level), and the roles they
+u2573 [T1 R9 C8] state, tribal, and federal
+u2574 [T1 R10 C14] political institutions at the
+u2575 [T1 R11 C5] serve in their lives and in
+u2576 [T1 R11 C8] levels.
+u2577 [T1 R12 C14] local, state, tribal, national,
+u2578 [T1 R13 C5] the lives of others (e.g.,
+u2579 [T1 R14 C14] global, and supranational or
+u2580 [T1 R15 C5] make laws, create order).
+u2581 [T1 R16 C14] non-government
+u2582 [T1 R17 C14] organization (NGO) levels
+u2583 [T1 R18 C14] distinguishing their roles,
+u2584 [T1 R19 C14] powers, and limitations.
+u2585 [T1 R20 C1] PS3.d: Public policy
+u2586 [T1 R20 C4] SS.PS3.d.1 Predict how people come up with different ideas to solve a problem.
+u2587 [T1 R20 C7] SS.PS3.d.5 Provide examples of how different governments solve problems.
+u2588 [T1 R20 C10] SS.PS3.d.m Analyze how governments address and solve problems through the public policy process.
+u2589 [T1 R20 C13] SS.PS3.d.h Evaluate the effectiveness of public policy actions and processes.
+u2590 [T1 R20 C14] SS.PS3.d.h
+u2591 [T1 R21 C14] Evaluate the effectiveness
+u2592 [T1 R22 C14] of public policy actions and
+u2593 [T1 R23 C14] processes.
+=== page 62 === [running header: Performance Indicators (by Grade Band) | Wisconsin Standards for Social Studies]
+u2596 Content Area: Political Science (PS)
+u2597 Standard: SS.PS4: Wisconsin students will develop and employ skills for civic literacy.
+u2599 [T1 R1 C2] Learning Priority
+u2600 [T1 R1 C5] K-2 (e)
+u2601 [T1 R1 C8] 3-5 (i)
+u2602 [T1 R1 C11] 6-8 (m)
+u2603 [T1 R1 C14] 9-12 (h)
+u2604 [T1 R2 C1] PS4.a: Argumentation
+u2605 [T1 R2 C2] PS4.a:
+u2606 [T1 R2 C4] SS.PS4.a.e Compare and contrast perspectives on the same topic.
+u2607 [T1 R2 C5] SS.PS4.a.e
+u2608 [T1 R2 C8] SS.PS4.a.i
+u2609 [T1 R2 C10] SS.PS4.a.m Assemble an argument utilizing multiple sources of information.
+u2610 [T1 R2 C11] SS.PS4.a.m
+u2611 [T1 R2 C13] SS.PS4.a.h Create arguments by researching and interpreting claims and counterclaims.
+u2612 [T1 R2 C14] SS.PS4.a.h
+u2613 [T1 R3 C2] Argumentation
+u2614 [T1 R4 C5] Compare and contrast
+u2615 [T1 R4 C8] Compile relevant
+u2616 [T1 R4 C11] Assemble an argument
+u2617 [T1 R4 C14] Create arguments by
+u2618 [T1 R5 C5] perspectives on the same
+u2619 [T1 R5 C8] information to form a
+u2620 [T1 R5 C11] utilizing multiple sources of
+u2621 [T1 R5 C14] researching and
+u2622 [T1 R6 C5] topic.
+u2623 [T1 R6 C8] political argument taking
+u2624 [T1 R6 C11] information.
+u2625 [T1 R6 C14] interpreting claims and
+u2626 [T1 R7 C8] other points of view into
+u2627 [T1 R7 C14] counterclaims.
+u2628 [T1 R8 C8] account.
+u2629 [T1 R9 C2] PS4.b:
+u2630 [T1 R9 C4] SS.PS4.b.2 Give an example of a compromise.
+u2631 [T1 R9 C7] SS.PS4.b.5 Describe what influences different political attitudes and actions and how diverse groups can work towards consensus.
+u2632 [T1 R9 C8] SS.PS4.b.5
+u2633 [T1 R9 C10] SS.PS4.b.m Provide examples of diplomacy, pluralism, and consensus building (between individuals, groups, and institutions).
+u2634 [T1 R9 C13] SS.PS4.b.h Analyze the effects of a political compromise with major historical impact.
+u2635 [T1 R10 C2] Compromise,
+u2636 [T1 R10 C8] Describe what influences
+u2637 [T1 R11 C2] diplomacy, and
+u2638 [T1 R11 C8] different political attitudes
+u2639 [T1 R12 C8] and actions and how
+u2640 [T1 R13 C2] consensus
+u2641 [T1 R14 C8] diverse groups can work
+u2642 [T1 R15 C2] building
+u2643 [T1 R15 C8] towards consensus.

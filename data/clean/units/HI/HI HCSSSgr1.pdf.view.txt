@@ -1,0 +1,184 @@
+=== page 1 ===
+u1 GRADE 1
+u2 [T1 R1 C1] Anchor Standard
+u3 [T1 R1 C2] Grades K-2 Inquiry Standards
+u4 [T1 R3 C1] The student demonstrates an understanding of
+u5 [T1 R3 C2] Therefore, the student is able to
+u6 [T1 R4 C1] Anchor Standard 1
+u7 [T1 R4 C2] Inquiry Standard SS.K-2.1.1 Construct a variety of questions about social studies topics with guidance from adults and/or peers
+u8 [T1 R5 C1] Developing Questions and
+u9 [T1 R6 C1] Planning Inquiries
+u10 [T1 R6 C2] Inquiry Standard SS.K-2.1.2 Construct supporting questions to help answer compelling questions with guidance from adults and/or peers
+u11 [T1 R8 C1] Anchor Standard 2
+u12 [T1 R8 C2] Inquiry Standard SS.K-2.2.1 Determine whether a source is primarily fact or opinion
+u13 [T1 R9 C1] Gathering and Evaluating
+u14 [T1 R10 C1] Sources
+u15 [T1 R11 C2] Inquiry Standard SS.K-2.2.2 Determine whether a source is primary or secondary
+u16 [T1 R13 C2] Inquiry Standard SS.K-2.2.3 Gather facts from teacher and/or adult-curated sources to answer questions
+u17 [T1 R14 C1] Anchor Standard 3
+u18 [T1 R14 C2] Begins in grades 3-5
+u19 [T1 R15 C1] Creating Claims
+u20 [T1 R16 C2] Begins in grades 3-5
+u21 [T1 R18 C1] Anchor Standard 4
+u22 [T1 R18 C2] Inquiry Standard SS.K-2.4.1 Construct explanations using correct sequence and relevant information
+u23 [T1 R19 C1] Communicating
+u24 [T1 R20 C1] Conclusions
+u25 [T1 R20 C2] Inquiry Standard SS.K-2.4.2 Respectfully ask and answer questions about arguments and explanations
+u26 [T1 R22 C2] Inquiry Standard SS.K-2.4.3 Present explanations using a variety of print, oral, and digital technologies
+u27 [T1 R23 C1] Anchor Standard 5
+u28 [T1 R23 C2] Inquiry Standard SS.K-2.5.1 Identify problems or issues in classrooms, schools, or communities
+u29 [T1 R24 C1] Taking Informed Action
+u30 [T1 R26 C2] Inquiry Standard SS.K-2.5.2 Identify ways in which people are trying to address problems or issues in classrooms, schools, or communities
+u31 [T1 R27 C2] Inquiry Standard SS.K-2.5.3 Use deliberative and democratic procedures (e.g., listening, consensus-building, voting) to identify ways to take action on classroom, school, or community problems or issues
+u32 [T1 R28 C2] Inquiry Standard SS.K-2.5.4 Show evidence of taking individual or group action on one or more problems or issues
+=== page 2 ===
+u33 [T1 R1 C1] Theme 1
+u34 [T1 R1 C2] Our Community
+u35 [T1 R3 C1] Sample Compelling
+u36 [T1 R3 C2] • What makes a good community? • Where are we?
+u37 [T1 R4 C1] Questions
+u38 [T1 R7 C1] Anchor Standard
+u39 [T1 R7 C2] Topic
+u40 [T1 R7 C3] Content Standard
+u41 [T1 R7 C4] Sample Content/Concepts
+u42 [T1 R9 C1] The student demonstrates an understanding of
+u43 [T1 R9 C3] Therefore, the student is able to
+u44 [T1 R10 C1] Civics
+u45 [T1 R10 C2] Principles and Values of Democracy
+u46 [T1 R10 C3] Content Standard SS.1.1.7.1 Explain shared democratic values
+u47 [T1 R10 C4] • Democratic Values: common good, equality, freedom, liberty, popular sovereignty, respect for individual rights
+u48 [T1 R11 C1] Anchor Standard 7
+u49 [T1 R12 C1] Civic Virtues and
+u50 [T1 R13 C1] Democratic Principles
+u51 [T1 R14 C1] Civics
+u52 [T1 R14 C2] Civic Participation
+u53 [T1 R14 C3] Content Standard SS.1.1.8.2 Follow agreed-upon rules for discussions and listen attentively to others
+u54 [T1 R14 C4] • Rules: positive comments, respect for others, taking turns • Listening: eyes on speaker, refrain from talking, ask thoughtful questions
+u55 [T1 R15 C1] Anchor Standard 8
+u56 [T1 R16 C1] Processes, Rules and
+u57 [T1 R17 C1] Laws
+u58 [T1 R19 C1] Geography
+u59 [T1 R19 C2] Spatial Representation
+u60 [T1 R19 C3] Content Standard SS.1.1.13.3 Use maps and map features to describe places
+u61 [T1 R19 C4] • Maps: physical, political • Map Features: cardinal and ordinal directions, compass rose, equator, legends, title, scale, symbols
+u62 [T1 R20 C1] Anchor Standard 13
+u63 [T1 R21 C1] Geographic
+u64 [T1 R22 C1] Representations:
+u65 [T1 R23 C1] Spatial Views of the
+u66 [T1 R24 C1] World
+=== page 3 ===
+u67 [T1 R1 C1] Theme 2
+u68 [T1 R1 C2] Our Blue Earth
+u69 [T1 R3 C1] Sample Compelling
+u70 [T1 R3 C2] • What is the best way to manage limited resources? • How does our environment affect how we live?
+u71 [T1 R4 C1] Questions
+u72 [T1 R7 C1] Anchor Standard
+u73 [T1 R7 C2] Topic
+u74 [T1 R7 C3] Content Standard
+u75 [T1 R7 C4] Sample Content/Concepts
+u76 [T1 R9 C1] The student demonstrates an understanding of
+u77 [T1 R9 C3] Therefore, the student is able to
+u78 [T1 R10 C1] Economics
+u79 [T1 R10 C2] Limited Resources
+u80 [T1 R10 C3] Content Standard SS.1.2.9.1 Explain how scarcity is a result of limited resources
+u81 [T1 R10 C4] • Natural Resource: materials that occur in nature and can be used by people (e.g., clean air, energy, timber, water) • Human Resource: people with skills and knowledge to produce goods or supply services (e.g., artists, cafeteria workers, construction workers, teachers) • Capital Resource: goods used to make other goods and services (e.g., classroom tools, machines)
+u82 [T1 R11 C1] Anchor Standard 9
+u83 [T1 R12 C1] Economic Decision
+u84 [T1 R13 C1] Making
+u85 [T1 R15 C1] Geography
+u86 [T1 R15 C2] Land and Water
+u87 [T1 R15 C3] Content Standard SS.1.2.13.2 Describe some physical features of continents and oceans in the world
+u88 [T1 R15 C4] • Physical Features: deserts, mountains, rainforests, rivers, valleys, ocean ridges and trenches • Continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America • Oceans: Arctic, Atlantic, Indian, Pacific, Southern
+u89 [T1 R16 C1] Anchor Standard 13
+u90 [T1 R17 C1] Geographic
+u91 [T1 R18 C1] Representations:
+u92 [T1 R19 C1] Spatial Views of the
+u93 [T1 R20 C1] World
+u94 [T1 R21 C1] Geography
+u95 [T1 R21 C2] Interactions and Impact
+u96 [T1 R21 C3] Content Standard SS.1.2.14.3 Investigate cultural and environmental characteristics of your community
+u97 [T1 R21 C4] • Cultural Characteristics: art, clothing, customs, foods, housing, language, recreation, religion • Environmental Characteristics: animals, climate, forests, islands, landmarks, plants, reefs
+u98 [T1 R22 C1] Anchor Standard 14
+u99 [T1 R23 C1] Human-Environment
+u100 [T1 R24 C1] Interaction: Place,
+u101 [T1 R25 C1] Regions, and Culture
+u102 [T1 R26 C1] Geography
+u103 [T1 R26 C2] Interactions and Impact
+u104 [T1 R26 C3] Content Standard SS.1.2.14.4 Describe the ways climate, weather, and natural disasters affect your community
+u105 [T1 R26 C4] • Climate: humidity, precipitation, seasons, temperature, topography, wind • Weather and Natural Disasters: drought, earthquake, hurricanes, precipitation, rising sea levels, tsunami, volcanic eruption
+u106 [T1 R27 C1] Anchor Standard 14
+u107 [T1 R28 C1] Human-Environment
+u108 [T1 R29 C1] Interaction: Place,
+u109 [T1 R30 C1] Regions, and Culture
+u110 [T1 R32 C1] Civics
+u111 [T1 R32 C2] Principles and Values of Democracy
+u112 [T1 R32 C3] Content Standard SS.1.2.8.5 Explain how people improve their communities and the environment
+u113 [T1 R32 C4] • Community Improvement: help your neighbors, plant a community garden, run for office, volunteer • Environmental Improvement: beautification projects, buy local, clean ups, reduce, reuse, recycle
+u114 [T1 R33 C1] Anchor Standard 8
+u115 [T1 R34 C1] Processes Rules and
+u116 [T1 R35 C1] Laws
+=== page 4 ===
+u117 [T1 R1 C1] Theme 3
+u118 [T1 R1 C2] Our Past
+u119 [T1 R3 C1] Sample Compelling
+u120 [T1 R3 C2] • Why should we learn about historical events? • Where can we find out about history?
+u121 [T1 R4 C1] Questions
+u122 [T1 R7 C1] Anchor Standard
+u123 [T1 R7 C2] Topic
+u124 [T1 R7 C3] Content Standard
+u125 [T1 R7 C4] Sample Content/Concepts
+u126 [T1 R9 C1] The student demonstrates an understanding of
+u127 [T1 R9 C3] Therefore, the student is able to
+u128 [T1 R10 C1] History
+u129 [T1 R10 C2] Historical Inquiry
+u130 [T1 R10 C3] Content Standard SS 1.3.17.1 Investigate historically significant events, people, and observances in history
+u131 [T1 R10 C4] • Events: Gutenberg invents printing press, Mayflower lands at Plymouth Rock, Boston Tea Party, attack on Pearl Harbor • People: Genghis Khan, Leonardo Da Vinci, George Washington, Benjamin Franklin, Kamehameha, Abraham Lincoln, Prince Kūhiō, Marie Curie, Wright Brothers, Rosa Parks, Neil Armstrong • Observances: Independence Day, Veterans Day, Martin Luther King, Jr. Day, Presidents Day, Statehood Day, Cultural Holidays (e.g., Kamehameha Day, Chinese New Year, May Day, Flag Day, Girls’ Day, Boys’ Day)
+u132 [T1 R11 C1] Anchor Standard 17
+u133 [T1 R12 C1] Change, Continuity
+u134 [T1 R13 C1] and Context
+u135 [T1 R15 C1] History
+u136 [T1 R15 C2] Historical Perspectives and Interpretations
+u137 [T1 R15 C3] Content Standard SS.1.3.18.2 Compare fact and opinion in stories and narratives from the past
+u138 [T1 R15 C4] • Facts: dates, names, places, statistics • Opinion: conjecture, interpretations, personal feelings
+u139 [T1 R16 C1] Anchor Standard 18
+u140 [T1 R17 C1] Perspectives
+u141 [T1 R19 C1] History
+u142 [T1 R19 C2] Chronological Thinking
+u143 [T1 R19 C3] Content Standard SS.1.3.17.3 Compare life in the past to life today
+u144 [T1 R19 C4] • Comparisons: clothing, food, jobs and roles, technology, transportation
+u145 [T1 R20 C1] Anchor Standard 17
+u146 [T1 R21 C1] Change, Continuity
+u147 [T1 R22 C1] and Context
+=== page 5 ===
+u148 [T1 R1 C1] Theme 4
+u149 [T1 R1 C2] Making Choices
+u150 [T1 R3 C1] Sample Compelling
+u151 [T1 R3 C2] • How do you make choices? • Why can’t we get everything we want?
+u152 [T1 R4 C1] Questions
+u153 [T1 R6 C1] Anchor Standard
+u154 [T1 R6 C2] Topic
+u155 [T1 R6 C3] Content Standard
+u156 [T1 R6 C4] Sample Content/Concepts
+u157 [T1 R8 C1] The student demonstrates an understanding of
+u158 [T1 R8 C3] Therefore, the student is able to
+u159 [T1 R9 C1] Economics
+u160 [T1 R9 C2] Role and Functions of Markets
+u161 [T1 R9 C3] Content Standard SS.1.4.10.1 Compare differences between goods and services
+u162 [T1 R9 C4] • Goods: tangible items, (e.g., food, games, toys) • Services: work done for others to provide something needed or wanted, (e.g., carpenter, plumber)
+u163 [T1 R10 C1] Anchor Standard 10
+u164 [T1 R11 C1] Exchange and
+u165 [T1 R12 C1] Markets
+u166 [T1 R13 C1] Economics
+u167 [T1 R13 C2] Role and Functions of Markets
+u168 [T1 R13 C3] Content Standard SS.1.4.10.2 Identify different ways of acquiring what you need and want
+u169 [T1 R13 C4] • Currency: gold, money, silver • Barter: exchange services or goods of equal value • Trade: exchange goods for money
+u170 [T1 R14 C1] Anchor Standard 10
+u171 [T1 R15 C1] Exchange and
+u172 [T1 R16 C1] Markets
+u173 [T1 R17 C1] History
+u174 [T1 R17 C2] Cause and Effect
+u175 [T1 R17 C3] Content Standard SS.1.4.19.3 Explain causes and effects of an event in your life or in your family’s life
+u176 [T1 R17 C4] • Causes: likes and dislikes, personal and family choices made, the need to follow rules, unexpected events • Events: breaking a rule, earning an award, moving to another place, participating in new activities, personal and family celebrations
+u177 [T1 R18 C1] Anchor Standard 19
+u178 [T1 R19 C1] Causation and
+u179 [T1 R20 C1] Argumentation

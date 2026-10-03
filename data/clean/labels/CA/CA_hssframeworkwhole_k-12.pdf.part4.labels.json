@@ -1,0 +1,1510 @@
+{
+ "state": "CA",
+ "file": "CA_hssframeworkwhole_k-12.pdf",
+ "range": "u3628-u4880",
+ "structure": "California History-Social Science Framework (2016), narrative framework, not a standards table. Chapters are grade/course chapters: Ch.15 Grade Ten (continues from earlier part; this range holds its last pages), Ch.16 Grade Eleven (US history, late 19th c. to present), Ch.17 Grade Twelve Principles of American Democracy (one semester), Ch.18 Grade Twelve Principles of Economics (one semester), Ch.19 Assessment (backup). Each page repeats a one-line grade header (e.g. 'Grade Eleven') as a text unit, labeled backup; running headers show 'Chapter N | California History-Social Science Framework'. Chapters open with a title and a stack of guiding questions (bullets rendered as 'n'/'nn'), then course overview narrative, then unit headings (e.g. 'The 1920s', 'Fundamental Principles of American Democracy') each with guiding questions and narrative. 'Grade X Classroom Example: ...' vignette boxes continue across pages with 'Example (continued)' and end with a 'CA HSS Content Standard: ... CA HSS Analysis Skills ... CCSS ... ELD' alignment line; these are labeled examples. Formal standards (codes like 11.2.1, PAD 12.4) are only cited, not reproduced, in this range; they are in Appendix C (outside range). Ch.19 contains figures 19.1-19.5 extracted as table cells (T1 Rn Cn).",
+ "labels": [
+  {
+   "units": "u3628",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3629-u3633",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.15 Grade Ten > contemporary world themes (excerpt of appendix D): globalization, rights/religion/identity, role of the West"
+  },
+  {
+   "units": "u3635",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3636-u3640",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.15 Grade Ten > contemporary world themes (excerpt of appendix D): globalization, rights/religion/identity, role of the West"
+  },
+  {
+   "units": "u3643",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3644-u3648",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.15 Grade Ten > contemporary world themes (excerpt of appendix D): globalization, rights/religion/identity, role of the West"
+  },
+  {
+   "units": "u3651",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3652",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.15 Grade Ten > contemporary world themes (excerpt of appendix D): globalization, rights/religion/identity, role of the West"
+  },
+  {
+   "units": "u3655",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Blank page after Ch.15"
+  },
+  {
+   "units": "u3656",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch.16 Grade Eleven running header"
+  },
+  {
+   "units": "u3657-u3671",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven title and chapter guiding questions"
+  },
+  {
+   "units": "u3674",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3675-u3679",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3682",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3683-u3691",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3694",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3695-u3701",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3703",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3704-u3712",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3715",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3716-u3720",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3723",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3724-u3728",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3731",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3732-u3735",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3738",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3739-u3742",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3745",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3746-u3751",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3754",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3755-u3759",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3762",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3763-u3765",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3768",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3769-u3775",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3778",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3779-u3782",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3785",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3786-u3792",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3795",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3796-u3800",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3803",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3804-u3812",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3815",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3816-u3822",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3824",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3825-u3828",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3831",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3832-u3840",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3842",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3843-u3846",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3849",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3850-u3854",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3857",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3858-u3862",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3865",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3866-u3876",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3879",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3880-u3883",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3886",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3887-u3889",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3892",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3893-u3897",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3900",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3901-u3905",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3908",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3909-u3913",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3916",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3917-u3921",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3923",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3924-u3932",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3935",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3936-u3940",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3943",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3944-u3949",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3952",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3953-u3962",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3965",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3966-u3969",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3972",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3973-u3978",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3981",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3982-u3987",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u3990",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u3991-u4004",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4006",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4007-u4010",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4013",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4014-u4017",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4020",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4021-u4023",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4026",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4027-u4030",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4032",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4033-u4037",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4040",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4041-u4043",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4045",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4046-u4050",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4053",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4054-u4058",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4061",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4062-u4068",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4071",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4072-u4078",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4081",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4082-u4090",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4093",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4094-u4105",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4108",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4109-u4113",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4116",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4117-u4121",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4124",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4125-u4129",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4132",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4133-u4138",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4141",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4142-u4145",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4148",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4149-u4153",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch.16 Grade Eleven: course narrative, unit guiding questions, classroom examples (Industrialization through Contemporary American Society)"
+  },
+  {
+   "units": "u4156",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Ch.17 running header"
+  },
+  {
+   "units": "u4157-u4175",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4178",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4179-u4185",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4188",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4189-u4198",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4201",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4202-u4208",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4211",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4212-u4216",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4219",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4220-u4227",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4230",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4231-u4239",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4242",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4243-u4246",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4249",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4250-u4254",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4257",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4258-u4264",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4266",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4267-u4273",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4275",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4276-u4281",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4284",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4285-u4293",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4296",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4297-u4301",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4303",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4304-u4312",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4315",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4316-u4319",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4322",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4323-u4330",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4333",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4334-u4346",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4349",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4350-u4353",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4356",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4357-u4360",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4362",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4363-u4367",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4370",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4371-u4375",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4377",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4378-u4381",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4384",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4385",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "examples",
+   "section": "Ch.17 Grade Twelve Principles of American Democracy: course narrative, unit questions, classroom examples"
+  },
+  {
+   "units": "u4388",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Ch.18 running header"
+  },
+  {
+   "units": "u4389-u4402",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4405",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4406-u4410",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4413",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4414-u4421",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4424",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4425-u4429",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4432",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4433-u4435",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4438",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4439-u4442",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4444",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4445-u4448",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4451",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4452-u4459",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4461",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4462-u4465",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4468",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4469-u4473",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4476",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4477-u4487",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4490",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4491-u4495",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4498",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4499-u4502",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4505",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4506-u4509",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4512",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4513-u4522",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4524",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4525-u4529",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4532",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4533-u4539",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4542",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4543-u4547",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4550",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4551-u4557",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4560",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4561-u4566",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4569",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "backup",
+   "section": "Running header repeated in text"
+  },
+  {
+   "units": "u4570-u4574",
+   "grades": "12",
+   "course": "Principles of Economics",
+   "cat": "examples",
+   "section": "Ch.18 Grade Twelve Principles of Economics: course narrative, unit questions, classroom example"
+  },
+  {
+   "units": "u4577",
+   "grades": "12",
+   "course": null,
+   "cat": "backup",
+   "section": "Blank page after Ch.18"
+  },
+  {
+   "units": "u4578-u4878",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch.19 Assessment of Proficiency in History-Social Science"
+  }
+ ],
+ "issues": [
+  "Grade 10 and 11 chapters are labeled with course null (grade-level rows); Ch.17 and Ch.18 both are Grade Twelve one-semester courses so they carry course 'Principles of American Democracy' and 'Principles of Economics'. Part labelers of Ch.15 should be checked for the same convention for grade 10.",
+  "Per-page 'Grade Ten/Eleven/Twelve' header units inside the text stream were labeled backup (running-header duplicates).",
+  "Classroom-example alignment lines ('CA HSS Content Standard: 11.2.1 ... CA ELD Standards ...') are labeled examples with the box they close (e.g. u3748, u3821, u3994, u4088-u4089, u4260, u4280, u4572); they cite standards but do not state them.",
+  "u4713-u4748: Figure 19.3 continuation page extracted as rotated/garbled text fragments; labeled backup (Ch.19 assessment).",
+  "u4664-u4710 and u4682-u4695: Figure 19.3 table cells scrambled across pages; backup so no grade impact.",
+  "u3655 and u4577 are blank-page placeholders ('This page is left blank intentionally'), labeled backup.",
+  "u4149-u4153: end-of-chapter text with side-by-side layout (x=306 vs x=88) interleaved; all examples, order is extraction order.",
+  "u3946-u3949: side-by-side sidebar (History Blueprint note u3947, x=368) interleaved with main text; labeled examples.",
+  "Range end: u4880 does not exist as a non-furniture unit; last labeled unit is u4878 (Ch.19 'Rubrics' section continues in u4881+, outside range)."
+ ]
+}

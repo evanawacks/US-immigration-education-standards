@@ -1,0 +1,337 @@
+=== page 1 ===
+u1 Content Area: Social Studies Grade/Course: Economics / ACCN: CSD2500
+u2 [T1 R1 C1] Strand
+u3 [T1 R1 C2] Economics
+u4 [T1 R2 C1] Standard 1: Understand that scarcity and choice impact economic activity of individuals,
+u5 [T1 R3 C1] families, communities, and nations
+u6 [T2 R1 C1] Topic
+u7 [T2 R1 C2] Opportunity Costs and Trade-offs
+u8 [T2 R2 C1] Benchmark
+u9 [T2 R2 C2] Describe how individuals, families, communities, and/or nations use
+u10 [T2 R3 C1] SS.12E.1.1
+u11 [T2 R3 C2] marginal costs and marginal benefits to make economic decisions
+u12 [T2 R4 C1] Sample Performance
+u13 [T2 R4 C2] The student: Uses current personal or family budgets, goals, and values to describe how marginal costs and marginal benefits are related to economic decisions.
+u14 [T2 R5 C1] Assessment (SPA)
+u15 [T2 R7 C1] Rubric
+u16 [T2 R8 C1] Advanced
+u17 [T2 R8 C2] Proficient
+u18 [T2 R8 C3] Partially Proficient
+u19 [T2 R8 C4] Novice
+u20 [T2 R9 C1] Describe how individuals, families, communities, and/or nations use marginal costs and marginal benefits to make economic decisions, drawing highly relevant conclusions
+u21 [T2 R9 C2] Describe how individuals, families, communities, and/or nations use marginal costs and marginal benefits to make economic decisions, drawing relevant conclusions
+u22 [T2 R9 C3] Describe how individuals, families, communities, and/or nations use marginal costs and marginal benefits to make economic decisions, drawing partially relevant conclusions
+u23 [T2 R9 C4] Ineffectively describe how individuals, families, communities, and/or nations use marginal costs and marginal benefits to make economic decisions
+u24 [T3 R1 C1] Topic
+u25 [T3 R1 C2] Productivity
+u26 [T3 R2 C1] Benchmark
+u27 [T3 R2 C2] Identify the factors of production (e.g., land, labor, capital) and explain how
+u28 [T3 R3 C1] SS.12E.1.2
+u29 [T3 R3 C2] these factors influence the production of goods and services
+u30 [T3 R4 C1] Sample Performance
+u31 [T3 R4 C2] The student: Identifies the factors of production in coffee manufacturing and explains how these factors affect its production.
+u32 [T3 R5 C1] Assessment (SPA)
+u33 [T3 R6 C1] Rubric
+u34 [T3 R7 C1] Advanced
+u35 [T3 R7 C2] Proficient
+u36 [T3 R7 C3] Partially Proficient
+u37 [T3 R7 C4] Novice
+u38 [T3 R8 C1] Identify the factors of production and explain, with clear and precise detail, how these factors influence the production of goods and services
+u39 [T3 R8 C2] Identify the factors of production and explain, with detail, how these factors influence the production of goods and services
+u40 [T3 R8 C3] Identify the factors of production and explain, with minimal detail, how these factors influence the production of goods and services
+u41 [T3 R8 C4] Ineffectively identify the factors of production and ineffectively explain how these factors influence the production of goods and services
+u42 [T3 R9 C1] Strand
+u43 [T3 R9 C3] Economics
+u44 [T3 R10 C1] Standard 2: Understand markets and the role of supply and demand in determining price
+u45 [T3 R11 C1] and resource allocation
+u46 [T4 R1 C1] Topic
+u47 [T4 R1 C2] Role and Function of Markets
+u48 [T4 R2 C2] Explain the laws of supply and demand and illustrate how their
+u49 [T4 R3 C1] Benchmark
+u50 [T4 R3 C2] determinants affect the supply or demand curve (e.g., how changes in
+u51 [T4 R4 C1] SS.12E.2.1
+u52 [T4 R4 C2] technology or price of inputs affect supply; how consumer income, tastes,
+u53 [T4 R5 C2] and preferences affect demand)
+=== page 2 ===
+u54 [T1 R1 C1] Sample Performance
+u55 [T1 R1 C2] The student: Uses the laws of supply and demand to explain how changes in the price of oil may affect the supply of alternative sources of energy.
+u56 [T1 R2 C1] Assessment (SPA)
+u57 [T1 R3 C1] Rubric
+u58 [T1 R4 C1] Advanced
+u59 [T1 R4 C2] Proficient
+u60 [T1 R4 C3] Partially Proficient
+u61 [T1 R4 C4] Novice
+u62 [T1 R5 C1] Explain the laws of supply and demand and illustrate how the determinants of supply or demand affect the supply or demand curve, drawing highly relevant conclusions
+u63 [T1 R5 C2] Explain the laws of supply and demand and illustrate how the determinants of supply or demand affect the supply or demand curve, drawing relevant conclusions
+u64 [T1 R5 C3] Explain the laws of supply and demand and illustrate how the determinants of supply or demand affect the supply or demand curve, drawing partially relevant conclusions
+u65 [T1 R5 C4] Ineffectively explain the laws of supply and demand and poorly illustrate how the determinants of supply or demand affect the supply or demand curve
+u66 [T2 R1 C1] Topic
+u67 [T2 R1 C2] Role and Function of Markets
+u68 [T2 R2 C1] Benchmark
+u69 [T2 R2 C2] Explain how money makes it easier for countries to borrow, save, invest,
+u70 [T2 R3 C1] SS.12E.2.2
+u71 [T2 R3 C2] and compare the value of goods and services
+u72 [T2 R4 C1] Sample Performance
+u73 [T2 R4 C2] The student: Explains how nations with different currencies are able to buy and sell goods and services globally.
+u74 [T2 R5 C1] Assessment (SPA)
+u75 [T2 R6 C1] Rubric
+u76 [T2 R7 C1] Advanced
+u77 [T2 R7 C2] Proficient
+u78 [T2 R7 C3] Partially Proficient
+u79 [T2 R7 C4] Novice
+u80 [T2 R8 C1] Explain how money makes it easier for countries to borrow, save, invest, and compare the value of goods and services, drawing highly relevant conclusions
+u81 [T2 R8 C2] Explain how money makes it easier for countries to borrow, save, invest, and compare the value of goods and services, drawing relevant conclusions
+u82 [T2 R8 C3] Explain how money makes it easier for countries to borrow, save, invest, and compare the value of goods and services, drawing partially relevant conclusions
+u83 [T2 R8 C4] Ineffectively explain how money makes it easier for countries to borrow, save, invest, and ineffectively compare the value of goods and services
+u84 [T2 R9 C1] Strand
+u85 [T2 R9 C3] Economics
+u86 [T2 R10 C1] Standard 3: Understand the sources of income and growth in a market-based economy
+u87 [T3 R1 C1] Topic
+u88 [T3 R1 C2] Economic Growth
+u89 [T3 R2 C2] Describe the characteristics of an entrepreneur (e.g., how he or she
+u90 [T3 R3 C1] Benchmark
+u91 [T3 R3 C2] accepts business risks for profit) and explain the role of entrepreneurs in a
+u92 [T3 R4 C1] SS.12E.3.1
+u93 [T3 R4 C2] market-based economy (e.g., how they introduce new products and
+u94 [T3 R5 C2] production methods)
+u95 [T3 R6 C1] Sample Performance
+u96 [T3 R6 C2] The student: Describes a local entrepreneur or a historically significant entrepreneur and explains how his or her innovation or methods of production contributed to the growth of the community or nation.
+u97 [T3 R7 C1] Assessment (SPA)
+u98 [T3 R9 C1] Rubric
+u99 [T3 R10 C1] Advanced
+u100 [T3 R10 C2] Proficient
+u101 [T3 R10 C3] Partially Proficient
+u102 [T3 R10 C4] Novice
+u103 [T3 R11 C1] Describe the characteristics of an entrepreneur and explain, with clear and precise detail, the role of entrepreneurs in a market-based economy
+u104 [T3 R11 C2] Describe the characteristics of an entrepreneur and explain, with detail, the role of entrepreneurs in a a market-based economy
+u105 [T3 R11 C3] Describe the characteristics of an entrepreneur and explain, with minimal detail, the role of entrepreneurs in a market-based economy
+u106 [T3 R11 C4] Ineffectively describe the characteristics of an entrepreneur and ineffectively explain the role of entrepreneurs in a market-based economy
+=== page 3 ===
+u107 [T1 R1 C1] Topic
+u108 [T1 R1 C2] Economic Growth
+u109 [T1 R2 C1] Benchmark
+u110 [T1 R2 C2] Explain how stock markets function, what influences their performance,
+u111 [T1 R3 C1] SS.12E.3.2
+u112 [T1 R3 C2] and how they impact national economies
+u113 [T1 R4 C1] Sample Performance
+u114 [T1 R4 C2] The student: Explains the impact of a bankruptcy of a major corporation on the performance of the stock market.
+u115 [T1 R5 C1] Assessment (SPA)
+u116 [T1 R6 C1] Rubric
+u117 [T1 R7 C1] Advanced
+u118 [T1 R7 C2] Proficient
+u119 [T1 R7 C3] Partially Proficient
+u120 [T1 R7 C4] Novice
+u121 [T1 R8 C1] Explain how stock markets function, what influences their performance, and how they impact national economies, using highly relevant examples
+u122 [T1 R8 C2] Explain how stock markets function, what influences their performance, and how they impact national economies, using relevant examples
+u123 [T1 R8 C3] Explain how stock markets function, what influences their performance, and how they impact national economies, using partially relevant examples
+u124 [T1 R8 C4] Ineffectively explain how stock markets function, what influences their performance, and how they impact national economies
+u125 [T1 R9 C1] Strand
+u126 [T1 R9 C3] Economics
+u127 [T1 R10 C1] Standard 4: Understand how to use personal economic decision-making to maximize the net
+u128 [T1 R11 C1] benefits of personal income
+u129 [T2 R1 C1] Topic
+u130 [T2 R1 C2] Personal Economic Decisions
+u131 [T2 R2 C2] Analyze the types of personal economic decisions and choices that
+u132 [T2 R3 C2] individuals make (e.g., determining how to budget money; establishing
+u133 [T2 R4 C1] Benchmark
+u134 [T2 R5 C2] short- and long-term financial goals and plans related to income, saving,
+u135 [T2 R6 C1] SS.12E.4.1
+u136 [T2 R7 C2] and spending; utilizing loans and credit cards; considering investment
+u137 [T2 R9 C2] options)
+u138 [T2 R10 C1] Sample Performance
+u139 [T2 R10 C2] The student: Develops a financially solvent retirement plan for people in various careers.
+u140 [T2 R11 C1] Assessment (SPA)
+u141 [T2 R12 C1] Rubric
+u142 [T2 R13 C1] Advanced
+u143 [T2 R13 C2] Proficient
+u144 [T2 R13 C3] Partially Proficient
+u145 [T2 R13 C4] Novice
+u146 [T2 R14 C1] Analyze the types of personal economic decisions and choices that individuals make, drawing highly relevant conclusions
+u147 [T2 R14 C2] Analyze the types of personal economic decisions and choices that individuals make, drawing relevant conclusions
+u148 [T2 R14 C3] Analyze the types of personal economic decisions and choices that individuals make, drawing partially relevant conclusions
+u149 [T2 R14 C4] Ineffectively analyze the types of personal economic decisions and choices that individuals make
+u150 [T3 R1 C1] Topic
+u151 [T3 R1 C2] Economic Reasoning
+u152 [T3 R2 C1] Benchmark
+u153 [T3 R2 C2] Identify how economic reasoning is used to make to make personal
+u154 [T3 R3 C1] SS.12E.4.2
+u155 [T3 R3 C2] decisions (e.g., purchasing a car; deciding on a college, career choices)
+u156 [T3 R4 C1] Sample Performance
+u157 [T3 R4 C2] The student: Identifies the trade-offs and opportunity costs of buying a new car.
+u158 [T3 R5 C1] Assessment (SPA)
+u159 [T3 R6 C1] Rubric
+u160 [T3 R7 C1] Advanced
+u161 [T3 R7 C2] Proficient
+u162 [T3 R7 C3] Partially Proficient
+u163 [T3 R7 C4] Novice
+u164 [T3 R8 C1] Identify how economic reasoning is used to make personal
+u165 [T3 R8 C2] Identify how economic reasoning is used to make personal
+u166 [T3 R8 C3] Identify how economic reasoning is used to make decisions, using
+u167 [T3 R8 C4] Ineffectively identify how economic reasoning is used to make decisions
+=== page 4 ===
+u168 [T1 R1 C1] decisions, using highly relevant examples
+u169 [T1 R1 C2] decisions, using relevant examples
+u170 [T1 R1 C3] partially relevant examples
+u171 [T1 R2 C1] Strand
+u172 [T1 R2 C3] Economics
+u173 [T1 R3 C1] Standard 5: Understand the various economic institutions of a market-based economy
+u174 [T2 R1 C1] Topic
+u175 [T2 R1 C2] Economic Institutions
+u176 [T2 R2 C2] Explain the significance of economic institutions (e.g., the banking system
+u177 [T2 R3 C1] Benchmark
+u178 [T2 R3 C2] and its interaction with business firms and consumers; the function of
+u179 [T2 R4 C1] SS.12E.5.1
+u180 [T2 R4 C2] financial and securities markets; the impact of labor unions on the
+u181 [T2 R5 C2] American economy) in a market-based economy
+u182 [T2 R6 C1] Sample Performance
+u183 [T2 R6 C2] The student: Explains the importance of banking and how it serves as a medium of exchange in a market-based economy.
+u184 [T2 R7 C1] Assessment (SPA)
+u185 [T2 R8 C1] Rubric
+u186 [T2 R9 C1] Advanced
+u187 [T2 R9 C2] Proficient
+u188 [T2 R9 C3] Partially Proficient
+u189 [T2 R9 C4] Novice
+u190 [T2 R10 C1] Describe, with clear and precise detail, how and why individuals utilize various financial institutions
+u191 [T2 R10 C2] Describe, with detail, how and why individuals utilize various financial institutions
+u192 [T2 R10 C3] Describe, with minimal detail, how and why individuals utilize various financial institutions
+u193 [T2 R10 C4] Ineffectively describe how and why individuals utilize various financial institutions
+u194 [T3 R1 C1] Topic
+u195 [T3 R1 C2] Competition
+u196 [T3 R2 C2] Explain the nature and role of competition in a market-based economy
+u197 [T3 R3 C2] (e.g., the determination of market price through competition among buyers
+u198 [T3 R4 C1] Benchmark
+u199 [T3 R5 C2] and sellers; conditions that make industries more or less competitive; the
+u200 [T3 R6 C1] SS.12E.5.2
+u201 [T3 R7 C2] effect of domestic and international competition in a market-based
+u202 [T3 R9 C2] economy)
+u203 [T3 R10 C1] Sample Performance
+u204 [T3 R10 C2] The student: Describes how the number of sellers of a similar good or service in a market affects the quality, quantity, and price of those goods or services.
+u205 [T3 R11 C1] Assessment (SPA)
+u206 [T3 R13 C1] Rubric
+u207 [T3 R14 C1] Advanced
+u208 [T3 R14 C2] Proficient
+u209 [T3 R14 C3] Partially Proficient
+u210 [T3 R14 C4] Novice
+u211 [T3 R15 C1] Explain the nature and role of competition in a market-based economy, drawing highly relevant conclusions
+u212 [T3 R15 C2] Explain the nature and role of competition in a market-based economy, drawing relevant conclusions
+u213 [T3 R15 C3] Describe the nature and role of competition in a market-based economy, drawing partially relevant conclusions
+u214 [T3 R15 C4] Identify the nature and role of competition in a market-based economy
+u215 [T3 R16 C1] Strand
+u216 [T3 R16 C3] Economics
+u217 [T3 R17 C1] Standard 6: Understand the national economy and economic policies
+u218 [T4 R1 C1] Topic
+u219 [T4 R1 C2] National Economy
+u220 [T4 R2 C2] Explain various measures of economic health (e.g., the Gross Domestic
+u221 [T4 R3 C1] Benchmark
+u222 [T4 R4 C2] Product [GDP], consumer price indexes [CPI], personal income,
+u223 [T4 R5 C1] SS.12E.6.1
+u224 [T4 R6 C2] disposable income, rates of inflation and deflation, unemployment rates)
+u225 [T4 R8 C1] Sample Performance
+u226 [T4 R8 C2] The student: Uses various measures of economic health (such as GDP, CPI, income statistics) to assess the economic health of the nation.
+u227 [T4 R9 C1] Assessment (SPA)
+u228 [T4 R10 C1] Rubric
+u229 [T4 R11 C1] Advanced
+u230 [T4 R11 C2] Proficient
+u231 [T4 R11 C3] Partially Proficient
+u232 [T4 R11 C4] Novice
+=== page 5 ===
+u233 [T1 R1 C1] Explain, with clear and precise detail, various measures of economic health
+u234 [T1 R1 C2] Explain, with detail, various measures of economic health
+u235 [T1 R1 C3] Explain, with minimal detail, various measures of economic health
+u236 [T1 R1 C4] Ineffectively explain various measures of economic health
+u237 [T2 R1 C1] Topic
+u238 [T2 R1 C2] Economic Policies
+u239 [T2 R2 C2] Explain the various roles government plays in a market-based economy,
+u240 [T2 R3 C1] Benchmark
+u241 [T2 R4 C2] including monetary policy, market regulation and oversight, and fiscal
+u242 [T2 R5 C1] SS.12E.6.2
+u243 [T2 R6 C2] policy
+u244 [T2 R8 C1] Sample Performance
+u245 [T2 R8 C2] The student: Explains how monetary and fiscal policy are used to control inflation.
+u246 [T2 R9 C1] Assessment (SPA)
+u247 [T2 R10 C1] Rubric
+u248 [T2 R11 C1] Advanced
+u249 [T2 R11 C2] Proficient
+u250 [T2 R11 C3] Partially Proficient
+u251 [T2 R11 C4] Novice
+u252 [T2 R12 C1] Explain the various roles government plays in a market-based economy, including monetary policy, market regulation and oversight, and fiscal policy, using highly relevant examples
+u253 [T2 R12 C2] Explain the various roles government plays in a market-based economy, including monetary policy, market regulation and oversight, and fiscal policy, using relevant examples
+u254 [T2 R12 C3] Explain the various roles government plays in a market-based economy, including monetary policy, market regulation and oversight, and fiscal policy, using partially relevant examples
+u255 [T2 R12 C4] Ineffectively explain the various roles government plays in a market-based economy, including monetary policy, market regulation and oversight, and fiscal policy
+u256 [T3 R1 C1] Topic
+u257 [T3 R1 C2] Revenue
+u258 [T3 R2 C2] Explain major sources of government revenue (e.g., personal income and
+u259 [T3 R3 C1] Benchmark
+u260 [T3 R4 C2] payroll taxes, sales taxes, property taxes) at the federal, state, and local
+u261 [T3 R5 C1] SS.12E.6.3
+u262 [T3 R6 C2] level
+u263 [T3 R8 C1] Sample Performance
+u264 [T3 R8 C2] The student: Uses data on taxes to explain government revenue sources.
+u265 [T3 R9 C1] Assessment (SPA)
+u266 [T3 R10 C1] Rubric
+u267 [T3 R11 C1] Advanced
+u268 [T3 R11 C2] Proficient
+u269 [T3 R11 C3] Partially Proficient
+u270 [T3 R11 C4] Novice
+u271 [T3 R12 C1] Explain, with clear and precise detail, major sources of government revenue (e.g., personal income and payroll taxes, sales taxes, property taxes) at the federal, state, and local level
+u272 [T3 R12 C2] Explain, with detail, major sources of government revenue (e.g., personal income and payroll taxes, sales taxes, property taxes) at the federal, state, and local level
+u273 [T3 R12 C3] Explain, with minimal detail, major sources of government revenue (e.g., personal income and payroll taxes, sales taxes, property taxes) at the federal, state, and local level
+u274 [T3 R12 C4] Ineffectively explain major sources of government revenue (e.g., personal income and payroll taxes, sales taxes, property taxes) at the federal, state, and local level
+u275 [T3 R13 C1] Strand
+u276 [T3 R13 C3] Economics
+u277 [T3 R14 C1] Standard 7: Understand the principles of global trade and economic development
+u278 [T4 R1 C1] Topic
+u279 [T4 R1 C2] Characteristics of Global Trade
+u280 [T4 R2 C1] Benchmark
+u281 [T4 R2 C2] Explain the characteristics of global trade (e.g., tariffs, foreign exchange
+u282 [T4 R3 C1] SS.12E.7.1
+u283 [T4 R3 C2] market, trade agreements, balance of payments, specialization)
+u284 [T4 R4 C1] Sample Performance
+u285 [T4 R4 C2] The student: Explains how the foreign exchange market affects the cost of an imported skateboard.
+u286 [T4 R5 C1] Assessment (SPA)
+=== page 6 ===
+u287 [T1 R1 C1] Rubric
+u288 [T1 R2 C1] Advanced
+u289 [T1 R2 C2] Proficient
+u290 [T1 R2 C3] Partially Proficient
+u291 [T1 R2 C4] Novice
+u292 [T1 R3 C1] Explain, with clear and precise detail, the characteristics of global trade
+u293 [T1 R3 C2] Explain, with detail, the characteristics of global trade
+u294 [T1 R3 C3] Explain, with minimal detail, the characteristics of global trade
+u295 [T1 R3 C4] Ineffectively explain the characteristics of global trade
+u296 [T2 R1 C1] Topic
+u297 [T2 R1 C2] Economic Development
+u298 [T2 R2 C1] Benchmark
+u299 [T2 R2 C2] Explain how global trade affects a nation's economic development (e.g.,
+u300 [T2 R3 C1] SS.12E.7.2
+u301 [T2 R3 C2] increases in consumer choice, standards of living, production efficiencies)
+u302 [T2 R4 C1] Sample Performance
+u303 [T2 R4 C2] The student: Explains how trade agreements affect economic development in partner nation(s).
+u304 [T2 R5 C1] Assessment (SPA)
+u305 [T2 R6 C1] Rubric
+u306 [T2 R7 C1] Advanced
+u307 [T2 R7 C2] Proficient
+u308 [T2 R7 C3] Partially Proficient
+u309 [T2 R7 C4] Novice
+u310 [T2 R8 C1] Explain, with clear and precise evidence, how global trade affects economic development
+u311 [T2 R8 C2] Explain, with evidence, how global trade affects economic development
+u312 [T2 R8 C3] Explain, with weak evidence, how global trade affects economic development
+u313 [T2 R8 C4] Ineffectively explain how global trade affects economic development
+u314 [T3 R1 C1] Topic
+u315 [T3 R1 C2] Economic Development
+u316 [T3 R2 C1] Benchmark
+u317 [T3 R2 C2] Compare the advantages and disadvantages of economic systems (i.e.,
+u318 [T3 R3 C1] SS.12E.7.3
+u319 [T3 R3 C2] traditional, command, market-based)
+u320 [T3 R4 C1] Sample Performance
+u321 [T3 R4 C2] The student: Compares a capitalist nation to a communist nation in terms of economic advantages and disadvantages.
+u322 [T3 R5 C1] Assessment (SPA)
+u323 [T3 R6 C1] Rubric
+u324 [T3 R7 C1] Advanced
+u325 [T3 R7 C2] Proficient
+u326 [T3 R7 C3] Partially Proficient
+u327 [T3 R7 C4] Novice
+u328 [T3 R8 C1] Compare the advantages and disadvantages of economic systems (i.e., traditional, command, market-based), drawing highly relevant conclusions
+u329 [T3 R8 C2] Compare the advantages and disadvantages of economic systems (i.e., traditional, command, market-based), drawing relevant conclusions
+u330 [T3 R8 C3] Compare the advantages and disadvantages of economic systems (i.e., traditional, command, market-based), drawing partially relevant conclusions
+u331 [T3 R8 C4] Ineffectively compare the advantages and disadvantages of economic systems (i.e., traditional, command, market-based)

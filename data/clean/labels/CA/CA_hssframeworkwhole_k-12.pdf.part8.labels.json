@@ -1,0 +1,132 @@
+{
+ "state": "CA",
+ "file": "CA_hssframeworkwhole_k-12.pdf",
+ "range": "u8059-u8784",
+ "structure": "Tail of the 855-page HSS Framework (book pp. ~805-855): Appendix G (California Education and the Environment Initiative: EP&C principles, then curriculum units listed under grade headings KINDERGARTEN...ELEVENTH GRADE, TWELFTH GRADE: PRINCIPLES OF AMERICAN DEMOCRACY / ECONOMICS, each with quoted standard codes e.g. 8.6.3 and a CURRICULUM UNIT description), Appendix H (Service-Learning), Works Cited, Framework Resources. No grade 9 in Appendix G. Per state guide, appendices G/H, Works Cited and Resources are backup; Appendix G grade sections are tagged with the grade they name.",
+ "labels": [
+  {
+   "units": "u8059-u8076",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: Environmental Principles and Concepts (EP&Cs I-V), curriculum units intro"
+  },
+  {
+   "units": "u8077-u8087",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Kindergarten"
+  },
+  {
+   "units": "u8088-u8101",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 1"
+  },
+  {
+   "units": "u8102-u8113",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 2"
+  },
+  {
+   "units": "u8114-u8127",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 3"
+  },
+  {
+   "units": "u8128-u8145",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 4"
+  },
+  {
+   "units": "u8146-u8153",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 5"
+  },
+  {
+   "units": "u8154-u8174",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 6"
+  },
+  {
+   "units": "u8175-u8194",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 7"
+  },
+  {
+   "units": "u8195-u8212",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 8"
+  },
+  {
+   "units": "u8213-u8229",
+   "grades": "10",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 10"
+  },
+  {
+   "units": "u8230-u8245",
+   "grades": "11",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units and cited standards, Grade 11"
+  },
+  {
+   "units": "u8246-u8257",
+   "grades": "12",
+   "course": "Principles of American Democracy",
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units, Grade 12 Principles of American Democracy"
+  },
+  {
+   "units": "u8258-u8270",
+   "grades": "12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Appendix G: EEI curriculum units, Grade 12 Economics"
+  },
+  {
+   "units": "u8271-u8326",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix H: Service-Learning in the HSS Framework"
+  },
+  {
+   "units": "u8327-u8754",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Works Cited"
+  },
+  {
+   "units": "u8755-u8784",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Framework Resources (primary-source and essay links)"
+  }
+ ],
+ "issues": [
+  "u8077-u8270: Appendix G quoted standards and unit descriptions labeled backup per state guide (appendix G = backup) though they are grade-specific; grade assigned from section heading.",
+  "u8246-u8270: Grade 12 courses named 'Principles of American Democracy' and 'Economics' in headings (Appendix C uses 'Principles of Economics'); used heading names as written.",
+  "u8059-u8076: unit range begins mid Appendix G (page 806, EP&C Principle III concept c)."
+ ]
+}

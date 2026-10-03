@@ -1,0 +1,453 @@
+{
+ "state": "HI",
+ "file": "HCPSIII_AsianStudies_b80bc4.pdf",
+ "structure": "Single high school course (header u1: 'Grade/Course: Asian Studies / ACCN: CHR2100'). Each page is a series of small tables: a Strand/Standard table (Strand: Asian Studies; 'Standard N: ...'), then one table per benchmark with Topic, benchmark text (split across rows) and code (Benchmark SS.AS.n.m), then 'Sample Performance' (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice, columns C1-C4) restating the benchmark. Page breaks split some rubric rows.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u5",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies >  "
+  },
+  {
+   "units": "u6-u7",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Beginnings of Agricultual Societies "
+  },
+  {
+   "units": "u8-u9",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Beginnings of Agricultual Societies SS.AS.1.1"
+  },
+  {
+   "units": "u10-u11",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand the foundations of Asian societies > Beginnings of Agricultual Societies SS.AS.1.1: sample performance"
+  },
+  {
+   "units": "u12-u21",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u22",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Beginnings of Agricultual Societies "
+  },
+  {
+   "units": "u23-u24",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Classical Asian Societies "
+  },
+  {
+   "units": "u25-u26",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Classical Asian Societies SS.AS.1.2"
+  },
+  {
+   "units": "u27-u28",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand the foundations of Asian societies > Classical Asian Societies SS.AS.1.2: sample performance"
+  },
+  {
+   "units": "u29-u38",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u39-u40",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand the foundations of Asian societies > Classical Asian Societies SS.AS.1.2"
+  },
+  {
+   "units": "u41-u42",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi >  "
+  },
+  {
+   "units": "u43-u44",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion "
+  },
+  {
+   "units": "u45-u47",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion SS.AS.2.1"
+  },
+  {
+   "units": "u48-u49",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion SS.AS.2.1: sample performance"
+  },
+  {
+   "units": "u50-u63",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion "
+  },
+  {
+   "units": "u67-u68",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion SS.AS.2.2"
+  },
+  {
+   "units": "u69-u70",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion SS.AS.2.2: sample performance"
+  },
+  {
+   "units": "u71-u80",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u81",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Cross-cultural Expansion "
+  },
+  {
+   "units": "u82-u83",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Interaction and Isolation "
+  },
+  {
+   "units": "u84-u85",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Interaction and Isolation SS.AS.2.3"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Interaction and Isolation SS.AS.2.3: sample performance"
+  },
+  {
+   "units": "u88-u97",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u98-u99",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand the expansion and interactions of cultural regions in Asi > Interaction and Isolation SS.AS.2.3"
+  },
+  {
+   "units": "u100-u101",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism >  "
+  },
+  {
+   "units": "u102-u103",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism "
+  },
+  {
+   "units": "u104-u106",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism SS.AS.3.1"
+  },
+  {
+   "units": "u107-u108",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism SS.AS.3.1: sample performance"
+  },
+  {
+   "units": "u109-u118",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u119-u121",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism "
+  },
+  {
+   "units": "u122-u123",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism SS.AS.3.2"
+  },
+  {
+   "units": "u124-u125",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism SS.AS.3.2: sample performance"
+  },
+  {
+   "units": "u126-u135",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u136-u137",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand Asian reactions in the age of Western imperialism > Imperialism SS.AS.3.2"
+  },
+  {
+   "units": "u138-u140",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in >  "
+  },
+  {
+   "units": "u141-u142",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > War and Nationalism "
+  },
+  {
+   "units": "u143-u144",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > War and Nationalism SS.AS.4.1"
+  },
+  {
+   "units": "u145-u146",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > War and Nationalism SS.AS.4.1: sample performance"
+  },
+  {
+   "units": "u147-u156",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u157",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > War and Nationalism "
+  },
+  {
+   "units": "u158-u159",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > Revolution, Independence, and Nationalism "
+  },
+  {
+   "units": "u160-u162",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > Revolution, Independence, and Nationalism SS.AS.4.2"
+  },
+  {
+   "units": "u163-u164",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > Revolution, Independence, and Nationalism SS.AS.4.2: sample performance"
+  },
+  {
+   "units": "u165-u174",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u175-u176",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand the interactions of nationalism, wars, and revolutions in > Revolution, Independence, and Nationalism SS.AS.4.2"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world >  "
+  },
+  {
+   "units": "u179-u180",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Economic Growth "
+  },
+  {
+   "units": "u181-u182",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Economic Growth SS.AS.5.1"
+  },
+  {
+   "units": "u183-u184",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Economic Growth SS.AS.5.1: sample performance"
+  },
+  {
+   "units": "u185-u194",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u195",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Economic Growth "
+  },
+  {
+   "units": "u196-u197",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues "
+  },
+  {
+   "units": "u198-u199",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues SS.AS.5.2"
+  },
+  {
+   "units": "u200-u201",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues SS.AS.5.2: sample performance"
+  },
+  {
+   "units": "u202-u211",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u212-u214",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues "
+  },
+  {
+   "units": "u215-u216",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "standards",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues SS.AS.5.3"
+  },
+  {
+   "units": "u217-u218",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "examples",
+   "section": "Standard 5: Understand the roles of Asian nations in an interconnected world > Global Issues SS.AS.5.3: sample performance"
+  },
+  {
+   "units": "u219-u228",
+   "grades": "9-12",
+   "course": "Asian Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows (Advanced/Proficient/Partially Proficient/Novice) and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "u56-u63, u115-u118, u171-u174, u225-u228: rubric sentences split across page breaks, all backup.",
+  "Course has no stated grade; assigned 9-12."
+ ]
+}

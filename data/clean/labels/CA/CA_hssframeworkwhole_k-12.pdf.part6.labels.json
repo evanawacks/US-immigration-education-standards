@@ -1,0 +1,61 @@
+{
+ "state": "CA",
+ "file": "CA_hssframeworkwhole_k-12.pdf",
+ "range": "u6536-u6771",
+ "structure": "Part 6 covers the end of Appendix B 'Problems, Questions, and Themes in the History and Geography Classroom' (book pp. 659-691): the seven Key Themes (narrative essays each ending with a '* * * * *' summary), with running header/footer lines kept as units. Appendix B states the themes and sample questions are for grades five through eight and ten and eleven, so they are labeled examples with those grades. Appendix C (standards) begins right after u6771.",
+ "labels": [
+  {
+   "units": "u6536-u6546",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 1: Patterns of Population (continued)"
+  },
+  {
+   "units": "u6547-u6596",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 2: Uses and Abuses of Power"
+  },
+  {
+   "units": "u6597-u6628",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 3: Worlds of Exchange"
+  },
+  {
+   "units": "u6629-u6662",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 4: Haves and Have-Nots"
+  },
+  {
+   "units": "u6663-u6700",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 5: Expressing Identity"
+  },
+  {
+   "units": "u6701-u6733",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 6: Science, Technology, and the Environment"
+  },
+  {
+   "units": "u6734-u6771",
+   "grades": "5-8,10,11",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B > Key Theme 7: Spiritual Life and Moral Codes"
+  }
+ ],
+ "issues": [
+  "u6536-u6771: Appendix B themes are not tied to one grade; grades '5-8,10,11' taken from the intro statement (u6519) that sample questions pertain to those grades. The sample question lists mentioned in u6519 do not appear in this extracted range.",
+  "u6541,u6550,u6557 etc: page-footer lines (e.g. 'Appendix B | California History-Social Science Framework') and repeated page-header lines remain as units and are labeled with the surrounding section."
+ ]
+}

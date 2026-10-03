@@ -1,0 +1,391 @@
+{
+ "state": "HI",
+ "file": "HCPSIII_Geography_1b2aa3.pdf",
+ "structure": "Single high school course. Header u1 gives 'Grade/Course: Geography / ACCN: No ACCN'. Pages are series of small tables: Strand (Geography) + Standard heading: standard number only ('1'..'5') with no title; per benchmark a table with Topic, benchmark text and code (benchmark code SS.12G.n.m in a separate row), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u5",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u6-u8",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction "
+  },
+  {
+   "units": "u9-u10",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction SS.12G.1.1"
+  },
+  {
+   "units": "u11-u12",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Spatial Organization, Dynamics, and Interaction SS.12G.1.1: sample performance"
+  },
+  {
+   "units": "u13-u22",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u23-u26",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction "
+  },
+  {
+   "units": "u27-u28",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction SS.12G.1.2"
+  },
+  {
+   "units": "u29-u30",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Spatial Organization, Dynamics, and Interaction SS.12G.1.2: sample performance"
+  },
+  {
+   "units": "u31-u40",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u41-u43",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction SS.12G.1.2"
+  },
+  {
+   "units": "u44",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Spatial Organization, Dynamics, and Interaction "
+  },
+  {
+   "units": "u45-u48",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions "
+  },
+  {
+   "units": "u49-u51",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions SS.12G.2.1"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Nature of Regions SS.12G.2.1: sample performance"
+  },
+  {
+   "units": "u54-u63",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u64-u68",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions "
+  },
+  {
+   "units": "u69-u70",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions SS.12G.2.2"
+  },
+  {
+   "units": "u71-u72",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Nature of Regions SS.12G.2.2: sample performance"
+  },
+  {
+   "units": "u73-u82",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u83-u85",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions SS.12G.2.2"
+  },
+  {
+   "units": "u86",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Nature of Regions "
+  },
+  {
+   "units": "u87-u90",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Physical Systems "
+  },
+  {
+   "units": "u91-u92",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Physical Systems SS.12G.3.1"
+  },
+  {
+   "units": "u93-u94",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Physical Systems SS.12G.3.1: sample performance"
+  },
+  {
+   "units": "u95-u104",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u105-u107",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Physical Systems SS.12G.3.1"
+  },
+  {
+   "units": "u108",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Physical Systems "
+  },
+  {
+   "units": "u109-u112",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems "
+  },
+  {
+   "units": "u113-u114",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems SS.12G.4.1"
+  },
+  {
+   "units": "u115-u116",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Human Systems SS.12G.4.1: sample performance"
+  },
+  {
+   "units": "u117-u126",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u127-u131",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems "
+  },
+  {
+   "units": "u132-u133",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems SS.12G.4.2"
+  },
+  {
+   "units": "u134-u135",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Human Systems SS.12G.4.2: sample performance"
+  },
+  {
+   "units": "u136-u145",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u146-u150",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems "
+  },
+  {
+   "units": "u151-u152",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems SS.12G.4.3"
+  },
+  {
+   "units": "u153-u154",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Human Systems SS.12G.4.3: sample performance"
+  },
+  {
+   "units": "u155-u164",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u165-u167",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems SS.12G.4.3"
+  },
+  {
+   "units": "u168",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Human Systems "
+  },
+  {
+   "units": "u169-u171",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences "
+  },
+  {
+   "units": "u172-u173",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences SS.12G.5.1"
+  },
+  {
+   "units": "u174-u175",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Interaction and Influences SS.12G.5.1: sample performance"
+  },
+  {
+   "units": "u176-u185",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u186-u190",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences "
+  },
+  {
+   "units": "u191-u193",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences SS.12G.5.2"
+  },
+  {
+   "units": "u194-u195",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Interaction and Influences SS.12G.5.2: sample performance"
+  },
+  {
+   "units": "u196-u205",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u206-u210",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences "
+  },
+  {
+   "units": "u211-u213",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": " > Interaction and Influences SS.12G.5.3"
+  },
+  {
+   "units": "u214-u215",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": " > Interaction and Influences SS.12G.5.3: sample performance"
+  },
+  {
+   "units": "u216-u229",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "Standard headings consist only of a bare number (u4, u43, u85, u107, u167); no standard title text in the document.",
+  "u222-u229: rubric row split across page break (backup)."
+ ]
+}

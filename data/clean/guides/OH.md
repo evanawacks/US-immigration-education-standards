@@ -24,3 +24,5 @@ Known structure (from the corpus survey; verify against the document):
 - Grade groupings found: [0],[1],[2],[3],[4],[5],[6],[7],[8],[9-12]
 - Topics/courses: History, Geography, Government, Economics (strands); HS courses: American History, American Government, Modern World History, World Geography, Contemporary World Issues
 - Notes: none
+
+Specific hints: the single 47-page PDF is Ohio's complete K-12 standards. K-8: each grade has a theme, strands (History, Geography, Government, Economics), topics and numbered content statements → standards; "Grade Theme Descriptions K-8"/"Topic Descriptions" are examples for the grade(s) they describe. High school courses: American History, American Government, Modern World History, Contemporary World Issues, World Geography, Economics and Financial Literacy, etc. → course rows 9-12 (course themes/topic descriptions = examples).

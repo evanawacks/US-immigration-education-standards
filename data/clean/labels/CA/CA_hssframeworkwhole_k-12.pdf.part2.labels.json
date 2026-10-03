@@ -1,0 +1,1986 @@
+{
+ "state": "CA",
+ "file": "CA_hssframeworkwhole_k-12.pdf",
+ "range": "u1273-u2373",
+ "structure": "California History-Social Science Framework (2016), 855 pp. Part covers Ch 8 end (Grade Five, p.136-139), Ch 9 Instructional Practice Grades 6-8, Ch 10 Grade Six World History and Geography: Ancient Civilizations, Ch 11 Grade Seven Medieval and Early Modern Times, and Ch 12 start (Grade Eight US History, p.250-262). Each grade chapter opens with a title and a bulleted list of guiding questions (extracted with stray 'n'/'nn' bullet glyph fragments), then content narrative organized by unit headings (units with guiding questions followed by narrative); quoted standards text is not reproduced here (formal standards are in Appendix C). Classroom Example boxes begin with a heading 'Grade X Classroom Example: ...', continue after page breaks with 'Example (continued)', and end with a line 'CA HSS Content Standard: ... CA Analysis Skills ... CA CCSS ... CA ELD ...'. Grade is given by the chapter, the running header 'Grade Five/Six/Seven/Eight' (extracted as a unit at the top of every page) and the page-marker running header 'Chapter N'. Chapter 9 is a grades 6-8 instructional-practice chapter (disciplinary skills, literacy, ELD, research) with no content standards.",
+ "labels": [
+  {
+   "units": "u1273",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Five)"
+  },
+  {
+   "units": "u1274-u1276",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 8 Grade Five > Life in the Young Republic (continued)"
+  },
+  {
+   "units": "u1277-u1282",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 8 Grade Five > The New Nation's Westward Expansion"
+  },
+  {
+   "units": "u1285",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Five)"
+  },
+  {
+   "units": "u1286-u1289",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 8 Grade Five > The New Nation's Westward Expansion"
+  },
+  {
+   "units": "u1292",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Five)"
+  },
+  {
+   "units": "u1293-u1296",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 8 Grade Five > The New Nation's Westward Expansion"
+  },
+  {
+   "units": "u1299",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Five)"
+  },
+  {
+   "units": "u1300-u1301",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 8 Grade Five > The New Nation's Westward Expansion"
+  },
+  {
+   "units": "u1304",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1305-u1307",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 Instructional Practice 6-8 > Introduction"
+  },
+  {
+   "units": "u1310",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1311-u1312",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Disciplinary Thinking and Analysis Skills"
+  },
+  {
+   "units": "u1313-u1318",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Civics and Government skills"
+  },
+  {
+   "units": "u1321",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1322",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Civics and Government skills"
+  },
+  {
+   "units": "u1323-u1324",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Economics skills"
+  },
+  {
+   "units": "u1325-u1326",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Geography skills"
+  },
+  {
+   "units": "u1327-u1328",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > History skills"
+  },
+  {
+   "units": "u1331",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1332-u1333",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > History skills"
+  },
+  {
+   "units": "u1334-u1336",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Literacy Skills"
+  },
+  {
+   "units": "u1339",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1340-u1350",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > English Language Development"
+  },
+  {
+   "units": "u1353",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1354-u1358",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Reading"
+  },
+  {
+   "units": "u1360",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1361-u1364",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Writing"
+  },
+  {
+   "units": "u1367",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grades Six–Eight)"
+  },
+  {
+   "units": "u1368-u1369",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Ch 9 > Research"
+  },
+  {
+   "units": "u1372",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1373-u1388",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 Grade Six > chapter title and guiding questions"
+  },
+  {
+   "units": "u1391",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1392-u1394",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 Grade Six > chapter title and guiding questions"
+  },
+  {
+   "units": "u1395-u1407",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 Grade Six > course overview and themes"
+  },
+  {
+   "units": "u1410",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1411-u1413",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 Grade Six > course overview and themes"
+  },
+  {
+   "units": "u1414-u1417",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Beginnings to 4000 BCE"
+  },
+  {
+   "units": "u1420",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1421-u1424",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Beginnings to 4000 BCE"
+  },
+  {
+   "units": "u1427",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1428-u1430",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Beginnings to 4000 BCE"
+  },
+  {
+   "units": "u1433",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1434-u1436",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Beginnings to 4000 BCE"
+  },
+  {
+   "units": "u1439",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1440-u1443",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > 4000-1000 BCE: Kingdoms and Innovations"
+  },
+  {
+   "units": "u1446",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1447",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > 4000-1000 BCE: Kingdoms and Innovations"
+  },
+  {
+   "units": "u1448-u1452",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > 1000 BCE-300 CE: An Age of Empires and Interchange"
+  },
+  {
+   "units": "u1455",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1456",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Regional units intro"
+  },
+  {
+   "units": "u1457-u1464",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Humankind and the Development of Human Societies"
+  },
+  {
+   "units": "u1467",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1468-u1471",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Humankind and the Development of Human Societies"
+  },
+  {
+   "units": "u1473",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1474-u1478",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Humankind and the Development of Human Societies"
+  },
+  {
+   "units": "u1481",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1482-u1486",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Humankind and the Development of Human Societies"
+  },
+  {
+   "units": "u1489",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1490-u1500",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush"
+  },
+  {
+   "units": "u1503",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1504-u1507",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush"
+  },
+  {
+   "units": "u1510",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1511-u1514",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush"
+  },
+  {
+   "units": "u1517",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1518",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush"
+  },
+  {
+   "units": "u1519-u1524",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Classroom Example: Hammurabi's Code"
+  },
+  {
+   "units": "u1527",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1528-u1530",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Classroom Example: Hammurabi's Code"
+  },
+  {
+   "units": "u1531-u1532",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush (continued)"
+  },
+  {
+   "units": "u1535",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1536-u1539",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush (continued)"
+  },
+  {
+   "units": "u1542",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1543-u1547",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush (continued)"
+  },
+  {
+   "units": "u1550",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1551-u1554",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Early Civilizations of Mesopotamia, Egypt, and Kush (continued)"
+  },
+  {
+   "units": "u1555-u1560",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Ancient Israelites (Hebrews)"
+  },
+  {
+   "units": "u1563",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1564-u1566",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Ancient Israelites (Hebrews)"
+  },
+  {
+   "units": "u1569",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1570-u1572",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Ancient Israelites (Hebrews)"
+  },
+  {
+   "units": "u1573-u1577",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1580",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1581-u1589",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1592",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1593-u1597",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1600",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1601-u1604",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1607",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1608-u1611",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1614",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1615",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Ancient Greece"
+  },
+  {
+   "units": "u1616-u1624",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1627",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1628-u1631",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1634",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1635-u1639",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1642",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1643-u1646",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1649",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1650-u1652",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1655",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1656-u1659",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of India"
+  },
+  {
+   "units": "u1661",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1662-u1672",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of China"
+  },
+  {
+   "units": "u1675",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1676-u1678",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of China"
+  },
+  {
+   "units": "u1679-u1680",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Classroom Example: The Impact of Confucianism"
+  },
+  {
+   "units": "u1682",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1683-u1686",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Classroom Example: The Impact of Confucianism"
+  },
+  {
+   "units": "u1689",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1690-u1692",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > Classroom Example: The Impact of Confucianism"
+  },
+  {
+   "units": "u1693-u1694",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of China (continued)"
+  },
+  {
+   "units": "u1696",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1697-u1701",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of China (continued)"
+  },
+  {
+   "units": "u1704",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1705-u1706",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Early Civilizations of China (continued)"
+  },
+  {
+   "units": "u1707-u1715",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1718",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1719-u1723",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1726",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1727-u1730",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1733",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1734-u1736",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1739",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1740-u1744",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1747",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Six)"
+  },
+  {
+   "units": "u1748-u1749",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 10 > The Development of Rome"
+  },
+  {
+   "units": "u1752",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Blank page note"
+  },
+  {
+   "units": "u1753",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1754-u1769",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 Grade Seven > chapter title and guiding questions"
+  },
+  {
+   "units": "u1772",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1773-u1782",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 Grade Seven > chapter title and guiding questions"
+  },
+  {
+   "units": "u1783-u1785",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > course overview and unit list"
+  },
+  {
+   "units": "u1788",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1789-u1800",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > course overview and unit list"
+  },
+  {
+   "units": "u1803",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1804-u1814",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > course overview and unit list"
+  },
+  {
+   "units": "u1817",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1818",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > course overview and unit list"
+  },
+  {
+   "units": "u1819-u1823",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The World in 300 CE"
+  },
+  {
+   "units": "u1826",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1827-u1832",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The World in 300 CE"
+  },
+  {
+   "units": "u1835",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1836",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The World in 300 CE"
+  },
+  {
+   "units": "u1837-u1849",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200"
+  },
+  {
+   "units": "u1852",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1853-u1855",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200"
+  },
+  {
+   "units": "u1858",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1859-u1861",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200"
+  },
+  {
+   "units": "u1864",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1865-u1869",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Classroom Example: The Roman Empire"
+  },
+  {
+   "units": "u1870",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1872",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1873-u1876",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1879",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1880-u1883",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1886",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1887-u1891",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1894",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1895-u1899",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1902",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1903-u1907",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1910",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1911-u1914",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Rome and Christendom, 300 CE-1200 (continued)"
+  },
+  {
+   "units": "u1916",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1917-u1930",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1933",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1934-u1937",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1939",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1940-u1943",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1946",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1947-u1949",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1952",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1953-u1956",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1959",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1960-u1963",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1966",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1967-u1971",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1974",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1975",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Southwestern Asia, 300-1200: Persia and the World of Islam"
+  },
+  {
+   "units": "u1976-u1984",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > South Asia, 300-1200"
+  },
+  {
+   "units": "u1987",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1988-u1992",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > South Asia, 300-1200"
+  },
+  {
+   "units": "u1995",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u1996-u2000",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > South Asia, 300-1200"
+  },
+  {
+   "units": "u2003",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2004",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > South Asia, 300-1200"
+  },
+  {
+   "units": "u2005-u2015",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300: China and Japan"
+  },
+  {
+   "units": "u2018",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2019-u2023",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300: China and Japan"
+  },
+  {
+   "units": "u2026",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2027-u2030",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300: China and Japan"
+  },
+  {
+   "units": "u2033",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2034-u2039",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Classroom Example: Quanzhou, Site of Encounter"
+  },
+  {
+   "units": "u2041",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2042-u2046",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Classroom Example: Quanzhou, Site of Encounter"
+  },
+  {
+   "units": "u2047",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300 (continued)"
+  },
+  {
+   "units": "u2050",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2051-u2054",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300 (continued)"
+  },
+  {
+   "units": "u2056",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2057-u2060",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300 (continued)"
+  },
+  {
+   "units": "u2063",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2064-u2066",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > East Asia, 300-1300 (continued)"
+  },
+  {
+   "units": "u2067-u2074",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Americas, 300-1490"
+  },
+  {
+   "units": "u2076",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2077-u2080",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Americas, 300-1490"
+  },
+  {
+   "units": "u2083",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2084-u2089",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Americas, 300-1490"
+  },
+  {
+   "units": "u2092",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2093-u2095",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Americas, 300-1490"
+  },
+  {
+   "units": "u2098",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2099-u2108",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > West Africa, 900-1400"
+  },
+  {
+   "units": "u2111",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2112-u2116",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > West Africa, 900-1400"
+  },
+  {
+   "units": "u2119",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2120-u2122",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > West Africa, 900-1400"
+  },
+  {
+   "units": "u2123-u2128",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2131",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2132-u2135",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2138",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2139-u2141",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2144",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2145-u2149",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2152",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2153-u2157",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2160",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2161-u2165",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Sites of Encounter in the Medieval World, 1150-1490"
+  },
+  {
+   "units": "u2168",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2169-u2182",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750"
+  },
+  {
+   "units": "u2185",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2186-u2190",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750"
+  },
+  {
+   "units": "u2193",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2194-u2197",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750"
+  },
+  {
+   "units": "u2199",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2200-u2201",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750"
+  },
+  {
+   "units": "u2202-u2204",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Classroom Example: The Spanish Conquest of Mexico"
+  },
+  {
+   "units": "u2207",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2208-u2213",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Classroom Example: The Spanish Conquest of Mexico"
+  },
+  {
+   "units": "u2215",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2216-u2219",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750 (continued)"
+  },
+  {
+   "units": "u2222",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2223-u2224",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > Global Convergence, 1450-1750 (continued)"
+  },
+  {
+   "units": "u2225-u2233",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2236",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2237-u2239",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2242",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2243-u2249",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2252",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2253-u2258",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2261",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2262-u2266",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2269",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2270-u2273",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2276",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Seven)"
+  },
+  {
+   "units": "u2277-u2279",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 11 > The Impact of Ideas, 1500-1750"
+  },
+  {
+   "units": "u2282",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2283-u2291",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 Grade Eight > chapter title and guiding questions"
+  },
+  {
+   "units": "u2294",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2295-u2296",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 Grade Eight > chapter title and guiding questions"
+  },
+  {
+   "units": "u2297-u2300",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > The Development of American Constitutional Democracy"
+  },
+  {
+   "units": "u2301-u2302",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Roots of the American Revolution"
+  },
+  {
+   "units": "u2305",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2306-u2310",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Roots of the American Revolution"
+  },
+  {
+   "units": "u2313",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2314",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Roots of the American Revolution"
+  },
+  {
+   "units": "u2315-u2320",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Principles of the American Revolution"
+  },
+  {
+   "units": "u2322",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2323",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Principles of the American Revolution"
+  },
+  {
+   "units": "u2324-u2328",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Legacies of the American Revolution"
+  },
+  {
+   "units": "u2331",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2332-u2337",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Legacies of the American Revolution"
+  },
+  {
+   "units": "u2340",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2341-u2344",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Legacies of the American Revolution"
+  },
+  {
+   "units": "u2347",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2348-u2349",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Legacies of the American Revolution"
+  },
+  {
+   "units": "u2350-u2357",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Envisioning a New America"
+  },
+  {
+   "units": "u2360",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2361-u2363",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Envisioning a New America"
+  },
+  {
+   "units": "u2366",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated page header (Grade Eight)"
+  },
+  {
+   "units": "u2367-u2371",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Ch 12 > Envisioning a New America"
+  }
+ ],
+ "issues": [
+  "Repeated per-page header units ('Grade Five', 'Grade Six', 'Grade Seven', 'Grade Eight', 'Grades Six-Eight', e.g. u1273, u1285, u1304, u1310, u1372, u1753, u2282) were labeled backup with the chapter's grade as running-header duplicates; no formal grade/course title standard exists in this chapter text.",
+  "Chapter title and opening guiding-question units (u1372-u1394, u1753-u1782, u2282-u2290) labeled examples (chapter content narrative/guiding questions) with the chapter grade.",
+  "u1304-u1369: Chapter 9 (Instructional Practice Grades 6-8) labeled backup per state guide; includes numbered civics skills u1316-u1318, u1322 and descriptions of disciplinary skills (civics, economics, geography, history) that could be argued to be skills content for grades 6-8.",
+  "u1372-u1749 and u1753-u2279 and u2282-u2371: grade-chapter narrative labeled examples throughout; purely pedagogical passages inside narrative (e.g. literacy activity descriptions u1603-u1604, u1890, u2204-u2212, u2038-u2044) are interleaved with content and were kept as examples because they are tied to specific content or classroom examples.",
+  "Stray 'n'/'nn' units (e.g. u1375, u1384, u1393, u1756, u1766, u1774) are bullet glyph extraction artifacts of guiding-question lists; wrapped lines of guiding questions split across units (e.g. u1278-u1281, u1397-u1407) are in document order.",
+  "u1752: 'This page is left blank intentionally' between Ch 10 and Ch 11 labeled backup, grades all.",
+  "u1955 (x=369): 'History Blueprint' sidebar text interleaved in the middle of the page-212 narrative (u1954 and u1956 continue each other); labeled examples with the rest of the page.",
+  "Unit IDs u2372-u2373 do not exist in the view (furniture); range ends at u2371 (end of page 261 text), which is in the middle of the Grade Eight 'Divergent Paths' unit narrative, continued in the next part.",
+  "u1273-u1276 continue the Grade Five 'Life in the Young Republic' section begun before this range; u2374 onward is not labeled here."
+ ]
+}

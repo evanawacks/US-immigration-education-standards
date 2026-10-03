@@ -1,0 +1,4206 @@
+{
+ "state": "NE",
+ "file": "Nebraska-Social-Studies-Standards-Final-11-2019_bc9931.pdf",
+ "structure": "Nebraska Social Studies Standards (approved Nov 8, 2019). Front matter: contents and 'Standards Structure' (u6-u30). Then one section per grade K-5 (titled 'Kindergarten', 'Grade 1'...), a Middle School Overview (intro + 3-column 6th/7th/8th summary table), Grades 6, 7, 8 sections, and a high school band (HS = 9-12) divided into High School Civics, Economics, Geography and History. Each grade section opens with a 'Grade Level Summary and Theme' narrative, then four disciplines (Civics, Economics, Geography, History). Within a discipline are big ideas (e.g. Forms and Functions of Government, Civic Participation; Economic Decision Making, Financial Literacy, Exchange and Markets, National Economy, Global Economy; Location and Place, Regions, Human-Environment Interaction, Movement, Geospatial Skills and Geo-literacy; Change/Continuity/Context, Multiple Perspectives, Historical Analysis and Interpretation, Historical Inquiry and Research). Standards are coded 'SS G.D.S' (grade.discipline 1-4.standard, e.g. SS 3.1.1; K uses K.1.1; HS uses HS.1.1) with indicators 'SS G.D.S.a' (e.g. SS 3.1.1.a); HS History standards carry '(US)' or '(WLD)' tags. Indicators are followed by 'For example: ...' lists (examples). Many tables are extracted as fragmented cells. Grades come from section headings and code prefixes.",
+ "labels": [
+  {
+   "units": "u6-u30",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: contents, standards structure"
+  },
+  {
+   "units": "u34",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title"
+  },
+  {
+   "units": "u35",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten level summary and theme"
+  },
+  {
+   "units": "u36-u37",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics > SS K.1.1"
+  },
+  {
+   "units": "u38",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics > SS K.1.1"
+  },
+  {
+   "units": "u39",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics > SS K.1.1"
+  },
+  {
+   "units": "u40",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics > SS K.1.1"
+  },
+  {
+   "units": "u41-u42",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u43",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u44",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u45",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u46",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u47",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics > SS K.1.2"
+  },
+  {
+   "units": "u48-u50",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics > SS K.2.1"
+  },
+  {
+   "units": "u54-u55",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics > SS K.2.2"
+  },
+  {
+   "units": "u56",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics > SS K.2.3"
+  },
+  {
+   "units": "u57-u59",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.1"
+  },
+  {
+   "units": "u60",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.1"
+  },
+  {
+   "units": "u61-u62",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.1"
+  },
+  {
+   "units": "u63-u64",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.2"
+  },
+  {
+   "units": "u65",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.2"
+  },
+  {
+   "units": "u66",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.2"
+  },
+  {
+   "units": "u67",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.2"
+  },
+  {
+   "units": "u71-u73",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.3"
+  },
+  {
+   "units": "u74",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.3"
+  },
+  {
+   "units": "u75-u76",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.4"
+  },
+  {
+   "units": "u77",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.4"
+  },
+  {
+   "units": "u78",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.4"
+  },
+  {
+   "units": "u79",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.4"
+  },
+  {
+   "units": "u80-u81",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography > SS K.3.5"
+  },
+  {
+   "units": "u82",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography > SS K.3.5"
+  },
+  {
+   "units": "u83-u87",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.1"
+  },
+  {
+   "units": "u88",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History > SS K.4.1"
+  },
+  {
+   "units": "u89-u90",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.1"
+  },
+  {
+   "units": "u94-u95",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.2"
+  },
+  {
+   "units": "u96-u98",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.3"
+  },
+  {
+   "units": "u99",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History > SS K.4.3"
+  },
+  {
+   "units": "u100-u102",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.3"
+  },
+  {
+   "units": "u103",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History > SS K.4.3"
+  },
+  {
+   "units": "u104-u106",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.4"
+  },
+  {
+   "units": "u107-u108",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History > SS K.4.4"
+  },
+  {
+   "units": "u109-u110",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History > SS K.4.4"
+  },
+  {
+   "units": "u111",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History > SS K.4.4"
+  },
+  {
+   "units": "u115",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 title"
+  },
+  {
+   "units": "u116",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 level summary and theme"
+  },
+  {
+   "units": "u117-u119",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics > SS 1.1.1"
+  },
+  {
+   "units": "u120-u121",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics > SS 1.1.2"
+  },
+  {
+   "units": "u122",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics > SS 1.1.2"
+  },
+  {
+   "units": "u123-u125",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics > SS 1.1.2"
+  },
+  {
+   "units": "u126",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics > SS 1.1.2"
+  },
+  {
+   "units": "u130-u132",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics > SS 1.2.1"
+  },
+  {
+   "units": "u133",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics > SS 1.2.1"
+  },
+  {
+   "units": "u134-u135",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics > SS 1.2.2"
+  },
+  {
+   "units": "u136-u137",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics > SS 1.2.3"
+  },
+  {
+   "units": "u138",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics > SS 1.2.3"
+  },
+  {
+   "units": "u139",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics > SS 1.2.4"
+  },
+  {
+   "units": "u140-u144",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.1"
+  },
+  {
+   "units": "u148-u151",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.2"
+  },
+  {
+   "units": "u152",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.2"
+  },
+  {
+   "units": "u153-u154",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.3"
+  },
+  {
+   "units": "u155",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.3"
+  },
+  {
+   "units": "u156-u157",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.3"
+  },
+  {
+   "units": "u158",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.3"
+  },
+  {
+   "units": "u159-u160",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.4"
+  },
+  {
+   "units": "u161",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.4"
+  },
+  {
+   "units": "u162",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.4"
+  },
+  {
+   "units": "u163",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.4"
+  },
+  {
+   "units": "u164-u165",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography > SS 1.3.5"
+  },
+  {
+   "units": "u166",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography > SS 1.3.5"
+  },
+  {
+   "units": "u170-u177",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.1"
+  },
+  {
+   "units": "u178",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.1"
+  },
+  {
+   "units": "u179-u181",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.2"
+  },
+  {
+   "units": "u182",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.2"
+  },
+  {
+   "units": "u183-u185",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u186-u187",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u188-u189",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u190",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u191",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u192",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.3"
+  },
+  {
+   "units": "u193-u195",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u196-u197",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u198-u199",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u200-u201",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u202",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u203",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History > SS 1.4.4"
+  },
+  {
+   "units": "u207",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 title"
+  },
+  {
+   "units": "u208",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 level summary and theme"
+  },
+  {
+   "units": "u209-u211",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics > SS 2.1.1"
+  },
+  {
+   "units": "u212",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics > SS 2.1.1"
+  },
+  {
+   "units": "u213-u221",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics > SS 2.1.2"
+  },
+  {
+   "units": "u222",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics > SS 2.1.2"
+  },
+  {
+   "units": "u223-u225",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics > SS 2.2.1"
+  },
+  {
+   "units": "u226",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics > SS 2.2.1"
+  },
+  {
+   "units": "u227-u228",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics > SS 2.2.2"
+  },
+  {
+   "units": "u229",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics > SS 2.2.2"
+  },
+  {
+   "units": "u230-u232",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics > SS 2.2.3"
+  },
+  {
+   "units": "u233-u236",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics > SS 2.2.4"
+  },
+  {
+   "units": "u237",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics > SS 2.2.5"
+  },
+  {
+   "units": "u241-u244",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.1"
+  },
+  {
+   "units": "u245",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.1"
+  },
+  {
+   "units": "u246-u247",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.1"
+  },
+  {
+   "units": "u248",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.1"
+  },
+  {
+   "units": "u249-u252",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.2"
+  },
+  {
+   "units": "u253-u256",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.3"
+  },
+  {
+   "units": "u257",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.3"
+  },
+  {
+   "units": "u261",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.3"
+  },
+  {
+   "units": "u262",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.3"
+  },
+  {
+   "units": "u263-u265",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.4"
+  },
+  {
+   "units": "u266",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.4"
+  },
+  {
+   "units": "u267-u268",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography > SS 2.3.5"
+  },
+  {
+   "units": "u269",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography > SS 2.3.5"
+  },
+  {
+   "units": "u270-u277",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History > SS 2.4.1"
+  },
+  {
+   "units": "u278",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History > SS 2.4.1"
+  },
+  {
+   "units": "u279-u282",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History > SS 2.4.2"
+  },
+  {
+   "units": "u283",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History > SS 2.4.2"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History > SS 2.4.3"
+  },
+  {
+   "units": "u289",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History > SS 2.4.3"
+  },
+  {
+   "units": "u290-u294",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History > SS 2.4.4"
+  },
+  {
+   "units": "u295",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History > SS 2.4.4"
+  },
+  {
+   "units": "u296-u297",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History > SS 2.4.4"
+  },
+  {
+   "units": "u301",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 title"
+  },
+  {
+   "units": "u302",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 level summary and theme"
+  },
+  {
+   "units": "u303-u306",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics > SS 3.1.1"
+  },
+  {
+   "units": "u307-u309",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics > SS 3.1.2"
+  },
+  {
+   "units": "u310",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics > SS 3.1.2"
+  },
+  {
+   "units": "u314",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics > SS 3.1.2"
+  },
+  {
+   "units": "u315",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics > SS 3.1.2"
+  },
+  {
+   "units": "u316-u318",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics > SS 3.1.2"
+  },
+  {
+   "units": "u319-u322",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics > SS 3.2.1"
+  },
+  {
+   "units": "u323",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics > SS 3.2.1"
+  },
+  {
+   "units": "u324-u325",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics > SS 3.2.2"
+  },
+  {
+   "units": "u326-u327",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics > SS 3.2.3"
+  },
+  {
+   "units": "u331-u332",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics > SS 3.2.4"
+  },
+  {
+   "units": "u333",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics > SS 3.2.4"
+  },
+  {
+   "units": "u334",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics > SS 3.2.5"
+  },
+  {
+   "units": "u335-u340",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.1"
+  },
+  {
+   "units": "u341-u343",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.2"
+  },
+  {
+   "units": "u344",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.2"
+  },
+  {
+   "units": "u348",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.2"
+  },
+  {
+   "units": "u349",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.2"
+  },
+  {
+   "units": "u350-u351",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u352",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u353-u354",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u355",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u356",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u357",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.3"
+  },
+  {
+   "units": "u358-u359",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.4"
+  },
+  {
+   "units": "u360",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.4"
+  },
+  {
+   "units": "u361",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.4"
+  },
+  {
+   "units": "u362",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.4"
+  },
+  {
+   "units": "u363-u364",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography > SS 3.3.5"
+  },
+  {
+   "units": "u365",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography > SS 3.3.5"
+  },
+  {
+   "units": "u366-u372",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.1"
+  },
+  {
+   "units": "u373",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History > SS 3.4.1"
+  },
+  {
+   "units": "u377",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.1"
+  },
+  {
+   "units": "u378-u380",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.2"
+  },
+  {
+   "units": "u381",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History > SS 3.4.2"
+  },
+  {
+   "units": "u382-u383",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.2"
+  },
+  {
+   "units": "u384",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History > SS 3.4.2"
+  },
+  {
+   "units": "u385-u388",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.3"
+  },
+  {
+   "units": "u389-u390",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History > SS 3.4.4"
+  },
+  {
+   "units": "u394",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 title"
+  },
+  {
+   "units": "u395",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 level summary and theme"
+  },
+  {
+   "units": "u396-u399",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u400",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u401",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u402",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u403",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u404",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u405",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u406",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.1"
+  },
+  {
+   "units": "u407-u408",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.2"
+  },
+  {
+   "units": "u409",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.2"
+  },
+  {
+   "units": "u413-u414",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.2"
+  },
+  {
+   "units": "u415",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics > SS 4.1.2"
+  },
+  {
+   "units": "u416-u418",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics > SS 4.1.2"
+  },
+  {
+   "units": "u419-u421",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.1"
+  },
+  {
+   "units": "u422",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics > SS 4.2.1"
+  },
+  {
+   "units": "u423",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.1"
+  },
+  {
+   "units": "u424",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics > SS 4.2.1"
+  },
+  {
+   "units": "u428-u429",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.2"
+  },
+  {
+   "units": "u430",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics > SS 4.2.2"
+  },
+  {
+   "units": "u431-u432",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.3"
+  },
+  {
+   "units": "u433",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics > SS 4.2.3"
+  },
+  {
+   "units": "u434-u436",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.4"
+  },
+  {
+   "units": "u437",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics > SS 4.2.4"
+  },
+  {
+   "units": "u438",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics > SS 4.2.5"
+  },
+  {
+   "units": "u439-u441",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u442",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u446",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u447",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u448-u449",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u450",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.1"
+  },
+  {
+   "units": "u451-u453",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.2"
+  },
+  {
+   "units": "u454",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.2"
+  },
+  {
+   "units": "u455-u458",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.3"
+  },
+  {
+   "units": "u459",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.3"
+  },
+  {
+   "units": "u463",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.3"
+  },
+  {
+   "units": "u464",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.3"
+  },
+  {
+   "units": "u465-u467",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.4"
+  },
+  {
+   "units": "u468",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.4"
+  },
+  {
+   "units": "u469-u471",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography > SS 4.3.5"
+  },
+  {
+   "units": "u472",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography > SS 4.3.5"
+  },
+  {
+   "units": "u473-u477",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.1"
+  },
+  {
+   "units": "u478",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.1"
+  },
+  {
+   "units": "u479-u484",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.2"
+  },
+  {
+   "units": "u485-u486",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.2"
+  },
+  {
+   "units": "u490",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.2"
+  },
+  {
+   "units": "u491-u493",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.3"
+  },
+  {
+   "units": "u494",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.3"
+  },
+  {
+   "units": "u495-u497",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u498",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u499-u500",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u501",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u502-u503",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u504",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History > SS 4.4.4"
+  },
+  {
+   "units": "u508",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 title"
+  },
+  {
+   "units": "u509",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 level summary and theme"
+  },
+  {
+   "units": "u510-u513",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.1"
+  },
+  {
+   "units": "u514",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics > SS 5.1.1"
+  },
+  {
+   "units": "u515",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.1"
+  },
+  {
+   "units": "u516",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics > SS 5.1.1"
+  },
+  {
+   "units": "u517-u518",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.1"
+  },
+  {
+   "units": "u522-u524",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u525",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u526-u527",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u528",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u529-u530",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u531",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics > SS 5.1.2"
+  },
+  {
+   "units": "u532",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.1"
+  },
+  {
+   "units": "u533",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.2"
+  },
+  {
+   "units": "u537-u538",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.3"
+  },
+  {
+   "units": "u539-u541",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.4"
+  },
+  {
+   "units": "u542",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics > SS 5.2.4"
+  },
+  {
+   "units": "u543-u546",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.5"
+  },
+  {
+   "units": "u547",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics > SS 5.2.5"
+  },
+  {
+   "units": "u548-u549",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics > SS 5.2.6"
+  },
+  {
+   "units": "u550",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics > SS 5.2.6"
+  },
+  {
+   "units": "u554-u556",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.1"
+  },
+  {
+   "units": "u557",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.1"
+  },
+  {
+   "units": "u558-u559",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.1"
+  },
+  {
+   "units": "u560",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.1"
+  },
+  {
+   "units": "u561-u563",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.2"
+  },
+  {
+   "units": "u564",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.2"
+  },
+  {
+   "units": "u565-u567",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.3"
+  },
+  {
+   "units": "u568",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.3"
+  },
+  {
+   "units": "u572",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.3"
+  },
+  {
+   "units": "u573",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.3"
+  },
+  {
+   "units": "u574-u577",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.4"
+  },
+  {
+   "units": "u578",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.4"
+  },
+  {
+   "units": "u579-u581",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography > SS 5.3.5"
+  },
+  {
+   "units": "u582",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography > SS 5.3.5"
+  },
+  {
+   "units": "u586-u588",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.1"
+  },
+  {
+   "units": "u589",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.1"
+  },
+  {
+   "units": "u590-u595",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.2"
+  },
+  {
+   "units": "u596-u597",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.2"
+  },
+  {
+   "units": "u598-u599",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.2"
+  },
+  {
+   "units": "u600",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.2"
+  },
+  {
+   "units": "u601-u606",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.3"
+  },
+  {
+   "units": "u607-u611",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.3"
+  },
+  {
+   "units": "u612-u616",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.4"
+  },
+  {
+   "units": "u617",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.4"
+  },
+  {
+   "units": "u621",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.4"
+  },
+  {
+   "units": "u622",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History > SS 5.4.4"
+  },
+  {
+   "units": "u623",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History > SS 5.4.4"
+  },
+  {
+   "units": "u627",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Middle School Standards introduction"
+  },
+  {
+   "units": "u628",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u629",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u630",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u631",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle School overview table (grades 6-8) > strand headings"
+  },
+  {
+   "units": "u632",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u633",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u634",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u635",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u636",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u637",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u638",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.2"
+  },
+  {
+   "units": "u639",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u640",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u641",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u642",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u643",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u644",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle School overview table (grades 6-8) > strand headings"
+  },
+  {
+   "units": "u645",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.1"
+  },
+  {
+   "units": "u646",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.1"
+  },
+  {
+   "units": "u647",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.1"
+  },
+  {
+   "units": "u648",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.2"
+  },
+  {
+   "units": "u649",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.2"
+  },
+  {
+   "units": "u650",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.2"
+  },
+  {
+   "units": "u651",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.3"
+  },
+  {
+   "units": "u652",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.3"
+  },
+  {
+   "units": "u653",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.3"
+  },
+  {
+   "units": "u654",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 8.2.3"
+  },
+  {
+   "units": "u655",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.4"
+  },
+  {
+   "units": "u656",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.4"
+  },
+  {
+   "units": "u657",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u658",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u659",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u660-u661",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.5"
+  },
+  {
+   "units": "u662",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.5"
+  },
+  {
+   "units": "u663-u664",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u665",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u666",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u667",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u668",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.6"
+  },
+  {
+   "units": "u669-u670",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.6"
+  },
+  {
+   "units": "u674",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u675",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u676",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u677",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle School overview table (grades 6-8) > strand headings"
+  },
+  {
+   "units": "u678",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u679",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.1"
+  },
+  {
+   "units": "u680-u681",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.1"
+  },
+  {
+   "units": "u682",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 8.3.1"
+  },
+  {
+   "units": "u683",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.2"
+  },
+  {
+   "units": "u684",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u685",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.2"
+  },
+  {
+   "units": "u686",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.3"
+  },
+  {
+   "units": "u687",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.3"
+  },
+  {
+   "units": "u688",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.3"
+  },
+  {
+   "units": "u689",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.4"
+  },
+  {
+   "units": "u690",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.4"
+  },
+  {
+   "units": "u691",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.4"
+  },
+  {
+   "units": "u692",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 8.3.4"
+  },
+  {
+   "units": "u693",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 8.3.4"
+  },
+  {
+   "units": "u694-u695",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.5"
+  },
+  {
+   "units": "u696",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.5"
+  },
+  {
+   "units": "u697",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.5"
+  },
+  {
+   "units": "u698",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 8.3.5"
+  },
+  {
+   "units": "u699",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle School overview table (grades 6-8) > strand headings"
+  },
+  {
+   "units": "u700",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.1"
+  },
+  {
+   "units": "u701",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.1"
+  },
+  {
+   "units": "u702",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.1"
+  },
+  {
+   "units": "u703",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 8.4.1"
+  },
+  {
+   "units": "u704",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 8.4.1"
+  },
+  {
+   "units": "u705",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.1"
+  },
+  {
+   "units": "u706",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.2"
+  },
+  {
+   "units": "u707",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.2"
+  },
+  {
+   "units": "u708",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u709",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 8.4.2"
+  },
+  {
+   "units": "u710",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 8.4.2"
+  },
+  {
+   "units": "u711",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u712",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.3"
+  },
+  {
+   "units": "u713",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.3"
+  },
+  {
+   "units": "u714-u715",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.3"
+  },
+  {
+   "units": "u716",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 8.4.3"
+  },
+  {
+   "units": "u717",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 8.4.3"
+  },
+  {
+   "units": "u718",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.3"
+  },
+  {
+   "units": "u719-u720",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.4"
+  },
+  {
+   "units": "u721-u722",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.4"
+  },
+  {
+   "units": "u723",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.4"
+  },
+  {
+   "units": "u724",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 8.4.4"
+  },
+  {
+   "units": "u725",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u726",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u727",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.5"
+  },
+  {
+   "units": "u728",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 8.4.5"
+  },
+  {
+   "units": "u729",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 8.4.5"
+  },
+  {
+   "units": "u730",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.5"
+  },
+  {
+   "units": "u734",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title"
+  },
+  {
+   "units": "u735",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 level summary and theme"
+  },
+  {
+   "units": "u736-u742",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u743-u745",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u746",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u747-u748",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u749-u750",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u751-u752",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u753",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u754",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.1"
+  },
+  {
+   "units": "u755-u757",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.2"
+  },
+  {
+   "units": "u758-u759",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.2"
+  },
+  {
+   "units": "u760-u761",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics > SS 6.1.2"
+  },
+  {
+   "units": "u762-u763",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics > SS 6.1.2"
+  },
+  {
+   "units": "u767-u771",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.1"
+  },
+  {
+   "units": "u772-u775",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics > SS 6.2.1"
+  },
+  {
+   "units": "u776",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.1"
+  },
+  {
+   "units": "u777",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics > SS 6.2.1"
+  },
+  {
+   "units": "u778-u779",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.2"
+  },
+  {
+   "units": "u780-u782",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.3"
+  },
+  {
+   "units": "u783-u786",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics > SS 6.2.3"
+  },
+  {
+   "units": "u787-u788",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.3"
+  },
+  {
+   "units": "u789-u792",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics > SS 6.2.3"
+  },
+  {
+   "units": "u793-u794",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.4"
+  },
+  {
+   "units": "u795-u796",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics > SS 6.2.5"
+  },
+  {
+   "units": "u797-u801",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u802-u804",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u808",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u809",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.1"
+  },
+  {
+   "units": "u810-u811",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.2"
+  },
+  {
+   "units": "u812-u816",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.3"
+  },
+  {
+   "units": "u817-u819",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.3"
+  },
+  {
+   "units": "u820-u821",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.3"
+  },
+  {
+   "units": "u822-u825",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.3"
+  },
+  {
+   "units": "u826-u829",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.4"
+  },
+  {
+   "units": "u830-u831",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.4"
+  },
+  {
+   "units": "u832",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.4"
+  },
+  {
+   "units": "u833-u834",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > SS 6.3.4"
+  },
+  {
+   "units": "u835-u836",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > SS 6.3.5"
+  },
+  {
+   "units": "u837-u842",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.1"
+  },
+  {
+   "units": "u843",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.1"
+  },
+  {
+   "units": "u847-u849",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.2"
+  },
+  {
+   "units": "u850-u851",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.2"
+  },
+  {
+   "units": "u852-u853",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.2"
+  },
+  {
+   "units": "u854-u855",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.2"
+  },
+  {
+   "units": "u856-u859",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.3"
+  },
+  {
+   "units": "u860-u861",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.3"
+  },
+  {
+   "units": "u862",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.3"
+  },
+  {
+   "units": "u863",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.3"
+  },
+  {
+   "units": "u864-u865",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.4"
+  },
+  {
+   "units": "u866-u867",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.4"
+  },
+  {
+   "units": "u868-u869",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.4"
+  },
+  {
+   "units": "u870-u871",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.4"
+  },
+  {
+   "units": "u872-u876",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u877-u879",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u880-u881",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u882-u883",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u884-u885",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u886-u888",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > History > SS 6.4.5"
+  },
+  {
+   "units": "u892",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title"
+  },
+  {
+   "units": "u893",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 level summary and theme"
+  },
+  {
+   "units": "u894-u898",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u899-u901",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u902-u904",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u905-u909",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u910-u912",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u913-u914",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.1"
+  },
+  {
+   "units": "u915-u919",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u920-u922",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u926-u928",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u929-u931",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u932-u933",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u934-u935",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Civics > SS 7.1.2"
+  },
+  {
+   "units": "u936-u938",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.1"
+  },
+  {
+   "units": "u939-u940",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.2"
+  },
+  {
+   "units": "u941-u942",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.3"
+  },
+  {
+   "units": "u943-u947",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.4"
+  },
+  {
+   "units": "u948-u951",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Economics > SS 7.2.4"
+  },
+  {
+   "units": "u952-u954",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.4"
+  },
+  {
+   "units": "u955-u957",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Economics > SS 7.2.4"
+  },
+  {
+   "units": "u958-u964",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.5"
+  },
+  {
+   "units": "u965-u970",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics > SS 7.2.6"
+  },
+  {
+   "units": "u971-u975",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Economics > SS 7.2.6"
+  },
+  {
+   "units": "u976-u977",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.1"
+  },
+  {
+   "units": "u978-u980",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u981",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u982-u983",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u984-u986",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u987-u988",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u989-u992",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.2"
+  },
+  {
+   "units": "u993-u997",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.3"
+  },
+  {
+   "units": "u998",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.3"
+  },
+  {
+   "units": "u1002",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.3"
+  },
+  {
+   "units": "u1003-u1005",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.4"
+  },
+  {
+   "units": "u1006-u1008",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.4"
+  },
+  {
+   "units": "u1009-u1010",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.4"
+  },
+  {
+   "units": "u1011-u1012",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.4"
+  },
+  {
+   "units": "u1013-u1017",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.5"
+  },
+  {
+   "units": "u1018-u1022",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.5"
+  },
+  {
+   "units": "u1023",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > SS 7.3.5"
+  },
+  {
+   "units": "u1024-u1026",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > SS 7.3.5"
+  },
+  {
+   "units": "u1027-u1032",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.1"
+  },
+  {
+   "units": "u1033-u1035",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.1"
+  },
+  {
+   "units": "u1036-u1037",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.1"
+  },
+  {
+   "units": "u1038",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.1"
+  },
+  {
+   "units": "u1042-u1046",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.2"
+  },
+  {
+   "units": "u1047-u1049",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.2"
+  },
+  {
+   "units": "u1050-u1051",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.2"
+  },
+  {
+   "units": "u1052",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.2"
+  },
+  {
+   "units": "u1053-u1056",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.3"
+  },
+  {
+   "units": "u1057",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.3"
+  },
+  {
+   "units": "u1058-u1059",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.3"
+  },
+  {
+   "units": "u1060",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.3"
+  },
+  {
+   "units": "u1061-u1065",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.4"
+  },
+  {
+   "units": "u1066-u1067",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.4"
+  },
+  {
+   "units": "u1068-u1069",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.4"
+  },
+  {
+   "units": "u1070",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.4"
+  },
+  {
+   "units": "u1071-u1075",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1076-u1077",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1078-u1080",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1081-u1084",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1088",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1089",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > SS 7.4.5"
+  },
+  {
+   "units": "u1093",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title"
+  },
+  {
+   "units": "u1094",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 level summary and theme"
+  },
+  {
+   "units": "u1095-u1102",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1103-u1104",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1105-u1106",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1107-u1109",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1110-u1111",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1112-u1115",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1116-u1117",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1118-u1120",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1121-u1122",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1123-u1124",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.1"
+  },
+  {
+   "units": "u1128-u1129",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1130-u1132",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1133-u1134",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1135-u1139",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1140",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1141-u1145",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1146-u1148",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1149-u1150",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1151-u1152",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1153-u1156",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics > SS 8.1.2"
+  },
+  {
+   "units": "u1157-u1158",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.1"
+  },
+  {
+   "units": "u1159-u1163",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.2"
+  },
+  {
+   "units": "u1164",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics > SS 8.2.2"
+  },
+  {
+   "units": "u1165",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.3"
+  },
+  {
+   "units": "u1169-u1173",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1174-u1175",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1176",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1177-u1179",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1180-u1181",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1182-u1185",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics > SS 8.2.4"
+  },
+  {
+   "units": "u1186-u1192",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u1193",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics > SS 8.2.5"
+  },
+  {
+   "units": "u1194",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.1"
+  },
+  {
+   "units": "u1195-u1199",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.2"
+  },
+  {
+   "units": "u1200-u1202",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography > SS 8.3.2"
+  },
+  {
+   "units": "u1206-u1207",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.2"
+  },
+  {
+   "units": "u1208-u1211",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography > SS 8.3.2"
+  },
+  {
+   "units": "u1212-u1216",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.3"
+  },
+  {
+   "units": "u1217",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography > SS 8.3.3"
+  },
+  {
+   "units": "u1218-u1219",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.3"
+  },
+  {
+   "units": "u1220-u1222",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography > SS 8.3.3"
+  },
+  {
+   "units": "u1223-u1224",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.4"
+  },
+  {
+   "units": "u1225",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography > SS 8.3.5"
+  },
+  {
+   "units": "u1226-u1229",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.1"
+  },
+  {
+   "units": "u1230-u1238",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u1239-u1242",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u1243-u1245",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u1246-u1247",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.2"
+  },
+  {
+   "units": "u1248-u1251",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.3"
+  },
+  {
+   "units": "u1252-u1253",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.3"
+  },
+  {
+   "units": "u1254",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.3"
+  },
+  {
+   "units": "u1255-u1259",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.4"
+  },
+  {
+   "units": "u1260-u1261",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.4"
+  },
+  {
+   "units": "u1262-u1263",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.4"
+  },
+  {
+   "units": "u1264-u1265",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.4"
+  },
+  {
+   "units": "u1266-u1270",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.5"
+  },
+  {
+   "units": "u1271-u1272",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History > SS 8.4.5"
+  },
+  {
+   "units": "u1276-u1277",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History > SS 8.4.5"
+  },
+  {
+   "units": "u1281",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Civics title"
+  },
+  {
+   "units": "u1282",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School discipline summary"
+  },
+  {
+   "units": "u1283-u1285",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Civics > SS HS.1.1"
+  },
+  {
+   "units": "u1286",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Civics > SS HS.1.1"
+  },
+  {
+   "units": "u1287",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Civics > SS HS.1.1"
+  },
+  {
+   "units": "u1288-u1290",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Civics > SS HS.1.1"
+  },
+  {
+   "units": "u1291-u1297",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Civics > SS HS.1.1"
+  },
+  {
+   "units": "u1298-u1299",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Civics > SS HS.1.2"
+  },
+  {
+   "units": "u1300-u1304",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Civics > SS HS.1.2"
+  },
+  {
+   "units": "u1305-u1308",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Civics > SS HS.1.2"
+  },
+  {
+   "units": "u1312",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Economics title"
+  },
+  {
+   "units": "u1313",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School discipline summary"
+  },
+  {
+   "units": "u1314-u1315",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.1"
+  },
+  {
+   "units": "u1316",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.2"
+  },
+  {
+   "units": "u1317",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.2"
+  },
+  {
+   "units": "u1318-u1322",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.2"
+  },
+  {
+   "units": "u1323",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.2"
+  },
+  {
+   "units": "u1324",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.4"
+  },
+  {
+   "units": "u1325",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.4"
+  },
+  {
+   "units": "u1326",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.4"
+  },
+  {
+   "units": "u1327-u1330",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.4"
+  },
+  {
+   "units": "u1331",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.4"
+  },
+  {
+   "units": "u1335",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.5"
+  },
+  {
+   "units": "u1336",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.6"
+  },
+  {
+   "units": "u1337",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.6"
+  },
+  {
+   "units": "u1338",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.6"
+  },
+  {
+   "units": "u1339",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.8"
+  },
+  {
+   "units": "u1343",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.9"
+  },
+  {
+   "units": "u1344",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Economics > SS HS.2.9"
+  },
+  {
+   "units": "u1345",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.9"
+  },
+  {
+   "units": "u1346-u1347",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Economics > SS HS.2.10"
+  },
+  {
+   "units": "u1351",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Geography title"
+  },
+  {
+   "units": "u1352",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School discipline summary"
+  },
+  {
+   "units": "u1353-u1357",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.1"
+  },
+  {
+   "units": "u1358",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Geography > SS HS.3.1"
+  },
+  {
+   "units": "u1359-u1364",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.2"
+  },
+  {
+   "units": "u1365-u1366",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.3"
+  },
+  {
+   "units": "u1367-u1369",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.4"
+  },
+  {
+   "units": "u1370",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Geography > SS HS.3.4"
+  },
+  {
+   "units": "u1374",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.4"
+  },
+  {
+   "units": "u1375",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > High School Geography > SS HS.3.4"
+  },
+  {
+   "units": "u1376-u1379",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > High School Geography > SS HS.3.5"
+  },
+  {
+   "units": "u1383",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School History title"
+  },
+  {
+   "units": "u1384",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School discipline summary"
+  },
+  {
+   "units": "u1385-u1388",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.1"
+  },
+  {
+   "units": "u1392-u1393",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.2"
+  },
+  {
+   "units": "u1394",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.2"
+  },
+  {
+   "units": "u1395-u1396",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.3"
+  },
+  {
+   "units": "u1397-u1401",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.4"
+  },
+  {
+   "units": "u1402-u1403",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "United States History (Progressive Era – Present) — High School > High School History > SS HS.4.5"
+  },
+  {
+   "units": "u1407-u1410",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.1"
+  },
+  {
+   "units": "u1411-u1413",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.2"
+  },
+  {
+   "units": "u1414-u1415",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.3"
+  },
+  {
+   "units": "u1419-u1420",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.4"
+  },
+  {
+   "units": "u1421",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.4"
+  },
+  {
+   "units": "u1422",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.4"
+  },
+  {
+   "units": "u1423",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "World History (1500 CE – Present) — High School > High School History > SS HS.4.5"
+  }
+ ],
+ "issues": [
+  "Extraction is table-fragmented throughout: many standards and their 'For example' text are split across table-cell units (e.g. u86-u90, u100-u103, u738-u745, u946-u957). Units with no SS code or 'For example' marker were labeled by position: fragments following a 'For example' unit (or whose 'For example:' prefix was lost, e.g. u758-u759, u772-u775, u866-u867, u877, u905-u909, u971-u975, u1024-u1026, u1130-u1132, u1288-u1290) are labeled examples; continuations of standard text (e.g. u102, u177, u202, u274, u370, u476-u477, u615, u739-u742) are labeled standards.",
+  "Many table cells are duplicated in the extraction (same standard text appears twice, e.g. u89/u90, u484, u660/u661, u663/u664, u681, u695, u719/u720, u877/u879, u955/u956). Both copies labeled the same way; text order may be scrambled.",
+  "u90, u202, u236, u1407: mixed or fragmentary units labeled standards (u90 is a duplicate cut-off copy of K.4.1.b; u236 contains the end of SS 2.2.4.b plus its example; u1407 is the World History course heading).",
+  "Units that combine a standard with its 'For example' text (very common, e.g. u59, u73, u119, u1228, and most HS units) are labeled standards (units not split). Units combining several indicators (e.g. u73, u306, u390, u1307, u1322, u1331, u1338) cover multiple codes.",
+  "Grade Level Summary and Theme / HS 'Summary' units (u35, u116, u208, u302, u395, u509, u735, u893, u1094, u1282, u1313, u1352, u1384) mix the theme title with a content narrative and some end with the discipline heading (e.g. 'Civics'); labeled examples (narrative describing what students study) rather than standards. Alternative: standards for the theme title.",
+  "u627-u730 (Middle School Overview table, pages 35-36): 3-column grid (6th C1-C3, 7th C4-C6, 8th C7-C9) of standard-level statements (6.x.x / 7.x.x / 8.x.x) that repeat the per-grade standards in the Grade 6/7/8 sections; grades assigned by SS code prefix, else by column; strand-name cells (Civics, Economics, Geography, History) get 6-8. Cells such as u660/u661 and u663/u664 are split or duplicated across columns. u627 intro labeled backup.",
+  "State guide lists HS topics as Civics, Economics, Geography, History strands; the document has no separate HS courses: HS standards are one 9-12 band organized by discipline (SS HS.1.x Civics, HS.2.x Economics, HS.3.x Geography, HS.4.x History). Civics, Economics, Geography labeled course null, grades 9-12; the History strand has two course-like sub-sections coded (US) and (WLD), labeled course 'United States History (Progressive Era – Present)' and 'World History (1500 CE – Present)' (u1385-u1406, u1407-u1423); the History strand title/summary (u1383-u1384) are course null.",
+  "HS History uses the same code numbers for both sub-sections (HS.4.1 (US) vs HS.4.1 (WLD)); distinguished only by the (US)/(WLD) tags in the text and the sub-section heading; unit boundaries confirm no overlap.",
+  "Pages 1 and 3 contain images only (cover; numbering-system figure after u30): no units. Page 6-7 etc. 'Standards numbering' key image not extracted. Some text truncated at cell edge (u190 'patriotic s', u200 'wa', u903 'thei', u873 'historica', u895 'governmenta').",
+  "Recurring truncation of strand headings: some big-idea headings are separate units (u83-u84, u170-u172), some fused with the first standard (u36, u41, u49), and 'Not addressed at this level' placeholders (e.g. u56, u139, u334, u532-u533) are labeled standards because they carry SS codes.",
+  "Reviewer: NE high school is one 9-12 band organized by strand (Civics, Economics, Geography, History US/WLD); no course rows."
+ ]
+}

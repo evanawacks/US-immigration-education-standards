@@ -1,0 +1,615 @@
+{
+ "state": "HI",
+ "file": "HCPSIII_EuropeanStudies_88656b.pdf",
+ "structure": "Single high school course. Header u1 gives 'Grade/Course: European Studies / ACCN: CHR2200'. Pages are series of small tables: Strand (European Studies) + Standard heading: 'Standard N: ...'; per benchmark a table with Topic, benchmark text and code (Benchmark SS.ES.n.m), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u5",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture >  "
+  },
+  {
+   "units": "u6",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > The Arts "
+  },
+  {
+   "units": "u7-u8",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > The Arts SS.ES.1.1"
+  },
+  {
+   "units": "u9-u10",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand aspects of European culture > The Arts SS.ES.1.1: sample performance"
+  },
+  {
+   "units": "u11-u20",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u21",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > The Arts "
+  },
+  {
+   "units": "u22-u23",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Literature, Film, Theater "
+  },
+  {
+   "units": "u24-u25",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Literature, Film, Theater SS.ES.1.2"
+  },
+  {
+   "units": "u26-u27",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand aspects of European culture > Literature, Film, Theater SS.ES.1.2: sample performance"
+  },
+  {
+   "units": "u28-u37",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u38",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Literature, Film, Theater "
+  },
+  {
+   "units": "u39-u40",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Science and Scholarship "
+  },
+  {
+   "units": "u41-u43",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Science and Scholarship SS.ES.1.3"
+  },
+  {
+   "units": "u44-u45",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 1: Understand aspects of European culture > Science and Scholarship SS.ES.1.3: sample performance"
+  },
+  {
+   "units": "u46-u55",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u56-u57",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 1: Understand aspects of European culture > Science and Scholarship SS.ES.1.3"
+  },
+  {
+   "units": "u58-u59",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations >  "
+  },
+  {
+   "units": "u60-u61",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > European Union "
+  },
+  {
+   "units": "u62-u63",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > European Union SS.ES.2.1"
+  },
+  {
+   "units": "u64-u65",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand political issues among European nations > European Union SS.ES.2.1: sample performance"
+  },
+  {
+   "units": "u66-u75",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u76",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > European Union "
+  },
+  {
+   "units": "u77-u78",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > Supranational and Regional Issues "
+  },
+  {
+   "units": "u79-u80",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > Supranational and Regional Issues SS.ES.2.2"
+  },
+  {
+   "units": "u81-u82",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand political issues among European nations > Supranational and Regional Issues SS.ES.2.2: sample performance"
+  },
+  {
+   "units": "u83-u92",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u93",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > Supranational and Regional Issues "
+  },
+  {
+   "units": "u94-u95",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > The Balkans "
+  },
+  {
+   "units": "u96-u97",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > The Balkans SS.ES.2.3"
+  },
+  {
+   "units": "u98-u99",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 2: Understand political issues among European nations > The Balkans SS.ES.2.3: sample performance"
+  },
+  {
+   "units": "u100-u109",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u110-u111",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 2: Understand political issues among European nations > The Balkans SS.ES.2.3"
+  },
+  {
+   "units": "u112-u113",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries >  "
+  },
+  {
+   "units": "u114-u115",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > International Organizations "
+  },
+  {
+   "units": "u116-u118",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > International Organizations SS.ES.3.1"
+  },
+  {
+   "units": "u119-u120",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand European political relations with non-European countries > International Organizations SS.ES.3.1: sample performance"
+  },
+  {
+   "units": "u121-u130",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u131",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > International Organizations "
+  },
+  {
+   "units": "u132",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Terrorism, Security, and Freedom "
+  },
+  {
+   "units": "u133-u134",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Terrorism, Security, and Freedom SS.ES.3.2"
+  },
+  {
+   "units": "u135-u136",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand European political relations with non-European countries > Terrorism, Security, and Freedom SS.ES.3.2: sample performance"
+  },
+  {
+   "units": "u137-u146",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u147",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Terrorism, Security, and Freedom "
+  },
+  {
+   "units": "u148-u149",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Relations With Large Powers "
+  },
+  {
+   "units": "u150-u152",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Relations With Large Powers SS.ES.3.3"
+  },
+  {
+   "units": "u153-u154",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 3: Understand European political relations with non-European countries > Relations With Large Powers SS.ES.3.3: sample performance"
+  },
+  {
+   "units": "u155-u164",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u165-u166",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 3: Understand European political relations with non-European countries > Relations With Large Powers SS.ES.3.3"
+  },
+  {
+   "units": "u167-u168",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues >  "
+  },
+  {
+   "units": "u169-u170",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Monetary and Fiscal Issues "
+  },
+  {
+   "units": "u171-u172",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Monetary and Fiscal Issues SS.ES.4.1"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Monetary and Fiscal Issues SS.ES.4.1: sample performance"
+  },
+  {
+   "units": "u175-u184",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u185",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Monetary and Fiscal Issues "
+  },
+  {
+   "units": "u186-u187",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > East-West Economic Restructuring "
+  },
+  {
+   "units": "u188-u189",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > East-West Economic Restructuring SS.ES.4.2"
+  },
+  {
+   "units": "u190-u191",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > East-West Economic Restructuring SS.ES.4.2: sample performance"
+  },
+  {
+   "units": "u192-u201",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u202",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > East-West Economic Restructuring "
+  },
+  {
+   "units": "u203-u204",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Interconnected World "
+  },
+  {
+   "units": "u205-u206",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Interconnected World SS.ES.4.3"
+  },
+  {
+   "units": "u207-u208",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Interconnected World SS.ES.4.3: sample performance"
+  },
+  {
+   "units": "u209-u218",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Interconnected World SS.ES.4.3"
+  },
+  {
+   "units": "u221-u222",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues >  "
+  },
+  {
+   "units": "u223-u224",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Immigration "
+  },
+  {
+   "units": "u225-u226",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Immigration SS.ES.5.1"
+  },
+  {
+   "units": "u227-u228",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Immigration SS.ES.5.1: sample performance"
+  },
+  {
+   "units": "u229-u242",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u243",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Immigration "
+  },
+  {
+   "units": "u244-u245",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Intolerance and Conflict "
+  },
+  {
+   "units": "u246-u247",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Intolerance and Conflict SS.ES.5.2"
+  },
+  {
+   "units": "u248-u249",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Intolerance and Conflict SS.ES.5.2: sample performance"
+  },
+  {
+   "units": "u250-u259",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u260",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Intolerance and Conflict "
+  },
+  {
+   "units": "u261",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Mixed Systems "
+  },
+  {
+   "units": "u262-u263",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Mixed Systems SS.ES.5.3"
+  },
+  {
+   "units": "u264-u265",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Mixed Systems SS.ES.5.3: sample performance"
+  },
+  {
+   "units": "u266-u275",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u276",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Mixed Systems "
+  },
+  {
+   "units": "u277-u278",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Environmental Problems "
+  },
+  {
+   "units": "u279-u280",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "standards",
+   "section": "Standard 4: Understand European economic issues > Environmental Problems SS.ES.5.4"
+  },
+  {
+   "units": "u281-u282",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "examples",
+   "section": "Standard 4: Understand European economic issues > Environmental Problems SS.ES.5.4: sample performance"
+  },
+  {
+   "units": "u283-u292",
+   "grades": "9-12",
+   "course": "European Studies",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "u221: second 'Standard 4: Understand European economic issues' heading (u219-u221) precedes benchmarks SS.ES.5.1-5.4; apparently a typo for Standard 5 in the source.",
+  "u235-u242: rubric row split across page break (backup)."
+ ]
+}

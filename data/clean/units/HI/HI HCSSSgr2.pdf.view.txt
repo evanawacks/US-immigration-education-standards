@@ -1,0 +1,187 @@
+=== page 1 ===
+u1 GRADE 2
+u2 [T1 R1 C1] Anchor Standard
+u3 [T1 R1 C2] Grades K-2 Inquiry Standards
+u4 [T1 R3 C1] The student demonstrates an understanding of
+u5 [T1 R3 C2] Therefore, the student is able to
+u6 [T1 R4 C1] Anchor Standard 1
+u7 [T1 R4 C2] Inquiry Standard SS.K-2.1.1 Construct a variety of questions about social studies topics with guidance from adults and/or peers
+u8 [T1 R5 C1] Developing Questions and
+u9 [T1 R6 C1] Planning Inquiries
+u10 [T1 R6 C2] Inquiry Standard SS.K-2.1.2 Construct supporting questions to help answer compelling questions with guidance from adults and/or peers
+u11 [T1 R8 C1] Anchor Standard 2
+u12 [T1 R8 C2] Inquiry Standard SS.K-2.2.1 Determine whether a source is primarily fact or opinion
+u13 [T1 R9 C1] Gathering and Evaluating
+u14 [T1 R10 C1] Sources
+u15 [T1 R11 C2] Inquiry Standard SS.K-2.2.2 Determine whether a source is primary or secondary
+u16 [T1 R13 C2] Inquiry Standard SS.K-2.2.3 Gather facts from teacher and/or adult-curated sources to answer questions
+u17 [T1 R14 C1] Anchor Standard 3
+u18 [T1 R14 C2] Begins in grades 3-5
+u19 [T1 R15 C1] Creating Claims
+u20 [T1 R16 C2] Begins in grades 3-5
+u21 [T1 R18 C1] Anchor Standard 4
+u22 [T1 R18 C2] Inquiry Standard SS.K-2.4.1 Construct explanations using correct sequence and relevant information
+u23 [T1 R19 C1] Communicating
+u24 [T1 R20 C1] Conclusions
+u25 [T1 R20 C2] Inquiry Standard SS.K-2.4.2 Respectfully ask and answer questions about arguments and explanations
+u26 [T1 R22 C2] Inquiry Standard SS.K-2.4.3 Present explanations using a variety of print, oral, and digital technologies
+u27 [T1 R23 C1] Anchor Standard 5
+u28 [T1 R23 C2] Inquiry Standard SS.K-2.5.1 Identify problems or issues in classrooms, schools, or communities
+u29 [T1 R24 C1] Taking Informed Action
+u30 [T1 R26 C2] Inquiry Standard SS.K-2.5.2 Identify ways in which people are trying to address problems or issues in classrooms, schools, or communities
+u31 [T1 R27 C2] Inquiry Standard SS.K-2.5.3 Use deliberative and democratic procedures (e.g., listening, consensus-building, voting) to identify ways to take action on classroom, school, or community problems or issues
+u32 [T1 R28 C2] Inquiry Standard SS.K-2.5.4 Show evidence of taking individual or group action on one or more problems or issues
+=== page 2 ===
+u33 [T1 R1 C1] Theme 1
+u34 [T1 R1 C2] We The People
+u35 [T1 R3 C1] Sample Compelling
+u36 [T1 R3 C2] • What makes a good leader? • How can I make a difference?
+u37 [T1 R4 C1] Questions
+u38 [T1 R6 C1] Anchor Standard
+u39 [T1 R6 C2] Topic
+u40 [T1 R6 C3] Content Standard
+u41 [T1 R6 C4] Sample Content/Concepts
+u42 [T1 R8 C1] The student demonstrates an understanding of
+u43 [T1 R8 C3] Therefore, the student is able to
+u44 [T1 R9 C1] Civics
+u45 [T1 R9 C2] Rights and Responsibilities
+u46 [T1 R9 C3] Content Standard SS.2.1.6.1 Investigate school, community, and national leaders and their responsibilities
+u47 [T1 R9 C4] • School: principal, teacher, vice-principal • Community: cultural leaders, governor, mayor, religious leaders, state representatives • National: members of Congress, president • Responsibilities: decision-making, establish and uphold rules and laws, safety
+u48 [T1 R10 C1] Anchor Standard 6
+u49 [T1 R11 C1] Civic and Political
+u50 [T1 R12 C1] Institutions
+u51 [T1 R14 C1] Civics
+u52 [T1 R14 C2] Principles and Values of Democracy
+u53 [T1 R14 C3] Content Standard SS.2.1.7.2 Describe how historical figures exemplify our shared democratic values
+u54 [T1 R14 C4] • Historical Figures: George Washington, Abraham Lincoln, Susan B. Anthony, Eleanor Roosevelt, Martin Luther King Jr., Ruby Bridges • Democratic Values: common good, equality, freedom, justice, liberty, respect for individual rights
+u55 [T1 R15 C1] Anchor Standard 7
+u56 [T1 R16 C1] Civic Virtues and
+u57 [T1 R17 C1] Democratic Principles
+u58 [T1 R19 C1] History
+u59 [T1 R19 C2] Historical Perspectives and Interpretations
+u60 [T1 R19 C3] Content Standard SS.2.1.18.3 Describe how significant people and events have shaped communities and places now and in the past
+u61 [T1 R19 C4] • People: Benjamin Franklin, Amelia Earhart, Gandhi, Jackie Robinson, Rachel Carson, Caesar Chavez, Nainoa Thompson, Malala Yousafzai • Events: Louisiana Purchase, Wright brothers first flight, Japanese American internment, nuclear testing in the Pacific, end of apartheid, invention of the smart phone, wireless technology
+u62 [T1 R20 C1] Anchor Standard 18
+u63 [T1 R21 C1] Perspectives
+=== page 3 ===
+u64 [T1 R1 C1] Theme 2
+u65 [T1 R1 C2] Looking Into Our Past
+u66 [T1 R3 C1] Sample Compelling
+u67 [T1 R3 C2] • Why do people interpret historical events differently? • Do humans help or hurt the environment?
+u68 [T1 R4 C1] Questions
+u69 [T1 R7 C1] Anchor Standard
+u70 [T1 R7 C2] Topic
+u71 [T1 R7 C3] Content Standard
+u72 [T1 R7 C4] Sample Content/Concepts
+u73 [T1 R9 C1] The student demonstrates an understanding of
+u74 [T1 R9 C3] Therefore, the student is able to
+u75 [T1 R10 C1] Geography
+u76 [T1 R10 C2] Interdependence
+u77 [T1 R10 C3] Content Standard SS.2.2.14.1 Explain how human activities impact the environment
+u78 [T1 R10 C4] • Positive Impacts: national parks, protection of endangered species, wetland conservation areas • Negative Impacts: deforestation, loss of water rights, pollution
+u79 [T1 R11 C1] Anchor Standard 14
+u80 [T1 R12 C1] Human-Environment
+u81 [T1 R13 C1] Interaction: Place,
+u82 [T1 R14 C1] Regions, and Culture
+u83 [T1 R15 C1] History
+u84 [T1 R15 C2] Chronological Thinking
+u85 [T1 R15 C3] Content Standard SS.2.2.17.2 Construct timelines that sequence historical events
+u86 [T1 R15 C4] • Colonizing New England: religious and economic reasons for migration, Native American communities, resistance to settlement, Squanto • Newsboys Strike: child labor laws, low wages, poor working conditions • History of Flight: kites, balloons, gliders, Wright Brothers, Boeing, NASA
+u87 [T1 R16 C1] Anchor Standard 17
+u88 [T1 R17 C1] Change, Continuity
+u89 [T1 R18 C1] and Context
+u90 [T1 R20 C1] History
+u91 [T1 R20 C2] Historical Perspectives and Interpretations
+u92 [T1 R20 C3] Content Standard SS.2.2.18.3 Compare varying perspectives on historical events
+u93 [T1 R20 C4] • Perspectives: audience perspective, author’s point of view, personal experience • Historical Events: voyages of Columbus, first Thanksgiving, Kamehameha unites the Hawaiian Islands, Ruby Bridges and school desegregation
+u94 [T1 R21 C1] Anchor Standard 18
+u95 [T1 R22 C1] Perspectives
+=== page 4 ===
+u96 [T1 R1 C1] Theme 3
+u97 [T1 R1 C2] What We Make and Use
+u98 [T1 R3 C1] Sample Compelling
+u99 [T1 R3 C2] • Why are we dependent on others for some goods and services? • Are we using natural resources wisely?
+u100 [T1 R4 C1] Questions
+u101 [T1 R7 C1] Anchor Standard
+u102 [T1 R7 C2] Topic
+u103 [T1 R7 C3] Content Standard
+u104 [T1 R7 C4] Sample Content/Concepts
+u105 [T1 R9 C1] The student demonstrates an understanding of
+u106 [T1 R9 C3] Therefore, the student is able to
+u107 [T1 R10 C1] Economics
+u108 [T1 R10 C2] Role and Functions of Markets
+u109 [T1 R10 C3] Content Standard SS.2.3.10.1 Compare goods and services that are produced locally and globally
+u110 [T1 R10 C4] • Locally: entertainment, music, pineapple, taro chips, tourism • Globally: cars, clothing, food, phones, toys
+u111 [T1 R11 C1] Anchor Standard 10
+u112 [T1 R12 C1] Exchange and
+u113 [T1 R13 C1] Markets
+u114 [T1 R14 C1] Economics
+u115 [T1 R14 C2] Interdependence
+u116 [T1 R14 C3] Content Standard SS.2.3.12.2 Examine how people are dependent on others for goods and services they cannot produce themselves
+u117 [T1 R14 C4] • Goods: clothing, food, homes, technology • Services: construction, education, entertainment, firefighting, medical care, police
+u118 [T1 R15 C1] Anchor Standard 12
+u119 [T1 R16 C1] Global Economy
+u120 [T1 R18 C1] Economics
+u121 [T1 R18 C2] Economic Role of Government
+u122 [T1 R18 C3] Content Standard SS.2.3.11.3 Describe public goods and services the government provides
+u123 [T1 R18 C4] • Goods: bridges, national parks, roads • Services: firefighting, national defense, parks and playgrounds, police, public education, sanitation
+u124 [T1 R19 C1] Anchor Standard 11
+u125 [T1 R20 C1] The National
+u126 [T1 R21 C1] Economy
+u127 [T1 R22 C1] Geography
+u128 [T1 R22 C2] Land and Water
+u129 [T1 R22 C3] Content Standard SS.2.3.13.4 Describe major geographic features of places using maps, photos, and other geographic representations
+u130 [T1 R22 C4] • Maps: latitude, longitude, physical map • Landforms: canyons, gulches, peninsula, volcanoes • Water: creeks, lakes, oceans, ponds, rivers, seas, streams • Vegetation: desert, forests, plains, swamps, tundra
+u131 [T1 R23 C1] Anchor Standard 13
+u132 [T1 R24 C1] Geographic
+u133 [T1 R25 C1] Representations
+u134 [T1 R27 C1] Geography
+u135 [T1 R27 C2] Interactions and Impact
+u136 [T1 R27 C3] Content Standard SS.2.3.14.5 Compare a variety of the Earth's natural resources and how people use them
+u137 [T1 R27 C4] • Natural Resources: energy sources (e.g., solar, coal and gas, wind), minerals, ocean, vegetation, water • Uses: energy, food, profit
+u138 [T1 R28 C1] Anchor Standard 14
+u139 [T1 R29 C1] Human-Environment
+u140 [T1 R30 C1] Interaction: Place,
+u141 [T1 R31 C1] Regions, and Culture
+=== page 5 ===
+u142 [T1 R1 C1] Theme 4
+u143 [T1 R1 C2] Together We Can
+u144 [T1 R3 C1] Sample Compelling
+u145 [T1 R3 C2] • Why does the cost of goods and services sometimes change? • How do we solve problems?
+u146 [T1 R4 C1] Questions
+u147 [T1 R6 C1] Anchor Standard
+u148 [T1 R6 C2] Topic
+u149 [T1 R6 C3] Content Standard
+u150 [T1 R6 C4] Sample Content/Concepts
+u151 [T1 R8 C1] The student demonstrates an understanding of
+u152 [T1 R8 C3] Therefore, the student is able to
+u153 [T1 R9 C1] Economics
+u154 [T1 R9 C2] Limited Resources and Choices
+u155 [T1 R9 C3] Content Standard SS.2.4.9.1 Explain how scarcity of resources affects the cost of goods and services
+u156 [T1 R9 C4] • Scarcity of Resources: human, natural resources (e.g., petroleum products, fish, produce, land, water) • Cost: dependence on imported food and goods, depleted fisheries, high cost of food, higher cost of housing, higher gas and electricity costs, higher wages, need to hire non-local labor
+u157 [T1 R10 C1] Anchor Standard 9
+u158 [T1 R11 C1] Economic Decision
+u159 [T1 R12 C1] Making
+u160 [T1 R16 C1] Geography
+u161 [T1 R16 C2] Interactions and Impact
+u162 [T1 R16 C3] Content Standard SS.2.4.16.2 Investigate how people in your community rely on local and global resources to meet their daily needs
+u163 [T1 R16 C4] • Local Resources: clean water, farms, homes, ocean, ranches • Global Resources: cars, clothing, electronics, gas, toilet paper • Daily Needs: water, food, shelter, clothing
+u164 [T1 R17 C1] Anchor Standard 16
+u165 [T1 R18 C1] Global
+u166 [T1 R19 C1] Interconnections:
+u167 [T1 R20 C1] Changing Spatial
+u168 [T1 R21 C1] Patterns
+u169 [T1 R22 C1] Civics
+u170 [T1 R22 C2] Civic Participation
+u171 [T1 R22 C3] Content Standard SS.2.4.8.3 Develop logical solutions to various community problems
+u172 [T1 R22 C4] • Solutions: beach cleanup, building shelters, food drives • Problems: homelessness, hunger, land conservation
+u173 [T1 R23 C1] Anchor Standard 8
+u174 [T1 R24 C1] Processes, Rules
+u175 [T1 R25 C1] and Laws
+u176 [T1 R27 C1] Economics
+u177 [T1 R27 C2] Limited Resources and Choice
+u178 [T1 R27 C3] Content Standard SS.2.4.9.4 Determine costs and benefits of saving money
+u179 [T1 R27 C4] • Costs: delayed gratification, sacrifice • Benefits: allows you to make large purchases, to be prepared for unforeseen circumstances
+u180 [T1 R28 C1] Anchor Standard 9
+u181 [T1 R29 C1] Economic Decision
+u182 [T1 R30 C1] Making

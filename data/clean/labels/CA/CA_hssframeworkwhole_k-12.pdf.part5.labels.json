@@ -1,0 +1,27 @@
+{
+  "state": "CA",
+  "file": "CA_hssframeworkwhole_k-12.pdf",
+  "range": "u4881-u6535",
+  "structure": "Part 5 of the 2016 California History-Social Science Framework (book pages ~513-660). Covers the end of Chapter 19 (Assessment of Proficiency in HSS), Chapter 20 (Access and Equity), Chapter 21 (Instructional Strategies), Chapter 22 (Professional Learning), Chapter 23 (Criteria for Evaluating Instructional Materials K-8), Appendix A (Capacities of Literate Individuals) and the start of Appendix B (Problems, Questions, and Themes; Key Theme 1 Patterns of Population). None of these are grade/course chapters or Appendix C standards: they are cross-grade pedagogy, equity, assessment, professional-learning and evaluation-criteria text, so they are backup for all grades. Chapters are marked by 'CHAPTER nn Title' headings and running headers; figures are numbered (Figure 20.1-21.14) and sometimes extracted as table cells [T# R# C#]. Embedded classroom examples (Jamestown grade 5, Civil War grade 8, Grade 11 designated ELD, Moctezuma/Cortes, Cold War grade 11, tenth-grade museum exhibit) are pedagogical vignettes in chapters 19-21 and are labeled backup per the state guide. Appendix B is a general-pedagogy essay on historical problems and themes; the Key Theme 1 narrative (population patterns) is content narrative with sample questions for grades 5-8, 10, 11, labeled examples.",
+  "labels": [
+    {"units": "u4881-u4943", "grades": "all", "course": null, "cat": "backup", "section": "Ch 19 Assessment of Proficiency in HSS (rubrics, feedback, summative/yearly assessment, conclusion)"},
+    {"units": "u4944-u5415", "grades": "all", "course": null, "cat": "backup", "section": "Ch 20 Access and Equity (culturally responsive teaching, ELs, advanced learners, poverty, LGBT, disabilities, UDL, MTSS)"},
+    {"units": "u5416-u6199", "grades": "all", "course": null, "cat": "backup", "section": "Ch 21 Instructional Strategies (content understanding, disciplinary understanding, literacy, academic conversations, ELs)"},
+    {"units": "u6200-u6311", "grades": "all", "course": null, "cat": "backup", "section": "Ch 22 Professional Learning"},
+    {"units": "u6312-u6453", "grades": "all", "course": null, "cat": "backup", "section": "Ch 23 Criteria for Evaluating Instructional Materials K-8"},
+    {"units": "u6454-u6482", "grades": "all", "course": null, "cat": "backup", "section": "Appendix A Capacities of Literate Individuals"},
+    {"units": "u6483-u6519", "grades": "all", "course": null, "cat": "backup", "section": "Appendix B introduction: historical problems, scales, guiding questions, themes"},
+    {"units": "u6520-u6535", "grades": "5,6,7,8,10,11", "course": null, "cat": "examples", "section": "Appendix B > Key Theme 1: Patterns of Population (narrative; sample questions pertinent to grades 5-8, 10, 11)"}
+  ],
+  "issues": [
+    "u5103-u5183: Grade 5 Jamestown 'Sample Instruction' vignette in Ch 20 labeled backup (pedagogical, chapters 19+ per state guide); it cites HSS 5.4.2.",
+    "u5281-u5300: Grade 8 co-taught Civil War classroom example in Ch 20 labeled backup (instructional differentiation), cites HSS 8.9.1.",
+    "u5992-u6184: Grade 11 designated ELD classroom example in Ch 21 labeled backup (pedagogy, not content).",
+    "u4911-u4925: Moctezuma-Cortes, grade 11 Cold War and grade 10 museum exhibit assessment examples in Ch 19 labeled backup (assessment pedagogy).",
+    "u5452-u5476: Grade 5 HSS 5.5.1 central investigative question and scoring guide in Ch 21 labeled backup (instructional strategy example); could arguably be examples for grade 5.",
+    "u4979-u5032, u5120-u5168, u5197-u5205, u5319-u5384, u5559-u5624, u5710-u5776, u5880-u5921, u5954-u5961, u5978-u5986, u6106-u6168: figures extracted as table cells; some rows split across page breaks (e.g. u5125-u5157 Jamestown organizer, u5328-u5333 labelled Figure 20.6 continued but is Figure 20.5). All backup, no grade ambiguity.",
+    "u5421, u5942-u5947, u6151-u6153, u6336: extraction fragments (stray letters, misplaced words, 'Chapter 21' running footer as a unit); text garbled but backup.",
+    "u6483-u6519: Appendix B introduction is general pedagogy on inquiry/themes with no grade named; labeled backup, grades all. Per state guide Appendix B could be examples; kept backup because not grade-specific.",
+    "u6520-u6535: Key Theme 1 narrative labeled examples with grades 5,6,7,8,10,11 based on u6519 ('sample historical questions pertinent to grades five through eight and ten and eleven'); the narrative itself names no grade. The sample questions fall in later units (outside this part)."
+  ]
+}

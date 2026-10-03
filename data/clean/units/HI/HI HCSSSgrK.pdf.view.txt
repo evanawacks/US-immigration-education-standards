@@ -1,0 +1,133 @@
+=== page 1 ===
+u1 KINDERGARTEN
+u2 [T1 R1 C1] Anchor Standard
+u3 [T1 R1 C2] Grades K-2 Inquiry Standards
+u4 [T1 R3 C1] The student demonstrates an understanding of
+u5 [T1 R3 C2] Therefore, the student is able to
+u6 [T1 R4 C1] Anchor Standard 1
+u7 [T1 R4 C2] Inquiry Standard SS.K-2.1.1 Construct a variety of questions about social studies topics with guidance from adults and/or peers
+u8 [T1 R5 C1] Developing Questions and
+u9 [T1 R6 C1] Planning Inquiries
+u10 [T1 R6 C2] Inquiry Standard SS.K-2.1.2 Construct supporting questions to help answer compelling questions with guidance from adults and/or peers
+u11 [T1 R8 C1] Anchor Standard 2
+u12 [T1 R8 C2] Inquiry Standard SS.K-2.2.1 Determine whether a source is primarily fact or opinion
+u13 [T1 R9 C1] Gathering and Evaluating
+u14 [T1 R10 C1] Sources
+u15 [T1 R11 C2] Inquiry Standard SS.K-2.2.2 Determine whether a source is primary or secondary
+u16 [T1 R13 C2] Inquiry Standard SS.K-2.2.3 Gather facts from teacher and/or adult-curated sources to answer questions
+u17 [T1 R14 C1] Anchor Standard 3
+u18 [T1 R14 C2] Begins in grades 3-5
+u19 [T1 R15 C1] Creating Claims
+u20 [T1 R16 C2] Begins in grades 3-5
+u21 [T1 R18 C1] Anchor Standard 4
+u22 [T1 R18 C2] Inquiry Standard SS.K-2.4.1 Construct explanations using correct sequence and relevant information
+u23 [T1 R19 C1] Communicating
+u24 [T1 R20 C1] Conclusions
+u25 [T1 R20 C2] Inquiry Standard SS.K-2.4.2 Respectfully ask and answer questions about arguments and explanations
+u26 [T1 R22 C2] Inquiry Standard SS.K-2.4.3 Present explanations using a variety of print, oral, and digital technologies
+u27 [T1 R23 C1] Anchor Standard 5
+u28 [T1 R23 C2] Inquiry Standard SS.K-2.5.1 Identify problems or issues in classrooms, schools, or communities
+u29 [T1 R24 C1] Taking Informed Action
+u30 [T1 R26 C2] Inquiry Standard SS.K-2.5.2 Identify ways in which people are trying to address problems or issues in classrooms, schools, or communities
+u31 [T1 R27 C2] Inquiry Standard SS.K-2.5.3 Use deliberative and democratic procedures (e.g., listening, consensus building, voting) to identify ways to take action on classroom, school, or community problems or issues
+u32 [T1 R28 C2] Inquiry Standard SS.K-2.5.4 Show evidence of taking individual or group action on one or more problems or issues
+=== page 2 ===
+u33 [T1 R1 C1] Theme 1
+u34 [T1 R1 C2] Working Together
+u35 [T1 R3 C1] Sample Compelling Questions
+u36 [T1 R3 C2] • Why do we need rules? • Why do rules sometimes change?
+u37 [T1 R4 C1] Anchor Standard
+u38 [T1 R4 C2] Topic
+u39 [T1 R4 C3] Content Standard
+u40 [T1 R4 C4] Sample Content/Concepts
+u41 [T1 R6 C1] The student demonstrates an understanding of
+u42 [T1 R6 C3] Therefore, the student is able to
+u43 [T1 R7 C1] Civics Anchor Standard 8
+u44 [T1 R7 C2] Rights and Responsibilities
+u45 [T1 R7 C3] Content Standard SS.K.1.8.1 Compare rules that apply in different settings and evaluate the consequences of following or not following rules
+u46 [T1 R7 C4] • Rules: classroom, library, playground, home, park, store • Consequences: disciplinary action, increased or revoked privileges, rewards
+u47 [T1 R8 C1] Processes, Rules and
+u48 [T1 R9 C1] Laws
+u49 [T1 R11 C1] Civics Anchor Standard 8 Processes, Rules and Laws
+u50 [T1 R11 C2] Principles and Values of Democracy
+u51 [T1 R11 C3] Content Standard SS.K.1.8.2 Determine ways that people can work together effectively to make decisions
+u52 [T1 R11 C4] • Working Together: active listening, cooperation, equal access to resources, group rules, inclusion of all voices
+u53 [T1 R12 C1] Civics Anchor Standard 7 Civic Virtues and Democratic Principles
+u54 [T1 R12 C2] Principles and Values of Democracy
+u55 [T1 R12 C3] Content Standard SS.K.1.7.3 Compare roles and responsibilities of self and others at home, at school, and in neighborhood settings
+u56 [T1 R12 C4] • Role of Self: classmate, community member, family member, friend • Roles of Others: classmates, employees, family members, friends, neighbors, police officers, teachers • Responsibilities: active participation, chores, enforcing rules, following rules, respect for yourself and others, work duties
+=== page 3 ===
+u57 [T1 R1 C1] Theme 2
+u58 [T1 R1 C2] Myself and My Family
+u59 [T1 R3 C1] Sample Compelling
+u60 [T1 R3 C2] • How does what you do affect others? • Why do people see things differently?
+u61 [T1 R4 C1] Questions
+u62 [T1 R6 C1] Anchor Standard
+u63 [T1 R6 C2] Topic
+u64 [T1 R6 C3] Content Standard
+u65 [T1 R6 C4] Sample Content/Concepts
+u66 [T1 R8 C1] The student demonstrates an understanding of
+u67 [T1 R8 C3] Therefore, the student is able to
+u68 [T1 R9 C1] History
+u69 [T1 R9 C2] Chronological Thinking
+u70 [T1 R9 C3] Content Standard SS.K.2.17.1 Sequence important events in your life
+u71 [T1 R9 C4] • Time: today, yesterday, long ago, before, after, younger, older, beginning, middle, end, days, weeks, months • Events: birthdays, family functions, family travel, holidays
+u72 [T1 R10 C1] Anchor Standard 17
+u73 [T1 R11 C1] Change, Continuity
+u74 [T1 R12 C1] and Context
+u75 [T1 R14 C1] History
+u76 [T1 R14 C2] Cause and Effect
+u77 [T1 R14 C3] Content Standard SS.K.2.19.2 Explain the effects of an event in your life
+u78 [T1 R14 C4] • Events: celebrated a birthday, celebrated a holiday, made a new friend, played a game, visited family, went shopping • Effects: felt happy, gave someone a gift, received a gift, tasted new food, won or lost a game
+u79 [T1 R15 C1] Anchor Standard 19
+u80 [T1 R16 C1] Causation and
+u81 [T1 R17 C1] Argumentation
+u82 [T1 R19 C1] History
+u83 [T1 R19 C2] Differing Viewpoints
+u84 [T1 R19 C3] Content Standard SS.K.2.18.3 Describe an event from two different perspectives
+u85 [T1 R19 C4] • Initial Understanding of Point of View: daily activities, fairy tale characters’ perspectives, sympathy, perspective, proximity to situation
+u86 [T1 R20 C1] Anchor Standard 18
+u87 [T1 R21 C1] Perspectives
+=== page 4 ===
+u88 [T1 R1 C1] Theme 3
+u89 [T1 R1 C2] Needs and Wants, Spaces and Places
+u90 [T1 R3 C1] Sample Compelling
+u91 [T1 R3 C2] • How does where we live affect how we live? • Why can’t we have everything we need and want?
+u92 [T1 R4 C1] Questions
+u93 [T1 R7 C1] Anchor Standard
+u94 [T1 R7 C2] Topic
+u95 [T1 R7 C3] Content Standard
+u96 [T1 R7 C4] Sample Content/Concepts
+u97 [T1 R9 C1] The student demonstrates an understanding of
+u98 [T1 R9 C3] Therefore, the student is able to
+u99 [T1 R10 C1] Economics
+u100 [T1 R10 C2] Choice
+u101 [T1 R10 C3] Content Standard SS.K.3.9.1 Give examples of how scarcity affects your daily choices
+u102 [T1 R10 C4] • Scarcity: in the classroom (e.g., supplies, technology), at home (e.g., toys, money, living space), in the community (e.g., playground, parks, police) • Choices: conserve, give, pay more, save, share
+u103 [T1 R11 C1] Anchor Standard 9
+u104 [T1 R12 C1] Economic Decision
+u105 [T1 R13 C1] Making
+u106 [T1 R15 C1] Economics
+u107 [T1 R15 C2] Limited Resources and Choice
+u108 [T1 R15 C3] Content Standard SS.K.3.10.2 Describe differences between needs and wants
+u109 [T1 R15 C4] • Differences: often determined by different perspectives and values • Needs: air, water, food, shelter • Wants: phone, television, toys
+u110 [T1 R16 C1] Anchor Standard 10
+u111 [T1 R17 C1] Exchange and
+u112 [T1 R18 C1] Markets
+u113 [T1 R20 C1] Geography
+u114 [T1 R20 C2] Spatial Representation
+u115 [T1 R20 C3] Content Standard SS.K.3.13.3 Examine physical characteristics on maps and globes using positional words
+u116 [T1 R20 C4] • Physical Features: cities, mountains, oceans, roads, volcanoes • Positional Words: above, below, near, far, left, right, and cardinal directions
+u117 [T1 R21 C1] Anchor Standard 13
+u118 [T1 R22 C1] Geographic
+u119 [T1 R23 C1] Representations:
+u120 [T1 R24 C1] Spatial Views of the
+u121 [T1 R25 C1] World
+u122 [T1 R26 C1] Geography
+u123 [T1 R26 C2] Movement
+u124 [T1 R26 C3] Content Standard SS.K.3.15.4 Describe how and why people move from place to place
+u125 [T1 R26 C4] • How: animal, bike, boat, bus, car, jitney, plane, subway, train, walk, ship • Why: adventure, job, school, war, weather
+u126 [T1 R27 C1] Anchor Standard 15
+u127 [T1 R28 C1] Human Population:
+u128 [T1 R29 C1] Spatial Patterns and
+u129 [T1 R30 C1] Movements

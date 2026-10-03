@@ -1,69 +1,352 @@
 {
-  "state": "AZ",
-  "file": "AZ 2018 History and Social Science Standards _Update8.23.19.pdf",
-  "structure": "Front matter (intro, core discipline descriptors, anchor standards table, inquiry arc, design, time table, coding explanations) then K-8 grade sections, each: title with storyline theme (e.g. 'THIRD GRADE - ARIZONA STUDIES'), narrative overview and bulleted content focus, then DISCIPLINARY SKILLS AND PROCESSES, CIVICS, ECONOMICS, GEOGRAPHY, HISTORY. Within each discipline an Anchor Standard sentence (SP1-4, C1-4, E1-5, G1-4, H1-4) precedes its grade standards coded grade.anchor.number (e.g. K.SP1.2, 6.E5.1, HS.C2.6). Extraction merges several bullets, the next anchor sentence and sub-bullets ('Key concepts include ...' examples) into one unit; these mixed units are labeled standards. High school (one 9-12 set, no courses) starts with narrative and 'Course considerations' lists (civics/government, economics, geography, US/Arizona history, world history) which are suggested topics (examples), then HS.xx standards with code and text in separate side-by-side units (x=108 code, x=180 text).",
-  "labels": [
-    {"units": "u1-u2", "grades": "all", "course": null, "cat": "backup", "section": "Cover"},
-    {"units": "u5-u9", "grades": "all", "course": null, "cat": "backup", "section": "Introduction"},
-    {"units": "u12", "grades": "all", "course": null, "cat": "backup", "section": "K-8 grade level storylines intro"},
-    {"units": "u15-u17", "grades": "all", "course": null, "cat": "backup", "section": "Core discipline descriptors"},
-    {"units": "u20", "grades": "all", "course": null, "cat": "backup", "section": "Anchor standards intro"},
-    {"units": "u21-u47", "grades": "K-12", "course": null, "cat": "standards", "section": "Anchor Standards table (SP, C, E, G, H)"},
-    {"units": "u48", "grades": "all", "course": null, "cat": "backup", "section": "Anchor standards note"},
-    {"units": "u51-u96", "grades": "K-12", "course": null, "cat": "standards", "section": "Anchor standards by grade crosswalk table"},
-    {"units": "u99-u103", "grades": "all", "course": null, "cat": "backup", "section": "Inquiry Arc"},
-    {"units": "u106-u109", "grades": "all", "course": null, "cat": "backup", "section": "Design of the standards"},
-    {"units": "u112-u146", "grades": "all", "course": null, "cat": "backup", "section": "Assumed instructional time"},
-    {"units": "u149-u184", "grades": "all", "course": null, "cat": "backup", "section": "Coding of K-8 and HS standards"},
-    {"units": "u187", "grades": "K", "course": null, "cat": "standards", "section": "Kindergarten title"},
-    {"units": "u188-u189", "grades": "K", "course": null, "cat": "examples", "section": "Kindergarten storyline and content focus"},
-    {"units": "u190-u215", "grades": "K", "course": null, "cat": "standards", "section": "Kindergarten SP, C, E, G, H"},
-    {"units": "u218", "grades": "1", "course": null, "cat": "standards", "section": "Grade 1 title"},
-    {"units": "u219-u220", "grades": "1", "course": null, "cat": "examples", "section": "Grade 1 storyline and content focus"},
-    {"units": "u221-u249", "grades": "1", "course": null, "cat": "standards", "section": "Grade 1 SP, C, E, G, H"},
-    {"units": "u252", "grades": "2", "course": null, "cat": "standards", "section": "Grade 2 title"},
-    {"units": "u253-u254", "grades": "2", "course": null, "cat": "examples", "section": "Grade 2 storyline and content focus"},
-    {"units": "u255-u286", "grades": "2", "course": null, "cat": "standards", "section": "Grade 2 SP, C, E, G, H"},
-    {"units": "u289", "grades": "3", "course": null, "cat": "standards", "section": "Grade 3 title"},
-    {"units": "u290-u291", "grades": "3", "course": null, "cat": "examples", "section": "Grade 3 storyline and content focus"},
-    {"units": "u292-u325", "grades": "3", "course": null, "cat": "standards", "section": "Grade 3 SP, C, E, G, H"},
-    {"units": "u328", "grades": "4", "course": null, "cat": "standards", "section": "Grade 4 title"},
-    {"units": "u329-u330", "grades": "4", "course": null, "cat": "examples", "section": "Grade 4 storyline and content focus"},
-    {"units": "u331-u367", "grades": "4", "course": null, "cat": "standards", "section": "Grade 4 SP, C, E, G, H"},
-    {"units": "u370-u371", "grades": "5", "course": null, "cat": "standards", "section": "Grade 5 title and period"},
-    {"units": "u372-u373", "grades": "5", "course": null, "cat": "examples", "section": "Grade 5 storyline and content focus"},
-    {"units": "u374-u412", "grades": "5", "course": null, "cat": "standards", "section": "Grade 5 SP, C, E, G, H"},
-    {"units": "u415-u417", "grades": "6", "course": null, "cat": "standards", "section": "Grade 6 title and period"},
-    {"units": "u418-u419", "grades": "6", "course": null, "cat": "examples", "section": "Grade 6 storyline and content focus"},
-    {"units": "u420-u457", "grades": "6", "course": null, "cat": "standards", "section": "Grade 6 SP, C, E, G, H"},
-    {"units": "u460", "grades": "7", "course": null, "cat": "standards", "section": "Grade 7 title and period"},
-    {"units": "u461-u462", "grades": "7", "course": null, "cat": "examples", "section": "Grade 7 storyline and content focus"},
-    {"units": "u463-u500", "grades": "7", "course": null, "cat": "standards", "section": "Grade 7 SP, C, E, G, H"},
-    {"units": "u503", "grades": "8", "course": null, "cat": "standards", "section": "Grade 8 title"},
-    {"units": "u504-u505", "grades": "8", "course": null, "cat": "examples", "section": "Grade 8 storyline and content focus"},
-    {"units": "u506-u553", "grades": "8", "course": null, "cat": "standards", "section": "Grade 8 SP, C, E, G, H"},
-    {"units": "u556", "grades": "9-12", "course": null, "cat": "standards", "section": "High School Standards title"},
-    {"units": "u557", "grades": "9-12", "course": null, "cat": "backup", "section": "High school standards intro and graduation requirements"},
-    {"units": "u558-u559", "grades": "9-12", "course": "Civics/Government", "cat": "examples", "section": "Course considerations: civics/government topics"},
-    {"units": "u562-u564", "grades": "9-12", "course": "Economics", "cat": "examples", "section": "Course considerations: economics topics"},
-    {"units": "u565-u567", "grades": "9-12", "course": "Geography", "cat": "examples", "section": "Course considerations: geography topics"},
-    {"units": "u570-u572", "grades": "9-12", "course": "United States/Arizona History", "cat": "examples", "section": "Course considerations: US/Arizona history eras"},
-    {"units": "u575-u577", "grades": "9-12", "course": "World History", "cat": "examples", "section": "Course considerations: world history topics"},
-    {"units": "u580-u802", "grades": "9-12", "course": null, "cat": "standards", "section": "HS SP, C, E, G, H standards"}
-  ],
-  "issues": [
-    "u21-u47, u51-u96: anchor standards tables extracted cell by cell; the grade-band dot marks in the crosswalk table (u51-u96) are graphics and lost, so labeled K-12 for all.",
-    "u99-u103: Inquiry Arc elements are narrative descriptions, labeled backup although they relate to the skills standards.",
-    "u149-u184: coding explanation contains sample standards (K.SP1.2, 6.E5.1, HS.SP4.2, HS.C2.6) used as illustrations; labeled backup.",
-    "u189, u220, u254, u291, u330, u373, u419, u462, u505: bullet content-focus lists merged with trailing 'DISCIPLINARY SKILLS AND PROCESSES' heading; labeled examples.",
-    "u290, u329: unit begins with the grade subtitle (e.g. 'prehistoric to present-day Arizona', 'Pre-contact Americas ...') merged with overview narrative; labeled examples.",
-    "u191, u197, u203, u205, u208, u232 and similar: single units merge several standards, next anchor sentence, discipline headings (CIVICS, ECONOMICS...) and 'Key concepts' sub-bullets; labeled standards without splitting.",
-    "u351: orphaned 'Key concepts' bullet after page break (belongs to 4.E3.1), kept as standards.",
-    "u390: orphaned 'Key origins' bullets after page break belonging to 5.C3.1, kept as standards.",
-    "u317: 3.G4.1 lacks a bullet marker; u363 contains typo '4H2.2'; u408 '5G4.1' (extraction/source typos).",
-    "u557: ends with merged heading 'COURSE CONSIDERATIONS FOR HIGH SCHOOL CIVICS/GOVERNMENT', labeled backup.",
-    "u558-u577: HS course considerations are suggested topics for LEA-built courses, not formal standards; course names chosen from headings (HIGH SCHOOL CIVICS/GOVERNMENT etc.).",
-    "u792-u794: HS.H3.4 / HS.H3.5 order scrambled in extraction (text of H3.5 'labor systems' appears before its code at u793); labeled in place.",
-    "State guide notes consistent: grades K,1-8 and 9-12; HS has no grade-specific courses."
-  ]
+ "state": "AZ",
+ "file": "AZ 2018 History and Social Science Standards _Update8.23.19.pdf",
+ "structure": "Front matter (intro, core discipline descriptors, anchor standards table, inquiry arc, design, time table, coding explanations) then K-8 grade sections, each: title with storyline theme (e.g. 'THIRD GRADE - ARIZONA STUDIES'), narrative overview and bulleted content focus, then DISCIPLINARY SKILLS AND PROCESSES, CIVICS, ECONOMICS, GEOGRAPHY, HISTORY. Within each discipline an Anchor Standard sentence (SP1-4, C1-4, E1-5, G1-4, H1-4) precedes its grade standards coded grade.anchor.number (e.g. K.SP1.2, 6.E5.1, HS.C2.6). Extraction merges several bullets, the next anchor sentence and sub-bullets ('Key concepts include ...' examples) into one unit; these mixed units are labeled standards. High school (one 9-12 set, no courses) starts with narrative and 'Course considerations' lists (civics/government, economics, geography, US/Arizona history, world history) which are suggested topics (examples), then HS.xx standards with code and text in separate side-by-side units (x=108 code, x=180 text).",
+ "labels": [
+  {
+   "units": "u1-u2",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u5-u9",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction"
+  },
+  {
+   "units": "u12",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "K-8 grade level storylines intro"
+  },
+  {
+   "units": "u15-u17",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Core discipline descriptors"
+  },
+  {
+   "units": "u20",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Anchor standards intro"
+  },
+  {
+   "units": "u21-u47",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Anchor Standards table (SP, C, E, G, H)"
+  },
+  {
+   "units": "u48",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Anchor standards note"
+  },
+  {
+   "units": "u51-u96",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Anchor standards by grade crosswalk table"
+  },
+  {
+   "units": "u99-u103",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry Arc"
+  },
+  {
+   "units": "u106-u109",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Design of the standards"
+  },
+  {
+   "units": "u112-u146",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Assumed instructional time"
+  },
+  {
+   "units": "u149-u184",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Coding of K-8 and HS standards"
+  },
+  {
+   "units": "u187",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title"
+  },
+  {
+   "units": "u188-u189",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten storyline and content focus"
+  },
+  {
+   "units": "u190-u215",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten SP, C, E, G, H"
+  },
+  {
+   "units": "u218",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 title"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 storyline and content focus"
+  },
+  {
+   "units": "u221-u249",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 SP, C, E, G, H"
+  },
+  {
+   "units": "u252",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 title"
+  },
+  {
+   "units": "u253-u254",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 storyline and content focus"
+  },
+  {
+   "units": "u255-u286",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 SP, C, E, G, H"
+  },
+  {
+   "units": "u289",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 title"
+  },
+  {
+   "units": "u290-u291",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 storyline and content focus"
+  },
+  {
+   "units": "u292-u325",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 SP, C, E, G, H"
+  },
+  {
+   "units": "u328",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 title"
+  },
+  {
+   "units": "u329-u330",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 storyline and content focus"
+  },
+  {
+   "units": "u331-u367",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 SP, C, E, G, H"
+  },
+  {
+   "units": "u370-u371",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 title and period"
+  },
+  {
+   "units": "u372-u373",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 storyline and content focus"
+  },
+  {
+   "units": "u374-u412",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 SP, C, E, G, H"
+  },
+  {
+   "units": "u415-u417",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title and period"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 storyline and content focus"
+  },
+  {
+   "units": "u420-u457",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 SP, C, E, G, H"
+  },
+  {
+   "units": "u460",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title and period"
+  },
+  {
+   "units": "u461-u462",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 storyline and content focus"
+  },
+  {
+   "units": "u463-u500",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SP, C, E, G, H"
+  },
+  {
+   "units": "u503",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title"
+  },
+  {
+   "units": "u504-u505",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 storyline and content focus"
+  },
+  {
+   "units": "u506-u553",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SP, C, E, G, H"
+  },
+  {
+   "units": "u556",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Standards title"
+  },
+  {
+   "units": "u557",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High school standards intro and graduation requirements"
+  },
+  {
+   "units": "u558-u559",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Course considerations: Civics/Government — Course considerations: civics/government topics"
+  },
+  {
+   "units": "u562-u564",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Course considerations: Economics — Course considerations: economics topics"
+  },
+  {
+   "units": "u565-u567",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Course considerations: Geography — Course considerations: geography topics"
+  },
+  {
+   "units": "u570-u572",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Course considerations: United States/Arizona History — Course considerations: US/Arizona history eras"
+  },
+  {
+   "units": "u575-u577",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Course considerations: World History — Course considerations: world history topics"
+  },
+  {
+   "units": "u580-u802",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "HS SP, C, E, G, H standards"
+  }
+ ],
+ "issues": [
+  "u21-u47, u51-u96: anchor standards tables extracted cell by cell; the grade-band dot marks in the crosswalk table (u51-u96) are graphics and lost, so labeled K-12 for all.",
+  "u99-u103: Inquiry Arc elements are narrative descriptions, labeled backup although they relate to the skills standards.",
+  "u149-u184: coding explanation contains sample standards (K.SP1.2, 6.E5.1, HS.SP4.2, HS.C2.6) used as illustrations; labeled backup.",
+  "u189, u220, u254, u291, u330, u373, u419, u462, u505: bullet content-focus lists merged with trailing 'DISCIPLINARY SKILLS AND PROCESSES' heading; labeled examples.",
+  "u290, u329: unit begins with the grade subtitle (e.g. 'prehistoric to present-day Arizona', 'Pre-contact Americas ...') merged with overview narrative; labeled examples.",
+  "u191, u197, u203, u205, u208, u232 and similar: single units merge several standards, next anchor sentence, discipline headings (CIVICS, ECONOMICS...) and 'Key concepts' sub-bullets; labeled standards without splitting.",
+  "u351: orphaned 'Key concepts' bullet after page break (belongs to 4.E3.1), kept as standards.",
+  "u390: orphaned 'Key origins' bullets after page break belonging to 5.C3.1, kept as standards.",
+  "u317: 3.G4.1 lacks a bullet marker; u363 contains typo '4H2.2'; u408 '5G4.1' (extraction/source typos).",
+  "u557: ends with merged heading 'COURSE CONSIDERATIONS FOR HIGH SCHOOL CIVICS/GOVERNMENT', labeled backup.",
+  "u558-u577: HS course considerations are suggested topics for LEA-built courses, not formal standards; course names chosen from headings (HIGH SCHOOL CIVICS/GOVERNMENT etc.).",
+  "u792-u794: HS.H3.4 / HS.H3.5 order scrambled in extraction (text of H3.5 'labor systems' appears before its code at u793); labeled in place.",
+  "State guide notes consistent: grades K,1-8 and 9-12; HS has no grade-specific courses.",
+  "Reviewer: AZ high-school standards are a single 9-12 set; the \"course considerations\" topic lists are kept as 9-12 examples (no course rows)."
+ ]
 }

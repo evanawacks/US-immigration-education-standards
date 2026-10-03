@@ -1,0 +1,5176 @@
+{
+ "state": "MI",
+ "file": "Final_Social_Studies_Standards_Document_655968_7_1bc63b.pdf",
+ "structure": "Michigan K-12 Social Studies Standards (2019), Attachment B. Front matter (goals, C3 framework, GLCE coding, using the GLCE, Public Act 170) then three band overviews (K-2, 3-5, 6-8), each with an overview chart, an Arc of Inquiry (C3 Dimensions 1-4, band-specific) and Process and Skills Standards P1-P4 (K-2, 3-5, 6-8, HS), followed by per-grade content expectations. Grades K-4 are organized by discipline (History, Geography, Civics and Government, Economics, Public Discourse/Civic Participation); codes are grade - letter+standard.0.expectation (e.g. K - G1.0.2, 4 - C5.0.3) with the code and text in two x-position columns (x~58 code, x~144 text) and 'Examples may include but are not limited to:' lines under expectations. Grades 5 and 8 (Integrated U.S. History) are organized by USHG era (5 - U1.1.1; 8 - U4.2.1; grade 8 also has F1 foundations) and grade 6 (World Geography, 6 - G1.1.1) and grade 7 (World History and Geography, 7 - H1.1.1, 7 - W3.1.1) by strand/era with the same expectation layout. Each grade ends with a Public Discourse, Decision Making, and Civic Participation (P3, P4) block. Each grade section starts with a title ('SOCIAL STUDIES CONTENT EXPECTATIONS: GRADE X'), discipline headings, 'Individually and collaboratively, students will engage in planned inquiries...' discipline statements, standard-category headings with strand statements, then coded expectations. Sample compelling and supporting question tables sit in the band overviews. High school is four courses, each with its own Arc of Inquiry and Process and Skills copy preceding it: World History and Geography (F1 foundations, Eras 4-7 expectations coded 4.1.1-7.2.6 as 'x.y.z Title - text', and Contemporary Global Issues CG1-CG4), United States History and Geography (F1, Eras 6-9, 6.1.1-9.3.1), Civics (C - 1.1.1 to C - 6.4.4 in the same two-column layout, with compelling questions and a Democratic Values chart as support) and Economics (E1-E4, 1.1.1-4.1.6). Back matter: writers/reviewers lists and State Board of Education/MDE staff.",
+ "labels": [
+  {
+   "units": "u1-u5",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover (Attachment B)"
+  },
+  {
+   "units": "u7-u30",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u34-u130",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Goals of social studies: introduction, purpose, literacy, civic participation, C3 framework"
+  },
+  {
+   "units": "u134-u161",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Michigan GLCE purpose and GLCE coding explanation"
+  },
+  {
+   "units": "u162-u191",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Process and Skills Standards overview chart (K-12)"
+  },
+  {
+   "units": "u192-u221",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Michigan content expectations; using the social studies GLCE"
+  },
+  {
+   "units": "u224-u227",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Social studies standards and Michigan law (PA 170 of 2016)"
+  },
+  {
+   "units": "u231-u232",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "K-2 Overview heading"
+  },
+  {
+   "units": "u233-u235",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Overview > grade-specific contexts > Kindergarten: Myself and Others"
+  },
+  {
+   "units": "u236-u238",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Overview > grade-specific contexts > 1st: Families and Schools"
+  },
+  {
+   "units": "u239-u241",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Overview > grade-specific contexts > 2nd: The Local Community"
+  },
+  {
+   "units": "u242-u252",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 Social Studies Overview Chart"
+  },
+  {
+   "units": "u254-u261",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades K-2 (Dimensions 1-4)"
+  },
+  {
+   "units": "u262",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades K-2 (Dimensions 1-4)"
+  },
+  {
+   "units": "u263-u276",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades K-2 (Dimensions 1-4)"
+  },
+  {
+   "units": "u277",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample K-2 compelling and supporting questions (heading)"
+  },
+  {
+   "units": "u278-u280",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: Kindergarten"
+  },
+  {
+   "units": "u281-u283",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: 1st"
+  },
+  {
+   "units": "u284-u286",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: 2nd"
+  },
+  {
+   "units": "u287",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Running footer captured in table cell"
+  },
+  {
+   "units": "u289-u310",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards K-2 (P1-P4)"
+  },
+  {
+   "units": "u312-u322",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > History"
+  },
+  {
+   "units": "u323-u331",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u332",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u333-u336",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u337",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u338-u342",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u343",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Geography"
+  },
+  {
+   "units": "u347-u352",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u353",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u354-u359",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u360",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u361-u367",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u368",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K content expectations > Civics and Government"
+  },
+  {
+   "units": "u369-u378",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Economics"
+  },
+  {
+   "units": "u379-u402",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u406-u413",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u414",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u415-u420",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u421",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u422-u427",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u428",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > History"
+  },
+  {
+   "units": "u429-u437",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u438",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u439-u441",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u442",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u443-u446",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u447",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u448-u450",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u451",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u452-u455",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u456",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u457-u461",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u462",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u463-u465",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u466",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Geography"
+  },
+  {
+   "units": "u470-u475",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u476",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u477-u479",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u480",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u481-u484",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u485",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u486-u488",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u489",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u490-u493",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u494",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u495-u497",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u498",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Civics and Government"
+  },
+  {
+   "units": "u499-u513",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Economics"
+  },
+  {
+   "units": "u514",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 content expectations > Economics"
+  },
+  {
+   "units": "u515-u516",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Economics"
+  },
+  {
+   "units": "u517-u539",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u543-u558",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u559",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u560-u562",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u563",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u564-u566",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u567",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > History"
+  },
+  {
+   "units": "u568-u581",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u582",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u583-u589",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u590",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u591-u594",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u595",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u596-u600",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u601",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u602-u609",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Geography"
+  },
+  {
+   "units": "u610-u620",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u621",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u622-u628",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u629",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u630-u637",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u638",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u639-u640",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u641",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u642-u648",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u649",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u650-u652",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Civics and Government"
+  },
+  {
+   "units": "u654-u671",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Economics"
+  },
+  {
+   "units": "u672-u683",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u684",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u685-u699",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u701-u702",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "3rd-5th Grade Overview heading"
+  },
+  {
+   "units": "u703-u705",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Overview > grade-specific contexts > 3rd: Michigan Studies"
+  },
+  {
+   "units": "u706-u708",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Overview > grade-specific contexts > 4th: U.S. Studies"
+  },
+  {
+   "units": "u709-u711",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 Overview > grade-specific contexts > 5th: Integrated U.S. History"
+  },
+  {
+   "units": "u712-u722",
+   "grades": "3-4",
+   "course": null,
+   "cat": "standards",
+   "section": "3rd-4th Grade Social Studies Overview Chart"
+  },
+  {
+   "units": "u723-u733",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5th Grade Integrated U.S. History Overview Chart"
+  },
+  {
+   "units": "u737-u744",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 3-5 (Dimensions 1-4)"
+  },
+  {
+   "units": "u745",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 3-5 (Dimensions 1-4)"
+  },
+  {
+   "units": "u746-u761",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 3-5 (Dimensions 1-4)"
+  },
+  {
+   "units": "u763",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample 3rd-5th compelling and supporting questions (heading)"
+  },
+  {
+   "units": "u764-u766",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: 3rd"
+  },
+  {
+   "units": "u767-u769",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: 4th"
+  },
+  {
+   "units": "u770-u772",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample compelling/supporting questions: 5th"
+  },
+  {
+   "units": "u776-u797",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards 3-5 (P1-P4)"
+  },
+  {
+   "units": "u799-u805",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u806",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u807-u812",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u813",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u814-u816",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u817",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u818-u834",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > History"
+  },
+  {
+   "units": "u838-u850",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u851",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u852-u856",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u857",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u858-u859",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u860",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u861-u865",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u866-u867",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u868-u870",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u871",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u872-u877",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u878",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u879-u883",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u884",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u885-u887",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Geography"
+  },
+  {
+   "units": "u888-u894",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u895",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u896-u909",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u910-u911",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u912-u922",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u923-u924",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Civics and Government"
+  },
+  {
+   "units": "u925-u934",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u935",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u936-u938",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u939",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u940-u950",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u951",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u952-u956",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Economics"
+  },
+  {
+   "units": "u957-u968",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u969",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u973-u984",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u986-u993",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u994-u995",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u996-u1010",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u1011",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u1015-u1017",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u1018",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > History"
+  },
+  {
+   "units": "u1019-u1024",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1025",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1026-u1028",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1029-u1030",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1031-u1044",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1045",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1046-u1056",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1057",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1058-u1060",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1061",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1062-u1066",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Geography"
+  },
+  {
+   "units": "u1067-u1073",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1074",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1075-u1084",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1085",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1086-u1088",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1089-u1090",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1091-u1095",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1096",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1097",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1098-u1100",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1101-u1109",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1110",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1111-u1113",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1114",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1115-u1121",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1122",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1123-u1128",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Civics and Government"
+  },
+  {
+   "units": "u1129-u1135",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1136",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1137-u1138",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1139",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1140-u1142",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1143-u1144",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1148-u1150",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1151",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1152-u1153",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1154",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1155-u1157",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1158",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1159-u1160",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1161",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1162-u1164",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1165-u1166",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1167-u1171",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1172",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1173-u1176",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Economics"
+  },
+  {
+   "units": "u1177-u1188",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u1189",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u1190-u1201",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content expectations > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u1205-u1219",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Integrated U.S. History organized by era (outline)"
+  },
+  {
+   "units": "u1220-u1221",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 terminology note and integration footnote"
+  },
+  {
+   "units": "u1223-u1241",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1242",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1243-u1245",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1246",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1247-u1265",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1266",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1267-u1272",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U1 USHG Era 1 Beginnings to 1620"
+  },
+  {
+   "units": "u1273-u1318",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1319",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1323-u1332",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1333",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1336",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1337-u1339",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U2 USHG Era 2 Colonization and Settlement"
+  },
+  {
+   "units": "u1340-u1352",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1353",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1354-u1356",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1357",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1358-u1366",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1367",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1368-u1392",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1393",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1394-u1399",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1403",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1404-u1406",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1407",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1408-u1410",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1411",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1412-u1417",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u1418-u1441",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u1443",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "6th-8th Grade Overview heading"
+  },
+  {
+   "units": "u1444",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6th-8th Grade Social Studies Overview Chart (title)"
+  },
+  {
+   "units": "u1445",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade 6 World Geography"
+  },
+  {
+   "units": "u1446",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade 7 World History and Geography"
+  },
+  {
+   "units": "u1447",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade 8 Integrated U.S. History"
+  },
+  {
+   "units": "u1448",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade Level Focus (grade 6)"
+  },
+  {
+   "units": "u1449",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade Level Focus (grade 7)"
+  },
+  {
+   "units": "u1450",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Grade Level Focus (grade 8)"
+  },
+  {
+   "units": "u1451",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Overview chart strands (grade 6)"
+  },
+  {
+   "units": "u1452",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Overview chart strands (grade 7)"
+  },
+  {
+   "units": "u1453",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Overview Chart > Overview chart strands (grade 8)"
+  },
+  {
+   "units": "u1457-u1464",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 6-8 (Dimensions 1-4)"
+  },
+  {
+   "units": "u1465",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 6-8 (Dimensions 1-4)"
+  },
+  {
+   "units": "u1466-u1481",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 6-8 (Dimensions 1-4)"
+  },
+  {
+   "units": "u1483-u1502",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards 6-8 (P1-P4)"
+  },
+  {
+   "units": "u1506",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "World Geography: Grade 6 (title)"
+  },
+  {
+   "units": "u1507",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 overview narrative"
+  },
+  {
+   "units": "u1508-u1535",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 content outline"
+  },
+  {
+   "units": "u1536-u1539",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample World Geography compelling and supporting question"
+  },
+  {
+   "units": "u1541-u1543",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1544-u1546",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1547-u1551",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1552",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1553-u1555",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1556",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1560-u1567",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1568",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1569-u1574",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1575",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1576-u1578",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1579",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1580-u1582",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1583",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1584-u1588",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1589-u1593",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1594-u1596",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u1597-u1602",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1603",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1604-u1605",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1606",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1607-u1609",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1610",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1614-u1621",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1622",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1623-u1625",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1626",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1627-u1632",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1633",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G2 Places and Regions"
+  },
+  {
+   "units": "u1634-u1640",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G3 Physical Systems"
+  },
+  {
+   "units": "u1641",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G3 Physical Systems"
+  },
+  {
+   "units": "u1642-u1648",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G3 Physical Systems"
+  },
+  {
+   "units": "u1649",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G3 Physical Systems"
+  },
+  {
+   "units": "u1650-u1656",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1657",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1658-u1660",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1661",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1662-u1666",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1667",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1668-u1675",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1676",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1677-u1681",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1682",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1683-u1685",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1686",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1687-u1689",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1690",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1691-u1698",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1699",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G4 Human Systems"
+  },
+  {
+   "units": "u1700-u1706",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1707",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1708-u1710",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1711",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1712-u1714",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1715",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1716-u1723",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1724",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1728-u1730",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1731",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G5 Environment and Society"
+  },
+  {
+   "units": "u1732-u1736",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G6 Global Issues"
+  },
+  {
+   "units": "u1737",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G6 Global Issues"
+  },
+  {
+   "units": "u1738-u1740",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G6 Global Issues"
+  },
+  {
+   "units": "u1741",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Geography > G6 Global Issues"
+  },
+  {
+   "units": "u1742-u1746",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography > G6 Global Issues"
+  },
+  {
+   "units": "u1747-u1754",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1755",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1756-u1761",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1762",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1763-u1764",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1765",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1766-u1772",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1776",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1777-u1782",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1783",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Civics and Government"
+  },
+  {
+   "units": "u1784-u1791",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1792",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1793-u1799",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1800",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1801-u1810",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1811",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1812-u1819",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1820",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1821-u1823",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1824",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u1828-u1847",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u1849",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "World History and Geography: Grade 7 (title)"
+  },
+  {
+   "units": "u1850",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 overview narrative"
+  },
+  {
+   "units": "u1851-u1872",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 content outline"
+  },
+  {
+   "units": "u1873-u1876",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample World History and Geography compelling and supporting question"
+  },
+  {
+   "units": "u1880-u1888",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1889",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1890-u1893",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1894",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1895-u1897",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1898",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1899-u1914",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1915",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1916-u1918",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1919",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1920-u1922",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > H1 World in Temporal Terms"
+  },
+  {
+   "units": "u1923-u1940",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W1 WHG Era 1"
+  },
+  {
+   "units": "u1941",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W1 WHG Era 1"
+  },
+  {
+   "units": "u1942",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > History > W1 WHG Era 1"
+  },
+  {
+   "units": "u1947-u1949",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W1 WHG Era 1"
+  },
+  {
+   "units": "u1950-u1956",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1957",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1958-u1963",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1964",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1965-u1967",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1968",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1969-u1971",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1972",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1973-u1975",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1976",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W2 WHG Era 2"
+  },
+  {
+   "units": "u1977-u1982",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u1983",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u1984-u1998",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u1999",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2000-u2002",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2003",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2007-u2009",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2010",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2011-u2013",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2014",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2015-u2016",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2017",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2018-u2022",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2023",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2024-u2026",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W3 WHG Era 3"
+  },
+  {
+   "units": "u2027-u2031",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2032",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2033-u2035",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2036",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2037-u2039",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2040",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > History > W4 Bridge to Era 4"
+  },
+  {
+   "units": "u2041-u2046",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2047",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2048-u2050",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2051",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2052-u2054",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2055",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2056-u2058",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2059",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2060",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7 > Geography > G1 World in Spatial Terms"
+  },
+  {
+   "units": "u2062",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G3 Investigation and Analysis"
+  },
+  {
+   "units": "u2063",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G3 Investigation and Analysis"
+  },
+  {
+   "units": "u2064-u2067",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G3 Investigation and Analysis"
+  },
+  {
+   "units": "u2068-u2070",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G3 Investigation and Analysis"
+  },
+  {
+   "units": "u2071",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2072",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2073-u2077",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2078",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2079-u2083",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2084",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2085-u2087",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2088",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2089-u2091",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2092",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2093-u2097",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2098",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2099-u2100",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2101",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2102-u2106",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2107",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2108-u2109",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2110",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2111-u2113",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography > G4 Human Systems / G5 Environment and Society"
+  },
+  {
+   "units": "u2117-u2136",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Public Discourse, Decision Making, and Citizen Involvement (P3, P4)"
+  },
+  {
+   "units": "u2137",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Public Discourse, Decision Making, and Citizen Involvement (P3, P4)"
+  },
+  {
+   "units": "u2138-u2139",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Public Discourse, Decision Making, and Citizen Involvement (P3, P4)"
+  },
+  {
+   "units": "u2141",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Integrated U.S. History, Grade 8 (title)"
+  },
+  {
+   "units": "u2142",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 overview narrative"
+  },
+  {
+   "units": "u2143-u2147",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 content outline by era"
+  },
+  {
+   "units": "u2148",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Terminology note (Indigenous Peoples)"
+  },
+  {
+   "units": "u2149-u2152",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Sample Integrated U.S. History compelling and supporting question"
+  },
+  {
+   "units": "u2154",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Stray draft version stamp"
+  },
+  {
+   "units": "u2157-u2164",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Foundations in U.S. History and Geography Eras 1-2 (F1)"
+  },
+  {
+   "units": "u2165",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Foundations in U.S. History and Geography Eras 1-2 (F1)"
+  },
+  {
+   "units": "u2166-u2173",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Foundations in U.S. History and Geography Eras 1-2 (F1)"
+  },
+  {
+   "units": "u2174-u2177",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2178",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2179-u2181",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2182",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2183-u2198",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2202",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U3 USHG Era 3 Revolution and the New Nation"
+  },
+  {
+   "units": "u2203-u2209",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2210",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2211-u2213",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2214",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2215-u2217",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2218",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2219-u2239",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2240",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2241-u2247",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2248",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2252-u2254",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2255",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2256-u2258",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2259",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2260-u2263",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2264",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U4 USHG Era 4 Expansion and Reform"
+  },
+  {
+   "units": "u2265-u2274",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2275",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2276-u2278",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2279",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2280-u2287",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2288",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2289-u2291",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2292",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2293-u2338",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U5 USHG Era 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u2339-u2350",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U6 USHG Era 6"
+  },
+  {
+   "units": "u2351-u2358",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U6 USHG Era 6"
+  },
+  {
+   "units": "u2359-u2363",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > U6 USHG Era 6"
+  },
+  {
+   "units": "u2367",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > U6 USHG Era 6"
+  },
+  {
+   "units": "u2368-u2390",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Public Discourse, Decision Making, and Civic Participation (P3, P4)"
+  },
+  {
+   "units": "u2392-u2398",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (shared copy before the overview chart)"
+  },
+  {
+   "units": "u2399",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 9-12 (shared copy before the overview chart)"
+  },
+  {
+   "units": "u2400-u2415",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (shared copy before the overview chart)"
+  },
+  {
+   "units": "u2419-u2439",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards: High School (shared copy)"
+  },
+  {
+   "units": "u2441-u2442",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School GLCE heading"
+  },
+  {
+   "units": "u2443",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Social Studies Overview Chart (title)"
+  },
+  {
+   "units": "u2444",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > World History and Geography"
+  },
+  {
+   "units": "u2445",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > United States History and Geography"
+  },
+  {
+   "units": "u2446",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Civics"
+  },
+  {
+   "units": "u2447",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Economics"
+  },
+  {
+   "units": "u2448",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > World History and Geography"
+  },
+  {
+   "units": "u2449",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > United States History and Geography"
+  },
+  {
+   "units": "u2450",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Civics"
+  },
+  {
+   "units": "u2451",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Economics"
+  },
+  {
+   "units": "u2452",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > World History and Geography"
+  },
+  {
+   "units": "u2453",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "High School Overview Chart > United States History and Geography"
+  },
+  {
+   "units": "u2454",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Civics"
+  },
+  {
+   "units": "u2455",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "High School Overview Chart > Economics"
+  },
+  {
+   "units": "u2456-u2459",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "Sample WHG compelling and supporting question"
+  },
+  {
+   "units": "u2463",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "World History and Geography (course title)"
+  },
+  {
+   "units": "u2464-u2480",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG: the world in time and space; content expectations narrative"
+  },
+  {
+   "units": "u2481-u2484",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "backup",
+   "section": "WHG: things to remember; process and skills note"
+  },
+  {
+   "units": "u2485-u2506",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG content statement outline"
+  },
+  {
+   "units": "u2510-u2511",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Foundations heading"
+  },
+  {
+   "units": "u2512",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Foundations introduction questions"
+  },
+  {
+   "units": "u2513-u2525",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > F1 World Historical and Geographical Inquiry and Literacy Practices"
+  },
+  {
+   "units": "u2526",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 heading"
+  },
+  {
+   "units": "u2527",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 introduction questions"
+  },
+  {
+   "units": "u2528-u2530",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2531",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2532",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2533",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2534-u2536",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2537",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2541",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2542",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2543",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2544",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2545",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 4 expectations (4.1, 4.2); Era 5 heading"
+  },
+  {
+   "units": "u2546",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 5 introduction questions"
+  },
+  {
+   "units": "u2547-u2549",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2550",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2551",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2552",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2553-u2556",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2557",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2558-u2559",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2560",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2561",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 5 expectations (5.1, 5.2); Era 6 heading"
+  },
+  {
+   "units": "u2562",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 introduction questions"
+  },
+  {
+   "units": "u2563-u2567",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2568",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2572-u2574",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2575",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2576",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2577",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2578",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2579",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2580",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2581",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2582",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 6 expectations (6.1, 6.2); Era 7 heading"
+  },
+  {
+   "units": "u2583",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 introduction questions"
+  },
+  {
+   "units": "u2584-u2592",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2593",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2594",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2595",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2599",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2600",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2601",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2602",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2603",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2604",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2605",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2606",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > Era 7 expectations (7.1, 7.2)"
+  },
+  {
+   "units": "u2607",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > CG Contemporary Global Issues heading"
+  },
+  {
+   "units": "u2608",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "examples",
+   "section": "WHG > CG introduction questions"
+  },
+  {
+   "units": "u2609-u2636",
+   "grades": "9-12",
+   "course": "World History and Geography",
+   "cat": "standards",
+   "section": "WHG > CG1-CG4 Contemporary Global Issues"
+  },
+  {
+   "units": "u2638-u2644",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding USHG)"
+  },
+  {
+   "units": "u2645",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding USHG)"
+  },
+  {
+   "units": "u2646-u2661",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding USHG)"
+  },
+  {
+   "units": "u2665-u2685",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards: High School (copy preceding USHG)"
+  },
+  {
+   "units": "u2687",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "United States History and Geography (course title)"
+  },
+  {
+   "units": "u2688-u2701",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "backup",
+   "section": "USHG: history and geography as disciplines"
+  },
+  {
+   "units": "u2702-u2708",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG: Michigan's content expectations and eras"
+  },
+  {
+   "units": "u2709-u2714",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "backup",
+   "section": "USHG: conclusion"
+  },
+  {
+   "units": "u2715-u2718",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "Sample USHG compelling and supporting question"
+  },
+  {
+   "units": "u2722-u2735",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "backup",
+   "section": "USHG: things to remember; process and skills note"
+  },
+  {
+   "units": "u2737-u2769",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG content expectations organizing chart (themes and eras)"
+  },
+  {
+   "units": "u2773-u2797",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG content outline (eras 6-9)"
+  },
+  {
+   "units": "u2799-u2800",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Foundations heading"
+  },
+  {
+   "units": "u2801",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Foundations explanation"
+  },
+  {
+   "units": "u2802-u2810",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > F1 Political and Intellectual Transformations to 1877"
+  },
+  {
+   "units": "u2814-u2823",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2824",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2825",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2826",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2827-u2842",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2843",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2844-u2853",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2854",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2855",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2856",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2857-u2858",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 6 Industrial, Urban, and Global United States"
+  },
+  {
+   "units": "u2859-u2867",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2868",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2869-u2877",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2878",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2882-u2888",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2889",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2890",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2891",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2892-u2897",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2898",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 7 Great Depression and World War II"
+  },
+  {
+   "units": "u2899-u2905",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2906",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2907-u2912",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2913",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2914",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2915-u2916",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2917-u2925",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2926",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2927-u2928",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2929",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2930-u2939",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2940",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2941-u2942",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2943",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2944",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2945",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2946",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2947",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 8 Post-World War II United States"
+  },
+  {
+   "units": "u2951-u2964",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 9 America in a New Global Age"
+  },
+  {
+   "units": "u2965",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 9 America in a New Global Age"
+  },
+  {
+   "units": "u2966",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 9 America in a New Global Age"
+  },
+  {
+   "units": "u2967",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "examples",
+   "section": "USHG > Era 9 America in a New Global Age"
+  },
+  {
+   "units": "u2968-u2969",
+   "grades": "9-12",
+   "course": "United States History and Geography",
+   "cat": "standards",
+   "section": "USHG > Era 9 America in a New Global Age"
+  },
+  {
+   "units": "u2971-u2977",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Civics)"
+  },
+  {
+   "units": "u2978",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Civics)"
+  },
+  {
+   "units": "u2979-u2994",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Civics)"
+  },
+  {
+   "units": "u2998-u3018",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Social Studies Process and Skills: High School (copy preceding Civics)"
+  },
+  {
+   "units": "u3020",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics (course title)"
+  },
+  {
+   "units": "u3021-u3025",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: introduction and 2019 revisions"
+  },
+  {
+   "units": "u3026-u3050",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics content statement outline"
+  },
+  {
+   "units": "u3054-u3075",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics: strand compelling questions and process/skills possibilities"
+  },
+  {
+   "units": "u3079-u3124",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics: Democratic Values and Constitutional Principles chart and taxonomy discussion"
+  },
+  {
+   "units": "u3125-u3138",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: things to remember; process and skills note"
+  },
+  {
+   "units": "u3142-u3149",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C1 Philosophical Foundations"
+  },
+  {
+   "units": "u3150",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C1 Philosophical Foundations"
+  },
+  {
+   "units": "u3151-u3153",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C1 Philosophical Foundations"
+  },
+  {
+   "units": "u3154",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C1 Philosophical Foundations"
+  },
+  {
+   "units": "u3155-u3157",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C1 Philosophical Foundations"
+  },
+  {
+   "units": "u3158-u3162",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3163",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3164-u3166",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3167-u3168",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3169-u3175",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3176",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3177-u3179",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3180",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3181-u3183",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3184",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C2 Founding and Development of U.S. Government"
+  },
+  {
+   "units": "u3185-u3189",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3190",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3191-u3193",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3194",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3198-u3200",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3201",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3202-u3204",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3205",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3206-u3211",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3212",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3213-u3215",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3216",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3217-u3220",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3221-u3222",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3223-u3241",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3242",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3243-u3257",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3258",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3259-u3261",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3262",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C3 Structure and Function of Governments"
+  },
+  {
+   "units": "u3266-u3270",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3271",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3272-u3274",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3275",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3276-u3282",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3283",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3284-u3286",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3287",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3288-u3291",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3292-u3294",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3295-u3297",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3298-u3299",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C4 Rights and Liberties"
+  },
+  {
+   "units": "u3300-u3304",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3305",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3306-u3308",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3309-u3313",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3314-u3315",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3316",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3317-u3320",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3321",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3322-u3324",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3325",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3326-u3328",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3329",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3330-u3331",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3332",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C5 The U.S. and World Affairs"
+  },
+  {
+   "units": "u3333-u3340",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3341",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3342-u3344",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3345",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3346-u3349",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3350-u3364",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3365-u3368",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3369",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3373-u3374",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3375",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3376-u3382",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3383",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3384-u3386",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3387-u3388",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3389-u3391",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3392",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics > C6 Citizenship and Civic Participation"
+  },
+  {
+   "units": "u3394-u3400",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Economics)"
+  },
+  {
+   "units": "u3401",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Economics)"
+  },
+  {
+   "units": "u3402-u3417",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Arc of Inquiry: Grades 9-12 (copy preceding Economics)"
+  },
+  {
+   "units": "u3421-u3441",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Social Studies Process and Skills Standards: High School (copy preceding Economics)"
+  },
+  {
+   "units": "u3443",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics (course title)"
+  },
+  {
+   "units": "u3444-u3450",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics: course focus and content areas narrative"
+  },
+  {
+   "units": "u3454-u3465",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics: things to remember; process and skills note"
+  },
+  {
+   "units": "u3467-u3490",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics: content areas and economic literacy chart"
+  },
+  {
+   "units": "u3494-u3504",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics content statement outline"
+  },
+  {
+   "units": "u3505-u3508",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Sample Economics compelling and supporting question"
+  },
+  {
+   "units": "u3510-u3519",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3520",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3521",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3522",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3523-u3528",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3529",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3530-u3533",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3534",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3535-u3537",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3538",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3539",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3540",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3541",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E1 The Market Economy"
+  },
+  {
+   "units": "u3542-u3550",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E2 The National Economy"
+  },
+  {
+   "units": "u3551",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E2 The National Economy"
+  },
+  {
+   "units": "u3552-u3553",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E2 The National Economy"
+  },
+  {
+   "units": "u3557-u3562",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E3 The International Economy"
+  },
+  {
+   "units": "u3563",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E3 The International Economy"
+  },
+  {
+   "units": "u3564-u3568",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E3 The International Economy"
+  },
+  {
+   "units": "u3569",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E3 The International Economy"
+  },
+  {
+   "units": "u3570-u3571",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E3 The International Economy"
+  },
+  {
+   "units": "u3572-u3575",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E4 Personal Finance"
+  },
+  {
+   "units": "u3576",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics > E4 Personal Finance"
+  },
+  {
+   "units": "u3577-u3581",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > E4 Personal Finance"
+  },
+  {
+   "units": "u3585-u3769",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Writers/reviewers, task forces, State Board of Education, MDE staff"
+  }
+ ],
+ "issues": [
+  "Document structure matches the state guide: K-2, 3-5, 6-8 band overviews with per-grade content expectations (K-8) and four HS courses (World History and Geography, United States History and Geography, Civics, Economics). Course titles are given without the 'High School' prefix used in the table of contents.",
+  "The 'Arc of Inquiry' and 'Process and Skills Standards: High School' pages occur four times (u2392-u2439 before the overview chart; u2638-u2685; u2971-u3018; u3394-u3441). The first copy is labeled course null / 9-12 (shared); the other three sit immediately before USHG, Civics and Economics respectively (no copy follows Economics) and are labeled with that course. WHG therefore has only the shared copy; the placement (copy precedes its course vs. follows the previous course) is inferred from page order and the TOC.",
+  "Dimension 2 paragraphs of each Arc of Inquiry copy (u262, u745, u1465, u2399, u2645, u2978, u3401) contain no student indicators, only description; labeled backup. Dimension 1/3/4 paragraphs (heading plus intro sentence plus indicators) are labeled standards because the heading and intro are fused in one unit.",
+  "u162-u191: K-12 Process and Skills chart (P1-P4 with mixed-band wording, in scrambled column order via x positions); labeled backup/all as an overview, the band-specific P standards are labeled separately (u289-u310 K-2, u776-u797 3-5, u1483-u1502 6-8, HS copies).",
+  "u198-u213: sequence-of-study chart extracted as garbled table fragments (words out of order); labeled backup/all.",
+  "u50-u130: C3 arc graphic labels (u50-u86) and the dimension tables (u113-u130) are extracted in scrambled order; labeled backup/all.",
+  "Overview charts: u242-u252 (K-2), u712-u733 (3-4 and 5), u1444-u1453 (6-8), u2443-u2455 (HS) are labeled standards by column (C1 = grade/course 1 etc.); several cells merge multiple strands and column indices skip (e.g. 3-4 chart has C1,C2,C4,C5,C6 only) so the grade assignment relies on the header row; u1451-u1453 and u2452-u2455 merge many strand headings in one unit.",
+  "u1097: '4 – C3.0.2 Give examples of powers...' code and text extracted in one unit (no column split); u2015, u2016, u2198 similar (code and text in one unit). u1133 code typo '4 – E1.01' (E1.0.1); u1916 '7– H1.4.2' (missing space).",
+  "u2260-u2263: Grade 8 U4.3.4 and U4.3.5 code/text lines are interleaved (U4.3.4 text 'Analyze the goals and effects of the antebellum temperance movement' and U4.3.5 text 'Investigate the role of religion in shaping antebellum reform movements' are split across unit order); labeled standards grade 8 as one block.",
+  "u2059-u2060: table-cell artifacts inside Grade 7 G1.2.4 (the 'Examples ... Google Earth' sentence is placed in a table cell, u2059, labeled examples; u2060 is a running-footer fragment, labeled backup). u287 is a similar footer fragment (backup).",
+  "u2154 '(x=280) v 6/19' is a stray draft version stamp; labeled backup grade 8.",
+  "u1220, u1221, u1942, u2148: terminology note / footnotes labeled backup within their grade.",
+  "u1544-u1546 (Grade 6 G1 narrative on geo-spatial technology and geographic literacy), u2063 and u2072 (Grade 7 G3/G4 narrative) are labeled examples as content narrative; the adjacent strand statements are standards.",
+  "u1590-u1593 (bullets continuing 'Examples may include but are not limited to:' under 6 – G1.3.1), u2351-u2358 (Grade 8 U6.1.1 example lines), u2915-u2916 (USHG 8.1.3 examples split over two units, first begins with '.'), u3168, u3352-u3364 (C-6.2.1 example bullets and footnote) and u3387-u3388 (C-6.4.3 'Considerations ...') are labeled examples by hand because they do not start with the words 'Examples ...'.",
+  "u2163-u2164, u2168 bullets under Grade 8 F1.1/F1.2 and the many '•' sub-bullets under standards (e.g. 5 – U2.1.1, 8 – U4.2.1) are part of the standard and labeled standards.",
+  "u2178: Grade 8 note explaining that U3.3.1-U3.3.5 repeat Grade 5 content at a higher level; labeled examples (clarification).",
+  "u2159-u2160 (Grade 8 foundations explanation) and u2801 (USHG foundations explanation) labeled examples as clarifying narrative; F1 expectations themselves are standards.",
+  "u2512, u2527, u2546, u2562, u2583, u2608: WHG era/foundation introductions consisting of guiding questions labeled examples; era and strand statements (e.g. 4.1 Global or Cross-Temporal Expectations) are standards.",
+  "u2464-u2480: WHG narrative on scales of time and space and the list of eras; labeled examples (course focus narrative). u2702-u2708 (USHG eras list) labeled standards as outline; u2688-u2701 and u2709-u2714 (disciplinary philosophy and conclusion) backup.",
+  "u2737-u2769: USHG themes/eras organizing chart extracted with columns interleaved (x=54, 226, 405 positions); order of text is scrambled; labeled standards (USHG outline).",
+  "u3079-u3124: Civics 'Democratic Values and Constitutional Principles' chart and the following taxonomy discussion are heavily scrambled (text from the chart and a side paragraph interleaved by x position, paragraph split across u3103/u3118/u3123/u3124); labeled examples (content-related support) for the whole range.",
+  "u3054-u3075: Civics compelling questions and 'process and skills possibilities' per strand labeled examples (course Civics).",
+  "u3467-u3490: Economics knowledge/content-area chart with interleaved columns; labeled examples (course content description).",
+  "Sample compelling-question tables: u769 (grade 4 row) lists 'Standards Connection: 3 – E1...' (grade 3 codes) and u2459, u2718, u3508 list standard numbers without course prefixes; labeled by the grade/course of the row as given. u766 sample for grade 3 and u772 for grade 5 are straightforward.",
+  "Grade 3-5 band overview chart: u712-u722 is the '3rd-4th Grade Social Studies Overview Chart' (labeled grades 3-4) and u723-u733 the 5th grade chart (grade 5), per the table titles.",
+  "K-4 expectation text lines carrying an x-position prefix (code at x~58, text at x~144) wrap across units (e.g. u330-u331); the continuation lines are part of the same standard and labeled standards.",
+  "Hyphenation artifacts (e.g. 'spa tial', 'landmass es') inside units are source extraction issues; labels unaffected.",
+  "Public Act 170 of 2016 text (u224-u227) labeled backup (statutory text). Genocide instruction cross-references to HS-WHG 7.2.x and HS-US 7.2.4 are in that backup block.",
+  "Process and skills overview lines u2486-u2490, u3494-u3495 (outline headings listing P1-P4) labeled standards in their course outline blocks."
+ ]
+}

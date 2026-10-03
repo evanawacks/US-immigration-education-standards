@@ -1,0 +1,532 @@
+{
+ "state": "ME",
+ "file": "MLR_-_Social_Studies_2019_revised_standards_-_10.2025_fcf62a.docx",
+ "structure": "Maine Learning Results: Social Studies (2019 revised). Front matter (Introduction, Guiding Principles, Skills in Social Studies, Key Ideas, enduring themes, eras table, Maine statutes) then 16 tables, four strands (Civics & Government, Personal Finance & Economics, Geography, History) x four grade bands (K-2, 3-5, 6-8, 9-Diploma). Each table: rows Strand / Standard (statement), band name (Childhood, Early Adolescence, Adolescence), a header row of grade columns (Kindergarten|Grade 1|Grade 2 or Grade 3|Grade 4|Grade 5, or a single \"Grades 6-8\" / \"Grades 9-Diploma\"), then Performance Expectations cells. In K-5 tables each grade column cell holds numbered performance expectations (e.g. Civics & Government 1..n; Personal Finance / Economics / Global Connections; Geography 1-2; History 1-3); an asterisk (*) marks Guiding Principles. In 6-8 and 9-Diploma tables the strand's performance expectations are split into stems (e.g. \"Civics & Government 1: Students understand ... by:\") followed by two cells: F = Foundational (F1..) and D = Developmental (D1..) levels. 9-Diploma = grades 9-12. End: Definitions. No separate examples or teacher notes.",
+ "labels": [
+  {
+   "units": "u1-u39",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, Guiding Principles, skills, key ideas, enduring themes, eras table, statutes"
+  },
+  {
+   "units": "u40-u44",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (K-2): strand, standard, band heading"
+  },
+  {
+   "units": "u45",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Kindergarten"
+  },
+  {
+   "units": "u46",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Grade 1"
+  },
+  {
+   "units": "u47",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Grade 2"
+  },
+  {
+   "units": "u48",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (K-2): Performance Expectations label"
+  },
+  {
+   "units": "u49",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Kindergarten"
+  },
+  {
+   "units": "u50",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Grade 1"
+  },
+  {
+   "units": "u51",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Grade 2"
+  },
+  {
+   "units": "u52-u56",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (3-5): strand, standard, band heading"
+  },
+  {
+   "units": "u57",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Grade 3"
+  },
+  {
+   "units": "u58",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Grade 4"
+  },
+  {
+   "units": "u59",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: column header Grade 5"
+  },
+  {
+   "units": "u60",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (3-5): Performance Expectations label"
+  },
+  {
+   "units": "u61",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Grade 3"
+  },
+  {
+   "units": "u62",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Grade 4"
+  },
+  {
+   "units": "u63",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government: Performance Expectations, Grade 5"
+  },
+  {
+   "units": "u64-u84",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (6-8): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u85-u100",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics & Government (9-12): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u101-u105",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (K-2): strand, standard, band heading"
+  },
+  {
+   "units": "u106",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Kindergarten"
+  },
+  {
+   "units": "u107",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Grade 1"
+  },
+  {
+   "units": "u108",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Grade 2"
+  },
+  {
+   "units": "u109",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (K-2): Performance Expectations label"
+  },
+  {
+   "units": "u110",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Kindergarten"
+  },
+  {
+   "units": "u111",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Grade 1"
+  },
+  {
+   "units": "u112",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Grade 2"
+  },
+  {
+   "units": "u113-u117",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (3-5): strand, standard, band heading"
+  },
+  {
+   "units": "u118",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Grade 3"
+  },
+  {
+   "units": "u119",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Grade 4"
+  },
+  {
+   "units": "u120",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: column header Grade 5"
+  },
+  {
+   "units": "u121",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (3-5): Performance Expectations label"
+  },
+  {
+   "units": "u122",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Grade 3"
+  },
+  {
+   "units": "u123",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Grade 4"
+  },
+  {
+   "units": "u124",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics: Performance Expectations, Grade 5"
+  },
+  {
+   "units": "u125-u145",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (6-8): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u146-u166",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance & Economics (9-12): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u167-u171",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (K-2): strand, standard, band heading"
+  },
+  {
+   "units": "u172",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Kindergarten"
+  },
+  {
+   "units": "u173",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Grade 1"
+  },
+  {
+   "units": "u174",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Grade 2"
+  },
+  {
+   "units": "u175",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (K-2): Performance Expectations label"
+  },
+  {
+   "units": "u176",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Kindergarten"
+  },
+  {
+   "units": "u177",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Grade 1"
+  },
+  {
+   "units": "u178",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Grade 2"
+  },
+  {
+   "units": "u179-u183",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (3-5): strand, standard, band heading"
+  },
+  {
+   "units": "u184",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Grade 3"
+  },
+  {
+   "units": "u185",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Grade 4"
+  },
+  {
+   "units": "u186",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: column header Grade 5"
+  },
+  {
+   "units": "u187",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (3-5): Performance Expectations label"
+  },
+  {
+   "units": "u188",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Grade 3"
+  },
+  {
+   "units": "u189",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Grade 4"
+  },
+  {
+   "units": "u190",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Performance Expectations, Grade 5"
+  },
+  {
+   "units": "u191-u206",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (6-8): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u207-u222",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (9-12): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u223-u227",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History (K-2): strand, standard, band heading"
+  },
+  {
+   "units": "u228",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Kindergarten"
+  },
+  {
+   "units": "u229",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Grade 1"
+  },
+  {
+   "units": "u230",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Grade 2"
+  },
+  {
+   "units": "u231",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "History (K-2): Performance Expectations label"
+  },
+  {
+   "units": "u232",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Kindergarten"
+  },
+  {
+   "units": "u233",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Grade 1"
+  },
+  {
+   "units": "u234",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Grade 2"
+  },
+  {
+   "units": "u235-u239",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History (3-5): strand, standard, band heading"
+  },
+  {
+   "units": "u240",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Grade 3"
+  },
+  {
+   "units": "u241",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Grade 4"
+  },
+  {
+   "units": "u242",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History: column header Grade 5"
+  },
+  {
+   "units": "u243",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History (3-5): Performance Expectations label"
+  },
+  {
+   "units": "u244",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Grade 3"
+  },
+  {
+   "units": "u245",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Grade 4"
+  },
+  {
+   "units": "u246",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Performance Expectations, Grade 5"
+  },
+  {
+   "units": "u247-u262",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History (6-8): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u263-u278",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History (9-12): strand, standard, performance expectations (F/D)"
+  },
+  {
+   "units": "u279-u282",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Definitions: strand, standard, performance expectation"
+  }
+ ],
+ "issues": [
+  "u51, u112 (Civics, Personal Finance K-2 Grade 2 cells): in K-2 tables the Grade 2 cell appears at column C5 (merged-cell extraction) rather than C4; assigned by left-to-right order K, 1, 2 (matches the content progression).",
+  "u262: the 6-8 History D cell for History 2 is at column C4 rather than C3 (extraction artifact); treated as the Developmental level for 6-8.",
+  "u40-u44, u52-u56, u64-u69 etc.: Strand/Standard statement rows apply to every grade of the table and are labelled with the table's band (K-2, 3-5, 6-8 or 9-12) so they are copied into each grade.",
+  "u13-u14 (Skills in Social Studies) is explanatory text with no grade-tied performance expectations; labelled backup. Guiding Principles u5-u12 backup. u27-u30 eras tables backup.",
+  "u72, u75, u77, u80, u82 etc.: repeated \"Performance Expectations\" row labels in 6-8 and 9-12 tables labelled with the table band."
+ ]
+}

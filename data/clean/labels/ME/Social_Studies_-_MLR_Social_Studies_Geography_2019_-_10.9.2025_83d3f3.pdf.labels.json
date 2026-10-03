@@ -1,0 +1,81 @@
+{
+ "state": "ME",
+ "file": "Social_Studies_-_MLR_Social_Studies_Geography_2019_-_10.9.2025_83d3f3.pdf",
+ "structure": "Extract of the Maine Learning Results 2019 Social Studies standards, Geography strand only. Pages 1-4 repeat the front matter of the full standards (Introduction, Guiding Principles, skills, key ideas, enduring themes, eras table, statutes). Then a strand heading (\"Geography\"), and for each grade level (Kindergarten, 1st..5th, 6-8th, 9th-Diploma) a block of \"Grade Level: X\", \"Standard: ...\", and \"Performance Expectation: ...\" as paragraph units. K-5 expectations are numbered (Geography 1, 2, ...); 6-8 and 9-Diploma are split into Foundational (F1..) and Developmental (D1..) items. Asterisk (*) marks Guiding Principles. 9th-Diploma = grades 9-12. Running header \"Strand: Geography\" in page markers.",
+ "labels": [
+  {
+   "units": "u1-u18",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, Guiding Principles, skills, key ideas, enduring themes, eras, statutes (repeated front matter of the full document)"
+  },
+  {
+   "units": "u19",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Strand heading: Geography"
+  },
+  {
+   "units": "u20-u23",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level K: standard and performance expectations"
+  },
+  {
+   "units": "u24-u27",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 1: standard and performance expectations"
+  },
+  {
+   "units": "u28-u31",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 2: standard and performance expectations"
+  },
+  {
+   "units": "u32-u35",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 3: standard and performance expectations"
+  },
+  {
+   "units": "u36-u39",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 4: standard and performance expectations"
+  },
+  {
+   "units": "u40-u44",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 5: standard and performance expectations"
+  },
+  {
+   "units": "u45-u48",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 6-8: standard and performance expectations"
+  },
+  {
+   "units": "u49-u52",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography: Grade Level 9-12: standard and performance expectations"
+  }
+ ],
+ "issues": [
+  "u43-u44: Grade 5 Performance Expectation is split across the page 6/7 break; u44 (page 7 opening) is the continuation of Grade 5, labelled 5, before the Grade 6-8 heading at u45.",
+  "Unit ids u21, u25, u29 etc. are not present in the view (furniture); nothing to label."
+ ]
+}

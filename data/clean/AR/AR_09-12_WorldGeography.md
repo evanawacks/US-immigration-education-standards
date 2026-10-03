@@ -43,8 +43,6 @@ G.4 Students will understand the impact humans have on the environment. This inc
 Environment and Society
 ● Human Impact on the Environment
 Geography - World in Spatial Terms
-G.2 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to interpret spatial information. This includes the spatial organization of people, cultures, places, and environments within various regions and geographic skills to interpret the past, the present, and plan for the future.
-● Spatial data to construct maps and other geographic representations using geographic tools and geospatial technologies ● Spatial organization of people, cultures, places, and environments on the Earth’s surface
 G.2.WG.1 Investigate political, cultural, and economic relationships between places and regions using geographic representations and geospatial technologies.
 G.2.WG.2 Solve geographic problems created by physical characteristics of places and regions using multiple geographic representations and geospatial technologies.
 G.2.WG.3 Analyze various forms of maps that illustrate multiple points of view.
@@ -54,15 +52,11 @@ G.2.WG.6
 Research the impact of interdependence and accessibility among people, places, and environments.
 G.2.WG.7 Use spatial data to answer student-generated questions about the relationships between spatial organization of people and places, people and environment, and places and environments.
 Geography - Places and Regions
-G.2 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to interpret spatial information. This includes the spatial organization of people, cultures, places, and environments within various regions and geographic skills to interpret the past, the present, and plan for the future.
-● Characteristics that make up a region and predict the impact physical and cultural influences will have on that region in the future
 G.2.WG.8 Analyze the impact of physical characteristics and human influences on the creation of various regions by examining spatial patterns, geographic representations, and available geospatial technologies.
 G.2.WG.9 Compare the changes over time on the boundaries and characteristics of regions caused by various factors using geographic representations and data (e.g., climate, technology, migration, conflict, government).
 G.2.WG.10 Analyze the impact of cultural and social factors on individuals’ varying perceptions of places and regions created by physical characteristics and human influences.
 G.2.WG.11 Use the physical and cultural characteristics of regions to justify the creation of a new region based on current trends and data.
 Geography - Human Systems
-G.3 Students will understand the characteristics of different physical and cultural regions and how they change over time (through demographic changes, migration, settlement, and conflict). This includes the impact physical geography has on human systems, including politics, culture, economics, and use of resources and how a region or culture interacts with itself, the environment, and other regions and cultures.
-● Complex cultural and physical characteristics, distribution, and migration of human population and settlement on the Earth’s surface ● Patterns and networks of economic interdependence among physical and cultural regions; future patterns based on current phenomena
 G.3.WG.1 Use demographic data to characterize the populations of various places and reasons for the changes over time (e.g., birth rates, death rates, gender, Holocaust, age, race, ethnicity).
 G.3.WG.2 Analyze the effects of various influences on population distribution and migration on society (e.g., history, migration, physical environment, economy, politics, technology, climate, land use, resources).
 G.3.WG.3 Analyze various push-and pull factors that lead to migration and changes in these factors over time.
@@ -75,8 +69,6 @@ G.3.WG.9
 Evaluate how economic globalization and the expanding use of scarce resources contribute to conflict and cooperation within and among countries.
 G.3.WG.10 Examine the diffusion of a phenomenon and its impact on various regions of contact (e.g., spread of infectious disease, invasive plants, invasive animals).
 Geography - Environment and Society
-G.4 Students will understand the impact humans have on the environment. This includes the distribution, management, and consumption of resources.
-● Human Impact on the Environment
 G.4.WG.1 Analyze effects of changes made by humans on the physical environment (e.g., industrialization, agricultural, rural land use, urban land use, mining, forestry).
 G.4.WG.2 Analyze ways people have used technology to adapt to and modify the physical environment.
 G.4.WG.3 Research consequences of human-made and natural catastrophes on global trade, politics, and human migration using a variety of primary and secondary sources.

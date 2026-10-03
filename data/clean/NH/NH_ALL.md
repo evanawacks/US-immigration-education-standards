@@ -203,7 +203,6 @@ Amy Vandersall, Cooperative Middle School, Stratham
 James D. Walter, Ph.D., Southern NH University, Manchester
 Jane Weber, Hudson Public Schools
 For the New Hampshire Department of Education: Kenneth J. Relihan, Alstead
-www.ed.state.nh.us/frameworks
 [running headers/footers] June 2006 | New Hampshire Curriculum Framework | Social Studies | Page 4 of 106 | Page 5 of 106 | Page 6 of 106 | Page 7 of 106 | Page 8 of 106 | Page 9 of 106 | Page 10 of 106 | I | Page 13 of 106 | Page 14 of 106 | Page 15 of 106 | Students will demonstrate an | Standard | Page 21 of 106 | Page 26 of 106 | Page 28 of 106 | Page 37 of 106 | Page 53 of 106 | Page 58 of 106 | Page 61 of 106 | Page 63 of 106 | Page 67 of 106 | Page 70 of 106 | Page 73 of 106 | Page 75 of 106 | Page 102 of 106 | Page 103 of 106 | Page 104 of 106 | Page 105 of 106 | Page 106 of 106
 
 ## Issues

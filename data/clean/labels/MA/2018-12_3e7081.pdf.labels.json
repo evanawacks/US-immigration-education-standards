@@ -1,0 +1,3844 @@
+{
+ "state": "MA",
+ "file": "2018-12_3e7081.pdf",
+ "structure": "[part 1] Massachusetts History and Social Science Curriculum Framework 2018 (Pre-K-12). Front matter (cover, credits, vision, 10 Guiding Principles, scope and sequence, organization, how-to-read page) is backup; 'Standards for History and Social Science Practice, Pre-K-12' (7 practices) are standards PK-12 and are repeated as a sidebar list on each grade's introductory page. Each grade or course (Pre-K to Grade 8, then HS United States History I) has: (1) an introductory page with title, narrative, a topics list, literacy note and 'Looking Back, Looking Ahead' (title = standards, narrative/topics/looking back = examples), then (2) '<Grade> Content Standards' organised by numbered Topics with codes like [PreK.T1], [K.T2], [4.T4a], [6.T3b], [8.T5], [USI.T1] and a 'Supporting Question' (examples, unless in the same unit as a topic heading); numbered standards with a. b. c. sub-items, 'For example' text and 'Clarification Statement' (examples), 'Key/Suggested Primary Sources ... in Appendix D' (examples), and numbered footnotes (content footnotes = examples; footnotes in front matter, literacy and practice-statement notes = backup); then (3) 'History and Social Science and the Standards for Literacy' with grade-specific Reading Informational Text [RI], Writing [W], Speaking and Listening [SL] standards (Pre-K-5) or grades 6-8 [RCA-H, WCA, SLCA] literacy standards (backup). Grades 6-7 are a two-year world geography sequence labelled Grade 6 and Grade 7; Grade 8 is Civics (Topics 1-7). High school courses are titled 'United States History I' etc.; course = 'United States History I' for that course's own units, and the Practice standards sidebar is course null grades PK-12. The view is single-column text; tables are rare (a one-column 'Suggested sources' table in Grade 6). This part covers Pre-K through US History I Topic 7 up to u1192 (u1195 onward is labeled by another agent).\n[part 2] Massachusetts History and Social Science Curriculum Framework (2018), part 2 of the file (u1195 onward): end of High School United States History I (Topic 7), then High School courses and electives each with an intro page (title, overview narrative with guiding questions, a boxed 'Standards for History and Social Science Practice, Pre-K-12' list that is split into several units, topic list, literacy note and 'connections' paragraph) followed by 'Content Standards' pages. Content standards are organized by Topic (codes such as [USII.T1], [WHI.T3], [GOV]/[T1]), each topic opens with a 'Supporting Question', then numbered standards 1..n with lettered sub-lists (a, b, c...), 'Clarification Statement' blocks, and 'Key/Suggested Primary Sources for Topic n in Appendix D' blocks; footnotes appear at page bottoms. Courses in range: United States History I (tail), United States History II, World History I, World History II, elective United States Government and Politics, elective Economics, Personal Financial Literacy, News/Media Literacy (HS stand-alone standard sets). Then Grades 9-10 and 11-12 Literacy Standards in the Content Areas (RCA-H, WCA, SLCA), Appendices A (English learners / students with disabilities), B (inquiry), C (using primary sources), and Appendix D (annotated primary source tables: column 1 source and annotation, last column the grade(s)/course(s) it is tied to; the World History table also has period header rows), ending with a note about the companion Resources document. All high school content is labeled grades 9-12 with the course name as written.\n",
+ "labels": [
+  {
+   "units": "u1-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, credits, acknowledgements, vision, introduction, guiding principles"
+  },
+  {
+   "units": "u126",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Pre-K"
+  },
+  {
+   "units": "u127",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Kindergarten"
+  },
+  {
+   "units": "u128-u129",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 1"
+  },
+  {
+   "units": "u130",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 2"
+  },
+  {
+   "units": "u131",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 3"
+  },
+  {
+   "units": "u132-u134",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 4"
+  },
+  {
+   "units": "u135",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 5"
+  },
+  {
+   "units": "u136",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grades 6 and 7"
+  },
+  {
+   "units": "u137",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 8"
+  },
+  {
+   "units": "u138",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school US History I and II"
+  },
+  {
+   "units": "u139",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school World History I and II"
+  },
+  {
+   "units": "u140-u145",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school electives"
+  },
+  {
+   "units": "u146-u148",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Organization of the standards and appendices"
+  },
+  {
+   "units": "u149-u159",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Guide to reading the introductory page"
+  },
+  {
+   "units": "u160-u172",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Figure: three pillars of the framework"
+  },
+  {
+   "units": "u173-u176",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u177-u179",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 15 on civic knowledge definition"
+  },
+  {
+   "units": "u180-u185",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice 3-7"
+  },
+  {
+   "units": "u186-u188",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "History and Social Science and the Standards for Literacy (general)"
+  },
+  {
+   "units": "u189-u193",
+   "grades": "PK-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the elementary grades"
+  },
+  {
+   "units": "u194",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten title"
+  },
+  {
+   "units": "u195",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-K introductory narrative"
+  },
+  {
+   "units": "u196-u197",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Pre-K page)"
+  },
+  {
+   "units": "u198-u201",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-K topics list, literacy note, looking ahead"
+  },
+  {
+   "units": "u202-u204",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Pre-K page)"
+  },
+  {
+   "units": "u205-u207",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K Content Standards > Topic 1 Civics"
+  },
+  {
+   "units": "u208",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 1"
+  },
+  {
+   "units": "u209-u214",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 2 Geography"
+  },
+  {
+   "units": "u215-u217",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 3 History"
+  },
+  {
+   "units": "u218",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 4 Economics"
+  },
+  {
+   "units": "u221-u223",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4"
+  },
+  {
+   "units": "u224-u244",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Pre-K literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u245",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title"
+  },
+  {
+   "units": "u246",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten introductory narrative"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (K page)"
+  },
+  {
+   "units": "u249-u251",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u252",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (K page)"
+  },
+  {
+   "units": "u253-u255",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 16 on SEL standards"
+  },
+  {
+   "units": "u256-u259",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K Content Standards > Topic 1 Civics"
+  },
+  {
+   "units": "u260",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u261",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 1 standard 3"
+  },
+  {
+   "units": "u262",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u263-u267",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 1 standard 4"
+  },
+  {
+   "units": "u268-u269",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 Geography"
+  },
+  {
+   "units": "u270",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Example under Topic 2 standard 1"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standards 2-3"
+  },
+  {
+   "units": "u273",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u274-u275",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standards 4-5"
+  },
+  {
+   "units": "u276",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Example under Topic 2 standard 5"
+  },
+  {
+   "units": "u277-u279",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standard 6, Topic 3 History"
+  },
+  {
+   "units": "u280-u283",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 2"
+  },
+  {
+   "units": "u284-u285",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 3 standard 3"
+  },
+  {
+   "units": "u286",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 4 Economics"
+  },
+  {
+   "units": "u289-u290",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 4 standards 1-3 with embedded clarifications"
+  },
+  {
+   "units": "u291-u293",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u294-u316",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "K literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u317",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 title"
+  },
+  {
+   "units": "u318",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 introductory narrative"
+  },
+  {
+   "units": "u319",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 1 page)"
+  },
+  {
+   "units": "u320",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u321",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 1 page)"
+  },
+  {
+   "units": "u322-u324",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 17 on SEL standards"
+  },
+  {
+   "units": "u325-u336",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u337-u338",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statements, Topic 1"
+  },
+  {
+   "units": "u339-u344",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 2 Geography and Topic 3 History"
+  },
+  {
+   "units": "u345-u346",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statements, Topic 3"
+  },
+  {
+   "units": "u347-u351",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 3 standards 2-3"
+  },
+  {
+   "units": "u352-u354",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u355-u362",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 4 Economics"
+  },
+  {
+   "units": "u363-u386",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u387",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 title and introductory narrative (mixed)"
+  },
+  {
+   "units": "u388",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 2 page)"
+  },
+  {
+   "units": "u389",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u390-u392",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 2 page)"
+  },
+  {
+   "units": "u393-u396",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u397",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Note on science framework, Topic 2"
+  },
+  {
+   "units": "u398-u399",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 3 History: migrations and cultures"
+  },
+  {
+   "units": "u400-u402",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 1 (migration)"
+  },
+  {
+   "units": "u403-u404",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 3 standards 2-4 (immigration, push/pull)"
+  },
+  {
+   "units": "u405",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 4"
+  },
+  {
+   "units": "u406-u410",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 4 Civics: countries and governments"
+  },
+  {
+   "units": "u411-u412",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4 standard 3"
+  },
+  {
+   "units": "u413-u417",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 5 Economics"
+  },
+  {
+   "units": "u418-u442",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u443",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 title"
+  },
+  {
+   "units": "u444",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 introductory narrative"
+  },
+  {
+   "units": "u445-u446",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 3 page)"
+  },
+  {
+   "units": "u447-u454",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 topics list and literacy note"
+  },
+  {
+   "units": "u455",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u456-u458",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 looking back/ahead"
+  },
+  {
+   "units": "u459-u466",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 Content Standards > Topic 1 Massachusetts cities and towns"
+  },
+  {
+   "units": "u467-u469",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 18-20"
+  },
+  {
+   "units": "u470-u475",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topic 1 cont. and Topic 2 Native Peoples"
+  },
+  {
+   "units": "u476-u479",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 21-22"
+  },
+  {
+   "units": "u480-u484",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topics 3-4 explorers, Pilgrims"
+  },
+  {
+   "units": "u485-u488",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Key primary source and footnotes 23-24"
+  },
+  {
+   "units": "u489-u495",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topics 5-6 Puritans, Revolution"
+  },
+  {
+   "units": "u496-u498",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 6"
+  },
+  {
+   "units": "u499-u511",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topic 6 standards 2-5"
+  },
+  {
+   "units": "u512-u546",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u547",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 title"
+  },
+  {
+   "units": "u548",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 introductory narrative"
+  },
+  {
+   "units": "u549",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards list (Grade 4 page)"
+  },
+  {
+   "units": "u550-u551",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u552-u554",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u555-u560",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u561",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 2"
+  },
+  {
+   "units": "u562",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 2 standards 3-4"
+  },
+  {
+   "units": "u563-u565",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 25"
+  },
+  {
+   "units": "u566-u568",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 3 European exploration"
+  },
+  {
+   "units": "u569",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u570-u571",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4 expansion of the US"
+  },
+  {
+   "units": "u572-u575",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 26-28"
+  },
+  {
+   "units": "u576",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4 standards 3-5"
+  },
+  {
+   "units": "u577",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u578",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4a Northeast"
+  },
+  {
+   "units": "u579",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Timeline note"
+  },
+  {
+   "units": "u580",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4a Northeast standards 4-5"
+  },
+  {
+   "units": "u581-u583",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 29"
+  },
+  {
+   "units": "u584-u586",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4b Southeast, 4c Midwest"
+  },
+  {
+   "units": "u587-u589",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 30"
+  },
+  {
+   "units": "u590-u594",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4d Southwest, 4e West"
+  },
+  {
+   "units": "u595-u630",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u631",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 title and introductory narrative (mixed)"
+  },
+  {
+   "units": "u632-u633",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 5 page)"
+  },
+  {
+   "units": "u634-u636",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u637-u639",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u640-u645",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Content Standards > Topic 1 Early colonization"
+  },
+  {
+   "units": "u646-u649",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 31-33"
+  },
+  {
+   "units": "u650-u664",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topics 1-2 colonies, revolution, formation of government"
+  },
+  {
+   "units": "u665-u669",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Key and suggested primary sources, footnote 35"
+  },
+  {
+   "units": "u670-u672",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topic 3 Principles of US government"
+  },
+  {
+   "units": "u673",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement and primary sources, Topic 3"
+  },
+  {
+   "units": "u674-u691",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topics 4-5 growth of the Republic, slavery and civil rights"
+  },
+  {
+   "units": "u692-u696",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 5 standard 8"
+  },
+  {
+   "units": "u697",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topic 5 standard 9 with clarification"
+  },
+  {
+   "units": "u698-u700",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 5"
+  },
+  {
+   "units": "u701-u746",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u747",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the middle grades"
+  },
+  {
+   "units": "u748-u752",
+   "grades": "6-7",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: World Geography and Cultures in grades 6 and 7"
+  },
+  {
+   "units": "u753-u757",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: Civics in Grade 8"
+  },
+  {
+   "units": "u758-u759",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title"
+  },
+  {
+   "units": "u760",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 introductory narrative"
+  },
+  {
+   "units": "u761-u762",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 6 page)"
+  },
+  {
+   "units": "u763-u764",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u765-u767",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u768-u772",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u773",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 1"
+  },
+  {
+   "units": "u774-u778",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 2 Human origins"
+  },
+  {
+   "units": "u779-u781",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 36-38"
+  },
+  {
+   "units": "u782-u783",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 2 standards 4-8"
+  },
+  {
+   "units": "u784",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 2"
+  },
+  {
+   "units": "u785",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 3 Western Asia, Middle East, North Africa (country lists)"
+  },
+  {
+   "units": "u786-u788",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 39-40"
+  },
+  {
+   "units": "u789-u817",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 3a-3g"
+  },
+  {
+   "units": "u818-u839",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources table, Topic 3"
+  },
+  {
+   "units": "u840-u847",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 4 Sub-Saharan Africa"
+  },
+  {
+   "units": "u848-u849",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4b"
+  },
+  {
+   "units": "u850-u859",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 4b-5 Sub-Saharan Africa, Central America, Caribbean, South America"
+  },
+  {
+   "units": "u860-u862",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources, Topic 5"
+  },
+  {
+   "units": "u863",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title"
+  },
+  {
+   "units": "u864",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 introductory narrative"
+  },
+  {
+   "units": "u865",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards heading (Grade 7 page)"
+  },
+  {
+   "units": "u866",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u867-u870",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards list and end of standard 7 with footnote (Grade 7 page)"
+  },
+  {
+   "units": "u871-u876",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 Content Standards > Topic 1 Central and South Asia"
+  },
+  {
+   "units": "u877-u879",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 41"
+  },
+  {
+   "units": "u880-u883",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 1b standard 2"
+  },
+  {
+   "units": "u884",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary sources, Topic 1"
+  },
+  {
+   "units": "u885-u902",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 2 East Asia"
+  },
+  {
+   "units": "u903",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources, Topic 2"
+  },
+  {
+   "units": "u904-u914",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 3 Southeast Asia and Oceania (mixed with sources list at start)"
+  },
+  {
+   "units": "u915",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Example, Topic 4a standard 4"
+  },
+  {
+   "units": "u916-u917",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 4b Ancient Greece"
+  },
+  {
+   "units": "u918-u920",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 42"
+  },
+  {
+   "units": "u921-u938",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 4b-4c Greece and Rome"
+  },
+  {
+   "units": "u939-u941",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary sources, Topic 4"
+  },
+  {
+   "units": "u942-u947",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated 'A Renewed Mission' page (between Grade 7 and Grade 8)"
+  },
+  {
+   "units": "u948",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title"
+  },
+  {
+   "units": "u949",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 introductory narrative"
+  },
+  {
+   "units": "u950-u951",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 8 page)"
+  },
+  {
+   "units": "u952-u957",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u958-u961",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 8 page)"
+  },
+  {
+   "units": "u962-u966",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u967-u969",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 43"
+  },
+  {
+   "units": "u970-u973",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 2 standards 2-5"
+  },
+  {
+   "units": "u974",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Note on Federalist Papers"
+  },
+  {
+   "units": "u975-u979",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 2 standard 5, Topic 3 institutions"
+  },
+  {
+   "units": "u980-u982",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 44"
+  },
+  {
+   "units": "u983-u998",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topics 3-5 institutions, rights and responsibilities of citizens, Constitution"
+  },
+  {
+   "units": "u999",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supporting question, Topic 5"
+  },
+  {
+   "units": "u1000-u1008",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 The Constitution, Amendments, Supreme Court decisions"
+  },
+  {
+   "units": "u1009-u1017",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (First Amendment) and footnotes 45-46"
+  },
+  {
+   "units": "u1018-u1019",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 standard 6b heading"
+  },
+  {
+   "units": "u1020-u1028",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (14th Amendment) and footnote 47"
+  },
+  {
+   "units": "u1029-u1030",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (14th Amendment cont.)"
+  },
+  {
+   "units": "u1031-u1032",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 standard 6c heading"
+  },
+  {
+   "units": "u1033-u1042",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (individual rights vs community interests)"
+  },
+  {
+   "units": "u1043-u1053",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 6 Massachusetts state and local government"
+  },
+  {
+   "units": "u1054-u1057",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Key primary source and footnote 48"
+  },
+  {
+   "units": "u1058-u1059",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 7 Freedom of the press and news/media literacy"
+  },
+  {
+   "units": "u1060",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supporting question, Topic 7"
+  },
+  {
+   "units": "u1061-u1064",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 7 standards 2-6"
+  },
+  {
+   "units": "u1065-u1068",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 49-50"
+  },
+  {
+   "units": "u1069-u1108",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 literacy standards (RCA-H, WCA, SLCA)"
+  },
+  {
+   "units": "u1109-u1130",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the high school grades"
+  },
+  {
+   "units": "u1131",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "United States History I title"
+  },
+  {
+   "units": "u1132",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "US History I introductory narrative"
+  },
+  {
+   "units": "u1133-u1134",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (US History I page)"
+  },
+  {
+   "units": "u1135",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "US History I topics list, literacy note, looking back"
+  },
+  {
+   "units": "u1136-u1138",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u1139-u1141",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I Content Standards > Topic 1 Origins of the Revolution and the Constitution"
+  },
+  {
+   "units": "u1142-u1147",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Clarification statement and primary sources, Topic 1"
+  },
+  {
+   "units": "u1148-u1149",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 2 Democratization and expansion"
+  },
+  {
+   "units": "u1150-u1153",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 2"
+  },
+  {
+   "units": "u1154-u1161",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 3 Economic growth in North, South, West"
+  },
+  {
+   "units": "u1162-u1165",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 3"
+  },
+  {
+   "units": "u1166-u1173",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 4 Social, political, and religious change"
+  },
+  {
+   "units": "u1174-u1176",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 4"
+  },
+  {
+   "units": "u1177",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u1178",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Supporting question, Topic 5"
+  },
+  {
+   "units": "u1179-u1181",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 5 standards"
+  },
+  {
+   "units": "u1182",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 5"
+  },
+  {
+   "units": "u1183-u1194",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topics 6-7 industry and immigration, Progressivism and WWI"
+  },
+  {
+   "units": "u1195",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 7 Progressivism and WWI > standard 5k, 6-8"
+  },
+  {
+   "units": "u1196",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "US History I > Topic 7 > classroom example and primary sources"
+  },
+  {
+   "units": "u1199",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "US History II course title"
+  },
+  {
+   "units": "u1200",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "US History II course overview and guiding questions"
+  },
+  {
+   "units": "u1201-u1202",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1203-u1207",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "US History II topic list"
+  },
+  {
+   "units": "u1208",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "backup",
+   "section": "US History II literacy note and connections to other courses"
+  },
+  {
+   "units": "u1209",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1212",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "US History II Content Standards > Topic 1 role of economics"
+  },
+  {
+   "units": "u1213",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "USII Topic 1 clarification, Scarcity and Economic Reasoning heading/supporting question"
+  },
+  {
+   "units": "u1214-u1220",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 1 > standards 1-3 and a-c"
+  },
+  {
+   "units": "u1221",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 1 > Financial Investing heading and supporting question"
+  },
+  {
+   "units": "u1222-u1224",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 1 > standards 4-6"
+  },
+  {
+   "units": "u1225",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "backup",
+   "section": "Footnote 54 pointing to Appendix D"
+  },
+  {
+   "units": "u1228-u1247",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 1 standards 7-11; Topic 2 Modernity standard 1 a-f"
+  },
+  {
+   "units": "u1248",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 2 > standard 1 j and clarification statement"
+  },
+  {
+   "units": "u1249-u1256",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 2 > standards 2-5"
+  },
+  {
+   "units": "u1259-u1265",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 3 Defending democracy: fascism and communism > standards 1-12"
+  },
+  {
+   "units": "u1266",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "USII Topic 3 > key/suggested primary sources"
+  },
+  {
+   "units": "u1267-u1278",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 4 Cold War and civil rights at home > standards 1-7"
+  },
+  {
+   "units": "u1279",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Footnote 55 Mendez v. Westminster"
+  },
+  {
+   "units": "u1282-u1288",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 4 > standard 8 a-f (social movements), 9"
+  },
+  {
+   "units": "u1289",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Footnote 56 Massachusetts tribes"
+  },
+  {
+   "units": "u1292",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 4 > standard 9 end"
+  },
+  {
+   "units": "u1293-u1307",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "USII Topic 4 > key and suggested primary sources (table)"
+  },
+  {
+   "units": "u1308-u1312",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "USII Topic 5 United States and globalization > standards 1-6"
+  },
+  {
+   "units": "u1313",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "USII Topic 5 > suggested primary source"
+  },
+  {
+   "units": "u1316",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "World History I course title"
+  },
+  {
+   "units": "u1317",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I course overview and guiding questions"
+  },
+  {
+   "units": "u1318",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1319-u1321",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I topic list"
+  },
+  {
+   "units": "u1322",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 items 1-6"
+  },
+  {
+   "units": "u1323-u1326",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "World History I topic list"
+  },
+  {
+   "units": "u1327",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "backup",
+   "section": "World History I literacy note"
+  },
+  {
+   "units": "u1328",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1329",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "backup",
+   "section": "World History I connections to other courses"
+  },
+  {
+   "units": "u1332-u1334",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Content Standards > Topic 1 Dynamic interactions > standards 1-2"
+  },
+  {
+   "units": "u1335",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 1 clarification statement"
+  },
+  {
+   "units": "u1336-u1340",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 1 > standards 3-5, a-c"
+  },
+  {
+   "units": "u1341",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Footnote 57 historic maps example"
+  },
+  {
+   "units": "u1344-u1350",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 2 Development and diffusion of religions > standards 1-5"
+  },
+  {
+   "units": "u1353-u1370",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 3 Interactions of kingdoms and empires > standards 1-2, a-l"
+  },
+  {
+   "units": "u1371-u1373",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 3 > sampling of primary sources; footnote 58"
+  },
+  {
+   "units": "u1376",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 3 > standards 3-9"
+  },
+  {
+   "units": "u1377",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 3 > suggested primary sources"
+  },
+  {
+   "units": "u1378-u1386",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 4 Philosophy, arts, science, technology > standards 1-10"
+  },
+  {
+   "units": "u1387",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 4 > suggested primary sources"
+  },
+  {
+   "units": "u1390-u1391",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 5 Global exploration, conquest, colonization > standards 1-4"
+  },
+  {
+   "units": "u1392",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 5 > suggested primary sources"
+  },
+  {
+   "units": "u1393-u1403",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "standards",
+   "section": "WHI Topic 6 Philosophies of government > standards 1-4"
+  },
+  {
+   "units": "u1404",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "WHI Topic 6 > suggested primary sources"
+  },
+  {
+   "units": "u1407",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "World History II course title"
+  },
+  {
+   "units": "u1408",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II course overview and guiding questions"
+  },
+  {
+   "units": "u1409",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1410-u1411",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II topic list"
+  },
+  {
+   "units": "u1412",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 items 1-6"
+  },
+  {
+   "units": "u1413",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "World History II topic list"
+  },
+  {
+   "units": "u1414",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "backup",
+   "section": "World History II topic list tail, literacy note, connections"
+  },
+  {
+   "units": "u1415",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1418-u1426",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 1 Absolute power, revolutions, nation-states > standards 1-4"
+  },
+  {
+   "units": "u1427-u1433",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 1 > clarification for standard 4 (events a-f)"
+  },
+  {
+   "units": "u1434",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 1 > standard 5"
+  },
+  {
+   "units": "u1435-u1439",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 1 > clarification for standard 5"
+  },
+  {
+   "units": "u1440",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 1 > standards 6-7"
+  },
+  {
+   "units": "u1441",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 1 > clarification for standard 7; suggested primary sources"
+  },
+  {
+   "units": "u1442-u1443",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 2 Agricultural and Industrial Revolutions > standard 1"
+  },
+  {
+   "units": "u1444-u1452",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 2 > clarification for standard 1 (a-f)"
+  },
+  {
+   "units": "u1453",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 2 > standards 2-4"
+  },
+  {
+   "units": "u1454-u1457",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 2 > clarification for standard 4 (a-c)"
+  },
+  {
+   "units": "u1458",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 2 > standard 5"
+  },
+  {
+   "units": "u1459",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 2 > suggested primary sources"
+  },
+  {
+   "units": "u1462-u1469",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 3 Global effects of 19th century imperialism > standards 1-3"
+  },
+  {
+   "units": "u1470",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 3 > clarification statement"
+  },
+  {
+   "units": "u1473-u1484",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 3 > standard 3 regional lists and standard 4 a-f"
+  },
+  {
+   "units": "u1487",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 3 > suggested primary sources"
+  },
+  {
+   "units": "u1488-u1497",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 4 The Great Wars > standards 1-4"
+  },
+  {
+   "units": "u1498",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 4 > clarification for standard 4"
+  },
+  {
+   "units": "u1499-u1506",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 4 > standards 5-9"
+  },
+  {
+   "units": "u1507-u1514",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 4 > clarification for standard 9"
+  },
+  {
+   "units": "u1515-u1524",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 4 > standards 10-15"
+  },
+  {
+   "units": "u1527",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 4 > suggested primary sources (continued)"
+  },
+  {
+   "units": "u1528-u1543",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 5 The Cold War Era > standards 1-8"
+  },
+  {
+   "units": "u1544-u1549",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 5 > clarification for standard 8"
+  },
+  {
+   "units": "u1550-u1553",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 5 > standards 9-12"
+  },
+  {
+   "units": "u1554",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "WHII Topic 5 > suggested primary sources"
+  },
+  {
+   "units": "u1557-u1567",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "standards",
+   "section": "WHII Topic 6 Era of globalization; Topic 7 Politics of difference > standards"
+  },
+  {
+   "units": "u1570",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "US Government and Politics course title"
+  },
+  {
+   "units": "u1571",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "US Government and Politics course overview and guiding questions"
+  },
+  {
+   "units": "u1572-u1573",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1574-u1576",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "US Government and Politics topic list"
+  },
+  {
+   "units": "u1577",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "backup",
+   "section": "GOV topic list tail, literacy note, connections"
+  },
+  {
+   "units": "u1578",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1581-u1585",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Content Standards > Topic 1 Foundations > standards 1-6"
+  },
+  {
+   "units": "u1586",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "Footnote 60 Tocqueville example"
+  },
+  {
+   "units": "u1587",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "backup",
+   "section": "Footnote 59 pointing to Appendix D"
+  },
+  {
+   "units": "u1590-u1591",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 1 > standards 7-10"
+  },
+  {
+   "units": "u1592-u1595",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 1 > key and suggested primary sources"
+  },
+  {
+   "units": "u1596-u1597",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 2 Purposes, principles, institutions > clarification and standards 1-8"
+  },
+  {
+   "units": "u1598",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 2 > standard 8 agency examples a-e"
+  },
+  {
+   "units": "u1601-u1602",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 2 > standards 8f, 9, 10"
+  },
+  {
+   "units": "u1603-u1612",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 2 > standard 10 examples (table)"
+  },
+  {
+   "units": "u1613",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 2 > standards 11-12"
+  },
+  {
+   "units": "u1614",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "backup",
+   "section": "Footnote 61 resources"
+  },
+  {
+   "units": "u1617-u1618",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 3 Civil rights, human rights, civil liberties > standards 1-2"
+  },
+  {
+   "units": "u1619",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 3 > Supreme Court case examples"
+  },
+  {
+   "units": "u1620-u1621",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 4 Political parties, interest groups, media > standards 1-6"
+  },
+  {
+   "units": "u1622",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 4 > standard 6 examples a"
+  },
+  {
+   "units": "u1625",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "GOV Topic 4 > standard 6 examples b"
+  },
+  {
+   "units": "u1626-u1628",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "standards",
+   "section": "GOV Topic 4 standards 6c-8; Topic 5 Relationship of US to other nations > standards 1-8"
+  },
+  {
+   "units": "u1631",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics course title"
+  },
+  {
+   "units": "u1632",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics course overview and guiding questions"
+  },
+  {
+   "units": "u1633-u1634",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1635",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics topic list, literacy note, connections"
+  },
+  {
+   "units": "u1636",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1639-u1653",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics Content Standards > Topics 1-7"
+  },
+  {
+   "units": "u1656",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "Personal Financial Literacy title"
+  },
+  {
+   "units": "u1657",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "examples",
+   "section": "PFL overview and guiding questions"
+  },
+  {
+   "units": "u1658-u1659",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1660",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "backup",
+   "section": "PFL topic list, literacy note, connections"
+  },
+  {
+   "units": "u1661",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1664-u1666",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "PFL Standards > Topics 1-2"
+  },
+  {
+   "units": "u1667",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "backup",
+   "section": "Footnote 62 resources"
+  },
+  {
+   "units": "u1670-u1672",
+   "grades": "9-12",
+   "course": "Personal Financial Literacy",
+   "cat": "standards",
+   "section": "PFL Standards > Topics 3-4"
+  },
+  {
+   "units": "u1675",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "standards",
+   "section": "News/Media Literacy title"
+  },
+  {
+   "units": "u1676",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "examples",
+   "section": "NML overview and guiding questions"
+  },
+  {
+   "units": "u1677-u1678",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u1679-u1680",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "examples",
+   "section": "NML topic list"
+  },
+  {
+   "units": "u1681",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "backup",
+   "section": "NML topic list tail, literacy note, connections"
+  },
+  {
+   "units": "u1682",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12 item 7 and footnote"
+  },
+  {
+   "units": "u1685-u1704",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "standards",
+   "section": "NML Standards > Topic 1 and Topic 2 History of journalism"
+  },
+  {
+   "units": "u1705",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "backup",
+   "section": "Footnote 63 resources"
+  },
+  {
+   "units": "u1708-u1716",
+   "grades": "9-12",
+   "course": "News/Media Literacy",
+   "cat": "standards",
+   "section": "NML Standards > Topic 2 (cont.), Topics 3-5"
+  },
+  {
+   "units": "u1719-u1720",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "History and Social Science and the Standards for Literacy (intro)"
+  },
+  {
+   "units": "u1721-u1760",
+   "grades": "9-10",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-10 literacy standards (RCA-H, WCA, SLCA)"
+  },
+  {
+   "units": "u1763-u1799",
+   "grades": "11-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 11-12 literacy standards (RCA-H, WCA, SLCA)"
+  },
+  {
+   "units": "u1802-u1898",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendices heading; Appendix A English learners and students with disabilities; Appendix B inquiry; Appendix C primary sources"
+  },
+  {
+   "units": "u1901",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D heading"
+  },
+  {
+   "units": "u1902-u1903",
+   "grades": "3,8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 1. Mayflower Compact (1620) Founding document written by the Pilgrims  [tag: Grades 3 and 8]"
+  },
+  {
+   "units": "u1904-u1905",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 2. An Act for the Better Ordering and Governing Negroes and Other Slav [tag: U.S. History I]"
+  },
+  {
+   "units": "u1906-u1907",
+   "grades": "3,5,8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 3. The Declaration of Independence (1776) United States’ founding docu [tag: Grades 3, 5, 8 U.S. History I- II U.S. Government and Politics]"
+  },
+  {
+   "units": "u1908-u1909",
+   "grades": "3,5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 4. “An accurate map of the country round Boston in New England from th [tag: Grades 3 and 5]"
+  },
+  {
+   "units": "u1910-u1911",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 5. “Letter from Abigail Adams to John Adams 31 March-5 April 1776” Ada [tag: Grade 5 U.S. History I]"
+  },
+  {
+   "units": "u1912-u1913",
+   "grades": "3,5,8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 6. The Massachusetts Constitution (1780) State Constitution predating  [tag: Grades 3, 5, 8 U.S. Government and Politics]"
+  },
+  {
+   "units": "u1914-u1915",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 7. The Federalist, Number 10 (1787) Essay written by James Madison to  [tag: Grade 8 U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1916-u1917",
+   "grades": "3,5,8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 8. The Constitution of the United States (1787) United States founding [tag: Grades 3, 5, 8 U.S. History I II; U.S. Government and Politics]"
+  },
+  {
+   "units": "u1920-u1921",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 9. The Interesting Narrative of the Life of Olaudah Equiano (1789) Equ [tag: Grade 5 U.S. History I]"
+  },
+  {
+   "units": "u1922-u1923",
+   "grades": "3,5,8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 10. The United States Bill of Rights (1791) The first ten Amendments;  [tag: Grades 3, 5, 8, U.S. History I II U.S. Government and Politics]"
+  },
+  {
+   "units": "u1924-u1925",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 11. George Washington, Farewell Address (1796) Washington’s warning ag [tag: Grade 5 U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1926-u1927",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 12. Tecumseh, Call for Pan-Indian Resistance (1810) Shawnee leader Tec [tag: Grade 5 U.S. History I]"
+  },
+  {
+   "units": "u1928-u1929",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 13. Elizabeth Cady Stanton, primary author: The Declaration of Sentime [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1930-u1931",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 14. Frederick Douglass: “What to the Slave is the Fourth of July?” Ind [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1932-u1933",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 15. Abraham Lincoln: “Gettysburg Address” (1863) The site gives the te [tag: Grade 5 U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1934-u1935",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 16. Abraham Lincoln, Second Inaugural Address (1865) Lincoln’s call fo [tag: U.S. History I]"
+  },
+  {
+   "units": "u1936-u1937",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 17. Theodore Roosevelt, “The New Nationalism” speech (1910) The speech [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1938-u1939",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 18. Parading for Progress: National Woman Suffrage Procession in Washi [tag: Grade 5 U.S. History I]"
+  },
+  {
+   "units": "u1942-u1943",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 19. Woodrow Wilson, “Fourteen Points” speech (1918) Wilson‘s plan for  [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1944-u1945",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 20. Franklin Roosevelt, “Four Freedoms” speech (1941) Roosevelt’s argu [tag: U.S. History II and U.S. Government and Politics]"
+  },
+  {
+   "units": "u1946-u1947",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 21. Harry S. Truman, “Address Before the Joint Session of Congress” (T [tag: United States History II]"
+  },
+  {
+   "units": "u1948-u1949",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 22. Brown v. the Board of Education of Topeka (1954) Supreme Court dec [tag: United States History II]"
+  },
+  {
+   "units": "u1950-u1951",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 23. John F. Kennedy, “Inaugural Address” (1961) A statement of the ide [tag: U.S. History II U.S. Government and Politics]"
+  },
+  {
+   "units": "u1952-u1953",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 24. Martin Luther King, Jr., “Letter from Birmingham City Jail” (1963) [tag: U.S. History II U.S. Government and Politics Grade5]"
+  },
+  {
+   "units": "u1954-u1955",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 25. Martin Luther King, Jr., “I Have a Dream” speech (text version) (1 [tag: U.S. History II U.S. Government and Politics Grade 5]"
+  },
+  {
+   "units": "u1956-u1957",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 26. Lyndon Johnson, “And We Shall Overcome” Special Message to Congres [tag: U.S. History II U.S. Government and Politics Grade 8]"
+  },
+  {
+   "units": "u1958-u1959",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 27. Barack Obama, “A More Perfect Union” speech (text, video, commenta [tag: U.S. History II]"
+  },
+  {
+   "units": "u1962",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D heading: United States History and Civics"
+  },
+  {
+   "units": "u1963-u1964",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 1. Magna Carta (1215) British Library site that includes the text, art [tag: Grade 8 U.S. and Politics]"
+  },
+  {
+   "units": "u1965-u1966",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 2. “The Iroquois Confederacy Constitution,” The Great Binding Laws (ci [tag: Grade 8]"
+  },
+  {
+   "units": "u1967-u1968",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 3. Asian Export Art (16th–19th centuries) Porcelain, furniture, and te [tag: Grade 5 U. S. History I World History I]"
+  },
+  {
+   "units": "u1969-u1970",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 4. The Case for Ending Slavery (1620s–1865) Massachusetts Historical S [tag: U.S. History I]"
+  },
+  {
+   "units": "u1971-u1972",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "Appendix D > 5. Massachusetts Body of Liberties (1641) Considered to be the first E [tag: U.S. Government and Politics]"
+  },
+  {
+   "units": "u1973-u1974",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 6. English Bill of Rights (1689) Outline of the rights of English citi [tag: World History I, U.S. Government and Politics]"
+  },
+  {
+   "units": "u1975-u1976",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 7. John Locke, Two Treatises of Civil Government (1690) English politi [tag: U.S. Government and Politics World History I Grade 8]"
+  },
+  {
+   "units": "u1977-u1978",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 8. Benjamin Franklin on the Iroquois League in a Letter to James Parke [tag: Grade 8]"
+  },
+  {
+   "units": "u1979-u1980",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 9. Colonial Williamsburg: History and Citizenship (1700s) Online exhib [tag: Grade 5]"
+  },
+  {
+   "units": "u1981-u1982",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 10. John Singleton Copley, Paul Revere (1768) Portrait of silversmith  [tag: Grade 5 U. S. History I]"
+  },
+  {
+   "units": "u1985-u1986",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 11. The Suffolk Resolves (1774) Declaration written largely by Joseph  [tag: Grade 5]"
+  },
+  {
+   "units": "u1987-u1988",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "Appendix D > 12. Virginia Declaration of Rights (1776) Declaration by George Mason  [tag: U.S. Government and Politics]"
+  },
+  {
+   "units": "u1989-u1990",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "Appendix D > 13. The Virginia Statute for Religious Freedom (1786) An act declaring [tag: U.S. Government and Politics]"
+  },
+  {
+   "units": "u1991-u1992",
+   "grades": "4,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 14. The Northwest Ordinance (1787) An act of the Confederation Congres [tag: U.S. Government and Politics U.S. History I Grade 4]"
+  },
+  {
+   "units": "u1993-u1994",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 15. Selected Federalist Papers, such as numbers 1, 9, 39, 51, and 78 ( [tag: Grade 8 U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1995-u1996",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > Selected responses by Anti-Federalists (1787–1789) 16. The Federal Far [tag: Grade 8 U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u1997-u1998",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 17. George Washington’s Mount Vernon: Slavery (c. 1790s) Research on t [tag: Grade 5 U. S. History I]"
+  },
+  {
+   "units": "u1999-u2000",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 18. Slavery at Monticello: Paradox of Liberty (c. 1790s) Research on t [tag: Grade 5 U. S. History I]"
+  },
+  {
+   "units": "u2001-u2002",
+   "grades": "9-12",
+   "course": "United States Government and Politics",
+   "cat": "examples",
+   "section": "Appendix D > 19. Thomas Jefferson, First Inaugural Address (1801) In this first ina [tag: U.S. Government and Politics]"
+  },
+  {
+   "units": "u2003-u2004",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 47. The Lewis and Clark Expedition (1803–1806) National Park Service/N [tag: Grade 5 U. S. History I]"
+  },
+  {
+   "units": "u2007-u2008",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 48. The Star-Spangled Banner: The Flag that Inspired a Nation (1814) S [tag: Grade 5]"
+  },
+  {
+   "units": "u2009-u2010",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 49. Whaling History (19th century) New Bedford Whaling Museum and Myst [tag: Grade 5]"
+  },
+  {
+   "units": "u2011-u2012",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 50. David Walker, Appeal, in Four Articles; Together with a Preamble,  [tag: U. S. History I]"
+  },
+  {
+   "units": "u2013-u2014",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 51. Abraham Lincoln, “The Perpetuation of Our Political Institutions”  [tag: U.S. History I]"
+  },
+  {
+   "units": "u2015-u2016",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 52. Alexis de Tocqueville, Democracy in America, Volumes I and II (183 [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u2017-u2018",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 53. Dorothea Dix, “Memorial to the Massachusetts Legislature” (1843) A [tag: U.S. History I]"
+  },
+  {
+   "units": "u2019-u2020",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 54. Factory Life as It Is, by an Operative, Lowell, Massachusetts (184 [tag: U.S. History I]"
+  },
+  {
+   "units": "u2021-u2022",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 55. Henry David Thoreau, “Civil Disobedience” (1849) Essay on politica [tag: U.S. History I U. S. History II World History II]"
+  },
+  {
+   "units": "u2023-u2024",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 56. Norman Asing, “To His Excellency, Governor Bigler: We Are Not the  [tag: U.S. History I]"
+  },
+  {
+   "units": "u2027-u2028",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 57. Abraham Lincoln, “House Divided” speech (1858) Lincoln’s speech on [tag: U.S. History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u2029-u2030",
+   "grades": "5,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 58. Maps of Women’s Voting Rights in 1880 and 1910 Maps of the United  [tag: Grade 5, U. S. History I and II]"
+  },
+  {
+   "units": "u2031-u2032",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 59. Emma Lazarus, “The New Colossus” (1883) The poem about the United  [tag: U.S. History I]"
+  },
+  {
+   "units": "u2033-u2034",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 60. Booker T. Washington, “The Atlanta Exposition Address” (1895) A sp [tag: U.S. History II]"
+  },
+  {
+   "units": "u2035-u2036",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 61. W. E. B. DuBois and William Monroe Trotter, primary authors: The N [tag: U.S. History II]"
+  },
+  {
+   "units": "u2037-u2038",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 62. Lewis Hine, Photographs of child laborers (1908–1909) Photographs  [tag: U. S. History I]"
+  },
+  {
+   "units": "u2039-u2040",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 63. Jane Addams collection (1860–1935) Documents by and about Jane Add [tag: U. S. History I]"
+  },
+  {
+   "units": "u2041-u2042",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 64. The Indian Citizenship Act (1924) Act granting citizenship to all  [tag: U. S. History I]"
+  },
+  {
+   "units": "u2043-u2044",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Appendix D > 65. Luther Standing Bear, Lakota, “Life in the Carlisle Boarding Schoo [tag: U.S. History I]"
+  },
+  {
+   "units": "u2045-u2046",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 66. Franklin Roosevelt, First Annotated Typed Draft of War Address (19 [tag: U.S. History II World History II]"
+  },
+  {
+   "units": "u2047-u2048",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 67. Gordon Parks, Photographs of Ella Watson (1942) Photographs by an  [tag: U.S. History II]"
+  },
+  {
+   "units": "u2051-u2052",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 68. Justice Robert M. Jackson: Opinion for the Supreme Court in West V [tag: Grade 8 U.S. Government and Politics]"
+  },
+  {
+   "units": "u2053-u2054",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 69. Margaret Chase Smith, “Declaration of Conscience” Speech (1950) Sp [tag: U.S. History II]"
+  },
+  {
+   "units": "u2055-u2056",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 70. Lyndon Johnson, “Great Society Speech” (1964) Speech outlining a v [tag: U.S. History II]"
+  },
+  {
+   "units": "u2057-u2058",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 71. American Experience: Stonewall Uprising Trailer(event 1969; video, [tag: U.S. History II]"
+  },
+  {
+   "units": "u2059-u2060",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 72. Ed Roberts, “Speech on Disability Rights” (1977) Speech to protest [tag: Grade 8, U.S. History II]"
+  },
+  {
+   "units": "u2061-u2062",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 73. César Chávez, “Address to the Commonwealth Club of California” (19 [tag: U.S. History II]"
+  },
+  {
+   "units": "u2063-u2064",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 74. Ronald Reagan, “Speech at Moscow State University” (1988) Speech d [tag: U.S. History II]"
+  },
+  {
+   "units": "u2065-u2066",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 75. George W. Bush, “Address to the Joint Session of the 107th Congres [tag: U.S. History II]"
+  },
+  {
+   "units": "u2067-u2068",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 76. Henry Louis Gates, Jr., The African Americans: Many Rivers to Cros [tag: U.S. History I and II]"
+  },
+  {
+   "units": "u2069-u2070",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 77. Elizabeth Maurer, Legislating History: 100 Years of Women in Congr [tag: U.S. History II]"
+  },
+  {
+   "units": "u2071-u2072",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Appendix D > 78. Lacey Schwartz and Mehret Mandefro, directors and producers (2018) [tag: U.S. History II]"
+  },
+  {
+   "units": "u2075",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D heading: World History"
+  },
+  {
+   "units": "u2076",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: Ancient and Classical Civilizations, c 2500 BCE–500 CE"
+  },
+  {
+   "units": "u2077-u2078",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 1. Epic of Gilgamesh (c.2150–1400 BCE) Article on Gilgamesh with maps  [tag: Grade 6]"
+  },
+  {
+   "units": "u2079-u2080",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 2. The Code of Hammurabi (c. 1754 BCE) Article with photograph of stel [tag: Grade 6]"
+  },
+  {
+   "units": "u2081-u2082",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 3. The Egyptian Hymn to the Nile (c.2100 BCE) Hymn praising the Nile a [tag: Grade 6]"
+  },
+  {
+   "units": "u2083-u2084",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 4. King Menkaura (Mycerinus) and queen (2490–2472 BCE) Stone sculpture [tag: Grade 6]"
+  },
+  {
+   "units": "u2085-u2086",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 5. The Egyptian Book of the Dead, Negative Confessions (c.1570–1069 BC [tag: Grade 6]"
+  },
+  {
+   "units": "u2087-u2088",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 6. The Torah (first five books of the Bible), Exodus, Chapter 20, the  [tag: Grade 6]"
+  },
+  {
+   "units": "u2089-u2090",
+   "grades": "7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 7. The Vedas: The Rig Veda (c.1500–500 BCE) Article and excerpts. Text [tag: Grade 7 World History I]"
+  },
+  {
+   "units": "u2091-u2092",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 8. Homer, The Iliad and The Odyssey (c. 800 BCE based on earlier oral  [tag: Grade 7]"
+  },
+  {
+   "units": "u2093-u2094",
+   "grades": "7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 9. Confucius, The Analects (thought to have been compiled in the 5th c [tag: Grade 7 World History I]"
+  },
+  {
+   "units": "u2097-u2098",
+   "grades": "7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 10. Buddhism, the Four Noble Truths (c. 500 BCE) Central text of Buddh [tag: Grade 7 World History I]"
+  },
+  {
+   "units": "u2099-u2100",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 11. Thucydides, History of the Peloponnesian War (431 BCE) Greek histo [tag: Grade 7]"
+  },
+  {
+   "units": "u2101-u2102",
+   "grades": "7,8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 12. Plato, The Republic (360 BCE) Greek account of a Socratic dialogue [tag: Grade 7 Grade 8]"
+  },
+  {
+   "units": "u2103-u2104",
+   "grades": "7,8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 13. Aristotle, Politics (350 BCE) Greek book of political philosophy a [tag: Grade 7 Grade 8]"
+  },
+  {
+   "units": "u2105-u2106",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 14. Examples of Greek Art Sixteen examples of Aegean and Greek sculptu [tag: Grade 7]"
+  },
+  {
+   "units": "u2107-u2108",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 15. Julius Caesar, War Commentaries (58–47 BCE) Caesar’s account of Ro [tag: Grade 7]"
+  },
+  {
+   "units": "u2109-u2110",
+   "grades": "6,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 16. The Bible, New Testament, Gospel of Matthew, Chapters 5-7: Sermon  [tag: Grade 6 World History I]"
+  },
+  {
+   "units": "u2111-u2112",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 17. Standing Shakyamuni Buddha (3rd century CE) Gandharan Buddhist scu [tag: World History I]"
+  },
+  {
+   "units": "u2113",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: 6th–10th Centuries CE"
+  },
+  {
+   "units": "u2114-u2115",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 18. Mosaic: Hunting Scene (Antioch, early 6th CE) Antioch was a city o [tag: Grade 7]"
+  },
+  {
+   "units": "u2116-u2117",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 19. Hagia Sophia (532–537 CE, video and article by William Allen, 2015 [tag: World History I]"
+  },
+  {
+   "units": "u2118-u2119",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 20. The Code of Justinian (535 CE) Code of law of the Byzantine Empire [tag: World History I]"
+  },
+  {
+   "units": "u2122-u2123",
+   "grades": "7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 21. The Longmen Caves, Loyang (c. 5th to 8th centuries CE. Essay by Je [tag: Grade 7 World History I]"
+  },
+  {
+   "units": "u2124-u2125",
+   "grades": "7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 22. Martin Amster and Lier Chen, Buddhist Art Styles and Cultural Exch [tag: Grade 7 World History I]"
+  },
+  {
+   "units": "u2126-u2127",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 23. Selections from the Qu’ran, 1, 47 (609-632 CE) Central text of Isl [tag: World History I]"
+  },
+  {
+   "units": "u2128-u2129",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 24. Al-Tanûkhî (c. 980 CE) Ruminations and Reminiscences: Acts of Piet [tag: World History I]"
+  },
+  {
+   "units": "u2130",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: 11th–15th Centuries CE"
+  },
+  {
+   "units": "u2131-u2132",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 25. Pope Urban II, Speech at the Council of Clermont (c.1095) Video ve [tag: World History I]"
+  },
+  {
+   "units": "u2133-u2134",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 26. Roger of Hoveden, The Fall of Jerusalem, 1187 (c. 1190) Chronicle  [tag: World History I]"
+  },
+  {
+   "units": "u2135-u2136",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 27. “Court Ladies Preparing Newly Woven Silk” (12th century) attribute [tag: World History I]"
+  },
+  {
+   "units": "u2137-u2138",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 28. Magna Carta (1215) Foundational British document on government (se [tag: World History I]"
+  },
+  {
+   "units": "u2139-u2140",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 29. Sainte-Chapelle (1248 CE) Paris Royal chapel, example of high Goth [tag: World History I]"
+  },
+  {
+   "units": "u2141-u2142",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 30. View of Florence, detail of Madonna della Misericordia (1342) and  [tag: World History I]"
+  },
+  {
+   "units": "u2143-u2144",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 31. Zhao Yong (1347), Horse and Groom after Li Gonglin Scroll painting [tag: World History I]"
+  },
+  {
+   "units": "u2147-u2148",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 32. Ibn Battuta, The Rihla (1354) African scholar’s account of his tra [tag: World History I]"
+  },
+  {
+   "units": "u2149-u2150",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 33. Cresques Abraham, Map showing Africa and King Mansa Musa, from the [tag: World History I]"
+  },
+  {
+   "units": "u2151-u2152",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 34. The Art of the Benin Kingdom (c. 900–17th centuries CE) Bronze scu [tag: World History I]"
+  },
+  {
+   "units": "u2153-u2154",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 35. The Great Mosque at Djenne (c. 800–1250 CE; article by Elisa Daine [tag: World History I]"
+  },
+  {
+   "units": "u2155-u2156",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 36. Geoffrey Chaucer, Canterbury Tales (1387–1400) Prologue to tales a [tag: World History I]"
+  },
+  {
+   "units": "u2157-u2158",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 37. The Alhambra (14th century) Photographs and essay by Shadieh Mirmo [tag: World History I]"
+  },
+  {
+   "units": "u2159-u2160",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 38. “China and the World History of Science, 1450–1770” by Benjamin El [tag: World History I]"
+  },
+  {
+   "units": "u2161-u2162",
+   "grades": "6,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 39. Golden Kingdoms: Luxury and Legacy in the Ancient Americas (500 BC [tag: Grade 6 World History I]"
+  },
+  {
+   "units": "u2163-u2164",
+   "grades": "6,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 40. Images and text about Mayan architecture and culture (c. 900 BCE t [tag: Grade 6 World History I]"
+  },
+  {
+   "units": "u2165-u2166",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 41. City of Cusco (c. 1440–1540 CE) Peru, essay by Sarahh Scher, 2015  [tag: World History I]"
+  },
+  {
+   "units": "u2167-u2168",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 42. Unearthing the Aztec Past: the Destruction of the Templo Mayor (c. [tag: World History I]"
+  },
+  {
+   "units": "u2169",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: 16th–17th Centuries CE"
+  },
+  {
+   "units": "u2170-u2171",
+   "grades": "4,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 43. Maps from the 1500s A collection of historical maps in the public  [tag: Grade 4 World History I]"
+  },
+  {
+   "units": "u2174-u2175",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 44. Kilwa Kisiwani (16th–17th centuries; video by Stephen Battle, Worl [tag: World History I]"
+  },
+  {
+   "units": "u2176-u2177",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 45. Leonardo da Vinci, Notebooks (c. 1508) Renaissance artist and inve [tag: World History I]"
+  },
+  {
+   "units": "u2178-u2179",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 46. Machiavelli, The Prince (1513) Renaissance book on government and  [tag: World History I]"
+  },
+  {
+   "units": "u2180-u2181",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 47. Bartolomé de Las Casas, A Short Account of the Destruction of the  [tag: World History I]"
+  },
+  {
+   "units": "u2182-u2183",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 48. Tughra, official signature of Süleiman the Magnificent, (1555–60,  [tag: World History I]"
+  },
+  {
+   "units": "u2184-u2185",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 49. Pieter Bruegel the Elder, The Tower of Babel (1563) Video 2015 by  [tag: World History I]"
+  },
+  {
+   "units": "u2186-u2187",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 50. “The Spy Zambur Brings Mahiya to the City of Tawariq,” (c. 1570) f [tag: World History I]"
+  },
+  {
+   "units": "u2188-u2189",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 51. Bernal Diaz del Castillo, excerpts from The True History of the Co [tag: World History I]"
+  },
+  {
+   "units": "u2190-u2191",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 52. Rembrandt van Rijn, (1632) The Anatomy Lesson of Dr. Nicolaes Tulp [tag: World History I]"
+  },
+  {
+   "units": "u2194-u2195",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 53. Evliya Ҫelebi, Seyahatname (Book of Travels) (1630–1672) Accounts  [tag: World History I]"
+  },
+  {
+   "units": "u2196-u2197",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 54. Louis le Vau, André le Nôtre and Charles le Brun, Château de Versa [tag: World History II]"
+  },
+  {
+   "units": "u2198-u2199",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 55. English Bill of Rights (1689) Foundational English document on rig [tag: World History I; World History II]"
+  },
+  {
+   "units": "u2200-u2201",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 56. John Locke, Two Treatises of Civil Government (1690) Foundational  [tag: U. S. History I World History I U.S. Government and Politics]"
+  },
+  {
+   "units": "u2202",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: 18th–19th Centuries CE"
+  },
+  {
+   "units": "u2203-u2204",
+   "grades": "9-12",
+   "course": "World History I",
+   "cat": "examples",
+   "section": "Appendix D > 57. Charles de Montesquieu, The Spirit of the Laws (1748) Legal philos [tag: World History I]"
+  },
+  {
+   "units": "u2205-u2206",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 58. Jean-Jacques Rousseau, The Social Contract (1763) Legal philosophy [tag: World History I Grade 8]"
+  },
+  {
+   "units": "u2207-u2208",
+   "grades": "8,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 59. Adam Smith, The Wealth of Nations (1775) Foundational text on free [tag: World History II Grade 8]"
+  },
+  {
+   "units": "u2209-u2210",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 60. National Assembly of France, The Declaration of the Rights of Man  [tag: World History II]"
+  },
+  {
+   "units": "u2211-u2212",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 61. Mary Wollstonecraft, Vindication of the Rights of Women (1792) Dec [tag: World History II]"
+  },
+  {
+   "units": "u2213-u2214",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 62. Simón Bolívar, Letter from Jamaica (1815) Letter about the movemen [tag: World History II]"
+  },
+  {
+   "units": "u2215-u2216",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 63. Charles Dickens, Oliver Twist (1837–1838) with illustrations by Ge [tag: World History II]"
+  },
+  {
+   "units": "u2217-u2218",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 64. Karl Marx, Friedrich Engels: The Communist Manifesto (1848) Politi [tag: World History II]"
+  },
+  {
+   "units": "u2221-u2222",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 65. Images of the Crystal Palace for the Grand International Exhibit i [tag: World History II]"
+  },
+  {
+   "units": "u2223-u2224",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 66. John Stuart Mill, On Liberty (1869) Essay on the importance of per [tag: World History II]"
+  },
+  {
+   "units": "u2225-u2226",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 67. Rudyard Kipling, “Take Up the White Man’s Burden” poem (1899) Poem [tag: World history II United States History II]"
+  },
+  {
+   "units": "u2227",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D period heading: 20th–21st Centuries CE"
+  },
+  {
+   "units": "u2228-u2229",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 68. Edward D. Morel, “The Black Man’s Burden,” essay (1903) Critique o [tag: World History II]"
+  },
+  {
+   "units": "u2230-u2231",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 69. World War I posters (1914–1920) Library of Congress collection of  [tag: World History II United States History II]"
+  },
+  {
+   "units": "u2232-u2233",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 70. The Treaty of Versailles (1919) Treaty at the end of World War I t [tag: World History II United States History II]"
+  },
+  {
+   "units": "u2234-u2235",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 71. Sun Yat-Sen, The Principle of Democracy (1924) Founder of the Chin [tag: World History II]"
+  },
+  {
+   "units": "u2236-u2237",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 72. Erich Maria Remarque, Excerpts from All Quiet on the Western Front [tag: World History II]"
+  },
+  {
+   "units": "u2238-u2239",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 73. Adolf Hitler, Excerpts from Mein Kampf (1925) Hitler’s autobiograp [tag: World History II]"
+  },
+  {
+   "units": "u2240-u2241",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 74. Paul Troost, The House of German Art (1933–1937), video by Beth Ha [tag: World History II]"
+  },
+  {
+   "units": "u2242-u2243",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 75. Leni Riefenstahl, Triumph of the Will film (1935). Nazi propaganda [tag: World History II]"
+  },
+  {
+   "units": "u2244-u2245",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 76. Henryk Ross, Photographs of the Lodz Ghetto, a Collection of Holoc [tag: World History II]"
+  },
+  {
+   "units": "u2248-u2249",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 77. Holocaust Survivor Stories (20th century) Videotaped interviews wi [tag: World History II]"
+  },
+  {
+   "units": "u2250-u2251",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 78. Neville Chamberlain, “Peace in Our Time” (1938) Speech given in de [tag: World History II]"
+  },
+  {
+   "units": "u2252-u2253",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 79. Winston Churchill, “A Disaster of the First Magnitude” speech (193 [tag: World History II]"
+  },
+  {
+   "units": "u2254-u2255",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 80. Franklin Roosevelt, First Annotated Typed Draft of War Address (19 [tag: World History II]"
+  },
+  {
+   "units": "u2256-u2257",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 81. Winston Churchill, excerpts from “The Iron Curtain,” speech (1946) [tag: World History II, United States History II]"
+  },
+  {
+   "units": "u2258-u2259",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > 82. Joseph Stalin, “Response to Churchill’s Iron Curtain Speech” (1946 [tag: World History II, United States History II]"
+  },
+  {
+   "units": "u2260-u2261",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 83. United Nations, “Universal Declaration of Human Rights” (1948) A d [tag: World History II]"
+  },
+  {
+   "units": "u2262-u2263",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 84. The Geneva Conventions (1949) Conventions adopted by the Diplomati [tag: World History II]"
+  },
+  {
+   "units": "u2264-u2265",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 85. Nikita Khrushchev, Secret Speech to the Closed Session of the Twen [tag: World History II]"
+  },
+  {
+   "units": "u2266-u2267",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 86. Soviet political posters, postcards, and photographs (c. 1918–1981 [tag: World History II]"
+  },
+  {
+   "units": "u2268-u2269",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix D > _ _ 87. Mao Tse-Tung, Quotations from Chairman Mao Tse-Tung (1966) Say [tag: World History II United States History II]"
+  },
+  {
+   "units": "u2270-u2271",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 88. Nelson Mandela, “I am prepared to die” statement at the Rivonia Tr [tag: World History II]"
+  },
+  {
+   "units": "u2274-u2275",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 89. Vaclav Havel, “The Power of the Powerless,” essay (1978) Essay abo [tag: World History II]"
+  },
+  {
+   "units": "u2276-u2277",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 90. Lech Walesa, Nobel Peace Prize lecture (1983) Speech about the imp [tag: World History II]"
+  },
+  {
+   "units": "u2278-u2279",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 91. In pictures: Beijing’s Tiananmen Square protests (1989) BBC News p [tag: World History II]"
+  },
+  {
+   "units": "u2280-u2281",
+   "grades": "9-12",
+   "course": "World History II",
+   "cat": "examples",
+   "section": "Appendix D > 92. Malala Yousafzai, Nobel Peace Prize Lecture (2014) Text and video  [tag: World History II]"
+  },
+  {
+   "units": "u2282-u2287",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Companion Resources document note"
+  }
+ ],
+ "issues": [
+  "u126-u143: 'Scope, Sequence and Content of the Grades and Courses' overview paragraphs labeled examples per grade; HS paragraphs (u138-u143) cover two or more courses each so labeled course null, grades 9-12 (US History I and II together, World History I and II together, electives).",
+  "u387: Grade 2 title and introductory narrative are merged in one unit (also contains a stray sentence about CCR anchor standards); labeled examples. Same for u631 (Grade 5 title + narrative).",
+  "u196-u202, u247-u252, u319-u321, u388-u390, u445-u446, u549, u632-u633, u761-u762, u865-u868, u950-u958, u1133-u1134: sidebar list of the seven Practice standards, split across units; the end of practice 7 is merged with the asterisk footnote in u202, u252, u321, u390, u868, u958 (labeled standards PK-12). Standalone asterisk footnotes (u455, u552, u637, u765, u1136) labeled backup.",
+  "u177: footnote 15 (definition of civic knowledge) labeled backup though it attaches to Practice standard 1.",
+  "u185: end of Practice standard 7 merged with the heading 'History and Social Science and the Standards for Literacy'; labeled standards PK-12.",
+  "u198-u201, u249-u251, u320, u389, u447-u454, u550-u551, u634-u636, u763-u764, u866, u952-u957, u1135: topic overview lists combined with literacy note and 'Looking Back, Looking Ahead' text; labeled examples (topic headings are repeated in the Content Standards pages).",
+  "u212, u217, u289, u290, u464, u465, u473, u508, u673, u688, u697, u776, u935, u1178: clarification statement and the next standard share a unit; labeled standards when a standard is included, examples when clarification only (u673 clarification plus primary sources = examples).",
+  "u206, u209, u219, u257, u277, u287, u325, u339, u343, u355, u394-u395, u482, u489, u493, u570, u654, u670, u674, u683, u704-u705: topic headings merged with Supporting Question or a standard; labeled standards.",
+  "u653, u682, u965, u975, u1183, u1187, u511, u904: units mix the end of a standard with Key/Suggested Primary Sources lists and/or the next Topic heading; labeled standards (units not split).",
+  "u818-u839: one-column table 'Suggested Primary and Secondary Sources for Topic 3' (Grade 6); each row is a unit; labeled examples grade 6.",
+  "u921-u931: Grade 7 Greek accomplishments list (7a-7e) extracted as scattered x-positioned fragments in non-reading order; labeled standards grade 7 as a block.",
+  "u793-u795: Code of Hammurabi sub-item e. extracted out of order (u795 text belongs before u794); labeled standards grade 6.",
+  "u942-u945: 'A Renewed Mission' page repeated between Grade 7 and Grade 8 (page 103); labeled backup, grades all.",
+  "u997-u998: Grade 8 Topic 5 heading split ('of the Constitution.' continues standard 11 / heading in u998); both standards 8.",
+  "u1009-u1040: Supreme Court cases and holdings under Grade 8 Topic 5 standard 6 are 'for example' lists; labeled examples (they could arguably be part of the standard, content lists). The a./b./c. headings (u1007-u1008, u1018-u1019, u1031-u1032) labeled standards.",
+  "u747-u757: middle-grades introduction split into 6-8 title, 6-7 purposes and Grade 8 civics purposes; labeled backup.",
+  "u1131-u1136: US History I intro page; the Practice sidebar (u1133-u1134) is course null grades PK-12, while the remaining unit labels carry course 'United States History I'.",
+  "u1193-u1194 do not appear in the view (furniture or absent); range ends effectively at u1192 mid Topic 7 standard 5 (items a-j); u1195 (item k) belongs to part 2.",
+  "Range ends u2289 but the view ends at u2287; labels cover u1195-u2287 (u2288-u2289 do not exist in the view).",
+  "Practice standards box ('Standards for History and Social Science Practice, Pre-K-12') appears in every course intro and is split across units (heading, items 1-6, item 7 + footnote); labeled standards, grades PK-12, course null: u1201-u1202, u1209, u1318, u1322, u1328, u1409, u1412, u1415, u1572-u1573, u1578, u1633-u1634, u1636, u1658-u1659, u1661, u1677-u1678, u1682. Footnote text inside u1209, u1328, u1415, u1578, u1636, u1661, u1682 is mixed with item 7 (labeled standards, units are not split).",
+  "Course topic lists in the intro pages (u1203-u1207, u1319-u1321, u1323-u1326, u1410-u1413, u1574-u1576, u1679-u1680) are interleaved in extraction with the practice box and are labeled examples (course overview); u1414, u1577, u1635, u1660, u1681 mix the end of the topic list with the literacy note and 'connections' paragraph and are labeled backup.",
+  "u1213: Clarification Statement merged with the 'Scarcity and Economic Reasoning' heading and supporting question; labeled examples (heading text lost to examples).",
+  "u1248: last item of list (j.) merged with a Clarification Statement; labeled standards.",
+  "u1350: end of standard 5 list (c.) merged with Suggested Primary Sources; labeled standards. Same pattern: u1524 (standard 15 f merged with primary sources), u1484 (standard 4 f merged with suggested primary sources), u1560 (standard 5 b merged with suggested primary source), u1626 (list items c-e merged with standards 7-8). u1466 (clarification statement merged with 2c) labeled standards. u1346, u1386, u1426, u1265, u1506, u1597, u1584 also mix a Clarification Statement with standards; labeled standards.",
+  "u1427-u1433: WHII Topic 1 standard 4 clarification list a-f is scrambled by two-column extraction (x positions); order of items is not recoverable but all are examples.",
+  "u1473-u1484: regional lists (India, China, Japan, Africa, Latin America) under WHII Topic 3 standard 3 follow a Clarification Statement in extraction and are interleaved with standard 4 (u1479 'Analyze the cultural impact...' and a-f list); treated as part of standards 3 and 4 (labeled standards); could instead be clarification examples.",
+  "u1251-u1255: US History II Topic 2 standard 4 case-study list a-k is scrambled across columns; labeled standards (part of the standard).",
+  "Lists introduced as 'Students may use one of the following examples' inside a standard (u1530-u1532, u1551-u1552, u1236-u1242, u1261) labeled standards because they are part of the standard text; lists under a separate 'Clarification Statement' labeled examples.",
+  "u1598 'Examples include' agency list and u1603-u1612 table (examples of challenges to checks and balances) labeled examples; the table is split into one-line cells with odd C indexes (u1603-u1612).",
+  "u1293-u1307: table of Key/Suggested primary sources split into rows by extraction (C2 only); labeled examples.",
+  "Footnotes: 54 (u1225) and 59 (u1587) Appendix D pointers, 61 (u1614) and 62 (u1667) resource suggestions, 63 (u1705) labeled backup; footnotes 55-58, 60 (u1279, u1289, u1341, u1373, u1586) are content notes labeled examples.",
+  "Guide says HS practice standards PK-12; however in 'Literacy' units the Grades 9-10 / 11-12 sets are labeled backup with grades '9-10' / '11-12' (CCSS-derived literacy standards), course null.",
+  "Appendix D (u1902-u2281): each source row labeled examples; grades/course come from the row's last column. A row tied to exactly one HS course (no grade) gets that course with grades 9-12; rows tied to several courses and/or grades get course null with grades listing the grade numbers plus 9-12 when any course is named (a label can carry only one course). Source numbering in the document is irregular (e.g. u2003 numbered 47 after 19; u2174 starts at 44 after 43), and some tags contain typos ('Grade5' u1953, 'U.S. and Politics' u1964, 'U. S. History'). Period header rows in the World History table (u2113, u2130, u2169, u2202, u2227) and the group headings (u1901, u1962, u2075, u2076) labeled backup/all.",
+  "Appendix D grade tags use grades 3-8 that are elementary/middle grade references inside an HS-heavy appendix; they are kept as stated."
+ ]
+}

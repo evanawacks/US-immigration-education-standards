@@ -72,92 +72,65 @@ Grade Level Themes
 Kindergarten
 Living & Working Together: Making Choices and Improving Our Communities
 Civics
-C.1 Students will understand the impact of origins, structures, and functions of institutions and laws on society and citizens. This includes personal civic rights, roles, responsibilities, and processes by which laws are made and amended.
-Civic and Political Institutions
 Knowledge and Skill Performance Expectations
 Kindergarten
 C.1.K.1 Identify the purpose of classroom or school rules in establishing communities and ways of living and working together. Teacher Note: This standard builds toward students relating rules to values of fairness and equality.
 C.1.K.2 Identify the characteristics and responsibilities of a leader.
 Civics
-C.1 Students will understand the impact of origins, structures, and functions of institutions and laws on society and citizens. This includes personal civic rights, roles, responsibilities, and processes by which laws are made and amended.
-Participation and Deliberation
-Knowledge and Skill Performance Expectations
 Kindergarten
 C.1.K.3 Recognize state and national symbols and patriotic songs: ● American flag ● Star Spangled Banner* ● Recitation of Pledge of Allegiance ● Arkansas flag ● Apple Blossom ● Honey Bee ● Mockingbird ● Pine Tree
 C.1.K.4 Demonstrate responsibilities of being a good citizen at school.
 C.1.K.5 Follow agreed-upon rules for listening and having a discussion in the classroom.
 Civics
-C.1 Students will understand the impact of origins, structures, and functions of institutions and laws on society and citizens. This includes personal civic rights, roles, responsibilities, and processes by which laws are made and amended.
 Process, Rules, and Laws
-Knowledge and Skill Performance Expectations
 Kindergarten
 C.1.K.6 Discuss the need for rules.
 C.1.K.7 Discuss ways people improve communities which may include: ● being a good neighbor ● volunteering/helping ● recycling ● donating personal items/toys
 C.1.K.8 Discuss the importance of problem solving related to classroom issues.
 Economics
-E.1 Students will understand the impact of economic decision-making. This includes the exchange of goods and services; role of producers, consumers, and government in the marketplace; and growth, stability, and interdependence within a global economy.
 Economic Decision-Making
-Knowledge and Skill Performance Expectations
 Kindergarten
 E.1.K.1 Discuss needs and wants and how they are restricted by limited resources.
 E.1.K.2 State the reasons behind making a personal decision.
 Economics
-E.1 Students will understand the impact of economic decision-making. This includes the exchange of goods and services; role of producers, consumers, and government in the marketplace; and growth, stability, and interdependence within a global economy.
 Exchange and Markets
-Knowledge and Skill Performance Expectations
 Kindergarten
 E.1.K.3 Identify ways people create goods and services.
 E.1.K.4 Discuss ways human, natural, and capital resources are used in the production of goods and services.
 E.1.K.5 Identify ways people buy and sell goods (i.e., markets).
 Economics
-E.1 Students will understand the impact of economic decision-making. This includes the exchange of goods and services; role of producers, consumers, and government in the marketplace; and growth, stability, and interdependence within a global economy.
 Growth and Stability
-Knowledge and Skill Performance Expectations
 Kindergarten
 E.1.K.6 Recognize that consumers use money as a medium of exchange to satisfy economic wants and needs.
 E.1.K.7 Identify the reasons for and places where people save money (e.g., piggy banks, wallets, banks).
 E.1.K.8 Discuss examples of goods and services.
 Economics
-E.1 Students will understand the impact of economic decision-making. This includes the exchange of goods and services; role of producers, consumers, and government in the marketplace; and growth, stability, and interdependence within a global economy.
 Global Economy
-Knowledge and Skill Performance Expectations
 Kindergarten
 E.1.K.9 Identify common products that come from other countries.
 E.1.K.10 Identify where products used in daily life are produced.
 Geography
-G.1 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to understand, analyze, and explain human interaction with each other and with the environment. This includes the spatial characteristics and patterns of human settlement and connections between global regions.
-Geographic Representations
-Knowledge and Skill Performance Expectations
 Kindergarten
 G.1.K.1 Describe familiar places using words that communicate location (e.g., beside, past, before), direction (e.g., right/left), and distance (e.g., long/short).
 G.1.K.2 Identify and describe the physical characteristics of a place such as rivers, mountains, and forests using maps, globes, and photographs.
 G.1.K.3 Create maps of familiar places such as the school, playground, or neighborhood.
 Geography
-G.1 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to understand, analyze, and explain human interaction with each other and with the environment. This includes the spatial characteristics and patterns of human settlement and connections between global regions.
 Human-Environment Interaction
-Knowledge and Skill Performance Expectations
 Kindergarten
 G.1.K.4 Describe ways humans have impacted the environment ● planting trees ● reducing waste ● littering ● polluting
 G.1.K.5 Discuss cultural characteristics among families and in the community such as art, celebrations, food, language, music, and traditions.
 G.1.K.6 Identify the influence of weather and climate on people’s daily lives.
 Geography
-G.1 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to understand, analyze, and explain human interaction with each other and with the environment. This includes the spatial characteristics and patterns of human settlement and connections between global regions.
-Spatial Patterns and Movement
-Knowledge and Skill Performance Expectations
 Kindergarten
 G.1.K.7 Identify natural resources that meet the needs of a community such as timber, minerals, oil, coal, and natural gas.
 G.1.K.8 Identify people, goods, and ideas that move from place to place.
 Geography
-G.1 Students will understand the purpose of geographic tools (e.g., maps, globes, charts, graphs) to understand, analyze, and explain human interaction with each other and with the environment. This includes the spatial characteristics and patterns of human settlement and connections between global regions.
 Global Interconnections
-Knowledge and Skill Performance Expectations
 Kindergarten
 G.1.K.9 Discuss products and traditions that connect people around the world (e.g., where products are made, celebrations, dance, art, food, toys).
 G.1.K.10 Discuss the needs of people during natural and human-made disasters.
 History
 H.1 Students will understand chronology, patterns of continuity, and change over time. This includes the contextualization of historical events and ways people gather, view, construct, and interpret historical evidence.
-Chronology, Change over time, Contextualization
-Knowledge and Skill Performance Expectations
 Kindergarten
 H.1.K.1 Discuss a sequence of events using chronological terms such as first, next, last, before, after. Sequence of events may include: ● Daily classroom activities ● Significant events in students’ lives ● Typical day in the life of the student
 H.1.K.2 Develop a timeline to sequence significant events in students’ lives.
@@ -165,14 +138,11 @@ H.1.K.3 Compare the life of a student today (present) to the life of a student i
 H.1.K.4 Recognize historic figures and other people who have made an impact on history.
 H.1.K.5 Identify the purpose of national holidays and describe the people or events celebrated. ● Independence Day ● Thanksgiving ● Memorial Day ● Dr. Martin Luther King, Jr. Day ● President’s Day ● Veteran’s Day
 History
-H.1 Students will understand chronology, patterns of continuity, and change over time. This includes the contextualization of historical events and ways people gather, view, construct, and interpret historical evidence.
 Perspective, Evidence, Causation
-Knowledge and Skill Performance Expectations
 Kindergarten
 H.1.K.6 Identify the different points of view represented in a single historical event.
 H.1.K.7 Describe materials and methods that allow people to learn about the past (e.g., photos, artifacts, diaries, oral history, stories).
 H.1.K.8 Compare the differences in sources of information from the present and the past (e.g., telegraph, pony express, newspaper, telephone, TV, Internet).
-H.1.K.6 Identify the different points of view represented in a single historical event.
 
 ## Examples / clarifications
 
@@ -184,9 +154,6 @@ Course Focus and Content Grades K-4 Social Studies provides an introduction to c
 
 ## Issues
 
-AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: u494-u497 (page 21) are garbled fragments ('reasons and', 'tha', 'people, goods, and ideas', 'move from place to place.') that look like overflow of G.1.2.8 text; assigned to grade 2 as standards.
 AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: u595-u605 (page 27) repeat KPEs H.1.K.6-H.1.4.7 already listed at u580-u585 (duplicated rows in the source); grades taken from codes.
-AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: u376 reads 'E.1.3.7e.g., Explain...' (extraction glitch); grade 3 from code.
-AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: At a Glance page 6: u97 is Grade 3 (column 5) and the Grade 4 cell for Processes, Rules, and Laws is missing from the extraction; Geography Spatial Patterns row has no K/1 gap issues.
 AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: K-12 overview and C3 skills labeled K-4 (all grades of the document).
 AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf: Teacher notes embedded in KPE cells (u230-u231) and in-cell 'This may include' lists are not split from their KPE (labeled standards, not examples).

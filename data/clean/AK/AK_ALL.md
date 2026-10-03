@@ -254,7 +254,6 @@ Civics teaches the principles—such as adherence to the social contract, consen
 Deliberation
 Anchor Standard:
 Civics
-Anchor Standard Definition
 Processes, Rules, and
 Determining how groups of people make decisions, govern themselves, and address public problems is a key component of functioning in a democratic republic. People address problems at all scales, from a classroom to the agreements among nations. Public policies are among the tools that governments use to address public problems.
 Laws
@@ -266,7 +265,6 @@ Responsibilities of
 Citizens
 Anchor Standard:
 Economics
-Anchor Standard Definition
 Economic Systems,
 Economic systems include developing an understanding of how people voluntarily exchange goods and services when both parties expect to gain as a result of the trade. Markets exist to facilitate the exchange of goods and services. When buyers and sellers interact in well‐functioning, competitive markets, prices are determined that reflect the relative scarcity of the goods and services in the market. The principles of markets apply to markets for goods and services, labor, credit, foreign exchange, and others. Comparison of benefits and costs helps identify the circumstances under which government action in markets is in the best interest of society and when it is not.
 Models, and Markets
@@ -275,7 +273,6 @@ People make decisions about how to use scarce resources to maximize the well‐b
 Personal Finance
 Anchor Standard:
 Economics
-Anchor Standard Definition
 The National Economy
 Changes in the amounts and qualities of human capital, physical capital, and natural resources influence current and future economic conditions and standard of living. All markets working together influence economic growth and fluctuations in well‐being. Monetary and fiscal policies are often designed and used in attempts to moderate fluctuations and encourage growth under a wide variety of circumstances. Policies changing the growth in the money supply and overall levels of spending in the economy are aimed at reducing inflationary or deflationary pressures, increasing employment or decreasing unemployment levels, and increasing economic growth over time. Policies designed to achieve alternative goals often have unintended effects on levels of inflation, employment, and growth.
 The Global Economy
@@ -286,14 +283,12 @@ State, Local, and
 Tribal
 Anchor Standard:
 Geography
-Anchor Standard Definition
 Human Environment
 Interconnections occur in both human and physical systems. All of these interconnections create complex spatial patterns at multiple scales that continue to change over time. Human interactions and interconnections speed the diffusion of ideas and innovations, intensifying spatial integration and transforming regions. Global‐scale issues and problems cannot be resolved without extensive collaboration among the world’s peoples, nations, and economic organizations.
 Interaction: Place,
 Regions, and Culture
 Anchor Standard:
 Geography
-Anchor Standard Definition
 Global
 Global interconnections occur in both human and physical systems. Earth is a set of interconnected ecosystems of which humans are an influential part. Many natural phenomena have no perceptible boundaries. For example, the oceans are one dynamic system. The atmosphere covers the entire planet. Land and water forms shift over geological eons. Many life forms diffuse from place to place and bring environmental changes with them. Humans have spread across the planet, along with their cultural practices, artifacts, languages, diseases, and other attributes. All of these interconnections create complex spatial patterns at multiple scales that continue to change over time. Global‐scale issues and problems cannot be resolved without extensive collaboration among the world’s peoples, nations, and economic organizations. Asking and answering questions about global interconnections and spatial patterns are a necessary part of geographic reasoning.
 Interconnections:
@@ -311,7 +306,6 @@ Geography of Alaska
 The promotion of geographic knowledge and skills specific to Alaska is essential to understand the places and environments throughout Alaska. These standards promote investigative and problem‐solving skills both inside and outside the classroom, where applicable.
 Anchor Standard:
 History
-Anchor Standard Definition
 Perspectives
 History is interpretive. Even if they are eyewitnesses, people construct different accounts of the same event, which are shaped by their perspectives—their ideas, attitudes, and beliefs. Historical understanding requires recognizing this multiplicity of points of view in the past, which makes it important to seek out a range of sources on any historical question rather than simply use those that are easiest to find. It also requires recognizing that perspectives change over time, so that historical understanding requires developing a sense of empathy with people in the past whose perspectives might be very different from those of today.
 Historical Sources and
@@ -324,12 +318,10 @@ Historical Thinking
 Historical thinking requires understanding and evaluating change and continuity over time and making appropriate use of historical evidence in answering questions and developing arguments about the past. It involves going beyond simply asking, “What happened when?” to evaluating why and how events occurred and developments unfolded. It involves locating and assessing historical sources of many different types to understand the contexts of given historical eras and the perspectives of different individuals and groups within geographic units that range from the local to the global. Historical thinking is a process of chronological reasoning, which means wrestling with issues of causality, connections, significance, and context with the goal of developing credible explanations of historical events and developments based on reasoned interpretation of evidence.
 Anchor Standard:
 History
-Anchor Standard Definition
 Alaskan History
 Alaskan history has been influenced by and influenced many factors throughout history. The focus of Alaskan history is on the study of the environment, Indigenous and immigrant residents, and institutions of Alaska, with specific study of the social, economic, and political history of Alaska, and educational institutions and laws that affect the people of Alaska. The Alaska history standards give perspective and meaning to the people, ideas, and events that shaped the state. These standards address clear Alaska connections in the history standards, where applicable.
 Anchor Standard:
 Inquiry
-Anchor Standard Definition
 Develop Questions
 The development of enduring questions is essential to the study of each social studies discipline. Enduring questions are open-ended, compelling, and centered on significant unresolved issues. Enduring questions focus on real-world issues and concerns; these questions deal with curiosity about how things work, interpretations and applications of disciplinary concepts, and unresolved issues that require students to construct arguments in response. Compelling questions have no one answer.
 and Plan Inquiries
@@ -340,7 +332,6 @@ Develop Claims
 In contrast to opinions and explanations, argumentation involves the ability to understand the source‐to‐evidence relationship. That relationship emphasizes the development of claims and counterclaims and the purposeful selection of evidence in support of those claims and counterclaims. Students will learn to develop claims using evidence, but their initial claims will often be tentative and probing. As students delve more deeply into the available sources, they construct more sophisticated claims and counterclaims that draw on evidence from multiple sources. Whether those claims are implicitly or explicitly stated in student products, they will reflect the evidence students have selected from the sources they have consulted.
 Anchor Standard:
 Inquiry
-Anchor Standard Definition
 Communicate and
 A student’s ability to communicate their own conclusions effectively and listen carefully to the conclusions of others can be considered a capstone of social studies disciplinary practices. Traditional products such as essays, reports, tables, diagrams, graphs, multimedia presentations, and discussions can be used to share conclusions with a variety of audiences. In a world of ever‐expanding communication opportunities inside and outside their school walls, students should also be able to utilize newer media forms in order to share their conclusions and hear the voices of those whose conclusions may be different.
 Critique Conclusions

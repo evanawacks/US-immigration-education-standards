@@ -1,0 +1,1032 @@
+{
+ "state": "RI",
+ "file": "RhodeIsland_SocialStudiesStandards_FULL_4c95f6.pdf",
+ "range": "u7238-u8420",
+ "structure": "High school course-based standards in tables, one table per standard. Course sections are headed 'HIGH SCHOOL - WORLD HISTORY I: ANCIENT TO MEDIEVAL' (earlier, before this range) and 'HIGH SCHOOL - WORLD HISTORY II: EARLY MODERN TO MODERN' (u7667), each with a course description, a 'Topics of Inquiry, Compelling Questions, and Standards' overview list (u7668, u7670), then 'Standards Tables' (u7672). Inquiry Topics N (N=1-8 for WH I, 1-7 for WH II) are headed 'Inquiry Topic N: <title> Compelling Question: <question>'. Each standard table has a code cell SSHS.WHI.n.m / SSHS.WHII.n.m with title, the standard statement ('Argue ...'), a 'Connections to the Rhode Island Anchor Standards' header with 12 anchor codes (CG.P, CG.RL, CG.RR, H.CC, H.HP, H.IG, G.HPE, G.HSP, G.WST, E.SA, E.PC, E.EG) and 'X' marks for the connected anchors, then 'Guiding Questions for Instruction' and 'Learning Assessment Objectives' cells. Table cells of the title/statement are split across lines in the extraction. Labeling: code, title, standard statement, anchor codes and X marks = standards; Guiding Questions and Learning Assessment Objectives = examples; all content is 9-12 (no grade-specific split).",
+ "labels": [
+  {
+   "units": "u7238-u7258",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "None > SSHS.WHI.4.4"
+  },
+  {
+   "units": "u7259",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "None > SSHS.WHI.4.4 > Guiding Questions"
+  },
+  {
+   "units": "u7260",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "None > SSHS.WHI.4.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7262-u7287",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "None > SSHS.WHI.4.5"
+  },
+  {
+   "units": "u7288",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "None > SSHS.WHI.4.5 > Guiding Questions"
+  },
+  {
+   "units": "u7289",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "None > SSHS.WHI.4.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7291",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms"
+  },
+  {
+   "units": "u7292-u7315",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.1"
+  },
+  {
+   "units": "u7316",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.1 > Guiding Questions"
+  },
+  {
+   "units": "u7317",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7319-u7342",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.2"
+  },
+  {
+   "units": "u7343",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.2 > Guiding Questions"
+  },
+  {
+   "units": "u7344",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7346-u7371",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.3"
+  },
+  {
+   "units": "u7372",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.3 > Guiding Questions"
+  },
+  {
+   "units": "u7373",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7375-u7395",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.4"
+  },
+  {
+   "units": "u7396",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.4 > Guiding Questions"
+  },
+  {
+   "units": "u7397",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Ancient Sub-Saharan African Kingdoms > SSHS.WHI.5.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7399",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: The Early Americas"
+  },
+  {
+   "units": "u7400-u7424",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.1"
+  },
+  {
+   "units": "u7425",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.1 > Guiding Questions"
+  },
+  {
+   "units": "u7426",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7428-u7448",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.2"
+  },
+  {
+   "units": "u7449",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.2 > Guiding Questions"
+  },
+  {
+   "units": "u7450",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7452-u7477",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.3"
+  },
+  {
+   "units": "u7478",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.3 > Guiding Questions"
+  },
+  {
+   "units": "u7479",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7481-u7504",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.4"
+  },
+  {
+   "units": "u7505",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.4 > Guiding Questions"
+  },
+  {
+   "units": "u7506",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: The Early Americas > SSHS.WHI.6.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7508",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia"
+  },
+  {
+   "units": "u7509-u7528",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.1"
+  },
+  {
+   "units": "u7529",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.1 > Guiding Questions"
+  },
+  {
+   "units": "u7530",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7532-u7557",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.2"
+  },
+  {
+   "units": "u7558",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.2 > Guiding Questions"
+  },
+  {
+   "units": "u7559",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7561-u7581",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.3"
+  },
+  {
+   "units": "u7582",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.3 > Guiding Questions"
+  },
+  {
+   "units": "u7583",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7585-u7608",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.4"
+  },
+  {
+   "units": "u7609",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.4 > Guiding Questions"
+  },
+  {
+   "units": "u7610",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Medieval Central and Western Asia > SSHS.WHI.7.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7612",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 8: Medieval Western Europe"
+  },
+  {
+   "units": "u7613-u7636",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.1"
+  },
+  {
+   "units": "u7637",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.1 > Guiding Questions"
+  },
+  {
+   "units": "u7638",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7640-u7663",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.2"
+  },
+  {
+   "units": "u7664",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.2 > Guiding Questions"
+  },
+  {
+   "units": "u7665",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "Inquiry Topic 8: Medieval Western Europe > SSHS.WHI.8.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7667",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "World History II course description"
+  },
+  {
+   "units": "u7668-u7670",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "World History II topics of inquiry and standards overview"
+  },
+  {
+   "units": "u7672",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "None"
+  },
+  {
+   "units": "u7673-u7695",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "None > SSHS.WHII.1.1"
+  },
+  {
+   "units": "u7696",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.1 > Guiding Questions"
+  },
+  {
+   "units": "u7697",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7699-u7721",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "None > SSHS.WHII.1.2"
+  },
+  {
+   "units": "u7722",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.2 > Guiding Questions"
+  },
+  {
+   "units": "u7723",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7725-u7742",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "None > SSHS.WHII.1.3"
+  },
+  {
+   "units": "u7743",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.3 > Guiding Questions"
+  },
+  {
+   "units": "u7744",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7746-u7768",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "None > SSHS.WHII.1.4"
+  },
+  {
+   "units": "u7769",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.4 > Guiding Questions"
+  },
+  {
+   "units": "u7770",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "None > SSHS.WHII.1.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7772",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America"
+  },
+  {
+   "units": "u7773-u7795",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.1"
+  },
+  {
+   "units": "u7796",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.1 > Guiding Questions"
+  },
+  {
+   "units": "u7797",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7799-u7824",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.2"
+  },
+  {
+   "units": "u7825",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.2 > Guiding Questions"
+  },
+  {
+   "units": "u7826",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7828-u7851",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.3"
+  },
+  {
+   "units": "u7852",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.3 > Guiding Questions"
+  },
+  {
+   "units": "u7853",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 2: Medieval Asia, Africa, and South America > SSHS.WHII.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7855",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution"
+  },
+  {
+   "units": "u7856-u7879",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.1"
+  },
+  {
+   "units": "u7880",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.1 > Guiding Questions"
+  },
+  {
+   "units": "u7881",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7883-u7903",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.2"
+  },
+  {
+   "units": "u7904",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.2 > Guiding Questions"
+  },
+  {
+   "units": "u7905",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7907-u7929",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.3"
+  },
+  {
+   "units": "u7930",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.3 > Guiding Questions"
+  },
+  {
+   "units": "u7931",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7933-u7957",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.4"
+  },
+  {
+   "units": "u7958",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.4 > Guiding Questions"
+  },
+  {
+   "units": "u7959",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7961-u7984",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.5"
+  },
+  {
+   "units": "u7985",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.5 > Guiding Questions"
+  },
+  {
+   "units": "u7986",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u7988-u8010",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.6"
+  },
+  {
+   "units": "u8011",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.6 > Guiding Questions"
+  },
+  {
+   "units": "u8012",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 3: The Age of Enlightenment and Revolution > SSHS.WHII.3.6 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8014",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism"
+  },
+  {
+   "units": "u8015-u8039",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.1"
+  },
+  {
+   "units": "u8040",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.1 > Guiding Questions"
+  },
+  {
+   "units": "u8041",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8043-u8066",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.2"
+  },
+  {
+   "units": "u8067",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.2 > Guiding Questions"
+  },
+  {
+   "units": "u8068",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8070-u8095",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.3"
+  },
+  {
+   "units": "u8096",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.3 > Guiding Questions"
+  },
+  {
+   "units": "u8097",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 4: The Era of Nationalism and Imperialism > SSHS.WHII.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8099",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization"
+  },
+  {
+   "units": "u8100-u8124",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.1"
+  },
+  {
+   "units": "u8125",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.1 > Guiding Questions"
+  },
+  {
+   "units": "u8126",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8128-u8152",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.2"
+  },
+  {
+   "units": "u8153",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.2 > Guiding Questions"
+  },
+  {
+   "units": "u8154",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8156-u8178",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.4"
+  },
+  {
+   "units": "u8179",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.4 > Guiding Questions"
+  },
+  {
+   "units": "u8180",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 5: Industrialization, Urbanization, and Modernization > SSHS.WHII.5.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8182",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War"
+  },
+  {
+   "units": "u8183-u8202",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.1"
+  },
+  {
+   "units": "u8203",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.1 > Guiding Questions"
+  },
+  {
+   "units": "u8204",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8206-u8223",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.2"
+  },
+  {
+   "units": "u8224",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.2 > Guiding Questions"
+  },
+  {
+   "units": "u8225",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8227-u8251",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.3"
+  },
+  {
+   "units": "u8252",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.3 > Guiding Questions"
+  },
+  {
+   "units": "u8253",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8255-u8279",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.4"
+  },
+  {
+   "units": "u8280",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.4 > Guiding Questions"
+  },
+  {
+   "units": "u8281",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8283-u8305",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.5"
+  },
+  {
+   "units": "u8306",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.5 > Guiding Questions"
+  },
+  {
+   "units": "u8307",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 6: Global War and Cold War > SSHS.WHII.6.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8309",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Decolonization and Globalization"
+  },
+  {
+   "units": "u8310-u8335",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.1"
+  },
+  {
+   "units": "u8336",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.1 > Guiding Questions"
+  },
+  {
+   "units": "u8337",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8339-u8364",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.2"
+  },
+  {
+   "units": "u8365",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.2 > Guiding Questions"
+  },
+  {
+   "units": "u8366",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8368-u8392",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.3"
+  },
+  {
+   "units": "u8393",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.3 > Guiding Questions"
+  },
+  {
+   "units": "u8394",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u8396-u8417",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "standards",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.4"
+  },
+  {
+   "units": "u8418",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.4 > Guiding Questions"
+  },
+  {
+   "units": "u8419",
+   "grades": "9-12",
+   "course": "World History II: Early Modern to Modern",
+   "cat": "examples",
+   "section": "Inquiry Topic 7: Decolonization and Globalization > SSHS.WHII.7.4 > Learning Assessment Objectives"
+  }
+ ],
+ "issues": [
+  "u7238-u7289, u7292-u7550 etc: the standard statement, title and anchor codes are scattered across table cells/lines in extraction order; the X marks and anchor code cells are kept with the standard (cat standards).",
+  "u7667: World History II course description narrative labeled examples per guide (Course Focus narrative); u7668 and u7670 overview list of inquiry topics, compelling questions and standard titles labeled standards (units are mixed, not split).",
+  "Inquiry Topic heading units (e.g. u7291, u7399, u7508, u7612, u7672, u7772) contain the Compelling Question text; labeled standards as topic headings (mixed unit).",
+  "Course strings: 'World History I: Ancient to Medieval' and 'World History II: Early Modern to Modern' taken from the HIGH SCHOOL course headings (without 'HIGH SCHOOL -' prefix); other parts of the file should use the same strings.",
+  "u8156-u8180: the table is coded SSHS.WHII.5.4 'Patterns of movement' but the overview list (u7670) calls it SSHS.WHII.5.3 and no SSHS.WHII.5.3 table exists; source numbering inconsistency, no content missing.",
+  "u7725, u7883, u8183, u8206: for these standards the title and statement are merged into a single cell (R2 C1) and anchor codes appear in different rows; no grade ambiguity.",
+  "u8420 is the upper bound of the assigned range but the view ends at u8419; all units through u8419 covered."
+ ]
+}

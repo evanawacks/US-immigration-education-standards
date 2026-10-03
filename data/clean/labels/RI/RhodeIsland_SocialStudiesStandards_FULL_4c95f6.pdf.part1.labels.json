@@ -1,0 +1,3277 @@
+{
+ "state": "RI",
+ "file": "RhodeIsland_SocialStudiesStandards_FULL_4c95f6.pdf",
+ "range": "u1-u3456",
+ "structure": "Single K-12 PDF (366 pp). Front matter (cover, TOC, Introduction) then 12 Anchor Standards (domains Civics & Government CG.P/RL/RR, History H.CC/HP/IG, Geography G.HPE/HSP/WST, Economics E.SA/PC/EG; each with Identify/Explain/Analyze/Argue levels) that apply K-12, then Content Standards overview/how-to-read. Grade sections (Kindergarten, GRADE 1-8; HS courses follow outside this part) each open with a title+narrative unit and a 'Topics of Inquiry, Compelling Questions, and Standards' list (Inquiry Topic N, compelling question, standard codes+short titles), then 'Standards Tables'. Each inquiry topic has a heading unit (topic + compelling question) and one table per standard. Standard codes: SSK.t.s (K), SS1.t.s ... SS8.t.s = Social Studies grade, inquiry topic, standard. Table layout: first-column/second cells hold code + title + one-sentence standard statement (often split across several units by line wrap), 'Connections to the Rhode Island Anchor Standards' header, the 12 anchor-code cells (CG.P ... E.EG) and 'X' marker cells for aligned anchors, then a row with 'Guiding Questions for Instruction' (examples) and 'Learning Assessment Objectives' (a-g indicators unpacking the standard; labeled standards). Grade comes from grade section headings and the SSg code; no course content in this part (courses are HS only). Running headers carry only page numbers.",
+ "labels": [
+  {
+   "units": "u1-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: title, table of contents, introduction"
+  },
+  {
+   "units": "u68-u93",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Anchor Standards overview, rigor verbs, cultural responsiveness, footnotes"
+  },
+  {
+   "units": "u95-u113",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Anchor Standards (CG, H, G, E domains; 4 levels each)"
+  },
+  {
+   "units": "u115-u131",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Content Standards overview and how to read the standards / sample table"
+  },
+  {
+   "units": "u133-u134",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u136",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families"
+  },
+  {
+   "units": "u137-u161",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u162",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u163",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u165-u187",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u188",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u189",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u191-u212",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u213",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u214",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u216-u232",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u233",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u234",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 1: Families > SSK.1.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u236",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools (topic heading and compelling question)"
+  },
+  {
+   "units": "u237-u256",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u257",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u258",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u260-u276",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u277",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u278",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u280-u297",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u298",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u299",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u301-u317",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u318",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u319",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 2: Schools > SSK.2.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u321",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods (topic heading and compelling question)"
+  },
+  {
+   "units": "u322-u345",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u346",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u347",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u349-u372",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u373",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u374",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u376-u400",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u401",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u402",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 3: Neighborhoods > SSK.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u404",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World (topic heading and compelling question)"
+  },
+  {
+   "units": "u405-u425",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u426",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u427",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u429-u446",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u447",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u448",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u450-u474",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u475",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u476",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade K > Inquiry Topic 4: Families, Schools, and Neighborhoods around the World > SSK.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u478-u480",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u482",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places"
+  },
+  {
+   "units": "u483-u500",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u501",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u502",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u504-u522",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u523",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u524",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u526-u546",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u547",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u548",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u550-u565",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u566",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u567",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 1: Communities as Places > SS1.1.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u569",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community (topic heading and compelling question)"
+  },
+  {
+   "units": "u570-u587",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u588",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u589",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u591-u610",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u611",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u612",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 2: People in the Community > SS1.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u614",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community (topic heading and compelling question)"
+  },
+  {
+   "units": "u615-u632",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u633",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u634",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u636-u653",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u654",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u655",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u657-u673",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u674",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u675",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 3: Working in the Community > SS1.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u677",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community (topic heading and compelling question)"
+  },
+  {
+   "units": "u678-u694",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u695",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u696",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u698-u714",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u715",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u716",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u718-u735",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u736",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u737",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u739-u756",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u757",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u758",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u760-u782",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.5 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u783",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.5 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u784",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 4: Governing in the Community > SS1.4.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u786",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World (topic heading and compelling question)"
+  },
+  {
+   "units": "u787-u808",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u809",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u810",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u812-u835",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u836",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u837",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u839-u862",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u863",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u864",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Inquiry Topic 5: Communities around the World > SS1.5.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u866-u867",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u869",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places"
+  },
+  {
+   "units": "u870-u886",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u887",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u888",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u890-u906",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u907",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u908",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u910-u931",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u932",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u933",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u935-u953",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u954",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u955",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 1: Global Places > SS2.1.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u957",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World (topic heading and compelling question)"
+  },
+  {
+   "units": "u958-u975",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u976",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u977",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u979-u999",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1000",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1001",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1003-u1023",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1024",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1025",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 2: People Around the World > SS2.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1027",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections (topic heading and compelling question)"
+  },
+  {
+   "units": "u1028-u1046",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1047",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1048",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1050-u1067",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1068",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1069",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1071-u1088",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1089",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1090",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 3: Global Connections > SS2.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1092",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments (topic heading and compelling question)"
+  },
+  {
+   "units": "u1093-u1110",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1111",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1112",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1114-u1130",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1131",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1132",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1134-u1157",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1158",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1159",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1161-u1179",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1180",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1181",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1183-u1200",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.5 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1201",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.5 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1202",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Inquiry Topic 4: Countries and Governments > SS2.4.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1204-u1207",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u1209",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America"
+  },
+  {
+   "units": "u1210-u1229",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1230",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1231",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1233-u1248",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1249",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1250",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1252-u1269",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1270",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1271",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1273-u1290",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1291",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1292",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1294-u1310",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.5 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1311",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.5 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1312",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 1: An Overview of the United States of America > SS3.1.5 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1314",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast (topic heading and compelling question)"
+  },
+  {
+   "units": "u1315-u1335",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1336",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1337",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1339-u1358",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1359",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1360",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1362-u1385",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1386",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1387",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1389-u1413",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1414",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1415",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 2: The Northeast > SS3.2.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1417",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast (topic heading and compelling question)"
+  },
+  {
+   "units": "u1418-u1439",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1440",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1441",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1443-u1468",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1469",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1470",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1472-u1495",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1496",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1497",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1499-u1524",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1525",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1526",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 3: The Southeast > SS3.3.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1528",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest (topic heading and compelling question)"
+  },
+  {
+   "units": "u1529-u1549",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1550",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1551",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1553-u1572",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1573",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1574",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1576-u1599",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1600",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1601",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1603-u1628",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1629",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1630",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 4: The Midwest > SS3.4.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1632",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest (topic heading and compelling question)"
+  },
+  {
+   "units": "u1633-u1653",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1654",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1655",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1657-u1676",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1677",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1678",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1680-u1703",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1704",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1705",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1707-u1732",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1733",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1734",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 5: The Southwest > SS3.5.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1736",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West (topic heading and compelling question)"
+  },
+  {
+   "units": "u1737-u1757",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1758",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1759",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1761-u1785",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1786",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1787",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1789-u1812",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1813",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1814",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1816-u1836",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1837",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1838",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Inquiry Topic 6: The West > SS3.6.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1840-u1843",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u1845",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment"
+  },
+  {
+   "units": "u1846-u1861",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1862",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1863",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1865-u1884",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1885",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1886",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 1: Geography and Environment > SS4.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1888",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists (topic heading and compelling question)"
+  },
+  {
+   "units": "u1889-u1912",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1913",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1914",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1916-u1938",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1939",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1940",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1942-u1966",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1967",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1968",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1970-u1994",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u1995",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u1996",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 2: Indigenous Peoples, Roger Williams, and Rhode Island Colonists > SS4.2.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u1998",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island (topic heading and compelling question)"
+  },
+  {
+   "units": "u1999-u2021",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2022",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2023",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2025-u2046",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2047",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2048",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2050-u2066",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2067",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2068",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 3: Early Rhode Island > SS4.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2070",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State (topic heading and compelling question)"
+  },
+  {
+   "units": "u2071-u2093",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2094",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2095",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2097-u2117",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2118",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2119",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2121-u2144",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2145",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2146",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 4: The American Revolution and Becoming a State > SS4.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2148",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry (topic heading and compelling question)"
+  },
+  {
+   "units": "u2149-u2169",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2170",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2171",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2173-u2197",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2198",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2199",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2201-u2224",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2225",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2226",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 5: Immigration, Labor, and Industry > SS4.5.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2228",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments (topic heading and compelling question)"
+  },
+  {
+   "units": "u2229-u2246",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2247",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2248",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2250-u2267",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2268",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2269",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2271-u2290",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2291",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2292",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2294-u2313",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2314",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2315",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Inquiry Topic 6: Rhode Island Governments > SS4.6.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2317-u2320",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u2322",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization"
+  },
+  {
+   "units": "u2323-u2339",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2340",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2341",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2343-u2367",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2368",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2369",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 1: The Land and People Before Colonization > SS5.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2371",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth (topic heading and compelling question)"
+  },
+  {
+   "units": "u2372-u2391",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2392",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2393",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2395-u2414",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2415",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2416",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2418-u2442",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2443",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2444",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2446-u2469",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2470",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2471",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 2: European Arrival in North America and Colonial Growth > SS5.2.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2473",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution (topic heading and compelling question)"
+  },
+  {
+   "units": "u2474-u2494",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2495",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2496",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2498-u2517",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2518",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2519",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2521-u2537",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2538",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2539",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2541-u2565",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2566",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2567",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 3: The American Revolution > SS5.3.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2569",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth (topic heading and compelling question)"
+  },
+  {
+   "units": "u2570-u2587",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2588",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2589",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2591-u2615",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2616",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2617",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2618-u2623",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2625-u2645",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2646",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2647",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2648-u2651",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2653-u2670",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2671",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2672",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 4: The Early Republic and its Growth > SS5.4.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2674",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction (topic heading and compelling question)"
+  },
+  {
+   "units": "u2675-u2694",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2695",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2696",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2698-u2716",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2717",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2718",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2720-u2737",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2738",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2739",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2741-u2767",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2768",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.4 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2769",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.4 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2770-u2780",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Inquiry Topic 5: Enslavement, the Civil War, and Reconstruction > SS5.5.4 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2782-u2785",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u2787",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Standards Tables heading"
+  },
+  {
+   "units": "u2788",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past (topic heading and compelling question)"
+  },
+  {
+   "units": "u2789-u2806",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2807",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2808",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2810-u2824",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2825",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2826",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2828-u2843",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2844",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2845",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 1: Researching the Past > SS6.1.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2847",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies (topic heading and compelling question)"
+  },
+  {
+   "units": "u2848-u2872",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2873",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2874",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2876-u2894",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2895",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2896",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2898-u2923",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2924",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2925",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 2: Human Origins and the Development of Complex Societies > SS6.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2927",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u2928-u2952",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2953",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2954",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2956-u2981",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u2982",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u2983",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 3: The First States (4000 - 1200 BCE) > SS6.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u2985",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u2986-u3010",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3011",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3012",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3014-u3040",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3041",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3042",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 4: World Empires and Cultures (1200-350 BCE) > SS6.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3044",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3045-u3070",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3071",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3072",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3074-u3094",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3095",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3096",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 5: Encounters in the Afro-Eurasian World (350 BCE - 300 CE) > SS6.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3098",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions (topic heading and compelling question)"
+  },
+  {
+   "units": "u3099-u3121",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3122",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3123",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3125-u3147",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3148",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3149",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 6: Rise and Influence of World Religions > SS6.6.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3151",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3152-u3171",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3172",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3173",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3175-u3192",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3193",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3194",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Inquiry Topic 7: Global Trade (300 CE - 1300 CE) > SS6.7.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3196-u3199",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 overview: title, narrative, topics of inquiry and standards list"
+  },
+  {
+   "units": "u3201",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 Standards Tables heading"
+  },
+  {
+   "units": "u3202",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 1: The World in 1300 CE (topic heading and compelling question)"
+  },
+  {
+   "units": "u3203-u3225",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 1: The World in 1300 CE > SS7.1.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3226",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 1: The World in 1300 CE > SS7.1.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3227",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 1: The World in 1300 CE > SS7.1.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3229",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3230-u3248",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3249",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3250",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3252-u3269",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3270",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3271",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3273-u3292",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.3 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3293",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.3 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3294",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 2: Global Convergence (1300 - 1850 CE) > SS7.2.3 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3296",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3297-u3314",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3315",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3316",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3318-u3338",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3339",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3340",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 3: Impact of Ideas (1500 - 1750 CE) > SS7.3.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3342",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3343-u3359",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3360",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3361",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3363-u3382",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3383",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3384",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 4: Political and Social Revolutions (1750 - 1920 CE) > SS7.4.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3386",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3387-u3409",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3410",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3411",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.1 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3413-u3430",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.2 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3431",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.2 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3432",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 5: Global Expansion and Imperialism (1850 - 1930 CE) > SS7.5.2 > Learning Assessment Objectives"
+  },
+  {
+   "units": "u3434",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 6: Global Wars (1917 - 1989 CE) (topic heading and compelling question)"
+  },
+  {
+   "units": "u3435-u3453",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 6: Global Wars (1917 - 1989 CE) > SS7.6.1 > Standard statement, anchor-standard connections"
+  },
+  {
+   "units": "u3454",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 > Inquiry Topic 6: Global Wars (1917 - 1989 CE) > SS7.6.1 > Guiding Questions for Instruction"
+  },
+  {
+   "units": "u3455",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Inquiry Topic 6: Global Wars (1917 - 1989 CE) > SS7.6.1 > Learning Assessment Objectives"
+  }
+ ],
+ "issues": [
+  "Guide/doc check: guide row clusters K,1-8,9-12 and topics match; this part (u1-u3456) covers K through Grade 7 through SS7.6.1 only. u3456 is a furniture unit (running header) and is not labeled; last labeled unit is u3455 (end of SS7.6.1 table); SS7.6.2 starts at u3457 (next part).",
+  "u68-u93: Anchor Standards overview, the four-verb rigor hierarchy definitions, CRSE design principles and footnotes labeled backup (explanatory); u70-u74 are an extracted diagram of the four domains with fragmentary text ('Rhode Island's Social St' / 'udies Anchor Standards'). u95-u113 anchor standards (4 levels per anchor, one unit per domain/anchor group, merged text) labeled standards with grades K-12 since they apply to all grades.",
+  "u115-u131 content-standards overview and 'How to read the standards' / sample table descriptions labeled backup, grades all.",
+  "u133, u478, u866, u1204, u1840, u2317, u2782, u3196: grade title + narrative description in one unit; labeled standards because title and narrative are merged (narrative would otherwise be examples). u478 and u866 also merge the Topics-of-Inquiry list (standard codes+titles) into the same unit.",
+  "Topic overview lists (u134, u480, u867, u1205, u1207, u1841, u1843, u2318, u2320, u2783, u2785, u3197, u3199) list inquiry topics, compelling questions and standard codes/titles; labeled standards. They contain the compelling questions (normally examples) merged with the standard titles. Topic list continues across pages (e.g., u1207, u1843, u2320, u2785, u3199).",
+  "Inquiry Topic heading units (topic + compelling question merged, e.g. u236, u321, u404) labeled standards (heading); compelling question not separable.",
+  "Standard statement text is split across line-wrap fragments (e.g. u137-u161 K SSK.1.1: 'Explain families, family roles, and' / 'family rules through looking at the' ...); all fragments kept in order in the standards label of that table. Anchor-code cells (CG.P..E.EG) and 'X' alignment markers (cells with no text value other than X) labeled standards as part of the standard table. Some codes are truncated or lowercase in extraction (u2461 'E.E' for E.EG in SS5.2.4; u2977-u2978 lowercase 'x' in SS6.3.2).",
+  "Table-structure irregularities: in some tables the second standard-statement line or anchor cells fall in rows differently (R4/R5/R6) and the standard statement is placed in C1 together with the code (e.g. u216, u260); no effect on labeling. Some tables put the standard statement after the Connections header (e.g. u2741-u2767 SS5.5.4, standard statement split into u2743, u2744, u2757, u2758, u2767 around the X cells); order in view is as extracted.",
+  "Duplicate fragment tables: u2618-u2623 (SS5.4.2), u2648-u2651 (SS5.4.3), u2770-u2780 (SS5.5.4, two extra tables T2/T3) are extraction duplicates/fragments of learning-assessment-objective text a-e already present in the preceding LAO unit; labeled standards (same as the LAO they repeat), text is partially garbled (e.g. u2777-u2779 'Explain the' ... 'white supremacy's role in the rise o').",
+  "SS4.3.1 (u1999-u2023): standard statement and anchor cells interleaved in extraction (u2001-u2002 'Argue how the geography and environment' / 'supported a new way of life for Rhode' then anchor cells, then u2015 'Island Colonists while their lifeways in turn', u2016, u2021 'peoples'); text order within the unit run is as extracted.",
+  "u1937 etc. lines such as 'SS4.2.2 ... Colonies' show the code/title/standard statement may interleave with anchor header cells; whole table labeled standards.",
+  "Learning Assessment Objectives (a, b, c ...) labeled standards (indicators that unpack the standard, per guide: indicators/benchmarks = standards); Guiding Questions for Instruction labeled examples. The LAOs contain many e.g. lists inside the same unit (not splittable)."
+ ]
+}

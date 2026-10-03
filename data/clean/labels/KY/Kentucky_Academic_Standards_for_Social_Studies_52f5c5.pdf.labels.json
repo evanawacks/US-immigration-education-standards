@@ -1,0 +1,3064 @@
+{
+ "state": "KY",
+ "file": "Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf",
+ "structure": "[part 1] Kentucky Academic Standards for Social Studies (Dec 2022). Front matter (TOC, introduction, legal basis, vision, organization, inquiry-practice and discipline-strand definitions, coding explanation) precedes grade sections. K-5 and 6-8 band overviews each have a Grade-level Introductions page. Each grade K-8 has three parts: (1) '<Grade>: <Theme>' title + 'Specific Overview' (introduction, key vocabulary, looking back/ahead, 'What this would look like in practice' table with Standard / Sample Evidence of Learning columns, Opportunities for Cross-Disciplinary Connections); (2) '<Grade>: <Theme> Standards' with an Introduction paragraph and a 'Concepts and Practices | Standards' table whose first column names the practice/concept (I: Questioning, I: Investigating, I: Using Evidence, I: Communicating Conclusions; C: / E: / G: / H: strand concepts such as Civic and Political Institutions (CP), Microeconomics (MI), Migration and Movement (MM), Change and Continuity (CH), Kentucky strands KGO/KE/KGE/KH) and whose standards column holds codes of the form <grade>.<strand>.<concept>.<n> (e.g. K.C.CP.1, 4.G.MM.1, 8.H.CO.4; inquiry codes <grade>.I.Q/UE/CC.<n>); (3) '<Grade>: Disciplinary Clarifications and Instructional Support' with Civics/Economics/Geography/History strand tables (Concepts and Practices | Standard | Disciplinary Clarifications) that repeat each standard beside its clarification. Inquiry standards are repeated per grade (no separate K-12 shared block in this range). High school sections and Appendix A progressions fall after this range (from u2355). Labeling choices: grade title headings and the Concepts-and-Practices standards tables = standards; introductions, Specific Overview material, sample-evidence tables and clarification tables (including the standard text copied into them) = examples; explanatory sentence under each clarifications heading = backup.\n[part 2] Kentucky Academic Standards for Social Studies (2019, rev. 2022). Grades K-8 each have a 'Grade N: <Theme> Standards' section (Inquiry Practices + discipline strands Civics/Economics/Geography/History) in a 2-column table 'Concepts and Practices | Standards', then a separate 'Grade N: Disciplinary Clarifications and Instructional Support' section (3-column table adding 'Disciplinary Clarifications'; labeled examples, including the standard text repeated in column 2). Standard codes: <grade>.<discipline>.<concept>.<n> (e.g. 8.C.CP.1, 8.H.KH.2); inquiry practices <grade>.I.Q/UE/CC.n. High school has an overview then five course sections (Civics, Economics, Geography, United States History, World History) each with an introduction, a standards table (codes HS.C/E/G/UH/WH.<concept>.<n>; inquiry HS.X.I.Q/UE/CC; US/World History start with a time-period/theme table) and a Disciplinary Clarifications section (examples); all HS content is grades 9-12 with course = discipline name. In table extraction the strand/concept name (C1) sits in separate units near the row, often split over several rows. Appendix A is K-12 progressions (inquiry Q/UE/CC, then Civics, Economics, Geography, History) first by grade level then by concept, as tables with Grade Level | Concepts and Practices | Standards columns where grade labels and strand labels are scattered across rows near the standards; these repeat the standards and are labeled examples with the grade of each row (HS rows 9-12 with the course). Appendices B and C are committee lists (backup).\n",
+ "labels": [
+  {
+   "units": "u1-u3",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and title"
+  },
+  {
+   "units": "u4-u52",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u53-u270",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: background, legal basis, vision, design, organization of standards, inquiry practices and strand definitions, coding explanations, supplementary materials"
+  },
+  {
+   "units": "u271-u273",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "K-5 overview: band introduction"
+  },
+  {
+   "units": "u274",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade K"
+  },
+  {
+   "units": "u275",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 1"
+  },
+  {
+   "units": "u276",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 2"
+  },
+  {
+   "units": "u277",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 3"
+  },
+  {
+   "units": "u278",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 4"
+  },
+  {
+   "units": "u279",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "K-5 overview: grade-level introduction, grade 5"
+  },
+  {
+   "units": "u281",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community: grade title and theme"
+  },
+  {
+   "units": "u282-u311",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u312",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community Standards: heading"
+  },
+  {
+   "units": "u313",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u314-u375",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Myself and My Community Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u376",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u377",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u378-u490",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Myself and My Community > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u491",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State: grade title and theme"
+  },
+  {
+   "units": "u492-u528",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u529",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State Standards: heading"
+  },
+  {
+   "units": "u530",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u531-u599",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Impact on Community and State Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u600",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u601",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u602-u726",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Impact on Community and State > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u727",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions: grade title and theme"
+  },
+  {
+   "units": "u728-u769",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u770",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions Standards: heading"
+  },
+  {
+   "units": "u771",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u772-u844",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: North American Interactions Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u845",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u846",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u847-u962",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: North American Interactions > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u963",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions: grade title and theme"
+  },
+  {
+   "units": "u964-u997",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u998",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions Standards: heading"
+  },
+  {
+   "units": "u999",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1000-u1067",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Global Interactions Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1068",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1069",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1070-u1203",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Global Interactions > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1204",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement: grade title and theme"
+  },
+  {
+   "units": "u1205-u1249",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1250",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement Standards: heading"
+  },
+  {
+   "units": "u1251",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1252-u1323",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Migration and Settlement Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1324",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1325",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1326-u1433",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Migration and Settlement > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1434",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution: grade title and theme"
+  },
+  {
+   "units": "u1435-u1472",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1473",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution Standards: heading"
+  },
+  {
+   "units": "u1474",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1475-u1549",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Colonization to Constitution Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1550",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1551",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1552-u1671",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Colonization to Constitution > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1672-u1674",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 overview: band introduction"
+  },
+  {
+   "units": "u1675",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 6"
+  },
+  {
+   "units": "u1676",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 7"
+  },
+  {
+   "units": "u1677",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grades 6-8 overview: grade-level introduction, grade 8"
+  },
+  {
+   "units": "u1679",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations: grade title and theme"
+  },
+  {
+   "units": "u1680-u1728",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1729",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations Standards: heading"
+  },
+  {
+   "units": "u1730",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1731-u1804",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Development of Civilizations Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u1805",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u1806",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u1807-u1927",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Development of Civilizations > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u1928",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization: grade title and theme"
+  },
+  {
+   "units": "u1929-u1979",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u1980",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards: heading"
+  },
+  {
+   "units": "u1981",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u1982-u2057",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Growth and Expansion of Civilization Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u2058",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u2059",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u2060-u2180",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Growth and Expansion of Civilization > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u2181",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877: grade title and theme"
+  },
+  {
+   "units": "u2182-u2230",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Specific Overview (introduction, key vocabulary, looking back/ahead, what this looks like in practice sample-evidence table, cross-disciplinary connections)"
+  },
+  {
+   "units": "u2231",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877 Standards: heading"
+  },
+  {
+   "units": "u2232",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 Standards > Introduction (grade focus narrative)"
+  },
+  {
+   "units": "u2233-u2325",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: The United States: 1600-1877 Standards > Concepts and Practices table (inquiry practices and C/E/G/H strand standards)"
+  },
+  {
+   "units": "u2326",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications and Instructional Support: heading"
+  },
+  {
+   "units": "u2327",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications: explanation of purpose"
+  },
+  {
+   "units": "u2328-u2354",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: The United States: 1600-1877 > Disciplinary Clarifications tables (Civics/Economics/Geography/History strands)"
+  },
+  {
+   "units": "u2355-u2474",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 Disciplinary Clarifications and Instructional Support (Civics cont., Economics, Geography, History)"
+  },
+  {
+   "units": "u2478-u2480",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School Overview and Discipline Introductions heading"
+  },
+  {
+   "units": "u2481",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "High School Overview > Civics discipline introduction"
+  },
+  {
+   "units": "u2482",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "High School Overview > Economics discipline introduction"
+  },
+  {
+   "units": "u2483",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "High School Overview > Geography discipline introduction"
+  },
+  {
+   "units": "u2484-u2486",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "High School Overview > U.S. History discipline introduction"
+  },
+  {
+   "units": "u2487",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "High School Overview > World History discipline introduction"
+  },
+  {
+   "units": "u2489",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "High School: Civics Standards (title)"
+  },
+  {
+   "units": "u2490",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "High School Civics introduction"
+  },
+  {
+   "units": "u2491-u2530",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "High School Civics standards (inquiry + discipline strands)"
+  },
+  {
+   "units": "u2532",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "High School Civics: Disciplinary Clarifications heading"
+  },
+  {
+   "units": "u2533",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "High School Civics: how to read disciplinary clarifications"
+  },
+  {
+   "units": "u2534-u2594",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "High School Civics: Disciplinary Clarifications and Instructional Support"
+  },
+  {
+   "units": "u2598",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "High School: Economics Standards (title)"
+  },
+  {
+   "units": "u2599",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "High School Economics introduction"
+  },
+  {
+   "units": "u2600-u2642",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "High School Economics standards (inquiry + discipline strands)"
+  },
+  {
+   "units": "u2644",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "High School Economics: Disciplinary Clarifications heading"
+  },
+  {
+   "units": "u2645",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "High School Economics: how to read disciplinary clarifications"
+  },
+  {
+   "units": "u2646-u2724",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "High School Economics: Disciplinary Clarifications and Instructional Support"
+  },
+  {
+   "units": "u2728",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "High School: Geography Standards (title)"
+  },
+  {
+   "units": "u2729",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "High School Geography introduction"
+  },
+  {
+   "units": "u2730-u2766",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "High School Geography standards (inquiry + discipline strands)"
+  },
+  {
+   "units": "u2768",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "High School Geography: Disciplinary Clarifications heading"
+  },
+  {
+   "units": "u2769",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "backup",
+   "section": "High School Geography: how to read disciplinary clarifications"
+  },
+  {
+   "units": "u2770-u2802",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "High School Geography: Disciplinary Clarifications and Instructional Support"
+  },
+  {
+   "units": "u2806",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "High School: United States History Standards (title)"
+  },
+  {
+   "units": "u2807",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "High School U.S. History introduction"
+  },
+  {
+   "units": "u2808-u2858",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "standards",
+   "section": "High School U.S. History: time-period/theme table, inquiry and discipline standards"
+  },
+  {
+   "units": "u2860",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "High School U.S. History: Disciplinary Clarifications heading"
+  },
+  {
+   "units": "u2861",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "backup",
+   "section": "High School U.S. History: how to read disciplinary clarifications"
+  },
+  {
+   "units": "u2862-u2959",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "High School U.S. History: Disciplinary Clarifications and Instructional Support"
+  },
+  {
+   "units": "u2963",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "High School: World History Standards (title)"
+  },
+  {
+   "units": "u2964",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "High School World History introduction"
+  },
+  {
+   "units": "u2965-u3017",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "High School World History: time-period/theme table, inquiry and discipline standards"
+  },
+  {
+   "units": "u3019",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "High School World History: Disciplinary Clarifications heading"
+  },
+  {
+   "units": "u3020",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "High School World History: how to read disciplinary clarifications"
+  },
+  {
+   "units": "u3021-u3156",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "High School World History: Disciplinary Clarifications and Instructional Support"
+  },
+  {
+   "units": "u3160-u3161",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A: Kindergarten through High School Progressions"
+  },
+  {
+   "units": "u3162",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Inquiry Progressions"
+  },
+  {
+   "units": "u3163-u3164",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3165-u3168",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3169-u3170",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3171-u3172",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3173-u3174",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3175-u3176",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3177-u3178",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3180-u3183",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3184-u3185",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3186-u3187",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3188-u3189",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3190-u3191",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3193-u3196",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3197-u3198",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3199-u3200",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Questioning"
+  },
+  {
+   "units": "u3202-u3203",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3204-u3207",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3208-u3209",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3210-u3211",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3212-u3213",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3215-u3218",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3219-u3220",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3221-u3222",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3223-u3224",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3226-u3229",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3230-u3231",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3232-u3233",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3234-u3235",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3237-u3240",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3241-u3242",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Using Evidence"
+  },
+  {
+   "units": "u3244-u3245",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3246-u3249",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3250-u3251",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3252-u3253",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3254-u3260",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3261-u3262",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3263-u3264",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3265-u3271",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3272-u3273",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3274-u3275",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3277-u3280",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3281-u3282",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3283-u3284",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3285-u3286",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3288-u3291",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > Inquiry Progression: Communicating Conclusions"
+  },
+  {
+   "units": "u3293-u3294",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progressions"
+  },
+  {
+   "units": "u3295",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3296-u3309",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3310-u3326",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3327-u3339",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3340-u3355",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3356-u3370",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3372-u3385",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3386-u3400",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3401-u3413",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3414-u3432",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3433-u3453",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progressions by Grade Level"
+  },
+  {
+   "units": "u3455-u3456",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3457-u3462",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3463-u3465",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3466-u3468",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3469-u3471",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3472-u3474",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3475-u3477",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3479-u3484",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3485-u3487",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3488-u3490",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3491-u3501",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic and Political Institutions"
+  },
+  {
+   "units": "u3503-u3504",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3505-u3510",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3511-u3514",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3515-u3517",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3518-u3520",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3521-u3524",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3525-u3527",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3528-u3531",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3533-u3539",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3540-u3543",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3544-u3547",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Roles and Responsibilities of a Citizen"
+  },
+  {
+   "units": "u3549-u3550",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3551-u3557",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3558-u3561",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3562-u3565",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3566-u3569",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3570-u3573",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3574-u3577",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3578-u3581",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3582-u3585",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3587-u3593",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3594-u3596",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u3598-u3599",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3600-u3605",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3606-u3608",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3609-u3611",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3612-u3614",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3615-u3617",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3618-u3620",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3621-u3623",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3624-u3626",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3627-u3629",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3631-u3636",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Processes, Rules and Laws"
+  },
+  {
+   "units": "u3638-u3639",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3640-u3645",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3646-u3648",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3649-u3651",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3652-u3654",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3655-u3657",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3658-u3660",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3661-u3663",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3664-u3666",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3667-u3669",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3670-u3672",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Appendix A > Civics Progression: Kentucky Government"
+  },
+  {
+   "units": "u3674-u3675",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progressions"
+  },
+  {
+   "units": "u3676",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3677-u3691",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3692-u3707",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3708-u3722",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3723-u3740",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3741-u3755",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3756-u3773",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3774-u3786",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3788-u3798",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3799-u3816",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3817-u3835",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progressions by Grade Level"
+  },
+  {
+   "units": "u3837-u3838",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3839-u3844",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3845-u3848",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3849-u3852",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3853-u3856",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3857-u3860",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3861-u3863",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3864-u3867",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3869-u3875",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3876-u3878",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3879-u3881",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Microeconomics"
+  },
+  {
+   "units": "u3883-u3884",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3885-u3890",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3891-u3893",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3894-u3896",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3897-u3899",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3900-u3902",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3903-u3905",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3906-u3908",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3909-u3911",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3913-u3918",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3919-u3921",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Macroeconomics"
+  },
+  {
+   "units": "u3923-u3924",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3925-u3931",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3932-u3935",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3936-u3939",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3940-u3943",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3944-u3947",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3948-u3951",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3952-u3955",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3957-u3963",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3964-u3966",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3967-u3969",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Specialization, Trade and Interdependence"
+  },
+  {
+   "units": "u3971-u3972",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3973-u3979",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3980-u3983",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3984-u3987",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3988-u3991",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3992-u3995",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u3996-u3999",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u4000-u4003",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u4004-u4007",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u4008-u4011",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u4013-u4018",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Incentives, Choices and Decision Making"
+  },
+  {
+   "units": "u4020-u4021",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4022-u4027",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4028-u4030",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4031-u4033",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4034-u4036",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4037-u4039",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4040-u4042",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4043-u4045",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4046-u4048",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4049-u4051",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4052-u4054",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Appendix A > Economics Progression: Kentucky Economics"
+  },
+  {
+   "units": "u4056-u4057",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progressions"
+  },
+  {
+   "units": "u4058",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4059-u4072",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4073-u4086",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4088-u4101",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4102-u4115",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4117-u4130",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4131-u4146",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4147-u4160",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4161-u4176",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4177-u4193",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4194-u4206",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progressions by Grade Level"
+  },
+  {
+   "units": "u4208-u4209",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4210-u4215",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4216-u4218",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4219-u4221",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4222-u4224",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4225-u4227",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4228-u4230",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4231-u4233",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4234-u4236",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4238-u4243",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4244-u4246",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Migration and Movement"
+  },
+  {
+   "units": "u4248-u4249",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4250-u4256",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4257-u4260",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4261-u4264",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4265-u4268",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4269-u4272",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4273-u4276",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4277-u4280",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4282-u4288",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4289-u4292",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4293-u4296",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Interactions and Interconnections"
+  },
+  {
+   "units": "u4298-u4300",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4301-u4307",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4308-u4311",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4312-u4315",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4316-u4319",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4320-u4323",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4324-u4327",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4328-u4331",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4333-u4339",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4340-u4342",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4343-u4345",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Human Environment Interaction"
+  },
+  {
+   "units": "u4347-u4348",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4349-u4354",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4355-u4357",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4358-u4360",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4361-u4363",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4364-u4366",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4367-u4369",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4370-u4372",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4374-u4379",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4380-u4382",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4383-u4385",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Geographic Reasoning"
+  },
+  {
+   "units": "u4387-u4388",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4389-u4394",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4395-u4397",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4398-u4400",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4401-u4403",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4404-u4406",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4407-u4409",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4410-u4412",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4413-u4415",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4416-u4418",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4419-u4421",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Appendix A > Geography Progression: Kentucky Geography"
+  },
+  {
+   "units": "u4423-u4424",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progressions"
+  },
+  {
+   "units": "u4425",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4426-u4436",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4437-u4447",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4449-u4459",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4460-u4470",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4471-u4484",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4485-u4495",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4496-u4509",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4510-u4518",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4519-u4537",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4538-u4556",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4557-u4575",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > History Progressions by Grade Level"
+  },
+  {
+   "units": "u4577-u4579",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4580-u4585",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4586-u4588",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4589-u4591",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4592-u4594",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4595-u4597",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4598-u4600",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4602-u4607",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4608-u4610",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4611-u4621",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4622-u4631",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4633-u4638",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Change and Continuity"
+  },
+  {
+   "units": "u4640-u4641",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4642-u4647",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4648-u4650",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4651-u4653",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4654-u4656",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4657-u4659",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4660-u4662",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4663-u4665",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4666-u4668",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4670-u4675",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4676-u4678",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4679-u4688",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Cause and Effect"
+  },
+  {
+   "units": "u4690-u4691",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4692-u4697",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4698-u4700",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4701-u4703",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4704-u4706",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4707-u4709",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4710-u4712",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4713-u4715",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4716-u4718",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4720-u4725",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4726-u4728",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4729-u4738",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Conflict and Compromise"
+  },
+  {
+   "units": "u4740-u4741",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4742-u4747",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4748-u4750",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4751-u4753",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4754-u4756",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4757-u4759",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4760-u4762",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4763-u4765",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4766-u4768",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4769-u4771",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4772-u4774",
+   "grades": "9-12",
+   "course": "United States History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4775-u4777",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Appendix A > History Progression: Kentucky History"
+  },
+  {
+   "units": "u4779-u4826",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix B: Advisory Panels and Review Committee (2022); Appendix C: Writing and Review Committees (2019)"
+  }
+ ],
+ "issues": [
+  "u258, u260: the K-8 and High School 'Annotated Standards Chart' pages (pdf pages 23-24) are images; only headings were extracted, chart content is missing.",
+  "u179-u199: 'Applying Disciplinary Concepts and Practices' table (backup) extracted with scrambled row/column order and broken cell text.",
+  "u7, u11-u14, u34-u36, u39-u49: table-of-contents entries merged across lines (backup).",
+  "u287-u308, u497-u525, u733-u765, u970-u994, u1210-u1247, u1441-u1469, u1685-u1726, u1935-u1977, u2188-u2228: 'What this would look like in practice' tables; cell text is fragmented and interleaved (standard code lines split into one-line fragments with sample-evidence cells in between, fragments out of order, duplicated rows). The copies of standards text inside these tables are labeled examples (not standards) because the same standards appear in full in the Standards tables.",
+  "u735-u738, u743-u746, u748-u749, u751-u755, u758, u763-u765: Grade 2 sample-evidence table has duplicated/garbled standard text (e.g. 'civic particip ation', repeated 'compelling and compelling and').",
+  "u2235: standard code printed as '8.I.Q.I' (typo for 8.I.Q.1) in the source.",
+  "u2287-u2294: standard 8.H.CH.6 and its bulleted list of fundamental documents continue across a page break (u2287 on pdf page 131; list continues in u2292 on page 132 under a repeated table header, with a repeated 'H: Change and Continuity (continued)' cell); all labeled standards grade 8.",
+  "u1479, u1483, u1535 and similar: strand/concept name cells in the first column appear out of order relative to the standard text rows in extraction; each still belongs to the grade table it sits in.",
+  "State guide says codes look like 'KY.4.H.CH.1'; in this document codes are '<grade>.<strand>.<concept>.<n>' without a KY prefix (e.g. 4.H.CH.1). Notes otherwise match: grades K-8 each have Standards plus Disciplinary Clarifications sections; HS (HS.C..., HS.E..., etc.) begins after u2354.",
+  "u2352-u2354 are not present in the view (furniture); the Grade 8 Civics clarifications table continues at u2355 (outside this range), mid-row between 8.C.CV.1 (u2347-u2351) and the next standard.",
+  "u2355-u2474: Grade 8 clarifications table repeats the standard text in column C2 (e.g. u2358, u2373); labeled examples with the rest of the clarifications section (not standards) to avoid duplicating standards. Same for HS clarifications sections (u2538 etc.).",
+  "u2532-u2533, u2644-u2645, u2768-u2769, u2860-u2861, u3019-u3020: section heading labeled examples, the generic 'how to read disciplinary clarifications' blurb labeled backup.",
+  "u2481-u2487 and the per-course 'Introduction' paragraphs (u2490, u2599, u2729, u2807, u2964): course overview narrative labeled examples (per guide), course set to the discipline; u2478-u2480 (HS overview heading/philosophy, 'Discipline Introductions' heading) backup.",
+  "u2808-u2818 and u2965-u2975: time-period/theme tables of U.S. and World History labeled standards (course organization/themes).",
+  "u3088-u3090: page 191 table rows extracted out of order (strand label u3089 R15 'H: Cause and Effect (continued)'); assigned World History 9-12 by position.",
+  "u2898: garbled spacing in standard bullet list ('Brown v . Board of Education of Topek a'); u3154 repeats HS.WH.KH.1 twice; u4206/u4421 both coded HS.G.KGE.1 for two different statements (source typos).",
+  "u3182-u3191 (page 199): table rows extracted out of order (HS Geography, US History, World History rows precede Grade 6/7 rows; Grade 6 label u3189 follows its standards u3188). Grades assigned from the standard codes.",
+  "Appendix A (u3160-u4777): each progression table repeats standards from the grade sections; labeled examples. Grade labels and strand/concept labels (e.g. 'Principles', 'Interdependence', '(continued)') appear in cells away from their standard text; grade assigned by explicit grade labels/standard codes and otherwise the nearest row in the same table (row index). Strand labels at row boundaries could in principle belong to the neighbouring grade (e.g. u3305, u3557, u3931, u3979, u4005, u4060-u4066 style cells).",
+  "Appendix A header cells ('Grade Level', 'Concepts and Practices', 'Standards') are shared by all rows of the table; given the grade of the nearest first row (e.g. u3195-ish page headers u3180-u3181, u3193-u3194, u3237-u3238, u3869-u3871, u3913-u3915). These units may span several grades.",
+  "u3273: standard codes typed '7.1.CC.1/2' (should be 7.I.CC); u3448 'H.C.CV.3' (should be HS.C.CV.3); u3778 '6.E.M1.3/4' (should be MI); u3645, u3657, u3669, u3432: split words ('I dentify', 'E xplain'); u3229 lists 8.I.UE.3 before 8.I.UE.2.",
+  "Appendix A cells with 'N/A' (e.g. u3654, u3663, u3666, u4045, u4048, u4160, u4176, u4412, u4415, u4768): grade taken from the row's grade label.",
+  "Appendix A intro/description paragraphs (e.g. u3161-u3164, u3203, u3245, u3294-u3295, u3456) labeled backup grades 'all'; Kindergarten/Grade N paragraph headings (e.g. u3296, u3310, u3327) labeled examples with that grade.",
+  "High School progression cells with plain 'High School' labels: course inferred from HS code in the same table (Civics/Economics/Geography); '(UH)'/'(WH)' mapped to United States History/World History.",
+  "u2355-u2365 begin mid-table on a continuation page of Grade 8 Civics (page 136); grade 8 taken from the preceding Grade 8 Disciplinary Clarifications heading (u2326)."
+ ]
+}

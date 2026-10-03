@@ -31,7 +31,6 @@ C.2 Students will understand the structure and functions of various types of gov
 Structure and Functions of the Government
 ● Structure, organization, and functions of the federal government ● Concept of federalism in the United States ● Relationship between the federal government and the economy
 Civics
-C.2 Students will understand the structure and functions of various types of government and how they exercise their powers.
 Structure of the Constitution
 ● Organization and content of the United States Constitution
 Civics
@@ -44,7 +43,6 @@ Interpretation and Application of Constitutional Principles
 ● Various interpretations of the U.S. Constitution ● Application of U.S. constitutional principles to address local and national issues
 Civics - Structure and Functions of the Government
 C.2 Students will analyze the organization and structure of the United States Constitution and its role in defining the powers and functions of the federal government.
-● Structure, organization, and functions of the federal government ● Concept of federalism in the United States ● Relationship between the federal government and the economy
 C.2.USG.1 Analyze the purpose, organization, powers, and function of the legislative branch of government, including the legislative process and the role of the Senate in giving states equal representation, using Article I of the Constitution and other primary and secondary sources.
 C.2.USG.2 Analyze the purpose, organization, powers, and function of the executive branch of government, including the electoral college process, duties of the President, and supporting executive branch agencies using Article II of the Constitution and other primary and secondary sources.
 C.2.USG.3 Analyze the purpose, organization, powers, and function of the judicial branch of government, including judicial review and the origin and duties of the court system and Supreme Court, as outlined by Article III of the Constitution, Marbury vs. Madison, and other primary and secondary sources.
@@ -60,15 +58,12 @@ C.2.USG.11 Examine the reasons and processes for amending the U.S. Constitution,
 C.2.USG.12 Analyze the impact of the federal government’s fiscal policy on the economy and the citizens of the United States, including taxing, spending, regulation, and printing of currency.
 C.2.USG.13 Evaluate the roles and effectiveness various government agencies play in maintaining the nation’s economic health.
 Civics - Structure of the Constitution
-C.2 Students will analyze the organization and structure of the United States Constitution and its role in defining the powers and functions of the federal government.
-● Organization and content of the United States Constitution
 C.2.USG.14 Analyze the underlying causes and events that led the Founders to replace the Articles of Confederation with the U.S. Constitution, including Shays’ Rebellion, the perceived weaknesses of the Articles of Confederation, and disputes between states.
 C.2.USG.15 Analyze the purposes of government as explained in the Preamble to the U.S. Constitution.
 C.2.USG.16 Evaluate the rationale for the organization of articles of the U.S. Constitution.
 C.2.USG.17 Analyze the purposes of the Bill of Rights.
 C.2.USG.18 Compare the arguments expressed in the debate over ratification of the U.S. Constitution, including Federalist and Anti-Federalist Papers.
 Civics - Political Philosophy
-C.3 Students will understand the role of citizens in society, the ways the government protects the rights of citizens, the electoral process, and the role of political parties.
 ● Multiple outside perspectives of various sources that shaped the formation of the United States government ● Rationale of the Founding Fathers in selecting a democratic republic over other forms of government
 C.3.USG.1 Examine how the writings of John Locke, John Winthrop, Charles-Louis Montesquieu, Jean-Jacques Rousseau, William Blackstone, and other sources influenced the formation of the United States government.
 C.3.USG.2 Analyze the influence of social, economic, religious, and political factors within the American colonies, including the concept of self-government, on the formation of the American government.
@@ -77,8 +72,6 @@ C.3.USG.4 Analyze social, economic, religious, and political factors, including 
 C.3.USG.5 Evaluate the Declaration of Independence as a persuasive argument for justifying revolution.
 C.3.USG.6 Analyze the Constitutional Convention and Federalist Papers to explain the decision by the Founders to establish a democratic republic.
 Civics - Interpretation and Application of Constitutional Principles
-C.4 Students will understand the process of making and changing laws and the ways institutions work together in carrying out the laws.
-● Various interpretations of the U.S. Constitution ● Application of U.S. constitutional principles to address local and national issues
 C.4.USG.1 Analyze major U.S. Supreme Court decisions affecting our understanding of the U.S. Constitution, including Marbury vs. Madison and McCullah vs. Maryland.
 C.4.USG.2 Explain ways the U.S. Constitution and U.S. Supreme Court decisions have defined, recognized, and protected or not protected civil liberties, due process, and equal protection from governmental intrusion over time.
 C.4.USG.3 Define different judicial philosophies and evaluate how they have governed Supreme Court decisions over time:
@@ -99,7 +92,6 @@ Teacher Note: Specific Supreme Court decisions may include:
 ● Dred Scott vs. Sandford ● Plessy vs. Ferguson ● Korematsu vs. United States ● Brown vs. Board of Education ● Tinker vs. Des Moines ● Miranda vs. Arizona ● New Jersey vs. TLO ● Goss vs. Lopez ● Loving vs. Virginia ● Kennedy vs. Bremerton School District
 Teacher Note: This may include:
 ● Civil Rights Act of 1964 and 1968 ● Voting Rights Act of 1965 ● Immigration Act of 1965 ● Individuals with Disabilities Education Act of 1975 ● Americans with Disabilities Act of 1990 ● Indian Child Welfare Act ● Tribal Self-Governance Act ● Equal Pay Act of 1963 ● Title IX
-Teacher Note: This may include:
 ● Federalism (e.g., South Dakota vs. Dole, United States vs. Lopez, Raich vs. Gonzalez) ● Free speech and free exercise of religion (e.g., Kennedy vs. Bremerton School District) ● Regulation of student speech (e.g., Bethel School District #43 vs. Fraser, Mahanoy Area School District vs. B.L.) ● Ownership and use of firearms (e.g., District of Columbia vs. Heller, McDonald vs. City of Chicago) ● Eminent domain (e.g., Kelo vs. City of New London)
 
 ## Backup (non-standards text)
@@ -139,7 +131,6 @@ Academic Standards & Disciplinary Concepts
 Economics
 Geography
 History
-● Economic Decision-Making ● Exchange and Markets ● Growth and Stability ● The National Economy ● The Global Economy
 ●Geographic Representations: Spatial Views of the World ●Human-Environment Interaction: Place, Regions, and Culture ●Human Populations: Spatial Patterns and Movements ●Global Interconnections: Global Spatial Patterns
 ●Change, Continuity, and Context ●Perspectives ●Historical Sources and Evidence ●Causation and Argumentation
 

@@ -21,7 +21,6 @@ Alabama State Department of Education Instructional Services Section 3345 Gordon
 P.O. Box 302101 Montgomery, AL 36130-2101 (334) 694-4768
 ©2024 Alabama State Department of Education Eric G. Mackey, State Superintendent of Education
 The Alabama State Board of Education and the Alabama State Department of Education do not discriminate on the basis of race, color, disability, sex, religion, national origin, or age in their programs, activities, or employment and provide equal access to the Boy Scouts and other designated youth groups. The following person is responsible for handling inquiries regarding the non-discrimination policies: Title IX Coordinator, Alabama State Department of Education, P.O. Box 302101, Montgomery, AL 36130-2101, telephone (334) 694-4717.
-Alabama Course of Study: Social Studies
 Eric G. Mackey State Superintendent of Education
 STATE SUPERINTENDENT OF
 MEMBERS
@@ -46,8 +45,6 @@ VIII. Wayne Reynolds, EdD
 Well-rounded instructional programs based on these standards and delivered to “Every Child, Every Chance, Every Day” will foster the development of well-informed citizens who appreciate and recognize their obligation to uphold America’s guiding values as they enter college, career, and civic life.
 State Superintendent
 Eric G. Mackey Secretary and Executive Officer
-Eric G. Mackey State Superintendent of Education
-Alabama Course of Study: Social Studies
 TABLE OF CONTENTS
 TABLE OF CONTENTS PREFACE ACKNOWLEDGMENTS GENERAL INTRODUCTION
 CONCEPTUAL FRAMEWORK
@@ -66,11 +63,9 @@ Human Geography
 Historical Studies
 Holocaust Studies
 Alabama Studies
-Alabama Course of Study: Social Studies
 PREFACE
 The 2024 Alabama Course of Study: Social Studies provides the framework for Kindergarten - Grade 12 Social Studies programs in Alabama’s public schools. Content standards in this document are minimum and required (Code of Alabama, 1975, §16-35-4). They are fundamental and specific, but not exhaustive. When developing local curriculum, school systems may include additional content standards to reflect local needs and philosophies. Systems are encouraged to add implementation guidelines, resources, and activities based upon the content standards in the 2024 Alabama Course of Study: Social Studies.
 The 2024 Alabama Course of Study Committee and Task Force conducted extensive research during the development of the 2024 Alabama Course of Study: Social Studies, analyzing social studies standards and curricula from other states, previous versions of Alabama’s courses of study, and national standards. The Committee and Task Force also listened to and read comments from interested individuals and groups throughout the state, considered suggestions from independent reviewers, sought input from advisory councils, and thoroughly discussed each issue and standard among themselves. The Committee and Task Force reached consensus and developed what members believe to be the best social studies course of study for students in Alabama’s public schools.
-Alabama Course of Study: Social Studies
 ACKNOWLEDGMENTS
 This document was developed by the 2024 Alabama State Social Studies Committee and Task Force, composed of Grades K-12 and college educators appointed by the Alabama State Board of Education and business and professional persons appointed by the Governor (Code of Alabama, 1975, §16-35-1). The Committee and Task Force began work in January of 2024 and submitted the document to the Alabama State Board of Education for adoption at its December 2024 meeting.
 Social Studies Course of Study
@@ -89,7 +84,6 @@ Eric G. Mackey, EdD, State Superintendent of Education Angela Martin, EdS, Deput
 Cathy Jones, MS, Executive Secretary, State Courses of Study Committees, Instructional Services Catherine Wilbourne, MEd, Editor, Courses of Study Carol Sprayberry, MEd, NBCT, Consultant, Courses of Study Holly Summerlin, Administrative Support Assistant, Instructional Services
 Alabama State Department of Education specialists who worked with the Task Force in developing the document were:
 Blake Busbin, PhD, Education Specialist, Instructional Services Susanne Estes, MEd, Education Specialist, Instructional Services Andrea L. Beall, PhD, Education Specialist, Instructional Services Steve Blair, MEd, Education Administrator, Educational Technology Patrice P. Harvill, MEd, CALT, Education Administrator, Special Education Services Nikkesha Hooks, MEd, Education Administrator, Educational Technology Laci Holden, NBCT, Regional Literacy Specialist, Alabama Reading Initiative Emily Dean Murray, MEd, Regional Education Specialist, Instructional Services, English Learners Rebecca Floyd Pines, EdD, Education Specialist, Federal Programs Teri C. Shriver, MEd, Education Specialist, Special Education Services Charles V. Creel, Graphic Arts Specialist, Communications
-Alabama Course of Study: Social Studies
 GENERAL INTRODUCTION
 Social studies education in Alabama aims to prepare students to become knowledgeable, engaged, and responsible citizens. Social studies reflects the achievements, struggles, interactions, and endeavors that have characterized human society as it has changed over time and place to shape the world today. The disciplines of social studies include, but are not limited to:
 ● Anthropology
@@ -113,16 +107,13 @@ Beyond the work completed by other states and organizations, the development of 
 Effective implementation of this course of study requires local education agencies to research and adopt curriculum that will address the minimum required content set forth in this document. Local systems may include additional content, but no standards may be omitted. Systems should also adopt implementation guides, resources, and activities which not only fulfill the requirements of the standards but also provide opportunities to go beyond them.
 Professional learning is required to ensure that teachers become familiar with the standards, dimensions, structure, and organization of the 2024 Alabama Course of Study: Social Studies. Familiarity with the document will aid in the selection of curricular materials and with planning for effective instruction.
 By embracing these commitments, Alabama educators can more effectively prepare their students to be successful in college, career, and civic life as engaged citizens, fulfilling the purpose embodied in the first phrase of the Constitution, “We the People.”
-Alabama Course of Study: Social Studies
 CONCEPTUAL FRAMEWORK
-Alabama Course of Study: Social Studies
 CONCEPTUAL FRAMEWORK
 The conceptual framework on the preceding page is a graphic representation of the goals and structure of the 2024 Alabama Course of Study: Social Studies. The course of study is designed to present standards and progressions which will guide students toward becoming knowledgeable, civically engaged citizens. Such citizens have a foundation of social studies knowledge across many disciplines, a curiosity about the world around them, a structured approach to critical thinking, the ability to communicate their thoughts and beliefs, and a commitment to promoting the common good.
 The framework illustrates the relationship among these aspects of a social studies education by highlighting the central dimensions of their development within the course of study: the four key disciplines, the contexts in which these disciplines are studied, and the uniqueness of this course of study to Alabama.
 Four key disciplines are purposefully highlighted throughout the course of study: civics, economics, geography, and history. These disciplines help frame the imagery of the conceptual framework.
 The imagery above the circle illustrates the overlapping domains addressed by the course of study. The Alabama flag and the U.S. flag flanking the globe reflect the document’s emphasis on learning about Alabama, the United States of America, and the world. Each of these contexts is emphasized in the course of study by a three-year sequence of courses.
 At the center of the framework is the central image from the Great Seal of Alabama, indicating that the 2024 Alabama Course of Study: Social Studies is unique to the state – created by and for Alabamians. This course of study was written by educators as well as business and civic leaders from throughout the state to serve Alabama teachers and Alabama students. Its creation and content were influenced by the voices of many Alabamians and Alabama organizations. The inclusion of this image recognizes the united effort which has produced a course of study to shape the future citizenry of the state.
-Alabama Course of Study: Social Studies
 GUIDING PRINCIPLES
 The 2024 Alabama Course of Study: Social Studies defines the minimum content of social studies instruction from Kindergarten through Grade 12 in terms of what students should know and be able to do at the end of each course or grade. Educators and leaders at school and district levels must engage with the standards and utilize them systematically to create a rich social studies education program that meets the needs of their students.
 Certain fundamental understandings are integral to educators’ comprehension and application of the course of study. The committee and task force present the guiding principles below to elaborate upon these expectations under which local education agencies should work as they select and write the curriculum and other materials they will use to implement the course of study. The statements below express what the authors consider to be foundational to social studies instruction as embodied in the 2024 Alabama Course of Study: Social Studies.
@@ -151,7 +142,6 @@ Alabama Course of Study: Social Studies DIRECTIONS FOR INTERPRETING STANDARDS
 The illustrations below are guides for interpreting the Grades K-12 minimum required content outlining what students should know and be able to do at the end of a grade or course.
 Grade band overviews with icon and color coding guides can be found on page 10 for Kindergarten-Grade 2, page 22 for Grades 3-5, page 44 for Grades 6-8, and page 71 for Grades 9-12.
 For standards in high school elective courses that can be offered as either a half- or one-credit course, one may find an * next to a standard. An asterisk indicates a standard that must be taught in the half-credit version of the course while all standards are required in the one-credit version of the course.
-Alabama Course of Study: Social Studies
 OVERVIEW
 Courses in the 2024 Alabama Course of Study: Social Studies are organized into four different grade bands: Kindergarten to Grade 2, Grades 3-5, Grades 6-8, and Grades 9-12 followed by high school elective courses. Each grade band has an overview page that previews the courses within it.
 Each course for Kindergarten through Grade 2 incorporates all four key disciplines – civics, economics, geography, and history. Each required course in Grades 3-12 focuses on one specific discipline while incorporating and connecting to the remaining three disciplines in an interdisciplinary approach. Color coding and icons identify content standards that build connections between the key discipline of the course and other disciplines. Standards that contain Alabama-related content are marked with an Alabama icon. Because K-2 courses incorporate all four disciplines, they do not have the discipline icons and color coding found in later courses.

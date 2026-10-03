@@ -130,7 +130,6 @@ The student
 demonstrates an
 9-12 Standard
 understanding of...
-Therefore, the student is able to...
 
 ## Issues
 

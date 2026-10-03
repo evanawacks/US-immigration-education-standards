@@ -53,7 +53,6 @@ Era 9: 1941-1967
 Era 10: 1968 to Present
 ● A Job Unfinished - the progress and challenges of African Americans in the post-Civil Rights Era (1970-Present) (E10)
 History - World History since 1450 (World Era 6 through World Era 9)
-H.6 Students will understand key historical periods from the Emergence of the First Global Age, 1450-1770 (World Era 6), to the Twentieth Century Since 1945 (World Era 9). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of nations and cultures of the world.
 World Era 6: 1450-1770, Pre-Colonial Period - origins of and changes in African American culture (Pre-Colonial-1775)
 World Era 6
 H.6.AAH.1 Analyze ancient West African civilizations and leaders through culture, politics, economics, and trade, including the Ghana Empire, Mali Empire (Mansa Musa), Kingdom of Benin (King Ewuare), and Songhai Empire (Askia the Great).
@@ -61,7 +60,6 @@ H.6.AAH.2 Analyze social, economic, and political effects of the transition from
 H.6.AAH.3 Analyze the process, course, and conditions of involuntary migration patterns from Africa to the Americas, including internal African and American trafficking, and its impact on African Americans.
 H.6.AAH.4 Compare the influence of ancient West African cultures to African American culture, including language, religion, music, art, and food.
 History - United States Beginnings through the 1820s (Era 1 through Era 3)
-H.3 Students will understand key historical periods from the United States' Beginnings (Era 1) through 1850 (Era 4). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of the United States.
 Era 3: 1754 through the 1820s, Revolutionary Era - Roles and contributions made by people of African descent (1775-1820)
 H.3.AAH.1 Analyze social, economic, and political involvement of African American men and women in the Revolutionary Era.
 H.3.AAH.2 Investigate the effects of revolutionary ideologies, including Enlightenment thinking and Great Awakening theology, on social and political perspectives of African Americans, including natural law, natural rights, and equality.

@@ -98,10 +98,8 @@ History Anchor
 • SS.USH.1.21.1 Evaluate the ways in which the United States acquired new territories, including purchases, forced relocation, treaties, annexation, and war.
 Standard 21
 Perspectives
-Federal Relations with Indigenous People
 Civics Anchor Standard 8
 • SS.USH.1.8.2 Evaluate the efficacy of formal U.S. policies of expansion, their effects on Sovereign Tribal Nations’ ability to self‐govern, and Indigenous resistance efforts to preserve Tribal sovereignty.
-Processes, Rules, and Laws
 Effects of Manifest Destiny
 History Anchor
 • SS.USH.1.21.2 Analyze why and how Indigenous peoples resisted U.S. territorial expansion.
@@ -232,7 +230,6 @@ Context
 The Failure of Reconstruction
 Civics Anchor Standard 8
 • SS.USH.2.8.1 Explain the impact of significant legislation and judicial precedents in formally perpetuating legal oppression.
-Processes, Rules, and Laws
 Modern Connections to the End of Slavery
 History Anchor
 • SS.USH.2.21.4 Explore and demonstrate the contemporary and current significance of Juneteenth.
@@ -263,12 +260,10 @@ History Anchor Standard 23
 • SS.USH.3.23.1 Evaluate major reform movements and reformers during the Progressive Era. • SS.USH.3.23.2 Analyze the campaign for, and the opposition to, women’s suffrage in the late 19th and early 20th centuries.
 Change, Continuity, and
 Context
-History Anchor Standard 21
 • SS.USH.3.21.2 Evaluate the inclusivity and exclusivity of Progressive Era reform movements.
 Perspectives
 Civics Anchor Standard 8
 • SS.USH.3.8.1 Analyze the governmental policies of the Progressive period, determine which problems they were designed to solve, and assess their long‐ and short‐term effectiveness.
-Processes, Rules, and Laws
 Civics Anchor Standard 10
 • SS.USH.3.10.1 Analyze the strategies of Black people, Indigenous people, and people of color to achieve basic civil rights in the early 20th century. • SS.USH.3.10.2 Analyze how ideologies of the progressive movement impacted Indigenous people in the United States.
 Rights, Roles, and
@@ -279,7 +274,6 @@ Geography Anchor
 Standard 17
 Global Interconnections:
 Changing Spatial Patterns
-History Anchor Standard 23
 • SS.USH.3.23.3 Evaluate the effects of U.S. foreign policy in Latin America, Asia, and the Pacific. • SS.USH.3.23.4 Analyze the economic, social, and political impacts of imperialism on people at home and abroad.
 Change, Continuity, and
 Context
@@ -288,18 +282,15 @@ History Anchor Standard 22
 Historical Sources and
 Evidence
 World War I
-History Anchor Standard 24
 • SS.USH.3.24.1 Distinguish between the long‐term causes and triggering events that led to the United States entering World War I.
 Historical Thinking
 Rights, Liberties, and Conflict
 Civics Anchor Standard 10
 • SS.USH.3.10.3 Evaluate wartime restrictions on civil liberties.
 Rights, Roles, and
-Responsibilities of Citizens
 Theme 4: Emergence as a Global Power
 Time Period: 1918 CE–1945 CE
 American Isolationism After WWI
-History Anchor Standard 24
 • SS.USH.4.24.1 Analyze the reasons for American isolationism and internationalism in the interwar period and their effects on international relations and foreign policy.
 Historical Thinking
 Changing Technology
@@ -308,19 +299,15 @@ Economics Anchor
 Standard 13
 The National Economy
 The Roaring ’20s
-History Anchor Standard 21
 • SS.USH.4.21.1 Compare rival perspectives on economic, social, and religious conflicts in the 1920s.
 Perspectives
-History Anchor Standard 22
 • SS.USH.4.22.1 Analyze the cultural contributions of modernism, the Harlem Renaissance, and the New Woman.
 Historical Sources and
 Evidence
 Causes of the Great Depression
-History Anchor Standard 24
 • SS.USH.4.24.2 Explain the global context of the Great Depression and the reasons for the worldwide economic collapse. • SS.USH.4.24.3 Analyze the conditions and policies that led to the Great Depression.
 Historical Thinking
 Effects of the Great Depression
-History Anchor Standard 24
 • SS.USH.4.24.4 Examine the impact of the Great Depression on the American family and on ethnic and racial minorities.
 Historical Thinking
 Economics Anchor
@@ -328,38 +315,29 @@ Economics Anchor
 Standard 13
 The National Economy
 The New Deal
-History Anchor Standard 24
 • SS.USH.4.24.5 Contrast the first and second New Deals and evaluate the successes and failures of the relief, recovery, and reform measures associated with each.
 Historical Thinking
 Franklin Delano Roosevelt’s New Deal and the Changing Role of Government
-History Anchor Standard 24
 • SS.USH.4.24.6 Assess the impact and legacy of New Deal relief, recovery, and reform programs on Black people, Indigenous people, and people of color.
 Historical Thinking
 Causes of World War II (WWII) Involvement
-History Anchor Standard 24
 • SS.USH.4.24.7 Explain the historical developments and policies that resulted in the United States entering WWII.
 Historical Thinking
 Atomic Weapons
-History Anchor Standard 24
 • SS.USH.4.24.8 Evaluate the decision to employ nuclear weapons against Japan and assess its long‐term impacts.
 Historical Thinking
 WWII Domestic Policies
-History Anchor Standard 23
 • SS.USH.4.23.1 Assess the social, political, and economic transformation of the United States during WWII.
 Change, Continuity, and
 Context
-Rights, Liberties, and Conflict
 Civics Anchor Standard 10
 • SS.USH.4.10.1 Identify the conditions that gave rise to the internment of Japanese Americans and the Unangax people during the war and assess the implications for civil liberties. • SS.USH.4.10.2 Examine the suppression of civil liberties and human rights during times of conflict and war, past and present.
 Rights, Roles, and
-Responsibilities of Citizens
 Holocaust Impacts in the U.S.
-History Anchor Standard 23
 • SS.USH.4.23.2 Use primary sources and varying perspectives to analyze how the Holocaust shifted American perceptions and policies regarding civil liberties and human rights.
 Change, Continuity, and
 Context
 U.S. Role in WWII Turning Points
-History Anchor Standard 24
 • SS.USH.4.24.9 Analyze the role of the United States in the outcome of WWII in the European and the Pacific theaters.
 Historical Thinking
 The United Nations
@@ -370,11 +348,9 @@ Institutions and Systems
 Theme 5: Cold War
 Time Period: 1945 CE–1991 CE
 Origin of the Cold War
-History Anchor Standard 21
 • SS.USH.5.21.1 Explain how political ideology shaped the postwar order and led to the Soviet‐U.S. arms race.
 Perspectives
 Cold War Containment Abroad
-History Anchor Standard 23
 • SS.USH.5.23.1 Analyze how U.S. foreign policy during the Cold War shaped conflicts in Asia and the Americas.
 Change, Continuity, and
 Context
@@ -382,9 +358,7 @@ Cold War Containment at Home
 Civics Anchor Standard 10
 • SS.USH.5.10.1 Analyze the impact of Cold War rhetoric and ideology on social movements and activists in the United States.
 Rights, Roles, and
-Responsibilities of Citizens
 Other Impacts of the Cold War
-History Anchor Standard 23
 • SS.USH.5.23.2 Analyze other economic and social impacts of the Cold War on the United States.
 Change, Continuity, and
 Context
@@ -411,16 +385,12 @@ Civics Anchor Standard 6
 Civic and Political
 Institutions and Systems
 Conservative Movement Development
-History Anchor Standard 23
 • SS.USH.6.23.1 Analyze the rise of modern conservatism in the United States.
 Change, Continuity, and
 Context
 Effects of Conservatism
 Civics Anchor Standard 8
 • SS.USH.6.8.1 Assess the social and political impact of conservatism in the United States.
-Processes, Rules, and Laws
-Ethnic, Cultural, and Identity Studies
-History Anchor Standard 21
 • SS.USH.6.21.1 Investigate how identity groups and society address chronic inequity through individual actions; individual champions; social movements; and local community, national, and global advocacy.
 Perspectives
 Theme 7: United States in the Global Age
@@ -428,7 +398,6 @@ Time Period: 1991 CE–Present
 Domestic Challenges
 Civics Anchor Standard 8
 • SS.USH.7.8.1 Evaluate popular and government responses to emerging domestic challenges.
-Processes, Rules, and Laws
 Global Challenges
 Geography Anchor
 • SS.USH.7.17.1 Analyze U.S. responses to global challenges and crises.
@@ -436,7 +405,6 @@ Standard 17
 Global Interconnections:
 Changing Spatial Patterns
 Technology
-History Anchor Standard 23
 • SS.USH.7.23.1 Analyze some of the major technological and social trends and issues of the late 20th and early 21st centuries.
 Change, Continuity, and
 Context
@@ -463,91 +431,76 @@ The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates an
 Content Standard
 Topic
 understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 
 ## Issues
 

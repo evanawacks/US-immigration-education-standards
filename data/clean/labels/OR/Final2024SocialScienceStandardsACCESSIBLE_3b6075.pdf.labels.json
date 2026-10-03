@@ -1,0 +1,6464 @@
+{
+ "state": "OR",
+ "file": "Final2024SocialScienceStandardsACCESSIBLE_3b6075.pdf",
+ "structure": "Oregon 2024 Social Science Standards, K-12 single PDF (89 pp). Front matter (pp1-8): title, TOC, revisions, domain/concept code tables (Civics C, Geography G, Economics E, History H), ten Essential Disciplinary Practices (EDP) table with explanations, Transformative SEL and Inclusive Social Science notes. Then grade sections in order: K, 1, 2, 3, 4, 5, 6/7 (combined), 8, and High School (HS). Each grade section starts with one block giving title/focus plus a narrative paragraph(s), then the 'Essential Disciplinary Practices' heading and a table repeating the ten practices (extracted as wrapped column fragments, one cell per line fragment), then one table per domain headed 'Civics (g.C)', 'Geography (g.G)', 'Economics (g.E)', 'History (g.H)'. Domain tables have columns Concept | Code | Standard | 'Examples include, but not limited to:'; the Concept strand name spans several rows (multi-line text plus abbreviation like (C.PI)) in the first column, the code is grade.domain.concept.number (e.g. 4.C.PI.1, 6/7.G.MM.3, HS.C.IR.8), and the bulleted examples sit in the last column of the same row. Column indices shift (C1-C4 or C2-C5) between tables/pages, so the Examples column was taken from the header cell 'Examples include...' of each table; tables continued on later pages with no header row inherit the previous table's example column. Only HS has course-style sections: Civics (HS.C), Geography (HS.G), Economics (HS.E) are domain tables (labeled course null, grades 9-12), while 'US History (HS.US) 1865-Present' and 'World History (HS.WR) (1789-Present)' are labeled as courses. Concept cells, codes and standard statements = standards; example column cells = examples; grade overview narratives = examples.",
+ "labels": [
+  {
+   "units": "u2-u3",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u7-u81",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, TOC, revisions"
+  },
+  {
+   "units": "u85-u130",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Domains and concepts overview (C, G, E, H)"
+  },
+  {
+   "units": "u134-u137",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Essential Disciplinary Practices intro"
+  },
+  {
+   "units": "u138-u141",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u142",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u143",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u144",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u145",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u146",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u147",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote"
+  },
+  {
+   "units": "u151-u154",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u155",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u156",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u157",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u158",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u159",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u160",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u161",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u162",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u163",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u164",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u165",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u169-u172",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Essential Disciplinary Practices: practice"
+  },
+  {
+   "units": "u173",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Essential Disciplinary Practices: explanation"
+  },
+  {
+   "units": "u174-u178",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Transformative SEL / Inclusive social science"
+  },
+  {
+   "units": "u182",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten standards: title and focus"
+  },
+  {
+   "units": "u183",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten overview narrative"
+  },
+  {
+   "units": "u184",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten Essential Disciplinary Practices"
+  },
+  {
+   "units": "u185-u245",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u249",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) heading"
+  },
+  {
+   "units": "u250-u252",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u253",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u254-u256",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u257",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u258-u262",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u263",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u264-u268",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u269",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u270-u272",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u273",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u274-u277",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u278",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u279-u281",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u282",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Civics (K.C) : examples"
+  },
+  {
+   "units": "u283",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics (K.C) : concept/code/standard"
+  },
+  {
+   "units": "u287",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) heading"
+  },
+  {
+   "units": "u288-u290",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u291",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u292-u294",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u295",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u296-u299",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u300",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u301-u302",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u303",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u304-u306",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u307",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u308-u311",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u312",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u313-u315",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u316",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u317-u321",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u322",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u323-u324",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography (K.G) : concept/code/standard"
+  },
+  {
+   "units": "u325",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Geography (K.G) : examples"
+  },
+  {
+   "units": "u329",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) heading"
+  },
+  {
+   "units": "u330-u332",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) : concept/code/standard"
+  },
+  {
+   "units": "u333",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Economics (K.E) : examples"
+  },
+  {
+   "units": "u334-u336",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) : concept/code/standard"
+  },
+  {
+   "units": "u337",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Economics (K.E) : examples"
+  },
+  {
+   "units": "u338-u341",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) : concept/code/standard"
+  },
+  {
+   "units": "u342",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Economics (K.E) : examples"
+  },
+  {
+   "units": "u343-u345",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) : concept/code/standard"
+  },
+  {
+   "units": "u346",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > Economics (K.E) : examples"
+  },
+  {
+   "units": "u347-u350",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics (K.E) : concept/code/standard"
+  },
+  {
+   "units": "u354",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) heading"
+  },
+  {
+   "units": "u355-u357",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u358",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History (K.H) : examples"
+  },
+  {
+   "units": "u359-u361",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u362",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History (K.H) : examples"
+  },
+  {
+   "units": "u363-u367",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u368",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History (K.H) : examples"
+  },
+  {
+   "units": "u369-u373",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u374",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History (K.H) : examples"
+  },
+  {
+   "units": "u375-u378",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u379",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten > History (K.H) : examples"
+  },
+  {
+   "units": "u380-u381",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History (K.H) : concept/code/standard"
+  },
+  {
+   "units": "u385",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 standards: title and focus"
+  },
+  {
+   "units": "u386",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 overview narrative"
+  },
+  {
+   "units": "u387",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u388-u448",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u452",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) heading"
+  },
+  {
+   "units": "u453-u455",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u456",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u457-u459",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u460",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u461-u465",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u466",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u467-u471",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u472",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u473-u475",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u476",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u477-u481",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u482",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Civics (1.C) : examples"
+  },
+  {
+   "units": "u483",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics (1.C) : concept/code/standard"
+  },
+  {
+   "units": "u487",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) heading"
+  },
+  {
+   "units": "u488-u490",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u491",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u492-u494",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u495",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u496-u499",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u500",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u501-u502",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u503",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u504-u506",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u507",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u508-u512",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u513",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u514-u519",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u520",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u521-u525",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography (1.G) : concept/code/standard"
+  },
+  {
+   "units": "u526",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Geography (1.G) : examples"
+  },
+  {
+   "units": "u530",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) heading"
+  },
+  {
+   "units": "u531-u533",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u534",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u535-u537",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u538",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u539-u542",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u543",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u544-u546",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u547",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u548-u554",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u555",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u556-u558",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u559",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u560-u562",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u563",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > Economics (1.E) : examples"
+  },
+  {
+   "units": "u564-u566",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics (1.E) : concept/code/standard"
+  },
+  {
+   "units": "u570",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) heading"
+  },
+  {
+   "units": "u571-u573",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u574",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u575-u577",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u578",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u579-u583",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u584",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u585-u589",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u590",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u591-u594",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u595",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u596-u599",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History (1.H) : concept/code/standard"
+  },
+  {
+   "units": "u600",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 > History (1.H) : examples"
+  },
+  {
+   "units": "u604",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 standards: title and focus"
+  },
+  {
+   "units": "u605",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 overview narrative"
+  },
+  {
+   "units": "u606",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u607-u668",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u672",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) heading"
+  },
+  {
+   "units": "u673-u675",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u676",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u677-u679",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u680",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u681-u684",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u685",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u686-u688",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u689",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u690-u694",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u695",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u696-u698",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u699",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u700-u704",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u705",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Civics (2.C) : examples"
+  },
+  {
+   "units": "u706",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics (2.C) : concept/code/standard"
+  },
+  {
+   "units": "u710",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) heading"
+  },
+  {
+   "units": "u711-u713",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u714",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u715-u717",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u718",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u719-u722",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u723",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u724-u725",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u726",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u727-u729",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u730",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u731-u735",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u736",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u737-u741",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u742",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u746-u748",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u749",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u750-u751",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u752",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u753-u755",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u756",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Geography (2.G) : examples"
+  },
+  {
+   "units": "u757-u759",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography (2.G) : concept/code/standard"
+  },
+  {
+   "units": "u763",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) heading"
+  },
+  {
+   "units": "u764-u766",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u767",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u768-u770",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u771",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u772-u775",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u776",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u777-u779",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u780",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u781-u784",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u785",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u786-u788",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u789",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u790-u796",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u797",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u798-u802",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics (2.E) : concept/code/standard"
+  },
+  {
+   "units": "u803",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > Economics (2.E) : examples"
+  },
+  {
+   "units": "u807",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) heading"
+  },
+  {
+   "units": "u808-u810",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u811",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u812-u814",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u815",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u816-u819",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u820",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u821-u823",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u824",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u825-u829",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u830",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u831-u834",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u835",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u836-u839",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History (2.H) : concept/code/standard"
+  },
+  {
+   "units": "u840",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 > History (2.H) : examples"
+  },
+  {
+   "units": "u844",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 standards: title and focus"
+  },
+  {
+   "units": "u845-u846",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 overview narrative"
+  },
+  {
+   "units": "u847",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u848-u908",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u912",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) heading"
+  },
+  {
+   "units": "u913-u915",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u916",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u917-u919",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u920",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u921-u925",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u926",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u927-u930",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u931",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u932-u933",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u934",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u935-u936",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u937",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u938-u940",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u941",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u942-u946",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u947",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Civics (3.C) : examples"
+  },
+  {
+   "units": "u948",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics (3.C) : concept/code/standard"
+  },
+  {
+   "units": "u952",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) heading"
+  },
+  {
+   "units": "u953-u955",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u956",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u957-u959",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u960",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u961-u964",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u965",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u966-u968",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u969",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u970-u973",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u974",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u975-u977",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u978",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u979-u984",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u985",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u986-u990",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography (3.G) : concept/code/standard"
+  },
+  {
+   "units": "u991",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Geography (3.G) : examples"
+  },
+  {
+   "units": "u995",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) heading"
+  },
+  {
+   "units": "u996-u998",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u999",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1000-u1002",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1003",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1004-u1007",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1008",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1009-u1011",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1012",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1013-u1016",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1017",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1018-u1020",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1021",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1022-u1027",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1028",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1029-u1031",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1032",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1033-u1037",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics (3.E) : concept/code/standard"
+  },
+  {
+   "units": "u1038",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > Economics (3.E) : examples"
+  },
+  {
+   "units": "u1042",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) heading"
+  },
+  {
+   "units": "u1043-u1045",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1046",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1047-u1049",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1050",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1051-u1054",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1055",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1056-u1058",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1059",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1060-u1064",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1065",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1066-u1069",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1070",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1071-u1074",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History (3.H) : concept/code/standard"
+  },
+  {
+   "units": "u1075",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 > History (3.H) : examples"
+  },
+  {
+   "units": "u1079",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 standards: title and focus"
+  },
+  {
+   "units": "u1080-u1081",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 overview narrative"
+  },
+  {
+   "units": "u1082",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u1083-u1142",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u1146",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) heading"
+  },
+  {
+   "units": "u1147-u1149",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1150",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1151-u1153",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1154",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1155-u1158",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1159",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1160-u1162",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1163",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1164-u1168",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1169",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1170-u1174",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1175",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Civics (4.C) : examples"
+  },
+  {
+   "units": "u1176",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics (4.C) : concept/code/standard"
+  },
+  {
+   "units": "u1180",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) heading"
+  },
+  {
+   "units": "u1181-u1183",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1184",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1185-u1187",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1188",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1189-u1192",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1193",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1194-u1195",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1196",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1197-u1199",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1200",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1201-u1204",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1205",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1209-u1211",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1212",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1213-u1215",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1216",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1217-u1222",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1223",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1224-u1228",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography (4.G) : concept/code/standard"
+  },
+  {
+   "units": "u1229",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Geography (4.G) : examples"
+  },
+  {
+   "units": "u1233",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) heading"
+  },
+  {
+   "units": "u1234-u1236",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1237",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1238-u1240",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1241",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1242-u1245",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1246",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1247-u1248",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1249",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1250-u1252",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1253",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1254-u1257",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1258",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1262-u1264",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1265",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1266-u1268",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1269",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1270-u1275",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1276",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1277-u1278",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1279",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1280-u1281",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1282",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1283-u1285",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1286",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > Economics (4.E) : examples"
+  },
+  {
+   "units": "u1287-u1289",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics (4.E) : concept/code/standard"
+  },
+  {
+   "units": "u1293",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) heading"
+  },
+  {
+   "units": "u1294-u1296",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1297",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1298-u1300",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1301",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1302-u1305",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1306",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1307-u1309",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1310",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1311-u1318",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1319",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1320-u1322",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1323",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1324-u1326",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1327",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1328-u1330",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1331",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1332-u1335",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1336",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1337-u1338",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : concept/code/standard"
+  },
+  {
+   "units": "u1339",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 > History (4.H) (Oregon and Pacific Northwest Time Immemorial to Present) : examples"
+  },
+  {
+   "units": "u1343",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 standards: title and focus"
+  },
+  {
+   "units": "u1344-u1345",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 overview narrative"
+  },
+  {
+   "units": "u1346",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u1347-u1404",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u1408",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) heading"
+  },
+  {
+   "units": "u1409-u1411",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1412",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1413-u1415",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1416",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1417-u1420",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1421",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1422-u1423",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1424",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1425-u1427",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1428",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1429-u1436",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1437",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1438-u1440",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1441",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1442-u1446",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1447",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Civics (5.C) : examples"
+  },
+  {
+   "units": "u1448",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics (5.C) : concept/code/standard"
+  },
+  {
+   "units": "u1452",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) heading"
+  },
+  {
+   "units": "u1453-u1455",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1456",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1457-u1459",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1460",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1461-u1464",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1465",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1466-u1467",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1468",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1469-u1471",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1472",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1473-u1476",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1477",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1478-u1480",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1481",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1482-u1486",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1487",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1491-u1493",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1494",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1495-u1497",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1498",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1499-u1503",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography (5.G) : concept/code/standard"
+  },
+  {
+   "units": "u1504",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Geography (5.G) : examples"
+  },
+  {
+   "units": "u1508",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) heading"
+  },
+  {
+   "units": "u1509-u1511",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1512",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1513-u1515",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1516",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1517-u1520",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1521",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1522-u1524",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1525",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1526-u1529",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1530",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1531-u1532",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1533",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1534-u1535",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1536",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1540-u1542",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1543",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1544-u1546",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1547",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1548-u1553",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1554",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1555-u1556",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1557",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1558-u1560",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1561",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > Economics (5.E) : examples"
+  },
+  {
+   "units": "u1562-u1564",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics (5.E) : concept/code/standard"
+  },
+  {
+   "units": "u1568",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) heading"
+  },
+  {
+   "units": "u1569-u1571",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1572",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1573-u1575",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1576",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1577-u1580",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1581",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1582-u1584",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1585",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1586-u1589",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1590",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1591-u1592",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1593",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1597-u1599",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1600",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1601-u1603",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1604",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1605-u1607",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1608",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1609-u1610",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1611",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1612-u1614",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1615",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1616-u1619",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History (5.H) : concept/code/standard"
+  },
+  {
+   "units": "u1620",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 > History (5.H) : examples"
+  },
+  {
+   "units": "u1624",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 standards: title and focus"
+  },
+  {
+   "units": "u1625-u1626",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 overview narrative"
+  },
+  {
+   "units": "u1627",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u1628-u1689",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u1693",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) heading"
+  },
+  {
+   "units": "u1694-u1696",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1697",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1698-u1700",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1701",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1702-u1705",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1706",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1707-u1708",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1709",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1710-u1711",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1712",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1716-u1718",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1719",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1720-u1721",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1722",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1723-u1725",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1726",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1727-u1730",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1731",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1732-u1733",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1734",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1738-u1740",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1741",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1742-u1744",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1745",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1746-u1750",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1751",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Civics (6/7.C) : examples"
+  },
+  {
+   "units": "u1752",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Civics (6/7.C) : concept/code/standard"
+  },
+  {
+   "units": "u1756",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) heading"
+  },
+  {
+   "units": "u1757-u1759",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1760",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1761-u1763",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1764",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1765-u1768",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1769",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1770-u1772",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1773",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1774-u1778",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1779",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1780-u1788",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1789-u1790",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1791-u1792",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1793",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1794-u1796",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1797",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1798-u1802",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Geography (6/7.G) : concept/code/standard"
+  },
+  {
+   "units": "u1803",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Geography (6/7.G) : examples"
+  },
+  {
+   "units": "u1807",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) heading"
+  },
+  {
+   "units": "u1808-u1810",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1811",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1812-u1814",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1815",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1816-u1819",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1820",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1821-u1822",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1823",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1824-u1826",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1827",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1828-u1832",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1833",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1834-u1835",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1836",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1837-u1838",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1839",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1843-u1845",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1846",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1847-u1849",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1850",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1851-u1856",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1857",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1858-u1860",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1861",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1862-u1866",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1867",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1868-u1869",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > Economics (6/7.E) : concept/code/standard"
+  },
+  {
+   "units": "u1870",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > Economics (6/7.E) : examples"
+  },
+  {
+   "units": "u1874",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) heading"
+  },
+  {
+   "units": "u1875-u1877",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1878",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1879-u1881",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1882",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1883-u1886",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1887",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1888-u1889",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1890",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1891-u1893",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1894",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1895-u1902",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1903",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1904-u1905",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1906",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1907-u1908",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1909",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1910-u1912",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1913",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1914-u1917",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1918",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1919-u1922",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1923",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1927-u1929",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1930",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1931-u1932",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1933",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1934-u1935",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1936",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1937-u1938",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1939",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1940-u1941",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1942",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1946-u1948",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1949",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1950-u1951",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1952",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1953-u1954",
+   "grades": "6-7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6/7 > History (6/7.H) : concept/code/standard"
+  },
+  {
+   "units": "u1955",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6/7 > History (6/7.H) : examples"
+  },
+  {
+   "units": "u1959",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 standards: title and focus"
+  },
+  {
+   "units": "u1960-u1961",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 overview narrative"
+  },
+  {
+   "units": "u1962",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 Essential Disciplinary Practices"
+  },
+  {
+   "units": "u1963-u2024",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u2028",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) heading"
+  },
+  {
+   "units": "u2029-u2031",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2032",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2033-u2035",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2036",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2037-u2040",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2041",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2042-u2043",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2044",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2045-u2046",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2047",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2048-u2049",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2050",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2054-u2056",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2057-u2058",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2059-u2060",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2061",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2062-u2063",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2064",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2065-u2066",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2067",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2071-u2073",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2074",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2075-u2077",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2078",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2079-u2084",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2085",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2086-u2089",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2090",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2091-u2093",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2094",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2095-u2098",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2099",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2100-u2101",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Civics (8.C) : concept/code/standard"
+  },
+  {
+   "units": "u2102",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Civics (8.C) : examples"
+  },
+  {
+   "units": "u2106",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) heading"
+  },
+  {
+   "units": "u2107-u2109",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2110",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2111-u2113",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2114",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2115-u2118",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2119",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2120-u2122",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2123",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2124-u2127",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2128",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2132-u2134",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2135",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2136-u2138",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2139",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2140-u2144",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2145",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2146-u2148",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2149",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Geography (8.G) : examples"
+  },
+  {
+   "units": "u2150-u2152",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Geography (8.G) : concept/code/standard"
+  },
+  {
+   "units": "u2156",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) heading"
+  },
+  {
+   "units": "u2157-u2159",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2160",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2161-u2163",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2164",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2165-u2168",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2169",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2170-u2171",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2172",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2173-u2174",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2175",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2179-u2181",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2182",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2183-u2187",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2188",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2189-u2190",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2191",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2192-u2194",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2195",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2196-u2202",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2203",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > Economics (8.E) : examples"
+  },
+  {
+   "units": "u2204-u2206",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Economics (8.E) : concept/code/standard"
+  },
+  {
+   "units": "u2210",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) heading"
+  },
+  {
+   "units": "u2211-u2213",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2214",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2215-u2217",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2218",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2219-u2222",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2223",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2224-u2226",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2227",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2228-u2231",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2232",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2236-u2238",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2239",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2240-u2242",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2243",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2244-u2246",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2247",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2248-u2249",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2250",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2251-u2252",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2253",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2254-u2256",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2257",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2258-u2261",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > History (8.H) : concept/code/standard"
+  },
+  {
+   "units": "u2262",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 > History (8.H) : examples"
+  },
+  {
+   "units": "u2266",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School standards: title and focus"
+  },
+  {
+   "units": "u2267-u2268",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School overview narrative"
+  },
+  {
+   "units": "u2269",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Essential Disciplinary Practices"
+  },
+  {
+   "units": "u2270-u2327",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School Essential Disciplinary Practices table"
+  },
+  {
+   "units": "u2331",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) heading"
+  },
+  {
+   "units": "u2332-u2334",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2335",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2336-u2338",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2339",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2340-u2343",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2344",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2345-u2346",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2347",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2348-u2349",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2350",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2351-u2352",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2353",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2357-u2359",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2360",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2361-u2362",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2363",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2364-u2365",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2366",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2367-u2369",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2370",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2371-u2375",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2376",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2380-u2382",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2383",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2384-u2385",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2386",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2387-u2388",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2389",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2390-u2392",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2393",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2394-u2397",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2398",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2399-u2400",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2401",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2405-u2407",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2408",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2409-u2410",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2411",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2412-u2413",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2414",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2415-u2417",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2418",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2419-u2422",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2423",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2424-u2425",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Civics (HS.C) : concept/code/standard"
+  },
+  {
+   "units": "u2426",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Civics (HS.C) : examples"
+  },
+  {
+   "units": "u2430",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) heading"
+  },
+  {
+   "units": "u2431-u2433",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2434",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2435-u2437",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2438",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2439-u2443",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2444",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2445-u2448",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2449",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2450-u2451",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2452",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2456-u2458",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2459",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2460-u2461",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2462",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2463-u2465",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2466",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2467-u2471",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2472",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2473-u2474",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2475",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2479-u2481",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2482",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2483-u2485",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2486",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2487-u2491",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2492",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2493-u2494",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Geography (HS.G) : concept/code/standard"
+  },
+  {
+   "units": "u2495",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Geography (HS.G) : examples"
+  },
+  {
+   "units": "u2499",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) heading"
+  },
+  {
+   "units": "u2500-u2502",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2503",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2504-u2506",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2507",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2508-u2512",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2513",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2514-u2515",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2516",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2517-u2518",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2519",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2520-u2521",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2522",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2523-u2524",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2525",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2529-u2531",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2532",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2533-u2534",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2535",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2536-u2538",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2539",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2540-u2545",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2546",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2547-u2548",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2549",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2550-u2552",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2553",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2554-u2558",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2559",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2563-u2565",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2566",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2567-u2568",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2569",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2570-u2571",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2572",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2573-u2574",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School > Economics (HS.E) : concept/code/standard"
+  },
+  {
+   "units": "u2575",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School > Economics (HS.E) : examples"
+  },
+  {
+   "units": "u2579",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present heading"
+  },
+  {
+   "units": "u2580-u2582",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2583",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2584-u2586",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2587",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2588-u2591",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2592",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2593-u2594",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2595",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2599-u2601",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2602",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2603-u2604",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2605",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2606-u2608",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2609",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2610-u2613",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2614",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2615-u2616",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2617",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2621-u2623",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2624",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2625-u2626",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2627",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2628-u2629",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2630",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2631-u2633",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2634",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2635-u2637",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2638",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2642-u2644",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2645",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2646-u2648",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2649",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2650-u2653",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2654",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2655-u2656",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2657",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2658-u2659",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2660",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2664-u2666",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2667",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2668-u2669",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2670",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2671-u2672",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2673",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2674-u2675",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2676",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2677-u2678",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "standards",
+   "section": "High School > US History (HS.US) 1865-Present : concept/code/standard"
+  },
+  {
+   "units": "u2679",
+   "grades": "9-12",
+   "course": "US History (HS.US) 1865-Present",
+   "cat": "examples",
+   "section": "High School > US History (HS.US) 1865-Present : examples"
+  },
+  {
+   "units": "u2683",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) heading"
+  },
+  {
+   "units": "u2684-u2686",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2687",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2688-u2690",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2691",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2692-u2695",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2696",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2697-u2699",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2700",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2701-u2704",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2705",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2709-u2711",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2712",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2713-u2714",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2715",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2716-u2717",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2718",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2719-u2721",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2722",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2723-u2730",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2731",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2732-u2733",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2734",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2735-u2736",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2737",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2738-u2740",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2741",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2742-u2745",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2746",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2750-u2752",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2753",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2754-u2755",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2756",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2757-u2758",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2759",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2760-u2761",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2762",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2763-u2764",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2765",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2769-u2771",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2772",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2773-u2774",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2775",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2776-u2777",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2778",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2779-u2780",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2781",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  },
+  {
+   "units": "u2782-u2783",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "standards",
+   "section": "High School > World History (HS.WR) (1789-Present) : concept/code/standard"
+  },
+  {
+   "units": "u2784",
+   "grades": "9-12",
+   "course": "World History (HS.WR) (1789-Present)",
+   "cat": "examples",
+   "section": "High School > World History (HS.WR) (1789-Present) : examples"
+  }
+ ],
+ "issues": [
+  "u85-u130: domain/concept code tables (Civics, Geography, Economics, History) labeled standards K-12 as a document-wide domain overview; could alternatively be considered backup.",
+  "u138-u173: general EDP table (pp6-8) - practice statements (C1) labeled standards K-12, explanation column (C2) labeled examples; header fragments u138-u140, u151-u153, u169-u171 labeled standards.",
+  "u184-u245, u387-u448, u606-u668, u847-u908, u1082-u1142, u1346-u1404, u1627-u1689, u1962-u2024, u2269-u2327: per-grade EDP tables are extracted as text fragments in wrapped column order (practice I-X text split across cells), garbled but all cells belong to the single grade (or 9-12 for HS); labeled standards for that grade.",
+  "u182, u385, u604, u844, u1079, u1343, u1624, u2266: grade title and first narrative paragraph merged into one unit; labeled standards (unit not split). Following narrative paragraphs labeled examples. u1081 (Note on required tribal curriculum, grade 4) labeled examples.",
+  "u249-u283: Kindergarten Civics table has a different layout (Concept C1, Code C2, Standard C3, Examples C4); K Geography/History tables C2-C5 shift handled via header cells.",
+  "u298 and u301 both coded K.G.GR.2 in source (second should be GR.3); K.G.MM.4/5 and K.G.HI.6-8 numbering continues; no effect on labels.",
+  "u1221-u1228: codes written 4.G.GE.7/4.G.GE.8 (concept is G.HE) - source typo.",
+  "u1831: code written '6/7/E.MI.5' with slash; u1859, u1865, u1868: codes '6/7.E.10.ST', '6/7.E.11.ST', '6/7.E.12.ST' use nonstandard order; u2744: 'HS.WR.CP. 11' has stray space. Source typos.",
+  "u2179-u2206: 8.E table page 66 has no header row (continuation of Economics 8.E); example column inherited (C4). Also pages 33 (u1209...), 35, 37, 40, 42, 44, 46, 49-50, 52, 54, 56-58, 61-62, 64, 68, 71-73, 75-76, 78-79, 81-84, 86-89 are continuation tables with repeating headers (some at R2); concept/strand heading context carried over from earlier page.",
+  "u1790: orphaned example bullets at top of p52 continuing 6/7.G.HI.4 examples (from p51, u1779); labeled examples 6-7. u2058 (p61) likewise continues 8.C.PI.5 examples. u1038, u1028, u941, u1279: example cells beginning 'Note-' or prose; labeled examples because they sit in the Examples column.",
+  "u2114: 8.G.GR.1 examples end with unclosed parenthesis '(New Spain, France, Mexico, Texas' - extraction/source truncation. u2243: example text 'Developments in agriculture such' truncated.",
+  "u1153, u1362..: 4.C.PI.1 (u1153), 5.C.DP.5 (u1440), 6/7.H.CH.2 (u1886), 6/7.H.CP.11 (u1935) contain 'Note:' inside the Standard cell; kept as standards (units not split).",
+  "u2722: HS.WR.CE.7 examples include trailing 'Note-Years denote beginning of revolution'; u2784 trailing 'Note-Additional examples included in 6/7.C.DP.9'; labeled examples.",
+  "Grade clusters: Oregon combines grades 6 and 7 (6/7) -> grades '6-7' for all units in pp47-58; all HS content labeled 9-12 (no grade-tied courses). HS Civics/Geography/Economics tables (HS.C, HS.G, HS.E) are domain tables, labeled course null; HS US History and World History labeled as courses with title as written in the headings (u2579, u2683).",
+  "u2579, u2683: course headings for HS US History and HS World History labeled with course string including the heading's parenthetical code and date range; the History domain tables for HS.US and HS.WR use concept names Continuity and Change, Conflict and Cooperation, Cause and Effect, Communities and Pluralism with codes (US.CH) etc."
+ ]
+}

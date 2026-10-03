@@ -56,11 +56,8 @@ H.5.USH.8 Analyze the social, economic, and political effects of World War II on
 ● War efforts at home (e.g., victory gardens, rationing, defense industry towns, contributions of women and minorities) ● Japanese-American internment camps and Korematsu vs. United States ● Service member casualties, including prisoners of war, missing and wounded in action
 H.5.USH.9 Analyze the impact of advances in science and technology during World War II.
 H.5.USH.10 Evaluate the use of media and propaganda to influence the viewpoints and perspectives of the American people during World War II.
-History - United States History since 1929
 H.5 Students will understand key historical periods from The Great Depression and World War II, 1929-1945 (Era 8) to the Contemporary United States, 1968 to
-Present (Era 10). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of the United States.
 Era 9: 1945 to Early 1970s, Post-war United States through 1970s - International events and trends resulting in the emergence of the United States as a superpower
-Knowledge and Skill Performance Expectations
 Era 9
 H.5.USH.11 Examine the social, economic, and political results and implications of World War II nationally, including the end of American isolationism, the Yalta Conference and its global implications, and cultural changes in the U.S. (e.g., baby boom, women in workforce, desegregation of armed forces).
 H.5.USH.12 Analyze the origins, developments, and effects of Soviet-American rivalry in the Cold War:
@@ -79,11 +76,7 @@ H.5.USH.19 Analyze the technological transformation on social, economic, and pol
 H.5.USH.20 Examine domestic policies and outcomes of the federal government between 1945 and 1970:
 ● Eisenhower Modern Republicanism ● Federal Highway Act of 1956 ● New Frontier ● Great Society ● Civil Rights Acts of 1964 and 1968 ● Southern Manifesto and Dixiecrats
 H.5.USH.21 Construct historical arguments of long-term effects of social and economic changes occurring during the mid-20th century using available data and multiple sources.
-History - United States History since 1929
-H.5 Students will understand key historical periods from The Great Depression and World War II, 1929-1945 (Era 8) to the Contemporary United States, 1968 to
-Present (Era 10). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of the United States.
 Era 10: 1968 to Present, Contemporary United States to Present - Domestic and foreign policies of the United States since 1968
-Knowledge and Skill Performance Expectations
 Era 10
 H.5.USH.22 Examine continuity and change in domestic policies under multiple administrations since 1968, including debates on the national debt, size and role of government, tax policy, inflation, and “Reaganomics.”
 H.5.USH.23 Analyze effects of domestic policies on Americans in marginalized groups:

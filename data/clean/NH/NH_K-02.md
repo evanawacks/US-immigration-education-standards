@@ -323,15 +323,8 @@ Theme H
 Theme I
 Theme J
 Conflict and Cooperation
-Civic Ideals, Practices and Engagement
-People, Places and Environment
 Material Wants and Needs
-Cultural Development, Interaction and Change
 Global Transformation
-Science, Technology and Society
-Individualism, Equality and Authority
-Patterns of Social and Political Interaction
-Human Expression and Communication
 ECONOMICS
 Local attempts at conservation; internati’l agreements such as WTO
 “no taxation without representation”
@@ -502,15 +495,8 @@ Theme H
 Theme I
 Theme J
 Conflict and Cooperation
-Civic Ideals, Practices and Engagement
-People, Places and Environment
 Material Wants and Needs
-Cultural Development, Interaction and Change
 Global Transformation
-Science, Technology and Society
-Individualism, Equality and Authority
-Patterns of Social and Political Interaction
-Human Expression and Communication
 ANTHROPOLOGY
 conflicts; interdependence
 tribal justice
@@ -547,7 +533,6 @@ popular culture; cultural transmission; instinctive, arbitrary or symbolic commu
 PSYCHOLOGY
 interdependence
 studies of conformity
-interaction of individuals, groups and societies w/ each other & w/physical & social environments
 reinforcement: operant behavior; motivation
 system of beliefs, knowledge, values, & traditions; gender differences; self-esteem
 communication
@@ -622,24 +607,9 @@ ARCHAEOLOGY
 SOCIOLOGY
 PSYCHOLOGY
 The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students to become responsible, knowledgeable citizens, committed to participation in public affairs.
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students to become responsible, knowledgeable citizens, committed to participation in public affairs.
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students to become responsible, knowledgeable citizens, committed to participation in public affairs.
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students to become responsible, knowledgeable citizens, committed to participation in public affairs.
-Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants, including how goods and services are produced and distributed. Through economics, students examine the relationship between costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and is affected by the individual; cycles in the economy; financial institutions and government; and international economics and trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers, investors, and as citizens. Learning how to reason about economic issues is important also because the analytic approach of economics differs in key respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history, politics, geography, business, and international relations.
-Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants, including how goods and services are produced and distributed. Through economics, students examine the relationship between costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and is affected by the individual; cycles in the economy; financial institutions and government; and international economics and trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers, investors, and as citizens. Learning how to reason about economic issues is important also because the analytic approach of economics differs in key respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history, politics, geography, business, and international relations.
-Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants, including how goods and services are produced and distributed. Through economics, students examine the relationship between costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and is affected by the individual; cycles in the economy; financial institutions and government; and international economics and trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers, investors, and as citizens. Learning how to reason about economic issues is important also because the analytic approach of economics differs in key respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history, politics, geography, business, and international relations.
 Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants, including how goods and services are produced and distributed. Through economics, students examine the relationship between costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and is affected by the individual; cycles in the economy; financial institutions and government; and international economics and trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers, investors, and as citizens. Learning how to reason about economic issues is important also because the analytic approach of economics differs in key respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history, politics, geography, business, and international relations.
 The real crux of geography is understanding our physical Earth and human-environment interaction: knowing why people settle in an area, how they make their living and the resources they use, why they dress or speak the way they do, and what they do for entertainment. A geographically informed person can draw connections between locations of the Earth, recognize complex regional patterns, and appreciate the influence of place on human development.
-The real crux of geography is understanding our physical Earth and human-environment interaction: knowing why people settle in an area, how they make their living and the resources they use, why they dress or speak the way they do, and what they do for entertainment. A geographically informed person can draw connections between locations of the Earth, recognize complex regional patterns, and appreciate the influence of place on human development.
-The real crux of geography is understanding our physical Earth and human-environment interaction: knowing why people settle in an area, how they make their living and the resources they use, why they dress or speak the way they do, and what they do for entertainment. A geographically informed person can draw connections between locations of the Earth, recognize complex regional patterns, and appreciate the influence of place on human development.
 The study of New Hampshire and United States History is important in helping citizens understand and appreciate the legacy of our republic, and to develop the empathy and analytical skills needed to participate intelligently and responsibly in our ongoing democratic experiment. Historical study exposes students to the enduring themes and issues of our past and emboldens them to courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support and enhance our collective values. An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. The five standards below invite students to share in the excitement and relevance of the past and to envision a better future.
-The study of New Hampshire and United States History is important in helping citizens understand and appreciate the legacy of our republic, and to develop the empathy and analytical skills needed to participate intelligently and responsibly in our ongoing democratic experiment. Historical study exposes students to the enduring themes and issues of our past and emboldens them to courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support and enhance our collective values. An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. The five standards below invite students to share in the excitement and relevance of the past and to envision a better future.
-The study of New Hampshire and United States History is important in helping citizens understand and appreciate the legacy of our republic, and to develop the empathy and analytical skills needed to participate intelligently and responsibly in our ongoing democratic experiment. Historical study exposes students to the enduring themes and issues of our past and emboldens them to courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support and enhance our collective values. An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. The five standards below invite students to share in the excitement and relevance of the past and to envision a better future.
-The study of New Hampshire and United States History is important in helping citizens understand and appreciate the legacy of our republic, and to develop the empathy and analytical skills needed to participate intelligently and responsibly in our ongoing democratic experiment. Historical study exposes students to the enduring themes and issues of our past and emboldens them to courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support and enhance our collective values. An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. The five standards below invite students to share in the excitement and relevance of the past and to envision a better future.
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples past and present. The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas, issues and events from the full range of human experience?
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples past and present. The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas, issues and events from the full range of human experience?
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples past and present. The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas, issues and events from the full range of human experience?
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples past and present. The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas, issues and events from the full range of human experience?
 The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples past and present. The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas, issues and events from the full range of human experience?
 
 ## Backup (non-standards text)
@@ -662,8 +632,6 @@ of government of the United States.
 understanding of the nature of
 Government
 process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political
-to become responsible, knowledgeable citizens, committed to participation in public affairs.
 chosen. (Themes: A: Conflict and Cooperation, B:
 Civics and Governments (CV:2)
 SS:CV:2:2.1: Explain how public officials are
@@ -676,12 +644,8 @@ including the legislative, executive, and
 SS:CV:2: Structure and Function of
 operation of government at all levels
 United States and New Hampshire
-United States and New Hampshire
 judicial branches.
 Government
-process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political
-to become responsible, knowledgeable citizens, committed to participation in public affairs.
 countries to work together to resolve issues, e.g.,
 Cultural Development, Interaction, and Change, F:
 disaster relief or famine. (Themes: A: Conflict and
@@ -691,7 +655,6 @@ SS:CV:2:3.2: Describe ways in which countries
 interact with each other culturally. (Themes: E:
 Civics and Governments (CV:3)
 SS:CV:2:3.3: Describe why it is important for
-Cooperation, B: Civic Ideals, Practices, and
 Engagement, E: Cultural Development,
 Cooperation, F: Global Transformation)
 Social Studies K-4
@@ -704,9 +667,6 @@ the United States to other countries,
 and the role of the United States in
 States' Place In It
 world affairs.
-process; the rule of law; and world affairs. Civics builds on a foundation of history, geography, and economics to teach students
-The goal of Civics is to educate students to understand the purpose, structure, and functions of government; the political
-to become responsible, knowledgeable citizens, committed to participation in public affairs.
 cleaning school grounds. (Themes: B: Civic Ideals,
 be involved in their community, e.g., food drive or
 Practices, and Engagement, C: People, Places and
@@ -718,7 +678,6 @@ home and school. (Themes: B: Civic Ideals,
 SS:CV:2:4.2: Discuss ways individuals can
 Social Studies K-4
 Grades K-2
-Practices, and Engagement)
 Environment)
 through the political process and citizen
 the ability to apply their knowledge of
@@ -745,38 +704,18 @@ Learning how to reason about economic issues is important also because the analy
 Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants,
 Economics (EC:2)
 Social Studies K-4
-politics, geography, business, and international relations.
-investors, and as citizens.
 Students will learn about the pillars of a
 free market economy and the market
 SS:EC:2: Basic Economic
 mechanism.
 Concepts
-including how goods and services are produced and distributed. Through economics, students examine the relationship between
-costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and
-is affected by the individual; cycles in the economy; financial institutions and government; and international economics and
-analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history,
-respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic
-trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers,
-Learning how to reason about economic issues is important also because the analytic approach of economics differs in key
-Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants,
 Economics (EC:3)
 Social Studies K-4
 Grades K-2
-politics, geography, business, and international relations.
 business cycle and trends in economic
 Students will be able to explain the
 SS:EC:3: Cycles in the Economy
-investors, and as citizens.
 activity over time.
-including how goods and services are produced and distributed. Through economics, students examine the relationship between
-costs and benefits. They develop an understanding of basic economic concepts; economics in history; how economics affects and
-is affected by the individual; cycles in the economy; financial institutions and government; and international economics and
-analysis helps us to master such subjects as well, providing effective ways to examine many of the “why questions in history,
-respects from approaches appropriate for other related subjects such as history, geography, and civics. Yet valid economic
-trade. The goal of economic education is to prepare students to make effective decisions as consumers, producers, savers,
-Learning how to reason about economic issues is important also because the analytic approach of economics differs in key
-Economics is the study of the allocation and utilization of limited resources to meet society's unlimited needs and wants,
 SS:EC:2:4.2: Describe basic services banks or other
 SS:EC:2:4.1: Identify the characteristics of money.
 financial institutions provide to consumers, savers,
@@ -788,22 +727,18 @@ Economics (EC:4)
 Social Studies K-4
 Grades K-2
 Technology, and Society)
-politics, geography, business, and international relations.
 Authority)
 Students will understand how financial
 together to stabilize our economy, and
 institutions and the government work
 Institutions and the Government
 how changes in them affect the
-investors, and as citizens.
 SS:EC:4: Financial
 individual.
-politics, geography, business, and international relations.
 SS:EC:5: International Economics and
 Students will recognize the importance
 of international trade and how
 economies are affected by it.
-investors, and as citizens.
 Trade
 settle in an area, how they make their living and the resources they use, why they dress or speak the way they do, and what they
 A geographically informed person can draw connections between locations of the Earth, recognize complex regional patterns,
@@ -819,12 +754,8 @@ use maps, mental maps, globes, and
 SS:GE:1: The World in Spatial
 geographic information.
 Terms
-settle in an area, how they make their living and the resources they use, why they dress or speak the way they do, and what they
-A geographically informed person can draw connections between locations of the Earth, recognize complex regional patterns,
-The real crux of geography is understanding our physical Earth and human-environment interaction: knowing why people
 Geography (GE:2)
 Social Studies K-4
-and appreciate the influence of place on human development.
 do for entertainment.
 places and regions as well as how culture
 human geographic features that define
@@ -832,14 +763,12 @@ understanding of the physical and
 and experience influence people's
 perceptions of places and regions.
 SS:GE:2: Places and Regions
-and appreciate the influence of place on human development.
 understanding of the physical processes
 surface and the characteristics and
 that shape the patterns of Earth's
 spatial distribution of ecosystems.
 SS:GE:3: Physical Systems
 do for entertainment.
-and appreciate the influence of place on human development.
 and Environment)
 complexity of cultural mosaics; economic
 understanding of human migration; the
@@ -848,7 +777,6 @@ interdependence; human settlement
 and conflict among peoples.
 SS:GE:4: Human Systems
 do for entertainment.
-and appreciate the influence of place on human development.
 consequences of the interactions between
 understanding of the connections and
 Earth's physical and human systems.
@@ -869,48 +797,32 @@ than a lengthy and fragmented list of people, places, events and other facts. Th
 An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather
 courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an
 interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support
-(Themes: C: People, Places and Environment, D:
 interconnected, e.g., trade or transportation.
 US / NH History (HI:2)
 SS:HI:2:2.1: Recognize that the world is
 Material Wants and Needs, F: Global
 Social Studies K-4
-the excitement and relevance of the past and to envision a better future.
 Grades K-2
 Transformation)
 understanding of the events, actions and
 policies of our nation in relation to other
 peoples and governments over time.
-and enhance our collective values.
 SS:HI:2: Contacts, Exchanges &
 International Relations
-the excitement and relevance of the past and to envision a better future.
 understanding of conceptions of reality,
 ideals, guidelines of behavior and forms
-and enhance our collective values.
 systems and their Intellectual and
 SS:HI:3: World Views and Value
 Artistic Expressions
 of expression.
-the excitement and relevance of the past and to envision a better future.
 understanding of the changing forms of
 consumption of goods and services over
-and enhance our collective values.
 SS:HI:4: Economic Systems &
 production, distribution and
 Technology
 time.
-The study of New Hampshire and United States History is important in helping citizens understand and appreciate the legacy of
-our republic, and to develop the empathy and analytical skills needed to participate intelligently and responsibly in our ongoing
-democratic experiment. Historical study exposes students to the enduring themes and issues of our past and emboldens them to
-than a lengthy and fragmented list of people, places, events and other facts. The five standards below invite students to share in
-An effective study of history must focus on broad themes, important concepts, major issues and significant movements, rather
-courageously and compassionately meet the contemporary challenges they will face as individuals in a state, a country and an
-interdependent world. Ultimately, the study of history will help students plan and implement responsible actions that support
 US / NH History (HI:5)
 Social Studies K-4
-the excitement and relevance of the past and to envision a better future.
-and enhance our collective values.
 values, beliefs and practices, over time.
 various social groups, including their
 understanding of the interaction of
@@ -940,71 +852,26 @@ issues pertaining to the history of
 past and present.
 Developments
 governance.
-The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of
-significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully
-different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples
-course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and
-contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past
-achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within
-which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our
-participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas,
-nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the
 World History (WH:2)
 Social Studies K-4
 Grades K-2
-issues and events from the full range of human experience?
 understanding of the interactions of
-peoples and governments over time.
 SS:WH:2: Contacts, Exchanges &
 Students will demonstrate their
 International Relations
 past and present.
-course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and
-contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past
-achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within
-which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our
-participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas,
-nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the
 the world express themselves artistically, e.g.,
 songs, dance or clothing. (Themes: J: Human
 Expression and Communication)
-issues and events from the full range of human experience?
-understanding of conceptions of reality,
 ideals, guidelines of behavior and their
 SS:WH:3: World Views and Value
-systems and their Intellectual and
-Students will demonstrate their
 Artistic Expressions
 forms of expression.
 past and present.
-course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and
-contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past
-achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within
-which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our
-participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas,
-nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the
-issues and events from the full range of human experience?
-understanding of the changing forms of
-consumption of goods and services over
 SS:WH:4: Economic Systems &
-Students will demonstrate their
-production, distribution and
 past and present.
 Technology
 time.
-The knowledge incorporated within the phrase "World History and Contemporary Issues" may be presented under a variety of
-significant movements, rather than a lengthy and fragmented list of people, places, events and other facts. For students to fully
-different surroundings and at different times, revealing the many commonalties and differences shared by the world's peoples
-course titles. Whatever the course, the most effective study will focus on important concepts, broad themes, major issues, and
-contemporary challenges they will face as individuals in an interdependent, increasingly connected world. Knowledge of past
-achievements and failures of different peoples and nations provides citizens of the 21st century with a broader context within
-which to address the many issues facing our nation and the world. World History fosters an appreciation of the roots of our
-participate in historical thinking and be prepared for life as decision-making citizens, they must be able to draw upon ideas,
-nation's values and the values and perspectives of other peoples. It illustrates how humans have expressed themselves in
-The study of World History and Contemporary Issues is important in helping citizens understand and appreciate the
 Engagement, E: Cultural Development, Interaction,
 SS:WH:2:5.1: Identify the concepts of values and
 beliefs. (Themes: B: Civic Ideals, Practices, and
@@ -1012,11 +879,9 @@ and Change, I: Patterns of Social and Political
 World History (WH:5)
 Social Studies K-4
 Grades K-2
-issues and events from the full range of human experience?
 Interaction)
 understanding of the diversity of values,
 beliefs, and practices of individuals and
-Students will demonstrate their
 SS:WH:5: Social/Cultural
 past and present.
 groups over time.

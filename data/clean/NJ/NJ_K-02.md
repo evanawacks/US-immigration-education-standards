@@ -234,17 +234,14 @@ Core Idea
 Performance Expectations
 Historians create arguments outlining ideas or explanations based on evidence.
 • 6.1.2.HistoryCA.1: Make an evidence-based argument how and why communities change over time (e.g., locally, nationally, globally).
-2020 New Jersey Student Learning Standards – Social Studies
 6.3 Active Citizenship in the 21st Century by the End of Grade 2
 Civics, Government and Human Rights: Participation and Deliberation
 Core Idea
 Performance Expectations
-When all members of the group are given the opportunity to participate in the decision- making process, everyone’s voice is heard.
 • 6.3.2.CivicsPD.1: With adult guidance and support, bring awareness of a local issue to school and/or community members and make recommendations for change.
 Geography, People and the Environment: Global Interconnections
 Core Idea
 Performance Expectations
-Global interconnections occur between human and physical systems across different regions of the world.
 • 6.3.2.GeoGI.1: Investigate a global issue such as climate change, its significance, and share information about how it impacts different regions around the world. • 6.3.2.GeoGI.2: Collect data and consider sources from multiple perspectives to become informed about an environmental issue and identify possible solutions.
 
 ## Examples / clarifications

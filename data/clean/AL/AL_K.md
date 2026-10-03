@@ -13,7 +13,6 @@ Kindergarten
 SOCIAL STUDIES PRACTICES
 ● Identify and use maps, globes, and satellite and digital images. ● Identify the point of view shared in a story. ● Utilize primary sources to help understand sequence of events.
 ● Construct explanations using correct sequence and relevant information. ● Restate the order of events as described in a story. ● Ask and answer questions about differences of opinion.
-LIVING AND WORKING TOGETHER IN FAMILY AND COMMUNITY
 CONTENT STANDARDS
 Each content standard completes the stem “Students will…”
 CIVICS

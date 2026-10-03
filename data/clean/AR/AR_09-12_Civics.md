@@ -38,8 +38,6 @@ Civics
 C.4 Students will understand the process of making and changing laws and the ways institutions work together in carrying out the laws.
 Processes, Rules, and Laws
 ● Public policy ● Creating and changing laws ● Rights and freedoms
-C.2 Students will understand the structure and functions of various types of government and how they exercise their powers.
-Civic and Political Institutions
 C.2.CIV.1 Demonstrate proper etiquette for interacting with the Arkansas and American flags and analyze the free speech rights of citizens regarding the use of the flag (e.g., West Virginia vs. Barnette, Texas vs. Johnson).
 C.2.CIV.2 Analyze the establishment and purposes of government and relate it to everyday life experiences including law enforcement, public schools, and city planning.
 C.2.CIV.3 Compare the ideologies of various forms of government and ways they have changed over time:
@@ -48,13 +46,9 @@ C.2.CIV.4 Analyze the rationale for the structure of the U.S. Constitution using
 C.2.CIV.5 Analyze the purpose, organization, powers, and function of the legislative branch of government, including the legislative process and the role of the Senate in giving states equal representation, using Article I of the Constitution and other primary and secondary sources.
 C.2.CIV.6 Analyze the purpose, organization, powers, and function of the executive branch of government, including the electoral college process, duties of the President, and supporting executive branch agencies using Article II of the Constitution and other primary and secondary sources
 C.2.CIV.7 Analyze the purpose, organization, powers, and function of the judicial branch of government, including judicial review and the origin and duties of the court system and Supreme Court, as outlined by Article III of the Constitution, Marbury vs. Madison, and other primary and secondary sources.
-C.2 Students will understand the structure and functions of various types of government and how they exercise their powers.
-Civic and Political Institutions
 C.2.CIV.8 Differentiate among delegated, implied (i.e., Necessary and Proper Clause), concurrent, and reserved powers (i.e., Tenth Amendment).
 C.2.CIV.9 Analyze the reasons for checks and balances, separation of powers, and federalism within the Constitution to limit government power and protect individual liberty.
 C.2.CIV.10 Examine ways the powers, responsibilities, and limits of the federal government have changed over time and are still contested.
-C.3 Students will understand the role of citizens in society, the ways the government protects the rights of citizens, the electoral process, and the role of political parties.
-Participation and Deliberation
 C.3.CIV.1 Evaluate rights and responsibilities of citizens in the United States using the Bill of Rights and various Supreme Court decisions.
 ● Free exercise of religion (Kennedy vs. Bremerton School District) ● Freedom of speech (Brandenburg vs. Ohio) ● Freedom of press (New York Times vs. United States) ● Freedom of assembly (Bates vs. Little Rock)
 C.3.CIV.2 Compare the roles of citizen and non-citizen residents in the United States, including the protections of and limits on immigrant rights (e.g., Plyler vs. Doe, Nielsen vs. Preap).
@@ -63,8 +57,6 @@ C.3.CIV.4 Analyze the requirements to be a U.S. citizen, including naturalizatio
 C.3.CIV.5 Discuss the history, purpose, and methods of the U.S. Census.
 C.3.CIV.6 Analyze historical documents and events that set the ideological foundations for the U.S. Constitution:
 ● Magna Carta ● Mayflower Compact ● English Bill of Rights of 1689 ● Declaration of Independence ● Articles of Confederation ● Constitutional Convention
-C.3 Students will understand the role of citizens in society, the ways the government protects the rights of citizens, the electoral process, and the role of political parties.
-Participation and Deliberation
 C.3.CIV.7 Evaluate the ideological influences the Enlightenment had on the framers of the U.S. Constitution:
 ● John Locke ● Jean-Jacques Rousseau ● Charles-Louis Montesquieu
 C.3.CIV.8 Examine the amendments to the U.S. Constitution in order to determine how the roles of citizens and the federal and state governments have changed over time:
@@ -74,15 +66,11 @@ C.3.CIV.10 Assess the effects of civil rights legislation in the United States:
 ● Civil Rights Act of 1964 and 1968 ● Voting Rights Act of 1965 ● Immigration Act of 1965 ● Individuals with Disabilities Education Act of 1975 ● Americans with Disabilities Act of 1990 ● Indian Child Welfare Act ● Tribal Self-Governance Act ● Equal Pay Act of 1963 ● Title IX
 C.3.CIV.11 Evaluate Arkansas laws and their impact on students:
 ● Bullying ● Local ordinances ● Penalties for juvenile activity ● Penalties for truancy ● Requirements for obtaining and grounds for revocation of a driver’s license
-C.3 Students will understand the role of citizens in society, the ways the government protects the rights of citizens, the electoral process, and the role of political parties.
-Participation and Deliberation
 C.3.CIV.12 Critique the roles of political parties in the election process.
 C.3.CIV.13 Analyze the election process in federal, state, and local governments including voter registration, primary elections, and general elections.
 C.3.CIV.14 Evaluate various influences on political parties during the electoral process, such as interest groups, lobbyists, Political Action Committees (PACs), and major events.
 C.3.CIV.15 Assess the influence of media on the electoral process, including candidate debates, news reporting and analysis, political cartoons, public opinion polls, propaganda techniques, and social media.
 C.3.CIV.16 Analyze the process and impact of redistricting on election statistics and voting patterns, including the state legislature’s role (Article I, Section 4), the history of gerrymandering across states, and modern reforms to redistricting.
-C.4 Students will understand the process of making and changing laws and the ways institutions work together in carrying out the laws.
-Processes, Rules, and Laws
 C.4.CIV.1 Investigate various methods for creating federal, state, and local laws, including the legislative process, ballot initiatives, and referendums.
 C.4.CIV.2 Compare methods of amending the U.S. Constitution, including the role of Congress, state legislatures, and convention of the states (i.e., Article V).
 C.4.CIV.3 Analyze the role the U.S. Supreme Court has on the law-making process.
@@ -136,7 +124,6 @@ The major work of the Civics course includes the disciplinary strands of Civics,
 Economics
 Geography
 History
-● Economic Decision-Making ● Exchange and Markets ● Growth and Stability ● The National Economy ● The Global Economy
 ●Geographic Representations: Spatial Views of the World ●Human-Environment Interaction: Place, Regions, and Culture ●Human Populations: Spatial Patterns and Movements ●Global Interconnections: Global Spatial Patterns
 ●Change, Continuity, and Context ●Perspectives ●Historical Sources and Evidence ●Causation and Argumentation
 

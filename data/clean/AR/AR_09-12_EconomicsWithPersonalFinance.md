@@ -46,13 +46,11 @@ Economics
 E.6 Students will understand the factors affecting income, wealth, and financial risk. This includes the role of credit in personal finance.
 Personal Finance Management
 ● Personal financial management ● Credit and debt ● Financial responsibility and personal decision-making ● Planning and money management
-E.2 Students will understand the impact of economic decision-making. This includes considering the marginal costs and marginal benefits of alternatives.
 Economic Decision-Making
 E.2.ECON.1 Demonstrate proper etiquette for interacting with the Arkansas and American flags.
 E.2.ECON.2 Evaluate the roles of scarcity, incentives, trade-offs, and opportunity cost in decision-making* (e.g., PACED decision-making model, cost/benefit analysis, employment choices*, the four factors of production).
 ●PF.7.SI.4 Analyze the relationship between risk* and return.*
 E.2.ECON.3 Justify various economic solutions to problems affecting an individual or society using marginal cost and marginal benefit analysis.
-E.3 Students will understand the exchange of goods and services. This includes different allocation methods and changes in supply and demand; the role of producers, consumers, and government in a market economy; and the degree of competition among buyers and among sellers in markets.
 Exchange and Markets
 E.3.ECON.1 Identify various allocation methods used in different circumstances, countries, and economies (e.g., price, auction, lottery, first come, first served, personal characteristics, a contest/performance-based, fiat, or a combination).
 E.3.ECON.2 Demonstrate changes in supply and demand using graphs to show shifts, shortages, surpluses, and changes in equilibrium price and quantity using the supply and demand model.
@@ -61,7 +59,6 @@ E.3.ECON.4 Analyze the role of producers in a market economy.
 E.3.ECON.5 Evaluate intended and unintended consequences of government policies created to improve market outcomes (e.g., regulatory, participatory, supervisory, price floor, price ceiling, minimum wage).
 E.3.ECON.6 Compare and contrast various degrees of competition in markets (e.g., perfect competition, monopolistic competition, oligopoly, monopoly).
 E.3.ECON.7 Explain how differences in the extent of competition in various markets can affect price, quantity, and variety.
-E.4 Students will understand the growth, stability, and interdependence within a national economy. This includes the current and future state of the economy using economic indicators and monetary and fiscal policies for a variety of economic conditions.
 National Economy
 E.4.ECON.1 Analyze economic indicators used to measure economic performance including, but not limited to, unemployment, Gross Domestic Product (GDP), Consumer Price Index (CPI), and inflation.
 E.4.ECON.2 Identify various causes and impacts of inflation, deflation, and stagflation, including the role of federal fiscal policies.
@@ -71,13 +68,10 @@ E.4.ECON.4 Compare and contrast the roles and functions of financial institution
 E.4.ECON.5 Examine primary (e.g., ample reserves) and secondary (e.g., discount rate, reserve requirement, interest on reserves) monetary policy tools used by the Federal Reserve System.
 E.4.ECON.6 Examine fiscal policy tools used by the executive and legislative branches of the government, including taxation, spending, regulation, and printing of currency.
 E.4.ECON.7 Determine how the federal budget (i.e., spending and taxation) creates surpluses or deficits and impacts the national debt.
-E.5 Students will understand the growth, stability, and interdependence within a global economy. This includes ways in which trade leads to increased economic interdependence.
 Global Economy
 E.5.ECON.1 Analyze the role of comparative advantage in trade and global markets using available data and a variety of sources.
 E.5.ECON.2 Explain ways in which current trends in globalization affect economic growth, labor markets, rights of individuals, the environment, technological advancement, and resource and income distribution in different nations.
 E.5.ECON.3 Research the impact of international and national economic and political policies on global trade using a variety of sources from multiple perspectives (e.g., trade policies, tariffs, quotas, immigration laws, fiscal policy, regulations).
-E.6 Students will understand the factors affecting income, wealth, and financial risk. This includes the role of credit in personal finance.
-Personal Finance Management
 E.6.ECON.PF.1 Analyze the impact of education, training, job seeking skills, and workforce readiness skills (i.e., soft skills*) on productivity, earning potential, and employment*:
 ● Job-seeking skills*: network, interview skills*, resumé writing* ● Workforce readiness skills: positive attitude, problem-solving, communication*, time management*, leadership, active listening, teamwork, meeting basic employer expectations and requirements*
 ●PF.1.EI.1 Explain factors that influence career and job selection ●PF.3.CCP.1 Explore potential careers (including an employment forecast) and the steps needed to achieve them based on interests and/or talents ●PF.3.CCP.2 Explore opportunities for internships, job shadowing, and real-world experiences to determine future career paths ●PF.3.CCP.3 Develop a flowchart to outline the steps needed to achieve chosen career paths (e.g., trade school, associate’s degree, bachelor’s degree, master’s degree, doctorate) ●PF.1.EI.2 Determine ways to locate and apply for a job by ○Completing a job search in an area of interest ○Completing a job application, cover letter, resumé, and follow-up letter ●PF.1.EI.3 Evaluate ways to make a positive impression during a job interview ●PF.1.EI.4 Compare job offers for employee benefits* (e.g., time, income*, insurance*, retirement) ●PF.1.EI.5 Summarize skills needed to be successful in the workplace ○Communication ○Time Management ○Basic Employer Expectations

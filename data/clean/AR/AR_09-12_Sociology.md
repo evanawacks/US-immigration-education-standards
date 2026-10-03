@@ -30,27 +30,23 @@ Social Science
 SS.2 Students will understand the sociological perspective and the methods and strategies of researching social issues. This includes the cultural interaction between individuals and society and the evolution of social structures and culture; socialization and its impact on individuals and groups; and the effects and factors that lead to social stratification on groups and individuals.
 Sociology
 ● Sociological Perspectives and Methods of Inquiry ● Social Structure ● Social Relationships ● Stratification and Inequality
-SS.2 Students will understand the sociological perspective and the methods and strategies of researching social issues. This includes the cultural interaction between individuals and society and the evolution of social structures and culture; socialization and its impact on individuals and groups; and the effects and factors that lead to social stratification on groups and individuals.
 Sociological Perspectives and Methods of Inquiry
 SS.2.SOC.1 Analyze the development of the field of sociology including contributions of various individuals using a variety of sources.
 SS.2.SOC.2 Compare the theoretical perspectives used by sociologists such as functional perspective, conflict perspective, and interaction perspective.
 SS.2.SOC.3 Analyze and apply research methods such as observation, survey, field experimentation, and content analysis used by social scientists to study human society.
 SS.2.SOC.4 Design sociological questions that examine various social phenomena.
 SS.2.SOC.5 Collect and analyze data designed to answer a question that examines the impact of various social phenomena.
-SS.2 Students will understand the sociological perspective and the methods and strategies of researching social issues. This includes the cultural interaction between individuals and society and the evolution of social structures and culture; socialization and its impact on individuals and groups; and the effects and factors that lead to social stratification on groups and individuals.
 Social Structure
 SS.2.SOC.6 Analyze how culture influences individuals using sources from multiple perspectives.
 SS.2.SOC.7 Examine the role social institutions such as socio-economic status, education, belief systems, social patterns, and family play in society.
 SS.2.SOC.8 Analyze key components of culture.
 SS.2.SOC.9 Compare how cultures change and resist change.
 SS.2.SOC.10 Examine the importance of norms and values to culture and the effects on social structure.
-SS.2 Students will understand the sociological perspective and the methods and strategies of researching social issues. This includes the cultural interaction between individuals and society and the evolution of social structures and culture; socialization and its impact on individuals and groups; and the effects and factors that lead to social stratification on groups and individuals.
 Social Relationships
 SS.2.SOC.11 Analyze the role socialization agents (e.g., family, school, peer groups, mass media, and social media) play in human development.
 SS.2.SOC.12 Examine the effect of norms and values on societies.
 SS.2.SOC.13 Analyze the social construction of groups and the interactions between groups and individuals in society.
 SS.2.SOC.14 Examine societal changes over time and factors influencing those changes.
-SS.2 Students will understand the sociological perspective and the methods and strategies of researching social issues. This includes the cultural interaction between individuals and society and the evolution of social structures and culture; socialization and its impact on individuals and groups; and the effects and factors that lead to social stratification on groups and individuals.
 Stratification and Inequality
 SS.2.SOC.15 Analyze common patterns and effects of social stratification on groups and individuals using a variety of sources. This may include region, age, race, gender, religion, and socioeconomic status.
 SS.2.SOC.17 Examine factors that contribute to and maintain social inequalities.

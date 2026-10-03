@@ -1,0 +1,82 @@
+{
+ "state": "ME",
+ "file": "Social_Studies_-_MLR_Social_Studies_History_2019_-_10.9.2025_7f7403.pdf",
+ "structure": "Extract of the Maine Learning Results 2019 Social Studies standards, History strand only. Pages 1-4 repeat the front matter of the full standards (Introduction, Guiding Principles, skills, key ideas, enduring themes, eras table, statutes). Then a strand heading (\"History\"), and for each grade level (Kindergarten, 1st..5th, 6-8th, 9th-Diploma) a block of \"Grade Level: X\", \"Standard: ...\", and \"Performance Expectation: ...\" as paragraph units. K-5 expectations are numbered (History 1, 2, ...); 6-8 and 9-Diploma are split into Foundational (F1..) and Developmental (D1..) items. Asterisk (*) marks Guiding Principles. 9th-Diploma = grades 9-12. Running header \"Strand: History\" in page markers.",
+ "labels": [
+  {
+   "units": "u1-u18",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, Guiding Principles, skills, key ideas, enduring themes, eras, statutes (repeated front matter of the full document)"
+  },
+  {
+   "units": "u19",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Strand heading: History"
+  },
+  {
+   "units": "u20-u23",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level K: standard and performance expectations"
+  },
+  {
+   "units": "u24-u27",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 1: standard and performance expectations"
+  },
+  {
+   "units": "u28-u31",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 2: standard and performance expectations"
+  },
+  {
+   "units": "u32-u35",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 3: standard and performance expectations"
+  },
+  {
+   "units": "u36-u39",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 4: standard and performance expectations"
+  },
+  {
+   "units": "u40-u43",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 5: standard and performance expectations"
+  },
+  {
+   "units": "u44-u48",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 6-8: standard and performance expectations"
+  },
+  {
+   "units": "u49-u53",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History: Grade Level 9-12: standard and performance expectations"
+  }
+ ],
+ "issues": [
+  "u47-u48: 6-8 History Performance Expectation is split across the page 8/9 break; u48 (page 9 opening) continues the 6-8 History 2 Developmental items and is labelled 6-8 before the Grade Level: 9th-Diploma heading at u49.",
+  "u52-u53: 9-Diploma History Performance Expectation split across page 9/10 break; u53 labelled 9-12 as continuation.",
+  "Unit ids u21, u25, u29 etc. are not present in the view (furniture); nothing to label."
+ ]
+}

@@ -121,7 +121,6 @@ Geography Anchor
 • SS.AKH.1.16.2 Assess how natural and human‐made environmental changes affect the sustainability of contemporary and traditional practices.
 Standard 16
 Human Environment
-Interaction: Place, Regions,
 and Culture
 Land and People
 Geography Anchor
@@ -134,7 +133,6 @@ Geography Anchor
 • SS.AKH.1.16.4 Use evidence to document and explain the development and evolution of Alaska Native societies and cultures.
 Standard 16
 Human Environment
-Interaction: Place, Regions,
 and Culture
 Geography Anchor
 • SS.AKH.1.20.1 Explain the reciprocal relationships between Alaska’s geography and the development of Alaska Native societies, including the role and importance of Alaska Native place names.
@@ -226,7 +224,6 @@ History Anchor
 • SS.AKH.4.21.1 Develop a claim using multiple sources and perspectives explaining how specific policies or issues in Alaska are a result of the legacy of western expansion.
 Standard 21
 Perspectives
-Colonialism and Western Expansion
 History Anchor
 • SS.AKH.4.24.1 Compare and contrast the political and economic developments leading to the colonization of Alaska.
 Standard 24
@@ -286,7 +283,6 @@ Civil Rights
 Civics Anchor Standard 10
 • SS.AKH.5.10.2 Analyze how Alaskans have challenged the status quo from the colonial era through today to gain protection of their civil rights and build long‐term survival of their communities.
 Rights, Roles, and
-Responsibilities of Citizens
 Alaska Constitution
 Civics Anchor Standard 8
 • SS.AKH.5.8.1 Explain how the Alaska Constitution organizes government power, protects rights, and includes features unique to Alaska.
@@ -382,73 +378,61 @@ The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 
 ## Issues
 

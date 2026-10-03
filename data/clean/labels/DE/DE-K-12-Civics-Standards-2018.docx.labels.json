@@ -1,0 +1,269 @@
+{
+ "state": "DE",
+ "file": "DE-K-12-Civics-Standards-2018.docx",
+ "structure": "Short Word document with four Civics Anchor Standards. Each: an 'Anchor Standard N' statement line with bracketed theme, a rationale paragraph, the line 'The complexity of the standard will increase at each succeeding grade cluster:', then cluster standards coded K-3a/b, 4-5a/b, 6-8a/b, 9-12a/b (grade clusters only, not individual grades). Some cluster standards are followed by '--' bullet lines listing content topics (part of the standard). No courses, no front matter, no separate examples.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One statement"
+  },
+  {
+   "units": "u2",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics Anchor Standard One rationale narrative"
+  },
+  {
+   "units": "u3",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics Anchor Standard One note on increasing complexity"
+  },
+  {
+   "units": "u4",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One K-3a"
+  },
+  {
+   "units": "u5",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One K-3b"
+  },
+  {
+   "units": "u6",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One 4-5a"
+  },
+  {
+   "units": "u7",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One 4-5b"
+  },
+  {
+   "units": "u8",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One 6-8a"
+  },
+  {
+   "units": "u9",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One 6-8b"
+  },
+  {
+   "units": "u10",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard One 9-12a"
+  },
+  {
+   "units": "u11",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two statement"
+  },
+  {
+   "units": "u12",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics Anchor Standard Two rationale narrative"
+  },
+  {
+   "units": "u13",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics Anchor Standard Two note on increasing complexity"
+  },
+  {
+   "units": "u14",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two K-3a"
+  },
+  {
+   "units": "u15",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 4-5a"
+  },
+  {
+   "units": "u16",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 4-5b"
+  },
+  {
+   "units": "u17",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 6-8a"
+  },
+  {
+   "units": "u18",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 6-8b"
+  },
+  {
+   "units": "u19",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 9-12a"
+  },
+  {
+   "units": "u20",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Two 9-12b"
+  },
+  {
+   "units": "u21",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three statement"
+  },
+  {
+   "units": "u22",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics Anchor Standard Three rationale narrative"
+  },
+  {
+   "units": "u23",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics Anchor Standard Three note on increasing complexity"
+  },
+  {
+   "units": "u24",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three K-3a"
+  },
+  {
+   "units": "u25",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three 4-5a"
+  },
+  {
+   "units": "u26",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three 6-8a"
+  },
+  {
+   "units": "u27",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three 6-8b"
+  },
+  {
+   "units": "u28",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Three 9-12a"
+  },
+  {
+   "units": "u29",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four statement"
+  },
+  {
+   "units": "u30",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics Anchor Standard Four rationale narrative"
+  },
+  {
+   "units": "u31",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics Anchor Standard Four note on increasing complexity"
+  },
+  {
+   "units": "u32",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four K-3a"
+  },
+  {
+   "units": "u33",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four 4-5a"
+  },
+  {
+   "units": "u34",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four 4-5b"
+  },
+  {
+   "units": "u35",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four 6-8a"
+  },
+  {
+   "units": "u36",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four 9-12a"
+  },
+  {
+   "units": "u37",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics Anchor Standard Four 9-12b"
+  }
+ ],
+ "issues": [
+  "Rationale narrative paragraphs labeled examples (K-12); the \"complexity will increase\" line labeled backup. Anchor-statement lines labeled standards K-12 as they apply to all clusters."
+ ]
+}

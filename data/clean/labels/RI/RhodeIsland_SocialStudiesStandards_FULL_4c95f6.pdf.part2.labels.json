@@ -1,0 +1,3461 @@
+{
+ "state": "RI",
+ "file": "RhodeIsland_SocialStudiesStandards_FULL_4c95f6.pdf",
+ "range": "u3457-u7237",
+ "structure": "Rhode Island Social Studies Standards (2023), one PDF; this part covers Grade 7 (from SS7.6.2), Grade 8, and HS Civics, US History I, US History II, World History I (to SSHS.WHI.4.3). Each grade/course opens with a heading unit (e.g. 'GRADE 8 - ...', 'HIGH SCHOOL - CIVICS') followed by a narrative and a list of Inquiry Topics, Compelling Questions and standard codes/titles. Then 'Standards Tables': an 'Inquiry Topic N: ... Compelling Question' heading, followed by one table per standard. Codes: SS<grade>.<topic>.<n> for grades (SS7.6.2), SSHS.<course>.<topic>.<n> for HS (CVC=Civics, USI, USII, WHI). Each standard table has: header cell with code + title + standard statement (the code/title/statement text is split across units because of cell layout, interleaved with the 'Connections to the Rhode Island Anchor Standards' label, anchor-standard code cells CG.P, CG.RL, CG.RR, H.CC, H.HP, H.IG, G.HPE, G.HSP, G.WST, E.SA, E.PC, E.EG and 'X' marks showing which anchors are connected); then 'Guiding Questions for Instruction' (bulleted questions; examples) and 'Learning Assessment Objectives: Students demonstrate an ability to: a. ... b. ...' (detailed performance expectations with e.g. lists; labeled standards). Table index [T1 R.. C..] is positional, not grade columns: each standard table is a single-grade/course table. Rare [T2 ...] fragments are overflow text continuing the preceding GQ/LAO cell across a page break. Grade 7 = SS7.x (world history), Grade 8 = SS8.x (civics); HS courses are 9-12 with course title as in the heading.",
+ "labels": [
+  {
+   "units": "u3457-u3476",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.6.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3477",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 SS7.6.2 Guiding Questions"
+  },
+  {
+   "units": "u3478",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.6.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3480-u3500",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.6.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3501",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 SS7.6.3 Guiding Questions"
+  },
+  {
+   "units": "u3502",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.6.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3503",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3505",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 Compelling question under inquiry topic"
+  },
+  {
+   "units": "u3506-u3527",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.7.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3528",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 SS7.7.1 Guiding Questions"
+  },
+  {
+   "units": "u3529",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.7.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3531-u3549",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.7.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3550",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 SS7.7.2 Guiding Questions"
+  },
+  {
+   "units": "u3551",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 SS7.7.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3553-u3556",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 overview / inquiry topics and standards list (course title, narrative, topic outline)"
+  },
+  {
+   "units": "u3558",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3559-u3577",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3578",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.1.1 Guiding Questions"
+  },
+  {
+   "units": "u3579",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3581-u3597",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3598",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.1.2 Guiding Questions"
+  },
+  {
+   "units": "u3599",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3601-u3619",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3620",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.1.3 Guiding Questions"
+  },
+  {
+   "units": "u3621",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.1.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3623",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3624-u3650",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.2.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3651",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.2.1 Guiding Questions"
+  },
+  {
+   "units": "u3652",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.2.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3654-u3676",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.2.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3677",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.2.2 Guiding Questions"
+  },
+  {
+   "units": "u3678",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.2.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3680",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3681-u3703",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3704",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.3.1 Guiding Questions"
+  },
+  {
+   "units": "u3705",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3707-u3726",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3727",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.3.2 Guiding Questions"
+  },
+  {
+   "units": "u3728",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3730-u3749",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3750",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.3.3 Guiding Questions"
+  },
+  {
+   "units": "u3751",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3753-u3769",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3770",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.3.4 Guiding Questions"
+  },
+  {
+   "units": "u3771",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.3.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3773",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3774-u3796",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3797",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.4.1 Guiding Questions"
+  },
+  {
+   "units": "u3798",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3800-u3818",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3819",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.4.2 Guiding Questions"
+  },
+  {
+   "units": "u3820",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3822-u3840",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3841",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.4.3 Guiding Questions"
+  },
+  {
+   "units": "u3842",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3844-u3861",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3862",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.4.4 Guiding Questions"
+  },
+  {
+   "units": "u3863",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.4.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3865",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3866-u3889",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.5.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3890",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.5.1 Guiding Questions"
+  },
+  {
+   "units": "u3891",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.5.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3893-u3910",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.5.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3911",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.5.2 Guiding Questions"
+  },
+  {
+   "units": "u3912",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.5.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3914",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u3915",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 Compelling question under inquiry topic"
+  },
+  {
+   "units": "u3916-u3934",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3935",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.6.1 Guiding Questions"
+  },
+  {
+   "units": "u3936",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3938-u3955",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3956",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.6.2 Guiding Questions"
+  },
+  {
+   "units": "u3957",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3959-u3980",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u3981",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.6.3 Guiding Questions"
+  },
+  {
+   "units": "u3982",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u3984-u4001",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4002",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.6.4 Guiding Questions"
+  },
+  {
+   "units": "u4003",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4005-u4027",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4028",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.6.5 Guiding Questions"
+  },
+  {
+   "units": "u4029",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.6.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4031",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4032-u4049",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.7.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4050",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 SS8.7.1 Guiding Questions"
+  },
+  {
+   "units": "u4051",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 SS8.7.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4053-u4056",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics overview / inquiry topics and standards list (course title, narrative, topic outline)"
+  },
+  {
+   "units": "u4058",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4059-u4075",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4076",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.1.1 Guiding Questions"
+  },
+  {
+   "units": "u4077",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4079-u4099",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4100",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.1.2 Guiding Questions"
+  },
+  {
+   "units": "u4101",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4103-u4123",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4124",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.1.3 Guiding Questions"
+  },
+  {
+   "units": "u4125",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.1.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4127",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4128-u4146",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4147",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.2.1 Guiding Questions"
+  },
+  {
+   "units": "u4148",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4150-u4173",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4174",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.2.2 Guiding Questions"
+  },
+  {
+   "units": "u4175",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4177-u4199",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4200",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.2.3 Guiding Questions"
+  },
+  {
+   "units": "u4201",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4203-u4226",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4227",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.2.4 Guiding Questions"
+  },
+  {
+   "units": "u4228",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.2.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4230",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4231-u4252",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4253",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.3.1 Guiding Questions"
+  },
+  {
+   "units": "u4254",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4256-u4278",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4279",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.3.2 Guiding Questions"
+  },
+  {
+   "units": "u4280",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4282-u4301",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4302",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.3.3 Guiding Questions"
+  },
+  {
+   "units": "u4303",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4305-u4325",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4326",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.3.4 Guiding Questions"
+  },
+  {
+   "units": "u4327",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.3.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4329",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4330-u4350",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4351",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.4.1 Guiding Questions"
+  },
+  {
+   "units": "u4352",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4353-u4356",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.1 Learning Assessment Objectives (continuation fragment)"
+  },
+  {
+   "units": "u4358-u4377",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4378",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.4.2 Guiding Questions"
+  },
+  {
+   "units": "u4379",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4381-u4400",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4401",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.4.3 Guiding Questions"
+  },
+  {
+   "units": "u4402",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4404-u4423",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4424",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.4.4 Guiding Questions"
+  },
+  {
+   "units": "u4425",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4427-u4449",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4450",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.4.5 Guiding Questions"
+  },
+  {
+   "units": "u4451",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.4.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4453",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4454-u4475",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4476",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.5.1 Guiding Questions"
+  },
+  {
+   "units": "u4477",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4479-u4499",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4500",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.5.2 Guiding Questions"
+  },
+  {
+   "units": "u4501",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4503-u4522",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4523",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.5.3 Guiding Questions"
+  },
+  {
+   "units": "u4524",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4526-u4547",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4548",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.5.4 Guiding Questions"
+  },
+  {
+   "units": "u4549",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4551-u4574",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4575",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.5.5 Guiding Questions"
+  },
+  {
+   "units": "u4576",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.5.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4578",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4579-u4594",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4595",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.6.1 Guiding Questions"
+  },
+  {
+   "units": "u4596",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4598-u4613",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4614",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.6.2 Guiding Questions"
+  },
+  {
+   "units": "u4615",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4617-u4639",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4640",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.6.3 Guiding Questions"
+  },
+  {
+   "units": "u4641",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4643-u4665",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4666",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.6.4 Guiding Questions"
+  },
+  {
+   "units": "u4667",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.6.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4669",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4670-u4686",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4687",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.7.1 Guiding Questions"
+  },
+  {
+   "units": "u4688",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4690-u4712",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4713",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.7.2 Guiding Questions"
+  },
+  {
+   "units": "u4714",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4716-u4738",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4739",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.7.3 Guiding Questions"
+  },
+  {
+   "units": "u4740",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.7.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4742",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4743-u4763",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4764",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.8.1 Guiding Questions"
+  },
+  {
+   "units": "u4765",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4767-u4792",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4793",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.8.2 Guiding Questions"
+  },
+  {
+   "units": "u4794",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4796-u4812",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4813",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "HS Civics SSHS.CVC.8.3 Guiding Questions"
+  },
+  {
+   "units": "u4814",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "HS Civics SSHS.CVC.8.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4816-u4819",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I overview / inquiry topics and standards list (course title, narrative, topic outline)"
+  },
+  {
+   "units": "u4821",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4822-u4843",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4844",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.1.1 Guiding Questions"
+  },
+  {
+   "units": "u4845",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4847-u4869",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4870",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.1.2 Guiding Questions"
+  },
+  {
+   "units": "u4871",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4873-u4895",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4896",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.1.3 Guiding Questions"
+  },
+  {
+   "units": "u4897",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4899-u4924",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4925",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.1.5 Guiding Questions"
+  },
+  {
+   "units": "u4926",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.1.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4928",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u4929-u4952",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4953",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.2.1 Guiding Questions"
+  },
+  {
+   "units": "u4954",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4956-u4980",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u4981",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.2.2 Guiding Questions"
+  },
+  {
+   "units": "u4982",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u4984-u5007",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5008",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.2.3 Guiding Questions"
+  },
+  {
+   "units": "u5009",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5011-u5033",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5034",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.2.4 Guiding Questions"
+  },
+  {
+   "units": "u5035",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5037-u5061",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5062",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.2.5 Guiding Questions"
+  },
+  {
+   "units": "u5063",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.2.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5065",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5066-u5086",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5087",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.3.1 Guiding Questions"
+  },
+  {
+   "units": "u5088",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5090-u5113",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5114",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.3.2 Guiding Questions"
+  },
+  {
+   "units": "u5115",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5117-u5133",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5134",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.3.3 Guiding Questions"
+  },
+  {
+   "units": "u5135",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5137-u5159",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5160",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.3.4 Guiding Questions"
+  },
+  {
+   "units": "u5161",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5163-u5178",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5179",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.3.5 Guiding Questions"
+  },
+  {
+   "units": "u5180",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.3.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5182",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5183-u5206",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5207",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.4.1 Guiding Questions"
+  },
+  {
+   "units": "u5208",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5210-u5231",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5232",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.4.2 Guiding Questions"
+  },
+  {
+   "units": "u5233",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5235-u5256",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5257",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.4.3 Guiding Questions"
+  },
+  {
+   "units": "u5258",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5260-u5280",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5281",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.4.4 Guiding Questions"
+  },
+  {
+   "units": "u5282",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.4.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5284",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5285-u5305",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5306",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.1 Guiding Questions"
+  },
+  {
+   "units": "u5307",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5309-u5325",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5326",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.2 Guiding Questions"
+  },
+  {
+   "units": "u5327",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5329-u5345",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5346",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.3 Guiding Questions"
+  },
+  {
+   "units": "u5347",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5349-u5365",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5366",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.4 Guiding Questions"
+  },
+  {
+   "units": "u5367",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5369-u5391",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5392",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.5 Guiding Questions"
+  },
+  {
+   "units": "u5393",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5395-u5417",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5418",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.5.6 Guiding Questions"
+  },
+  {
+   "units": "u5419",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.5.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5421",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5422-u5441",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5442",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.6.1 Guiding Questions"
+  },
+  {
+   "units": "u5443",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5445-u5464",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5465",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.6.2 Guiding Questions"
+  },
+  {
+   "units": "u5466",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5468-u5488",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5489",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.6.3 Guiding Questions"
+  },
+  {
+   "units": "u5490",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5491-u5494",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.3 Learning Assessment Objectives (continuation fragment)"
+  },
+  {
+   "units": "u5496-u5515",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5516",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.6.4 Guiding Questions"
+  },
+  {
+   "units": "u5517",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5519-u5544",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5545",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.6.5 Guiding Questions"
+  },
+  {
+   "units": "u5546",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.6.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5548",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5549-u5572",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5573",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.1 Guiding Questions"
+  },
+  {
+   "units": "u5574",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5576-u5599",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5600",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.2 Guiding Questions"
+  },
+  {
+   "units": "u5601",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5603-u5624",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5625",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.3 Guiding Questions"
+  },
+  {
+   "units": "u5626",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5628-u5651",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5652",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.4 Guiding Questions"
+  },
+  {
+   "units": "u5653",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5655-u5676",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5677",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.5 Guiding Questions"
+  },
+  {
+   "units": "u5678",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5680-u5701",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5702",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.6 Guiding Questions"
+  },
+  {
+   "units": "u5703",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5705-u5725",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.7 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5726",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "examples",
+   "section": "HS US History I SSHS.USI.7.7 Guiding Questions"
+  },
+  {
+   "units": "u5727",
+   "grades": "9-12",
+   "course": "United States History I: Pre-European Contact to Reconstruction",
+   "cat": "standards",
+   "section": "HS US History I SSHS.USI.7.7 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5729-u5732",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II overview / inquiry topics and standards list (course title, narrative, topic outline)"
+  },
+  {
+   "units": "u5734",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5735-u5757",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5758",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.1 Guiding Questions"
+  },
+  {
+   "units": "u5759",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5761-u5785",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5786",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.2 Guiding Questions"
+  },
+  {
+   "units": "u5787",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5788-u5789",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.2 Learning Assessment Objectives (continuation fragment)"
+  },
+  {
+   "units": "u5791-u5813",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5814",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.3 Guiding Questions"
+  },
+  {
+   "units": "u5815",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5817-u5839",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5840",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.4 Guiding Questions"
+  },
+  {
+   "units": "u5841",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5843-u5861",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5862",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.5 Guiding Questions"
+  },
+  {
+   "units": "u5863",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5865-u5882",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5883",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.1.6 Guiding Questions"
+  },
+  {
+   "units": "u5884",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.1.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5886",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u5887-u5908",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5909",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.1 Guiding Questions"
+  },
+  {
+   "units": "u5910",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5912-u5934",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5935",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.2 Guiding Questions"
+  },
+  {
+   "units": "u5936",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5938-u5959",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5960",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.3 Guiding Questions"
+  },
+  {
+   "units": "u5961",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5963-u5984",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u5985",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.4 Guiding Questions"
+  },
+  {
+   "units": "u5986",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u5988-u6006",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6007",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.5 Guiding Questions"
+  },
+  {
+   "units": "u6008",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6010-u6034",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6035",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.2.6 Guiding Questions"
+  },
+  {
+   "units": "u6036",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.2.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6038",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6039-u6063",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6064",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.3.1 Guiding Questions"
+  },
+  {
+   "units": "u6065",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6067-u6092",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6093",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.3.2 Guiding Questions"
+  },
+  {
+   "units": "u6094",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6096-u6119",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6120",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.3.3 Guiding Questions"
+  },
+  {
+   "units": "u6121",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.3.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6123",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6124-u6148",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6149",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.4.1 Guiding Questions"
+  },
+  {
+   "units": "u6150",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6152-u6173",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6174",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.4.2 Guiding Questions"
+  },
+  {
+   "units": "u6175",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6177-u6199",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6200",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.4.3 Guiding Questions"
+  },
+  {
+   "units": "u6201",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6203-u6225",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6226",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.4.4 Guiding Questions"
+  },
+  {
+   "units": "u6227",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.4.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6229",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6230-u6253",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6254",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.5.1 Guiding Questions"
+  },
+  {
+   "units": "u6255",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6257-u6280",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6281",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.5.2 Guiding Questions"
+  },
+  {
+   "units": "u6282",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6284-u6307",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6308",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.5.3 Guiding Questions"
+  },
+  {
+   "units": "u6309",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6311-u6331",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6332",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.5.4 Guiding Questions"
+  },
+  {
+   "units": "u6333",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.5.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6335",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6336-u6359",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6360",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.6.1 Guiding Questions"
+  },
+  {
+   "units": "u6361",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6363-u6387",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6388",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.6.2 Guiding Questions"
+  },
+  {
+   "units": "u6389",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6391-u6413",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6414",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.6.3 Guiding Questions"
+  },
+  {
+   "units": "u6415",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.6.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6417",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6418-u6439",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6440",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.7.1 Guiding Questions"
+  },
+  {
+   "units": "u6441",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6443-u6464",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6465",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.7.2 Guiding Questions"
+  },
+  {
+   "units": "u6466",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6468-u6490",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6491",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.7.3 Guiding Questions"
+  },
+  {
+   "units": "u6492",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6494-u6517",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6518",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.7.4 Guiding Questions"
+  },
+  {
+   "units": "u6519",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6521-u6544",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6545",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.7.5 Guiding Questions"
+  },
+  {
+   "units": "u6546",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.7.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6548",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6549-u6570",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6571",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.8.1 Guiding Questions"
+  },
+  {
+   "units": "u6572",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6573-u6577",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.1 Learning Assessment Objectives (continuation fragment)"
+  },
+  {
+   "units": "u6579-u6600",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.10.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6601",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.10.3 Guiding Questions"
+  },
+  {
+   "units": "u6602",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.10.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6604-u6627",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6628",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.8.3 Guiding Questions"
+  },
+  {
+   "units": "u6629",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6630-u6634",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.3 Learning Assessment Objectives (continuation fragment)"
+  },
+  {
+   "units": "u6636-u6658",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6659",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "examples",
+   "section": "HS US History II SSHS.USII.8.4 Guiding Questions"
+  },
+  {
+   "units": "u6660",
+   "grades": "9-12",
+   "course": "United States History II: Late 19th Century to the Present",
+   "cat": "standards",
+   "section": "HS US History II SSHS.USII.8.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6662-u6665",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I overview / inquiry topics and standards list (course title, narrative, topic outline)"
+  },
+  {
+   "units": "u6667",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6668-u6684",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6685",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.1.1 Guiding Questions"
+  },
+  {
+   "units": "u6686",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6688-u6710",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6711",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.1.2 Guiding Questions"
+  },
+  {
+   "units": "u6712",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6714-u6743",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6744",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.1.3 Guiding Questions"
+  },
+  {
+   "units": "u6745",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6747-u6774",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6775",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.1.4 Guiding Questions"
+  },
+  {
+   "units": "u6776",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.1.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6778",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6779-u6804",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6805",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.1 Guiding Questions"
+  },
+  {
+   "units": "u6806",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6808-u6830",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6831",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.2 Guiding Questions"
+  },
+  {
+   "units": "u6832",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6834-u6858",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6859",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.3 Guiding Questions"
+  },
+  {
+   "units": "u6860",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6862-u6887",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6888",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.4 Guiding Questions"
+  },
+  {
+   "units": "u6889",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6891-u6912",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6913",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.5 Guiding Questions"
+  },
+  {
+   "units": "u6914",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6916-u6939",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6940",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.6 Guiding Questions"
+  },
+  {
+   "units": "u6941",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6943-u6967",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.7 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6968",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.2.7 Guiding Questions"
+  },
+  {
+   "units": "u6969",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.2.7 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6971",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u6972-u6995",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u6996",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.1 Guiding Questions"
+  },
+  {
+   "units": "u6997",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u6999-u7022",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHSWHI.3.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7023",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHSWHI.3.2 Guiding Questions"
+  },
+  {
+   "units": "u7024",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHSWHI.3.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7026-u7046",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7047",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.3 Guiding Questions"
+  },
+  {
+   "units": "u7048",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.3 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7050-u7073",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.4 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7074",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.4 Guiding Questions"
+  },
+  {
+   "units": "u7075",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.4 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7077-u7100",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.5 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7101",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.5 Guiding Questions"
+  },
+  {
+   "units": "u7102",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.5 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7104-u7125",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.6 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7126",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.6 Guiding Questions"
+  },
+  {
+   "units": "u7127",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.6 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7129-u7152",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.7 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7153",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.3.7 Guiding Questions"
+  },
+  {
+   "units": "u7154",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.3.7 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7156",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I inquiry topic heading with compelling question"
+  },
+  {
+   "units": "u7157-u7179",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.1 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7180",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.4.1 Guiding Questions"
+  },
+  {
+   "units": "u7181",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.1 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7183-u7205",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.2 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7206",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.4.2 Guiding Questions"
+  },
+  {
+   "units": "u7207",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.2 Learning Assessment Objectives"
+  },
+  {
+   "units": "u7209-u7234",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.3 standard statement, anchor-standard connections table"
+  },
+  {
+   "units": "u7235",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "examples",
+   "section": "HS World History I SSHS.WHI.4.3 Guiding Questions"
+  },
+  {
+   "units": "u7236",
+   "grades": "9-12",
+   "course": "World History I: Ancient to Medieval",
+   "cat": "standards",
+   "section": "HS World History I SSHS.WHI.4.3 Learning Assessment Objectives"
+  }
+ ],
+ "issues": [
+  "u3457-u3552: Grade 7 (SS7.6.2-SS7.7.2) assigned grade 7 from the SS7 codes; the Grade 7 heading itself is before this range.",
+  "Anchor-standard connection cells (CG.P ... E.EG) and X marks are interleaved with the standard title/statement text across many units and cannot be separated from them; they are labeled standards together with the standard statement (they are a cross-reference table, not content).",
+  "Standard title and statement text is split across multiple units and interleaved with anchor-code cells (e.g. u3506-u3523, u4079-u4099); no reading order repair possible, all labeled standards by section.",
+  "Learning Assessment Objectives (LAO) blocks labeled standards (detailed performance expectations of the standard with e.g. lists); Guiding Questions for Instruction labeled examples. If LAO should be treated as examples/support, relabel every unit whose text starts 'Learning Assessment Objectives' (and the T2 continuations u5491-u5494, u5788-u5789, u6573-u6577).",
+  "u3553, u4053, u4816, u5729, u6662: grade/course title plus narrative of what students study are in one unit; labeled standards (title/theme) though narrative portion would be examples under the clarification.",
+  "u3554, u3556, u4054, u4056, u4817, u4819, u5730, u5732, u6663, u6665: outline of inquiry topics, compelling questions and standard codes/titles for the grade/course in single large units mixing standard titles with compelling questions; labeled standards.",
+  "u3505 and u3915: standalone 'Compelling question' unit labeled examples; compelling questions in headings that also carry the Inquiry Topic title (e.g. u3503, u3558, u3623) labeled standards because units are not split.",
+  "u4353-u4356, u6630-u6634: [T2] overflow of Guiding Questions bullet text from previous page cell (examples). u5491-u5494, u5788-u5789, u6573-u6577: [T2] overflow of LAO text, duplicating text already in the preceding LAO unit (standards).",
+  "u3553 states 'Grade 8 - Government and Civic Life in the United States and Rhode Island'; u3554 lists 'Inquiry Topic 3: ... Federal Government' heading as 'Institutions of the United States Government' (minor title variation vs u3680).",
+  "u4899-u4926: code printed as SSHS.USI.1.5 (The emergence of the trans-Atlantic slave trade) while the overview (u4817) lists it as SSHS.USI.1.4; no USI.1.4 table exists. Labeled USI history I, same topic.",
+  "u6579-u6602: code printed as SSHS.USII.10.3 (September 11 attacks) though overview (u5732) lists SSHS.USII.8.2. u6573-u6577 fragment sits under USII.8.1; typo in source.",
+  "u6999: code printed SSHSWHI.3.2 (missing period); u6999-u7024 Greek city-states.",
+  "u7237 does not exist in the view; range ends with u7236 (last unit of SSHS.WHI.4.3). SSHS.WHI.4.4 starts at u7238 (next part).",
+  "State guide row clusters list HS courses as Civics, US History I/II, World History I/II; this part contains Civics, US History I, US History II, World History I (partial). Course strings used: 'Civics', 'United States History I: Pre-European Contact to Reconstruction', 'United States History II: Late 19th Century to the Present', 'World History I: Ancient to Medieval' (from the course headings)."
+ ]
+}

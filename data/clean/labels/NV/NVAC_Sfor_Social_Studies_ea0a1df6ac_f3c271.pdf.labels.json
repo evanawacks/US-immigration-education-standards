@@ -1,0 +1,248 @@
+{
+ "state": "NV",
+ "file": "NVAC_Sfor_Social_Studies_ea0a1df6ac_f3c271.pdf",
+ "structure": "Nevada Academic Content Standards for Social Studies (rev. Sept 2018). Front matter (cover, credits, contents, C3 introduction, 'Reading the Standards', color coding, disciplinary skills list, content themes table) then grade/course sections. K-5 are one section per grade; 6-8 and 9-12 are banded and organized by content area (course). Each section opens with a title + overview paragraph, then a 'Disciplinary Skills' table (rows: Constructing compelling questions, Creating supporting questions, Gathering and evaluating sources, Developing claims and using evidence, Communicating and critiquing conclusions, Taking informed action; C1 skill name, C4 standards) followed by one or more 'Content Themes' tables (C1/C2 theme name with discipline code H/MC/C/G/E/FL, C4 standards). Standard codes: SS.<grade>.<n> for K-5 (SS.K.1), SS.6-8.<course>.<n> (EWC, WGGS, EUSH, FL) and SS.9-12.<course>.<n> (WH, US, CE, FL); numbering continues from skills into content themes. Theme names are split across many one-line rows in C2 (extraction artifact); the standard text is in C4 of the first row of the group. Overview narratives and suggested topics are labeled examples; no separate examples sections otherwise. References at the end.",
+ "labels": [
+  {
+   "units": "u1-u43",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, agency credits, acknowledgements, table of contents, introduction, how to read"
+  },
+  {
+   "units": "u45-u112",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Color coding, disciplinary skills overview, content themes overview table"
+  },
+  {
+   "units": "u114",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Building Community - grade overview narrative"
+  },
+  {
+   "units": "u115-u167",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Disciplinary Skills (SS.K.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u169",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: The Community We Live In & the Work We Do - grade overview narrative"
+  },
+  {
+   "units": "u170-u227",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Disciplinary Skills (SS.1.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u229",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Our National Identity & Culture - grade overview narrative"
+  },
+  {
+   "units": "u230-u290",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Disciplinary Skills (SS.2.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u292",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Movement Around Our World - grade overview narrative"
+  },
+  {
+   "units": "u293-u372",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Disciplinary Skills (SS.3.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u374",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Nevada: Past & Present - grade overview narrative"
+  },
+  {
+   "units": "u375-u455",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Disciplinary Skills (SS.4.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u457",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: The U.S. - Creating a New Nation - grade overview narrative"
+  },
+  {
+   "units": "u458-u545",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Disciplinary Skills (SS.5.n) and Content Themes (H, MC, C, G, E, FL)"
+  },
+  {
+   "units": "u547",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 band introduction"
+  },
+  {
+   "units": "u548",
+   "grades": "6-8",
+   "course": "Early World Civilizations",
+   "cat": "examples",
+   "section": "Early World Civilizations - content area overview / suggested topics"
+  },
+  {
+   "units": "u549-u626",
+   "grades": "6-8",
+   "course": "Early World Civilizations",
+   "cat": "standards",
+   "section": "Early World Civilizations - Disciplinary Skills and Content Themes (SS.6-8.EWC)"
+  },
+  {
+   "units": "u628-u630",
+   "grades": "6-8",
+   "course": "World Geography & Global Studies",
+   "cat": "examples",
+   "section": "World Geography & Global Studies - content area overview / suggested topics"
+  },
+  {
+   "units": "u631-u712",
+   "grades": "6-8",
+   "course": "World Geography & Global Studies",
+   "cat": "standards",
+   "section": "World Geography & Global Studies - Disciplinary Skills and Content Themes (SS.6-8.WGGS)"
+  },
+  {
+   "units": "u713-u716",
+   "grades": "6-8",
+   "course": "Early U.S. History & Civic Ideals",
+   "cat": "examples",
+   "section": "Early U.S. History & Civic Ideals - content area overview / suggested topics"
+  },
+  {
+   "units": "u718-u796",
+   "grades": "6-8",
+   "course": "Early U.S. History & Civic Ideals",
+   "cat": "standards",
+   "section": "Early U.S. History & Civic Ideals - Disciplinary Skills and Content Themes (SS.6-8.EUSH)"
+  },
+  {
+   "units": "u798",
+   "grades": "6-8",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy - content area overview / suggested topics"
+  },
+  {
+   "units": "u799-u818",
+   "grades": "6-8",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy - Disciplinary Skills and Content Themes (SS.6-8.FL)"
+  },
+  {
+   "units": "u819",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 9-12 band introduction"
+  },
+  {
+   "units": "u820-u822",
+   "grades": "9-12",
+   "course": "World History & Geography (1300-Present)",
+   "cat": "examples",
+   "section": "World History & Geography (1300-Present) - content area overview / suggested topics"
+  },
+  {
+   "units": "u824-u905",
+   "grades": "9-12",
+   "course": "World History & Geography (1300-Present)",
+   "cat": "standards",
+   "section": "World History & Geography (1300-Present) - Disciplinary Skills and Content Themes (SS.9-12.WH)"
+  },
+  {
+   "units": "u906-u908",
+   "grades": "9-12",
+   "course": "U.S. History (1877-Present)",
+   "cat": "examples",
+   "section": "U.S. History (1877-Present) - content area overview / suggested topics"
+  },
+  {
+   "units": "u910-u989",
+   "grades": "9-12",
+   "course": "U.S. History (1877-Present)",
+   "cat": "standards",
+   "section": "U.S. History (1877-Present) - Disciplinary Skills and Content Themes (SS.9-12.US)"
+  },
+  {
+   "units": "u991-u993",
+   "grades": "9-12",
+   "course": "Civics & Economics",
+   "cat": "examples",
+   "section": "Civics & Economics - content area overview / suggested topics"
+  },
+  {
+   "units": "u995-u1083",
+   "grades": "9-12",
+   "course": "Civics & Economics",
+   "cat": "standards",
+   "section": "Civics & Economics - Disciplinary Skills and Content Themes (SS.9-12.CE)"
+  },
+  {
+   "units": "u1084",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "examples",
+   "section": "Financial Literacy - content area overview / suggested topics"
+  },
+  {
+   "units": "u1085-u1101",
+   "grades": "9-12",
+   "course": "Financial Literacy",
+   "cat": "standards",
+   "section": "Financial Literacy - Disciplinary Skills and Content Themes (SS.9-12.FL)"
+  },
+  {
+   "units": "u1102-u1104",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References"
+  }
+ ],
+ "issues": [
+  "Grade/course overview paragraphs (u114,u169,u229,u292,u374,u457,u548,u628-u630,u713-u716,u798,u820-u822,u906-u908,u991-u993,u1084) combine the title with an overview narrative and (for courses) suggested topics; labeled examples per guide (course focus narrative) even though the title is embedded; the title also repeats in each Content Themes table header (standards).",
+  "u547 and u819 are band introductions (districts decide course length/order); labeled backup for grades 6-8 / 9-12.",
+  "Theme names in C1/C2 are fragmented across many rows (e.g. u68-u112 overview table, u132-u164 etc.); kept with the standards of the same table and never separated from them.",
+  "u62-u112: Content themes overview table is badly garbled by columns (C1-C15); labeled backup as an overview, not standards.",
+  "u554: code typed 'SS.6.8.EWC.3' and u1096 'SS.912.FL.7' in source (typos); u620 'SS.6-8.EWC.30' lacks a period.",
+  "Grades 6-8 courses (EWC, WGGS, EUSH, FL) are taught across 6-8 in any order; no grade-by-grade assignment, so grades '6-8' with course names. 9-12 likewise; Financial Literacy appears as a course in both bands with the same course string but different grades.",
+  "Disciplinary Skills rows are repeated for each grade/course with grade-specific codes; labeled with that grade or course only, not as K-12 shared skills.",
+  "Missing unit numbers (e.g. u3, u11, u44, u113, u129) are furniture."
+ ]
+}

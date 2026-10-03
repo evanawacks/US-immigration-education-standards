@@ -705,10 +705,19 @@
  },
  "PA": {
   "clusters": [
-   "K-3",
-   "4-6",
-   "7-9",
-   "10-12"
+   "K",
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12"
   ],
   "files": {
    "arts_456012.pdf": "skip: not social studies standards",
@@ -721,7 +730,9 @@
    "pennsylvania_technology_and_engineering_standards_-_grades_6-12_a7e0c9.pdf": "skip: not social studies standards",
    "personal_finance_standards_d1e49c.pdf": "use"
   },
-  "issues": []
+  "issues": [
+   "PA writes standards for grade bands that differ by subject (Civics/History/Geography: end of grades 3, 6, 9, 12 -> K-3, 4-6, 7-9, 10-12; Economics and Personal Finance: K-2, 3-5, 6-8, 9-12). Rows are single grades; each band's text is copied into every grade it covers."
+  ]
  },
  "RI": {
   "clusters": [

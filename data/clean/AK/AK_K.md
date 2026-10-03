@@ -64,7 +64,6 @@ By the end of K: SS.K.2.6.1 Explain and provide examples of important roles of s
 SS.K‐2.6.3 Explain the need for and purposes of rules in various settings inside and outside of school.
 By the end of K: SS.K.3.6.1 Identify rules for different settings.
 Civics Anchor
-SS.K‐2.6.3 Explain the need for and purposes of rules in various settings inside and outside of school.
 Standard 6
 Civic and Political
 Institutions and
@@ -75,14 +74,12 @@ SS.K‐2.6.5 Describe how communities work to accomplish common tasks, establish
 By the end of K: SS.K.5.6.1 Participate in a discussion of how communities work to accomplish common tasks.
 Civics Anchor
 SS.K‐2.7.1 Apply civic virtues when participating in school settings.
-By the end of K: [standard not addressed at this grade]
 Standard 7
 Participation and
 Deliberation
 SS.K‐2.7.2 Describe democratic principles such as equality, fairness, and respect for authority and rules.
 By the end of K: SS.K.2.7.1 Demonstrate respect for people in the school community.
 Civics Anchor
-SS.K‐2.7.2 Describe democratic principles such as equality, fairness, and respect for authority and rules.
 Standard 7
 Participation and
 Deliberation
@@ -97,14 +94,12 @@ Standard 8
 Processes, Rules, and
 Laws
 Civics Anchor
-SS.K‐2.8.1 Explain how people can work together to make decisions in the classroom.
 Standard 8
 Processes, Rules, and
 Laws
 SS.K‐2.8.2 Identify and explain how rules function in public (classroom and school) settings.
 By the end of K: SS.K.2.8.1 Evaluate consequences of following or not following rules.
 SS.K‐2.8.3 Describe how people have tried to improve their communities over time.
-By the end of K: [standard not addressed at this grade]
 Civics Anchor
 SS.K‐2.9.1 Describe local and state symbols.
 By the end of K: SS.K.1.9.1 Identify symbols used at home and school.
@@ -112,15 +107,12 @@ Standard 9
 Alaska’s
 Governments
 SS.K‐2.9.2 Identify and explain the roles of Alaska’s government systems.
-By the end of K: [standard not addressed at this grade]
 Civics Anchor
-SS.K‐2.9.2 Identify and explain the roles of Alaska’s government systems.
 Standard 9
 Alaska’s
 Governments
 Civics Anchor
 SS.K‐2.10.1 Explain and participate in the rights and responsibilities of citizens.
-By the end of K: [standard not addressed at this grade]
 Standard 10
 Rights, Roles, and
 Responsibilities of
@@ -139,17 +131,14 @@ Standard 11
 Economic Systems,
 Models, and Markets
 SS.K‐2.11.3 Identify prices of products in a local market.
-By the end of K: [standard not addressed at this grade]
 SS.K‐2.11.4 Explain how people earn income.
 By the end of K: SS.K.4.11.1 Participate in discussions about how people work to support their families.
 Economics Anchor
 SS.K‐2.11.5 Describe examples of costs of production.
-By the end of K: [standard not addressed at this grade]
 Standard 11
 Economic Systems,
 Models, and Markets
 SS.K‐2.11.6 Describe the role of banks in an economy.
-By the end of K: [standard not addressed at this grade]
 Economics Anchor
 SS.K‐2.12.1 Explain how scarcity necessitates decision‐making.
 By the end of K: SS.K.1.12.1 With support, explain the difference between needs and wants.
@@ -168,10 +157,8 @@ By the end of K: SS.K.1.13.1 With support, explain why people save and provide e
 Standard 13
 The National Economy
 SS.K‐2.13.2 Describe examples of the goods and services that governments provide.
-By the end of K: [standard not addressed at this grade]
 Economics Anchor
 SS.K‐2.13.3 Describe examples of capital goods and human capital.
-By the end of K: [standard not addressed at this grade]
 Standard 13
 The National Economy
 Economics Anchor
@@ -180,7 +167,6 @@ By the end of K: SS.K.1.14.1 Describe goods that are produced in the local geogr
 Standard 14
 The Global Economy
 SS.K‐2.14.2 Describe products that are produced abroad and sold domestically and products that are produced domestically and sold abroad.
-By the end of K: [standard not addressed at this grade]
 Economics Anchor
 SS.K‐2.15.1 Explain different economic systems used by groups of Alaskans locally across time.
 By the end of K: SS.K.1.15.1 Demonstrate how sharing and bartering are basic economic systems.
@@ -196,9 +182,7 @@ Environment
 Interaction: Place,
 Regions, and Culture
 SS.K‐2.16.2 Describe how human activities affect the cultural and environmental characteristics of places or regions.
-By the end of K: [standard not addressed at this grade]
 Geography Anchor
-SS.K‐2.16.2 Describe how human activities affect the cultural and environmental characteristics of places or regions.
 Standard 16 Human‐
 Environment
 Interaction: Place,
@@ -238,7 +222,6 @@ Geographic
 Representations and
 Reasoning
 SS.K‐2.18.3 Use maps, globes, and other simple geographic models to identify cultural and environmental characteristics of places.
-By the end of K: [standard not addressed at this grade]
 Geography Anchor
 SS.K‐2.19.1 Explain why and how people, goods, and ideas move from place to place.
 By the end of K: SS.K.1.19.1 With support, discuss how and why goods travel to the local community.
@@ -247,7 +230,6 @@ Human Population:
 Spatial Patterns and
 Movements
 Geography Anchor
-SS.K‐2.19.1 Explain why and how people, goods, and ideas move from place to place.
 Standard 19
 Human Population:
 Spatial Patterns and
@@ -270,7 +252,6 @@ Perspectives
 SS.K‐2.21.2 Compare different accounts of the same historical event.
 By the end of K: SS.K.2.21.1 Describe an event from the student’s own perspective.
 History Anchor
-SS.K‐2.21.2 Compare different accounts of the same historical event.
 Standard 21
 Perspectives
 History Anchor
@@ -280,7 +261,6 @@ Standard 22
 Historical Sources and
 Evidence
 SS.K‐2.22.2 Explain how historical sources can be used to study the past.
-By the end of K: [standard not addressed at this grade]
 SS.K‐2.22.3 Generate questions about a particular historical source as it relates to a particular historical event or development.
 By the end of K: SS.K.3.22.1 With support, engage with historical sources.
 History Anchor
@@ -327,147 +307,126 @@ demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 Anchor Standard
 The student
 demonstrates an
 Leveled Content Standard
 understanding of...
 Grade-Band Standard
-Therefore, the student is able to...
 
 ## Issues
 

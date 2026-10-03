@@ -1,0 +1,312 @@
+{
+ "state": "DE",
+ "file": "DE-K-12-History-Standards-2018.docx",
+ "structure": "Short Word document with four History Anchor Standards. Each: an 'Anchor Standard N' statement line with bracketed theme, a rationale paragraph, the line 'The complexity of the standard will increase at each succeeding grade cluster:', then cluster standards coded K-3a/b, 4-5a/b, 6-8a/b, 9-12a/b (grade clusters only, not individual grades). Some cluster standards are followed by '--' bullet lines listing content topics (part of the standard). No courses, no front matter, no separate examples.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard One statement"
+  },
+  {
+   "units": "u2",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History Anchor Standard One rationale narrative"
+  },
+  {
+   "units": "u3",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "History Anchor Standard One note on increasing complexity"
+  },
+  {
+   "units": "u4",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard One K-3a"
+  },
+  {
+   "units": "u5",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard One 4-5a"
+  },
+  {
+   "units": "u6",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard One 6-8a"
+  },
+  {
+   "units": "u7",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard One 9-12a"
+  },
+  {
+   "units": "u8",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two statement"
+  },
+  {
+   "units": "u9",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History Anchor Standard Two rationale narrative"
+  },
+  {
+   "units": "u10",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "History Anchor Standard Two note on increasing complexity"
+  },
+  {
+   "units": "u11",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two K-3a"
+  },
+  {
+   "units": "u12",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 4-5a"
+  },
+  {
+   "units": "u13",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 4-5b"
+  },
+  {
+   "units": "u14",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 6-8a"
+  },
+  {
+   "units": "u15",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 6-8b"
+  },
+  {
+   "units": "u16",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 9-12a"
+  },
+  {
+   "units": "u17",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Two 9-12b"
+  },
+  {
+   "units": "u18",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Three statement"
+  },
+  {
+   "units": "u19",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History Anchor Standard Three rationale narrative"
+  },
+  {
+   "units": "u20",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "History Anchor Standard Three note on increasing complexity"
+  },
+  {
+   "units": "u21",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Three K-3a"
+  },
+  {
+   "units": "u22",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Three 4-5a"
+  },
+  {
+   "units": "u23",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Three 6-8a"
+  },
+  {
+   "units": "u24",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Three 9-12a"
+  },
+  {
+   "units": "u25",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four statement"
+  },
+  {
+   "units": "u26",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History Anchor Standard Four rationale narrative"
+  },
+  {
+   "units": "u27",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "History Anchor Standard Four note on increasing complexity"
+  },
+  {
+   "units": "u28",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four K-3a"
+  },
+  {
+   "units": "u29-u30",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four K-3 content list"
+  },
+  {
+   "units": "u31",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four K-3b"
+  },
+  {
+   "units": "u32-u34",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four K-3 content list"
+  },
+  {
+   "units": "u35",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 4-5a"
+  },
+  {
+   "units": "u36-u40",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 4-5 content list"
+  },
+  {
+   "units": "u41",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 4-5b"
+  },
+  {
+   "units": "u42-u45",
+   "grades": "4-5",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 4-5 content list"
+  },
+  {
+   "units": "u46",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 6-8a"
+  },
+  {
+   "units": "u47-u51",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 6-8 content list"
+  },
+  {
+   "units": "u52",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 6-8b"
+  },
+  {
+   "units": "u53-u57",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 6-8 content list"
+  },
+  {
+   "units": "u58",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 9-12a"
+  },
+  {
+   "units": "u59-u64",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 9-12 content list"
+  },
+  {
+   "units": "u65",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 9-12b"
+  },
+  {
+   "units": "u66-u69",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History Anchor Standard Four 9-12 content list"
+  }
+ ],
+ "issues": [
+  "u57, u66: topic \"Intensified hemispheric interactions (1,000-1,500 AD)\" appears in both 6-8b and 9-12b lists (source duplication); u59 Civil War and Reconstruction appears in both 6-8a (u51) and 9-12a, also source duplication.",
+  "Rationale narrative paragraphs labeled examples (K-12); the \"complexity will increase\" line labeled backup. Anchor-statement lines labeled standards K-12 as they apply to all clusters."
+ ]
+}

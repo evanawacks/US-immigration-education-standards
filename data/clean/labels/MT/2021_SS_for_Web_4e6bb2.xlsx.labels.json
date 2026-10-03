@@ -1,0 +1,182 @@
+{
+ "state": "MT",
+ "file": "2021_SS_for_Web_4e6bb2.xlsx",
+ "structure": "Montana Content Standards for Social Studies (2021), Excel workbook rendered as units [R# rows], one standard per row. Sheets: Intro (adoption notes), K-12 Complete (New Rules I-IX in one sheet: Rule I = content areas and skills; II=K, III=Grade 1, IV=Grade 2, V=Grade 3, VI=Grade 4, VII=Grade 5, VIII=Grades 6-8, IX=Grades 9-12), K-12 Content and Skills (Rule I only), then one sheet per grade band (Kindergarten, First Grade, Second Grade, Third Grade, Fourth Grade, Fifth Grade, 6-8 Grades, 9-12 Grades). Within each grade: four numbered content areas (1) civics and government, (2) economics, (3) geography, (4) history, each a lead-in row followed by lettered standards (a), (b)... Rule headings give the grade. No separate examples or teacher notes.",
+ "labels": [
+  {
+   "units": "u1-u8",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Intro sheet: adoption and implementation notes"
+  },
+  {
+   "units": "u9",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Sheet marker: K-12 Complete"
+  },
+  {
+   "units": "u10-u15",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule I, content areas"
+  },
+  {
+   "units": "u16-u22",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule I, skills (develop questions ... take informed action)"
+  },
+  {
+   "units": "u23-u32",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule II, Kindergarten"
+  },
+  {
+   "units": "u33-u45",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule III, Grade 1"
+  },
+  {
+   "units": "u46-u60",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule IV, Grade 2"
+  },
+  {
+   "units": "u61-u76",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule V, Grade 3"
+  },
+  {
+   "units": "u77-u98",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule VI, Grade 4"
+  },
+  {
+   "units": "u99-u122",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule VII, Grade 5"
+  },
+  {
+   "units": "u123-u156",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule VIII, Grades 6-8"
+  },
+  {
+   "units": "u157-u204",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "K-12 Complete: New Rule IX, Grades 9-12"
+  },
+  {
+   "units": "u205",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Sheet marker: K-12 Content and Skills"
+  },
+  {
+   "units": "u206-u211",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Content and Skills: content areas"
+  },
+  {
+   "units": "u212-u218",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Content and Skills: skills"
+  },
+  {
+   "units": "u219",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Sheet marker: Kindergarten"
+  },
+  {
+   "units": "u220-u229",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten sheet"
+  },
+  {
+   "units": "u230-u243",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade sheet"
+  },
+  {
+   "units": "u244-u259",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade sheet"
+  },
+  {
+   "units": "u260-u276",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade sheet"
+  },
+  {
+   "units": "u277-u299",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade sheet"
+  },
+  {
+   "units": "u300-u324",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade sheet"
+  },
+  {
+   "units": "u325-u359",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 Grades sheet"
+  },
+  {
+   "units": "u360-u408",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "9-12 Grades sheet"
+  }
+ ],
+ "issues": [
+  "u10-u204 (K-12 Complete sheet) duplicates the content of the individual grade sheets u206-u408 verbatim; both labelled standards with the same grades so the assembler may see duplicated text.",
+  "u206-u218 (K-12 Content and Skills sheet) repeats Rule I content areas and inquiry skills; labelled K-12 standards (skills apply to every grade).",
+  "Sheet marker units u1, u9, u205, u219, u230, u244, u260, u277, u300, u325, u360 are \"SHEET: ...\" labels; labelled with their sheet grade (u1, u9, u205 backup/all).",
+  "Third grade sheet heading u261 retains \"NEW RULE V\" prefix while other grade sheets do not; no grade conflict.",
+  "Reviewer: 'K-12 Complete' sheet (u10-u204) duplicates the per-grade sheets and the K-12 Content and Skills sheet; moved to backup to avoid double-counting."
+ ]
+}

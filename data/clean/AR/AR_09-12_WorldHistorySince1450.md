@@ -49,7 +49,6 @@ H.6.WH.6 Evaluate ways in which globalization and the scarcity of resources cont
 H.6.WH.7 Analyze complex and interacting factors that influenced the perspectives of people, including the Enlightenment and Age of Reason, Protestant Reformation, the Renaissance, rise of the humanities, and Scientific Revolution.
 H.6.WH.8 Analyze ways in which current interpretations of the past are limited by the extent to which available historical sources represent the perspectives of people at the time.
 H.6.WH.9 Construct historical arguments or explanations about significant transformations and innovations of the first global age utilizing evidence from a variety of primary and secondary sources.
-H.6 Students will understand key historical periods from the Emergence of the First Global Age, 1450-1770 (World Era 6) to the Twentieth Century Since 1945 (World Era 9). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of nations and cultures of the world.
 World Era 7: 1750-1900, Age of Revolutions - Global revolutionary changes that shaped the emerging modern world
 H.6.WH.10 Evaluate the development, expansion, and effects of industrialization in Europe, Asia, Africa, and the Americas.
 H.6.WH.11 Analyze the social, economic, and political ideas, including self-determination, liberty, and human rights, that influenced the 18th and 19th-century revolutions.
@@ -59,7 +58,6 @@ H.6.WH.14 Compare the social and economic impact of different labor systems in t
 H.6.WH.15 Analyze the causes and effects of European imperialism and new patterns of colonization in Asia, Africa, and Latin America in the 19th century, including the impact of advancements in medicine, weaponry, and technology.
 H.6.WH.16 Analyze ways in which the perspectives of people in the present shape interpretations of the past, using available technology.
 H.6.WH.17 Construct historical arguments or explanations about global changes caused directly or indirectly by economic and political revolutions, using primary and secondary sources.
-H.6 Students will understand key historical periods from the Emergence of the first Global Age, 1450-1770 (World Era 6) to the Twentieth Century Since 1945 (World Era 9). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of nations and cultures of the world.
 World Era 8: 1900-1945, Crisis and Achievement - Reasons for and consequences of early 20th century crises and achievements
 H.6.WH.18 Compare the complex causes of revolutions worldwide in various regions such as Eastern Europe, Russia, Northern Africa, Southern Africa, China, Vietnam, India, South America, and Central America.
 H.6.WH.19 Examine the outcomes of social, economic, and political transformations in the West, Africa, Asia, Middle East, and Latin America.
@@ -72,7 +70,6 @@ H.6.WH.25 Analyze the changes in cultural and social life due to artistic and li
 H.6.WH.26 Use academically appropriate sources to answer student-generated compelling and supporting questions about major conflicts in the early 20th century.
 H.6.WH.27 Analyze ways in which the perspectives of people in the present shape interpretations of the past using multiple sources and available data and technology.
 H.6.WH.28 Construct explanations about early to mid-20th-century events using multiple sources and available data and technology.
-H.6 Students will understand key historical periods from the Emergence of the First Global Age, 1450-1770 (World Era 6), to the Twentieth Century Since 1945 (World Era 9). This includes the patterns of social, economic, and political change over time and the ways people view, construct, and interpret the history of nations and cultures of the world.
 World Era 9: Since 1945, Contemporary World - Challenges and accomplishments of the contemporary world
 H.6.WH.29 Analyze the change and continuity in global power after World War II, including the growing rivalry between Communist and democratic governments in various regions:
 ● Africa ● The Americas ● Asia ● Europe ● Middle East

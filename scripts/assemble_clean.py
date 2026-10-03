@@ -74,11 +74,12 @@ def assemble_state(st, cfg, names):
         labels = d.get("labels", [])
         doc_grades = frozenset().union(*[gset(l["grades"]) for l in labels if str(l["grades"]) != "all"]) if labels else frozenset()
         # course rows of this document
-        course_rows = {}
+        course_rows = {}   # (title, grades) -> grades
         for l in labels:
             if l.get("course"):
                 t = l["course"].strip()
-                course_rows.setdefault(t, set()).update(gset(l["grades"]) if str(l["grades"]) != "all" else doc_grades)
+                G = gset(l["grades"]) if str(l["grades"]) != "all" else doc_grades
+                course_rows[(t, G)] = G
         assigned = {}
         for l in labels:
             for x in parse_units(l["units"]):
@@ -94,9 +95,10 @@ def assemble_state(st, cfg, names):
             for i, C in enumerate(clusters):
                 if G & C: specific.add(i)
         single_course = len(course_rows) == 1 and not specific
-        def course_row(t):
+        def course_row(key):
+            t, G = key
             std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
-            return row(("C", t), frozenset(course_rows[t]), std, t)
+            return row(("C", t, G), G, std, t)
         touched = set()
         for uid in sorted(units):
             u = units[uid]
@@ -109,15 +111,15 @@ def assemble_state(st, cfg, names):
             G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
             targets = []
             if l.get("course"):
-                targets.append(course_row(l["course"].strip()))
+                targets.append(course_row((l["course"].strip(), G)))
             elif cat == "backup" and (str(l["grades"]) == "all" or G >= doc_grades):
                 targets.append(course_row(next(iter(course_rows))) if single_course else allrow)
             else:
-                for t, S in course_rows.items():
-                    if G >= frozenset(S): targets.append(course_row(t))
+                for k, S in course_rows.items():
+                    if G >= S: targets.append(course_row(k))
                 for i, C in enumerate(clusters):
                     if not (G & C): continue
-                    if course_rows and i not in specific: continue
+                    if len({t for t, _ in course_rows}) == 1 and i not in specific: continue
                     targets.append(row(("G", C), C))
                     if not (G >= C or C >= G):
                         state_issues.append(f"{fname}: u{uid} grades {l['grades']} only partly overlap row cluster {gtoken(C)}")
@@ -150,7 +152,13 @@ def assemble_state(st, cfg, names):
         else:
             gl = glist(r["grades"]); rid = f"{st}_{gtoken(r['grades'])}"
             if r["course"]: rid += "_" + slug(r["course"])
-        join = lambda items: "\n".join(t for _, _, t in items)
+        def join(items):
+            seen, out = set(), []
+            for _, _, t in items:
+                k = " ".join(t.split()).lower()
+                if len(k) > 25 and k in seen: continue   # drop exact repeats (sidebars, repeated headers)
+                seen.add(k); out.append(t)
+            return "\n".join(out)
         out.append({"id": rid, "state": st, "grade": gl, "course": r["course"] or "", "course_title": r["course_title"] or "",
                     "body_standards": join(r["standards"]), "body_examples": join(r["examples"]), "backup": join(r["backup"]),
                     "source_files": "; ".join(r["files"]), "issues": "\n".join(dict.fromkeys(r["issues"]))})

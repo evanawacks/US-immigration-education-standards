@@ -126,7 +126,6 @@ History Anchor Standard 23
 Change, Continuity, and
 Context
 Effects of Global Exploration
-History Anchor Standard 23
 • SS.WH.2.23.2 Analyze the political and economic impacts of European expeditions in the 15th and 16th centuries.
 Change, Continuity, and
 Context
@@ -134,7 +133,6 @@ Atlantic Slave Trading
 Geography Anchor
 • SS.WH.2.19.1 Assess the effects of the Atlantic slave trade, including its economic, social, and political effects on the African communities of origin.
 Standard 19
-Human Populations: Spatial
 Patterns and Movement
 Columbian Exchange and Consequences
 Geography Anchor
@@ -145,12 +143,10 @@ Changing Spatial Patterns
 Theme 3: An Age of Revolutions
 Time Period: 1750 CE–1900 CE
 Causes of the Industrial Revolution
-History Anchor Standard 23
 • SS.WH.3.23.1 Explain how social changes and technological innovations in Britain led to the rise and spread of the Industrial Revolution in the late 1700s.
 Change, Continuity, and
 Context
 Effects of the Industrial Revolution
-History Anchor Standard 24
 • SS.WH.3.24.1 Explain the positive and negative impacts of the Industrial Revolution in the Americas, Asia, and Africa.
 Historical Thinking
 Economic Motives of Imperialism
@@ -160,7 +156,6 @@ Standard 11
 Economic Systems, Models,
 and Markets
 Causes of Imperialism
-History Anchor Standard 24
 • SS.WH.3.24.2 Construct an argument explaining the most important motives that drove European and Japanese imperialism.
 Historical Thinking
 Types of Imperialism
@@ -174,7 +169,6 @@ Standard 17
 Global Interconnections:
 Changing Spatial Patterns
 Scientific Revolution
-History Anchor Standard 24
 • SS.WH.3.24.3 Explain the impact of the Scientific Revolution on the rise of the Enlightenment.
 Historical Thinking
 Political Philosophies
@@ -183,18 +177,15 @@ Civics Anchor Standard 6
 Civic and Political
 Institutions and Systems
 Revolutions
-History Anchor Standard 23
 • SS.WH.3.23.2 Compare the causes and consequences of political revolutions in the late 18th and early 19th centuries.
 Change, Continuity, and
 Context
 Social Reform Movements
-History Anchor Standard 24
 • SS.WH.3.24.4 Compare the motives and effects of social reform movements in the 19th century.
 Historical Thinking
 Theme 4: Emergence of Modern Global Conflict
 Time Period: 1900 CE–1945 CE
 Causes of the Great War
-History Anchor Standard 24
 • SS.WH.4.24.1 Explain the short‐ and long‐term causes and consequences of World War I (WWI).
 Historical Thinking
 Interwar Economics
@@ -203,45 +194,36 @@ Economics Anchor
 Standard 14
 The Global Economy
 Post‐WWI Period
-History Anchor Standard 21
 • SS.WH.4.21.1 Use case studies to identify the reach and causes of the rise of totalitarian regimes during the post‐ WWI period.
 Perspectives
 Holocaust and Genocide
-History Anchor Standard 21
 • SS.WH.4.21.2 Analyze primary and secondary sources to explain the significance of the Holocaust and other atrocities in WWII and subsequent war crime tribunals.
 Perspectives
 Theme 5: Cold War Era
 Time Period: 1945 CE–1991 CE
 Decolonization After WWII
-History Anchor Standard 24
 • SS.WH.5.24.1 Analyze the causes and effects of decolonization after WWII.
 Historical Thinking
 Aftermath of World War II
-History Anchor Standard 24
 • SS.WH.5.24.2 Analyze the economic, political, and military power shifts that followed WWII.
 Historical Thinking
 Action for Independence
-History Anchor Standard 23
 • SS.WH.5.23.1 Analyze the impacts of nationalist revolutionary leaders and movements on achieving independence.
 Change, Continuity, and
 Context
 Resistance and Revolution
-History Anchor Standard 23
 • SS.WH.5.23.2 Examine patterns of resistance and revolution after WWII.
 Change, Continuity, and
 Context
 United Nations Influence
-History Anchor Standard 23
 • SS.WH.5.23.3 Analyze the role of the United Nations in state‐building and negotiation of conflicts after WWII.
 Change, Continuity, and
 Context
 National Sovereignty After Imperialism
-History Anchor Standard 23
 • SS.WH.5.23.4 Use case studies to examine the creation, challenges, and conflicts related to nation building and national sovereignty.
 Change, Continuity, and
 Context
 Cold War Global Conflicts
-History Anchor Standard 21
 • SS.WH.5.21.1 Analyze how the Cold War led to global conflict.
 Perspectives
 Theme 6: Era of Globalization
@@ -279,43 +261,36 @@ The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates
 Content Standard
 Topic
 an understanding of...
-Therefore, the student is able to...
 Anchor Standard
 The student demonstrates an
 Content Standard
 Topic
 understanding of...
-Therefore, the student is able to...
 
 ## Issues
 

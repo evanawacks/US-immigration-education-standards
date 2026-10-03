@@ -1,0 +1,1617 @@
+{
+ "state": "MA",
+ "file": "2018-12_3e7081.pdf",
+ "range": "u1-u1194",
+ "structure": "Massachusetts History and Social Science Curriculum Framework 2018 (Pre-K-12). Front matter (cover, credits, vision, 10 Guiding Principles, scope and sequence, organization, how-to-read page) is backup; 'Standards for History and Social Science Practice, Pre-K-12' (7 practices) are standards PK-12 and are repeated as a sidebar list on each grade's introductory page. Each grade or course (Pre-K to Grade 8, then HS United States History I) has: (1) an introductory page with title, narrative, a topics list, literacy note and 'Looking Back, Looking Ahead' (title = standards, narrative/topics/looking back = examples), then (2) '<Grade> Content Standards' organised by numbered Topics with codes like [PreK.T1], [K.T2], [4.T4a], [6.T3b], [8.T5], [USI.T1] and a 'Supporting Question' (examples, unless in the same unit as a topic heading); numbered standards with a. b. c. sub-items, 'For example' text and 'Clarification Statement' (examples), 'Key/Suggested Primary Sources ... in Appendix D' (examples), and numbered footnotes (content footnotes = examples; footnotes in front matter, literacy and practice-statement notes = backup); then (3) 'History and Social Science and the Standards for Literacy' with grade-specific Reading Informational Text [RI], Writing [W], Speaking and Listening [SL] standards (Pre-K-5) or grades 6-8 [RCA-H, WCA, SLCA] literacy standards (backup). Grades 6-7 are a two-year world geography sequence labelled Grade 6 and Grade 7; Grade 8 is Civics (Topics 1-7). High school courses are titled 'United States History I' etc.; course = 'United States History I' for that course's own units, and the Practice standards sidebar is course null grades PK-12. The view is single-column text; tables are rare (a one-column 'Suggested sources' table in Grade 6). This part covers Pre-K through US History I Topic 7 up to u1192 (u1195 onward is labeled by another agent).",
+ "labels": [
+  {
+   "units": "u1-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, credits, acknowledgements, vision, introduction, guiding principles"
+  },
+  {
+   "units": "u126",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Pre-K"
+  },
+  {
+   "units": "u127",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Kindergarten"
+  },
+  {
+   "units": "u128-u129",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 1"
+  },
+  {
+   "units": "u130",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 2"
+  },
+  {
+   "units": "u131",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 3"
+  },
+  {
+   "units": "u132-u134",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 4"
+  },
+  {
+   "units": "u135",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 5"
+  },
+  {
+   "units": "u136",
+   "grades": "6-7",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grades 6 and 7"
+  },
+  {
+   "units": "u137",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: Grade 8"
+  },
+  {
+   "units": "u138",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school US History I and II"
+  },
+  {
+   "units": "u139",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school World History I and II"
+  },
+  {
+   "units": "u140-u145",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Scope and sequence overview: High school electives"
+  },
+  {
+   "units": "u146-u148",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Organization of the standards and appendices"
+  },
+  {
+   "units": "u149-u159",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Guide to reading the introductory page"
+  },
+  {
+   "units": "u160-u172",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Figure: three pillars of the framework"
+  },
+  {
+   "units": "u173-u176",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice, Pre-K-12"
+  },
+  {
+   "units": "u177-u179",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 15 on civic knowledge definition"
+  },
+  {
+   "units": "u180-u185",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Standards for History and Social Science Practice 3-7"
+  },
+  {
+   "units": "u186-u188",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "History and Social Science and the Standards for Literacy (general)"
+  },
+  {
+   "units": "u189-u193",
+   "grades": "PK-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the elementary grades"
+  },
+  {
+   "units": "u194",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-Kindergarten title"
+  },
+  {
+   "units": "u195",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-K introductory narrative"
+  },
+  {
+   "units": "u196-u197",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Pre-K page)"
+  },
+  {
+   "units": "u198-u201",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Pre-K topics list, literacy note, looking ahead"
+  },
+  {
+   "units": "u202-u204",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Pre-K page)"
+  },
+  {
+   "units": "u205-u207",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K Content Standards > Topic 1 Civics"
+  },
+  {
+   "units": "u208",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 1"
+  },
+  {
+   "units": "u209-u214",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 2 Geography"
+  },
+  {
+   "units": "u215-u217",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 3 History"
+  },
+  {
+   "units": "u218",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Pre-K > Topic 4 Economics"
+  },
+  {
+   "units": "u221-u223",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4"
+  },
+  {
+   "units": "u224-u244",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Pre-K literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u245",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title"
+  },
+  {
+   "units": "u246",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten introductory narrative"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (K page)"
+  },
+  {
+   "units": "u249-u251",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u252",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (K page)"
+  },
+  {
+   "units": "u253-u255",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 16 on SEL standards"
+  },
+  {
+   "units": "u256-u259",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K Content Standards > Topic 1 Civics"
+  },
+  {
+   "units": "u260",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u261",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 1 standard 3"
+  },
+  {
+   "units": "u262",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u263-u267",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 1 standard 4"
+  },
+  {
+   "units": "u268-u269",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 Geography"
+  },
+  {
+   "units": "u270",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Example under Topic 2 standard 1"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standards 2-3"
+  },
+  {
+   "units": "u273",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u274-u275",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standards 4-5"
+  },
+  {
+   "units": "u276",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Example under Topic 2 standard 5"
+  },
+  {
+   "units": "u277-u279",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 2 standard 6, Topic 3 History"
+  },
+  {
+   "units": "u280-u283",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 2"
+  },
+  {
+   "units": "u284-u285",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 3 standard 3"
+  },
+  {
+   "units": "u286",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 4 Economics"
+  },
+  {
+   "units": "u289-u290",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K > Topic 4 standards 1-3 with embedded clarifications"
+  },
+  {
+   "units": "u291-u293",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u294-u316",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "K literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u317",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 title"
+  },
+  {
+   "units": "u318",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 introductory narrative"
+  },
+  {
+   "units": "u319",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 1 page)"
+  },
+  {
+   "units": "u320",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u321",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 1 page)"
+  },
+  {
+   "units": "u322-u324",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote 17 on SEL standards"
+  },
+  {
+   "units": "u325-u336",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u337-u338",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statements, Topic 1"
+  },
+  {
+   "units": "u339-u344",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 2 Geography and Topic 3 History"
+  },
+  {
+   "units": "u345-u346",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statements, Topic 3"
+  },
+  {
+   "units": "u347-u351",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 3 standards 2-3"
+  },
+  {
+   "units": "u352-u354",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u355-u362",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Topic 4 Economics"
+  },
+  {
+   "units": "u363-u386",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u387",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 title and introductory narrative (mixed)"
+  },
+  {
+   "units": "u388",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 2 page)"
+  },
+  {
+   "units": "u389",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u390-u392",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 2 page)"
+  },
+  {
+   "units": "u393-u396",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u397",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Note on science framework, Topic 2"
+  },
+  {
+   "units": "u398-u399",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 3 History: migrations and cultures"
+  },
+  {
+   "units": "u400-u402",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 1 (migration)"
+  },
+  {
+   "units": "u403-u404",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 3 standards 2-4 (immigration, push/pull)"
+  },
+  {
+   "units": "u405",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3 standard 4"
+  },
+  {
+   "units": "u406-u410",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 4 Civics: countries and governments"
+  },
+  {
+   "units": "u411-u412",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4 standard 3"
+  },
+  {
+   "units": "u413-u417",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Topic 5 Economics"
+  },
+  {
+   "units": "u418-u442",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u443",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 title"
+  },
+  {
+   "units": "u444",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 introductory narrative"
+  },
+  {
+   "units": "u445-u446",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 3 page)"
+  },
+  {
+   "units": "u447-u454",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 topics list and literacy note"
+  },
+  {
+   "units": "u455",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u456-u458",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 looking back/ahead"
+  },
+  {
+   "units": "u459-u466",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 Content Standards > Topic 1 Massachusetts cities and towns"
+  },
+  {
+   "units": "u467-u469",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 18-20"
+  },
+  {
+   "units": "u470-u475",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topic 1 cont. and Topic 2 Native Peoples"
+  },
+  {
+   "units": "u476-u479",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 21-22"
+  },
+  {
+   "units": "u480-u484",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topics 3-4 explorers, Pilgrims"
+  },
+  {
+   "units": "u485-u488",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Key primary source and footnotes 23-24"
+  },
+  {
+   "units": "u489-u495",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topics 5-6 Puritans, Revolution"
+  },
+  {
+   "units": "u496-u498",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 6"
+  },
+  {
+   "units": "u499-u511",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Topic 6 standards 2-5"
+  },
+  {
+   "units": "u512-u546",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 3 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u547",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 title"
+  },
+  {
+   "units": "u548",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 introductory narrative"
+  },
+  {
+   "units": "u549",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards list (Grade 4 page)"
+  },
+  {
+   "units": "u550-u551",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u552-u554",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u555-u560",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u561",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 2"
+  },
+  {
+   "units": "u562",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 2 standards 3-4"
+  },
+  {
+   "units": "u563-u565",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 25"
+  },
+  {
+   "units": "u566-u568",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 3 European exploration"
+  },
+  {
+   "units": "u569",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 3"
+  },
+  {
+   "units": "u570-u571",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4 expansion of the US"
+  },
+  {
+   "units": "u572-u575",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 26-28"
+  },
+  {
+   "units": "u576",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4 standards 3-5"
+  },
+  {
+   "units": "u577",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement"
+  },
+  {
+   "units": "u578",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4a Northeast"
+  },
+  {
+   "units": "u579",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Timeline note"
+  },
+  {
+   "units": "u580",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4a Northeast standards 4-5"
+  },
+  {
+   "units": "u581-u583",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 29"
+  },
+  {
+   "units": "u584-u586",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4b Southeast, 4c Midwest"
+  },
+  {
+   "units": "u587-u589",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 30"
+  },
+  {
+   "units": "u590-u594",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Topic 4d Southwest, 4e West"
+  },
+  {
+   "units": "u595-u630",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 4 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u631",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 title and introductory narrative (mixed)"
+  },
+  {
+   "units": "u632-u633",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 5 page)"
+  },
+  {
+   "units": "u634-u636",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u637-u639",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u640-u645",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 Content Standards > Topic 1 Early colonization"
+  },
+  {
+   "units": "u646-u649",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 31-33"
+  },
+  {
+   "units": "u650-u664",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topics 1-2 colonies, revolution, formation of government"
+  },
+  {
+   "units": "u665-u669",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Key and suggested primary sources, footnote 35"
+  },
+  {
+   "units": "u670-u672",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topic 3 Principles of US government"
+  },
+  {
+   "units": "u673",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement and primary sources, Topic 3"
+  },
+  {
+   "units": "u674-u691",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topics 4-5 growth of the Republic, slavery and civil rights"
+  },
+  {
+   "units": "u692-u696",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 5 standard 8"
+  },
+  {
+   "units": "u697",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Topic 5 standard 9 with clarification"
+  },
+  {
+   "units": "u698-u700",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 5"
+  },
+  {
+   "units": "u701-u746",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 5 literacy standards (RI, W, SL)"
+  },
+  {
+   "units": "u747",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the middle grades"
+  },
+  {
+   "units": "u748-u752",
+   "grades": "6-7",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: World Geography and Cultures in grades 6 and 7"
+  },
+  {
+   "units": "u753-u757",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction: Civics in Grade 8"
+  },
+  {
+   "units": "u758-u759",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title"
+  },
+  {
+   "units": "u760",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 introductory narrative"
+  },
+  {
+   "units": "u761-u762",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 6 page)"
+  },
+  {
+   "units": "u763-u764",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u765-u767",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u768-u772",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u773",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 1"
+  },
+  {
+   "units": "u774-u778",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 2 Human origins"
+  },
+  {
+   "units": "u779-u781",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 36-38"
+  },
+  {
+   "units": "u782-u783",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 2 standards 4-8"
+  },
+  {
+   "units": "u784",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 2"
+  },
+  {
+   "units": "u785",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 3 Western Asia, Middle East, North Africa (country lists)"
+  },
+  {
+   "units": "u786-u788",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 39-40"
+  },
+  {
+   "units": "u789-u817",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 3a-3g"
+  },
+  {
+   "units": "u818-u839",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources table, Topic 3"
+  },
+  {
+   "units": "u840-u847",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 4 Sub-Saharan Africa"
+  },
+  {
+   "units": "u848-u849",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Clarification statement, Topic 4b"
+  },
+  {
+   "units": "u850-u859",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Topic 4b-5 Sub-Saharan Africa, Central America, Caribbean, South America"
+  },
+  {
+   "units": "u860-u862",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources, Topic 5"
+  },
+  {
+   "units": "u863",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title"
+  },
+  {
+   "units": "u864",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 introductory narrative"
+  },
+  {
+   "units": "u865",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards heading (Grade 7 page)"
+  },
+  {
+   "units": "u866",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u867-u870",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards list and end of standard 7 with footnote (Grade 7 page)"
+  },
+  {
+   "units": "u871-u876",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 Content Standards > Topic 1 Central and South Asia"
+  },
+  {
+   "units": "u877-u879",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 41"
+  },
+  {
+   "units": "u880-u883",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 1b standard 2"
+  },
+  {
+   "units": "u884",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary sources, Topic 1"
+  },
+  {
+   "units": "u885-u902",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 2 East Asia"
+  },
+  {
+   "units": "u903",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary and secondary sources, Topic 2"
+  },
+  {
+   "units": "u904-u914",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 3 Southeast Asia and Oceania (mixed with sources list at start)"
+  },
+  {
+   "units": "u915",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Example, Topic 4a standard 4"
+  },
+  {
+   "units": "u916-u917",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 4b Ancient Greece"
+  },
+  {
+   "units": "u918-u920",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 42"
+  },
+  {
+   "units": "u921-u938",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Topic 4b-4c Greece and Rome"
+  },
+  {
+   "units": "u939-u941",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Suggested primary sources, Topic 4"
+  },
+  {
+   "units": "u942-u947",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Repeated 'A Renewed Mission' page (between Grade 7 and Grade 8)"
+  },
+  {
+   "units": "u948",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title"
+  },
+  {
+   "units": "u949",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 introductory narrative"
+  },
+  {
+   "units": "u950-u951",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (Grade 8 page)"
+  },
+  {
+   "units": "u952-u957",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 topics list, literacy note, looking back/ahead"
+  },
+  {
+   "units": "u958-u961",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "End of practice standard 7 and footnote (Grade 8 page)"
+  },
+  {
+   "units": "u962-u966",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 Content Standards > Topics 1-2"
+  },
+  {
+   "units": "u967-u969",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 43"
+  },
+  {
+   "units": "u970-u973",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 2 standards 2-5"
+  },
+  {
+   "units": "u974",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Note on Federalist Papers"
+  },
+  {
+   "units": "u975-u979",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 2 standard 5, Topic 3 institutions"
+  },
+  {
+   "units": "u980-u982",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnote 44"
+  },
+  {
+   "units": "u983-u998",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topics 3-5 institutions, rights and responsibilities of citizens, Constitution"
+  },
+  {
+   "units": "u999",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supporting question, Topic 5"
+  },
+  {
+   "units": "u1000-u1008",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 The Constitution, Amendments, Supreme Court decisions"
+  },
+  {
+   "units": "u1009-u1017",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (First Amendment) and footnotes 45-46"
+  },
+  {
+   "units": "u1018-u1019",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 standard 6b heading"
+  },
+  {
+   "units": "u1020-u1028",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (14th Amendment) and footnote 47"
+  },
+  {
+   "units": "u1029-u1030",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (14th Amendment cont.)"
+  },
+  {
+   "units": "u1031-u1032",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 5 standard 6c heading"
+  },
+  {
+   "units": "u1033-u1042",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supreme Court case examples (individual rights vs community interests)"
+  },
+  {
+   "units": "u1043-u1053",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 6 Massachusetts state and local government"
+  },
+  {
+   "units": "u1054-u1057",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Key primary source and footnote 48"
+  },
+  {
+   "units": "u1058-u1059",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 7 Freedom of the press and news/media literacy"
+  },
+  {
+   "units": "u1060",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Supporting question, Topic 7"
+  },
+  {
+   "units": "u1061-u1064",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 > Topic 7 standards 2-6"
+  },
+  {
+   "units": "u1065-u1068",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Footnotes 49-50"
+  },
+  {
+   "units": "u1069-u1108",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Grades 6-8 literacy standards (RCA-H, WCA, SLCA)"
+  },
+  {
+   "units": "u1109-u1130",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to the high school grades"
+  },
+  {
+   "units": "u1131",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "United States History I title"
+  },
+  {
+   "units": "u1132",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "US History I introductory narrative"
+  },
+  {
+   "units": "u1133-u1134",
+   "grades": "PK-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Practice standards sidebar (US History I page)"
+  },
+  {
+   "units": "u1135",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "US History I topics list, literacy note, looking back"
+  },
+  {
+   "units": "u1136-u1138",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "backup",
+   "section": "Footnote on practice standards statement"
+  },
+  {
+   "units": "u1139-u1141",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I Content Standards > Topic 1 Origins of the Revolution and the Constitution"
+  },
+  {
+   "units": "u1142-u1147",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Clarification statement and primary sources, Topic 1"
+  },
+  {
+   "units": "u1148-u1149",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 2 Democratization and expansion"
+  },
+  {
+   "units": "u1150-u1153",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 2"
+  },
+  {
+   "units": "u1154-u1161",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 3 Economic growth in North, South, West"
+  },
+  {
+   "units": "u1162-u1165",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 3"
+  },
+  {
+   "units": "u1166-u1173",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 4 Social, political, and religious change"
+  },
+  {
+   "units": "u1174-u1176",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 4"
+  },
+  {
+   "units": "u1177",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 5 Civil War and Reconstruction"
+  },
+  {
+   "units": "u1178",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Supporting question, Topic 5"
+  },
+  {
+   "units": "u1179-u1181",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topic 5 standards"
+  },
+  {
+   "units": "u1182",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "examples",
+   "section": "Key and suggested primary sources, Topic 5"
+  },
+  {
+   "units": "u1183-u1194",
+   "grades": "9-12",
+   "course": "United States History I",
+   "cat": "standards",
+   "section": "US History I > Topics 6-7 industry and immigration, Progressivism and WWI"
+  }
+ ],
+ "issues": [
+  "u126-u143: 'Scope, Sequence and Content of the Grades and Courses' overview paragraphs labeled examples per grade; HS paragraphs (u138-u143) cover two or more courses each so labeled course null, grades 9-12 (US History I and II together, World History I and II together, electives).",
+  "u387: Grade 2 title and introductory narrative are merged in one unit (also contains a stray sentence about CCR anchor standards); labeled examples. Same for u631 (Grade 5 title + narrative).",
+  "u196-u202, u247-u252, u319-u321, u388-u390, u445-u446, u549, u632-u633, u761-u762, u865-u868, u950-u958, u1133-u1134: sidebar list of the seven Practice standards, split across units; the end of practice 7 is merged with the asterisk footnote in u202, u252, u321, u390, u868, u958 (labeled standards PK-12). Standalone asterisk footnotes (u455, u552, u637, u765, u1136) labeled backup.",
+  "u177: footnote 15 (definition of civic knowledge) labeled backup though it attaches to Practice standard 1.",
+  "u185: end of Practice standard 7 merged with the heading 'History and Social Science and the Standards for Literacy'; labeled standards PK-12.",
+  "u198-u201, u249-u251, u320, u389, u447-u454, u550-u551, u634-u636, u763-u764, u866, u952-u957, u1135: topic overview lists combined with literacy note and 'Looking Back, Looking Ahead' text; labeled examples (topic headings are repeated in the Content Standards pages).",
+  "u212, u217, u289, u290, u464, u465, u473, u508, u673, u688, u697, u776, u935, u1178: clarification statement and the next standard share a unit; labeled standards when a standard is included, examples when clarification only (u673 clarification plus primary sources = examples).",
+  "u206, u209, u219, u257, u277, u287, u325, u339, u343, u355, u394-u395, u482, u489, u493, u570, u654, u670, u674, u683, u704-u705: topic headings merged with Supporting Question or a standard; labeled standards.",
+  "u653, u682, u965, u975, u1183, u1187, u511, u904: units mix the end of a standard with Key/Suggested Primary Sources lists and/or the next Topic heading; labeled standards (units not split).",
+  "u818-u839: one-column table 'Suggested Primary and Secondary Sources for Topic 3' (Grade 6); each row is a unit; labeled examples grade 6.",
+  "u921-u931: Grade 7 Greek accomplishments list (7a-7e) extracted as scattered x-positioned fragments in non-reading order; labeled standards grade 7 as a block.",
+  "u793-u795: Code of Hammurabi sub-item e. extracted out of order (u795 text belongs before u794); labeled standards grade 6.",
+  "u942-u945: 'A Renewed Mission' page repeated between Grade 7 and Grade 8 (page 103); labeled backup, grades all.",
+  "u997-u998: Grade 8 Topic 5 heading split ('of the Constitution.' continues standard 11 / heading in u998); both standards 8.",
+  "u1009-u1040: Supreme Court cases and holdings under Grade 8 Topic 5 standard 6 are 'for example' lists; labeled examples (they could arguably be part of the standard, content lists). The a./b./c. headings (u1007-u1008, u1018-u1019, u1031-u1032) labeled standards.",
+  "u747-u757: middle-grades introduction split into 6-8 title, 6-7 purposes and Grade 8 civics purposes; labeled backup.",
+  "u1131-u1136: US History I intro page; the Practice sidebar (u1133-u1134) is course null grades PK-12, while the remaining unit labels carry course 'United States History I'.",
+  "u1193-u1194 do not appear in the view (furniture or absent); range ends effectively at u1192 mid Topic 7 standard 5 (items a-j); u1195 (item k) belongs to part 2."
+ ]
+}

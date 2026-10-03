@@ -30,26 +30,22 @@ Social Science
 SS.1 Students will understand the evolving nature of psychology and the methods and measurements used to study behavior and mental processes. This includes the behaviors related to sensation, perception, and consciousness; how biology influences psychology; the cognitive, moral, and social development throughout the human lifespan; and the causes and effects of psychological phenomena.
 Psychology
 ● Perspective and Research ● Biology and Behaviors ● Conditioning, Learning, and Cognition ● Personality and Individuality
-SS.1 Students will understand the evolving nature of psychology and the methods and measurements used to study behavior and mental processes. This includes the behaviors related to sensation, perception, and consciousness; how biology influences psychology; the cognitive, moral, and social development throughout the human lifespan; and the causes and effects of psychological phenomena.
 Perspective and Research
 SS.1.PSY.1 Analyze developments in the field of psychology as a social science.
 SS.1.PSY.2 Compare contemporary perspectives used by psychologists.
 SS.1.PSY.3 Analyze methods for collecting data in the field of psychology.
 SS.1.PSY.4 Evaluate the impact of American Psychological Association (APA) and federal guidelines on the ethical treatment of human and nonhuman research participants (e.g., informed consent, avoiding harm, respect for individual rights).
-SS.1 Students will understand the evolving nature of psychology and the methods and measurements used to study behavior and mental processes. This includes the behaviors related to sensation, perception, and consciousness; how biology influences psychology; the cognitive, moral, and social development throughout the human lifespan; and the causes and effects of psychological phenomena.
 Biology and Behaviors
 SS.1.PSY.5 Analyze how the processes of sensation and perception influence experiences and expectations in one’s environment.
 SS.1.PSY.6 Compare different stages of consciousness:
 ● Conscious ● Unconscious ● Sleep states ● Other states such as meditation, relaxation, hypnosis, and flow state
 SS.1.PSY.7 Explain the effects of the brain, nervous system, and endocrine system on behavior.
 SS.1.PSY.8 Analyze interactions between biological factors and life experiences and their influences on behavior.
-SS.1 Students will understand the evolving nature of psychology and the methods and measurements used to study behavior and mental processes. This includes the behaviors related to sensation, perception, and consciousness; how biology influences psychology; the cognitive, moral, and social development throughout the human lifespan; and the causes and effects of psychological phenomena.
 Conditioning, Learning, and Cognition
 SS.1.PSY.9 Explain how lifespan development (e.g., childhood, adolescence, adulthood, and aging) influences behavior and human interactions.
 SS.1.PSY.10 Evaluate the methods of conditioning and learning theories.
 SS.1.PSY.11 Evaluate biological processes and disorders associated with memory.
 SS.1.PSY.12 Examine measures of intelligence and compare how measures and perceptions of intelligence such as theories, tests, cultural understanding, and multiple perspectives have changed over time.
-SS.1 Students will understand the evolving nature of psychology and the methods and measurements used to study behavior and mental processes. This includes the behaviors related to sensation, perception, and consciousness; how biology influences psychology; the cognitive, moral, and social development throughout the human lifespan; and the causes and effects of psychological phenomena.
 Personality and Individuality
 SS.1.PSY.13 Students will explain theories of motivation, emotion, and factors that influence emotional interpretation and expression.
 SS.1.PSY.14 Students will examine theories of personality, assessment, and influences related to personality.

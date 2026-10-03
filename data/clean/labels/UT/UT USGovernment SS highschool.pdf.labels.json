@@ -1,0 +1,179 @@
+{
+ "state": "UT",
+ "file": "UT USGovernment SS highschool.pdf",
+ "structure": "Single high-school course file (pp. 43-48 of the Utah Core State Standards for Social Studies): course title, course goal paragraph, 'Foundational Practices for Civic Preparation' bullets, a note on organization, then five strands ('U.S. GOV Strand n: TITLE') each with a narrative description, a bulleted list of guiding questions (']' bullets), and standards 'U.S. GOV Standard n.m: Students will ...' (label at x=80, text at x=215). No grade is stated; course treated as grades 9-12.",
+ "labels": [
+  {
+   "units": "u2-u4",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Course title: United States Government and Citizenship"
+  },
+  {
+   "units": "u5",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Course goal / focus narrative"
+  },
+  {
+   "units": "u6-u19",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "backup",
+   "section": "Foundational Practices for Civic Preparation (pedagogical opportunities list)"
+  },
+  {
+   "units": "u21-u23",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "backup",
+   "section": "Note on the organization of the Utah standards"
+  },
+  {
+   "units": "u24",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Strand 1 Foundational Principles heading"
+  },
+  {
+   "units": "u25",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 1 narrative"
+  },
+  {
+   "units": "u27-u34",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 1 guiding questions"
+  },
+  {
+   "units": "u35-u41",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Standards 1.1-1.3"
+  },
+  {
+   "units": "u43",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Strand 2 Civil Liberties, Civil Rights, and Responsibilities heading"
+  },
+  {
+   "units": "u44",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 2 narrative"
+  },
+  {
+   "units": "u46-u51",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 2 guiding questions"
+  },
+  {
+   "units": "u52-u57",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Standards 2.1-2.3"
+  },
+  {
+   "units": "u59",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Strand 3 Distribution of Power heading"
+  },
+  {
+   "units": "u60",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 3 narrative"
+  },
+  {
+   "units": "u63-u70",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 3 guiding questions"
+  },
+  {
+   "units": "u71-u83",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Standards 3.1-3.6"
+  },
+  {
+   "units": "u84",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Strand 4 Fiscal Policies and Decisions heading"
+  },
+  {
+   "units": "u85-u87",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 4 narrative (split across page break)"
+  },
+  {
+   "units": "u89-u94",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 4 guiding questions"
+  },
+  {
+   "units": "u95-u100",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Standards 4.1-4.3"
+  },
+  {
+   "units": "u101",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Strand 5 The U.S. and Our Relationship to the World heading"
+  },
+  {
+   "units": "u102",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 5 narrative (mentions immigration and refugee demands)"
+  },
+  {
+   "units": "u105-u109",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "examples",
+   "section": "Strand 5 guiding questions"
+  },
+  {
+   "units": "u110-u118",
+   "grades": "9-12",
+   "course": "United States Government and Citizenship",
+   "cat": "standards",
+   "section": "Standards 5.1-5.4 (5.4 mentions migration)"
+  }
+ ],
+ "issues": [
+  "Bullet items and guiding questions are broken across units (e.g. u9/u11, u12/u13, u105/u106); labeled together as examples.",
+  "Strand narratives (e.g. u25, u44, u60) labeled examples as course content narrative; strand headings labeled standards."
+ ]
+}

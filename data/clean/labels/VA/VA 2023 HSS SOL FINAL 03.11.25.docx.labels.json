@@ -1,0 +1,387 @@
+{
+ "state": "VA",
+ "file": "VA 2023 HSS SOL FINAL 03.11.25.docx",
+ "structure": "Word document with styled headings. Front matter (title page, Board of Education, TOC, Guiding Principles, Implementation, Background, Skills overview, grade-band descriptions) then one [Heading 2] section per grade: 'Kindergarten: Community', 'Grade 1: Commonwealth of Virginia', 'Grade 2: United States of America', 'Grade 3: The World', 'Grade 4: Virginia Studies', 'Grade 5: United States History to 1865', 'Grade 6: United States History: 1865 to the Present', 'Grade 7: Civics and Economics', 'Grade 8: World Geography', 'Grade 9: World History and Geography to 1500 A.D.', 'Grade 10: World History and Geography: 1500 A.D. to the Present', 'Grade 11: Virginia and United States History', 'Grade 12: Virginia and United States Government'. Each section: overview paragraph, [Heading 3] Skills with a 'Skills X' [Heading 4] standard followed by bullet units, then [Heading 3] strand/topic headings (Civics, History, Geography, Economics for K-3; topical headings for 4-12) each containing [Heading 4] standards with codes (K.1-K.8, 1.1-1.8, 2.1-2.13, 3.1-3.10, VS.1-13, USI.1-9, USII.1-9, CE.1-14, WG.1-17, WHI.1-13, WHII.1-12, VUS.1-17, GOVT.1-14). Each standard is a lead-in sentence followed by its sub-items as separate units (bullets). Examples are embedded in the standards ('including, but not limited to'), so they stay in standards. No tables.",
+ "labels": [
+  {
+   "units": "u1-u17",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Title page"
+  },
+  {
+   "units": "u18-u40",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Board of Education, copyright, non-discrimination"
+  },
+  {
+   "units": "u41-u57",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents"
+  },
+  {
+   "units": "u58-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Guiding Principles: introduction and expectations"
+  },
+  {
+   "units": "u67-u77",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Guiding Principles: principles"
+  },
+  {
+   "units": "u78-u90",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Implementation of the standards"
+  },
+  {
+   "units": "u91-u99",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Background and context; organization; skills overview"
+  },
+  {
+   "units": "u100-u124",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade-band descriptions (K-3, 4-6, 7-8, 9-12)"
+  },
+  {
+   "units": "u125",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Community - grade/course title"
+  },
+  {
+   "units": "u126",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: Community - overview narrative"
+  },
+  {
+   "units": "u127-u157",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Community - skills and content standards"
+  },
+  {
+   "units": "u158",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten: Community - technical-edit footnote on holidays list"
+  },
+  {
+   "units": "u159-u184",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Community - skills and content standards"
+  },
+  {
+   "units": "u185",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Commonwealth of Virginia - grade/course title"
+  },
+  {
+   "units": "u186",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Commonwealth of Virginia - overview narrative"
+  },
+  {
+   "units": "u187-u219",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Commonwealth of Virginia - skills and content standards"
+  },
+  {
+   "units": "u220",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 1: Commonwealth of Virginia - technical-edit footnote on holidays list"
+  },
+  {
+   "units": "u221-u253",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Commonwealth of Virginia - skills and content standards"
+  },
+  {
+   "units": "u254",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: United States of America - grade/course title"
+  },
+  {
+   "units": "u255",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: United States of America - overview narrative"
+  },
+  {
+   "units": "u256-u291",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: United States of America - skills and content standards"
+  },
+  {
+   "units": "u292",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Grade 2: United States of America - technical-edit footnote on holidays list"
+  },
+  {
+   "units": "u293-u337",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: United States of America - skills and content standards"
+  },
+  {
+   "units": "u338",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: The World - grade/course title"
+  },
+  {
+   "units": "u339",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: The World - overview narrative"
+  },
+  {
+   "units": "u340-u414",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: The World - skills and content standards"
+  },
+  {
+   "units": "u415",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Virginia Studies - grade/course title"
+  },
+  {
+   "units": "u416",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Virginia Studies - overview narrative"
+  },
+  {
+   "units": "u417-u495",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Virginia Studies - skills and content standards"
+  },
+  {
+   "units": "u496",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: United States History to 1865 - grade/course title"
+  },
+  {
+   "units": "u497",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: United States History to 1865 - overview narrative"
+  },
+  {
+   "units": "u498-u561",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: United States History to 1865 - skills and content standards"
+  },
+  {
+   "units": "u562",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: United States History: 1865 to the Present - grade/course title"
+  },
+  {
+   "units": "u563",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: United States History: 1865 to the Present - overview narrative"
+  },
+  {
+   "units": "u564-u647",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: United States History: 1865 to the Present - skills and content standards"
+  },
+  {
+   "units": "u648",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Civics and Economics - grade/course title"
+  },
+  {
+   "units": "u649",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Civics and Economics - overview narrative"
+  },
+  {
+   "units": "u650-u746",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Civics and Economics - skills and content standards"
+  },
+  {
+   "units": "u747",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World Geography - grade/course title"
+  },
+  {
+   "units": "u748",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: World Geography - overview narrative"
+  },
+  {
+   "units": "u749-u841",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: World Geography - skills and content standards"
+  },
+  {
+   "units": "u842",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography to 1500 A.D. - grade/course title"
+  },
+  {
+   "units": "u843",
+   "grades": "9",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 9: World History and Geography to 1500 A.D. - overview narrative"
+  },
+  {
+   "units": "u844-u937",
+   "grades": "9",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 9: World History and Geography to 1500 A.D. - skills and content standards"
+  },
+  {
+   "units": "u938",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: World History and Geography: 1500 A.D. to the Present - grade/course title"
+  },
+  {
+   "units": "u939",
+   "grades": "10",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 10: World History and Geography: 1500 A.D. to the Present - overview narrative"
+  },
+  {
+   "units": "u940-u1029",
+   "grades": "10",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 10: World History and Geography: 1500 A.D. to the Present - skills and content standards"
+  },
+  {
+   "units": "u1030",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: Virginia and United States History - grade/course title"
+  },
+  {
+   "units": "u1031",
+   "grades": "11",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 11: Virginia and United States History - overview narrative"
+  },
+  {
+   "units": "u1032-u1160",
+   "grades": "11",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 11: Virginia and United States History - skills and content standards"
+  },
+  {
+   "units": "u1161",
+   "grades": "12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 12: Virginia and United States Government - grade/course title"
+  },
+  {
+   "units": "u1162",
+   "grades": "12",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 12: Virginia and United States Government - overview narrative"
+  },
+  {
+   "units": "u1163-u1266",
+   "grades": "12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 12: Virginia and United States Government - skills and content standards"
+  }
+ ],
+ "issues": [
+  "Grade/course tied to grade: each Heading 2 section is one grade (K-12), so every section gets a single grade with course null; the course titles (Civics and Economics, World Geography, World History and Geography to 1500 A.D./1500 A.D. to the Present, Virginia and United States History, Virginia and United States Government, Virginia Studies, United States History) appear in the section names only. Change course if the database should have course rows for grades 4-12.",
+  "u158, u220, u292: asterisked footnote ('Technical edit to reflect Board of Education Work Session...') about Columbus Day/Indigenous Peoples' Day, labeled backup; the u147/u209/u281 holiday list items carry the asterisk marker.",
+  "u1056-u1060: bullets under VUS.3 are tagged [Heading 4] in extraction (style artifact), not separate standards; they are the items of VUS.3. u1106 (VUS.10) and u1121 (VUS.12) lack the [Heading 4] tag but are standard statements; u645 (USII.9) sits under a Heading 3 with no Heading 4 tag.",
+  "u488: VS.10 has inline sub-items a. and b. in a single unit.",
+  "Skills standards (Skills K ... Skills GOVT) precede the content standards in each grade and apply only to that grade; labeled standards with that grade.",
+  "u100-u124: grade-band descriptions in the front matter (Skills section) describe what each band studies; labeled backup since they are organizational overview (could arguably be examples).",
+  "Grades 4-12 are named courses in the text (e.g., 'this course'); standard codes use prefixes VS, USI, USII, CE, WG, WHI, WHII, VUS, GOVT; GOVT.12 and GOVT.13 have identical lead-in text in the source (u1247, u1251)."
+ ]
+}

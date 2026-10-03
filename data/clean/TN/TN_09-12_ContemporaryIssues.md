@@ -2,7 +2,7 @@
 
 - State: TN
 - Grade: [9,10,11,12]
-- Course: Contemporary Issues (Contemporary Issues)
+- Course: Contemporary Issues [Contemporary Issues] (as written: Contemporary Issues)
 - Source files: TN_Academic_Social_Studies_Standards_25_0162ee.pdf
 
 ## Standards

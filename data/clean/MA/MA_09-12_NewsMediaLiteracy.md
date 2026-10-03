@@ -2,7 +2,7 @@
 
 - State: MA
 - Grade: [9,10,11,12]
-- Course: News/Media Literacy (News/Media Literacy)
+- Course: News & Media Literacy [Advanced/Other] (as written: News/Media Literacy)
 - Source files: 2018-12_3e7081.pdf
 
 ## Standards

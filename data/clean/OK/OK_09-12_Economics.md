@@ -2,7 +2,7 @@
 
 - State: OK
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: Final_2025_SS_OAS_fc721b.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: Special Topics in Social Studies (Special Topics in Social Studies)
+- Course: Special Topics in Social Studies [Advanced/Other] (as written: Special Topics in Social Studies)
 - Source files: TX highschool SS.pdf
 
 ## Standards

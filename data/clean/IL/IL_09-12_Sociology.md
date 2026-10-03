@@ -2,7 +2,7 @@
 
 - State: IL
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: IL-Social-Science-Standards_4db7c3.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: MO
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: MO curr-mls-standards-ss-6-12-sboe-2016.docx
 
 ## Standards

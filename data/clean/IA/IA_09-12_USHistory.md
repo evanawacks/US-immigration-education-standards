@@ -2,7 +2,7 @@
 
 - State: IA
 - Grade: [9,10,11,12]
-- Course: U.S. History (U.S. History)
+- Course: US History [US History] (as written: U.S. History)
 - Source files: download_e5f143.pdf
 
 ## Standards

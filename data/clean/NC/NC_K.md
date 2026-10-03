@@ -3,10 +3,11 @@
 - State: NC
 - Grade: [0]
 - Course: (none)
-- Source files: NC 1st SS Standards - A.pdf; NC 2nd SS Standards - A.pdf; NC K SS Standards - A.pdf
+- Source files: NC K SS Standards - A.pdf
 
 ## Standards
 
+North Carolina Content Standards Kindergarten Social Studies
 Inquiry K-2
 Category
 Indicator
@@ -22,25 +23,6 @@ Communicating Ideas
 I.1.8 Construct responses to compelling questions using information from sources.
 Taking Informed Action
 I.1.9 Identify problems related to the compelling question that students think are important.
-​ Inquiry K-2
-Category
-Indicator
-Compelling Questions
-Supporting Questions
-I.1.6 Demonstrate an understanding of facts, opinions, and other details in sources.
-I.1.7 Identify the information surrounding a primary or secondary source including who created it, when they created it, where they created it, and why they created it.
-Starting in Grade 3
-Communicating Ideas
-Taking Informed Action
-North Carolina Content Standards Kindergarten Social Studies
-Inquiry K-2
-Category
-Indicator
-Compelling Questions
-Supporting Questions
-Starting in Grade 3
-Communicating Ideas
-Taking Informed Action
 Standards
 Objectives
 K.B.1 Understand cultural practices in local communities and around the world.
@@ -65,14 +47,9 @@ K.H.1 Understand change over time.
 
 ## Backup (non-standards text)
 
-These standards and objectives are not intended to be the curriculum, nor do they indicate the whole of a curriculum which will be written by a local public-school unit (LEA) or school. The standards for this course have been developed to serve as the framework which will guide each LEA in the development of the curriculum for their Kindergarten course. The standards of this course are
-conceptual in nature and have been organized around five disciplinary strands and a skill strand designed to promote inquiry. Every student following the North Carolina Standard Course of Study for Social Studies will engage in rigorous academic courses inclusive of multiple ideas, viewpoints, and perspectives that prepare them with the knowledge, understanding, and skills needed to productively live and engage in a multicultural and globally competitive society.
-Note: The Inquiry Strand is a content-neutral strand that focuses on the skills necessary for students to improve their critical thinking. The Inquiry Strand comes first in the standards document because the skills outlined can and should be applied within all content in the course. The content strands are arranged alphabetically and each represents a different social studies lens through which students should access the content.
-I-Inquiry, B - Behavioral Sciences, C&G - Civics and Government, E - Economics, G - Geography, H - History
+(none)
 
 ## Issues
 
-NC 1st SS Standards - A.pdf: u25: 'Starting in Grade 3' is the Developing Claims row; no K-2 indicator.
-NC 2nd SS Standards - A.pdf: u26: 'Starting in Grade 3' row.
 NC K SS Standards - A.pdf: u22: 'Starting in Grade 3' is the Developing Claims row; no K-2 indicator exists (kept with inquiry table).
 NC K SS Standards - A.pdf: u37: continuation row of K.C&G.1 objectives (K.C&G.1.4) split across pages with empty standard cell; belongs to K.C&G.1.

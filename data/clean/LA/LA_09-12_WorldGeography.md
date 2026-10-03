@@ -2,7 +2,7 @@
 
 - State: LA
 - Grade: [9,10,11,12]
-- Course: World Geography (World Geography)
+- Course: World Geography [Geography] (as written: World Geography)
 - Source files: k-12-louisiana-student-standards-for-social-studies_b9db19.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: IA
 - Grade: [9,10,11,12]
-- Course: Civics/Government (Civics/Government)
+- Course: Civics & Government [Civics & Government] (as written: Civics/Government)
 - Source files: download_e5f143.pdf
 
 ## Standards

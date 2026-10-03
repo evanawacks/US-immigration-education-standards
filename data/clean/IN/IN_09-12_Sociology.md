@@ -2,7 +2,7 @@
 
 - State: IN
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: 2026-Indiana-Academic-Standards-Sociology_505c23.pdf
 
 ## Standards

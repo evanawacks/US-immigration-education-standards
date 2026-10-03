@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

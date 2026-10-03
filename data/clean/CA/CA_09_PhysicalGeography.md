@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Physical Geography (Physical Geography)
+- Course: Physical Geography [Geography] (as written: Physical Geography)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

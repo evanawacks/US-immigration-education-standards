@@ -2,7 +2,7 @@
 
 - State: WV
 - Grade: [9,10,11,12]
-- Course: Personal Finance (Personal Finance)
+- Course: Personal Finance [Economics] (as written: Personal Finance)
 - Source files: WV Social Studies Stadards.docx
 
 ## Standards

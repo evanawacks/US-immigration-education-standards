@@ -1,0 +1,3467 @@
+{
+ "state": "CO",
+ "file": "ColoradoAcademicStandards-SocialStudiesStandardsP-12adopted2022_1.pdf",
+ "structure": "Colorado Academic Standards, Social Studies P-12 (adopted 2022). Pages 1-9 are front matter (committee lists, purpose, revision process, how-to-read) = backup; page 6 lists the 8 Prepared Graduate statements for all grades (standards, grades all). Standards pages 10-145 are organized by grade (Preschool, Kindergarten, First-Eighth Grade) and one High School band (no courses, grades 9-12), each with Standard 1 History, 2 Geography, 3 Economics, 4 Civics, 5 Personal Financial Literacy. Each page header 'SOCIAL STUDIES <Grade>, Standard N. <Name>' is followed by 'Prepared Graduates', 'Grade Level Expectation' (GLE, code SS.<grade>.<std>.<n>, e.g. SS.K.1.1, SS.HS.1.2; the code appears as a separate unit near the page end) and 'Students Can:' (Evidence Outcomes a, b, c...) = standards. Right-hand 'Academic Context and Connections' = Colorado Essential Skills, Inquiry Questions, Nature and Skills of <discipline>, Disciplinary, Information, and Media Literacy = examples. Preschool pages use 'Preschool Learning and Development Expectation', 'Indicators of Progress' (standards) and 'Examples of High-Quality Teaching and Learning Experiences' (Supportive Teaching Practices / Examples of Learning, labeled examples); Preschool -> grade PK. Each GLE spans 1-2 PDF pages (second page has only ACC continuation, running header lacks the grade). Two-column layout is interleaved in extraction; continuation fragments were classified by x-position (x=68/428 = Students Can wrap) and leading numbering (digit-dot = ACC list, letter-dot = Evidence Outcome). The repeated '<Grade>, Standard N. <Name>' (x=108) at the end of each page is a page footer heading, labeled backup.",
+ "labels": [
+  {
+   "units": "u1-u15",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter / intro / how to read"
+  },
+  {
+   "units": "u17",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Prepared Graduates overview (8 statements)"
+  },
+  {
+   "units": "u18-u44",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter / intro / how to read"
+  },
+  {
+   "units": "u46-u51",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 1. History > Indicators of Progress"
+  },
+  {
+   "units": "u52-u54",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 1. History > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u55",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u58",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 1. History > Indicators of Progress"
+  },
+  {
+   "units": "u59-u64",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 2. Geography > Indicators of Progress"
+  },
+  {
+   "units": "u65-u67",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 2. Geography > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u68",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u71",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 2. Geography > Indicators of Progress"
+  },
+  {
+   "units": "u72-u76",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 3. Economics > Indicators of Progress"
+  },
+  {
+   "units": "u77-u79",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 3. Economics > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u80",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u83",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 3. Economics > Indicators of Progress"
+  },
+  {
+   "units": "u84-u87",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 4. Civics > Indicators of Progress"
+  },
+  {
+   "units": "u88",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 4. Civics > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u89-u94",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 4. Civics > Indicators of Progress"
+  },
+  {
+   "units": "u95-u97",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 4. Civics > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u98",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u101-u107",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 4. Civics > Indicators of Progress"
+  },
+  {
+   "units": "u108-u110",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 4. Civics > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u111",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u114",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 4. Civics > Indicators of Progress"
+  },
+  {
+   "units": "u115-u119",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 5. Personal Financial Literacy > Indicators of Progress"
+  },
+  {
+   "units": "u120-u122",
+   "grades": "PK",
+   "course": null,
+   "cat": "examples",
+   "section": "Preschool, Standard 5. Personal Financial Literacy > Examples of High-Quality Teaching and Learning Experiences"
+  },
+  {
+   "units": "u123",
+   "grades": "PK",
+   "course": null,
+   "cat": "backup",
+   "section": "Preschool, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u126",
+   "grades": "PK",
+   "course": null,
+   "cat": "standards",
+   "section": "Preschool, Standard 5. Personal Financial Literacy > Indicators of Progress"
+  },
+  {
+   "units": "u127-u132",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u134-u137",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u138",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u141-u147",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u149-u152",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u153",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u156",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u157-u161",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u163-u166",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u167",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u170-u175",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u177-u180",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u181",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u184",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u185-u189",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u191-u194",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u195",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u198",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u199-u204",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u206-u209",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u210",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u213-u216",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u218",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u219-u221",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u222-u225",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u226",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u229",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u230-u232",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u234",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u235-u237",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u239-u241",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u242",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u245",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u246-u250",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u252-u255",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u256",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u260-u262",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u264",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u265-u266",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u267",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u268-u269",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u273",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u277-u279",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u281",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u282-u284",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u285-u288",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u289",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u293-u297",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u299-u302",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u303",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u307-u311",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u313-u316",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u317",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u321-u326",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u328-u331",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u332",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u336-u343",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u345-u348",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u349",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u353-u357",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u359-u362",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "First Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u363",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "First Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u367-u373",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u375-u378",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u379",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u383-u389",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u391-u394",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u395",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u399-u401",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u403",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u404-u405",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u406",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u407-u409",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u411-u412",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u413",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u417-u419",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u421",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u422-u425",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u427-u430",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u431",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u435-u439",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u441-u444",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u445",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u449-u451",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u453",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u454-u456",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u457",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u458-u459",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u460",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u461",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u463-u464",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u465",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u469-u471",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u473",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u474-u476",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u477",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u478-u479",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u481-u482",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u483",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u487-u489",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u491",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u492-u494",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u495",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u496-u497",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u499-u500",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u501",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Second Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u505-u507",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u509",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u510-u511",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u513-u516",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u517",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u521-u523",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u525",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u526-u528",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u529-u533",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u534",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u538-u540",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u542",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u543-u546",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u548-u550",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u551",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u555-u557",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u559",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u560-u562",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u563",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u564",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u566-u567",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u568",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u572-u574",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u576",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u577-u582",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u584-u586",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u587",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u591-u596",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u598-u600",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u601",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u605",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u606",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u609-u611",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u613",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u614-u618",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u620-u622",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u623",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u627-u629",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u631",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u632-u633",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u634",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u635",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u637-u638",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u639",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Third Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u643-u650",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u652-u653",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u654",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u658-u659",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u660",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u663-u670",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u672-u673",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u674",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u678-u679",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u680",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u683-u687",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u689-u691",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u692",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u696",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u697",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u700-u704",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u706-u708",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u709",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u713",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u714",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u717-u719",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u721",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u722-u726",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u728-u730",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u731",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u735-u740",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u742-u744",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u745",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u749-u750",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u751",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u754-u756",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u758",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u759-u764",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u766-u768",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u769",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u773-u777",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u779-u782",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Fourth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u783",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Fourth Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u787-u793",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u795-u797",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u798",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u802-u803",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u804",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u807-u815",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u817-u818",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u819",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u823-u824",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u825",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u828-u830",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u832",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u833-u836",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u838-u840",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u841",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u845-u849",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u851-u854",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u855",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u859-u861",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u863",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u864-u868",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u870-u873",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u874",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u878-u880",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u882",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u883-u886",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u888-u890",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u891",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u895-u900",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u902-u904",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u905",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u909-u910",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u911",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u914-u916",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u918",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u919-u920",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u921-u924",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Fifth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u925",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fifth Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u929-u935",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u937-u938",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u939",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u943-u944",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u945",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u948-u956",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u958",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u959",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u963-u965",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u966",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u969-u974",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u976-u977",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u978",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u982-u983",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u984",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u987-u989",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u991",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u992-u995",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u996",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u997",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u999-u1000",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1001",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1005-u1007",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1009",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1010-u1012",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1013",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1014",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1016-u1017",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1018",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1022-u1029",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1031-u1032",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1033",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1037-u1039",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1040",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1043-u1049",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1051-u1052",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1053",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1057-u1058",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1059",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1062-u1064",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1066",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1067-u1069",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1070",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1071-u1072",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1074-u1076",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1077",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Sixth Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1081-u1087",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1089-u1091",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1092",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1096-u1097",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1098",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1101-u1109",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1111-u1112",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1113",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1117-u1118",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1119",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1122-u1127",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1129-u1131",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1132",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1136",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1137",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1140-u1142",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1144",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1145-u1147",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1148-u1151",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1152",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1156-u1161",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1163-u1164",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1165",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1169-u1170",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1171",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1174-u1180",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1182-u1183",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1184",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1188-u1189",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1190",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1193-u1200",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1202-u1203",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1204",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1208-u1210",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1211",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1214-u1218",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1220-u1223",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Seventh Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1224",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Seventh Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1228-u1234",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1236-u1237",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1238",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1242-u1243",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1244",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1247-u1255",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1257",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1258",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1262-u1264",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1265",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1268-u1270",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1272",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1273-u1275",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1276",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1277-u1278",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1280-u1281",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1282",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1286-u1288",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1290",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1291-u1292",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1293",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1294-u1295",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1296-u1299",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1300",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1304-u1309",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1311-u1312",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1313",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1317-u1318",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1319",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1322-u1331",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1333-u1334",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1335",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1339-u1341",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1342",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1345-u1352",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1354-u1355",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1356",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1360-u1362",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1363",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1366-u1368",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1370",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1371-u1374",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1375-u1378",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Eighth Grade, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1379",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Eighth Grade, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1383-u1389",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1391-u1393",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1394",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1397",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1398-u1399",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1400",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1403-u1415",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1416",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1419-u1422",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1424-u1426",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1427",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1430",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1431",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1434-u1446",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1447",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1450",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 1. History > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1452-u1457",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 1. History > Academic Context and Connections"
+  },
+  {
+   "units": "u1458",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 1. History (page footer heading)"
+  },
+  {
+   "units": "u1461-u1463",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1465",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1466-u1469",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1470-u1474",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1475",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1478-u1486",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1488-u1490",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1491",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1494",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1495-u1496",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1497",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1500-u1507",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1509-u1510",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1511",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1514",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 2. Geography > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1515-u1517",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 2. Geography > Academic Context and Connections"
+  },
+  {
+   "units": "u1518",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 2. Geography (page footer heading)"
+  },
+  {
+   "units": "u1521-u1526",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1528-u1530",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1531",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1534",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1535",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1536",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1539-u1547",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1549-u1550",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1551",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1554",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1555-u1557",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1558",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1561-u1563",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1565",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1566-u1567",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1568",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1569-u1570",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1572-u1574",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1575",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1578-u1581",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1583-u1584",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1585-u1588",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1590-u1592",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 3. Economics > Academic Context and Connections"
+  },
+  {
+   "units": "u1593",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 3. Economics (page footer heading)"
+  },
+  {
+   "units": "u1596",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 3. Economics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1597-u1604",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1606-u1607",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1608",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1611",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1612-u1614",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1615",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1618-u1629",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1631",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1632",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1635",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1636-u1638",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1639",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1642-u1643",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1644",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1647-u1655",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1657-u1658",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1659",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1662",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 4. Civics > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1663-u1665",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 4. Civics > Academic Context and Connections"
+  },
+  {
+   "units": "u1666",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 4. Civics (page footer heading)"
+  },
+  {
+   "units": "u1669-u1671",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1673",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1674-u1675",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1676-u1679",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1680",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1683-u1691",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1693-u1694",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1695",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1698",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1699-u1701",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1702",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1705-u1707",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1709",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1710-u1715",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1717",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1718",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1721",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1722-u1723",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1724",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1727-u1729",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1731",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1732-u1734",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1736-u1738",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1739",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1742-u1748",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1750-u1751",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1752",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  },
+  {
+   "units": "u1755",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High School, Standard 5. Personal Financial Literacy > Standard text (PG/GLE/EO)"
+  },
+  {
+   "units": "u1756-u1758",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High School, Standard 5. Personal Financial Literacy > Academic Context and Connections"
+  },
+  {
+   "units": "u1759",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High School, Standard 5. Personal Financial Literacy (page footer heading)"
+  }
+ ],
+ "issues": [
+  "u17: Prepared Graduates overview list (8 statements) labeled standards with grades 'all' (applies to every grade); assembler will copy it everywhere.",
+  "Page footer heading units (x=108, '<Grade>, Standard N. <Name>') labeled backup because they only repeat the page header; one per page, e.g. u55, u68, u138.",
+  "Two-column interleaving: continuation units without a prefix were assigned by x-position and leading numbering (e.g. u88 x=414 = Supportive Teaching items 4-9 of preschool civics; u94-u97 preschool civics ordering scrambled; u1438-u1446 HS Standards 1.3 evidence outcomes c-g split across x=414/428/68). Wrapped Students Can text where a fragment has no x and no list marker inherits the previous unit's category (e.g. u132, u326, u343, u1352).",
+  "u1457 ('9.') and u1474 ('8.'): stray numbering fragments with no text, labeled examples (end of ACC list on HS 1.3 and 2.1); likely extraction remnants.",
+  "SS.* GLE code units (e.g. u58, u71, u141, u1397) are separate tiny units placed at page end; labeled standards.",
+  "Page-start units on pages with running header lacking grade (e.g. u605, u658, u696, u802, u909, u1037, u1096, u1420-u1422) are continuations of the previous GLE page; grade carried over. u1420-u1422 are Evidence Outcomes i-j (standards) continued from u1407-u1415, not ACC.",
+  "Guide note 'same PDF saved twice': the _582b69 duplicate not labeled."
+ ]
+}

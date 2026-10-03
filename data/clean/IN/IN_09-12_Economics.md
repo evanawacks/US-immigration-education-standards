@@ -2,7 +2,7 @@
 
 - State: IN
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: 2026-Indiana-Academic-Standards-Economics_933337.pdf
 
 ## Standards

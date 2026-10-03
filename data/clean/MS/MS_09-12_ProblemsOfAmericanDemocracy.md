@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Problems of American Democracy (Problems of American Democracy)
+- Course: Problems of American Democracy [Civics & Government] (as written: Problems of American Democracy)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

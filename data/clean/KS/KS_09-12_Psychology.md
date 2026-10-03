@@ -2,7 +2,7 @@
 
 - State: KS
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: KS hgss-standards-benchmarks-and-appendices.pdf
 
 ## Standards

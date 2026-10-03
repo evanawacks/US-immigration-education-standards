@@ -2,7 +2,7 @@
 
 - State: KS
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: KS hgss-standards-benchmarks-and-appendices.pdf
 
 ## Standards

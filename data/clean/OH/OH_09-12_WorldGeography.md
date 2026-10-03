@@ -2,7 +2,7 @@
 
 - State: OH
 - Grade: [9,10,11,12]
-- Course: World Geography (World Geography)
+- Course: World Geography [Geography] (as written: World Geography)
 - Source files: Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf
 
 ## Standards

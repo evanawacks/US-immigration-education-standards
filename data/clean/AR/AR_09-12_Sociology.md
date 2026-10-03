@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: AR_Sociology_Standards_2022_LS.pdf
 
 ## Standards

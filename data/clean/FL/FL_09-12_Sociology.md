@@ -2,7 +2,7 @@
 
 - State: FL
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: florida_k-12_social_studies.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: IA
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: download_e5f143.pdf
 
 ## Standards

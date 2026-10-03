@@ -2,7 +2,7 @@
 
 - State: IN
 - Grade: [9,10,11,12]
-- Course: U.S. History (U.S. History)
+- Course: US History [US History] (as written: U.S. History)
 - Source files: 2026-Indiana-Academic-Standards-U.S.-History_fa7d1b.pdf
 
 ## Standards

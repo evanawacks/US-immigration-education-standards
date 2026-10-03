@@ -2,7 +2,7 @@
 
 - State: SC
 - Grade: [9,10,11,12]
-- Course: Human Geography (Human Geography)
+- Course: Human Geography [Geography] (as written: Human Geography)
 - Source files: SC 2019-SCSSCCR Standards-Final with appendices.pdf
 
 ## Standards

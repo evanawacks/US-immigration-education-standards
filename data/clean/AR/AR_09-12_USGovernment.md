@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: U.S. Government (U.S. Government)
+- Course: US Government [Civics & Government] (as written: U.S. Government)
 - Source files: AR_US_Government_Standards_2022_LS.pdf
 
 ## Standards

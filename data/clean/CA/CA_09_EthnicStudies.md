@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Ethnic Studies (Ethnic Studies)
+- Course: Ethnic Studies [Ethnic & Cultural Studies] (as written: Ethnic Studies)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

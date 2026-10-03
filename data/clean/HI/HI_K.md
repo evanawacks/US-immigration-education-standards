@@ -3,10 +3,11 @@
 - State: HI
 - Grade: [0]
 - Course: (none)
-- Source files: HCSSSgr1_c61d03.pdf; HCSSSgr2_cc4e98.pdf; HCSSSgrK_26da93.pdf
+- Source files: HCSSSgrK_26da93.pdf
 
 ## Standards
 
+KINDERGARTEN
 Anchor Standard
 Grades K-2 Inquiry Standards
 The student demonstrates an understanding of
@@ -36,42 +37,8 @@ Anchor Standard 5
 Inquiry Standard SS.K-2.5.1 Identify problems or issues in classrooms, schools, or communities
 Taking Informed Action
 Inquiry Standard SS.K-2.5.2 Identify ways in which people are trying to address problems or issues in classrooms, schools, or communities
-Inquiry Standard SS.K-2.5.3 Use deliberative and democratic procedures (e.g., listening, consensus-building, voting) to identify ways to take action on classroom, school, or community problems or issues
-Inquiry Standard SS.K-2.5.4 Show evidence of taking individual or group action on one or more problems or issues
-Anchor Standard
-Anchor Standard 1
-Developing Questions and
-Planning Inquiries
-Anchor Standard 2
-Gathering and Evaluating
-Sources
-Anchor Standard 3
-Begins in grades 3-5
-Creating Claims
-Begins in grades 3-5
-Anchor Standard 4
-Communicating
-Conclusions
-Anchor Standard 5
-Taking Informed Action
-KINDERGARTEN
-Anchor Standard
-Anchor Standard 1
-Developing Questions and
-Planning Inquiries
-Anchor Standard 2
-Gathering and Evaluating
-Sources
-Anchor Standard 3
-Begins in grades 3-5
-Creating Claims
-Begins in grades 3-5
-Anchor Standard 4
-Communicating
-Conclusions
-Anchor Standard 5
-Taking Informed Action
 Inquiry Standard SS.K-2.5.3 Use deliberative and democratic procedures (e.g., listening, consensus building, voting) to identify ways to take action on classroom, school, or community problems or issues
+Inquiry Standard SS.K-2.5.4 Show evidence of taking individual or group action on one or more problems or issues
 Theme 1
 Working Together
 Anchor Standard
@@ -172,12 +139,6 @@ Questions
 
 ## Issues
 
-HCSSSgr1_c61d03.pdf: Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.
-HCSSSgr1_c61d03.pdf: Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.
-HCSSSgr1_c61d03.pdf: u18, u20: Anchor Standard 3 shows 'Begins in grades 3-5' placeholders; labeled K-2 standards.
-HCSSSgr2_cc4e98.pdf: Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.
-HCSSSgr2_cc4e98.pdf: Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.
-HCSSSgr2_cc4e98.pdf: u18, u20: Anchor Standard 3 shows 'Begins in grades 3-5' placeholders; labeled K-2 standards.
 HCSSSgrK_26da93.pdf: Inquiry standards table (u2-u32/u34) is headed 'Grades K-2 Inquiry Standards' and is repeated in each grade file: labeled with that grade band, course null.
 HCSSSgrK_26da93.pdf: Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.
 HCSSSgrK_26da93.pdf: u18, u20: Anchor Standard 3 (Creating Claims) shows 'Begins in grades 3-5' placeholders instead of standards; labeled K-2 standards.

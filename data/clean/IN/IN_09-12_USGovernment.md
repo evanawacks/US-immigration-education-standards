@@ -2,7 +2,7 @@
 
 - State: IN
 - Grade: [9,10,11,12]
-- Course: U.S. Government (U.S. Government)
+- Course: US Government [Civics & Government] (as written: U.S. Government)
 - Source files: 2026-Indiana-Academic-Standards-U.S.-Government_5c0f46.pdf
 
 ## Standards

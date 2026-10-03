@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: Social Studies Advanced Studies (Social Studies Advanced Studies)
+- Course: Social Studies Advanced Studies [Advanced/Other] (as written: Social Studies Advanced Studies)
 - Source files: TX highschool SS.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: MA
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: 2018-12_3e7081.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: AK
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: Adopted-AK-SS-Standards-2024_09c1fb.pdf
 
 ## Standards

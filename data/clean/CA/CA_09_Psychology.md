@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

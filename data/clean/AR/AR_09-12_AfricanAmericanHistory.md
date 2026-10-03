@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: African American History (African American History)
+- Course: African American History [Ethnic & Cultural Studies] (as written: African American History)
 - Source files: AR_African_American_History_Standards_2022_LS.pdf
 
 ## Standards

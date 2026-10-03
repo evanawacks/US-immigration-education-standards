@@ -62,6 +62,27 @@ PHILOSOPHY AND GUIDING ASSUMPTIONS
 The aim of social studies is the promotion of civic competence – the knowledge, intellectual processes, and democratic dispositions required of students to be active and engaged participants in public life. Although civic competence is not the only responsibility of social studies nor is it exclusive to the field, it is more central to social studies than any other subject areas in schools. Civic competence rests on a commitment to democratic values, and requires the ability to use knowledge about one’s community, nation, and world; apply inquiry processes; and employ skills to of data collection and analysis, collaboration, decision-making, and problem solving.
 How to Read Ohio’s Social Studies Standards, K-12
 [running headers/footers] 2 | OHIO’S LEARNING STANDARDS | Social Studies | ADOPTED 2018 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | CONTENT STATEMENTS: | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47
+[09-12] HIGH SCHOOL
+[09-12] The revised standards for high school contain syllabi for six high school social studies courses:
+[09-12] American History
+[09-12] American Government
+[09-12] Modern World History
+[09-12] Economics and Financial Literacy
+[09-12] Contemporary World Issues
+[09-12] World Geography
+[09-12] Each course contains a theme and broad topics which are further clarified with content statements. Grade levels are not specified for any of the courses.
+[09-12] Social Studies Standards, High School
+[09-12] The inclusion of particular courses in the standards is not meant to require that all of these courses be offered or limit the choice of courses which districts may offer in their social studies programs.
+[09-12] HOW TO READ OHIO’S SOCIAL STUDIES STANDARDS: HIGH SCHOOL
+[09-12] Ohio’s Learning Standards for Social Studies contain the standards for six high school social studies courses: American History, American Government, Modern World History, Economics and Financial Literacy, Contemporary World Issues and World Geography. Each contains a course theme and broad topics that are further clarified with content statements. Grade levels are not specified for any of the courses. The standards, adopted by the State Board of Education in 2018, are available for districts to use as they plan course offerings. Ohio requires the following for graduation: one-half unit of American history; one-half unit of American government; and two units of social studies and one-half of those credits must be world history and civilization. End-of-course exams will be aligned to the American History and American Government in the 2019-2020 school year.
+[09-12] The standards are organized by:
+[09-12] Themes, Topics and Content Statements.
+[09-12] THEMES The descriptive narrative of a high school course.
+[09-12] TOPICS The different aspects of content within a theme.
+[09-12] CONTENT STATEMENTS The essential knowledge students should learn at each grade level or within each course.
+[09-12] COURSE THEMES
+[09-12] COURSE
+[09-12] THEME
 
 ## Issues
 

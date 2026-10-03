@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Humanities (Humanities)
+- Course: Humanities [Religion & Humanities] (as written: Humanities)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

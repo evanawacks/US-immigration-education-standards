@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: AR_Psychology_Standards_2022_LS.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: Social Studies Research Methods (Social Studies Research Methods)
+- Course: Social Studies Research Methods [Advanced/Other] (as written: Social Studies Research Methods)
 - Source files: TX highschool SS.pdf
 
 ## Standards

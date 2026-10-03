@@ -2,7 +2,7 @@
 
 - State: MI
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: Final_Social_Studies_Standards_Document_655968_7_1bc63b.pdf
 
 ## Standards

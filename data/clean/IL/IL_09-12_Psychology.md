@@ -2,7 +2,7 @@
 
 - State: IL
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: IL-Social-Science-Standards_4db7c3.pdf
 
 ## Standards

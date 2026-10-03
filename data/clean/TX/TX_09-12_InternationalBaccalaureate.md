@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: International Baccalaureate (International Baccalaureate)
+- Course: International Baccalaureate [Advanced/Other] (as written: International Baccalaureate)
 - Source files: TX AP IB SS.pdf
 
 ## Standards

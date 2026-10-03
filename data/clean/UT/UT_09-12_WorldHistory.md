@@ -2,7 +2,7 @@
 
 - State: UT
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: UT WorldHistory SS highschool.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Law Related Education (Law Related Education)
+- Course: Law-Related Education [Civics & Government] (as written: Law Related Education)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

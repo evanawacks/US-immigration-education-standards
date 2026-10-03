@@ -2,7 +2,7 @@
 
 - State: DC
 - Grade: [9,10,11,12]
-- Course: World History I (World History I)
+- Course: World History I [World History] (as written: World History I)
 - Source files: DC Standards in English.pdf
 
 ## Standards

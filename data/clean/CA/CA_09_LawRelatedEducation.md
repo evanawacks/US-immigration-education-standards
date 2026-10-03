@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Law-Related Education (Law-Related Education)
+- Course: Law-Related Education [Civics & Government] (as written: Law-Related Education)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

@@ -87,6 +87,42 @@ Students will develop a variety of evidence-based written products designed for 
 presentations for multiple purposes related to social studies content.
 2. The student will engage in authentic research to acquire, refine, and share knowledge through written presentations and products.
 [running headers/footers] 1 | 80 | 4 | 91 | 6 | 103 | 11 | 119 | 17 | 130 | 24 | 137 | 31 | 143 | 38 | 48 | 164 | 57 | 167 | 65 | 169 | Oklahoma Academic Standards for Social Studies | 2 | 3 | 5 | 7 | 8 | 9 | 10 | 12 | 13 | 14 | 15 | 16 | 18 | 19 | 20 | 21 | 22 | 23 | 25 | 26 | 27 | 28 | 29 | 30 | 32 | 33 | 34 | 35 | 36 | 37 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 | 101 | 102 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111 | 112 | 113 | 114 | 115 | 116 | 117 | 118 | 120 | 121 | 122 | 123 | 124 | 125 | 126 | 127 | 128 | 129 | 131 | 132 | 133 | 134 | 135 | 136 | 138 | 139 | 140 | 141 | 142 | 144 | 145 | 146 | 147 | 148 | 149 | 150 | 151 | 152 | 153 | 154 | 155 | 156 | 157 | 158 | 159 | 160 | 161 | 162 | 163 | 165 | 166 | 168 | 170 | 171 | 172 | 173 | 174 | 175 | 176 | 177
+[09-12] Grades 9-12
+[09-12] A. (9-12) Evaluate the impact of perspectives, civil discourse, and democratic principles on addressing civic issues.
+[09-12] B. (9-12) Engage in a range of deliberative and democratic processes to develop strategies to address authentic, real-world problems in community and out-of-school contexts.
+[09-12] C. (9-12) Gather and evaluate information regarding complex problems, assessing individual and collective actions taken to address them.
+[09-12] A. (9-12) Develop, investigate, and evaluate plausible answers to essential questions that reflect enduring understandings across time, real world circumstances, and social studies disciplines.
+[09-12] B. (9-12) Evaluate points of agreement and disagreement from reliable information and expert interpretations used to answer supporting questions related to content knowledge.
+[09-12] C. (9-12) Reinforce critical thinking by evaluating and challenging ideas and assumptions; analyzing and explaining inconsistencies in reasoning.
+[09-12] D. (9-12) Demonstrate understanding of content through the development of self-driven inquiries and the completion of multi-staged, authentic tasks and assessments.
+[09-12] Grades 9-12
+[09-12] A. (9-12) Evaluate various significant documents from the United States and other nations to compare civic virtues and principles of political systems.
+[09-12] B. (9-12) Evaluate the impact of the structure and powers exercised by governmental systems on public policy, using historical and contemporary examples.
+[09-12] C. (9-12) Analyze the impact of constitutions, laws, treaties, and international agreements, by comparing how various governmental powers and responsibilities have changed over time.
+[09-12] A. (9-12) Gather and evaluate the usefulness of various formats of evidence for specific inquiry, analyzing the broader historical context, and assessing potential bias and credibility of sources.
+[09-12] B. (9-12) Analyze complex and interacting factors that influence multiple perspectives during different historical eras and contemporary events.
+[09-12] C. (9-12) Evaluate how multiple, complex events are shaped by unique circumstances of time and place; construct and interpret parallel timelines.
+[09-12] A. (9-12) Actively engage in asking and answering geographic questions by acquiring, organizing, and analyzing multiple sources of data and information about the world’s past and present.
+[09-12] B. (9-12) Compare and analyze complex maps and mapping technologies to analyze spatial patterns of human and physical environments, explaining relationships between the environment and events, past and present.
+[09-12] C. (9-12) Evaluate the extent to which political and economic decisions have had significant impact on human and physical environments of various places and regions.
+[09-12] A. (9-12) Evaluate economic data from charts and graphs, noting trends and making predictions.
+[09-12] B. (9-12) Construct arguments using a combination of evidence regarding solutions used by nations to address historical or contemporary economic issues.
+[09-12] C. (9-12) Evaluate the impact, both intended and
+[09-12] unintended, of government policies on market outcomes at national and global levels, past and present.
+[09-12] Grades 9-12
+[09-12] A. (9-12) Cite specific textual evidence to support analysis of primary and secondary sources, evaluating features such as author, date, and origin of information.
+[09-12] B. (9-12) Analyze information from visual, oral, digital, and interactive texts (e.g., maps, charts, images, political cartoons, videos, artwork) in order to draw conclusions and defend arguments.
+[09-12] A. (9-12) Evaluate the extent to which historical or cultural perspectives affect an author’s stated or implied purpose.
+[09-12] B. (9-12) Evaluate author’s point of view, potential bias, and how authors can reach different conclusions regarding the same issue.
+[09-12] C. (9-12) Actively listen, evaluate, and analyze a speaker’s message, asking questions while engaged in collaborative discussions about social studies topics and texts.
+[09-12] Grades 9-12
+[09-12] A. (9-12) Compose informative essays and written products, developing a
+[09-12] thesis, citing and incorporating evidence from multiple sources and maintaining an organized, formal structure.
+[09-12] B. (9-12) Compose argumentative written products, including a precise claim as distinguished from opposing claims, organizing logical reasoning, and providing credible evidence to develop an argument.
+[09-12] A. (9-12) Develop self- generated theses or claims related to independent research and investigations using credible and relevant sources.
+[09-12] A. (9-12) Integrate quotes and summaries of research findings into written products while avoiding plagiarism.
+[09-12] C. (9-12) Construct presentations or products for a designated audience, using
+[09-12] research and reasoning to enhance understanding of a topic or issue.
 
 ## Issues
 

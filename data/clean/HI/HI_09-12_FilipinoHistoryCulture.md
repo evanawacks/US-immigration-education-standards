@@ -2,7 +2,7 @@
 
 - State: HI
 - Grade: [9,10,11,12]
-- Course: Filipino History Culture (Filipino History Culture)
+- Course: Filipino History & Culture [Ethnic & Cultural Studies] (as written: Filipino History Culture)
 - Source files: FilipinoHistoryCultureCourseStandards_96ad1e.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: IL
 - Grade: [9,10,11,12]
-- Course: Religious Studies (Religious Studies)
+- Course: Religious Studies [Religion & Humanities] (as written: Religious Studies)
 - Source files: IL-Social-Science-Standards_4db7c3.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

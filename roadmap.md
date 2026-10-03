@@ -95,3 +95,7 @@ Each document will be read and split into segments by a Claude agent (not rule-b
 - Mechanics: how long documents are windowed (by page ranges), how agent output is validated against a JSON schema, how results are merged and re-run per document.
 
 The schema is to be drafted and agreed upon (test on 3 representative states: one-file-per-grade, grade-band, all-grades-in-one) before the full run.
+
+## Status update — Phase 2 clean corpus built
+
+`data/clean/` now holds the clean corpus: `standards.sqlite` / `standards.csv` (785 rows; one per state × grade cluster × course; columns body_standards, body_examples, backup, issues), one readable file per row, the naming convention (`data/clean/NAMING.md`) and the full pipeline description (`data/clean/README.md`). Maryland still has no source file.

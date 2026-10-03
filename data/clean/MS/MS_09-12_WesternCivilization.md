@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Western Civilization (Western Civilization)
+- Course: Western Civilization [World History] (as written: Western Civilization)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

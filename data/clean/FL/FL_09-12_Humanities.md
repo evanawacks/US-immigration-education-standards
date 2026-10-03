@@ -2,7 +2,7 @@
 
 - State: FL
 - Grade: [9,10,11,12]
-- Course: Humanities (Humanities)
+- Course: Humanities [Religion & Humanities] (as written: Humanities)
 - Source files: florida_k-12_social_studies.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: World Geography (World Geography)
+- Course: World Geography [Geography] (as written: World Geography)
 - Source files: AR_World_Geography_Standards_2022_LS.pdf
 
 ## Standards

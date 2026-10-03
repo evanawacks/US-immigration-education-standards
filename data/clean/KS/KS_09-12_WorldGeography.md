@@ -2,7 +2,7 @@
 
 - State: KS
 - Grade: [9,10,11,12]
-- Course: World Geography (World Geography)
+- Course: World Geography [Geography] (as written: World Geography)
 - Source files: KS hgss-standards-benchmarks-and-appendices.pdf
 
 ## Standards

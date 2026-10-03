@@ -2,7 +2,7 @@
 
 - State: FL
 - Grade: [9,10,11,12]
-- Course: African American History (African American History)
+- Course: African American History [Ethnic & Cultural Studies] (as written: African American History)
 - Source files: florida_k-12_social_studies.pdf
 
 ## Standards

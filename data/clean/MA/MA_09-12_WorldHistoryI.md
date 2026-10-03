@@ -2,7 +2,7 @@
 
 - State: MA
 - Grade: [9,10,11,12]
-- Course: World History I (World History I)
+- Course: World History I [World History] (as written: World History I)
 - Source files: 2018-12_3e7081.pdf
 
 ## Standards

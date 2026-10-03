@@ -2,7 +2,7 @@
 
 - State: ID
 - Grade: [6,7,8,9]
-- Course: World Geography (World Geography)
+- Course: World Geography [Geography] (as written: World Geography)
 - Source files: K-12-Social-Studies-Standards_4ca81c.pdf
 
 ## Standards

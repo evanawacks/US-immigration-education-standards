@@ -2,7 +2,7 @@
 
 - State: AL
 - Grade: [12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0_f8e7f0.pdf
 
 ## Standards

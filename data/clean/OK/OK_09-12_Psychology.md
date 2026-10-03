@@ -2,7 +2,7 @@
 
 - State: OK
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: Final_2025_SS_OAS_fc721b.pdf
 
 ## Standards

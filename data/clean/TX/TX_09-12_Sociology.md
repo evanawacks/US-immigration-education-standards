@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: TX highschool SS.pdf
 
 ## Standards

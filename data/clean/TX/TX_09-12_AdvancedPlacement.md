@@ -2,7 +2,7 @@
 
 - State: TX
 - Grade: [9,10,11,12]
-- Course: Advanced Placement (Advanced Placement)
+- Course: Advanced Placement [Advanced/Other] (as written: Advanced Placement)
 - Source files: TX AP IB SS.pdf
 
 ## Standards

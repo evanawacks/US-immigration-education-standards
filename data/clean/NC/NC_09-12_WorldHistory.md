@@ -2,7 +2,7 @@
 
 - State: NC
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: NC World History SS Standards - A.pdf
 
 ## Standards

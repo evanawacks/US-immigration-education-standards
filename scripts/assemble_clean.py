@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CLEAN = ROOT / "data" / "clean"
 sys.path.insert(0, str(ROOT / "scripts"))
 from check_labels import parse_units
+from course_vocab import standardize
 
 ORDER = ["PK", "K"] + [str(i) for i in range(1, 13)]
 NUM = {g: i - 1 for i, g in enumerate(ORDER)}  # PK=-1, K=0, 1..12
@@ -39,8 +40,8 @@ def glist(gs):
     return "[" + ",".join("PK" if n == -1 else str(n) for n in sorted(gs)) + "]"
 
 def slug(s):
-    s = re.sub(r"[^A-Za-z0-9]+", " ", s).title().replace(" ", "")
-    return s[:40]
+    words = re.split(r"[^A-Za-z0-9]+", s.replace("'", ""))
+    return "".join(w if w.isupper() else w[:1].upper() + w[1:] for w in words if w)[:40]
 
 def load_cfg():
     cfg = json.loads((CLEAN / "state_config.json").read_text())
@@ -68,11 +69,25 @@ def assemble_state(st, cfg, names):
         lf = CLEAN / "labels" / st / f"{fname}.labels.json"
         if not uf.exists(): state_issues.append(f"missing units file for {fname}"); continue
         units = {int(json.loads(l)["id"][1:]): json.loads(l) for l in open(uf)}
+        if fname.lower().endswith(".csv"):   # CASE export rows: keep "code statement", drop item type / sequence / grade code / timestamp
+            for u in units.values():
+                parts = u["text"].split(" | ")
+                if len(parts) >= 4 and re.fullmatch(r"\d{4}-\d\d-\d\dT[\d:.+-]+", parts[-1]):
+                    parts = parts[:-1]
+                    if re.fullmatch(r"(KG|\d\d)(-(\d\d))?", parts[-1]): parts = parts[:-1]
+                    if re.fullmatch(r"[\d.]+", parts[1]): parts = parts[2:]
+                    else: parts = parts[1:]
+                    u["text"] = " ".join(parts)
         if not lf.exists(): state_issues.append(f"missing labels for {fname}"); continue
         d = json.loads(lf.read_text())
         doc_issues = [f"{fname}: {x}" for x in d.get("issues", [])]
         labels = d.get("labels", [])
         doc_grades = frozenset().union(*[gset(l["grades"]) for l in labels if str(l["grades"]) != "all"]) if labels else frozenset()
+        # single-grade document (e.g. a "Grade 1" file): band-labeled shared items apply to that grade only
+        singles = {next(iter(gset(l["grades"]))) for l in labels if str(l["grades"]) != "all" and not l.get("course")
+                   and l["cat"] != "backup" and len(gset(l["grades"])) == 1}
+        clamp = frozenset(singles) if len(singles) == 1 and not any(l.get("course") for l in labels) else None
+        if clamp: doc_grades = clamp
         # course rows of this document
         course_rows = {}   # (title, grades) -> grades
         for l in labels:
@@ -98,8 +113,7 @@ def assemble_state(st, cfg, names):
         single_course = len(course_rows) == 1 and not specific
         def course_row(key):
             t, G = key
-            std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
-            return row(("C", t.lower(), G), G, std, t)
+            return row(("C", t.lower(), G), G, standardize(t), t)
         touched = set()
         for uid in sorted(units):
             u = units[uid]
@@ -110,6 +124,7 @@ def assemble_state(st, cfg, names):
                 allrow["backup"].append((fname, uid, u["text"])); state_issues.append(f"{fname}: u{uid} unlabeled -> backup"); continue
             cat = l["cat"]
             G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
+            if clamp and G & clamp: G = clamp
             targets = []
             if l.get("course"):
                 t = " ".join(l["course"].split())
@@ -160,7 +175,7 @@ def assemble_state(st, cfg, names):
             rid, grades, gl = f"{st}_ALL", "ALL", "[ALL]"
         else:
             gl = glist(r["grades"]); rid = f"{st}_{gtoken(r['grades'])}"
-            if r["course"]: rid += "_" + slug(r["course"])
+            if r["course"]: rid += "_" + slug(r["course"][0])
         def join(items):
             seen, out = set(), []
             for _, _, t in items:
@@ -168,7 +183,8 @@ def assemble_state(st, cfg, names):
                 if len(k) > 25 and k in seen: continue   # drop exact repeats (sidebars, repeated headers)
                 seen.add(k); out.append(t)
             return "\n".join(out)
-        out.append({"id": rid, "state": st, "grade": gl, "course": r["course"] or "", "course_title": r["course_title"] or "",
+        out.append({"id": rid, "state": st, "grade": gl, "course": r["course"][0] if r["course"] else "", "course_category": r["course"][1] if r["course"] else "",
+                    "course_title": r["course_title"] or "",
                     "body_standards": join(r["standards"]), "body_examples": join(r["examples"]), "backup": join(r["backup"]),
                     "source_files": "; ".join(r["files"]), "issues": "\n".join(dict.fromkeys(r["issues"]))})
     # disambiguate duplicate ids (same course slug in two docs)
@@ -184,7 +200,7 @@ def write(all_rows, states):
         d = CLEAN / st; d.mkdir(parents=True, exist_ok=True)
         for old in d.glob("*.md"): old.unlink()
     for o in all_rows:
-        txt = [f"# {o['id']}", "", f"- State: {o['state']}", f"- Grade: {o['grade']}", f"- Course: {o['course']} ({o['course_title']})" if o["course"] else "- Course: (none)",
+        txt = [f"# {o['id']}", "", f"- State: {o['state']}", f"- Grade: {o['grade']}", f"- Course: {o['course']} [{o['course_category']}] (as written: {o['course_title']})" if o["course"] else "- Course: (none)",
                f"- Source files: {o['source_files']}", "", "## Standards", "", o["body_standards"] or "(none)", "", "## Examples / clarifications", "", o["body_examples"] or "(none)",
                "", "## Backup (non-standards text)", "", o["backup"] or "(none)", "", "## Issues", "", o["issues"] or "(none)", ""]
         (CLEAN / o["state"] / f"{o['id']}.md").write_text("\n".join(txt))
@@ -195,7 +211,7 @@ def main():
     rows = []
     for st in states:
         if not cfg[st].get("files"):
-            rows.append({"id": f"{st}_NONE", "state": st, "grade": "[]", "course": "", "course_title": "", "body_standards": "", "body_examples": "", "backup": "",
+            rows.append({"id": f"{st}_NONE", "state": st, "grade": "[]", "course": "", "course_category": "", "course_title": "", "body_standards": "", "body_examples": "", "backup": "",
                          "source_files": "", "issues": "; ".join(cfg[st].get("issues", ["no source file"]))})
             continue
         rows.extend(assemble_state(st, cfg, names))
@@ -203,10 +219,10 @@ def main():
     # merge into db (replace rows of the states processed)
     db = CLEAN / "standards.sqlite"
     con = sqlite3.connect(db)
-    con.execute("""CREATE TABLE IF NOT EXISTS standards (id TEXT PRIMARY KEY, state TEXT, grade TEXT, course TEXT, course_title TEXT,
+    con.execute("""CREATE TABLE IF NOT EXISTS standards (id TEXT PRIMARY KEY, state TEXT, grade TEXT, course TEXT, course_category TEXT, course_title TEXT,
                    body_standards TEXT, body_examples TEXT, backup TEXT, source_files TEXT, issues TEXT)""")
     con.executemany("DELETE FROM standards WHERE state=?", [(s,) for s in states])
-    con.executemany("INSERT INTO standards VALUES (:id,:state,:grade,:course,:course_title,:body_standards,:body_examples,:backup,:source_files,:issues)", rows)
+    con.executemany("INSERT INTO standards VALUES (:id,:state,:grade,:course,:course_category,:course_title,:body_standards,:body_examples,:backup,:source_files,:issues)", rows)
     con.commit()
     allrows = [dict(zip([c[0] for c in con.execute("select * from standards").description], r)) for r in con.execute("select * from standards order by state, id")]
     with open(CLEAN / "standards.csv", "w", newline="") as f:

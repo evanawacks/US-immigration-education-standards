@@ -2,7 +2,7 @@
 
 - State: IL
 - Grade: [9,10,11,12]
-- Course: Anthropology (Anthropology)
+- Course: Anthropology [Behavioral Sciences] (as written: Anthropology)
 - Source files: IL-Social-Science-Standards_4db7c3.pdf
 
 ## Standards

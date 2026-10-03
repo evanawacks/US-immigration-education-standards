@@ -2,7 +2,7 @@
 
 - State: RI
 - Grade: [9,10,11,12]
-- Course: Civics (Civics)
+- Course: Civics [Civics & Government] (as written: Civics)
 - Source files: RhodeIsland_SocialStudiesStandards_FULL_4c95f6.pdf
 
 ## Standards

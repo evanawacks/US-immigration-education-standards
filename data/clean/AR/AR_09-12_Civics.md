@@ -2,7 +2,7 @@
 
 - State: AR
 - Grade: [9,10,11,12]
-- Course: Civics (Civics)
+- Course: Civics [Civics & Government] (as written: Civics)
 - Source files: AR_Civics_Standards_2022_LS.pdf
 
 ## Standards

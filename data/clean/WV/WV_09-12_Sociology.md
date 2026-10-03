@@ -2,7 +2,7 @@
 
 - State: WV
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: WV Social Studies Stadards.docx
 
 ## Standards

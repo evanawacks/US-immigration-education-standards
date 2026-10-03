@@ -2,7 +2,7 @@
 
 - State: MS
 - Grade: [9,10,11,12]
-- Course: Psychology I (Psychology I)
+- Course: Psychology I [Behavioral Sciences] (as written: Psychology I)
 - Source files: MS k12 social studies.pdf
 
 ## Standards

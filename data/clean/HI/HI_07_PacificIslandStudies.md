@@ -2,7 +2,7 @@
 
 - State: HI
 - Grade: [7]
-- Course: Pacific Island Studies (Pacific Island Studies)
+- Course: Pacific Island Studies [Regional Studies] (as written: Pacific Island Studies)
 - Source files: HCSSSPacificIslandStudies_d85df1.pdf
 
 ## Standards

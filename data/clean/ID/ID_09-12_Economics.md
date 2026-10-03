@@ -2,7 +2,7 @@
 
 - State: ID
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: K-12-Social-Studies-Standards_4ca81c.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: NV
 - Grade: [9,10,11,12]
-- Course: Civics & Economics (Civics & Economics)
+- Course: Civics & Economics [Civics & Government] (as written: Civics & Economics)
 - Source files: NVAC_Sfor_Social_Studies_ea0a1df6ac_f3c271.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: AL
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0_f8e7f0.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: KY
 - Grade: [9,10,11,12]
-- Course: Civics (Civics)
+- Course: Civics [Civics & Government] (as written: Civics)
 - Source files: Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf
 
 ## Standards

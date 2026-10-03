@@ -2,7 +2,7 @@
 
 - State: TN
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: TN_Academic_Social_Studies_Standards_25_0162ee.pdf
 
 ## Standards

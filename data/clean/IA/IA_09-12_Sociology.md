@@ -2,7 +2,7 @@
 
 - State: IA
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: download_e5f143.pdf
 
 ## Standards

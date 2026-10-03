@@ -2,7 +2,7 @@
 
 - State: CA
 - Grade: [9]
-- Course: Anthropology (Anthropology)
+- Course: Anthropology [Behavioral Sciences] (as written: Anthropology)
 - Source files: CA_hssframeworkwhole_k-12.pdf
 
 ## Standards

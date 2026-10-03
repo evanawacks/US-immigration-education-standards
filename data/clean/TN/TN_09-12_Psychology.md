@@ -2,7 +2,7 @@
 
 - State: TN
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: TN_Academic_Social_Studies_Standards_25_0162ee.pdf
 
 ## Standards

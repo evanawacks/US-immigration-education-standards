@@ -2,7 +2,7 @@
 
 - State: LA
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: k-12-louisiana-student-standards-for-social-studies_b9db19.pdf
 
 ## Standards

@@ -2,7 +2,7 @@
 
 - State: KY
 - Grade: [9,10,11,12]
-- Course: World History (World History)
+- Course: World History [World History] (as written: World History)
 - Source files: Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf
 
 ## Standards

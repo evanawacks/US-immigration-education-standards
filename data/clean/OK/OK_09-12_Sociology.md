@@ -2,7 +2,7 @@
 
 - State: OK
 - Grade: [9,10,11,12]
-- Course: Sociology (Sociology)
+- Course: Sociology [Behavioral Sciences] (as written: Sociology)
 - Source files: Final_2025_SS_OAS_fc721b.pdf
 
 ## Standards

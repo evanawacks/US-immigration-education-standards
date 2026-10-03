@@ -2,7 +2,7 @@
 
 - State: KY
 - Grade: [9,10,11,12]
-- Course: Economics (Economics)
+- Course: Economics [Economics] (as written: Economics)
 - Source files: Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf
 
 ## Standards

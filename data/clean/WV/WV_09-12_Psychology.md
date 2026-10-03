@@ -2,7 +2,7 @@
 
 - State: WV
 - Grade: [9,10,11,12]
-- Course: Psychology (Psychology)
+- Course: Psychology [Behavioral Sciences] (as written: Psychology)
 - Source files: WV Social Studies Stadards.docx
 
 ## Standards

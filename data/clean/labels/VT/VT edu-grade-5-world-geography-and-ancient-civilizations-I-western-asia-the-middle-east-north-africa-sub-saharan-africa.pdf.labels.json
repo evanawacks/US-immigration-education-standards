@@ -1,0 +1,1256 @@
+{
+ "state": "VT",
+ "file": "VT edu-grade-5-world-geography-and-ancient-civilizations-I-western-asia-the-middle-east-north-africa-sub-saharan-africa.pdf",
+ "structure": "Single-grade Vermont draft framework document (Grade 5 - World Geography and Ancient Civilizations I). Front matter: header banner, title, Overview narrative, Looking Back/Looking Ahead, Inquiry rationale and contact. Inquiry: 'Critical Proficiency (K-12)' Inquiry Process statement and three Priority Performance Indicators for grades 3-5 (Constructing Compelling and Supporting Questions; Gathering and Evaluating Sources; Communicating and Critiquing Solutions), then Overarching Themes. Body is organized by four subject sections (Civics, Economics, Geography, History); each opens with a K-12 'Critical Proficiency' statement and a 'Theme:' line, followed by 3-column tables: R1 headers 'Priority Performance Indicator (PPI)' | 'Sample PPI Connections' | 'Sample Content Connections'; each later row = one C3 strand (strand name + PPI text with D2 dimension numbers in C1; 'Students will be able to...' expectations in C2; bulleted sample content in C3). Rows continued over pages show '(continued)'. Each subject ends with a 'Resources' list. No state-specific standard codes. Labeling: title, themes, critical proficiency, PPIs (C1) and 'Students will' expectations (C2) = standards; sample content (C3), Overview narrative and Resources = examples; Looking Back/Ahead, inquiry rationale, 'not in this grade' notes and 'Intentionally blank' cells = backup.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Header banner"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade title and theme"
+  },
+  {
+   "units": "u4-u5",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Overview narrative"
+  },
+  {
+   "units": "u6",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Looking back / looking ahead"
+  },
+  {
+   "units": "u7",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter"
+  },
+  {
+   "units": "u8",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Looking back / looking ahead"
+  },
+  {
+   "units": "u9",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter"
+  },
+  {
+   "units": "u10",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale / contact (front matter)"
+  },
+  {
+   "units": "u11-u12",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale (front matter)"
+  },
+  {
+   "units": "u13-u15",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale / contact (front matter)"
+  },
+  {
+   "units": "u16",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Process (K-12)"
+  },
+  {
+   "units": "u17",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Priority Performance Indicators (3-5)"
+  },
+  {
+   "units": "u18-u22",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators"
+  },
+  {
+   "units": "u23",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching themes"
+  },
+  {
+   "units": "u24",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators / overarching themes list"
+  },
+  {
+   "units": "u27",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics (subject heading)"
+  },
+  {
+   "units": "u28",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Critical Proficiency (K-12)"
+  },
+  {
+   "units": "u29",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Theme: Evolving Power - See History PPIs"
+  },
+  {
+   "units": "u30",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > table header > PPI"
+  },
+  {
+   "units": "u31",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u32",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > table header > Sample content connections"
+  },
+  {
+   "units": "u33",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > PPI"
+  },
+  {
+   "units": "u34",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Civic and Political Institutions > scope note"
+  },
+  {
+   "units": "u35",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Civic and Political Institutions > blank cell"
+  },
+  {
+   "units": "u38",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > table header > PPI"
+  },
+  {
+   "units": "u39",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u40",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > table header > Sample content connections"
+  },
+  {
+   "units": "u41",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles > PPI"
+  },
+  {
+   "units": "u42",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Civic Virtues and Democratic Principles > scope note"
+  },
+  {
+   "units": "u43",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Civic Virtues and Democratic Principles > blank cell"
+  },
+  {
+   "units": "u44",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > PPI"
+  },
+  {
+   "units": "u45",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Rules, Processes, and Laws > scope note"
+  },
+  {
+   "units": "u46",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Civics > Rules, Processes, and Laws > blank cell"
+  },
+  {
+   "units": "u49",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (subject heading)"
+  },
+  {
+   "units": "u50",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Critical Proficiency (K-12)"
+  },
+  {
+   "units": "u51",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Theme: Expanding Networks"
+  },
+  {
+   "units": "u54",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u55",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u56",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u57",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > PPI"
+  },
+  {
+   "units": "u58",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u59",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Economic Decision Making > Sample content connections"
+  },
+  {
+   "units": "u62",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u63",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u64",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u65",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > PPI"
+  },
+  {
+   "units": "u66",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u67",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Economic Decision Making > Sample content connections"
+  },
+  {
+   "units": "u70",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u71",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u72",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u73",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > PPI"
+  },
+  {
+   "units": "u74",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u75",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Exchange and Markets > Sample content connections"
+  },
+  {
+   "units": "u78",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u79",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u80",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u81",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy > PPI"
+  },
+  {
+   "units": "u82",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics > The National Economy > scope note"
+  },
+  {
+   "units": "u83",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics > The National Economy > blank cell"
+  },
+  {
+   "units": "u86",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u87",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u88",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u89",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > PPI"
+  },
+  {
+   "units": "u90",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u91",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u94",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u95",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u96",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u97",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > PPI"
+  },
+  {
+   "units": "u98",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u99",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u102",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u103",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u104",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u105",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > PPI"
+  },
+  {
+   "units": "u106",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u107",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u110",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u111",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u112",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u113",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > PPI"
+  },
+  {
+   "units": "u114",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u115",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u118",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > PPI"
+  },
+  {
+   "units": "u119",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u120",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > table header > Sample content connections"
+  },
+  {
+   "units": "u121",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > PPI"
+  },
+  {
+   "units": "u122",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u123",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u124-u132",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Resources"
+  },
+  {
+   "units": "u135",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (subject heading)"
+  },
+  {
+   "units": "u136",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Critical Proficiency (K-12)"
+  },
+  {
+   "units": "u137",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Theme: Shaping Civilizations"
+  },
+  {
+   "units": "u138",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u139",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u140",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u141",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > PPI"
+  },
+  {
+   "units": "u142",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u143",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Geographic Representations > Sample content connections"
+  },
+  {
+   "units": "u146",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u147",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u148",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u149",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > PPI"
+  },
+  {
+   "units": "u150",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u151",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human-Environment Interaction > Sample content connections"
+  },
+  {
+   "units": "u154",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u155",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u156",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u157",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u158",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u159",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u162",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u163",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u164",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u165",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u166",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u167",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u170",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u171",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u172",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u173",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u174",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u175",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u178",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u179",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u180",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u181",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u182",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u183",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u186",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u187",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u188",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u189",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u190",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u191",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u194",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u195",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u196",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u197",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > PPI"
+  },
+  {
+   "units": "u198",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u199",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population > Sample content connections"
+  },
+  {
+   "units": "u202",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > PPI"
+  },
+  {
+   "units": "u203",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u204",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > table header > Sample content connections"
+  },
+  {
+   "units": "u205",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > PPI"
+  },
+  {
+   "units": "u206",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u207",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Global Interconnections > Sample content connections"
+  },
+  {
+   "units": "u210-u221",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Resources"
+  },
+  {
+   "units": "u224",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History (subject heading)"
+  },
+  {
+   "units": "u225",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Critical Proficiency (K-12)"
+  },
+  {
+   "units": "u226",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Theme: Building Societies"
+  },
+  {
+   "units": "u229",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > PPI"
+  },
+  {
+   "units": "u230",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u231",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > table header > Sample content connections"
+  },
+  {
+   "units": "u232",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > PPI"
+  },
+  {
+   "units": "u233",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u234",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > Sample content connections"
+  },
+  {
+   "units": "u237",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > PPI"
+  },
+  {
+   "units": "u238",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u239",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > table header > Sample content connections"
+  },
+  {
+   "units": "u240",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > PPI"
+  },
+  {
+   "units": "u241",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u242",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > Sample content connections"
+  },
+  {
+   "units": "u245",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > PPI"
+  },
+  {
+   "units": "u246",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u247",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > table header > Sample content connections"
+  },
+  {
+   "units": "u248",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > PPI"
+  },
+  {
+   "units": "u249",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u250",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > Sample content connections"
+  },
+  {
+   "units": "u253",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > PPI"
+  },
+  {
+   "units": "u254",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > table header > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u255",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > table header > Sample content connections"
+  },
+  {
+   "units": "u256",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > PPI"
+  },
+  {
+   "units": "u257",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > Sample PPI connections (student expectations)"
+  },
+  {
+   "units": "u258",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > Sample content connections"
+  },
+  {
+   "units": "u259-u269",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Resources"
+  }
+ ],
+ "issues": [
+  "Inquiry Process / C3-indicator / Priority Performance Indicator lists that name a band (K-2, 3-5, 6-8) or K-12 are labeled with that band (shared inquiry skills); everything else is labeled with this file's single grade, per the state guide (one document = one grade).",
+  "Resource entries that wrap across pages are split into two units (second unit continues the first); both are labeled examples.",
+  "'Note:' lines saying an indicator is not addressed in this grade, and the 'Looking Back/Looking Ahead' paragraphs, are labeled backup.",
+  "u29: Civics theme reads 'Evolving Power - See History PPIs'; overarching themes list 'Emerging Governance'; Civics PPIs (u33-u46) are explicitly 'not in Grade 5' with 'Intentionally blank' content cells (u35, u43, u46, u83); notes/blank cells labeled backup, PPI text in C1 labeled standards.",
+  "u81: 'The National Economy' row C1 repeats the Exchange and Markets PPI text (document copy error); labeled standards.",
+  "u127: numbered list items '4.-6.' under Ancient Trade Networks resource; labeled examples (resource text).",
+  "u219-u220: Marco Polo lessons bullet list under resources; labeled examples.",
+  "u17: unit text duplicates 'Priority Performance Indicators' twice; labeled 3-5 standards."
+ ]
+}

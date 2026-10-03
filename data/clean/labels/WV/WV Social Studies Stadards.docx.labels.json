@@ -1,0 +1,902 @@
+{
+ "state": "WV",
+ "file": "WV Social Studies Stadards.docx",
+ "structure": "West Virginia College- and Career-Readiness Standards for Social Studies (Policy 2520.4, Title 126 Series 44D), Word document. Front matter (u1-u54): legislative rule sections 1-5, Introduction, Explanation of Terms and numbering (SS.<grade or course>.<number>, e.g. SS.3.1, SS.W.20), four content-area descriptions (Civics, Economics, Geography, History), indicators intro and literacy note. Then grade-band indicator charts (K-2 u55-u66, 3-5 u220-u231, 6-8 u393-u404, 9-12 u571-u582): two-column table with a Develop-questions row, then Civics/Economics, Geography/History(+Literacy) header rows each followed by a single cell of paragraph-form indicators; these are standards for that band. K-8: each grade has a 'Grade Standards' heading, an overview paragraph (examples), then one table per strand (Civics, Economics, Geography, History, WV History) whose first row is the strand title and each following row is [code SS.g.n | standard text]; K=SS.K.1-22, 1=SS.1.1-23, 2=SS.2.1-21, 3=SS.3.1-23, 4=SS.4.1-19, 5=SS.5.1-28, 6=SS.6.1-24, 7=SS.7.1-24, 8=SS.8.1-26 (8th grade is West Virginia Studies, grade-level, not a course). Grades 9-12: indicator chart, then one section per course with a title, overview paragraph (examples) and strand tables with coded rows: World Studies SS.W.1-28, United States Studies SS.US.1-23 (described as Tenth Grade, so grade 10), United States Studies - Comprehensive SS.USC.1-30, Contemporary Studies SS.CS.1-24, Civics SS.C.1-37 (plus a Personal Finance embedding note), Economics SS.E.1-43, Geography SS.G.1-25, Sociology SS.S.1-35, Psychology SS.P.1-27 (domain headers Scientific Inquiry, Biopsychology, Cognition, etc., and Application rows for careers). Appendix A: Personal Finance standards numbered 1-10 (no SS prefix) to be embedded in Civics. Examples/e.g. lists are inside the standard text (not labeled separately). Table cells are [T n R r C c]; C1 is code or strand title, C2 is text.",
+ "labels": [
+  {
+   "units": "u1-u54",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Legal rule text, introduction, numbering, strand descriptions: front matter / note"
+  },
+  {
+   "units": "u55",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 indicators chart: title"
+  },
+  {
+   "units": "u56",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "K-2 indicators chart: front matter / note"
+  },
+  {
+   "units": "u57-u66",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "K-2 indicators chart"
+  },
+  {
+   "units": "u67",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: title"
+  },
+  {
+   "units": "u68",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten: course/grade overview narrative"
+  },
+  {
+   "units": "u69-u77",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Civics"
+  },
+  {
+   "units": "u78-u86",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Economics"
+  },
+  {
+   "units": "u87-u97",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > Geography"
+  },
+  {
+   "units": "u98-u106",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > History"
+  },
+  {
+   "units": "u107-u117",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten > WV History"
+  },
+  {
+   "units": "u118",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: title"
+  },
+  {
+   "units": "u119",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: course/grade overview narrative"
+  },
+  {
+   "units": "u120-u130",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Civics"
+  },
+  {
+   "units": "u131-u139",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Economics"
+  },
+  {
+   "units": "u140-u152",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > Geography"
+  },
+  {
+   "units": "u153-u161",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > History"
+  },
+  {
+   "units": "u162-u170",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 > WV History"
+  },
+  {
+   "units": "u171",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: title"
+  },
+  {
+   "units": "u172",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: course/grade overview narrative"
+  },
+  {
+   "units": "u173-u181",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Civics"
+  },
+  {
+   "units": "u182-u190",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Economics"
+  },
+  {
+   "units": "u191-u201",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > Geography"
+  },
+  {
+   "units": "u202-u208",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > History"
+  },
+  {
+   "units": "u209-u219",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 > WV History"
+  },
+  {
+   "units": "u220",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 indicators chart: title"
+  },
+  {
+   "units": "u221",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "3-5 indicators chart: front matter / note"
+  },
+  {
+   "units": "u222-u231",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "3-5 indicators chart"
+  },
+  {
+   "units": "u232",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: title"
+  },
+  {
+   "units": "u233",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: course/grade overview narrative"
+  },
+  {
+   "units": "u234-u246",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Civics"
+  },
+  {
+   "units": "u247-u257",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Economics"
+  },
+  {
+   "units": "u258-u274",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > Geography"
+  },
+  {
+   "units": "u275-u279",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > History"
+  },
+  {
+   "units": "u280-u284",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 > WV History"
+  },
+  {
+   "units": "u285",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: title"
+  },
+  {
+   "units": "u286",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: course/grade overview narrative"
+  },
+  {
+   "units": "u287-u295",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Civics"
+  },
+  {
+   "units": "u296-u302",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Economics"
+  },
+  {
+   "units": "u303-u311",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > Geography"
+  },
+  {
+   "units": "u312-u320",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > History"
+  },
+  {
+   "units": "u321-u329",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 > WV History"
+  },
+  {
+   "units": "u330",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: title"
+  },
+  {
+   "units": "u331",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: course/grade overview narrative"
+  },
+  {
+   "units": "u332-u344",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Civics"
+  },
+  {
+   "units": "u345-u359",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Economics"
+  },
+  {
+   "units": "u360-u374",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > Geography"
+  },
+  {
+   "units": "u375-u385",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > History"
+  },
+  {
+   "units": "u386-u392",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 > WV History"
+  },
+  {
+   "units": "u393",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 indicators chart: title"
+  },
+  {
+   "units": "u394",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "6-8 indicators chart: front matter / note"
+  },
+  {
+   "units": "u395-u404",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "6-8 indicators chart"
+  },
+  {
+   "units": "u405",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: title"
+  },
+  {
+   "units": "u406",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: course/grade overview narrative"
+  },
+  {
+   "units": "u407-u421",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Civics"
+  },
+  {
+   "units": "u422-u434",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Economics"
+  },
+  {
+   "units": "u435-u445",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > Geography"
+  },
+  {
+   "units": "u446-u458",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 > History"
+  },
+  {
+   "units": "u459",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: title"
+  },
+  {
+   "units": "u460",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: course/grade overview narrative"
+  },
+  {
+   "units": "u461-u469",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Civics"
+  },
+  {
+   "units": "u470-u480",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Economics"
+  },
+  {
+   "units": "u481-u503",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > Geography"
+  },
+  {
+   "units": "u504-u512",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 > History"
+  },
+  {
+   "units": "u513",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 West Virginia Studies: title"
+  },
+  {
+   "units": "u514",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 West Virginia Studies: course/grade overview narrative"
+  },
+  {
+   "units": "u515-u525",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 West Virginia Studies > Civics"
+  },
+  {
+   "units": "u526-u540",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 West Virginia Studies > Economics"
+  },
+  {
+   "units": "u541-u555",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 West Virginia Studies > Geography"
+  },
+  {
+   "units": "u556-u570",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 West Virginia Studies > History"
+  },
+  {
+   "units": "u571",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "9-12 indicators chart: title"
+  },
+  {
+   "units": "u572",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "9-12 indicators chart: front matter / note"
+  },
+  {
+   "units": "u573-u582",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "9-12 indicators chart"
+  },
+  {
+   "units": "u583",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "standards",
+   "section": "World Studies: title"
+  },
+  {
+   "units": "u584",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "examples",
+   "section": "World Studies: course/grade overview narrative"
+  },
+  {
+   "units": "u585-u595",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "standards",
+   "section": "World Studies > Civics"
+  },
+  {
+   "units": "u596-u604",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "standards",
+   "section": "World Studies > Economics"
+  },
+  {
+   "units": "u605-u617",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "standards",
+   "section": "World Studies > Geography"
+  },
+  {
+   "units": "u618-u644",
+   "grades": "9-12",
+   "course": "World Studies",
+   "cat": "standards",
+   "section": "World Studies > History"
+  },
+  {
+   "units": "u645",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "standards",
+   "section": "United States Studies: title"
+  },
+  {
+   "units": "u646",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "examples",
+   "section": "United States Studies: course/grade overview narrative"
+  },
+  {
+   "units": "u647-u655",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "standards",
+   "section": "United States Studies > Civics"
+  },
+  {
+   "units": "u656-u668",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "standards",
+   "section": "United States Studies > Economics"
+  },
+  {
+   "units": "u669-u683",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "standards",
+   "section": "United States Studies > Geography"
+  },
+  {
+   "units": "u684-u696",
+   "grades": "10",
+   "course": "United States Studies",
+   "cat": "standards",
+   "section": "United States Studies > History"
+  },
+  {
+   "units": "u697",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "standards",
+   "section": "United States Studies - Comprehensive: title"
+  },
+  {
+   "units": "u698",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "examples",
+   "section": "United States Studies - Comprehensive: course/grade overview narrative"
+  },
+  {
+   "units": "u699-u711",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "standards",
+   "section": "United States Studies - Comprehensive > Civics"
+  },
+  {
+   "units": "u712-u726",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "standards",
+   "section": "United States Studies - Comprehensive > Economics"
+  },
+  {
+   "units": "u727-u739",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "standards",
+   "section": "United States Studies - Comprehensive > Geography"
+  },
+  {
+   "units": "u740-u762",
+   "grades": "9-12",
+   "course": "United States Studies - Comprehensive",
+   "cat": "standards",
+   "section": "United States Studies - Comprehensive > History"
+  },
+  {
+   "units": "u763",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "standards",
+   "section": "Contemporary Studies: title"
+  },
+  {
+   "units": "u764",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "examples",
+   "section": "Contemporary Studies: course/grade overview narrative"
+  },
+  {
+   "units": "u765-u775",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "standards",
+   "section": "Contemporary Studies > Civics"
+  },
+  {
+   "units": "u776-u790",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "standards",
+   "section": "Contemporary Studies > Economics"
+  },
+  {
+   "units": "u791-u797",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "standards",
+   "section": "Contemporary Studies > Geography"
+  },
+  {
+   "units": "u798-u816",
+   "grades": "9-12",
+   "course": "Contemporary Studies",
+   "cat": "standards",
+   "section": "Contemporary Studies > History"
+  },
+  {
+   "units": "u817",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics: title"
+  },
+  {
+   "units": "u818",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "examples",
+   "section": "Civics: course/grade overview narrative"
+  },
+  {
+   "units": "u819-u820",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "backup",
+   "section": "Civics: front matter / note"
+  },
+  {
+   "units": "u821-u871",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > Civics"
+  },
+  {
+   "units": "u872-u884",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > Economics"
+  },
+  {
+   "units": "u885-u897",
+   "grades": "9-12",
+   "course": "Civics",
+   "cat": "standards",
+   "section": "Civics > Geography"
+  },
+  {
+   "units": "u898",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics: title"
+  },
+  {
+   "units": "u899",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "examples",
+   "section": "Economics: course/grade overview narrative"
+  },
+  {
+   "units": "u900-u980",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > Economics"
+  },
+  {
+   "units": "u981-u987",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics > Application"
+  },
+  {
+   "units": "u988",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography: title"
+  },
+  {
+   "units": "u989",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "examples",
+   "section": "Geography: course/grade overview narrative"
+  },
+  {
+   "units": "u990-u1034",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography > Geography"
+  },
+  {
+   "units": "u1035-u1041",
+   "grades": "9-12",
+   "course": "Geography",
+   "cat": "standards",
+   "section": "Geography > Application"
+  },
+  {
+   "units": "u1042",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology: title"
+  },
+  {
+   "units": "u1043",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology: course/grade overview narrative"
+  },
+  {
+   "units": "u1044-u1108",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Sociology"
+  },
+  {
+   "units": "u1109-u1115",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology > Application"
+  },
+  {
+   "units": "u1116",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology: title"
+  },
+  {
+   "units": "u1117",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology: course/grade overview narrative"
+  },
+  {
+   "units": "u1118-u1124",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Scientific Inquiry"
+  },
+  {
+   "units": "u1125-u1139",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Biopsychology"
+  },
+  {
+   "units": "u1140-u1148",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Cognition"
+  },
+  {
+   "units": "u1149-u1153",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Development and Learning"
+  },
+  {
+   "units": "u1154-u1160",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Sociocultural Context"
+  },
+  {
+   "units": "u1161-u1171",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Individual Variations"
+  },
+  {
+   "units": "u1172-u1178",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology > Application"
+  },
+  {
+   "units": "u1179-u1181",
+   "grades": "9-12",
+   "course": "Personal Finance",
+   "cat": "backup",
+   "section": "Appendix A Personal Finance: front matter / note"
+  },
+  {
+   "units": "u1182-u1202",
+   "grades": "9-12",
+   "course": "Personal Finance",
+   "cat": "standards",
+   "section": "Appendix A Personal Finance > Personal Finance"
+  }
+ ],
+ "issues": [
+  "u57-u66, u222-u231, u395-u404, u573-u582: grade-band indicator charts are single tables where each strand's indicators are one paragraph cell; labeled standards for the whole band (K-2, 3-5, 6-8, 9-12). Header cells (Civics/Economics/Geography/History) at C1/C2 (or C3 in the 3-5 chart) belong to the same band.",
+  "u404 and u582 (History and Literacy cells) include CCSS-style literacy items (read/comprehend, write informative texts, conduct research); the unit mixes history indicators with literacy items so labeled standards (units are not split).",
+  "u645-u696: the document ties United States Studies to Tenth Grade only in the overview sentence (u646); labeled grade 10. World Studies (u583-u644) has no grade stated in the document (the guide notes ninth grade) so labeled 9-12; all other courses 9-12.",
+  "u1157: code garbled in source ('ss.SS.P.18'); treated as SS.P.18 in Psychology Sociocultural Context.",
+  "u1179-u1202: Appendix A Personal Finance has numbered standards 1-10 with no SS code; course name 'Personal Finance' taken from the table title (u1182); the standards are to be embedded in Civics/AP Government; labeled grades 9-12 (not explicit). u1180-u1181 intro to appendix labeled backup.",
+  "u819-u820: note on Personal Finance graduation requirement under the Civics course overview; labeled backup with course Civics.",
+  "u43-u50: Civics/Economics/Geography/History content-area descriptions in the front matter labeled backup (general philosophy, not grade or course specific).",
+  "u68, u119, u172, u233, u286, u331, u406, u460, u514: grade overview paragraphs labeled examples (content narrative); course overviews (u584, u646, u698, u764, u818, u899, u989, u1043, u1117) likewise examples with the course name.",
+  "Grade 8 (u513-u570) is titled Eighth Grade West Virginia Studies; treated as grade-level content with course null per the state guide grade clusters (K,1..8,9-12).",
+  "SS.6.2 (u411), SS.6.4 (u415) and some other cells have bullet lists run together in one line (e.g. 'The Great Depression World War I ...'); no extraction fix needed, text is verbatim.",
+  "State guide says some HS courses may be tied to grades (e.g. Ninth Grade World Studies) and mentions Personal Finance only as referenced; the document actually contains the Appendix A Personal Finance standards, which are labeled as above."
+ ]
+}

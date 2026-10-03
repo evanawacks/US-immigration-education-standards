@@ -1,0 +1,4842 @@
+{
+ "state": "VT",
+ "file": "c3-framework-for-social-studies-rev0617_3db023.pdf",
+ "structure": "National C3 Framework (NCSS 2013, rev. 2017), 114 pp. Front matter and Inquiry Arc narrative (pp.1-21) then four Dimensions: D1 Developing Questions (Tables 5-7), D2 Disciplinary Concepts and Tools by discipline (Civics, Economics, Geography, History; Tables 9-23), D3 Evaluating Sources and Using Evidence (Tables 25-26), D4 Communicating Conclusions and Taking Informed Action (Tables 28-30). Each pathway table has a header row 'BY THE END OF GRADE 2 / 5 / 8 / 12' = columns C1..C4 = grade bands K-2, 3-5, 6-8, 9-12; the R2 stem row ('Individually and with others, students...') spans all; indicator cells carry codes D#.#.K-2 / 3-5 / 6-8 / 9-12 (D2 codes include Civ/Eco/Geo/His, e.g. D2.Civ.1.3-5). Cells 'Begins in grades X' are placeholders. Each category has a short narrative paragraph (labeled examples) and a pointer sentence to the table (backup). ELA/Literacy Common Core connection sections after each Dimension are backup. Appendices: A inquiry matrix (examples), B Psychology, C Sociology, D Anthropology, E Scholarly Rationale, Supplement Religious Studies (9-12 indicators D2.Psy/Soc/Rel; anthropology has uncoded bullet outcomes), then References, Glossary, Biographical sketches (backup).",
+ "labels": [
+  {
+   "units": "u1-u52",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u53",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u54-u103",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u104",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u105-u139",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u140",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u141-u206",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u207",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u208-u266",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u267",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u268-u317",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u318",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u319-u336",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u337",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u338-u349",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u350",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u351-u361",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u362",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u363-u406",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter, introduction, how to read, inquiry arc narrative, ELA connections overview"
+  },
+  {
+   "units": "u407",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u409-u411",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Dimension 1: Developing Questions and Planning Inquiries"
+  },
+  {
+   "units": "u412-u414",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Dimension 1 narrative: compelling and supporting questions"
+  },
+  {
+   "units": "u415",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u416-u420",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Dimension 1 narrative: compelling and supporting questions"
+  },
+  {
+   "units": "u421",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D1 Constructing Compelling Questions"
+  },
+  {
+   "units": "u422-u423",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 1 Table 5 pointer"
+  },
+  {
+   "units": "u424-u425",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u426",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u427",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u428",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u429",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u430",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u431",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u432",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u433",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u434",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u435",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u436",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u437",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u438",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u439",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "D1 footnote on adult guidance before middle school"
+  },
+  {
+   "units": "u441",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D1 Constructing Supporting Questions"
+  },
+  {
+   "units": "u442-u443",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 1 Table 6 pointer"
+  },
+  {
+   "units": "u444-u445",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u446",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u447",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u448",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u449",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u450",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u451",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u452",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u453",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u454",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u455",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u456",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u457",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u458",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u459",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "D1 footnote on adult guidance before middle school"
+  },
+  {
+   "units": "u460",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D1 Determining Helpful Sources"
+  },
+  {
+   "units": "u461-u462",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 1 Table 7 pointer"
+  },
+  {
+   "units": "u463-u464",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u465",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u466",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u467",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u468",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u469",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u470",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u471",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u472",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u473",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u474",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u475-u494",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "ELA/Literacy Common Core connections: Dimension 1"
+  },
+  {
+   "units": "u495",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u497-u499",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Dimension 2: Applying Disciplinary Concepts and Tools"
+  },
+  {
+   "units": "u500-u503",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 introduction: conceptual vs curricular content"
+  },
+  {
+   "units": "u504",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u505-u513",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Compelling questions through disciplinary lenses (What does liberty look like?)"
+  },
+  {
+   "units": "u515",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics"
+  },
+  {
+   "units": "u516-u518",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics narrative"
+  },
+  {
+   "units": "u519",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u520",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions"
+  },
+  {
+   "units": "u521",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 9 pointer"
+  },
+  {
+   "units": "u522",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Civic and Political Institutions narrative"
+  },
+  {
+   "units": "u523",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u524",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u525",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u526",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u527",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u528",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u529",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u530",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u531",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u532",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u533",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u534",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u535",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u536",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u537",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u538",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u539",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u540",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u541",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u542",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u543",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u544",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u545",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u546",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u547",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u548",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u549",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u550",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u551",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u552",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u554",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation"
+  },
+  {
+   "units": "u555-u556",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Participation and Deliberation narrative"
+  },
+  {
+   "units": "u557",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 10 pointer"
+  },
+  {
+   "units": "u558",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u559",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u560",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u561",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u562",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u563",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u564",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u565",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u566",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u567",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u568",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u569",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u570",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u571",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u572",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u573",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u574",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u575",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u576",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u577",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u578",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u579",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u580",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u581",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Processes, Rules, and Laws"
+  },
+  {
+   "units": "u582-u583",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Processes, Rules, and Laws narrative"
+  },
+  {
+   "units": "u584",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 11 pointer"
+  },
+  {
+   "units": "u585",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u586",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u587",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u588",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u589",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u590",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u591",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u592",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u593",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u594",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u595",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u596",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u597",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u598",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u599",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u600",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u601",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u602",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u603",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u604",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u605",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u606",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u608",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics"
+  },
+  {
+   "units": "u609-u610",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics narrative"
+  },
+  {
+   "units": "u611",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u612",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making"
+  },
+  {
+   "units": "u613-u614",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Economic Decision Making narrative"
+  },
+  {
+   "units": "u615",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 12 pointer"
+  },
+  {
+   "units": "u616-u617",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u618",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u619",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u620",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u621",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u622",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u623",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u624",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u625",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u626",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u627",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u628",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u629",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u630",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u632",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets"
+  },
+  {
+   "units": "u633-u634",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Exchange and Markets narrative"
+  },
+  {
+   "units": "u635",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 13 pointer"
+  },
+  {
+   "units": "u636-u637",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u638",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u639",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u640",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u641",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u642",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u643",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u644",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u645",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u646",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u647",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u648",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u649",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u650",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u651",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u652",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u653",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u654",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u655",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u656",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u657",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u658",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u659",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u660",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u661",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u662",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u663",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u664",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u665",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u666",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u667",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u668",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u669",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u670",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u671",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u672",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy"
+  },
+  {
+   "units": "u673-u674",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "The National Economy narrative"
+  },
+  {
+   "units": "u675",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 14 pointer"
+  },
+  {
+   "units": "u676-u677",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u678",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u679",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u680",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u681",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u682",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u683",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u684",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u685",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u686",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u687",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u688",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u689",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u690",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u691",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u692",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u693",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u694",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u695",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u696",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u697",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u698",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u700",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy"
+  },
+  {
+   "units": "u701-u702",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "The Global Economy narrative"
+  },
+  {
+   "units": "u703",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 15 pointer"
+  },
+  {
+   "units": "u704-u705",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u706",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u707",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u708",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u709",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u710",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u711",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u712",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u713",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u714",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u715",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u716",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u717",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u718",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u719",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u720",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography"
+  },
+  {
+   "units": "u721-u723",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography narrative"
+  },
+  {
+   "units": "u725",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations"
+  },
+  {
+   "units": "u726-u727",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Geographic Representations narrative"
+  },
+  {
+   "units": "u728",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 16 pointer"
+  },
+  {
+   "units": "u729",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u730",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u731",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u732",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u733",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u734",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u735",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u736",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u737",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u738",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u739",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u740",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u741",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u742",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u743",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u744",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u745",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u746",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u747",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u748",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction"
+  },
+  {
+   "units": "u749-u750",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Human-Environment Interaction narrative"
+  },
+  {
+   "units": "u751",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 17 pointer"
+  },
+  {
+   "units": "u752-u753",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u754",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u755",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u756",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u757",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u758",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u759",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u760",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u761",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u762",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u763",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u764",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u765",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u766",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u767",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u768",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u769",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u770",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u772",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population"
+  },
+  {
+   "units": "u773-u774",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Human Population narrative"
+  },
+  {
+   "units": "u775",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 18 pointer"
+  },
+  {
+   "units": "u776-u777",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u778",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u779",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u780",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u781",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u782",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u783",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u784",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u785",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u786",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u787",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u788",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u789",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u790",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u791",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u792",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u793",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u794",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u795",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u796",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections"
+  },
+  {
+   "units": "u797-u798",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Global Interconnections narrative"
+  },
+  {
+   "units": "u799",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 19 pointer"
+  },
+  {
+   "units": "u800-u801",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u802",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u803",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u804",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u805",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u806",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u807",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u808",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u809",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u810",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u811",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u812",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u813",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u814",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u815",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u816",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u817",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u818",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u820",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History"
+  },
+  {
+   "units": "u821-u822",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "History narrative"
+  },
+  {
+   "units": "u823",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u824",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context"
+  },
+  {
+   "units": "u825-u826",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Change, Continuity, and Context narrative"
+  },
+  {
+   "units": "u827",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 20 pointer"
+  },
+  {
+   "units": "u828",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u829",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u830",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u831",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u832",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u833",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u834",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u835",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u836",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u837",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u838",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u839",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u840",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u841",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u842",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u843",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u844",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u845",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u847",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives"
+  },
+  {
+   "units": "u848-u849",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Perspectives narrative"
+  },
+  {
+   "units": "u850",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 21 pointer"
+  },
+  {
+   "units": "u851-u852",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u853",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u854",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u855",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u856",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u857",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u858",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u859",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u860",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u861",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u862",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u863",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u864",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u865",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u866",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u867",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u868",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u869",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u870",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u871",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u872",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u873",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u874",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u875",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u876",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u877",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u878",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u879",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Historical Sources and Evidence"
+  },
+  {
+   "units": "u880-u881",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Historical Sources and Evidence narrative"
+  },
+  {
+   "units": "u882",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 22 pointer"
+  },
+  {
+   "units": "u883-u884",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u885",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u886",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u887",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u888",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u889",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u890",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u891",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u892",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u893",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u894",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u895",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u896",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u897",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u898",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u899",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u900",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u901",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u902",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u903",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u904",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u905",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u906",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u907",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u908",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u909",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u911",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation"
+  },
+  {
+   "units": "u912-u913",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Causation and Argumentation narrative"
+  },
+  {
+   "units": "u914",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 23 pointer"
+  },
+  {
+   "units": "u915-u916",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u917",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u918",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u919",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u920",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u921",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u922",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u923",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u924",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u925",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u926",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u927",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u928",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u929",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u930",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u931",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u932",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u933",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u934",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u935",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u936",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u937",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u938",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u939-u961",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "ELA/Literacy Common Core connections: Dimension 2"
+  },
+  {
+   "units": "u962",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u964-u966",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Dimension 3: Evaluating Sources and Using Evidence"
+  },
+  {
+   "units": "u967-u971",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 3 introduction"
+  },
+  {
+   "units": "u972",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u973",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D3 Gathering and Evaluating Sources"
+  },
+  {
+   "units": "u974-u975",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Gathering and Evaluating Sources narrative"
+  },
+  {
+   "units": "u976",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 25 pointer"
+  },
+  {
+   "units": "u977",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u978",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u979",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u980",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u981",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u982",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u983",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u984",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u985",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u986",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u987",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u988",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u989",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u990",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u992",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D3 Developing Claims and Using Evidence"
+  },
+  {
+   "units": "u993-u994",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Developing Claims and Using Evidence narrative"
+  },
+  {
+   "units": "u995",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 26 pointer"
+  },
+  {
+   "units": "u996-u997",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u998",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u999",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1000",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1001",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1002",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u1003",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1004",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1005",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1006",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1007",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1008",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1009",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1010",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1011",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1012-u1035",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "ELA/Literacy Common Core connections: Dimension 3"
+  },
+  {
+   "units": "u1036",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1038-u1040",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Dimension 4: Communicating Conclusions and Taking Informed Action"
+  },
+  {
+   "units": "u1041-u1044",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 4 introduction"
+  },
+  {
+   "units": "u1045",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1046",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D4 Communicating and Critiquing Conclusions"
+  },
+  {
+   "units": "u1047-u1048",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Communicating Conclusions narrative"
+  },
+  {
+   "units": "u1049",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 28 pointer"
+  },
+  {
+   "units": "u1050-u1051",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u1052",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1053",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1054",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1055",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1056",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u1057",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1058",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1059",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1060",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1061",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1062",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1063",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1064",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1065",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1066",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1067",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1068",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1070-u1071",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Critiquing Conclusions narrative"
+  },
+  {
+   "units": "u1072",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 29 pointer"
+  },
+  {
+   "units": "u1073-u1074",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u1075",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1076",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1077",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1078",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1079",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u1080",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1081",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1082",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1083",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1084",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1085",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1086",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1087",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1088",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1089",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "D4 Taking Informed Action"
+  },
+  {
+   "units": "u1090-u1091",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Taking Informed Action narrative"
+  },
+  {
+   "units": "u1092",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table 30 pointer"
+  },
+  {
+   "units": "u1093-u1094",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table title"
+  },
+  {
+   "units": "u1095",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1096",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1097",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1098",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1099",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table stem"
+  },
+  {
+   "units": "u1100",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1101",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1102",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1103",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1104",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1105",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1106",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1107",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1108",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1109",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1110",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1111",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Pathway table: C3 indicator (end of grade band)"
+  },
+  {
+   "units": "u1113-u1128",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "ELA/Literacy Common Core connections: Dimension 4"
+  },
+  {
+   "units": "u1129",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1130-u1141",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "ELA/Literacy Common Core connections: Dimension 4"
+  },
+  {
+   "units": "u1143",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendices divider; Appendix A title and intro"
+  },
+  {
+   "units": "u1144",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1145-u1156",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendices divider; Appendix A title and intro"
+  },
+  {
+   "units": "u1157-u1190",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: Disciplinary Inquiry Matrix (Great Recession illustration)"
+  },
+  {
+   "units": "u1191",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1192-u1208",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A: Disciplinary Inquiry Matrix (Great Recession illustration)"
+  },
+  {
+   "units": "u1210-u1214",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix B title"
+  },
+  {
+   "units": "u1215-u1221",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology intro narrative"
+  },
+  {
+   "units": "u1222-u1224",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnotes / footer"
+  },
+  {
+   "units": "u1225",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1226-u1227",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology narrative"
+  },
+  {
+   "units": "u1228-u1241",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicators D2.Psy.1-12"
+  },
+  {
+   "units": "u1242",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology: Critical Thinking narrative"
+  },
+  {
+   "units": "u1243-u1249",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicators D2.Psy.5-7,13"
+  },
+  {
+   "units": "u1250-u1251",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology: Influences on Thought and Behavior narrative"
+  },
+  {
+   "units": "u1252",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicator D2.Psy.14"
+  },
+  {
+   "units": "u1254",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicator D2.Psy.15"
+  },
+  {
+   "units": "u1255",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Psychology ELA connections"
+  },
+  {
+   "units": "u1256-u1257",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicators D2.Psy.16-17"
+  },
+  {
+   "units": "u1258",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology: Applications narrative"
+  },
+  {
+   "units": "u1259",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Psychology curricular recommendations"
+  },
+  {
+   "units": "u1260",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology stem"
+  },
+  {
+   "units": "u1261",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Psychology grades note"
+  },
+  {
+   "units": "u1262-u1265",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicators D2.Psy.18-20"
+  },
+  {
+   "units": "u1266",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Psychology inquiry matrix explanation"
+  },
+  {
+   "units": "u1267-u1269",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": "Psychology indicators D2.Psy.21-23"
+  },
+  {
+   "units": "u1270-u1271",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Psychology ELA connections; footer"
+  },
+  {
+   "units": "u1272",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1273-u1290",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": "Psychology inquiry matrix (Great Recession)"
+  },
+  {
+   "units": "u1291-u1294",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix B references"
+  },
+  {
+   "units": "u1296-u1301",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix C title"
+  },
+  {
+   "units": "u1302",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology intro narrative"
+  },
+  {
+   "units": "u1303-u1304",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Sociology appendix outline"
+  },
+  {
+   "units": "u1305-u1307",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology perspective narrative"
+  },
+  {
+   "units": "u1308-u1309",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnotes / footer"
+  },
+  {
+   "units": "u1310",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1311",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology narrative"
+  },
+  {
+   "units": "u1312-u1318",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicators D2.Soc.8,9,1,10,2"
+  },
+  {
+   "units": "u1319",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Social Relationships narrative"
+  },
+  {
+   "units": "u1320",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicator D2.Soc.3"
+  },
+  {
+   "units": "u1321",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Social Relationships narrative"
+  },
+  {
+   "units": "u1322-u1323",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicators D2.Soc.4-5"
+  },
+  {
+   "units": "u1324",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Social Structure narrative"
+  },
+  {
+   "units": "u1325-u1329",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicators D2.Soc.11-13"
+  },
+  {
+   "units": "u1330",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Social Structure narrative"
+  },
+  {
+   "units": "u1331-u1332",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicator D2.Soc.14"
+  },
+  {
+   "units": "u1333",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Stratification and Inequality narrative"
+  },
+  {
+   "units": "u1334-u1335",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicators D2.Soc.6-7"
+  },
+  {
+   "units": "u1336-u1338",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Stratification narrative"
+  },
+  {
+   "units": "u1339-u1340",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Sociology curricular recommendations"
+  },
+  {
+   "units": "u1341-u1345",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Sociology indicators D2.Soc.15-18"
+  },
+  {
+   "units": "u1346-u1350",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Sociology matrix explanation, ELA connections, footer"
+  },
+  {
+   "units": "u1351",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1352-u1369",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Sociology inquiry matrix (Great Recession)"
+  },
+  {
+   "units": "u1371-u1376",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D title"
+  },
+  {
+   "units": "u1377-u1383",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology intro narrative"
+  },
+  {
+   "units": "u1384",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote"
+  },
+  {
+   "units": "u1385",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology intro narrative"
+  },
+  {
+   "units": "u1386",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1387-u1392",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology narrative"
+  },
+  {
+   "units": "u1393-u1406",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology outcomes (Concepts 1-2)"
+  },
+  {
+   "units": "u1407-u1410",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology Concept 2-3 narrative"
+  },
+  {
+   "units": "u1412",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology Concept 3 narrative"
+  },
+  {
+   "units": "u1413",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology stem"
+  },
+  {
+   "units": "u1414",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology Concept 3 narrative"
+  },
+  {
+   "units": "u1415-u1420",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology outcomes (Concept 3)"
+  },
+  {
+   "units": "u1421",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Anthropology CCR connections"
+  },
+  {
+   "units": "u1422",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "standards",
+   "section": "Anthropology outcome (Concept 3)"
+  },
+  {
+   "units": "u1423-u1424",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology Concept 4 narrative"
+  },
+  {
+   "units": "u1425",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Anthropology notes, sources, matrix explanation"
+  },
+  {
+   "units": "u1426",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1427-u1445",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Anthropology notes, sources, matrix explanation"
+  },
+  {
+   "units": "u1447-u1464",
+   "grades": "9-12",
+   "course": "Anthropology",
+   "cat": "examples",
+   "section": "Anthropology inquiry matrix (Great Recession)"
+  },
+  {
+   "units": "u1465",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "BASIC SOURCES heading; footer"
+  },
+  {
+   "units": "u1466",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1467-u1499",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix E: Scholarly Rationale"
+  },
+  {
+   "units": "u1500",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1501-u1529",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix E: Scholarly Rationale"
+  },
+  {
+   "units": "u1530",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1531-u1557",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix E: Scholarly Rationale"
+  },
+  {
+   "units": "u1558",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1559-u1587",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix E: Scholarly Rationale"
+  },
+  {
+   "units": "u1588",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1589-u1615",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix E: Scholarly Rationale"
+  },
+  {
+   "units": "u1616",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1617-u1631",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Religious Studies supplement title, commitments, context"
+  },
+  {
+   "units": "u1632",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "examples",
+   "section": "Religious Studies intro narrative"
+  },
+  {
+   "units": "u1633-u1649",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Religious Studies guidelines, footnotes"
+  },
+  {
+   "units": "u1650",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "examples",
+   "section": "Religious Studies intro narrative"
+  },
+  {
+   "units": "u1651",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Footnote; footer"
+  },
+  {
+   "units": "u1652",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1653-u1654",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "examples",
+   "section": "Religious Studies premises and applications narrative"
+  },
+  {
+   "units": "u1655-u1665",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "standards",
+   "section": "Religious Studies indicators D2.Rel.1-9"
+  },
+  {
+   "units": "u1667",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "examples",
+   "section": "Critical Inquiry narrative"
+  },
+  {
+   "units": "u1668-u1669",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Religious Studies CCR connections"
+  },
+  {
+   "units": "u1670-u1674",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "standards",
+   "section": "Religious Studies indicators D2.Rel.10-13"
+  },
+  {
+   "units": "u1675",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "matrix explanation"
+  },
+  {
+   "units": "u1676",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "standards",
+   "section": "Religious Studies indicator D2.Rel.14"
+  },
+  {
+   "units": "u1677",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1678-u1679",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "footer; matrix explanation"
+  },
+  {
+   "units": "u1680-u1697",
+   "grades": "9-12",
+   "course": "Religious Studies",
+   "cat": "examples",
+   "section": "Religious Studies inquiry matrix (Great Recession)"
+  },
+  {
+   "units": "u1699-u1714",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u1715",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1716-u1776",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u1777",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1778-u1835",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u1836",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1837-u1889",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u1890",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1891-u1960",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u1961",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u1962-u2021",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u2022",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u2023-u2088",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u2089",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u2090-u2151",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u2152",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u2153-u2193",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  },
+  {
+   "units": "u2194",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "page footer"
+  },
+  {
+   "units": "u2195-u2206",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References, Glossary, Biographical sketches"
+  }
+ ],
+ "issues": [
+  "Grade mapping: pathway-table columns C1-C4 mapped to K-2, 3-5, 6-8, 9-12 per VT guide; verified against the header row of every table (Tables 5-7, 9-23, 25-26, 28-30) and the code suffixes.",
+  "'Begins in grades X' placeholder cells (e.g. u541, u599, u663, u687, u862, u870-u872, u874-u876, u906, u926-u927, u934, u1003, u1007) are labeled standards with their column band; they contain no indicator text.",
+  "Dimension and category narrative paragraphs describing the concept are labeled examples (K-12); Dimension 2/3/4 introductions, 'Indicators ... detailed in Table N' pointer sentences, and ELA/Literacy Common Core connection sections are backup. Dimension 1 narrative (u412-u420) labeled examples because it contains sample compelling/supporting questions; this is a judgment call.",
+  "u505-u513: 'What does liberty look like?' graphic is garbled by extraction (letters split into table cells u509-u511); labeled examples K-12.",
+  "Appendix B/C/D/Supplement indicators (D2.Psy, D2.Soc, D2.Rel, and uncoded anthropology bullets) are 9-12 discipline companion indicators; labeled with course Psychology / Sociology / Anthropology / Religious Studies (grades 9-12) although the VT guide says C3 9-12 indicators have no courses; alternatively these could be course null. Columns in these appendices are interleaved by extraction (narrative and bullets alternate, e.g. u1226-u1252, u1311-u1336, u1387-u1422, u1632-u1665); each unit was labeled individually by content, so standards/narrative split may be imperfect where a unit is a partial sentence (u1233, u1236, u1239, u1244, u1246, u1316, u1329, u1401, u1406).",
+  "u1250, u1319, u1324, u1333, u1242, u1258, u1380 etc. combine a subsection heading with narrative text in one unit; labeled examples.",
+  "Appendix A and appendix companion 'Disciplinary Inquiry Matrix' tables (u1157-u1208 and per-discipline matrices) are illustrative Great Recession examples; labeled examples (K-12 for Appendix A, 9-12 with course for B-D, Religious Studies).",
+  "Page footers (e.g. u53, u104, u415, u474) remain as units and are labeled backup, grades all.",
+  "u1634 etc. Religious Studies guideline quotes (u1633-u1649) labeled backup; u1632 is a continuation of u1650 (text order scrambled across columns).",
+  "Two C3 PDFs exist; only the _3db023 file is used per state config. Pages 22, 28, 52, 58 have no units (image pages)."
+ ]
+}

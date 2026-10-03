@@ -1,0 +1,675 @@
+{
+ "state": "VT",
+ "file": "VT edu-grade-8-civics-and-economics-in-action.pdf",
+ "structure": "Single-grade Vermont draft framework document (Grade 8 - Civics and Economics in Action). Front matter: header banner, title/theme, Overview narrative, Looking Back/Looking Ahead, Inquiry rationale and contact. Inquiry Process block: 'Inquiry Process (K-12)' statement, a banded list of C3 indicators (6-8) and overarching grade themes. Body is organized by four subject sections (Civics, Economics, Geography, History), each with a 'Theme:' line, C3-strand headings (e.g. Civic and Political Institutions; Economic Decision Making; Geographic Representations; Change, Continuity, and Context) followed by the C3 indicator codes (D2.<Dim>.<n>.6-8). Each strand/indicator group is followed by a 2-column table (R1 headers 'Sample C3 Indicator Connections' | 'Sample Content Connections'; R2 cells hold C1 = 'Students will...' expectations, C2 = bulleted sample content). Rows continued over pages start with 'Continue'. Each subject ends with a 'Resources' list of suggested lessons/inquiries (C3 IDM, iCivics, PBS, etc.). The vermont.gov banner and running headers are furniture. No state-specific standard codes; the D2 C3 codes and the 'Students will' expectations are the standards. Labeling: titles/themes/strand headings/codes/inquiry indicators/'Students will' cells = standards; Sample Content Connections cells, Overview narrative and Resources = examples; Looking Back/Ahead, inquiry rationale, scope notes = backup.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Header banner"
+  },
+  {
+   "units": "u2",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade title and theme"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Overview narrative"
+  },
+  {
+   "units": "u5",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Looking back / looking ahead"
+  },
+  {
+   "units": "u6",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter"
+  },
+  {
+   "units": "u7-u8",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale (front matter)"
+  },
+  {
+   "units": "u9-u11",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale / contact (front matter)"
+  },
+  {
+   "units": "u12",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Process (K-12)"
+  },
+  {
+   "units": "u13",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry C3 indicators"
+  },
+  {
+   "units": "u14-u16",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators"
+  },
+  {
+   "units": "u17",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching themes"
+  },
+  {
+   "units": "u18",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators / overarching themes list"
+  },
+  {
+   "units": "u21-u23",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Free civics curricula note"
+  },
+  {
+   "units": "u24",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics (subject heading)"
+  },
+  {
+   "units": "u25",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Theme: Foundations and Roles"
+  },
+  {
+   "units": "u26",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions"
+  },
+  {
+   "units": "u27-u32",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > C3 indicator codes"
+  },
+  {
+   "units": "u35",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u36",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u37",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u38",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > Sample content connections"
+  },
+  {
+   "units": "u41",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u42",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u43",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u44",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > Sample content connections"
+  },
+  {
+   "units": "u47",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u48-u50",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles > C3 indicator codes"
+  },
+  {
+   "units": "u51",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles > table header"
+  },
+  {
+   "units": "u52",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic Virtues and Democratic Principles > table header"
+  },
+  {
+   "units": "u53",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u54",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic Virtues and Democratic Principles > Sample content connections"
+  },
+  {
+   "units": "u57",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws"
+  },
+  {
+   "units": "u58-u61",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > C3 indicator codes"
+  },
+  {
+   "units": "u62",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > table header"
+  },
+  {
+   "units": "u63",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Rules, Processes, and Laws > table header"
+  },
+  {
+   "units": "u64",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u65",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Rules, Processes, and Laws > Sample content connections"
+  },
+  {
+   "units": "u66-u87",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Resources"
+  },
+  {
+   "units": "u90",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (subject heading)"
+  },
+  {
+   "units": "u91",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Theme: Economics and Policy"
+  },
+  {
+   "units": "u92",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics > scope note"
+  },
+  {
+   "units": "u93",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets"
+  },
+  {
+   "units": "u94",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > C3 indicator codes"
+  },
+  {
+   "units": "u95",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > table header"
+  },
+  {
+   "units": "u96",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Exchange and Markets > table header"
+  },
+  {
+   "units": "u97",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u98",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Exchange and Markets > Sample content connections"
+  },
+  {
+   "units": "u101",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy"
+  },
+  {
+   "units": "u102-u104",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy > C3 indicator codes"
+  },
+  {
+   "units": "u105",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy > table header"
+  },
+  {
+   "units": "u106",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The National Economy > table header"
+  },
+  {
+   "units": "u107",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The National Economy > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u108",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The National Economy > Sample content connections"
+  },
+  {
+   "units": "u111",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy"
+  },
+  {
+   "units": "u112-u113",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > C3 indicator codes"
+  },
+  {
+   "units": "u114",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > table header"
+  },
+  {
+   "units": "u115",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > table header"
+  },
+  {
+   "units": "u116",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u117",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u120",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > table header"
+  },
+  {
+   "units": "u121",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > table header"
+  },
+  {
+   "units": "u122",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > The Global Economy > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u123",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > The Global Economy > Sample content connections"
+  },
+  {
+   "units": "u124-u134",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Resources"
+  },
+  {
+   "units": "u137",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History (subject heading)"
+  },
+  {
+   "units": "u138",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "History > scope note"
+  },
+  {
+   "units": "u139",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Theme: Civic Participation in a Democracy"
+  },
+  {
+   "units": "u140",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context"
+  },
+  {
+   "units": "u141-u143",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > C3 indicator codes"
+  },
+  {
+   "units": "u144",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u145",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u146",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u147",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > Sample content connections"
+  },
+  {
+   "units": "u150",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u151",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u152",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u153",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > Sample content connections"
+  },
+  {
+   "units": "u154",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives"
+  },
+  {
+   "units": "u155-u156",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > C3 indicator codes"
+  },
+  {
+   "units": "u157",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u158",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u159",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u160",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > Sample content connections"
+  },
+  {
+   "units": "u163",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u164",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u165",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u166",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > Sample content connections"
+  },
+  {
+   "units": "u167",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation"
+  },
+  {
+   "units": "u168-u169",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > C3 indicator codes"
+  },
+  {
+   "units": "u170",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > table header"
+  },
+  {
+   "units": "u171",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > table header"
+  },
+  {
+   "units": "u172",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u173",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > Sample content connections"
+  },
+  {
+   "units": "u176-u180",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Resources"
+  }
+ ],
+ "issues": [
+  "Inquiry Process / C3-indicator / Priority Performance Indicator lists that name a band (K-2, 3-5, 6-8) or K-12 are labeled with that band (shared inquiry skills); everything else is labeled with this file's single grade, per the state guide (one document = one grade).",
+  "Resource entries that wrap across pages are split into two units (second unit continues the first); both are labeled examples.",
+  "'Note:' lines saying an indicator is not addressed in this grade, and the 'Looking Back/Looking Ahead' paragraphs, are labeled backup.",
+  "u21-u23: 'Note: Free Civics Curricula' lists suggested free curricula before the Civics section; labeled examples.",
+  "u92: note says Economic Decision Making indicators are not in grade 8; labeled backup.",
+  "History tables are numbered T1/T2 on the same page (e.g. u144-u147 and u157-u160); handled by cell position.",
+  "u122, u165: 'Continue' prefix in C1 expectation cells; labeled standards.",
+  "u18: overarching themes list 'Geography (in grades 6 and 7)' although grade 8 has no Geography section; labeled grade 8 standards."
+ ]
+}

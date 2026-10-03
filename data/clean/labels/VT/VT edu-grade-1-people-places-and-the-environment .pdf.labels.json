@@ -1,0 +1,764 @@
+{
+ "state": "VT",
+ "file": "VT edu-grade-1-people-places-and-the-environment .pdf",
+ "structure": "Single-grade Vermont draft framework document (Grade 1 - People, Places, and the Environment). Front matter: header banner, title/theme, Overview narrative, Looking Back/Looking Ahead, Inquiry rationale and contact. Inquiry Process block: 'Inquiry Process (K-12)' statement, a banded list of C3 indicators (K-2) and overarching grade themes. Body is organized by four subject sections (Civics, Economics, Geography, History), each with a 'Theme:' line, C3-strand headings (e.g. Civic and Political Institutions; Economic Decision Making; Geographic Representations; Change, Continuity, and Context) followed by the C3 indicator codes (D2.<Dim>.<n>.K-2). Each strand/indicator group is followed by a 2-column table (R1 headers 'Sample C3 Indicator Connections' | 'Sample Content Connections'; R2 cells hold C1 = 'Students will...' expectations, C2 = bulleted sample content). Rows continued over pages start with 'Continue'. Each subject ends with a 'Resources' list of suggested lessons/inquiries (C3 IDM, iCivics, PBS, etc.). The vermont.gov banner and running headers are furniture. No state-specific standard codes; the D2 C3 codes and the 'Students will' expectations are the standards. Labeling: titles/themes/strand headings/codes/inquiry indicators/'Students will' cells = standards; Sample Content Connections cells, Overview narrative and Resources = examples; Looking Back/Ahead, inquiry rationale, scope notes = backup.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Header banner"
+  },
+  {
+   "units": "u2",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade title and theme"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Overview narrative"
+  },
+  {
+   "units": "u5",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Looking back / looking ahead"
+  },
+  {
+   "units": "u6-u7",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter"
+  },
+  {
+   "units": "u8",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale / contact (front matter)"
+  },
+  {
+   "units": "u9",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Looking back / looking ahead"
+  },
+  {
+   "units": "u10-u11",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter"
+  },
+  {
+   "units": "u12-u13",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale (front matter)"
+  },
+  {
+   "units": "u14-u15",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Inquiry rationale / contact (front matter)"
+  },
+  {
+   "units": "u16",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Process (K-12)"
+  },
+  {
+   "units": "u19",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry C3 indicators"
+  },
+  {
+   "units": "u20",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators / overarching themes list"
+  },
+  {
+   "units": "u21",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching themes"
+  },
+  {
+   "units": "u22",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry indicators / overarching themes list"
+  },
+  {
+   "units": "u23",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics (subject heading)"
+  },
+  {
+   "units": "u24",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Theme: Roles and Responsibilities"
+  },
+  {
+   "units": "u25",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions"
+  },
+  {
+   "units": "u26-u30",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > C3 indicator codes"
+  },
+  {
+   "units": "u33",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u34",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > table header"
+  },
+  {
+   "units": "u35",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u36",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic and Political Institutions > Sample content connections"
+  },
+  {
+   "units": "u37",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles"
+  },
+  {
+   "units": "u38-u41",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles > C3 indicator codes"
+  },
+  {
+   "units": "u44",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles > table header"
+  },
+  {
+   "units": "u45",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles > table header"
+  },
+  {
+   "units": "u46",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u47",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Civic Virtues and Democratic Principles: Applying Civic Virtues and Democratic Principles > Sample content connections"
+  },
+  {
+   "units": "u50",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws"
+  },
+  {
+   "units": "u51-u52",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > C3 indicator codes"
+  },
+  {
+   "units": "u53",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > table header"
+  },
+  {
+   "units": "u54",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Rules, Processes, and Laws > table header"
+  },
+  {
+   "units": "u55",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Rules, Processes, and Laws > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u56",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Rules, Processes, and Laws > Sample content connections"
+  },
+  {
+   "units": "u59-u79",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Civics > Resources"
+  },
+  {
+   "units": "u82",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics (subject heading)"
+  },
+  {
+   "units": "u83",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Economics > scope note"
+  },
+  {
+   "units": "u84",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Theme: Economic Choices"
+  },
+  {
+   "units": "u85",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > C3 indicator codes"
+  },
+  {
+   "units": "u88",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > table header"
+  },
+  {
+   "units": "u89",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Economic Decision Making > table header"
+  },
+  {
+   "units": "u90",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision Making > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u91",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Economic Decision Making > Sample content connections"
+  },
+  {
+   "units": "u94",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets"
+  },
+  {
+   "units": "u95-u98",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > C3 indicator codes"
+  },
+  {
+   "units": "u99",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > table header"
+  },
+  {
+   "units": "u100",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Exchange and Markets > table header"
+  },
+  {
+   "units": "u101",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u102",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Exchange and Markets > Sample content connections"
+  },
+  {
+   "units": "u105",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy"
+  },
+  {
+   "units": "u106-u107",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > C3 indicator codes"
+  },
+  {
+   "units": "u108",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > table header"
+  },
+  {
+   "units": "u109",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Global Economy > table header"
+  },
+  {
+   "units": "u110",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u111",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Global Economy > Sample content connections"
+  },
+  {
+   "units": "u112-u119",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Economics > Resources"
+  },
+  {
+   "units": "u122",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography (subject heading)"
+  },
+  {
+   "units": "u123",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Theme: Geography’s Influence on Culture and Environment"
+  },
+  {
+   "units": "u124",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations"
+  },
+  {
+   "units": "u125-u126",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > C3 indicator codes"
+  },
+  {
+   "units": "u127",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > table header"
+  },
+  {
+   "units": "u128",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Geographic Representations > table header"
+  },
+  {
+   "units": "u129",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u130",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Geographic Representations > Sample content connections"
+  },
+  {
+   "units": "u133",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture"
+  },
+  {
+   "units": "u134-u135",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture > C3 indicator codes"
+  },
+  {
+   "units": "u136",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture > table header"
+  },
+  {
+   "units": "u137",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture > table header"
+  },
+  {
+   "units": "u138",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u139",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human-Environment Interaction: Place, Regions, and Culture > Sample content connections"
+  },
+  {
+   "units": "u142",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population: Spatial Patterns and Movements"
+  },
+  {
+   "units": "u143-u145",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population: Spatial Patterns and Movements > C3 indicator codes"
+  },
+  {
+   "units": "u146",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population: Spatial Patterns and Movements > table header"
+  },
+  {
+   "units": "u147",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population: Spatial Patterns and Movements > table header"
+  },
+  {
+   "units": "u148",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human Population: Spatial Patterns and Movements > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u149",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Human Population: Spatial Patterns and Movements > Sample content connections"
+  },
+  {
+   "units": "u152",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns"
+  },
+  {
+   "units": "u153-u154",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns > C3 indicator codes"
+  },
+  {
+   "units": "u155",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns > table header"
+  },
+  {
+   "units": "u156",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns > table header"
+  },
+  {
+   "units": "u157",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u158",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Global Interconnections: Changing Spatial Patterns > Sample content connections"
+  },
+  {
+   "units": "u161-u168",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Geography > Resources"
+  },
+  {
+   "units": "u171",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History (subject heading)"
+  },
+  {
+   "units": "u172",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "History > scope note"
+  },
+  {
+   "units": "u173",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Theme: Past and Present"
+  },
+  {
+   "units": "u174",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context"
+  },
+  {
+   "units": "u175-u177",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > C3 indicator codes"
+  },
+  {
+   "units": "u180",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u181",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > table header"
+  },
+  {
+   "units": "u182",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Change, Continuity, and Context > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u183",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Change, Continuity, and Context > Sample content connections"
+  },
+  {
+   "units": "u186",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives"
+  },
+  {
+   "units": "u187-u188",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > C3 indicator codes"
+  },
+  {
+   "units": "u189",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u190",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > table header"
+  },
+  {
+   "units": "u191",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspectives > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u192",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Perspectives > Sample content connections"
+  },
+  {
+   "units": "u193",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation"
+  },
+  {
+   "units": "u194-u195",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > C3 indicator codes"
+  },
+  {
+   "units": "u198",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > table header"
+  },
+  {
+   "units": "u199",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > table header"
+  },
+  {
+   "units": "u200",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Causation and Argumentation > Sample C3 indicator connections (student expectations)"
+  },
+  {
+   "units": "u201",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Causation and Argumentation > Sample content connections"
+  },
+  {
+   "units": "u204-u214",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "History > Resources"
+  }
+ ],
+ "issues": [
+  "Inquiry Process / C3-indicator / Priority Performance Indicator lists that name a band (K-2, 3-5, 6-8) or K-12 are labeled with that band (shared inquiry skills); everything else is labeled with this file's single grade, per the state guide (one document = one grade).",
+  "Resource entries that wrap across pages are split into two units (second unit continues the first); both are labeled examples.",
+  "'Note:' lines saying an indicator is not addressed in this grade, and the 'Looking Back/Looking Ahead' paragraphs, are labeled backup.",
+  "u29-u30: D2.Civ.6.K-2 text split in extraction ('Authority.' tail is u30).",
+  "u115 and u114: Economic Interdependence resource says it is a 2nd grade inquiry adaptable for younger students; kept as examples for grade 1.",
+  "u91, u130, u158, u183, u201: C2 cells sometimes begin with an unbulleted sub-heading or a long 'Community Action Examples' list; labeled examples as one unit."
+ ]
+}

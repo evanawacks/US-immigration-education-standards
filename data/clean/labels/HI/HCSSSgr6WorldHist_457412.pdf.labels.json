@@ -1,0 +1,831 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr6WorldHist_457412.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 6-8 Inquiry Standards' (Anchor Standards 1-5, codes SS.6-8.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.6.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts. Grade 6 World History.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Culture Characteristics"
+  },
+  {
+   "units": "u47",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Culture Characteristics: sample content/concepts"
+  },
+  {
+   "units": "u48-u52",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Culture Characteristics"
+  },
+  {
+   "units": "u53-u54",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Politics and Religion"
+  },
+  {
+   "units": "u55",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Politics and Religion: sample content/concepts"
+  },
+  {
+   "units": "u56-u59",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Politics and Religion"
+  },
+  {
+   "units": "u60-u61",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Technological Innovations"
+  },
+  {
+   "units": "u62",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Technological Innovations: sample content/concepts"
+  },
+  {
+   "units": "u63-u65",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "The Environment and Early River Civilizations: Human Beginnings to 600 BCE > Technological Innovations"
+  },
+  {
+   "units": "u66",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Technological Innovations"
+  },
+  {
+   "units": "u67",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE"
+  },
+  {
+   "units": "u68-u70",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE: sample compelling questions"
+  },
+  {
+   "units": "u71-u77",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE"
+  },
+  {
+   "units": "u78-u79",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Eastern Civilizations"
+  },
+  {
+   "units": "u80",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Eastern Civilizations: sample content/concepts"
+  },
+  {
+   "units": "u81-u84",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Eastern Civilizations"
+  },
+  {
+   "units": "u85-u86",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Western Civilizations"
+  },
+  {
+   "units": "u87",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Western Civilizations: sample content/concepts"
+  },
+  {
+   "units": "u88-u91",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Classical Western Civilizations"
+  },
+  {
+   "units": "u92-u93",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Arts, Science, and Technology"
+  },
+  {
+   "units": "u94",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Arts, Science, and Technology: sample content/concepts"
+  },
+  {
+   "units": "u95-u100",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Arts, Science, and Technology"
+  },
+  {
+   "units": "u101-u102",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Fall of Classical Civilizations"
+  },
+  {
+   "units": "u103",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Fall of Classical Civilizations: sample content/concepts"
+  },
+  {
+   "units": "u104-u106",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Classical Eastern and Western Civilizations: 600 BCE–600 CE > Fall of Classical Civilizations"
+  },
+  {
+   "units": "u107",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Fall of Classical Civilizations"
+  },
+  {
+   "units": "u108",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Major Religions and Larger Societies: Pre–1500"
+  },
+  {
+   "units": "u109-u111",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Major Religions and Larger Societies: Pre–1500: sample compelling questions"
+  },
+  {
+   "units": "u112-u118",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Major Religions and Larger Societies: Pre–1500"
+  },
+  {
+   "units": "u119-u120",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Major Religions and Larger Societies: Pre–1500 > Religious and Philosophical Influence on Societies"
+  },
+  {
+   "units": "u121",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Major Religions and Larger Societies: Pre–1500 > Religious and Philosophical Influence on Societies: sample content/concepts"
+  },
+  {
+   "units": "u122-u125",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Major Religions and Larger Societies: Pre–1500 > Religious and Philosophical Influence on Societies"
+  },
+  {
+   "units": "u126",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Religious and Philosophical Influence on Societies"
+  },
+  {
+   "units": "u127",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE"
+  },
+  {
+   "units": "u128-u130",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Societies: 600 CE–1450 CE: sample compelling questions"
+  },
+  {
+   "units": "u131-u137",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE"
+  },
+  {
+   "units": "u138-u139",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Innovations of Post-Classical Societies"
+  },
+  {
+   "units": "u140",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Innovations of Post-Classical Societies: sample content/concepts"
+  },
+  {
+   "units": "u141-u145",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Innovations of Post-Classical Societies"
+  },
+  {
+   "units": "u146-u147",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Expansion of Sub-Saharan African States"
+  },
+  {
+   "units": "u148",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Expansion of Sub-Saharan African States: sample content/concepts"
+  },
+  {
+   "units": "u149-u153",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Expansion of Sub-Saharan African States"
+  },
+  {
+   "units": "u154-u155",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > European Feudalism"
+  },
+  {
+   "units": "u156",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > European Feudalism: sample content/concepts"
+  },
+  {
+   "units": "u157-u160",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > European Feudalism"
+  },
+  {
+   "units": "u161-u162",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Manorialism and Feudal System"
+  },
+  {
+   "units": "u163",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Manorialism and Feudal System: sample content/concepts"
+  },
+  {
+   "units": "u164-u166",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Societies: 600 CE–1450 CE > Manorialism and Feudal System"
+  },
+  {
+   "units": "u167",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 5 > Manorialism and Feudal System"
+  },
+  {
+   "units": "u168",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE"
+  },
+  {
+   "units": "u169-u171",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE: sample compelling questions"
+  },
+  {
+   "units": "u172-u178",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE"
+  },
+  {
+   "units": "u179-u180",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u181",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u182",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u183",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u184",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u185",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u186",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u187",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u188",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u189-u199",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u200-u201",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u202",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks: sample content/concepts"
+  },
+  {
+   "units": "u203",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Trade Networks"
+  },
+  {
+   "units": "u204-u205",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u206",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas: sample content/concepts"
+  },
+  {
+   "units": "u207",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u208",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas: sample content/concepts"
+  },
+  {
+   "units": "u209",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u210",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas: sample content/concepts"
+  },
+  {
+   "units": "u211",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u212",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas: sample content/concepts"
+  },
+  {
+   "units": "u213",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u214-u215",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Post-Classical Trade Networks: 600 CE–1450 CE > Spread of Culture and Ideas: sample content/concepts"
+  },
+  {
+   "units": "u216",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 6 > Spread of Culture and Ideas"
+  },
+  {
+   "units": "u217",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE"
+  },
+  {
+   "units": "u218-u220",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE: sample compelling questions"
+  },
+  {
+   "units": "u221-u227",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE"
+  },
+  {
+   "units": "u228-u229",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Mongol Conquest"
+  },
+  {
+   "units": "u230",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Mongol Conquest: sample content/concepts"
+  },
+  {
+   "units": "u231-u235",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Mongol Conquest"
+  },
+  {
+   "units": "u236-u237",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > The Crusades"
+  },
+  {
+   "units": "u238",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > The Crusades: sample content/concepts"
+  },
+  {
+   "units": "u239-u242",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > The Crusades"
+  },
+  {
+   "units": "u243-u244",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Chinese Explorations"
+  },
+  {
+   "units": "u245",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Chinese Explorations: sample content/concepts"
+  },
+  {
+   "units": "u246-u248",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Encounters and Exchanges: 600 CE–1450 CE > Chinese Explorations"
+  },
+  {
+   "units": "u249",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 7 > Chinese Explorations"
+  },
+  {
+   "units": "u250",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Mesoamerican Empires: Pre–1500"
+  },
+  {
+   "units": "u251-u253",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Mesoamerican Empires: Pre–1500: sample compelling questions"
+  },
+  {
+   "units": "u254-u260",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Mesoamerican Empires: Pre–1500"
+  },
+  {
+   "units": "u261-u262",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Mesoamerican Empires: Pre–1500 > Characteristics of Mesoamerican Empires"
+  },
+  {
+   "units": "u263",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Mesoamerican Empires: Pre–1500 > Characteristics of Mesoamerican Empires: sample content/concepts"
+  },
+  {
+   "units": "u264-u268",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Mesoamerican Empires: Pre–1500 > Characteristics of Mesoamerican Empires"
+  },
+  {
+   "units": "u269",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 8 > Characteristics of Mesoamerican Empires"
+  },
+  {
+   "units": "u270",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE"
+  },
+  {
+   "units": "u271-u273",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Renewal in Europe: 1300 CE–1500 CE: sample compelling questions"
+  },
+  {
+   "units": "u274-u280",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE"
+  },
+  {
+   "units": "u281-u282",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Medieval Europe Transformation"
+  },
+  {
+   "units": "u283",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Medieval Europe Transformation: sample content/concepts"
+  },
+  {
+   "units": "u284-u287",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Medieval Europe Transformation"
+  },
+  {
+   "units": "u288-u289",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Effects of Black Death"
+  },
+  {
+   "units": "u290",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Effects of Black Death: sample content/concepts"
+  },
+  {
+   "units": "u291-u294",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Effects of Black Death"
+  },
+  {
+   "units": "u295-u296",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Rise of the European Renaissance"
+  },
+  {
+   "units": "u297",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Rise of the European Renaissance: sample content/concepts"
+  },
+  {
+   "units": "u298-u301",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Rise of the European Renaissance"
+  },
+  {
+   "units": "u302-u303",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Influence of the Renaissance"
+  },
+  {
+   "units": "u304",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Influence of the Renaissance: sample content/concepts"
+  },
+  {
+   "units": "u305-u307",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Renewal in Europe: 1300 CE–1500 CE > Influence of the Renaissance"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32) is headed 'Grades 6-8 Inquiry Standards': labeled with that band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u181-u215 (Theme 5, page 7, topic 'Trade Networks' and 'Spread of Culture and Ideas'): the sample-content cells are split into many one-line C4 rows (and stray C5/C6/C7 cells u188, u200, u201) interleaved with C1 anchor-standard cells; all those text fragments labeled examples, C1 cells standards."
+ ]
+}

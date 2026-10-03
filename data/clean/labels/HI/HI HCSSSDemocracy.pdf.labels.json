@@ -1,0 +1,398 @@
+{
+ "state": "HI",
+ "file": "HI HCSSSDemocracy.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 9-12 Inquiry Standards' (Anchor Standards 1-5, codes SS.9-12.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.PID.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts. High school course 'Participation in a Democracy' (codes SS.PID).",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Foundations of the Constitution: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > Philosophical Foundations of the Constitution"
+  },
+  {
+   "units": "u47",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Foundations of the Constitution > Philosophical Foundations of the Constitution: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > Philosophical Foundations of the Constitution"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > Constitutional Debate"
+  },
+  {
+   "units": "u54",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Foundations of the Constitution > Constitutional Debate: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > Constitutional Debate"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > A New American Economy"
+  },
+  {
+   "units": "u61",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Foundations of the Constitution > A New American Economy: sample content/concepts"
+  },
+  {
+   "units": "u62-u63",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Foundations of the Constitution > A New American Economy"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Theme 2 > A New American Economy"
+  },
+  {
+   "units": "u65",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government"
+  },
+  {
+   "units": "u66-u68",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Institutions of National Government: sample compelling questions"
+  },
+  {
+   "units": "u69-u75",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government"
+  },
+  {
+   "units": "u76-u77",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government > Central Principles Governing Institutions of National Government"
+  },
+  {
+   "units": "u78",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Institutions of National Government > Central Principles Governing Institutions of National Government: sample content/concepts"
+  },
+  {
+   "units": "u79-u82",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government > Central Principles Governing Institutions of National Government"
+  },
+  {
+   "units": "u83-u84",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government > Lawmaking Process"
+  },
+  {
+   "units": "u85",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Institutions of National Government > Lawmaking Process: sample content/concepts"
+  },
+  {
+   "units": "u86-u88",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Institutions of National Government > Lawmaking Process"
+  },
+  {
+   "units": "u89",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Theme 3 > Lawmaking Process"
+  },
+  {
+   "units": "u90",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities"
+  },
+  {
+   "units": "u91-u93",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Civic Rights and Responsibilities: sample compelling questions"
+  },
+  {
+   "units": "u94-u100",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities"
+  },
+  {
+   "units": "u101-u102",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities > Landmark Cases"
+  },
+  {
+   "units": "u103",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Civic Rights and Responsibilities > Landmark Cases: sample content/concepts"
+  },
+  {
+   "units": "u104-u107",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities > Landmark Cases"
+  },
+  {
+   "units": "u108-u109",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities > Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u110",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Civic Rights and Responsibilities > Rights and Responsibilities of Citizenship: sample content/concepts"
+  },
+  {
+   "units": "u111-u113",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Rights and Responsibilities > Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u114",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Theme 4 > Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u115",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy"
+  },
+  {
+   "units": "u116-u118",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Public Policy: sample compelling questions"
+  },
+  {
+   "units": "u119-u125",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > Public Policy"
+  },
+  {
+   "units": "u128",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Public Policy > Public Policy: sample content/concepts"
+  },
+  {
+   "units": "u129-u132",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > Public Policy"
+  },
+  {
+   "units": "u133-u134",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > Role of Government in the Economy"
+  },
+  {
+   "units": "u135",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Public Policy > Role of Government in the Economy: sample content/concepts"
+  },
+  {
+   "units": "u136-u138",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > Role of Government in the Economy"
+  },
+  {
+   "units": "u139-u140",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > The Global Role of the United States"
+  },
+  {
+   "units": "u141",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Public Policy > The Global Role of the United States: sample content/concepts"
+  },
+  {
+   "units": "u142-u146",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Public Policy > The Global Role of the United States"
+  },
+  {
+   "units": "u147",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Theme 5 > The Global Role of the United States"
+  },
+  {
+   "units": "u148",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Engagement"
+  },
+  {
+   "units": "u149-u151",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Civic Engagement: sample compelling questions"
+  },
+  {
+   "units": "u152-u158",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Engagement"
+  },
+  {
+   "units": "u159-u160",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Engagement > Analyzing Civic Action"
+  },
+  {
+   "units": "u161",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "examples",
+   "section": "Civic Engagement > Analyzing Civic Action: sample content/concepts"
+  },
+  {
+   "units": "u162-u164",
+   "grades": "9-12",
+   "course": "Participation in a Democracy",
+   "cat": "standards",
+   "section": "Civic Engagement > Analyzing Civic Action"
+  }
+ ],
+ "issues": [
+  "Course name written in capitals in the document ('PARTICIPATION IN A DEMOCRACY'); normalized to title case.",
+  "Inquiry standards table (u2-u32) headed 'Grades 9-12 Inquiry Standards': labeled course null, grades 9-12 as shared HS skills.",
+  "u7: inquiry standard SS.9-12.1.1 text reads 'questions representing key ideas of the disciplines' (leading 'Create compelling' is missing in the source).",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards."
+ ]
+}

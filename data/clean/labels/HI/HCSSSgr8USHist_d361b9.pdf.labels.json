@@ -1,0 +1,727 @@
+{
+ "state": "HI",
+ "file": "HCSSSgr8USHist_d361b9.pdf",
+ "structure": "Grade-level social studies standards (HCSS III). u1 = grade title; first table = 'Grades 6-8 Inquiry Standards' (Anchor Standards 1-5, codes SS.6-8.n.m; anchor standard names split across rows of C1; Anchor Standard 3 shows 'Begins in grades 3-5' placeholders in K-2); then numbered Themes. Each Theme: header row (Theme N + title), 'Sample Compelling Questions' row (bullets), 4-column table header (Anchor Standard / Topic / Content Standard / Sample Content/Concepts), 'The student demonstrates an understanding of' / 'Therefore, the student is able to' sub-header, then rows: C1 discipline (Civics/History/Geography/Economics) followed by Anchor Standard number and name in later C1 rows, C2 topic, C3 'Content Standard SS.8.t.a.n.theme.anchor.n' statement, C4 bullet sample content/concepts. Grade 8 United States History.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u2-u32",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Inquiry Standards (Anchor Standards 1-5)"
+  },
+  {
+   "units": "u33",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 1"
+  },
+  {
+   "units": "u34",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791"
+  },
+  {
+   "units": "u35-u37",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "The US Constitution: 1785–1791: sample compelling questions"
+  },
+  {
+   "units": "u38-u44",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791"
+  },
+  {
+   "units": "u45-u46",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Constitutional Origins"
+  },
+  {
+   "units": "u47",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "The US Constitution: 1785–1791 > Constitutional Origins: sample content/concepts"
+  },
+  {
+   "units": "u48-u51",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Constitutional Origins"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Structure of Government"
+  },
+  {
+   "units": "u54",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "The US Constitution: 1785–1791 > Structure of Government: sample content/concepts"
+  },
+  {
+   "units": "u55-u58",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Structure of Government"
+  },
+  {
+   "units": "u59-u60",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Individual Liberties"
+  },
+  {
+   "units": "u61",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "The US Constitution: 1785–1791 > Individual Liberties: sample content/concepts"
+  },
+  {
+   "units": "u62-u64",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "The US Constitution: 1785–1791 > Individual Liberties"
+  },
+  {
+   "units": "u65",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 2 > Individual Liberties"
+  },
+  {
+   "units": "u66",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837"
+  },
+  {
+   "units": "u67-u69",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Governing Early America: 1787–1837: sample compelling questions"
+  },
+  {
+   "units": "u70-u76",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837"
+  },
+  {
+   "units": "u77-u78",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837 > Exclusions and Restrictions"
+  },
+  {
+   "units": "u79",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Governing Early America: 1787–1837 > Exclusions and Restrictions: sample content/concepts"
+  },
+  {
+   "units": "u80-u83",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837 > Exclusions and Restrictions"
+  },
+  {
+   "units": "u84-u85",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837 > Politics in Transition"
+  },
+  {
+   "units": "u86",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Governing Early America: 1787–1837 > Politics in Transition: sample content/concepts"
+  },
+  {
+   "units": "u87-u89",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Governing Early America: 1787–1837 > Politics in Transition"
+  },
+  {
+   "units": "u90",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 3 > Politics in Transition"
+  },
+  {
+   "units": "u91-u92",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876"
+  },
+  {
+   "units": "u93-u95",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876: sample compelling questions"
+  },
+  {
+   "units": "u96-u97",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876"
+  },
+  {
+   "units": "u98",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > : sample content/concepts"
+  },
+  {
+   "units": "u99-u100",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876"
+  },
+  {
+   "units": "u101",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876 > : sample content/concepts"
+  },
+  {
+   "units": "u102",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876"
+  },
+  {
+   "units": "u103",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Causes of Western Expansion"
+  },
+  {
+   "units": "u104",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Causes of Western Expansion: sample content/concepts"
+  },
+  {
+   "units": "u105",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876 > Causes of Western Expansion"
+  },
+  {
+   "units": "u106-u109",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Causes of Western Expansion"
+  },
+  {
+   "units": "u110",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Acquisition of Western Territory"
+  },
+  {
+   "units": "u111",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Acquisition of Western Territory: sample content/concepts"
+  },
+  {
+   "units": "u112",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876 > Acquisition of Western Territory"
+  },
+  {
+   "units": "u113-u118",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Acquisition of Western Territory"
+  },
+  {
+   "units": "u119",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Interaction and Conflict"
+  },
+  {
+   "units": "u120",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Interaction and Conflict: sample content/concepts"
+  },
+  {
+   "units": "u121",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876 > Interaction and Conflict"
+  },
+  {
+   "units": "u122-u125",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Interaction and Conflict"
+  },
+  {
+   "units": "u126",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Impacts of Western Expansion"
+  },
+  {
+   "units": "u127",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Impacts of Western Expansion: sample content/concepts"
+  },
+  {
+   "units": "u128",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Native America and Westward Expansion: 1787–1876 > Impacts of Western Expansion"
+  },
+  {
+   "units": "u129-u131",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Native America and Westward Expansion: 1787–1876 > Impacts of Western Expansion"
+  },
+  {
+   "units": "u132",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 4 > Impacts of Western Expansion"
+  },
+  {
+   "units": "u133",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860"
+  },
+  {
+   "units": "u134-u135",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Industrial America: 1810–1860: sample compelling questions"
+  },
+  {
+   "units": "u136-u142",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860"
+  },
+  {
+   "units": "u143-u144",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Changing Standard of Living"
+  },
+  {
+   "units": "u145",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Industrial America: 1810–1860 > Changing Standard of Living: sample content/concepts"
+  },
+  {
+   "units": "u146-u149",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Changing Standard of Living"
+  },
+  {
+   "units": "u150-u151",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Technological Advancements"
+  },
+  {
+   "units": "u152",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Industrial America: 1810–1860 > Technological Advancements: sample content/concepts"
+  },
+  {
+   "units": "u153-u157",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Technological Advancements"
+  },
+  {
+   "units": "u158-u159",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Social Change and Conflict"
+  },
+  {
+   "units": "u160",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Industrial America: 1810–1860 > Social Change and Conflict: sample content/concepts"
+  },
+  {
+   "units": "u161-u163",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Industrial America: 1810–1860 > Social Change and Conflict"
+  },
+  {
+   "units": "u164",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 5 > Social Change and Conflict"
+  },
+  {
+   "units": "u165",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861"
+  },
+  {
+   "units": "u166-u168",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery: 1808–1861: sample compelling questions"
+  },
+  {
+   "units": "u169-u175",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861"
+  },
+  {
+   "units": "u176-u177",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861 > Economics of Slavery"
+  },
+  {
+   "units": "u178",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery: 1808–1861 > Economics of Slavery: sample content/concepts"
+  },
+  {
+   "units": "u179-u182",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861 > Economics of Slavery"
+  },
+  {
+   "units": "u183-u184",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861 > Endurance and Resistance"
+  },
+  {
+   "units": "u185",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Slavery: 1808–1861 > Endurance and Resistance: sample content/concepts"
+  },
+  {
+   "units": "u186-u189",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Slavery: 1808–1861 > Endurance and Resistance"
+  },
+  {
+   "units": "u190",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 6 > Endurance and Resistance"
+  },
+  {
+   "units": "u191",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Reform Movements: 1800–1860: sample compelling questions"
+  },
+  {
+   "units": "u194-u200",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860"
+  },
+  {
+   "units": "u201-u202",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860 > Religion and Reform"
+  },
+  {
+   "units": "u203",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Reform Movements: 1800–1860 > Religion and Reform: sample content/concepts"
+  },
+  {
+   "units": "u204-u206",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860 > Religion and Reform"
+  },
+  {
+   "units": "u207-u208",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860 > Social Reform Movements"
+  },
+  {
+   "units": "u209",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Social Reform Movements: 1800–1860 > Social Reform Movements: sample content/concepts"
+  },
+  {
+   "units": "u210-u212",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Reform Movements: 1800–1860 > Social Reform Movements"
+  },
+  {
+   "units": "u213",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 7 > Social Reform Movements"
+  },
+  {
+   "units": "u214",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865"
+  },
+  {
+   "units": "u215-u217",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civil War: 1861–1865: sample compelling questions"
+  },
+  {
+   "units": "u218-u224",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865"
+  },
+  {
+   "units": "u225-u226",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865 > Causes of Civil War"
+  },
+  {
+   "units": "u227",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civil War: 1861–1865 > Causes of Civil War: sample content/concepts"
+  },
+  {
+   "units": "u228-u231",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865 > Causes of Civil War"
+  },
+  {
+   "units": "u232-u233",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865 > Turning Points of Civil War"
+  },
+  {
+   "units": "u234",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Civil War: 1861–1865 > Turning Points of Civil War: sample content/concepts"
+  },
+  {
+   "units": "u235-u237",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Civil War: 1861–1865 > Turning Points of Civil War"
+  },
+  {
+   "units": "u238",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Theme 8 > Turning Points of Civil War"
+  },
+  {
+   "units": "u239",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900"
+  },
+  {
+   "units": "u240-u242",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900: sample compelling questions"
+  },
+  {
+   "units": "u243-u249",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900"
+  },
+  {
+   "units": "u250-u251",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Promise of Reconstruction"
+  },
+  {
+   "units": "u252",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Promise of Reconstruction: sample content/concepts"
+  },
+  {
+   "units": "u253-u256",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Promise of Reconstruction"
+  },
+  {
+   "units": "u257-u258",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Jim Crow: Repression and Segregation"
+  },
+  {
+   "units": "u259",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Jim Crow: Repression and Segregation: sample content/concepts"
+  },
+  {
+   "units": "u260-u262",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Reconstruction and the Rise of Jim Crow: 1865–1900 > Jim Crow: Repression and Segregation"
+  }
+ ],
+ "issues": [
+  "Inquiry standards table (u2-u32) is headed 'Grades 6-8 Inquiry Standards': labeled with that band, course null.",
+  "Anchor-standard names for each content row are split across later C1 rows and interleave with row content; labeled standards.",
+  "u90-u131 (Theme 3, page 5): columns shifted (content standard in C4, sample content in C5; u92 is a duplicate fragment of the theme title 'America and Westward Expansion: 1787-1876'); labeled by content: C5 sample content examples, C4 content standards standards.",
+  "u209: first bullet marker is missing in the source ('Abolitionism: ...')."
+ ]
+}

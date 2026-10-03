@@ -1,0 +1,391 @@
+{
+ "state": "HI",
+ "file": "HI HCPSIII_Psychology.pdf",
+ "structure": "Single high school course. Header gives 'Grade/Course: Psychology / ACCN: CSD2200'. Pages are series of small tables: Strand (Psychology) + Standard heading: bare standard number only ('1'..'4') with no title; per benchmark a table with Topic, benchmark text and code (Benchmark / SS.12P.n.m in separate rows), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u5",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u6-u8",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Associative Learning "
+  },
+  {
+   "units": "u9-u10",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Associative Learning SS.12P.1.1"
+  },
+  {
+   "units": "u11-u12",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Associative Learning SS.12P.1.1: sample performance"
+  },
+  {
+   "units": "u13-u22",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u23-u26",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Associative Learning "
+  },
+  {
+   "units": "u27-u28",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Associative Learning SS.12P.1.2"
+  },
+  {
+   "units": "u29-u30",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Associative Learning SS.12P.1.2: sample performance"
+  },
+  {
+   "units": "u31-u40",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u41",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Associative Learning "
+  },
+  {
+   "units": "u42-u44",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Nature v. Nurture "
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Nature v. Nurture SS.12P.1.3"
+  },
+  {
+   "units": "u47-u48",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Nature v. Nurture SS.12P.1.3: sample performance"
+  },
+  {
+   "units": "u49-u58",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u59-u61",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Nature v. Nurture SS.12P.1.3"
+  },
+  {
+   "units": "u62",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Nature v. Nurture "
+  },
+  {
+   "units": "u63-u65",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development "
+  },
+  {
+   "units": "u66-u67",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development SS.12P.2.1"
+  },
+  {
+   "units": "u68-u69",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Human Development SS.12P.2.1: sample performance"
+  },
+  {
+   "units": "u70-u79",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u80-u83",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development "
+  },
+  {
+   "units": "u84-u85",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development SS.12P.2.2"
+  },
+  {
+   "units": "u86-u87",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Human Development SS.12P.2.2: sample performance"
+  },
+  {
+   "units": "u88-u97",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u98-u100",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development SS.12P.2.2"
+  },
+  {
+   "units": "u101",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Human Development "
+  },
+  {
+   "units": "u102-u104",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment "
+  },
+  {
+   "units": "u105-u106",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment SS.12P.3.1"
+  },
+  {
+   "units": "u107-u108",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Personality Assessment SS.12P.3.1: sample performance"
+  },
+  {
+   "units": "u109-u118",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u119-u123",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment "
+  },
+  {
+   "units": "u124-u125",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment SS.12P.3.2"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Personality Assessment SS.12P.3.2: sample performance"
+  },
+  {
+   "units": "u128-u137",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u138-u140",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment SS.12P.3.2"
+  },
+  {
+   "units": "u141",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Personality Assessment "
+  },
+  {
+   "units": "u142-u145",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders "
+  },
+  {
+   "units": "u146-u148",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders SS.12P.4.1"
+  },
+  {
+   "units": "u149-u150",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Characteristics of Disorders SS.12P.4.1: sample performance"
+  },
+  {
+   "units": "u151-u160",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u161-u164",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders "
+  },
+  {
+   "units": "u165-u166",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders SS.12P.4.2"
+  },
+  {
+   "units": "u167-u168",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Characteristics of Disorders SS.12P.4.2: sample performance"
+  },
+  {
+   "units": "u169-u178",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u179-u182",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders "
+  },
+  {
+   "units": "u183-u184",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders SS.12P.4.3"
+  },
+  {
+   "units": "u185-u186",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Characteristics of Disorders SS.12P.4.3: sample performance"
+  },
+  {
+   "units": "u187-u196",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u197",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Characteristics of Disorders "
+  },
+  {
+   "units": "u198-u200",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Defining Disorders "
+  },
+  {
+   "units": "u201-u202",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "standards",
+   "section": " > Defining Disorders SS.12P.4.4"
+  },
+  {
+   "units": "u203-u204",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "examples",
+   "section": " > Defining Disorders SS.12P.4.4: sample performance"
+  },
+  {
+   "units": "u205-u214",
+   "grades": "9-12",
+   "course": "Psychology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "Standard headings consist only of a bare number (u4, u61, u100, u140); no standard title text in the document.",
+  "Topic 'Defining Disorders' (u198) is attached to benchmark SS.12P.4.4 (therapies) in the source."
+ ]
+}

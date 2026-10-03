@@ -1,0 +1,1374 @@
+{
+ "state": "MS",
+ "file": "MS k12 social studies.pdf",
+ "range": "u1-u2593",
+ "structure": "MS CCRS Social Studies, one PDF containing two editions back to back: the 2022 edition (u1-u1641, pages 1-173) and an earlier 2021 edition (u1642 onward, pages 174+). Each edition: front matter (cover, TOC, acknowledgments, committees, introduction, strands overview of Civics/Civil Rights/Economics/Geography/History, K-8 sequencing, middle-school course-option table), then Primary Courses K-8 each with a title page (e.g. 'Grade 1 Citizenship at School' plus a note that examples are not exhaustive), then a two-column table 'Standard | Objectives'. Codes: K-3 strand-based (K.CI.1 Civics, .E. Economics, .CR. Civil Rights, .G. Geography, .H. History; e.g. 2.G.4); grade 4 theme code 4.MS.n; grades 5-8 plain numbers (5.1, 6.16, 7.9, 8.10); compacted grade 7 uses 7C.n; Carnegie-unit courses use course prefixes (MS, WH, USH, USG, E, ITG, AWG, AAS, HAME, PAD, PSY.I, PSY.II, SOC, LRE, MIN, WC). Standard text sits in column C1 and its numbered Objectives (with inline e.g. lists) in the adjacent cell; no separate example/teacher-note blocks, so objectives are labeled standards. Grade 4-8 pages carry a note 'This course contains all Social Studies Strands'. High school Carnegie-unit courses (required: Mississippi Studies, World History, US History, US Government, Economics; electives: Intro to Geography, Advanced World Geography, African American Studies, History of the Ancient Middle East, Problems of American Democracy, Psychology I/II, Sociology, Law Related Education, Minority Studies, Western Civilization) are labeled grades 9-12 with the course title. Grade labels come from the grade/course title pages and page headings.",
+ "labels": [
+  {
+   "units": "u1-u338",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter 2022 edition: cover, acknowledgments, committees, introduction, strands overview, sequencing, middle-school course options"
+  },
+  {
+   "units": "u339",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Kindergarten Citizenship at Home and School: title page"
+  },
+  {
+   "units": "u340",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Kindergarten Citizenship at Home and School: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u341-u342",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K: grade title and theme"
+  },
+  {
+   "units": "u343-u351",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K > Civics (K.CI.1-3)"
+  },
+  {
+   "units": "u352-u362",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K > Economics (K.E.1-3)"
+  },
+  {
+   "units": "u363-u372",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K > Civil Rights (K.CR.1-3)"
+  },
+  {
+   "units": "u373-u382",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K > Geography (K.G.1-3)"
+  },
+  {
+   "units": "u383-u390",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 K > History (K.H.1-2)"
+  },
+  {
+   "units": "u391",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 1 Citizenship at School: title page"
+  },
+  {
+   "units": "u392",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 1 Citizenship at School: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u393-u395",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 1: grade title and theme"
+  },
+  {
+   "units": "u396-u405",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr1 > Civics (1.CI.1-3)"
+  },
+  {
+   "units": "u406-u412",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr1 > Economics (1.E.1-2)"
+  },
+  {
+   "units": "u413-u420",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr1 > Civil Rights (1.CR.1-2)"
+  },
+  {
+   "units": "u421-u430",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr1 > Geography (1.G.1-3)"
+  },
+  {
+   "units": "u431-u442",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr1 > History (1.H.1-2)"
+  },
+  {
+   "units": "u443",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 2 Citizenship in School and Community: title page"
+  },
+  {
+   "units": "u444",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 2 Citizenship in School and Community: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u445-u447",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 2: grade title and theme"
+  },
+  {
+   "units": "u448-u454",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr2 > Civics (2.CI.1-2)"
+  },
+  {
+   "units": "u455-u469",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr2 > Economics (2.E.1-4)"
+  },
+  {
+   "units": "u470-u480",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr2 > Civil Rights (2.CR.1-2)"
+  },
+  {
+   "units": "u481-u495",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr2 > Geography (2.G.1-4)"
+  },
+  {
+   "units": "u496-u503",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr2 > History (2.H.1-2)"
+  },
+  {
+   "units": "u504",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 3 Citizenship in Local Government: title page"
+  },
+  {
+   "units": "u505",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 3 Citizenship in Local Government: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u506-u508",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 3: grade title and theme"
+  },
+  {
+   "units": "u509-u518",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr3 > Civics (3.CI.1-3)"
+  },
+  {
+   "units": "u519-u528",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr3 > Economics (3.E.1-3)"
+  },
+  {
+   "units": "u529-u535",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr3 > Civil Rights (3.CR.1-2)"
+  },
+  {
+   "units": "u536-u550",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr3 > Geography (3.G.1-4)"
+  },
+  {
+   "units": "u551-u558",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr3 > History (3.H.1-2)"
+  },
+  {
+   "units": "u559",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 4 Theme: Mississippi Studies and Regions: title page"
+  },
+  {
+   "units": "u560",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 4 Theme: Mississippi Studies and Regions: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u561-u563",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 4: grade title and theme"
+  },
+  {
+   "units": "u564",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr4: note that course contains all strands"
+  },
+  {
+   "units": "u565-u598",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr4 > Mississippi Studies and Regions (4.MS.1-11), all strands integrated"
+  },
+  {
+   "units": "u599",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 5 US History: Pre-Columbian Era to American Revolution: title page"
+  },
+  {
+   "units": "u600",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 5 US History: Pre-Columbian Era to American Revolution: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u601-u603",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 5: grade title and theme"
+  },
+  {
+   "units": "u604",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands"
+  },
+  {
+   "units": "u605-u637",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr5 > US History Pre-Columbian to American Revolution (5.1-5.10)"
+  },
+  {
+   "units": "u638",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 6 World Geography: title page"
+  },
+  {
+   "units": "u639",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 6 World Geography: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u640-u642",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 6: grade title and theme"
+  },
+  {
+   "units": "u643",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr6: note that course contains all strands"
+  },
+  {
+   "units": "u644-u706",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr6 > World Geography (6.1-6.16)"
+  },
+  {
+   "units": "u707",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 7 Early World History: title page"
+  },
+  {
+   "units": "u708",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 7 Early World History: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u709-u713",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 7: grade title and theme; Standard/Objectives headers"
+  },
+  {
+   "units": "u714-u741",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr7 > Early World History (7.1-7.9)"
+  },
+  {
+   "units": "u742",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 7 Compacted Early World History and US History: Exploration to 1877: title page"
+  },
+  {
+   "units": "u743",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 7 Compacted Early World History and US History: Exploration to 1877: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u744-u748",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 7 Compacted: titles and headers"
+  },
+  {
+   "units": "u749-u793",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr7C > Early World History and US History (7C.1-7C.13)"
+  },
+  {
+   "units": "u794",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 8 US History: Exploration to 1877: title page"
+  },
+  {
+   "units": "u795",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "2022 Grade 8 US History: Exploration to 1877: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u796-u800",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Grade 8: grade title and theme"
+  },
+  {
+   "units": "u801-u836",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2022 Gr8 > US History Exploration to 1877 (8.1-8.10)"
+  },
+  {
+   "units": "u837-u841",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Carnegie Unit Courses introduction; required courses heading"
+  },
+  {
+   "units": "u842",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "standards",
+   "section": "2022 Mississippi Studies: course title page"
+  },
+  {
+   "units": "u843",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "2022 Mississippi Studies: note that examples are not exhaustive"
+  },
+  {
+   "units": "u844-u883",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "standards",
+   "section": "2022 Mississippi Studies: standards and objectives"
+  },
+  {
+   "units": "u884",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "standards",
+   "section": "2022 World History: Age of Enlightenment to Present: course title page"
+  },
+  {
+   "units": "u885",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "2022 World History: Age of Enlightenment to Present: note that examples are not exhaustive"
+  },
+  {
+   "units": "u886-u931",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "standards",
+   "section": "2022 World History: Age of Enlightenment to Present: standards and objectives"
+  },
+  {
+   "units": "u932",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "standards",
+   "section": "2022 US History: 1877 to the Present: course title page"
+  },
+  {
+   "units": "u933",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "2022 US History: 1877 to the Present: note that examples are not exhaustive"
+  },
+  {
+   "units": "u934-u1084",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "standards",
+   "section": "2022 US History: 1877 to the Present: standards and objectives"
+  },
+  {
+   "units": "u1085",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "2022 United States Government: course title page"
+  },
+  {
+   "units": "u1086",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "backup",
+   "section": "2022 United States Government: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1087-u1128",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "2022 United States Government: standards and objectives"
+  },
+  {
+   "units": "u1129",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "2022 Economics: course title page"
+  },
+  {
+   "units": "u1130",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "2022 Economics: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1131-u1176",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "2022 Economics: standards and objectives"
+  },
+  {
+   "units": "u1177-u1178",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Elective courses heading"
+  },
+  {
+   "units": "u1179",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "standards",
+   "section": "2022 Introduction to Geography: course title page"
+  },
+  {
+   "units": "u1180",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "2022 Introduction to Geography: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1181-u1209",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "standards",
+   "section": "2022 Introduction to Geography: standards and objectives"
+  },
+  {
+   "units": "u1210",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "2022 Advanced World Geography: course title page"
+  },
+  {
+   "units": "u1211",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "backup",
+   "section": "2022 Advanced World Geography: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1212-u1250",
+   "grades": "9-12",
+   "course": "Advanced World Geography",
+   "cat": "standards",
+   "section": "2022 Advanced World Geography: standards and objectives"
+  },
+  {
+   "units": "u1251",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "2022 African American Studies: course title page"
+  },
+  {
+   "units": "u1252",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "backup",
+   "section": "2022 African American Studies: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1253-u1291",
+   "grades": "9-12",
+   "course": "African American Studies",
+   "cat": "standards",
+   "section": "2022 African American Studies: standards and objectives"
+  },
+  {
+   "units": "u1292",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "standards",
+   "section": "2022 History of the Ancient Middle East: course title page"
+  },
+  {
+   "units": "u1293",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "backup",
+   "section": "2022 History of the Ancient Middle East: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1294-u1319",
+   "grades": "9-12",
+   "course": "History of the Ancient Middle East",
+   "cat": "standards",
+   "section": "2022 History of the Ancient Middle East: standards and objectives"
+  },
+  {
+   "units": "u1320",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "standards",
+   "section": "2022 Problems of American Democracy: course title page"
+  },
+  {
+   "units": "u1321",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "backup",
+   "section": "2022 Problems of American Democracy: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1322-u1362",
+   "grades": "9-12",
+   "course": "Problems of American Democracy",
+   "cat": "standards",
+   "section": "2022 Problems of American Democracy: standards and objectives"
+  },
+  {
+   "units": "u1363",
+   "grades": "9-12",
+   "course": "Psychology I",
+   "cat": "standards",
+   "section": "2022 Psychology I: course title page"
+  },
+  {
+   "units": "u1364",
+   "grades": "9-12",
+   "course": "Psychology I",
+   "cat": "backup",
+   "section": "2022 Psychology I: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1365-u1392",
+   "grades": "9-12",
+   "course": "Psychology I",
+   "cat": "standards",
+   "section": "2022 Psychology I: standards and objectives"
+  },
+  {
+   "units": "u1393",
+   "grades": "9-12",
+   "course": "Psychology II",
+   "cat": "standards",
+   "section": "2022 Psychology II: course title page"
+  },
+  {
+   "units": "u1394",
+   "grades": "9-12",
+   "course": "Psychology II",
+   "cat": "backup",
+   "section": "2022 Psychology II: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1395-u1419",
+   "grades": "9-12",
+   "course": "Psychology II",
+   "cat": "standards",
+   "section": "2022 Psychology II: standards and objectives"
+  },
+  {
+   "units": "u1420",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "2022 Sociology: course title page"
+  },
+  {
+   "units": "u1421",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "2022 Sociology: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1422-u1487",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "2022 Sociology: standards and objectives"
+  },
+  {
+   "units": "u1488",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "standards",
+   "section": "2022 Law Related Education: course title page"
+  },
+  {
+   "units": "u1489",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "backup",
+   "section": "2022 Law Related Education: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1490-u1539",
+   "grades": "9-12",
+   "course": "Law Related Education",
+   "cat": "standards",
+   "section": "2022 Law Related Education: standards and objectives"
+  },
+  {
+   "units": "u1540",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "2022 Minority Studies: course title page"
+  },
+  {
+   "units": "u1541",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "backup",
+   "section": "2022 Minority Studies: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1542-u1613",
+   "grades": "9-12",
+   "course": "Minority Studies",
+   "cat": "standards",
+   "section": "2022 Minority Studies: standards and objectives"
+  },
+  {
+   "units": "u1614",
+   "grades": "9-12",
+   "course": "Western Civilization",
+   "cat": "standards",
+   "section": "2022 Western Civilization: course title page"
+  },
+  {
+   "units": "u1615",
+   "grades": "9-12",
+   "course": "Western Civilization",
+   "cat": "backup",
+   "section": "2022 Western Civilization: note that examples are not exhaustive"
+  },
+  {
+   "units": "u1616-u1641",
+   "grades": "9-12",
+   "course": "Western Civilization",
+   "cat": "standards",
+   "section": "2022 Western Civilization: standards and objectives"
+  },
+  {
+   "units": "u1642-u1927",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter 2021 edition (earlier edition appended): cover, TOC, acknowledgments, introduction, strands overview, sequencing, middle-school course options"
+  },
+  {
+   "units": "u1928",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Kindergarten Citizenship at Home and School: title page"
+  },
+  {
+   "units": "u1929",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Kindergarten Citizenship at Home and School: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u1930-u1932",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K: grade title and theme"
+  },
+  {
+   "units": "u1933-u1941",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K > Civics (K.CI.1-3)"
+  },
+  {
+   "units": "u1942-u1954",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K > Economics (K.E.1-3)"
+  },
+  {
+   "units": "u1955-u1964",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K > Civil Rights (K.CR.1-3)"
+  },
+  {
+   "units": "u1965-u1974",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K > Geography (K.G.1-3)"
+  },
+  {
+   "units": "u1975-u1982",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 K > History (K.H.1-2)"
+  },
+  {
+   "units": "u1983",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 1 Citizenship at School: title page"
+  },
+  {
+   "units": "u1984",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 1 Citizenship at School: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u1985-u1987",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 1: grade title and theme"
+  },
+  {
+   "units": "u1988-u1997",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr1 > Civics (1.CI.1-3)"
+  },
+  {
+   "units": "u1998-u2004",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr1 > Economics (1.E.1-2)"
+  },
+  {
+   "units": "u2005-u2012",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr1 > Civil Rights (1.CR.1-2)"
+  },
+  {
+   "units": "u2013-u2021",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr1 > Geography (1.G.1-3)"
+  },
+  {
+   "units": "u2022-u2036",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr1 > History (1.H.1-2)"
+  },
+  {
+   "units": "u2037",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 2 Citizenship in School and Community: title page"
+  },
+  {
+   "units": "u2038",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 2 Citizenship in School and Community: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2039-u2041",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 2: grade title and theme"
+  },
+  {
+   "units": "u2042-u2048",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr2 > Civics (2.CI.1-2)"
+  },
+  {
+   "units": "u2049-u2061",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr2 > Economics (2.E.1-3)"
+  },
+  {
+   "units": "u2062-u2069",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr2 > Civil Rights (2.CR.1-2)"
+  },
+  {
+   "units": "u2070-u2081",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr2 > Geography (2.G.1-4)"
+  },
+  {
+   "units": "u2082-u2089",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr2 > History (2.H.1-2)"
+  },
+  {
+   "units": "u2090",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 3 Citizenship in Local Government: title page"
+  },
+  {
+   "units": "u2091",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 3 Citizenship in Local Government: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2092-u2094",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 3: grade title and theme"
+  },
+  {
+   "units": "u2095-u2104",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr3 > Civics (3.CI.1-3)"
+  },
+  {
+   "units": "u2105-u2114",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr3 > Economics (3.E.1-3)"
+  },
+  {
+   "units": "u2115-u2121",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr3 > Civil Rights (3.CR.1-2)"
+  },
+  {
+   "units": "u2122-u2134",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr3 > Geography (3.G.1-3)"
+  },
+  {
+   "units": "u2135-u2142",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr3 > History (3.H.1-2)"
+  },
+  {
+   "units": "u2143",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 4 Theme: Mississippi Studies and Regions: title page"
+  },
+  {
+   "units": "u2144",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 4 Theme: Mississippi Studies and Regions: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2145-u2147",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 4: grade title and theme"
+  },
+  {
+   "units": "u2148",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr4: note that course contains all strands"
+  },
+  {
+   "units": "u2149-u2179",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr4 > Mississippi Studies and Regions (4.MS.1-11)"
+  },
+  {
+   "units": "u2180",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 5 US History: Pre-Columbian Era to American Revolution: title page"
+  },
+  {
+   "units": "u2181",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 5 US History: Pre-Columbian Era to American Revolution: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2182-u2184",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 5: grade title and theme"
+  },
+  {
+   "units": "u2185",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands"
+  },
+  {
+   "units": "u2186-u2191",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr5 > US History (5.1-5.2)"
+  },
+  {
+   "units": "u2192-u2195",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands (repeated; stray period)"
+  },
+  {
+   "units": "u2196-u2201",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr5 > US History (5.3-5.4)"
+  },
+  {
+   "units": "u2202-u2205",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands (repeated; stray period)"
+  },
+  {
+   "units": "u2206-u2209",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr5 > US History (5.5)"
+  },
+  {
+   "units": "u2210-u2213",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands (repeated; stray period)"
+  },
+  {
+   "units": "u2214-u2217",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Gr5 > US History (5.6)"
+  },
+  {
+   "units": "u2218-u2220",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Gr5: note that course contains all strands (repeated; stray period)"
+  },
+  {
+   "units": "u2221",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 6 Civics and the World: title page"
+  },
+  {
+   "units": "u2222",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 6 Civics and the World: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2223-u2225",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 6: grade title and theme"
+  },
+  {
+   "units": "u2226-u2233",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr6 > Civics (6.CI.1-2)"
+  },
+  {
+   "units": "u2234-u2240",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr6 > Economics (6.E.1-2)"
+  },
+  {
+   "units": "u2241-u2252",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr6 > Civil Rights (6.CR.1-2)"
+  },
+  {
+   "units": "u2253-u2273",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr6 > Geography (6.G.1-7)"
+  },
+  {
+   "units": "u2274-u2279",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr6 > History (6.H.1)"
+  },
+  {
+   "units": "u2280",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 7 Early World History: title page"
+  },
+  {
+   "units": "u2281",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 7 Early World History: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2282-u2286",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 7: grade title and theme; headers"
+  },
+  {
+   "units": "u2287-u2314",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr7 > Early World History (7.1-7.9)"
+  },
+  {
+   "units": "u2315",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 7 Compacted Early World History and US History: Exploration to 1877: title page"
+  },
+  {
+   "units": "u2316",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 7 Compacted Early World History and US History: Exploration to 1877: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2317-u2321",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 7 Compacted: titles and headers"
+  },
+  {
+   "units": "u2322-u2360",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr7C > Early World History and US History (7C.1-7C.13)"
+  },
+  {
+   "units": "u2361",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 8 US History: Exploration to 1877: title page"
+  },
+  {
+   "units": "u2362",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "2021 Grade 8 US History: Exploration to 1877: note that examples are not exhaustive / page reference"
+  },
+  {
+   "units": "u2363-u2367",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Grade 8: grade title and theme"
+  },
+  {
+   "units": "u2368-u2397",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "2021 Gr8 > US History Exploration to 1877 (8.1-8.10)"
+  },
+  {
+   "units": "u2398-u2402",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Carnegie Unit Courses introduction; required courses heading"
+  },
+  {
+   "units": "u2403",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "standards",
+   "section": "2021 Mississippi Studies: course title page"
+  },
+  {
+   "units": "u2404",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "backup",
+   "section": "2021 Mississippi Studies: note that examples are not exhaustive"
+  },
+  {
+   "units": "u2405-u2444",
+   "grades": "9-12",
+   "course": "Mississippi Studies",
+   "cat": "standards",
+   "section": "2021 Mississippi Studies: standards and objectives"
+  },
+  {
+   "units": "u2445",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "standards",
+   "section": "2021 Introduction to Geography: course title page"
+  },
+  {
+   "units": "u2446",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "backup",
+   "section": "2021 Introduction to Geography: note that examples are not exhaustive"
+  },
+  {
+   "units": "u2447-u2486",
+   "grades": "9-12",
+   "course": "Introduction to Geography",
+   "cat": "standards",
+   "section": "2021 Introduction to Geography: standards and objectives"
+  },
+  {
+   "units": "u2487",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "standards",
+   "section": "2021 World History: Age of Enlightenment to Present: course title page"
+  },
+  {
+   "units": "u2488",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "backup",
+   "section": "2021 World History: Age of Enlightenment to Present: note that examples are not exhaustive"
+  },
+  {
+   "units": "u2489-u2528",
+   "grades": "9-12",
+   "course": "World History: Age of Enlightenment to Present",
+   "cat": "standards",
+   "section": "2021 World History: Age of Enlightenment to Present: standards and objectives"
+  },
+  {
+   "units": "u2529",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "standards",
+   "section": "2021 US History: 1877 to the Present: course title page"
+  },
+  {
+   "units": "u2530",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "backup",
+   "section": "2021 US History: 1877 to the Present: note that examples are not exhaustive"
+  },
+  {
+   "units": "u2531-u2592",
+   "grades": "9-12",
+   "course": "US History: 1877 to the Present",
+   "cat": "standards",
+   "section": "2021 US History: 1877 to the Present: standards and objectives"
+  }
+ ],
+ "issues": [
+  "u1642-u2592: the file contains a second, earlier (2021) edition of the same standards appended after the 2022 edition (page 174 onward). Labeled with the same grades/courses as the 2022 edition; the assembler will see duplicate-but-differing grade/course content. 2021 grade 6 theme is 'Civics and the World' (strand codes 6.CI/6.E/6.CR/6.G/6.H) versus 2022 'World Geography' (6.1-6.16).",
+  "u1936-u2583 (2021 edition objectives): objective numbering in extracted cells is offset/inconsistent (e.g. '5. Define citizen...', '8. Illustrate...', numbering continuing from hidden items); text left as extracted.",
+  "u1416: source objective numbering jumps from 2 to 4 (no 3); u2381 (8.4 objectives) lists case names as numbered items 11-14; text left as extracted.",
+  "u339-u340, u391-u392, etc.: grade title pages ('Grade N <theme>') labeled standards; the one-line note '*The examples listed within the document are not an exhaustive list' labeled backup. '2021 page references' like u1929 'Page 14 - 18' labeled backup.",
+  "u564, u604, u643, u2148, u2185, u2192-u2195, u2202-u2205, u2210-u2213, u2218-u2219: boilerplate 'This course contains all Social Studies Strands' note (and stray '.') labeled backup.",
+  "u742-u793 and u2315-u2360: compacted Grade 7 (7C) labeled grades '7', course null (it is a grade-level compacted course covering grade 7 content); could alternatively be treated as a course.",
+  "Carnegie-unit courses (Mississippi Studies, Introduction to Geography) are also offered as grade 7-9 electives per the course-sequence table (u289-u337, u1877-u1926); labeled 9-12 per guide.",
+  "u250-u262, u1838-u1850: strand descriptions (Civics, History, Civil Rights, Economics, Geography) labeled backup as introductory overview; u264-u283 sequencing list (grade -> theme) labeled backup.",
+  "u1407: continuation cell of PSY.II.3 objectives 3-4 sits at top of next page; u612-u615, u704-u705, u1019-u1020 (USH 7 spans a whole page): table cells split across page (6.16 'Oceania' u704; 5.3-5.4 u612-u615); grade/course taken from surrounding headings.",
+  "u1440-u1449 (SOC.4): standard text and objectives interleaved across columns in extraction order; all labeled Sociology standards.",
+  "u945-u965, u975-u995, u1005-u1017, u1023-u1044, u1054-u1083, u2542-u2562, u2572-u2592: objectives split line-by-line into separate table rows by the extractor; all USH standards.",
+  "u1094-u1100: USG.2 continues across pages (u1099 'USG.2 Continued'); labeled United States Government standards.",
+  "No unit u2593 exists in the view; last unit in range is u2592 (USH 4 objectives, 2021 edition, page 260). Labels end at u2592."
+ ]
+}

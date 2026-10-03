@@ -1,0 +1,4975 @@
+{
+ "state": "WA",
+ "file": "OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx",
+ "structure": "Washington 2019 K-12 Social Studies Learning Standards (Word master). Front matter (license, adoption statement, introduction, numbering key, learning goals) then three grade-band parts: Elementary (K-5), Middle School (6-8), High School (9-12), each opening with discipline overview narratives and the five overarching learning standards (Social Studies Skills, Civics, Economics, Geography, History). Then one block per performance standard (SSS1-4 skills; C1-4 civics; E1-4 economics; G1-3 geography; H1-4 history), repeated per band: heading line 'C1: ...', 'Enduring Understanding' + text, a 2-column table (Components | Sample Questions) with ONE standards cell and ONE sample-questions cell, then 'Since Time Immemorial Connections' lines (Pathways lines, Washington State History/US History unit lines, Middle/High School curriculum lines, Native Knowledge 360 inquiries). Standard codes are DISCIPLINE+PERFORMANCE.GRADE.COMPONENT, e.g. C1.K.1, E2.3.4, H1.6-8.2, SSS1.9-12.3, C1.11-12.1, C2.9-10.1. Elementary tables are split into a K-2 table and a 3-5 table, each standards cell holding 'By the end of Kindergarten/1st/2nd grade, students will: ...' (or 3rd/4th/5th) for all grades of the band in a single unit; middle school cells hold (World) 6th, (WA) 7th, (US) 8th together (6-8); high school cells hold 9/10th and 11/12th together (9-12) except skills (9-12 only). Back matter: closing statement, FAQs, bibliography, acknowledgments, OSPI contact.",
+ "labels": [
+  {
+   "units": "u1-u35",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover, licensing, title page, adoption statement"
+  },
+  {
+   "units": "u36-u100",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, numbering, C3 and STI notes, learning goals, how to navigate"
+  },
+  {
+   "units": "u101-u109",
+   "grades": "K-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary school overview by discipline (narrative)"
+  },
+  {
+   "units": "u110-u113",
+   "grades": "K-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary: Learning Standards table header (color/icon/standard)"
+  },
+  {
+   "units": "u114-u118",
+   "grades": "K-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching learning standards by discipline (Skills, Civics, Economics, Geography, History)"
+  },
+  {
+   "units": "u119",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > performance standard heading"
+  },
+  {
+   "units": "u120-u121",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > Enduring Understanding"
+  },
+  {
+   "units": "u122",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Components"
+  },
+  {
+   "units": "u123",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Sample Questions"
+  },
+  {
+   "units": "u124",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > component standards cell"
+  },
+  {
+   "units": "u125",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > Sample Questions cell"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u128",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI Pathways cross-reference"
+  },
+  {
+   "units": "u129",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI Pathways cross-reference"
+  },
+  {
+   "units": "u130",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI Pathways cross-reference"
+  },
+  {
+   "units": "u131",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > performance standard heading"
+  },
+  {
+   "units": "u132-u133",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > Enduring Understanding"
+  },
+  {
+   "units": "u134",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Components"
+  },
+  {
+   "units": "u135",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Sample Questions"
+  },
+  {
+   "units": "u136",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > component standards cell"
+  },
+  {
+   "units": "u137",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > Sample Questions cell"
+  },
+  {
+   "units": "u138-u139",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u140",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI Pathways cross-reference"
+  },
+  {
+   "units": "u141",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u142",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u143",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > performance standard heading"
+  },
+  {
+   "units": "u144-u145",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > Enduring Understanding"
+  },
+  {
+   "units": "u146",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > table header: Components"
+  },
+  {
+   "units": "u147",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > table header: Sample Questions"
+  },
+  {
+   "units": "u148",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > component standards cell"
+  },
+  {
+   "units": "u149",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > Sample Questions cell"
+  },
+  {
+   "units": "u150-u151",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u152",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > STI Pathways cross-reference"
+  },
+  {
+   "units": "u153",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > STI Pathways cross-reference"
+  },
+  {
+   "units": "u154",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS2 Uses inquiry-based research > STI Pathways cross-reference"
+  },
+  {
+   "units": "u155",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > performance standard heading"
+  },
+  {
+   "units": "u156-u157",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > Enduring Understanding"
+  },
+  {
+   "units": "u158",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > table header: Components"
+  },
+  {
+   "units": "u159",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > table header: Sample Questions"
+  },
+  {
+   "units": "u160",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > component standards cell"
+  },
+  {
+   "units": "u161",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > Sample Questions cell"
+  },
+  {
+   "units": "u162-u163",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u164",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > STI Pathways cross-reference"
+  },
+  {
+   "units": "u165",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u166",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS2 Uses inquiry-based research > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u167",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > performance standard heading"
+  },
+  {
+   "units": "u168-u169",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > Enduring Understanding"
+  },
+  {
+   "units": "u170",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > table header: Components"
+  },
+  {
+   "units": "u171",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > table header: Sample Questions"
+  },
+  {
+   "units": "u172",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > component standards cell"
+  },
+  {
+   "units": "u173",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > Sample Questions cell"
+  },
+  {
+   "units": "u174-u175",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u176",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > STI Pathways cross-reference"
+  },
+  {
+   "units": "u177",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > STI Pathways cross-reference"
+  },
+  {
+   "units": "u178",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS3 Deliberates public issues > STI Pathways cross-reference"
+  },
+  {
+   "units": "u179",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > performance standard heading"
+  },
+  {
+   "units": "u180-u181",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > Enduring Understanding"
+  },
+  {
+   "units": "u182",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > table header: Components"
+  },
+  {
+   "units": "u183",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > table header: Sample Questions"
+  },
+  {
+   "units": "u184",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > component standards cell"
+  },
+  {
+   "units": "u185",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > Sample Questions cell"
+  },
+  {
+   "units": "u186-u187",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u188",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > STI Pathways cross-reference"
+  },
+  {
+   "units": "u189",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u190",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS3 Deliberates public issues > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u191",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > performance standard heading"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > Enduring Understanding"
+  },
+  {
+   "units": "u194",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > table header: Components"
+  },
+  {
+   "units": "u195",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > table header: Sample Questions"
+  },
+  {
+   "units": "u196",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > component standards cell"
+  },
+  {
+   "units": "u197",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > Sample Questions cell"
+  },
+  {
+   "units": "u198-u199",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u200",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u201",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u202",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > SSS4 Creates a product that uses social studies content to s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u203",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > performance standard heading"
+  },
+  {
+   "units": "u204-u205",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > Enduring Understanding"
+  },
+  {
+   "units": "u206",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > table header: Components"
+  },
+  {
+   "units": "u207",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > table header: Sample Questions"
+  },
+  {
+   "units": "u208",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > component standards cell"
+  },
+  {
+   "units": "u209",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > Sample Questions cell"
+  },
+  {
+   "units": "u210-u211",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u212",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u213",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u214",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > SSS4 Creates a product that uses social studies content to s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u215",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > performance standard heading"
+  },
+  {
+   "units": "u216-u217",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > Enduring Understanding"
+  },
+  {
+   "units": "u218",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > table header: Components"
+  },
+  {
+   "units": "u219",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > table header: Sample Questions"
+  },
+  {
+   "units": "u220",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > component standards cell"
+  },
+  {
+   "units": "u221",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > Sample Questions cell"
+  },
+  {
+   "units": "u222-u223",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u224",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > STI Pathways cross-reference"
+  },
+  {
+   "units": "u225",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > STI Pathways cross-reference"
+  },
+  {
+   "units": "u226",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C1 Understands key ideals and principles of the United Sta > STI Pathways cross-reference"
+  },
+  {
+   "units": "u227",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > performance standard heading"
+  },
+  {
+   "units": "u228-u229",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > Enduring Understanding"
+  },
+  {
+   "units": "u230",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > table header: Components"
+  },
+  {
+   "units": "u231",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > table header: Sample Questions"
+  },
+  {
+   "units": "u232",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > component standards cell"
+  },
+  {
+   "units": "u233",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > Sample Questions cell"
+  },
+  {
+   "units": "u234-u235",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u236",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > STI Pathways cross-reference"
+  },
+  {
+   "units": "u237",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u238",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C1 Understands key ideals and principles of the United Sta > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u239",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > performance standard heading"
+  },
+  {
+   "units": "u240-u241",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > Enduring Understanding"
+  },
+  {
+   "units": "u242",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > table header: Components"
+  },
+  {
+   "units": "u243",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > table header: Sample Questions"
+  },
+  {
+   "units": "u244",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > component standards cell"
+  },
+  {
+   "units": "u245",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > Sample Questions cell"
+  },
+  {
+   "units": "u246-u247",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u248",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > STI Pathways cross-reference"
+  },
+  {
+   "units": "u249",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > STI Pathways cross-reference"
+  },
+  {
+   "units": "u250",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C2 Understands the purposes, organization, and function of > STI Pathways cross-reference"
+  },
+  {
+   "units": "u251",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > performance standard heading"
+  },
+  {
+   "units": "u252-u253",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > Enduring Understanding"
+  },
+  {
+   "units": "u254",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > table header: Components"
+  },
+  {
+   "units": "u255",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > table header: Sample Questions"
+  },
+  {
+   "units": "u256",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > component standards cell"
+  },
+  {
+   "units": "u257",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > Sample Questions cell"
+  },
+  {
+   "units": "u258-u259",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u260",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > STI Pathways cross-reference"
+  },
+  {
+   "units": "u261",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u262",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C2 Understands the purposes, organization, and function of > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u263",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > performance standard heading"
+  },
+  {
+   "units": "u264-u265",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > Enduring Understanding"
+  },
+  {
+   "units": "u266",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > table header: Components"
+  },
+  {
+   "units": "u267",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > table header: Sample Questions"
+  },
+  {
+   "units": "u268",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > component standards cell"
+  },
+  {
+   "units": "u269",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > Sample Questions cell"
+  },
+  {
+   "units": "u270-u271",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u272",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u273",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u274",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C3 Understands the purposes and organization of tribal and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u275",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > performance standard heading"
+  },
+  {
+   "units": "u276-u277",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > Enduring Understanding"
+  },
+  {
+   "units": "u278",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > table header: Components"
+  },
+  {
+   "units": "u279",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > table header: Sample Questions"
+  },
+  {
+   "units": "u280",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > component standards cell"
+  },
+  {
+   "units": "u281",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > Sample Questions cell"
+  },
+  {
+   "units": "u282-u283",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u284",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u285",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u286",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u287",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C4 Understands civic involvement > performance standard heading"
+  },
+  {
+   "units": "u288-u289",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C4 Understands civic involvement > Enduring Understanding"
+  },
+  {
+   "units": "u290",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C4 Understands civic involvement > table header: Components"
+  },
+  {
+   "units": "u291",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C4 Understands civic involvement > table header: Sample Questions"
+  },
+  {
+   "units": "u292",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > C4 Understands civic involvement > component standards cell"
+  },
+  {
+   "units": "u293",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C4 Understands civic involvement > Sample Questions cell"
+  },
+  {
+   "units": "u294-u295",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > C4 Understands civic involvement > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u296",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C4 Understands civic involvement > STI Pathways cross-reference"
+  },
+  {
+   "units": "u297",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C4 Understands civic involvement > STI Pathways cross-reference"
+  },
+  {
+   "units": "u298",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > C4 Understands civic involvement > STI Pathways cross-reference"
+  },
+  {
+   "units": "u299",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > performance standard heading"
+  },
+  {
+   "units": "u300-u301",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > Enduring Understanding"
+  },
+  {
+   "units": "u302",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > table header: Components"
+  },
+  {
+   "units": "u303",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > table header: Sample Questions"
+  },
+  {
+   "units": "u304",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > component standards cell"
+  },
+  {
+   "units": "u305",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > Sample Questions cell"
+  },
+  {
+   "units": "u306-u307",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u308",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > STI Pathways cross-reference"
+  },
+  {
+   "units": "u309",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u310",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > C4 Understands civic involvement > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u311",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > performance standard heading"
+  },
+  {
+   "units": "u312-u313",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > Enduring Understanding"
+  },
+  {
+   "units": "u314",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > table header: Components"
+  },
+  {
+   "units": "u315",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > table header: Sample Questions"
+  },
+  {
+   "units": "u316",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > component standards cell"
+  },
+  {
+   "units": "u317",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > Sample Questions cell"
+  },
+  {
+   "units": "u318-u319",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u320",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > STI Pathways cross-reference"
+  },
+  {
+   "units": "u321",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > STI Pathways cross-reference"
+  },
+  {
+   "units": "u322",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E1 Understands that people have to make choices between wa > STI Pathways cross-reference"
+  },
+  {
+   "units": "u323",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > performance standard heading"
+  },
+  {
+   "units": "u324-u325",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > Enduring Understanding"
+  },
+  {
+   "units": "u326",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > table header: Components"
+  },
+  {
+   "units": "u327",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > table header: Sample Questions"
+  },
+  {
+   "units": "u328",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > component standards cell"
+  },
+  {
+   "units": "u329",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > Sample Questions cell"
+  },
+  {
+   "units": "u330-u331",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u332",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > STI Pathways cross-reference"
+  },
+  {
+   "units": "u333",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u334",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E1 Understands that people have to make choices between wa > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u335",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > performance standard heading"
+  },
+  {
+   "units": "u336-u337",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > Enduring Understanding"
+  },
+  {
+   "units": "u338",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > table header: Components"
+  },
+  {
+   "units": "u339",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > table header: Sample Questions"
+  },
+  {
+   "units": "u340",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > component standards cell"
+  },
+  {
+   "units": "u341",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > Sample Questions cell"
+  },
+  {
+   "units": "u342-u343",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u344",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > STI Pathways cross-reference"
+  },
+  {
+   "units": "u345",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > STI Pathways cross-reference"
+  },
+  {
+   "units": "u346",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E2 Understands the components of an economic system > STI Pathways cross-reference"
+  },
+  {
+   "units": "u347",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > performance standard heading"
+  },
+  {
+   "units": "u348-u349",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > Enduring Understanding"
+  },
+  {
+   "units": "u350",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > table header: Components"
+  },
+  {
+   "units": "u351",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > table header: Sample Questions"
+  },
+  {
+   "units": "u352",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > component standards cell"
+  },
+  {
+   "units": "u353",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > Sample Questions cell"
+  },
+  {
+   "units": "u354-u355",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u356",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > STI Pathways cross-reference"
+  },
+  {
+   "units": "u357",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u358",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E2 Understands the components of an economic system > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u359",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > performance standard heading"
+  },
+  {
+   "units": "u360-u361",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > Enduring Understanding"
+  },
+  {
+   "units": "u362",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > table header: Components"
+  },
+  {
+   "units": "u363",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > table header: Sample Questions"
+  },
+  {
+   "units": "u364",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > component standards cell"
+  },
+  {
+   "units": "u365",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > Sample Questions cell"
+  },
+  {
+   "units": "u366-u367",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u368",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > STI Pathways cross-reference"
+  },
+  {
+   "units": "u369",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > STI Pathways cross-reference"
+  },
+  {
+   "units": "u370",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E3 Understands the government’s role in the economy > STI Pathways cross-reference"
+  },
+  {
+   "units": "u371",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > performance standard heading"
+  },
+  {
+   "units": "u372-u373",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > Enduring Understanding"
+  },
+  {
+   "units": "u374",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > table header: Components"
+  },
+  {
+   "units": "u375",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > table header: Sample Questions"
+  },
+  {
+   "units": "u376",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > component standards cell"
+  },
+  {
+   "units": "u377",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > Sample Questions cell"
+  },
+  {
+   "units": "u378-u379",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u380",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E3 Understands the government’s role in the economy > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u381",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > performance standard heading"
+  },
+  {
+   "units": "u382-u383",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > Enduring Understanding"
+  },
+  {
+   "units": "u384",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > table header: Components"
+  },
+  {
+   "units": "u385",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > table header: Sample Questions"
+  },
+  {
+   "units": "u386",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > component standards cell"
+  },
+  {
+   "units": "u387",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > Sample Questions cell"
+  },
+  {
+   "units": "u388-u389",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u390",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u391",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u392",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > E4 Understands the economic issues and problems that all s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u393",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > performance standard heading"
+  },
+  {
+   "units": "u394-u395",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > Enduring Understanding"
+  },
+  {
+   "units": "u396",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > table header: Components"
+  },
+  {
+   "units": "u397",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > table header: Sample Questions"
+  },
+  {
+   "units": "u398",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > component standards cell"
+  },
+  {
+   "units": "u399",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > Sample Questions cell"
+  },
+  {
+   "units": "u400-u401",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u402",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > STI Pathways cross-reference"
+  },
+  {
+   "units": "u403",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u404",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > E4 Understands the economic issues and problems that all s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u405",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > performance standard heading"
+  },
+  {
+   "units": "u406-u407",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > Enduring Understanding"
+  },
+  {
+   "units": "u408",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > table header: Components"
+  },
+  {
+   "units": "u409",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > table header: Sample Questions"
+  },
+  {
+   "units": "u410",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > component standards cell"
+  },
+  {
+   "units": "u411",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > Sample Questions cell"
+  },
+  {
+   "units": "u412-u413",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u414",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > STI Pathways cross-reference"
+  },
+  {
+   "units": "u415",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > STI Pathways cross-reference"
+  },
+  {
+   "units": "u416",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G1 Understands the physical characteristics, cultural char > STI Pathways cross-reference"
+  },
+  {
+   "units": "u417",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > performance standard heading"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > Enduring Understanding"
+  },
+  {
+   "units": "u420",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > table header: Components"
+  },
+  {
+   "units": "u421",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > table header: Sample Questions"
+  },
+  {
+   "units": "u422",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > component standards cell"
+  },
+  {
+   "units": "u423",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > Sample Questions cell"
+  },
+  {
+   "units": "u424-u425",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u426",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > STI Pathways cross-reference"
+  },
+  {
+   "units": "u427",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u428",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G1 Understands the physical characteristics, cultural char > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u429",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > performance standard heading"
+  },
+  {
+   "units": "u430-u431",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > Enduring Understanding"
+  },
+  {
+   "units": "u432",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > table header: Components"
+  },
+  {
+   "units": "u433",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > table header: Sample Questions"
+  },
+  {
+   "units": "u434",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > component standards cell"
+  },
+  {
+   "units": "u435",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > Sample Questions cell"
+  },
+  {
+   "units": "u436-u437",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u438",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > STI Pathways cross-reference"
+  },
+  {
+   "units": "u439",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > STI Pathways cross-reference"
+  },
+  {
+   "units": "u440",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G2 Understands human interaction with the environment > STI Pathways cross-reference"
+  },
+  {
+   "units": "u441",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > performance standard heading"
+  },
+  {
+   "units": "u442-u443",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > Enduring Understanding"
+  },
+  {
+   "units": "u444",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > table header: Components"
+  },
+  {
+   "units": "u445",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > table header: Sample Questions"
+  },
+  {
+   "units": "u446",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > component standards cell"
+  },
+  {
+   "units": "u447",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > Sample Questions cell"
+  },
+  {
+   "units": "u448-u449",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u450",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > STI Pathways cross-reference"
+  },
+  {
+   "units": "u451",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u452",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G2 Understands human interaction with the environment > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u453",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > performance standard heading"
+  },
+  {
+   "units": "u454-u455",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > Enduring Understanding"
+  },
+  {
+   "units": "u456",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > table header: Components"
+  },
+  {
+   "units": "u457",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > table header: Sample Questions"
+  },
+  {
+   "units": "u458",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > component standards cell"
+  },
+  {
+   "units": "u459",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > Sample Questions cell"
+  },
+  {
+   "units": "u460-u461",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u462",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u463",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u464",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > G3 Understands the geographic context of global issues and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u465",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > performance standard heading"
+  },
+  {
+   "units": "u466-u467",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > Enduring Understanding"
+  },
+  {
+   "units": "u468",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > table header: Components"
+  },
+  {
+   "units": "u469",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > table header: Sample Questions"
+  },
+  {
+   "units": "u470",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > component standards cell"
+  },
+  {
+   "units": "u471",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > Sample Questions cell"
+  },
+  {
+   "units": "u472-u473",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u474",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > STI Pathways cross-reference"
+  },
+  {
+   "units": "u475",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u476",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > G3 Understands the geographic context of global issues and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u477",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H1 Understands historical chronology > performance standard heading"
+  },
+  {
+   "units": "u478-u479",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H1 Understands historical chronology > Enduring Understanding"
+  },
+  {
+   "units": "u480",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H1 Understands historical chronology > table header: Components"
+  },
+  {
+   "units": "u481",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H1 Understands historical chronology > table header: Sample Questions"
+  },
+  {
+   "units": "u482",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H1 Understands historical chronology > component standards cell"
+  },
+  {
+   "units": "u483",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H1 Understands historical chronology > Sample Questions cell"
+  },
+  {
+   "units": "u484-u485",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H1 Understands historical chronology > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u486",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H1 Understands historical chronology > STI Pathways cross-reference"
+  },
+  {
+   "units": "u487",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H1 Understands historical chronology > STI Pathways cross-reference"
+  },
+  {
+   "units": "u488",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H1 Understands historical chronology > STI Pathways cross-reference"
+  },
+  {
+   "units": "u489",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > performance standard heading"
+  },
+  {
+   "units": "u490-u491",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > Enduring Understanding"
+  },
+  {
+   "units": "u492",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > table header: Components"
+  },
+  {
+   "units": "u493",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > table header: Sample Questions"
+  },
+  {
+   "units": "u494",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > component standards cell"
+  },
+  {
+   "units": "u495",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > Sample Questions cell"
+  },
+  {
+   "units": "u496-u497",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u498",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > STI Pathways cross-reference"
+  },
+  {
+   "units": "u499",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u500",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H1 Understands historical chronology > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u501",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > performance standard heading"
+  },
+  {
+   "units": "u502-u503",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > Enduring Understanding"
+  },
+  {
+   "units": "u504",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > table header: Components"
+  },
+  {
+   "units": "u505",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > table header: Sample Questions"
+  },
+  {
+   "units": "u506",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > component standards cell"
+  },
+  {
+   "units": "u507",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > Sample Questions cell"
+  },
+  {
+   "units": "u508-u509",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u510",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > STI Pathways cross-reference"
+  },
+  {
+   "units": "u511",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > STI Pathways cross-reference"
+  },
+  {
+   "units": "u512",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H2 Understands and analyzes causal factors that have shape > STI Pathways cross-reference"
+  },
+  {
+   "units": "u513",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > performance standard heading"
+  },
+  {
+   "units": "u514-u515",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > Enduring Understanding"
+  },
+  {
+   "units": "u516",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > table header: Components"
+  },
+  {
+   "units": "u517",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > table header: Sample Questions"
+  },
+  {
+   "units": "u518",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > component standards cell"
+  },
+  {
+   "units": "u519",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > Sample Questions cell"
+  },
+  {
+   "units": "u520-u521",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u522",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > STI Pathways cross-reference"
+  },
+  {
+   "units": "u523",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u524",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H2 Understands and analyzes causal factors that have shape > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u525",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > performance standard heading"
+  },
+  {
+   "units": "u526-u527",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > Enduring Understanding"
+  },
+  {
+   "units": "u528",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > table header: Components"
+  },
+  {
+   "units": "u529",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > table header: Sample Questions"
+  },
+  {
+   "units": "u530",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > component standards cell"
+  },
+  {
+   "units": "u531",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > Sample Questions cell"
+  },
+  {
+   "units": "u532-u533",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u534",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > STI Pathways cross-reference"
+  },
+  {
+   "units": "u535",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > STI Pathways cross-reference"
+  },
+  {
+   "units": "u536",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H3 Understands that there are multiple perspectives and in > STI Pathways cross-reference"
+  },
+  {
+   "units": "u537",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > performance standard heading"
+  },
+  {
+   "units": "u538-u539",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > Enduring Understanding"
+  },
+  {
+   "units": "u540",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > table header: Components"
+  },
+  {
+   "units": "u541",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > table header: Sample Questions"
+  },
+  {
+   "units": "u542",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > component standards cell"
+  },
+  {
+   "units": "u543",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > Sample Questions cell"
+  },
+  {
+   "units": "u544-u545",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u546",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > STI Pathways cross-reference"
+  },
+  {
+   "units": "u547",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u548",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H3 Understands that there are multiple perspectives and in > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u549",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > performance standard heading"
+  },
+  {
+   "units": "u550-u551",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > Enduring Understanding"
+  },
+  {
+   "units": "u552",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > table header: Components"
+  },
+  {
+   "units": "u553",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > table header: Sample Questions"
+  },
+  {
+   "units": "u554",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > component standards cell"
+  },
+  {
+   "units": "u555",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > Sample Questions cell"
+  },
+  {
+   "units": "u556-u557",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u558",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > STI Pathways cross-reference"
+  },
+  {
+   "units": "u559",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > STI Pathways cross-reference"
+  },
+  {
+   "units": "u560",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary K-2 > H4 Understands how historical events inform analysis of co > STI Pathways cross-reference"
+  },
+  {
+   "units": "u561",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > performance standard heading"
+  },
+  {
+   "units": "u562-u563",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > Enduring Understanding"
+  },
+  {
+   "units": "u564",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > table header: Components"
+  },
+  {
+   "units": "u565",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > table header: Sample Questions"
+  },
+  {
+   "units": "u566",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > component standards cell"
+  },
+  {
+   "units": "u567",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > Sample Questions cell"
+  },
+  {
+   "units": "u568-u569",
+   "grades": "3-5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u570",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > STI Pathways cross-reference"
+  },
+  {
+   "units": "u571",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u572",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Elementary 3-5 > H4 Understands how historical events inform analysis of co > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u573-u583",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle school overview by discipline (narrative)"
+  },
+  {
+   "units": "u584-u587",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Middle school: Learning Standards table header"
+  },
+  {
+   "units": "u588-u592",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching learning standards by discipline"
+  },
+  {
+   "units": "u593",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > performance standard heading"
+  },
+  {
+   "units": "u594-u595",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > Enduring Understanding"
+  },
+  {
+   "units": "u596",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Components"
+  },
+  {
+   "units": "u597",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Sample Questions"
+  },
+  {
+   "units": "u598",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > component standards cell"
+  },
+  {
+   "units": "u599",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > Sample Questions cell"
+  },
+  {
+   "units": "u600-u601",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u602",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u603",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > performance standard heading"
+  },
+  {
+   "units": "u604-u605",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > Enduring Understanding"
+  },
+  {
+   "units": "u606",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > table header: Components"
+  },
+  {
+   "units": "u607",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > table header: Sample Questions"
+  },
+  {
+   "units": "u608",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > component standards cell"
+  },
+  {
+   "units": "u609",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > Sample Questions cell"
+  },
+  {
+   "units": "u610-u611",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u612-u613",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS2 Uses inquiry-based research > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u614",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > performance standard heading"
+  },
+  {
+   "units": "u615-u616",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > Enduring Understanding"
+  },
+  {
+   "units": "u617",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > table header: Components"
+  },
+  {
+   "units": "u618",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > table header: Sample Questions"
+  },
+  {
+   "units": "u619",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > component standards cell"
+  },
+  {
+   "units": "u620",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > Sample Questions cell"
+  },
+  {
+   "units": "u621-u622",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u623",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS3 Deliberates public issues > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u624",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > performance standard heading"
+  },
+  {
+   "units": "u625-u626",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > Enduring Understanding"
+  },
+  {
+   "units": "u627",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > table header: Components"
+  },
+  {
+   "units": "u628",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > table header: Sample Questions"
+  },
+  {
+   "units": "u629",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > component standards cell"
+  },
+  {
+   "units": "u630",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > Sample Questions cell"
+  },
+  {
+   "units": "u631-u632",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u633",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > SSS4 Creates a product that uses social studies content to s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u634",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > performance standard heading"
+  },
+  {
+   "units": "u635-u638",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > Enduring Understanding"
+  },
+  {
+   "units": "u639",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > table header: Components"
+  },
+  {
+   "units": "u640",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > table header: Sample Questions"
+  },
+  {
+   "units": "u641",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > component standards cell"
+  },
+  {
+   "units": "u642",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > Sample Questions cell"
+  },
+  {
+   "units": "u643-u644",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u645-u648",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C1 Understands key ideals and principles of the United Sta > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u649",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > performance standard heading"
+  },
+  {
+   "units": "u650-u653",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > Enduring Understanding"
+  },
+  {
+   "units": "u654",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > table header: Components"
+  },
+  {
+   "units": "u655",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > table header: Sample Questions"
+  },
+  {
+   "units": "u656",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > component standards cell"
+  },
+  {
+   "units": "u657",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > Sample Questions cell"
+  },
+  {
+   "units": "u658-u659",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u660-u662",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C2 Understands the purposes, organization, and function of > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u663",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > performance standard heading"
+  },
+  {
+   "units": "u664-u667",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > Enduring Understanding"
+  },
+  {
+   "units": "u668",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > table header: Components"
+  },
+  {
+   "units": "u669",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > table header: Sample Questions"
+  },
+  {
+   "units": "u670",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > component standards cell"
+  },
+  {
+   "units": "u671",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > Sample Questions cell"
+  },
+  {
+   "units": "u672-u673",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u674",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u675",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C4 Understands civic involvement > performance standard heading"
+  },
+  {
+   "units": "u676-u680",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C4 Understands civic involvement > Enduring Understanding"
+  },
+  {
+   "units": "u681",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C4 Understands civic involvement > table header: Components"
+  },
+  {
+   "units": "u682",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C4 Understands civic involvement > table header: Sample Questions"
+  },
+  {
+   "units": "u683",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > C4 Understands civic involvement > component standards cell"
+  },
+  {
+   "units": "u684",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C4 Understands civic involvement > Sample Questions cell"
+  },
+  {
+   "units": "u685-u686",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C4 Understands civic involvement > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u687",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > C4 Understands civic involvement > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u688",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > performance standard heading"
+  },
+  {
+   "units": "u689-u692",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > Enduring Understanding"
+  },
+  {
+   "units": "u693",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > table header: Components"
+  },
+  {
+   "units": "u694",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > table header: Sample Questions"
+  },
+  {
+   "units": "u695",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > component standards cell"
+  },
+  {
+   "units": "u696",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > Sample Questions cell"
+  },
+  {
+   "units": "u697-u698",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u699-u700",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E1 Understands that people have to make choices between wa > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u701",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > performance standard heading"
+  },
+  {
+   "units": "u702-u705",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > Enduring Understanding"
+  },
+  {
+   "units": "u706",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > table header: Components"
+  },
+  {
+   "units": "u707",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > table header: Sample Questions"
+  },
+  {
+   "units": "u708",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > component standards cell"
+  },
+  {
+   "units": "u709",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > Sample Questions cell"
+  },
+  {
+   "units": "u710-u711",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u712",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E2 Understands how economic systems function > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u713",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > performance standard heading"
+  },
+  {
+   "units": "u714-u718",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > Enduring Understanding"
+  },
+  {
+   "units": "u719",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > table header: Components"
+  },
+  {
+   "units": "u720",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > table header: Sample Questions"
+  },
+  {
+   "units": "u721",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > component standards cell"
+  },
+  {
+   "units": "u722",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > Sample Questions cell"
+  },
+  {
+   "units": "u723-u724",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u725",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E3 Understands the government’s role in the economy > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u726",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > performance standard heading"
+  },
+  {
+   "units": "u727-u730",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > Enduring Understanding"
+  },
+  {
+   "units": "u731",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > table header: Components"
+  },
+  {
+   "units": "u732",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > table header: Sample Questions"
+  },
+  {
+   "units": "u733",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > component standards cell"
+  },
+  {
+   "units": "u734",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > Sample Questions cell"
+  },
+  {
+   "units": "u735-u736",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u737",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > E4 Understands the economic issues and problems that all s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u738",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > performance standard heading"
+  },
+  {
+   "units": "u739-u742",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > Enduring Understanding"
+  },
+  {
+   "units": "u743",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > table header: Components"
+  },
+  {
+   "units": "u744",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > table header: Sample Questions"
+  },
+  {
+   "units": "u745",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > component standards cell"
+  },
+  {
+   "units": "u746",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > Sample Questions cell"
+  },
+  {
+   "units": "u747-u748",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u749",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G1 Understands the physical characteristics, cultural char > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u750",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > performance standard heading"
+  },
+  {
+   "units": "u751-u754",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > Enduring Understanding"
+  },
+  {
+   "units": "u755",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > table header: Components"
+  },
+  {
+   "units": "u756",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > table header: Sample Questions"
+  },
+  {
+   "units": "u757",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > component standards cell"
+  },
+  {
+   "units": "u758",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > Sample Questions cell"
+  },
+  {
+   "units": "u759-u760",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u761-u762",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G2 Understands human interaction with the environment > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u763",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > performance standard heading"
+  },
+  {
+   "units": "u764-u766",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > Enduring Understanding"
+  },
+  {
+   "units": "u767",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > table header: Components"
+  },
+  {
+   "units": "u768",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > table header: Sample Questions"
+  },
+  {
+   "units": "u769",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > component standards cell"
+  },
+  {
+   "units": "u770",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > Sample Questions cell"
+  },
+  {
+   "units": "u771-u772",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u773",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > G3 Understands the geographic context of global issues and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u774",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H1 Understands historical chronology > performance standard heading"
+  },
+  {
+   "units": "u775-u778",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H1 Understands historical chronology > Enduring Understanding"
+  },
+  {
+   "units": "u779",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H1 Understands historical chronology > table header: Components"
+  },
+  {
+   "units": "u780",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H1 Understands historical chronology > table header: Sample Questions"
+  },
+  {
+   "units": "u781",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H1 Understands historical chronology > component standards cell"
+  },
+  {
+   "units": "u782",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H1 Understands historical chronology > Sample Questions cell"
+  },
+  {
+   "units": "u783-u784",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H1 Understands historical chronology > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u785-u787",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H1 Understands historical chronology > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u788",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > performance standard heading"
+  },
+  {
+   "units": "u789-u792",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > Enduring Understanding"
+  },
+  {
+   "units": "u793",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > table header: Components"
+  },
+  {
+   "units": "u794",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > table header: Sample Questions"
+  },
+  {
+   "units": "u795",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > component standards cell"
+  },
+  {
+   "units": "u796",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > Sample Questions cell"
+  },
+  {
+   "units": "u797-u798",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u799-u801",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H2 Understands and analyzes causal factors that have shape > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u802",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > performance standard heading"
+  },
+  {
+   "units": "u803-u806",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > Enduring Understanding"
+  },
+  {
+   "units": "u807",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > table header: Components"
+  },
+  {
+   "units": "u808",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > table header: Sample Questions"
+  },
+  {
+   "units": "u809",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > component standards cell"
+  },
+  {
+   "units": "u810",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > Sample Questions cell"
+  },
+  {
+   "units": "u811-u812",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u813-u816",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H3 Understands that there are multiple perspectives and in > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u817",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > performance standard heading"
+  },
+  {
+   "units": "u818-u821",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > Enduring Understanding"
+  },
+  {
+   "units": "u822",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > table header: Components"
+  },
+  {
+   "units": "u823",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > table header: Sample Questions"
+  },
+  {
+   "units": "u824",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > component standards cell"
+  },
+  {
+   "units": "u825",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > Sample Questions cell"
+  },
+  {
+   "units": "u826-u827",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u828-u830",
+   "grades": "6-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Middle 6-8 > H4 Understands how historical events inform analysis of co > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u831-u839",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High school overview by discipline (narrative)"
+  },
+  {
+   "units": "u840-u843",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "High school: Learning Standards table header"
+  },
+  {
+   "units": "u844-u848",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Overarching learning standards by discipline"
+  },
+  {
+   "units": "u849",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > performance standard heading"
+  },
+  {
+   "units": "u850-u851",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > Enduring Understanding"
+  },
+  {
+   "units": "u852",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Components"
+  },
+  {
+   "units": "u853",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > table header: Sample Questions"
+  },
+  {
+   "units": "u854",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > component standards cell"
+  },
+  {
+   "units": "u855",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > Sample Questions cell"
+  },
+  {
+   "units": "u856-u857",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u858-u860",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS1 Uses critical reasoning skills to analyze and evaluate > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u861",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > performance standard heading"
+  },
+  {
+   "units": "u862-u863",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > Enduring Understanding"
+  },
+  {
+   "units": "u864",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > table header: Components"
+  },
+  {
+   "units": "u865",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > table header: Sample Questions"
+  },
+  {
+   "units": "u866",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > component standards cell"
+  },
+  {
+   "units": "u867",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > Sample Questions cell"
+  },
+  {
+   "units": "u868-u869",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u870-u872",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS2 Uses inquiry-based research > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u873",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS3 Deliberates public issues > performance standard heading"
+  },
+  {
+   "units": "u874-u875",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS3 Deliberates public issues > Enduring Understanding"
+  },
+  {
+   "units": "u876",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS3 Deliberates public issues > table header: Components"
+  },
+  {
+   "units": "u877",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS3 Deliberates public issues > table header: Sample Questions"
+  },
+  {
+   "units": "u878",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS3 Deliberates public issues > component standards cell"
+  },
+  {
+   "units": "u879",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS3 Deliberates public issues > Sample Questions cell"
+  },
+  {
+   "units": "u880-u881",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS3 Deliberates public issues > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u882-u885",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS3 Deliberates public issues > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u886",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > performance standard heading"
+  },
+  {
+   "units": "u887-u888",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > Enduring Understanding"
+  },
+  {
+   "units": "u889",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > table header: Components"
+  },
+  {
+   "units": "u890",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > table header: Sample Questions"
+  },
+  {
+   "units": "u891",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > component standards cell"
+  },
+  {
+   "units": "u892",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > Sample Questions cell"
+  },
+  {
+   "units": "u893-u894",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u895-u897",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > SSS4 Creates a product that uses social studies content to s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u898",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > performance standard heading"
+  },
+  {
+   "units": "u899-u900",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > Enduring Understanding"
+  },
+  {
+   "units": "u901",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > table header: Components"
+  },
+  {
+   "units": "u902",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > table header: Sample Questions"
+  },
+  {
+   "units": "u903",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > component standards cell"
+  },
+  {
+   "units": "u904",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > Sample Questions cell"
+  },
+  {
+   "units": "u905-u906",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u907-u909",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C1 Understands key ideals and principles of the United Sta > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u910",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > performance standard heading"
+  },
+  {
+   "units": "u911-u912",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > Enduring Understanding"
+  },
+  {
+   "units": "u913",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > table header: Components"
+  },
+  {
+   "units": "u914",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > table header: Sample Questions"
+  },
+  {
+   "units": "u915",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > component standards cell"
+  },
+  {
+   "units": "u916",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > Sample Questions cell"
+  },
+  {
+   "units": "u917-u918",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u919-u923",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C2 Understands the purposes, organization, and function of > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u924",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > performance standard heading"
+  },
+  {
+   "units": "u925-u926",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > Enduring Understanding"
+  },
+  {
+   "units": "u927",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > table header: Components"
+  },
+  {
+   "units": "u928",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > table header: Sample Questions"
+  },
+  {
+   "units": "u929",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > component standards cell"
+  },
+  {
+   "units": "u930",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > Sample Questions cell"
+  },
+  {
+   "units": "u931-u932",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u933-u936",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u937-u938",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u939",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C3 Understands the purposes and organization of tribal and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u940",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C4 Understands civic involvement > performance standard heading"
+  },
+  {
+   "units": "u941-u942",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > Enduring Understanding"
+  },
+  {
+   "units": "u943",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C4 Understands civic involvement > table header: Components"
+  },
+  {
+   "units": "u944",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > table header: Sample Questions"
+  },
+  {
+   "units": "u945",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > C4 Understands civic involvement > component standards cell"
+  },
+  {
+   "units": "u946",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > Sample Questions cell"
+  },
+  {
+   "units": "u947-u948",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u949",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u950-u951",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > C4 Understands civic involvement > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u952",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > performance standard heading"
+  },
+  {
+   "units": "u953-u954",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > Enduring Understanding"
+  },
+  {
+   "units": "u955",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > table header: Components"
+  },
+  {
+   "units": "u956",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > table header: Sample Questions"
+  },
+  {
+   "units": "u957",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > component standards cell"
+  },
+  {
+   "units": "u958",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > Sample Questions cell"
+  },
+  {
+   "units": "u959-u960",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u961",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u962-u963",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E1 Understands that people have to make choices between wa > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u964",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E2 Understands how economic systems function > performance standard heading"
+  },
+  {
+   "units": "u965-u966",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > Enduring Understanding"
+  },
+  {
+   "units": "u967",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E2 Understands how economic systems function > table header: Components"
+  },
+  {
+   "units": "u968",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > table header: Sample Questions"
+  },
+  {
+   "units": "u969",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E2 Understands how economic systems function > component standards cell"
+  },
+  {
+   "units": "u970",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > Sample Questions cell"
+  },
+  {
+   "units": "u971-u972",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u973",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u974-u975",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E2 Understands how economic systems function > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u976",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > performance standard heading"
+  },
+  {
+   "units": "u977-u978",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > Enduring Understanding"
+  },
+  {
+   "units": "u979",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > table header: Components"
+  },
+  {
+   "units": "u980",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > table header: Sample Questions"
+  },
+  {
+   "units": "u981",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > component standards cell"
+  },
+  {
+   "units": "u982",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > Sample Questions cell"
+  },
+  {
+   "units": "u983-u984",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u985",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u986-u987",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E3 Understands the government’s role in the economy > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u988",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > performance standard heading"
+  },
+  {
+   "units": "u989-u990",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > Enduring Understanding"
+  },
+  {
+   "units": "u991",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > table header: Components"
+  },
+  {
+   "units": "u992",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > table header: Sample Questions"
+  },
+  {
+   "units": "u993",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > component standards cell"
+  },
+  {
+   "units": "u994",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > Sample Questions cell"
+  },
+  {
+   "units": "u995-u996",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u997",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u998-u999",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > E4 Understands the economic issues and problems that all s > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1000",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > performance standard heading"
+  },
+  {
+   "units": "u1001-u1002",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > Enduring Understanding"
+  },
+  {
+   "units": "u1003",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > table header: Components"
+  },
+  {
+   "units": "u1004",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > table header: Sample Questions"
+  },
+  {
+   "units": "u1005",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > component standards cell"
+  },
+  {
+   "units": "u1006",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > Sample Questions cell"
+  },
+  {
+   "units": "u1007-u1008",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1009",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1010-u1011",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G1 Understands the physical characteristics, cultural sign > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1012",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > performance standard heading"
+  },
+  {
+   "units": "u1013-u1014",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > Enduring Understanding"
+  },
+  {
+   "units": "u1015",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > table header: Components"
+  },
+  {
+   "units": "u1016",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > table header: Sample Questions"
+  },
+  {
+   "units": "u1017",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > component standards cell"
+  },
+  {
+   "units": "u1018",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > Sample Questions cell"
+  },
+  {
+   "units": "u1019-u1020",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1021",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1022-u1023",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G2 Understands human interaction with the environment > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1024",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > performance standard heading"
+  },
+  {
+   "units": "u1025-u1026",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > Enduring Understanding"
+  },
+  {
+   "units": "u1027",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > table header: Components"
+  },
+  {
+   "units": "u1028",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > table header: Sample Questions"
+  },
+  {
+   "units": "u1029",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > component standards cell"
+  },
+  {
+   "units": "u1030",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > Sample Questions cell"
+  },
+  {
+   "units": "u1031-u1032",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1033",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1034-u1035",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > G3 Understands the geographic context of global issues and > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1036",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H1 Understands historical chronology > performance standard heading"
+  },
+  {
+   "units": "u1037-u1038",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > Enduring Understanding"
+  },
+  {
+   "units": "u1039",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H1 Understands historical chronology > table header: Components"
+  },
+  {
+   "units": "u1040",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > table header: Sample Questions"
+  },
+  {
+   "units": "u1041",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H1 Understands historical chronology > component standards cell"
+  },
+  {
+   "units": "u1042",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > Sample Questions cell"
+  },
+  {
+   "units": "u1043-u1044",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1045",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1046-u1047",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H1 Understands historical chronology > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1048",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > performance standard heading"
+  },
+  {
+   "units": "u1049-u1050",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > Enduring Understanding"
+  },
+  {
+   "units": "u1051",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > table header: Components"
+  },
+  {
+   "units": "u1052",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > table header: Sample Questions"
+  },
+  {
+   "units": "u1053",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > component standards cell"
+  },
+  {
+   "units": "u1054",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > Sample Questions cell"
+  },
+  {
+   "units": "u1055-u1056",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1057",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1058-u1059",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H2 Understands and analyzes causal factors that have shape > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1060",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > performance standard heading"
+  },
+  {
+   "units": "u1061-u1062",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > Enduring Understanding"
+  },
+  {
+   "units": "u1063",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > table header: Components"
+  },
+  {
+   "units": "u1064",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > table header: Sample Questions"
+  },
+  {
+   "units": "u1065",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > component standards cell"
+  },
+  {
+   "units": "u1066",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > Sample Questions cell"
+  },
+  {
+   "units": "u1067-u1068",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1069",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1070-u1071",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H3 Understands that there are multiple perspectives and in > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1072",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > performance standard heading"
+  },
+  {
+   "units": "u1073-u1074",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > Enduring Understanding"
+  },
+  {
+   "units": "u1075",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > table header: Components"
+  },
+  {
+   "units": "u1076",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > table header: Sample Questions"
+  },
+  {
+   "units": "u1077",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > component standards cell"
+  },
+  {
+   "units": "u1078",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > Sample Questions cell"
+  },
+  {
+   "units": "u1079-u1080",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > Since Time Immemorial connections header"
+  },
+  {
+   "units": "u1081",
+   "grades": "9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1082-u1083",
+   "grades": "11-12",
+   "course": null,
+   "cat": "examples",
+   "section": "High 9-12 > H4 Understands how historical events inform analysis of co > STI / Native Knowledge 360 cross-reference"
+  },
+  {
+   "units": "u1084-u1266",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "FAQ, bibliography, acknowledgments, contact"
+  }
+ ],
+ "issues": [
+  "Whole-document: each standards cell and each Sample Questions cell packs several grades into one unit (elementary K-2 or 3-5; middle 6-8 with World/WA/US = 6/7/8; high school 9/10 and 11/12 together), contrary to the UPDATE note that each grade has its own cell. Units cannot be split, so these cells are labeled with the band (K-2, 3-5, 6-8, 9-12). Examples: u124, u136, u641, u903, u915.",
+  "High school standards cells (e.g. u903-u1077) contain both 9-10 and 11-12 components in one unit, so grades=9-12; the 9-10 / 11-12 separation cannot be expressed. u903 says 'This component is taught at the 11th and 12th grade level' for C1.",
+  "Enduring Understanding header and text (and Sample Questions cells) labeled examples (content-specific big ideas / guiding questions); table header 'Components' labeled standards, 'Sample Questions' header examples.",
+  "Since Time Immemorial lines: lines mentioning 'Pathway(s)' labeled backup with the single grade parsed from the code (elementary), others (Washington State History / US History units, Middle School Curriculum, Native Knowledge 360 inquiries) labeled examples per the reviewer update. Elementary STI lines get the grade from the code (K,1,2,3,4,5); middle lines 6-8; high school lines 9-10, 11-12 or 9-12 from the codes named (the course names like U.S. History 11th Grade appear only in these lines, so course is null everywhere).",
+  "Elementary STI section header lines ('Since Time Immemorial Connections', 'Elementary Curriculum') have no code, so they take the table band (K-2 or 3-5). Same for Middle/High School Curriculum headers.",
+  "Typos retained in source: u328 'E.1.3.3'; u656 'C2.6-8. 1' spacing; immigration-related sample questions (u1006, u1018, u1066, u970) are in examples.",
+  "u101-u109, u573-u583, u831-u839 band overview narratives labeled examples (K-5, 6-8, 9-12); u583 ('These standards can be addressed over multiple grade levels (6-8)') kept with them. u111-u113, u585-u587, u841-u843 table headers (color, icon, standard) labeled backup; u110/u584/u840 headings backup.",
+  "Row cluster note: 6-8 cell treats grade 6 (World), 7 (WA), 8 (US) content together; no per-grade split possible.",
+  "u1084-u1086 (Lead with Learning Standards box) and everything from u1084 on labeled backup/all.",
+  "Guide's 'known structure' said use the PDF; per reviewer UPDATE the Word master is used, and the PDF was not labeled."
+ ]
+}

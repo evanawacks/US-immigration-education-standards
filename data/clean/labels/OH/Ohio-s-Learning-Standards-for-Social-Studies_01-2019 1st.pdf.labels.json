@@ -1,0 +1,1316 @@
+{
+ "state": "OH",
+ "file": "Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf",
+ "structure": "One complete K-12 Ohio PDF (file name '1st' is just the copy chosen; the other copies are duplicates). Front matter: cover, TOC, introduction, philosophy, 'How to Read' (K-8 and HS side by side in two columns, interleaved in the units by x position), strand definitions, K-8 skills topic descriptions and topic descriptions tables, Grade Theme Descriptions table (GRADE | THEME). K-8 standards (pp. 11-29): one section per grade (Kindergarten, Grade 1..8), each with 'THEME: ...' line plus theme narrative, then a 3-column table: C1 = strand (HISTORY/GEOGRAPHY/GOVERNMENT/ECONOMICS STRAND), C2 = topic heading plus 'Content Statements: n. ...' (numbered statements, continuing across strands), C3 = further topic and its statements; the extractor repeats the same topic/statement text in both a merged C2 cell and C3 rows (duplicate text). 'Grade n, continued' headings begin later pages. High school (pp. 30-47): 'How to read', Course Themes table (COURSE | THEME), then six course syllabi (American History, American Government, Modern World History, Economics and Financial Literacy, Contemporary World Issues, World Geography), each = course title, 'Theme:' narrative, then 'TOPIC: ...' headings with a short topic description and numbered content statements; grades not specified (9-12). HS pages are two-column and the units are interleaved out of reading order, so each unit is labeled individually (topic headings and content statements = standards; Theme and topic descriptions = examples).",
+ "labels": [
+  {
+   "units": "u1-u2",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u5-u38",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Table of contents and January 2019 footnote"
+  },
+  {
+   "units": "u41-u47",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction to Ohio's Social Studies Standards"
+  },
+  {
+   "units": "u48-u49",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Philosophy and Guiding Assumptions"
+  },
+  {
+   "units": "u52",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards, K-12"
+  },
+  {
+   "units": "u53-u54",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u55",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u56",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u57",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u58-u60",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u61",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u62",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u63",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u65",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u66",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (high school side)"
+  },
+  {
+   "units": "u67-u74",
+   "grades": "K-8",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read the Standards (K-8 side)"
+  },
+  {
+   "units": "u77-u81",
+   "grades": "K-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Strand Definitions K-8"
+  },
+  {
+   "units": "u84-u102",
+   "grades": "K-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Skills Topic Descriptions K-8"
+  },
+  {
+   "units": "u105-u157",
+   "grades": "K-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Topic Descriptions K-8"
+  },
+  {
+   "units": "u160-u162",
+   "grades": "K-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions K-8 heading/header"
+  },
+  {
+   "units": "u163-u164",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade K"
+  },
+  {
+   "units": "u165-u166",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 1"
+  },
+  {
+   "units": "u167-u168",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 2"
+  },
+  {
+   "units": "u169-u170",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 3"
+  },
+  {
+   "units": "u171-u172",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 4"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 5"
+  },
+  {
+   "units": "u177-u178",
+   "grades": "K-8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions K-8 header (repeated)"
+  },
+  {
+   "units": "u179-u180",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 6"
+  },
+  {
+   "units": "u181-u182",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 7"
+  },
+  {
+   "units": "u183-u184",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade Theme Descriptions: grade 8"
+  },
+  {
+   "units": "u187",
+   "grades": "K-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Standards: K-8 heading"
+  },
+  {
+   "units": "u188-u189",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten title and theme"
+  },
+  {
+   "units": "u190",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Kindergarten theme narrative"
+  },
+  {
+   "units": "u191-u206",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten content statements"
+  },
+  {
+   "units": "u209-u210",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 title and theme"
+  },
+  {
+   "units": "u211",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1 theme narrative"
+  },
+  {
+   "units": "u212-u223",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1 content statements"
+  },
+  {
+   "units": "u226-u232",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1, continued: content statements"
+  },
+  {
+   "units": "u235-u236",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 title and theme"
+  },
+  {
+   "units": "u237",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2 theme narrative"
+  },
+  {
+   "units": "u238-u249",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2 content statements"
+  },
+  {
+   "units": "u252-u258",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2, continued: content statements"
+  },
+  {
+   "units": "u261-u262",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 title and theme"
+  },
+  {
+   "units": "u263",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3 theme narrative"
+  },
+  {
+   "units": "u264-u271",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3 content statements"
+  },
+  {
+   "units": "u274-u284",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3, continued: content statements"
+  },
+  {
+   "units": "u287-u288",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 title and theme"
+  },
+  {
+   "units": "u289",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4 theme narrative"
+  },
+  {
+   "units": "u290-u293",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4 content statements"
+  },
+  {
+   "units": "u296-u311",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4, continued: content statements"
+  },
+  {
+   "units": "u314-u315",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 title and theme"
+  },
+  {
+   "units": "u316",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 theme narrative"
+  },
+  {
+   "units": "u317-u324",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 content statements"
+  },
+  {
+   "units": "u327-u337",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5, continued: content statements"
+  },
+  {
+   "units": "u340-u341",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title and theme"
+  },
+  {
+   "units": "u342",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 theme narrative"
+  },
+  {
+   "units": "u343-u350",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 content statements"
+  },
+  {
+   "units": "u353-u363",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6, continued: content statements"
+  },
+  {
+   "units": "u366-u367",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title and theme"
+  },
+  {
+   "units": "u368",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7 theme narrative"
+  },
+  {
+   "units": "u369-u374",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 content statements"
+  },
+  {
+   "units": "u377-u389",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7, continued: content statements"
+  },
+  {
+   "units": "u392-u393",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title and theme"
+  },
+  {
+   "units": "u394",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8 theme narrative"
+  },
+  {
+   "units": "u395-u400",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 content statements"
+  },
+  {
+   "units": "u403-u420",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8, continued: content statements"
+  },
+  {
+   "units": "u423-u431",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "How to Read: High School"
+  },
+  {
+   "units": "u434-u436",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Course Themes heading and table header"
+  },
+  {
+   "units": "u437",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u438",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u439",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u440",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u441",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u442",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u443",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u444",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u445",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u446",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u447",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Course Themes table: course title"
+  },
+  {
+   "units": "u448",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Course Themes table: theme"
+  },
+  {
+   "units": "u451-u453",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u454",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u455",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u456",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u458-u459",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u460",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u463-u465",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u466",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u468-u469",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u470",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u472-u473",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u474",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u477-u478",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u479",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u480",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u481",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u483-u486",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u487",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u489",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u490",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "backup",
+   "section": "American History: backup note"
+  },
+  {
+   "units": "u493",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u494",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "examples",
+   "section": "American History: examples (theme / topic description)"
+  },
+  {
+   "units": "u496",
+   "grades": "9-12",
+   "course": "American History",
+   "cat": "standards",
+   "section": "American History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u499-u500",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u501-u502",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u504-u505",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u506",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u508-u509",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u510",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u512-u517",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u518",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u520-u521",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u522",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u523",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u525",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u526-u529",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u530",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u533",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u534",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "examples",
+   "section": "American Government: examples (theme / topic description)"
+  },
+  {
+   "units": "u536",
+   "grades": "9-12",
+   "course": "American Government",
+   "cat": "standards",
+   "section": "American Government: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u539-u540",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u541",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u542",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u543",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u544",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u546",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u547-u550",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u551",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u553-u554",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u555",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u556",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u558",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u559",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u562",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u563",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u564",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u566-u569",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u570",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: examples (theme / topic description)"
+  },
+  {
+   "units": "u572",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u575-u576",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u577",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u578",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u579",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u580",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u581",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u583-u587",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u588-u589",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u591-u597",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u598-u599",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u602-u605",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u606-u607",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u610-u612",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u613",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "examples",
+   "section": "Economics and Financial Literacy: examples (theme / topic description)"
+  },
+  {
+   "units": "u615",
+   "grades": "9-12",
+   "course": "Economics and Financial Literacy",
+   "cat": "standards",
+   "section": "Economics and Financial Literacy: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u618-u619",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u620",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u621-u622",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u623-u624",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u627-u629",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u630",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u631",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u632",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u634-u641",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u642",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u644-u645",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u646",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u648-u649",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u650",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "examples",
+   "section": "Contemporary World Issues: examples (theme / topic description)"
+  },
+  {
+   "units": "u652",
+   "grades": "9-12",
+   "course": "Contemporary World Issues",
+   "cat": "standards",
+   "section": "Contemporary World Issues: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u655-u656",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u657",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u658",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u659",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u661-u662",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u663",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u665-u669",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u670",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u672-u673",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u674",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u676-u677",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u678",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u680-u683",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  },
+  {
+   "units": "u684",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "World Geography: examples (theme / topic description)"
+  },
+  {
+   "units": "u686",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography: standards (title, topic headings, content statements)"
+  }
+ ],
+ "issues": [
+  "Whole file: this single PDF contains all of K-12; the file name '1st' does not mean grade 1 only. Grades assigned per section from headings (Kindergarten, Grade 1..8) and HS courses to 9-12 with the course name.",
+  "u191-u206, u212-u232, u238-u258, u264-u284, u290-u311, u317-u337, u343-u363, u369-u389, u395-u420: K-8 standards tables are duplicated by the extractor (a merged C2 cell contains the topic and statements text, and C3 rows repeat part of it), and some column texts are run together; all labeled standards with the section's grade.",
+  "u217, u243, u269, u298, u322, u348 etc.: Geography C2 cells merge Spatial Thinking, Places and Regions and Human Systems text in mixed column order (statements interleaved), so statements can be out of numeric order.",
+  "u396, u405: Grade 8 History strand continues on the next page (u404 'HISTORY STRAND, CONTINUED'); Civil War and Reconstruction is in u405.",
+  "u55-u74: How-to-Read page has K-8 (x=36) and HS (x=414) columns interleaved; grades assigned per unit (K-8 vs 9-12). u68, u71, u74 are examples inside the how-to-read text and kept as backup.",
+  "u77-u81 (strand definitions), u84-u157 (topic descriptions): labeled examples K-8; the tables are not grade specific, so K-8 covers all grades; individual topics (e.g. Early Civilizations, Feudalism) apply only to some grades.",
+  "u434-u448: Course Themes table is duplicated by the 'Theme:' units in each course syllabus; both labeled (table course title standards, theme examples).",
+  "u451-u680 etc.: HS pages are two-column and units are out of reading order (content statements appear before the topic they belong to, e.g. u453 statements 4-7 precede Theme u454; u465 statements 14-15 precede u466). Topic-to-statement assignment was not needed since labels are per unit with the course name.",
+  "u540, u559, u558/u562, u636/u639, u665, u656: text continues across page/column breaks (content statements or descriptions split mid-sentence); labeled by the type of the unit's text and the course on which the course syllabus page is headed.",
+  "u490: footnote '*January 2019: Content Statement 22 of American History listed under correct topic (Cold War)' labeled backup under American History; u38 is the same footnote in the TOC page.",
+  "u443: course title typo 'FINANICAL' in Course Themes table; course written as 'Economics and Financial Literacy' as in the syllabus heading u575 and TOC.",
+  "HS content statements 1-3 of a course (lower numbers) sit under skills topics (Historical Thinking and Skills, Civic Participation and Skills etc.); they are labeled standards with the course, not shared K-12 skills."
+ ]
+}

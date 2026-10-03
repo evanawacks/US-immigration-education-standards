@@ -16,3 +16,5 @@ Known structure (from the corpus survey; verify against the document):
 - Grade groupings found: [0],[1],[2],[3],[4],[5],[6],[7],[8],[9-12]
 - Topics/courses: Civics, Economics, Geography, History (World, US, DC history)
 - Notes: English version now in corpus; Spanish version, rubrics, tools and approval memo are not counted
+
+Specific hints: use only the English document ("DC Standards in English.pdf"). Grades K-5 each have a title/theme, driving concepts and numbered standards (e.g. K.1, 1.2); grades 6, 7, 8 likewise; high school courses (e.g. World History I, World History II, US History, DC History and Government, US Government ...) → course rows 9-12 unless a grade is stated. "Driving question"/"driving concept" headings → standards; narrative overviews → examples.

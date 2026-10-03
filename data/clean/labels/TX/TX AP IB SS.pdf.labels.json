@@ -1,0 +1,544 @@
+{
+ "state": "TX",
+ "file": "TX AP IB SS.pdf",
+ "structure": "Texas Administrative Code Ch. 113 Subchapter D (Other Social Studies Courses). \u00a7113.101 implementation note, then \u00a7113.102-113.126, each an AP or IB course with a title line (\u00a7number. Course (credit)), (a) General requirements (credit/graduation use) and (b) Content requirements, which only point to College Board / IB Organization publications or to a Subchapter C TEKS section. No student expectations are printed in this file. All courses are high school (no grade stated), so grades 9-12 and course = course title as written (credit parenthetical dropped).",
+ "labels": [
+  {
+   "units": "u3-u6",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Chapter 113 Subchapter D title and \u00a7113.101 implementation"
+  },
+  {
+   "units": "u9",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.102 Advanced Placement > course title"
+  },
+  {
+   "units": "u10",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.102 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u11",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.102 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u14",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.103 Advanced Placement > course title"
+  },
+  {
+   "units": "u15",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.103 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u16",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.103 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u19",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.104 Advanced Placement > course title"
+  },
+  {
+   "units": "u20",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.104 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u21",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.104 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u28",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.105 Advanced Placement > course title"
+  },
+  {
+   "units": "u29",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.105 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u30",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.105 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u33",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.106 Advanced Placement > course title"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.106 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u35",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.106 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u38",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.107 Advanced Placement > course title"
+  },
+  {
+   "units": "u39",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.107 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u40",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.107 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u43",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.108 Advanced Placement > course title"
+  },
+  {
+   "units": "u44",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.108 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u45",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.108 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u52",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.109 International Baccalaureate > course title"
+  },
+  {
+   "units": "u53",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.109 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u54",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.109 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u57",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.110 International Baccalaureate > course title"
+  },
+  {
+   "units": "u58",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.110 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u59",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.110 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u62",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.111 International Baccalaureate > course title"
+  },
+  {
+   "units": "u63",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.111 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.111 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u67",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.112 International Baccalaureate > course title"
+  },
+  {
+   "units": "u68",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.112 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u69",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.112 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u72",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.113 International Baccalaureate > course title"
+  },
+  {
+   "units": "u73",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.113 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u78",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.113 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u81",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.114 International Baccalaureate > course title"
+  },
+  {
+   "units": "u82",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.114 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u83",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.114 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u86",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.115 International Baccalaureate > course title"
+  },
+  {
+   "units": "u87",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.115 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u88",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.115 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u91",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.116 International Baccalaureate > course title"
+  },
+  {
+   "units": "u92",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.116 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u93",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.116 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u96",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.117 International Baccalaureate > course title"
+  },
+  {
+   "units": "u97",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.117 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u98",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.117 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u105",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.118 International Baccalaureate > course title"
+  },
+  {
+   "units": "u106",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.118 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u107",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.118 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u110",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.119 International Baccalaureate > course title"
+  },
+  {
+   "units": "u111",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.119 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u112",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.119 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u115",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.120 International Baccalaureate > course title"
+  },
+  {
+   "units": "u116",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.120 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u117",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.120 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u120",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.121 International Baccalaureate > course title"
+  },
+  {
+   "units": "u121",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.121 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u122",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.121 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u125",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.122 International Baccalaureate > course title"
+  },
+  {
+   "units": "u126",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.122 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u131",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.122 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u134",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.123 Advanced Placement > course title"
+  },
+  {
+   "units": "u135",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.123 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u136",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.123 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u139",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.124 Advanced Placement > course title"
+  },
+  {
+   "units": "u140",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "backup",
+   "section": "113.124 Advanced Placement > (a) General requirements (credit)"
+  },
+  {
+   "units": "u141",
+   "grades": "9-12",
+   "course": "Advanced Placement",
+   "cat": "standards",
+   "section": "113.124 Advanced Placement > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u144",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.125 International Baccalaureate > course title"
+  },
+  {
+   "units": "u145",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.125 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u146",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.125 International Baccalaureate > (b) Content requirements (by reference)"
+  },
+  {
+   "units": "u149",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.126 International Baccalaureate > course title"
+  },
+  {
+   "units": "u150",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "backup",
+   "section": "113.126 International Baccalaureate > (a) General requirements (credit)"
+  },
+  {
+   "units": "u151",
+   "grades": "9-12",
+   "course": "International Baccalaureate",
+   "cat": "standards",
+   "section": "113.126 International Baccalaureate > (b) Content requirements (by reference)"
+  }
+ ],
+ "issues": [
+  "All units: the file contains no TEKS knowledge-and-skills statements; (b) Content requirements paragraphs (which define course content by reference) are labeled standards, (a) General requirements (credit rules) backup, and \u00a7number/title lines standards (course title). Reasonable alternative: (b) as backup.",
+  "u4: Subchapter title and u3 chapter title labeled backup, grades 9-12 (document-wide header).",
+  "u91: title has stray space '( Two Credits)'; course string unaffected."
+ ]
+}

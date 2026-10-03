@@ -1,0 +1,551 @@
+{
+ "state": "HI",
+ "file": "HI HCPSIII_Sociology.pdf",
+ "structure": "Single high school course. Header gives 'Grade/Course: Sociology / ACCN: CSD2300'. Pages are series of small tables: Strand ((name not shown)) + Standard heading: 'Standard N: ...'; per benchmark a table with Topic, benchmark text and code (Benchmark / SS.SOC.n.m in separate rows), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u3-u4",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science >  "
+  },
+  {
+   "units": "u5-u7",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Origins of Sociology "
+  },
+  {
+   "units": "u8-u9",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Origins of Sociology SS.SOC.1.1"
+  },
+  {
+   "units": "u10-u11",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 1: Understand the development of sociology as a social science > Origins of Sociology SS.SOC.1.1: sample performance"
+  },
+  {
+   "units": "u12-u21",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u22",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Origins of Sociology "
+  },
+  {
+   "units": "u23-u25",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives "
+  },
+  {
+   "units": "u26-u27",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives SS.SOC.1.2"
+  },
+  {
+   "units": "u28-u29",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives SS.SOC.1.2: sample performance"
+  },
+  {
+   "units": "u30-u39",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u40-u44",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives "
+  },
+  {
+   "units": "u45-u46",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives SS.SOC.1.3"
+  },
+  {
+   "units": "u47-u48",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives SS.SOC.1.3: sample performance"
+  },
+  {
+   "units": "u49-u58",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u59",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 1: Understand the development of sociology as a social science > Current Sociological Perspectives SS.SOC.1.3"
+  },
+  {
+   "units": "u60-u61",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr >  "
+  },
+  {
+   "units": "u62-u64",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Traits of Culture "
+  },
+  {
+   "units": "u65-u66",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Traits of Culture SS.SOC.2.1"
+  },
+  {
+   "units": "u67-u68",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Traits of Culture SS.SOC.2.1: sample performance"
+  },
+  {
+   "units": "u69-u78",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u79",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Traits of Culture "
+  },
+  {
+   "units": "u80-u82",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity "
+  },
+  {
+   "units": "u83-u84",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity SS.SOC.2.2"
+  },
+  {
+   "units": "u85-u86",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity SS.SOC.2.2: sample performance"
+  },
+  {
+   "units": "u87-u96",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u97-u100",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity "
+  },
+  {
+   "units": "u101-u102",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity SS.SOC.2.3"
+  },
+  {
+   "units": "u103-u104",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity SS.SOC.2.3: sample performance"
+  },
+  {
+   "units": "u105-u114",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u115",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 2: Develop an understanding of culture as it affects individuals and gr > Cultural Identity SS.SOC.2.3"
+  },
+  {
+   "units": "u116-u118",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  >  "
+  },
+  {
+   "units": "u119-u121",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Groups "
+  },
+  {
+   "units": "u122-u123",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Groups SS.SOC.3.1"
+  },
+  {
+   "units": "u124-u125",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Groups SS.SOC.3.1: sample performance"
+  },
+  {
+   "units": "u126-u135",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u136",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Groups "
+  },
+  {
+   "units": "u137-u139",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Institutions "
+  },
+  {
+   "units": "u140-u141",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Institutions SS.SOC.3.2"
+  },
+  {
+   "units": "u142-u143",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Institutions SS.SOC.3.2: sample performance"
+  },
+  {
+   "units": "u144-u153",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u154",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Roles of Institutions "
+  },
+  {
+   "units": "u155-u157",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Impact of Groups and Institutions "
+  },
+  {
+   "units": "u158-u159",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Impact of Groups and Institutions SS.SOC.3.3"
+  },
+  {
+   "units": "u160-u161",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Impact of Groups and Institutions SS.SOC.3.3: sample performance"
+  },
+  {
+   "units": "u162-u171",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u172",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 3: Understand the types, characteristics and dynamics of social groups  > Impact of Groups and Institutions SS.SOC.3.3"
+  },
+  {
+   "units": "u173-u174",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes >  "
+  },
+  {
+   "units": "u175-u177",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems "
+  },
+  {
+   "units": "u178",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems SS.SOC.4.1"
+  },
+  {
+   "units": "u179-u180",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems SS.SOC.4.1: sample performance"
+  },
+  {
+   "units": "u181-u190",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u191-u194",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems "
+  },
+  {
+   "units": "u195-u196",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems SS.SOC.4.2"
+  },
+  {
+   "units": "u197-u198",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems SS.SOC.4.2: sample performance"
+  },
+  {
+   "units": "u199-u208",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u209",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Norms and Problems "
+  },
+  {
+   "units": "u210-u212",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Control "
+  },
+  {
+   "units": "u213-u214",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Control SS.SOC.4.3"
+  },
+  {
+   "units": "u215-u216",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 4: Recognize social problems and underlying causes > Control SS.SOC.4.3: sample performance"
+  },
+  {
+   "units": "u217-u226",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u227",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 4: Recognize social problems and underlying causes > Control SS.SOC.4.3"
+  },
+  {
+   "units": "u228-u229",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results >  "
+  },
+  {
+   "units": "u230-u232",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Demographic Change "
+  },
+  {
+   "units": "u233-u234",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Demographic Change SS.SOC.5.1"
+  },
+  {
+   "units": "u235-u236",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 5: Examine social change for causal factors and results > Demographic Change SS.SOC.5.1: sample performance"
+  },
+  {
+   "units": "u237-u246",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u247",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Demographic Change "
+  },
+  {
+   "units": "u248-u250",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change "
+  },
+  {
+   "units": "u251-u252",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change SS.SOC.5.2"
+  },
+  {
+   "units": "u253-u254",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change SS.SOC.5.2: sample performance"
+  },
+  {
+   "units": "u255-u264",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u265-u268",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change "
+  },
+  {
+   "units": "u269-u270",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "standards",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change SS.SOC.5.3"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "examples",
+   "section": "Standard 5: Examine social change for causal factors and results > Motivated Change SS.SOC.5.3: sample performance"
+  },
+  {
+   "units": "u273-u282",
+   "grades": "9-12",
+   "course": "Sociology",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "Strand cell does not show the course name; u60 'Standard 2' heading appears outside a table after the page break."
+ ]
+}

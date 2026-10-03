@@ -15,3 +15,5 @@ Known structure (from the corpus survey; verify against the document):
 - Grade groupings found: [0-2],[3-5],[6-8],[9-12]
 - Topics/courses: Inquiry practices, Behavioral Sciences, Economics, Geography, History, Political Science
 - Notes: Four grade bands. WMAS PDF is scanned (not read); the 2010 voluntary national content standards are an older document; a duplicate copy of the 2018 standards exists
+
+Specific hints: use only `2018_WI_Social_Studies_Standards_99e337.pdf`. Standards are organized by strand (Inquiry, Behavioral Sciences, Economics, Geography, History, Political Science), each with Standards, Learning Priorities and Performance Indicators by grade band K-2, 3-5, 6-8, 9-12 (table columns). Label each indicator cell with its band; standards and learning priorities that sit above the band columns apply to all bands (K-12).

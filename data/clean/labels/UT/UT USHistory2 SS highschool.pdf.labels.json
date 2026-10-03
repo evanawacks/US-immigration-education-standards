@@ -1,0 +1,216 @@
+{
+ "state": "UT",
+ "file": "UT USHistory2 SS highschool.pdf",
+ "structure": "Single high-school course file (Utah Core State Standards for Social Studies, U.S. History II, running header pp. 33-42): course title, course description paragraphs, 'Civic Preparation' and 'Foundational Skills' front matter, note on organization, then eight chronological strands ('U.S. II Strand n: TITLE'), each with a narrative, bulleted 'Possible Guiding Questions to Consider' (']' bullets) and standards 'U.S. II Standard n.m: Students will ...' (label at x~80, text at x~192). No grade stated; course treated as grades 9-12.",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Course title: United States History II"
+  },
+  {
+   "units": "u3-u5",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Course description / content overview"
+  },
+  {
+   "units": "u6-u20",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "backup",
+   "section": "Civic Preparation (pedagogical opportunities list)"
+  },
+  {
+   "units": "u21-u24",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "backup",
+   "section": "Foundational skills of the social studies disciplines (general skills narrative)"
+  },
+  {
+   "units": "u25-u27",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "backup",
+   "section": "Note on the organization of the Utah standards"
+  },
+  {
+   "units": "u28",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 1 Industrialization heading"
+  },
+  {
+   "units": "u30-u48",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 1 narrative and guiding questions (incl. immigration)"
+  },
+  {
+   "units": "u49-u56",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 1.1-1.4"
+  },
+  {
+   "units": "u57",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 2 Reform Movements heading"
+  },
+  {
+   "units": "u59-u70",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 2 narrative and guiding questions"
+  },
+  {
+   "units": "u71-u78",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 2.1-2.4"
+  },
+  {
+   "units": "u79",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 3 America on the Global Stage heading"
+  },
+  {
+   "units": "u81-u88",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 3 narrative and guiding questions"
+  },
+  {
+   "units": "u90-u98",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 3.1-3.4"
+  },
+  {
+   "units": "u99",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 4 Traditions and Social Change heading"
+  },
+  {
+   "units": "u101-u110",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 4 narrative and guiding questions"
+  },
+  {
+   "units": "u111-u120",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 4.1-4.4"
+  },
+  {
+   "units": "u121",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 5 Economic Boom, Bust, and the Role of the Government heading"
+  },
+  {
+   "units": "u123-u134",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 5 narrative and guiding questions"
+  },
+  {
+   "units": "u135-u145",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 5.1-5.4"
+  },
+  {
+   "units": "u146-u147",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 6 Another Global Conflict and the Beginnings of the Cold War heading"
+  },
+  {
+   "units": "u149-u159",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 6 narrative and guiding questions"
+  },
+  {
+   "units": "u160-u171",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 6.1-6.5"
+  },
+  {
+   "units": "u172",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 7 The Cold War Era and a Changing America heading"
+  },
+  {
+   "units": "u174-u188",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 7 narrative and guiding questions"
+  },
+  {
+   "units": "u189-u202",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 7.1-7.6"
+  },
+  {
+   "units": "u203-u204",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Strand 8 The 21st Century United States (Ca. 2000-Present) heading"
+  },
+  {
+   "units": "u205-u222",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "examples",
+   "section": "Strand 8 narrative and guiding questions"
+  },
+  {
+   "units": "u223-u228",
+   "grades": "9-12",
+   "course": "United States History II",
+   "cat": "standards",
+   "section": "Standards 8.1-8.3"
+  }
+ ],
+ "issues": [
+  "Course not tied to a grade in the document; labeled 9-12 per state guide.",
+  "Running-header period ranges (e.g. '(Ca. 1880-1920)' on the page with Strand 1) are inconsistent with strand titles and were not used for grading.",
+  "Standards 4.3, 5.4, 7.3 are split across page breaks (u116/u118, u143/u145, u194/u196); labeled together with their neighbors.",
+  "Bullet questions split across units; labeled together."
+ ]
+}

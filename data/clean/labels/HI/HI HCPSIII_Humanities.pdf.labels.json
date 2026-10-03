@@ -1,0 +1,453 @@
+{
+ "state": "HI",
+ "file": "HI HCPSIII_Humanities.pdf",
+ "structure": "Single high school course. Header gives 'Grade/Course: Humanities / ACCN: CPG2100'. Pages are series of small tables: Strand (Humanities) + Standard heading: 'Standard N: ...'; per benchmark a table with Topic, benchmark text and code (Benchmark / SS.HUM.n.m in separate rows), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u5",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature >  "
+  },
+  {
+   "units": "u6-u9",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas "
+  },
+  {
+   "units": "u10-u12",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas SS.HUM.1.1"
+  },
+  {
+   "units": "u13-u14",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas SS.HUM.1.1: sample performance"
+  },
+  {
+   "units": "u15-u24",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u25-u29",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas "
+  },
+  {
+   "units": "u30-u31",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas SS.HUM.1.2"
+  },
+  {
+   "units": "u32-u33",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas SS.HUM.1.2: sample performance"
+  },
+  {
+   "units": "u34-u43",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u44",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > History of Ideas "
+  },
+  {
+   "units": "u45-u47",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > Role of Religion "
+  },
+  {
+   "units": "u48-u49",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > Role of Religion SS.HUM.1.3"
+  },
+  {
+   "units": "u50-u51",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > Role of Religion SS.HUM.1.3: sample performance"
+  },
+  {
+   "units": "u52-u61",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u62-u63",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 1: Understand how cultures have expressed views on human nature > Role of Religion SS.HUM.1.3"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  >  "
+  },
+  {
+   "units": "u67-u70",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Performing Arts "
+  },
+  {
+   "units": "u71-u73",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Performing Arts SS.HUM.2.1"
+  },
+  {
+   "units": "u74-u75",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Performing Arts SS.HUM.2.1: sample performance"
+  },
+  {
+   "units": "u76-u85",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u86",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Performing Arts "
+  },
+  {
+   "units": "u87-u90",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts "
+  },
+  {
+   "units": "u91-u93",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts SS.HUM.2.2"
+  },
+  {
+   "units": "u94-u95",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts SS.HUM.2.2: sample performance"
+  },
+  {
+   "units": "u96-u105",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u106-u110",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts "
+  },
+  {
+   "units": "u111-u113",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts SS.HUM.2.3"
+  },
+  {
+   "units": "u114-u115",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts SS.HUM.2.3: sample performance"
+  },
+  {
+   "units": "u116-u125",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u126-u127",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 2: Understand how cultures have expressed views on the characteristics  > Visual Arts SS.HUM.2.3"
+  },
+  {
+   "units": "u128-u129",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society >  "
+  },
+  {
+   "units": "u130-u133",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > History of Ideas "
+  },
+  {
+   "units": "u134-u136",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > History of Ideas SS.HUM.3.1"
+  },
+  {
+   "units": "u137-u138",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > History of Ideas SS.HUM.3.1: sample performance"
+  },
+  {
+   "units": "u139-u148",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u149",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > History of Ideas "
+  },
+  {
+   "units": "u150-u153",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Individual and Society "
+  },
+  {
+   "units": "u154-u156",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Individual and Society SS.HUM.3.2"
+  },
+  {
+   "units": "u157-u158",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Individual and Society SS.HUM.3.2: sample performance"
+  },
+  {
+   "units": "u159-u168",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u169",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Individual and Society "
+  },
+  {
+   "units": "u170-u173",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Literature "
+  },
+  {
+   "units": "u174-u175",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Literature SS.HUM.3.3"
+  },
+  {
+   "units": "u176-u177",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Literature SS.HUM.3.3: sample performance"
+  },
+  {
+   "units": "u178-u187",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u188",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Literature "
+  },
+  {
+   "units": "u189-u192",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Role of Law "
+  },
+  {
+   "units": "u193-u195",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Role of Law SS.HUM.3.4"
+  },
+  {
+   "units": "u196-u197",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Role of Law SS.HUM.3.4: sample performance"
+  },
+  {
+   "units": "u198-u207",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u208-u209",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 3: Understand how cultures have expressed views on human society > Role of Law SS.HUM.3.4"
+  },
+  {
+   "units": "u210-u212",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit >  "
+  },
+  {
+   "units": "u213-u215",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Mythology "
+  },
+  {
+   "units": "u216",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Mythology SS.HUM.4.1"
+  },
+  {
+   "units": "u217-u218",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Mythology SS.HUM.4.1: sample performance"
+  },
+  {
+   "units": "u219-u228",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u229",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Mythology "
+  },
+  {
+   "units": "u230-u232",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Visual Arts "
+  },
+  {
+   "units": "u233-u237",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "standards",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Visual Arts SS.HUM.4.2"
+  },
+  {
+   "units": "u238-u239",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "examples",
+   "section": "Standard 4: Understand how cultures have expressed views on the place of humanit > Visual Arts SS.HUM.4.2: sample performance"
+  },
+  {
+   "units": "u240-u249",
+   "grades": "9-12",
+   "course": "Humanities",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "Benchmark text and code are interleaved across rows (e.g. u7-u12); kept together as standards."
+ ]
+}

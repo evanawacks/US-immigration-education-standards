@@ -1,0 +1,167 @@
+{
+ "state": "UT",
+ "file": "UT UtahStudies SS highschool.pdf",
+ "structure": "Single high-school course file (Utah Core State Standards for Social Studies, Utah Studies, running header pp. 1-8): course title, course description, discussion of thematic vs. chronological organization with a list of five historical periods, inquiry skills narrative, 'Civic Preparation', note on organization, then five strands ('UT Strand n: TITLE' with period), each with a narrative, bulleted 'Possible Guiding Questions to Consider' (']' bullets) and standards 'UT Standard n.m: Students will ... (discipline)' (label at x~81, text at x~180). No grade is stated; course treated as grades 9-12.",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Course title: Utah Studies"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Course description / content overview (incl. learning about own families and cultures)"
+  },
+  {
+   "units": "u5-u11",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "backup",
+   "section": "Course organization: thematic vs chronological, disciplines"
+  },
+  {
+   "units": "u12-u22",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Five historical periods and their content summaries"
+  },
+  {
+   "units": "u24-u26",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "backup",
+   "section": "Inquiry/historical thinking skills narrative and expectations"
+  },
+  {
+   "units": "u27-u37",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "backup",
+   "section": "Civic Preparation"
+  },
+  {
+   "units": "u38-u42",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "backup",
+   "section": "Note on the organization of the Utah standards"
+  },
+  {
+   "units": "u43-u44",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Strand 1 Native Innovations and Adaptations (Prehistory-Ca. 1847) heading"
+  },
+  {
+   "units": "u45-u62",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Strand 1 narrative and guiding questions"
+  },
+  {
+   "units": "u63-u75",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Standards 1.1-1.5"
+  },
+  {
+   "units": "u76",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Strand 2 Utah's Diverse Peoples heading"
+  },
+  {
+   "units": "u78-u94",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Strand 2 narrative and guiding questions (incl. 'How is your family part of the Utah story?')"
+  },
+  {
+   "units": "u95-u110",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Standards 2.1-2.8 (2.2 non-Mormon migrations; 2.8 own connection to Utah)"
+  },
+  {
+   "units": "u111",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Strand 3 Utah in the Union heading"
+  },
+  {
+   "units": "u113-u128",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Strand 3 narrative and guiding questions"
+  },
+  {
+   "units": "u129-u136",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Standards 3.1-3.4"
+  },
+  {
+   "units": "u137",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Strand 4 Utah in the World heading"
+  },
+  {
+   "units": "u139-u150",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Strand 4 narrative and guiding questions"
+  },
+  {
+   "units": "u151-u162",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Standards 4.1-4.6 (4.4 cultural, ethnic, religious groups)"
+  },
+  {
+   "units": "u163-u164",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Strand 5 Looking Towards Utah's Future (Ca. 2003-Present) heading"
+  },
+  {
+   "units": "u165-u175",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "examples",
+   "section": "Strand 5 narrative and guiding questions"
+  },
+  {
+   "units": "u176-u185",
+   "grades": "9-12",
+   "course": "Utah Studies",
+   "cat": "standards",
+   "section": "Standards 5.1-5.5"
+  }
+ ],
+ "issues": [
+  "Course not tied to a grade in the document (no grade 7 etc. stated); labeled 9-12 per state guide.",
+  "Running-header period ranges do not align with the strand on the page; not used.",
+  "Standards 1.2 (u65/u67/u69) is split across a page break; labeled together.",
+  "Course is Utah Studies (UT Strand/Standard codes); standards end with a parenthetical discipline tag that is part of the standard text."
+ ]
+}

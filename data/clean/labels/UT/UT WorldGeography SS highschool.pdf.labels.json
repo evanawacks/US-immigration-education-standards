@@ -1,0 +1,152 @@
+{
+ "state": "UT",
+ "file": "UT WorldGeography SS highschool.pdf",
+ "structure": "Single high-school course file (Utah Core State Standards for Social Studies, World Geography, running header pp. 17-22): course title and description, 'Civic Preparation', 'Foundational Geographic Skills' (introductory paragraph plus a bulleted list of skills students practice throughout the course), note on organization, then five strands ('WG Strand n: TITLE'), each with a narrative, bulleted 'Possible Guiding Questions to Consider' (']' bullets) and standards 'WG Standard n.m: Students will ...' (label at x~81, text at x~180). No grade stated; course treated as grades 9-12.",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Course title: World Geography"
+  },
+  {
+   "units": "u3",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Course description / content overview"
+  },
+  {
+   "units": "u4-u12",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Civic Preparation"
+  },
+  {
+   "units": "u13-u30",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Foundational Geographic Skills (course-wide geographic inquiry/skills practices)"
+  },
+  {
+   "units": "u31-u33",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "Note on the organization of the Utah standards"
+  },
+  {
+   "units": "u34",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Strand 1 Humans and Their Physical Environment heading"
+  },
+  {
+   "units": "u35-u48",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Strand 1 narrative and guiding questions"
+  },
+  {
+   "units": "u49-u56",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Standards 1.1-1.4"
+  },
+  {
+   "units": "u57",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Strand 2 Population Distribution and Migration heading"
+  },
+  {
+   "units": "u58-u68",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Strand 2 narrative and guiding questions (migration, push/pull)"
+  },
+  {
+   "units": "u70-u76",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Standards 2.1-2.3 (2.3 includes immigration and refugees)"
+  },
+  {
+   "units": "u77",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Strand 3 Culture heading"
+  },
+  {
+   "units": "u78-u86",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Strand 3 narrative and guiding questions"
+  },
+  {
+   "units": "u87-u101",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Standards 3.1-3.7 (3.7 own culture's connection to geography)"
+  },
+  {
+   "units": "u103",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Strand 4 Political Systems heading"
+  },
+  {
+   "units": "u104-u111",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Strand 4 narrative and guiding questions"
+  },
+  {
+   "units": "u112-u117",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Standards 4.1-4.3"
+  },
+  {
+   "units": "u118",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Strand 5 Economic Development heading"
+  },
+  {
+   "units": "u119-u131",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "examples",
+   "section": "Strand 5 narrative and guiding questions"
+  },
+  {
+   "units": "u132-u141",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "Standards 5.1-5.5"
+  }
+ ],
+ "issues": [
+  "Course not tied to a grade in the document; labeled 9-12 per state guide.",
+  "u13-u30 'Foundational Geographic Skills' (intro paragraph u14/u17 split across a page break plus skill bullets) treated as standards/skills practices applying to the whole course; could arguably be backup.",
+  "Bullet questions and skill bullets are split across units; labeled together."
+ ]
+}

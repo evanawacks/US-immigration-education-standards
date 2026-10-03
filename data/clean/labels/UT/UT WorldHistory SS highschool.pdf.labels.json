@@ -1,0 +1,188 @@
+{
+ "state": "UT",
+ "file": "UT WorldHistory SS highschool.pdf",
+ "structure": "Single high-school course file (Utah Core State Standards for Social Studies, World History, running header pp. 23-31): course title and description paragraphs, 'Civic Preparation', 'Foundational Skills of the Social Studies Disciplines', note on organization, then seven chronological strands ('WH Strand n: TITLE' with period in parentheses), each with a narrative, bulleted 'Possible Guiding Questions to Consider' (']' bullets) and standards 'WH Standard n.m: Students will ...' (label at x~81, text at x~180). No grade stated; course treated as grades 9-12.",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Course title: World History"
+  },
+  {
+   "units": "u3-u5",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Course description / content overview"
+  },
+  {
+   "units": "u6-u15",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "Civic Preparation"
+  },
+  {
+   "units": "u17-u23",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "backup",
+   "section": "Foundational skills of the social studies disciplines; note on organization of the Utah standards"
+  },
+  {
+   "units": "u24-u25",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 1 Prehistory to the Neolithic Revolution heading"
+  },
+  {
+   "units": "u26-u41",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 1 narrative and guiding questions"
+  },
+  {
+   "units": "u42-u49",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 1.1-1.4"
+  },
+  {
+   "units": "u50-u51",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 2 The Rise of Classical Societies heading"
+  },
+  {
+   "units": "u52-u74",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 2 narrative and guiding questions"
+  },
+  {
+   "units": "u75-u84",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 2.1-2.5"
+  },
+  {
+   "units": "u85",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 3 An Age of Expanding Connections heading"
+  },
+  {
+   "units": "u87-u102",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 3 narrative and guiding questions"
+  },
+  {
+   "units": "u103-u112",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 3.1-3.5"
+  },
+  {
+   "units": "u113",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 4 Global Interactions heading"
+  },
+  {
+   "units": "u115-u127",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 4 narrative and guiding questions"
+  },
+  {
+   "units": "u128-u136",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 4.1-4.5"
+  },
+  {
+   "units": "u137",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 5 Revolutions, Industrialization, and Empires heading"
+  },
+  {
+   "units": "u139-u155",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 5 narrative and guiding questions (incl. emigration/immigration push-pull)"
+  },
+  {
+   "units": "u156-u167",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 5.1-5.6 (5.3 migration)"
+  },
+  {
+   "units": "u168",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 6 Global Conflicts heading"
+  },
+  {
+   "units": "u170-u182",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 6 narrative and guiding questions"
+  },
+  {
+   "units": "u183-u194",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 6.1-6.6 (6.6 includes human migration)"
+  },
+  {
+   "units": "u197-u198",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Strand 7 The Contemporary World (Ca. 1990-Present) heading"
+  },
+  {
+   "units": "u199-u212",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "examples",
+   "section": "Strand 7 narrative and guiding questions (incl. refugees)"
+  },
+  {
+   "units": "u213-u220",
+   "grades": "9-12",
+   "course": "World History",
+   "cat": "standards",
+   "section": "Standards 7.1-7.4 (7.2 migration)"
+  }
+ ],
+ "issues": [
+  "Course not tied to a grade in the document; labeled 9-12 per state guide.",
+  "Running-header period ranges (e.g. '(Ca. 500 C.E.-1450 C.E.)' on page 4) do not align with the strands on those pages; not used for grading.",
+  "Strand 3 narrative is split across a page break (u87 / u90); Strand 6 narrative split (u170 / u173); labeled together.",
+  "Bullet questions split across units; labeled together."
+ ]
+}

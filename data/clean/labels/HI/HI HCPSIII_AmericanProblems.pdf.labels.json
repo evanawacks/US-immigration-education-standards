@@ -1,0 +1,622 @@
+{
+ "state": "HI",
+ "file": "HI HCPSIII_AmericanProblems.pdf",
+ "structure": "Single high school course. Header gives 'Grade/Course: American Problems / ACCN: CGU2200'. Pages are series of small tables: Strand (American Problems) + Standard heading: 'Standard N: ...'; per benchmark a table with Topic, benchmark text and code (Benchmark SS.AP.n.m), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u5",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues >  "
+  },
+  {
+   "units": "u6",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Socioeconomic Class "
+  },
+  {
+   "units": "u7-u8",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Socioeconomic Class SS.AP.1.1"
+  },
+  {
+   "units": "u9-u10",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 1: Understand socioeconomic issues > Socioeconomic Class SS.AP.1.1: sample performance"
+  },
+  {
+   "units": "u11-u20",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u21",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Socioeconomic Class "
+  },
+  {
+   "units": "u22-u23",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Corporations and Communities "
+  },
+  {
+   "units": "u24-u25",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Corporations and Communities SS.AP.1.2"
+  },
+  {
+   "units": "u26-u27",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 1: Understand socioeconomic issues > Corporations and Communities SS.AP.1.2: sample performance"
+  },
+  {
+   "units": "u28-u37",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u38",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Corporations and Communities "
+  },
+  {
+   "units": "u39-u40",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Medical Economics "
+  },
+  {
+   "units": "u41-u43",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Medical Economics SS.AP.1.3"
+  },
+  {
+   "units": "u44-u45",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 1: Understand socioeconomic issues > Medical Economics SS.AP.1.3: sample performance"
+  },
+  {
+   "units": "u46-u55",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u56",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > Medical Economics "
+  },
+  {
+   "units": "u57-u58",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > America and the Global Economy "
+  },
+  {
+   "units": "u59-u60",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > America and the Global Economy SS.AP.1.4"
+  },
+  {
+   "units": "u61-u62",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 1: Understand socioeconomic issues > America and the Global Economy SS.AP.1.4: sample performance"
+  },
+  {
+   "units": "u63-u72",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u73-u74",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 1: Understand socioeconomic issues > America and the Global Economy SS.AP.1.4"
+  },
+  {
+   "units": "u75-u76",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security >  "
+  },
+  {
+   "units": "u77-u78",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Democracy and Terrorism "
+  },
+  {
+   "units": "u79-u80",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Democracy and Terrorism SS.AP.2.1"
+  },
+  {
+   "units": "u81-u82",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Democracy and Terrorism SS.AP.2.1: sample performance"
+  },
+  {
+   "units": "u83-u92",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u93",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Democracy and Terrorism "
+  },
+  {
+   "units": "u94-u95",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Military Policy and Society "
+  },
+  {
+   "units": "u96-u97",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Military Policy and Society SS.AP.2.2"
+  },
+  {
+   "units": "u98-u99",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Military Policy and Society SS.AP.2.2: sample performance"
+  },
+  {
+   "units": "u100-u109",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u110-u111",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 2: Understand problems of terrorism, war, and security > Military Policy and Society SS.AP.2.2"
+  },
+  {
+   "units": "u112-u113",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars >  "
+  },
+  {
+   "units": "u114-u115",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Medicine and Science "
+  },
+  {
+   "units": "u116-u117",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Medicine and Science SS.AP.3.1"
+  },
+  {
+   "units": "u118-u119",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Medicine and Science SS.AP.3.1: sample performance"
+  },
+  {
+   "units": "u120-u129",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u130",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Medicine and Science "
+  },
+  {
+   "units": "u131-u132",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Public Education "
+  },
+  {
+   "units": "u133-u134",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Public Education SS.AP.3.2"
+  },
+  {
+   "units": "u135-u136",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Public Education SS.AP.3.2: sample performance"
+  },
+  {
+   "units": "u137-u146",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u147",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Public Education "
+  },
+  {
+   "units": "u148-u149",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Legal Controversies "
+  },
+  {
+   "units": "u150-u151",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Legal Controversies SS.AP.3.3"
+  },
+  {
+   "units": "u152-u153",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Legal Controversies SS.AP.3.3: sample performance"
+  },
+  {
+   "units": "u154-u163",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u164-u165",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 3: Understand issues and politics of the \u0000culture wars > Legal Controversies SS.AP.3.3"
+  },
+  {
+   "units": "u166-u167",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues >  "
+  },
+  {
+   "units": "u168",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Social Differences "
+  },
+  {
+   "units": "u169-u170",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Social Differences SS.AP.4.1"
+  },
+  {
+   "units": "u171-u172",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 4: Understand minority and diversity issues > Social Differences SS.AP.4.1: sample performance"
+  },
+  {
+   "units": "u173-u186",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u187",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Social Differences "
+  },
+  {
+   "units": "u188-u189",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Indigenous Peoples "
+  },
+  {
+   "units": "u190-u191",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Indigenous Peoples SS.AP.4.2"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 4: Understand minority and diversity issues > Indigenous Peoples SS.AP.4.2: sample performance"
+  },
+  {
+   "units": "u194-u203",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u204",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Indigenous Peoples "
+  },
+  {
+   "units": "u205",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Illegal Immigration "
+  },
+  {
+   "units": "u206-u207",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Illegal Immigration SS.AP.4.3"
+  },
+  {
+   "units": "u208-u209",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 4: Understand minority and diversity issues > Illegal Immigration SS.AP.4.3: sample performance"
+  },
+  {
+   "units": "u210-u219",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u220-u221",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 4: Understand minority and diversity issues > Illegal Immigration SS.AP.4.3"
+  },
+  {
+   "units": "u222-u224",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic >  "
+  },
+  {
+   "units": "u225-u226",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Science, Politics, and the Environment "
+  },
+  {
+   "units": "u227-u229",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Science, Politics, and the Environment SS.AP.5.1"
+  },
+  {
+   "units": "u230-u231",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Science, Politics, and the Environment SS.AP.5.1: sample performance"
+  },
+  {
+   "units": "u232-u242",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u243",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Science, Politics, and the Environment "
+  },
+  {
+   "units": "u244-u245",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Population Problems "
+  },
+  {
+   "units": "u246-u247",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Population Problems SS.AP.5.2"
+  },
+  {
+   "units": "u248-u249",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Population Problems SS.AP.5.2: sample performance"
+  },
+  {
+   "units": "u250-u259",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u260-u261",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 5: Understand concerns over environmental degradation and economic > Population Problems SS.AP.5.2"
+  },
+  {
+   "units": "u262-u264",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a >  "
+  },
+  {
+   "units": "u265-u266",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > Impact of IT "
+  },
+  {
+   "units": "u267-u268",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > Impact of IT SS.AP.6.1"
+  },
+  {
+   "units": "u269-u270",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > Impact of IT SS.AP.6.1: sample performance"
+  },
+  {
+   "units": "u271-u280",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u281",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > Impact of IT "
+  },
+  {
+   "units": "u282",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > IT and Ethics "
+  },
+  {
+   "units": "u283-u284",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "standards",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > IT and Ethics SS.AP.6.2"
+  },
+  {
+   "units": "u285-u286",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "examples",
+   "section": "Standard 6: Understand the impact of advanced information technology on public a > IT and Ethics SS.AP.6.2: sample performance"
+  },
+  {
+   "units": "u287-u296",
+   "grades": "9-12",
+   "course": "American Problems",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "u179-u186: rubric row split across page break (backup).",
+  "u56-u58: benchmark text SS.AP.1.4 starts on page 2 after the Topic cell on page 1 (standards)."
+ ]
+}

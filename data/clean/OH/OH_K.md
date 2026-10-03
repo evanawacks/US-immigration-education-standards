@@ -1,0 +1,131 @@
+# OH_K
+
+- State: OH
+- Grade: [0]
+- Course: (none)
+- Source files: Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf
+
+## Standards
+
+Social Studies Standards: K-8
+Kindergarten
+THEME: A CHILD’S PLACE IN TIME AND SPACE
+HISTORY STRAND
+HISTORICAL THINKING AND SKILLS Content Statements: 1. Time can be measured. 2. Personal history can be shared through stories and pictures.
+HERITAGE
+Content Statements: 3. Heritage is reflected through diverse cultures and is shown through the arts, customs, traditions, family celebrations and language. 4. Symbols and practices of the United States include the flag, Pledge of Allegiance and the National Anthem. Other nations are represented by symbols and practices too.
+GEOGRAPHY STRAND
+SPATIAL THINKING AND SKILLS Content Statements: 5. Terms related to direction and distance, as well as symbols and landmarks, can be used to talk about the relative location of familiar places. 6. Models and maps represent real places.
+HUMAN SYSTEMS
+Content Statements: 7. Humans depend on and impact the physical environment in order to supply food, clothing and shelter. 8. Individuals are unique but share common characteristics of multiple groups.
+GOVERNMENT STRAND
+CIVIC PARTICIPATION AND SKILLS Content Statement: 9. Individuals share responsibilities and take action toward the achievement of common goals in homes, schools and communities.
+RULES AND LAWS
+Content Statement: 10. The purpose of rules and authority figures is to provide order, security and safety in the home, school and community.
+ECONOMICS STRAND
+SCARCITY Content Statement: 11. Individuals have many wants and make decisions to satisfy those wants. These decisions impact others.
+PRODUCTION AND CONSUMPTION
+Content Statement: 12. Goods are objects that can satisfy an individual’s wants. Services are actions that can satisfy individual’s wants.
+
+## Examples / clarifications
+
+STRAND DEFINITIONS FOR OHIO’S LEARNING STANDARDS FOR SOCIAL STUDIES STANDARDS, K-8
+HISTORY Students use materials drawn from the diversity of human experience to analyze and interpret significant events, patterns and themes in the history of Ohio, the United States and the world.
+GEOGRAPHY Students use knowledge of geographic locations, patterns and processes to show the interrelationship between the physical environment and human activity and to explain the interactions that occur in an increasingly interdependent world. Students use knowledge of perspectives, practices and products of cultural, ethnic and social groups to analyze the impact of their commonality and diversity within local, national, regional and global settings.
+GOVERNMENT Students use knowledge of the purposes, structures and processes of political systems at the local, state, national and international levels to understand that people create systems of government as structures of power and authority to provide order, maintain stability and promote the general welfare. They use knowledge of the rights and responsibilities of citizenship to examine and evaluate civic ideals and to participate in community life and the American democratic system.
+ECONOMICS Students use economic reasoning skills and knowledge of major economic concepts, issues and systems in order to make informed choices as producers, consumers, savers, investors, workers and citizens in an interdependent world.
+SKILLS TOPIC DESCRIPTIONS: K–8
+Topics within Ohio’s Learning Standards for Social Studies include civic literacy, financial and economic literacy and global awareness. Skills such as problem-solving, communication, media literacy and leadership are further developed within the model curriculum.
+STRAND
+TOPIC
+TOPIC DESCRIPTION
+HISTORY
+Historical Thinking and Skills
+Historical thinking begins with a clear sense of time – past, present and future – and becomes more precise as students progress. Historical thinking includes skills such as locating, researching, analyzing and interpreting primary and secondary sources so that students can begin to understand the relationships among events and draw conclusions.
+GEOGRAPHY
+Spatial Thinking and Skills
+Spatial thinking examines the relationships among people, places and environments by mapping and graphing geographic data. Geographic data are compiled, organized, stored and made visible using traditional and geospatial technologies. Students need to be able to access, read, interpret and create maps and other geographic representations as tools of analysis.
+GOVERNMENT
+Civic Participation and Skills
+Civic participation embraces the ideal that an individual actively engages in his or her community, state or nation for the common good. Students need to practice effective communication skills including negotiation, compromise and collaboration. Skills in accessing and analyzing information are essential for citizens in a democracy.
+ECONOMICS
+Economic Decision Making and Skills
+Effective economic decision making requires students to be able to reason logically about key economic issues that affect their lives as consumers, producers, savers, investors and citizens. Economic decision making and skills engage students in the practice of analyzing costs and benefits, collecting and organizing economic evidence and proposing alternatives to economic problems.
+Financial Literacy
+Financial literacy is the ability of individuals to use knowledge and skills to manage limited financial resources effectively for lifetime financial security.
+TOPIC DESCRIPTIONS: K-8
+STRAND
+TOPIC
+TOPIC DESCRIPTION
+HISTORY
+Historical thinking begins with a clear sense of time, past, present and future, and becomes more precise as students progress. Historical thinking includes skills such as locating, researching, analyzing and interpreting primary and secondary sources so that students can begin to understand the relationships among events and draw conclusions.
+Heritage
+Ideas and events from the past have shaped the world as it is today. The actions of individuals and groups have made a difference in the lives of others.
+Early Civilizations
+The eight features of civilizations include cities, well-organized central governments, complex religions, job specialization, social classes, arts and architecture, public works and writing. Early peoples developed unique civilizations. Several civilizations established empires with legacies influencing later peoples.
+Feudalism and Transitions
+Feudalism developed as a political system based on small local units controlled by lords bound by an oath of loyalty to a monarch. The decline of feudalism in Europe resulted from interactions between the Muslim world and European states. These interactions influenced the rise of new ideas and institutions.
+First Global Age
+The transoceanic linking of all the major regions of the world led to economic, political, cultural and religious transformations.
+Colonization to Independence
+European countries established colonies in North America as a means of increasing wealth and power. As the English colonies developed their own governments and economies, they resisted domination by the monarchy, rebelled and fought for independence.
+A New Nation
+The United States shifted in governing philosophy from a loosely organized system characterized by strong state powers to a federal system.
+Expansion
+The addition of new territories and economic and industrial development contributed to the growth of sectionalism in the United States.
+Civil War and Reconstruction
+Sectional differences divided the North and South prior to the American Civil War. Both the American Civil War and resulting period of Reconstruction had significant consequences for the nation.
+STRAND
+TOPIC
+TOPIC DESCRIPTION
+GEOGRAPHY
+Places and Regions
+A place is a location having distinctive characteristics, which give it meaning and character and distinguish it from other locations. A region is an area with one or more common characteristics, which give it a measure of homogeneity and make it different from surrounding areas. Regions and places are human constructs.
+Human Systems
+Human systems represent the settlement and structures created by people on Earth’s surface. The growth, distribution and movements of people are driving forces behind human and physical events. Geographers study patterns in cultures and the changes that result from human processes, migrations and the diffusion of new cultural traits.
+GOVERNMENT
+Rules and Laws
+Rules play an important role in guiding behavior and establishing order in families, classrooms and organizations. Laws are enacted by governments to perform similar functions.
+Roles and Systems of Government
+The purpose of government in the United States is to establish order, protect the rights of individuals and promote the common good. Governments may be organized in different ways and have limited or unlimited powers.
+ECONOMICS
+Effective economic decision making requires students to be able to reason logically about key economic issues that affect their lives as consumers, producers, savers, investors and citizens. Economic decision-making and skills engage students in the practice of analyzing costs and benefits, collecting and organizing economic evidence and proposing alternatives to economic problems.
+Scarcity
+There are not enough resources to produce all the goods and services that people desire.
+Production and Consumption
+Production is the act of combining natural resources, human resources, capital goods and entrepreneurship to make goods and services. Consumption is the use of goods and services.
+Markets
+Markets exist when buyers and sellers interact. This interaction determines market prices and thereby allocates scarce resources, goods and services.
+Financial Literacy
+GRADE THEME DESCRIPTIONS: K-8
+GRADE
+THEME
+K
+A Child’s Place in Time and Space The kindergarten year is the time for children to begin to form concepts about the world beyond their own classroom and communities. Culture, heritage and democratic principles are explored, building upon the foundation of the classroom experience. Children deepen their learning about themselves and begin to form an understanding of roles, responsibility for actions and decision-making in the context of the group setting.
+GRADE
+THEME
+The kindergarten year is the time for children to begin to form concepts about the world beyond their own classroom and communities. Culture, heritage and democratic principles are explored, building upon the foundation of the classroom experience. Children deepen their learning about themselves and begin to form an understanding of roles, responsibility for actions and decision making in the context of the group setting.
+
+## Backup (non-standards text)
+
+KINDERGARTEN – GRADE 8
+The standards for Ohio’s Learning Standards for Social Studies for grades K-8 are organized by Strands, Themes, Topics and Content Statements.
+STRANDS
+The four disciplines within the social studies: History, Geography, Government and Economics.
+THEMES
+A theme is the focus for a particular grade level or the descriptive narrative of a high school course syllabus.
+Example from Grade 2: People Working Together
+TOPICS
+The different aspects of content within a strand.
+Geography example: Human Systems
+CONTENT STATEMENTS
+The essential knowledge students should learn at each grade level or within each course.
+Example from Grade 8: 20. The U.S. Constitution established a federal republic, providing a framework for a national government with elected representatives, separation of powers, and checks and balances.
+
+## Issues
+
+Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf: Whole file: this single PDF contains all of K-12; the file name '1st' does not mean grade 1 only. Grades assigned per section from headings (Kindergarten, Grade 1..8) and HS courses to 9-12 with the course name.
+Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf: u191-u206, u212-u232, u238-u258, u264-u284, u290-u311, u317-u337, u343-u363, u369-u389, u395-u420: K-8 standards tables are duplicated by the extractor (a merged C2 cell contains the topic and statements text, and C3 rows repeat part of it), and some column texts are run together; all labeled standards with the section's grade.
+Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf: u55-u74: How-to-Read page has K-8 (x=36) and HS (x=414) columns interleaved; grades assigned per unit (K-8 vs 9-12). u68, u71, u74 are examples inside the how-to-read text and kept as backup.
+Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf: u77-u81 (strand definitions), u84-u157 (topic descriptions): labeled examples K-8; the tables are not grade specific, so K-8 covers all grades; individual topics (e.g. Early Civilizations, Feudalism) apply only to some grades.
+Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf: HS content statements 1-3 of a course (lower numbers) sit under skills topics (Historical Thinking and Skills, Civic Participation and Skills etc.); they are labeled standards with the course, not shared K-12 skills.

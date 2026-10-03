@@ -1,0 +1,86 @@
+# NC_09-12_FoundingPrinciplesOfTheUnitedStatesOfAme
+
+- State: NC
+- Grade: [9,10,11,12]
+- Course: Founding Principles of the United States of America and North Carolina: Civic Literacy (Founding Principles of the United States of America and North Carolina: Civic Literacy)
+- Source files: NC Founding Principles SS Standards - A.pdf
+
+## Standards
+
+North Carolina Content Standards Founding Principles of the United
+States and North Carolina: Civic Literacy Social Studies
+Inquiry 9-12
+Category
+Indicator
+Compelling Questions
+●​ Identify issues and problems in social studies. ●​ Formulate questions based upon disciplinary concepts.
+Supporting Questions
+●​ Identify related issues and problems related to the compelling question. ●​ Formulate supporting questions.
+Gathering and Evaluating Sources
+●​Locate credible primary and secondary sources. ●​Identify a variety of primary and secondary sources in support of compelling and supporting questions. ●​Summarize the central ideas and meaning of primary and secondary sources through the use of literacy strategies. ●​Determine the origin, context, and bias of primary and secondary sources. ●​Differentiate between facts and interpretation of sources. ●​Evaluate competing historical narratives and debates among historians.
+Developing Claims and Using Evidence
+●​ Analyze data from charts, graphs, timelines, and maps. ●​ Analyze visual, literary, and musical sources.
+●​ Examine change and continuity over time. ●​ Analyze causes, effects, and correlations. ●​ Determine the relevance of a source in relation to the compelling and supporting questions.
+Communicating Ideas
+●​Construct written, oral, and multimedia arguments. ●​Support arguments with evidence and reasoning while considering counterclaims. ●​Use proper formatting in citing sources for arguments. ●​Develop new understandings of complex historical and current issues through rigorous academic discussions. ●​Participate in rigorous academic discussions emphasizing multiple viewpoints in which claims and evidence are acknowledged, critiqued, and built upon in order to create new understandings of complex historical or current issues.
+Taking Informed Action
+●​Generate ideas through which the inquiry facilitates change. ●​Devise a plan to enact change based on the results of the inquiry. ●​Organize and take individual or collaborative action in order to effect change and inform others.
+Standards
+Objectives
+CL.B.1 Understand how values, beliefs, and norms influence the American system of government.
+●​ CL.B.1.1 Explain how values and beliefs influence the creation and implementation of public policy and laws. ●​ CL.B.1.2 Explain how legislation, policy, and judicial rulings reflect changing norms and values in the United States. ●​ CL.B.1.3 Explain how the values and beliefs regarding freedom, equality, and justice have helped transform the American system of government. ●​ CL.B.1.4 Explain how individual values and societal norms contribute to institutional discrimination and the marginalization of minority groups living under the American system of government.
+CL.C&G.1 Understand the impact of the founding principles of the United States on federal and state government.
+●​ CL.C&G.1.1 Explain the influence of the founding principles on state and federal decisions using primary and secondary source documents. ●​ CL.C&G.1.2 Critique the consistency with which federal policies, state policies, and Supreme Court decisions have upheld the founding principles.
+CL.C&G.2 Analyze the roles of the branches of government at the federal, state, and local levels.
+●​ CL.C&G.2.1 Compare how national, state, and local governments maintain order, security, and protect individual rights. ●​ CL.C&G.2.2 Explain how the principle of federalism impacts the actions of state and local government. ●​ CL.C&G.2.3 Differentiate between the types of local governments in order to understand the role, powers, and functions each plays within an intergovernmental system. ●​ CL.C&G.2.4 Compare the federal government of the United States to various types of governments around the world in terms of balancing
+state and local government.
+●​
+Standards
+Objectives
+security and the protection of rights.
+CL.C&G.3 Analyze the various responsibilities of individuals living in the United States in terms of citizenship, civic participation, and the political process.
+●​ CL.C&G.3.1 Differentiate citizenship and civic participation in terms of responsibilities, duties, and privileges of citizens. ●​ CL.C&G.3.2 Compare strategies used by individuals to address discrimination, segregation, disenfranchisement, reconcentration, and other discriminatory practices that have existed in the United States. ●​ CL.C&G.3.3 Summarize the changes in process, perception, and the interpretation of United States citizenship and naturalization. ●​ CL.C&G.3.4 Compare citizenship in the American constitutional democracy to membership in other types of governments. ●​ CL.C&G.3.5 Explain how the two-party system has shaped the political landscape of the United States. ●​ CL.C&G.3.6 Distinguish the relationship between the media and government in terms of the responsibility to inform the American public. ●​ CL.C&G.3.7 Assess the effectiveness of the election process at the national, state, and local levels.
+CL.C&G.4 Analyze how the judicial, legal, and political systems of the United States and North Carolina embody the founding principles of government.
+●​ CL.C&G.4.1 Differentiate the judicial systems of the United States and North Carolina in terms of structure, jurisdiction, and how each provides for equal protection. ●​ CL.C&G.4.2 Differentiate the structure and function of state and federal courts in order to understand the adversarial nature of each. ●​ CL.C&G.4.3 Exemplify how the constitutions of the United States and North Carolina have been interpreted and applied since ratification.
+discrimination, segregation, disenfranchisement, reconcentration, and other
+discriminatory practices that have existed in the United States.
+●​
+Standards
+Objectives
+●​ CL.C&G.4.4 Assess how effective the American system of government has been in ensuring freedom, equality, and justice for all. ●​ CL.C&G.4.5 Summarize the importance of both the right to due process of law and the individual rights established in the Bill of Rights in the American legal system. ●​ CL.C&G.4.6 Critique the extent to which women, indigenous, religious, racial, ability, and identity groups have had access to justice as established in the founding principles of government.
+CL.E.1 Understand the role of government in both federal and state economies.
+●​ CL.E.1.1 Explain how the role federal and state governments play in economic decision-making impacts economic mobility, status, and quality of life of individuals living in America. ●​ CL.E.1.2 Summarize the role of the United States and North Carolina in the world economy.
+CL.G.1 Understand the role geography plays in civic participation, legislation, and public policy.
+●​ CL.G.1.1 Explain how views on freedom and equality influence legislation and public policy on issues of immigration, migration, and the environment. ●​ CL.G.1.2 Explain geopolitical and environmental factors which affect civic participation and voting in various regions of the United States. ●​ CL.G.1.3 Exemplify how the United States interacts with international governments to navigate global environmental issues.
+Summarize the importance of both the right to due process of
+law and the individual rights established in the Bill of Rights in the American
+legal system.
+●​
+Standards
+Objectives
+CL.H.1 Understand how individual rights and the American system of government have evolved over time.
+●​ CL.H.1.1 Explain how the tensions over power and authority led the founding fathers to develop a democratic republic. ●​ CL.H.1.2 Compare competing narratives of the historical development of the United States and North Carolina in terms of how each depicts race, women, tribes, identity, ability, and religious groups. ●​ CL.H.1.3 Interpret historical and current perspectives on the evolution of individual rights in America over time, including women, tribal, racial, religious, identity, and ability. ●​ CL.H.1.4 Explain the impact of social movements and reform efforts on governmental change, both current and in the past. ●​ CL.H.1.5 Explain how the experiences and achievements of minorities and marginalized peoples have contributed to the protection of individual rights and “equality and justice for all” over time. ●​ CL.H.1.6 Exemplify ways individuals have demonstrated resistance and resilience to inequities, injustice, and discrimination within the American system of government over time.
+
+## Examples / clarifications
+
+The standards and objectives in the Founding Principles of the United States of America and North Carolina: Civic Literacy course will provide students the opportunity to engage in intensive application of the skills, concepts, processes, and knowledge gained in previous social studies courses and prepare them to be college, career, and civic ready. Despite there being a different overall focus for each subsequent course, students will explore the content through the following lenses: inquiry; behavioral sciences; civics and government; economics; geography; and history. As students develop cognitively, these lenses become more focused based on the grade-level content and disciplinary thinking skills.
+This course has been legislated by N.C. Session Law 2019-82, House Bill 924. Because the civics and government strand is an integral part of the vertical learning progression of each course, kindergarten through high school, students are expected to enter this course with a fundamental knowledge and understanding of the structure and function of government and civic responsibility. This course provides students the opportunity for a deeper study of the governmental and political systems of the N.C. and the U.S. and will build upon the application of the Founding Principles as identified by N.C. Session Law 2019-82, House Bill 924. This course will allow students to examine the ways in which power and responsibility are both shared and limited by the U.S. Constitution and how the judicial, legal, and political systems of North Carolina and the United States embody the founding principles of government. Students in this course will analyze and evaluate the extent to which the American system of government guarantees, protects, and upholds the rights of citizens. Through the integration of inquiry-based learning, students will also investigate how the American system of government has evolved over time while learning how to analyze topics, issues, and claims in order to communicate ideas and take action to effect change and
+inform others. When opportunities can be provided, this course can be augmented by related learning experiences, both in and out of school, that enable students to apply their knowledge and understanding of how to participate in their own community and governance. Mastery of the standards and objectives of this course will inform and nurture responsible, participatory citizens who are competent and committed to the core values and founding principles of American democracy and the United States Constitution.
+
+## Backup (non-standards text)
+
+These standards and objectives are not intended to be the curriculum, nor do they indicate the whole of a curriculum which will be written by a local public-school unit (LEA) or school. The standards for this course have been developed to serve as the framework which will guide each LEA in the development of the curriculum for their standard and honors level courses for Founding Principles of the United States of America and North Carolina: Civic Literacy. The standards of this course are conceptual in nature and have been organized around five disciplinary strands and a skill
+Every student following the North Carolina Standard Course of
+Study for Social Studies will engage in rigorous academic courses inclusive of multiple ideas,
+viewpoints, and perspectives that prepare them with the knowledge, understanding, and skills
+needed to productively live and engage in a multicultural and globally competitive society.
+Note: The Inquiry Strand is a content-neutral strand that focuses on the skills necessary for students to improve their critical thinking. The Inquiry Strand comes first in the standards document because the skills outlined can and should be applied within all content in the course. The content strands are arranged alphabetically and each represents a different social studies lens through which students should access the content.
+I-Inquiry, B - Behavioral Sciences, C&G - Civics and Government, E - Economics, G - Geography, H - History​
+The Inquiry Indicators are meant to be used in concert with the content standards in any strand for each grade in the 9-12 grade band. Teachers should be encouraged to use these indicators in every grade level. ​ Because there is no set number of indicators that should be used in any grade level, the intent is that by the end of all high school courses students will have been exposed to the skills essential to developing critical thinking in social studies. For this to occur, students must be exposed to inquiry indicators in each grade.
+
+## Issues
+
+NC Founding Principles SS Standards - A.pdf: u9-u12: disclaimer sentence is split into a bogus 4-row table by the extractor; labeled backup.
+NC Founding Principles SS Standards - A.pdf: u46-u47, u52, u57-u59, u69-u72: stray page-break table fragment (bullet/sentence tail of a standard on the previous/next page), labeled with the standard's grade.
+NC Founding Principles SS Standards - A.pdf: Title wording differs: heading says 'Founding Principles of the United States and North Carolina: Civic Literacy', body says '... of the United States of America and North Carolina: Civic Literacy'; body wording used as course.
+NC Founding Principles SS Standards - A.pdf: u31: continuation row of Developing Claims indicators (empty category cell).

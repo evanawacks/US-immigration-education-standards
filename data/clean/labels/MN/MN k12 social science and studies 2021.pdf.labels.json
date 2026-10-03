@@ -1,0 +1,149 @@
+{
+ "state": "MN",
+ "file": "MN k12 social science and studies 2021.pdf",
+ "structure": "Minnesota 2021 K-12 social studies standards. Front matter (intro, organization, how to read), anchor standards by strand (5 strands: 1 Citizenship and Government, 2 Economics, 3 Geography, 4 History, 5 Ethnic Studies; 25 numbered standards), and the HS era lists. Then one table per grade (K, 1-8) and per HS strand (grades 9-12 band, written as grade '9' in code), with columns Grade | Strand | Standard | Code | Benchmark. Codes are grade.strand.standard-number.benchmark (e.g. 3.1.4.1; HS 9.4.18.1 where History benchmarks begin with 'World History Era n' or 'U.S. History Era n'). Each table row repeats grade/strand/standard text, so every table cell is a standard; grade headings precede each grade's tables. No course-based content: HS is one band by strand, tables continue across pages with repeated header rows. No examples or teacher notes.",
+ "labels": [
+  {
+   "units": "u1-u46",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Title, contents, introduction, organization of the standards"
+  },
+  {
+   "units": "u47-u53",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "How to read the standards and benchmarks (code explanation)"
+  },
+  {
+   "units": "u55-u66",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Anchor standards by strand (Citizenship and Government, Economics, Geography, History, Ethnic Studies)"
+  },
+  {
+   "units": "u68-u72",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "History eras for grades 9-12 (U.S. History Eras 1-9; World History Eras 1-6)"
+  },
+  {
+   "units": "u74",
+   "grades": "all",
+   "course": null,
+   "cat": "standards",
+   "section": "Heading: Standards and benchmarks by grade level"
+  },
+  {
+   "units": "u75-u199",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten: Foundations of Social Studies - Family and Community: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u201-u330",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "First Grade: Communities and Culture: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u332-u467",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Second Grade: People and the Environment: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u469-u598",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Third Grade: Ancient World: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u600-u745",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Fourth Grade: Contemporary World: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u747-u918",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fifth Grade: Early American Studies: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u920-u1137",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Sixth Grade: Minnesota Studies: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u1139-u1367",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Seventh Grade: United States Studies: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u1369-u1601",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Eighth Grade: Global Studies: grade/strand/standard/code/benchmark table"
+  },
+  {
+   "units": "u1603-u1798",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 Citizenship and Government benchmarks (9.1.x.x)"
+  },
+  {
+   "units": "u1800-u2004",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 Economics benchmarks (9.2.x.x)"
+  },
+  {
+   "units": "u2006-u2141",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 Geography benchmarks (9.3.x.x)"
+  },
+  {
+   "units": "u2143-u2630",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 History benchmarks (9.4.x.x) with World/U.S. History era prefixes"
+  },
+  {
+   "units": "u2632-u2721",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Grades 9-12 Ethnic Studies benchmarks (9.5.x.x)"
+  }
+ ],
+ "issues": [
+  "K and grades 7-12 tables extracted with wide column indices (C1,C4,C7,C10,C13) while grades 1-6 use C1-C5; same five columns (Grade, Strand, Standard, Code, Benchmark) in every table.",
+  "u1392, u1395-u1400: standard 4 text for 8.1.4.1 split across rows R5-R11 of the table (extraction); all grade 8.",
+  "u1502, u1505-u1508; u2091, u2094-u2097; u2100, u2103-u2106; u2109, u2112-u2115: 'Human-Environment Interaction' standard text split across several rows (8.3.16.1, 9.3.16.1-9.3.16.3).",
+  "u2574-u2594: 9.4.22.8 row garbled on page 104 (grade '9' duplicated at u2574-u2575, code duplicated at u2579-u2580, standard text and benchmark interleaved across rows); all grade 9-12 content, benchmark text reads u2581, u2583, u2585, u2587, u2589, u2590-u2594 in order.",
+  "Hyphenation artifacts such as 'non- dominant' inside standard text are in source extraction.",
+  "High school 'grade 9' in codes denotes the whole 9-12 band per u49; labeled 9-12, course null. HS history era names (u68-u72) labeled standards 9-12 since they organize benchmarks.",
+  "u74 heading and u1-u46 front matter use 'all'. The guide row cluster list matches (K,1-8,9-12)."
+ ]
+}

@@ -909,15 +909,10 @@
  },
  "WA": {
   "clusters": [
-   "K",
-   "1",
-   "2",
-   "3",
-   "4",
-   "5",
+   "K-2",
+   "3-5",
    "6-8",
-   "9-10",
-   "11-12"
+   "9-12"
   ],
   "files": {
    "OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx": "use",
@@ -939,7 +934,9 @@
    "ss-standards-2019_grades-k-5_history_01902e.pdf": "skip: same standards as master PDF in other formats/subsets",
    "ss-standards-2019_grades-k-5_ss-skills_05c669.pdf": "skip: same standards as master PDF in other formats/subsets"
   },
-  "issues": []
+  "issues": [
+   "WA's standards (both the PDF and the Word master) put several grades' standards in one table cell (K-2, 3-5, 6-8, 9-10 + 11-12); cells cannot be split without retyping text, so rows are bands. Single-grade cross-reference lines land in their band row."
+  ]
  },
  "WV": {
   "clusters": [

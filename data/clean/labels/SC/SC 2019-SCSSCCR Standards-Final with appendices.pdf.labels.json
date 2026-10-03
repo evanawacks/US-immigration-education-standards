@@ -1,0 +1,2648 @@
+{
+ "state": "SC",
+ "file": "SC 2019-SCSSCCR Standards-Final with appendices.pdf",
+ "structure": "Single PDF: South Carolina Social Studies College- and Career-Ready Standards (2019). Front matter (cover, contents, overview, legislative requirements) u1-u154. Then one section per grade/course in order: K The Community Around Us, 1 Life in South Carolina, 2 Life in the United States, 3 World Geography, 4 US & SC Studies Part I, 5 US & SC Studies Part II, 6 World Civilizations, 7 Geography of World Regions, 8 South Carolina and the United States, then high-school courses Human Geography, Modern World History, United States History and the Constitution, United States Government, Economics and Personal Finance, and the Old Testament Era / New Testament Era electives. Each grade/course section = a narrative overview paragraph (with themes; labeled examples), grades 3-12 a 'Deconstructed Skills' table (Indicator | Expression; disciplinary skills, labeled standards), and a 'Standards' table (Key Concept | Standards, or Continent | Standards in grade 7). In the Standards table the first column cell is the strand/key concept (e.g. History, Geography, Economics, Civics & Government in K-2; thematic names in 3-12); the second column holds 'Standard N: ...', an 'Enduring Understanding: ...' unit (labeled examples), 'The student will:' and indicators. Indicator codes: K-2 K.H.1, 1.G.2, 2.CG.3 (grade.strand.number; H history, G geography, E economics, CG civics & government); grade 3 3.1.1.AG (grade.standard.indicator.theme); grades 4-6 and 8 4.1.CO (grade.standard.skill: CO comparison, CE causation, P periodization, CX context, CC continuities/change, E evidence); grade 7 7.1.1.PR (grade.standard.indicator.theme); HS HG.1.1.HS, MWH.1.CO, USHC.1.CO, USG.1.ER, EPF.1.ER, OT.1.1, NT.1.1. Each indicator unit includes its trailing 'This indicator was developed to encourage inquiry...' elaboration (not split, labeled standards). Table cells that break across pages continue in the next page's table (with repeated 'Key Concept/Standards' header cells, labeled standards). Back matter: References, Appendix A Primary (K-2) Skills Progression (columns Kindergarten/Grade 1/Grade 2), Appendix B Historical Thinking Skills (description table, then a grade/course progression table spread over two pages with columns Grade 4, 5, 6, 8, Modern World History, US History & the Constitution), Appendix C Geography Skills Progression (columns Grade 3, Grade 7, Human Geography), Appendix D Glossary, Appendix E Acknowledgements.",
+ "labels": [
+  {
+   "units": "u1-u154",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: cover, contents, overview, glossary/indicator/theme explanation, legislative requirements"
+  },
+  {
+   "units": "u157",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u159-u163",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u164",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K: Enduring Understanding"
+  },
+  {
+   "units": "u165-u170",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u171",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K: Enduring Understanding"
+  },
+  {
+   "units": "u172-u180",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u181",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K: Enduring Understanding"
+  },
+  {
+   "units": "u182-u192",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u193",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "K: Enduring Understanding"
+  },
+  {
+   "units": "u194-u198",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "K: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u200",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u202-u206",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u207",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Enduring Understanding"
+  },
+  {
+   "units": "u208-u213",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u214",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Enduring Understanding"
+  },
+  {
+   "units": "u216-u224",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u225",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Enduring Understanding"
+  },
+  {
+   "units": "u226-u236",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u237",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 1: Enduring Understanding"
+  },
+  {
+   "units": "u238-u245",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 1: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u247",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u249-u253",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u254",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Enduring Understanding"
+  },
+  {
+   "units": "u255-u264",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u265",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Enduring Understanding"
+  },
+  {
+   "units": "u266-u271",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u272",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Enduring Understanding"
+  },
+  {
+   "units": "u273-u283",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u284",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 2: Enduring Understanding"
+  },
+  {
+   "units": "u285-u293",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 2: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u295-u315",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u317-u331",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Deconstructed Skills table"
+  },
+  {
+   "units": "u333-u338",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u339",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Enduring Understanding"
+  },
+  {
+   "units": "u340-u345",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u346",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Enduring Understanding"
+  },
+  {
+   "units": "u347-u356",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u357",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Enduring Understanding"
+  },
+  {
+   "units": "u358-u367",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u368",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Enduring Understanding"
+  },
+  {
+   "units": "u369-u378",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u379",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 3: Enduring Understanding"
+  },
+  {
+   "units": "u380-u384",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 3: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u386-u388",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u390-u409",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Deconstructed Skills table"
+  },
+  {
+   "units": "u411-u415",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u416",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Enduring Understanding"
+  },
+  {
+   "units": "u417-u429",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u430",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Enduring Understanding"
+  },
+  {
+   "units": "u431-u443",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u444",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Enduring Understanding"
+  },
+  {
+   "units": "u445-u457",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u458",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Enduring Understanding"
+  },
+  {
+   "units": "u459-u471",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u472",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 4: Enduring Understanding"
+  },
+  {
+   "units": "u473-u483",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 4: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u485-u493",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u495-u514",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Deconstructed Skills table"
+  },
+  {
+   "units": "u516-u520",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u521",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Enduring Understanding"
+  },
+  {
+   "units": "u522-u534",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u535",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Enduring Understanding"
+  },
+  {
+   "units": "u536-u548",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u549",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Enduring Understanding"
+  },
+  {
+   "units": "u550-u564",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u565",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Enduring Understanding"
+  },
+  {
+   "units": "u566-u578",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u579",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5: Enduring Understanding"
+  },
+  {
+   "units": "u580-u590",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u592-u594",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u596-u614",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Deconstructed Skills table"
+  },
+  {
+   "units": "u616-u620",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u621",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Enduring Understanding"
+  },
+  {
+   "units": "u622-u634",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u635",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Enduring Understanding"
+  },
+  {
+   "units": "u636-u648",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u649",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Enduring Understanding"
+  },
+  {
+   "units": "u650-u668",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u669",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Enduring Understanding"
+  },
+  {
+   "units": "u670-u682",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u683",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6: Enduring Understanding"
+  },
+  {
+   "units": "u684-u694",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u696-u715",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u717-u735",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Deconstructed Skills table"
+  },
+  {
+   "units": "u737-u741",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u742",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u743-u755",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u756",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u757-u769",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u770",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u771-u787",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u788",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u789-u801",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u802",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u803-u815",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u816",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 7: Enduring Understanding"
+  },
+  {
+   "units": "u818-u830",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u832-u834",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u836-u855",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Deconstructed Skills table"
+  },
+  {
+   "units": "u857-u861",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u862",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Enduring Understanding"
+  },
+  {
+   "units": "u863-u875",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u876",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Enduring Understanding"
+  },
+  {
+   "units": "u877-u889",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u890",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Enduring Understanding"
+  },
+  {
+   "units": "u891-u903",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u904",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Enduring Understanding"
+  },
+  {
+   "units": "u906-u920",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u921",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 8: Enduring Understanding"
+  },
+  {
+   "units": "u922-u932",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u934-u962",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u964-u983",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Deconstructed Skills table"
+  },
+  {
+   "units": "u985-u989",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u990",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: Enduring Understanding"
+  },
+  {
+   "units": "u991-u1003",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1004",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: Enduring Understanding"
+  },
+  {
+   "units": "u1005-u1020",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1021",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: Enduring Understanding"
+  },
+  {
+   "units": "u1022-u1033",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1034",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: Enduring Understanding"
+  },
+  {
+   "units": "u1035-u1047",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1048",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Human Geography: Enduring Understanding"
+  },
+  {
+   "units": "u1049-u1062",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "standards",
+   "section": "Human Geography: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1064-u1066",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u1068-u1087",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Deconstructed Skills table"
+  },
+  {
+   "units": "u1089-u1093",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1094",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: Enduring Understanding"
+  },
+  {
+   "units": "u1095-u1107",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1108",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: Enduring Understanding"
+  },
+  {
+   "units": "u1109-u1121",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1122",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: Enduring Understanding"
+  },
+  {
+   "units": "u1123-u1135",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1136",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: Enduring Understanding"
+  },
+  {
+   "units": "u1137-u1152",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1153",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Modern World History: Enduring Understanding"
+  },
+  {
+   "units": "u1154-u1163",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "standards",
+   "section": "Modern World History: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1165-u1167",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u1169-u1187",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Deconstructed Skills table"
+  },
+  {
+   "units": "u1189-u1193",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1194",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: Enduring Understanding"
+  },
+  {
+   "units": "u1195-u1207",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1208",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: Enduring Understanding"
+  },
+  {
+   "units": "u1209-u1225",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1226",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: Enduring Understanding"
+  },
+  {
+   "units": "u1227-u1239",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1240",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: Enduring Understanding"
+  },
+  {
+   "units": "u1241-u1257",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1258",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "US History and the Constitution: Enduring Understanding"
+  },
+  {
+   "units": "u1259-u1269",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "standards",
+   "section": "US History and the Constitution: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1271-u1273",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "US Government: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u1275-u1290",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Deconstructed Skills table"
+  },
+  {
+   "units": "u1292-u1296",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1297",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "US Government: Enduring Understanding"
+  },
+  {
+   "units": "u1298-u1308",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1309",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "US Government: Enduring Understanding"
+  },
+  {
+   "units": "u1310-u1320",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1321",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "US Government: Enduring Understanding"
+  },
+  {
+   "units": "u1322-u1337",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1338",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "examples",
+   "section": "US Government: Enduring Understanding"
+  },
+  {
+   "units": "u1339-u1346",
+   "grades": "9-12",
+   "course": "United States Government",
+   "cat": "standards",
+   "section": "US Government: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1348-u1354",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Economics and Personal Finance: grade/course overview narrative and themes"
+  },
+  {
+   "units": "u1356-u1371",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Deconstructed Skills table"
+  },
+  {
+   "units": "u1373-u1377",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1378",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Economics and Personal Finance: Enduring Understanding"
+  },
+  {
+   "units": "u1379-u1388",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1389",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Economics and Personal Finance: Enduring Understanding"
+  },
+  {
+   "units": "u1390-u1399",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1400",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Economics and Personal Finance: Enduring Understanding"
+  },
+  {
+   "units": "u1401-u1411",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1412",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "examples",
+   "section": "Economics and Personal Finance: Enduring Understanding"
+  },
+  {
+   "units": "u1413-u1420",
+   "grades": "9-12",
+   "course": "Economics and Personal Finance",
+   "cat": "standards",
+   "section": "Economics and Personal Finance: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1422-u1424",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Legislation on Old/New Testament elective courses"
+  },
+  {
+   "units": "u1426-u1431",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "standards",
+   "section": "Old Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1432",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "examples",
+   "section": "Old Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1433-u1439",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "standards",
+   "section": "Old Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1440",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "examples",
+   "section": "Old Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1441-u1453",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "standards",
+   "section": "Old Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1454",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "examples",
+   "section": "Old Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1455-u1459",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the Old Testament Era",
+   "cat": "standards",
+   "section": "Old Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1461-u1466",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "standards",
+   "section": "New Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1467",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "examples",
+   "section": "New Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1468-u1475",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "standards",
+   "section": "New Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1476",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "examples",
+   "section": "New Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1477-u1488",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "standards",
+   "section": "New Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1489",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "examples",
+   "section": "New Testament Era: Enduring Understanding"
+  },
+  {
+   "units": "u1490-u1494",
+   "grades": "9-12",
+   "course": "Teaching the History and Literature of the New Testament Era",
+   "cat": "standards",
+   "section": "New Testament Era: Standards table (strand, standard, indicators)"
+  },
+  {
+   "units": "u1496-u1564",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "References"
+  },
+  {
+   "units": "u1566-u1567",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1568",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1569",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1570",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1571",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1572",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1573",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1574",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1575",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1576",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1577",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1578",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1579",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1580",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1581",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1582-u1583",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1584",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1585",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1586",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1587-u1589",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1590",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1591",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1592",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1593",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1594",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1595",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1596",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1597",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1598",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1599",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1600-u1601",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1602",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1603",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1604",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1605-u1608",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1609",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1610",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1611",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1612",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1613",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1614",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1615",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1616",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1617",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1618",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1619",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1620",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1621",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1622",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1623-u1624",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1625",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1626",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1627",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1628-u1630",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1631",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1632",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1633",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1634",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1635",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1636",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1637-u1638",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1639",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1640",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1641",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1642",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1643",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1644",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1645",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1646-u1647",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1648",
+   "grades": "K",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1649",
+   "grades": "1",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1650",
+   "grades": "2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1651-u1652",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix A Primary (K-2) Skills Progression"
+  },
+  {
+   "units": "u1654-u1669",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills: skill descriptions"
+  },
+  {
+   "units": "u1671",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1672",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1673",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1674",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1675",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1676",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1677",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1678",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1679",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1680",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1681",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1682",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1683",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1684",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1685",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1686",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1687",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1688",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1689",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1690",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1691",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1692",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1693",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1694",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1695",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1696",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1697",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1698",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1699",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1700",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1701",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1702",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1703",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1704",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1705",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1706",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1707",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1708",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1709",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1710",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1712",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1713",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1714",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1715",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1716",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1717",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1718",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1719",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1720",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1721",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1722",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1723",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1724",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1725",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1726",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1727",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1728",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1729",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1730",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1731",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1732",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1733",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1734",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1735",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1736",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1737",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1738-u1739",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1740",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1741",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1742",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1743",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1744",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1745",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1746",
+   "grades": "4-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1747",
+   "grades": "4",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1748",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1749",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1750",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1751",
+   "grades": "9-12",
+   "course": "Modern World History",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1752",
+   "grades": "9-12",
+   "course": "United States History and the Constitution",
+   "cat": "examples",
+   "section": "Appendix B Historical Thinking Skills progression by grade/course"
+  },
+  {
+   "units": "u1754",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1755",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1756",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1757",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1758",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1759",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1760",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1761",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1762",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1763",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1764",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1765",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1766",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1767",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1768",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1769-u1770",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1771",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1772",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1773",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1774-u1776",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1777",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1778",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1779",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1780-u1782",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1783",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1784",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1785",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1786",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1787",
+   "grades": "3",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1788",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1789",
+   "grades": "9-12",
+   "course": "Human Geography",
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1790-u1791",
+   "grades": "3,7,9-12",
+   "course": null,
+   "cat": "examples",
+   "section": "Appendix C Geography Skills Progression"
+  },
+  {
+   "units": "u1793-u2185",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Appendix D Glossary; Appendix E Acknowledgements"
+  }
+ ],
+ "issues": [
+  "Guide/document disagreement (minor): the document ties high-school courses to specific grades (Human Geography grade 9, Modern World History grade 10, US History and the Constitution grade 11, US Government grade 12; Economics and Personal Finance and Testament electives untied). Per the SC state guide row clusters, all HS course content is labeled grades 9-12 with the course title in 'course'.",
+  "u157, u200, u247, u295-u315, u386-u388, u485-u493, u592-u594, u696-u715, u832-u834, u934-u962 etc.: grade/course overview narratives are labeled examples (they contain the grade title, themes and a description of what students study; units not split).",
+  "u296-u315, u697-u713, u935-u962: overview theme text is extracted as a garbled table (fragments such as 'G'/'eographic', 'Skills used' split across cells); content order is preserved but fragments are tiny and mixed with narrative; all labeled examples.",
+  "u485-u491: Grade 5 overview paragraph is split around a stray table; labeled examples as a whole.",
+  "u708: Grade 7 overview text is out of order relative to u697-u707 (extraction places the continuation after the table fragments); labeled examples.",
+  "Enduring Understanding units are labeled examples (conceptual support, not the indicator); Standard N statements, 'The student will:' and indicators are labeled standards. 'Deconstructed Skills' tables (grades 3-12) are labeled standards for their grade/course as they define the disciplinary skills students are to demonstrate.",
+  "Repeated 'Key Concept(s)/Standards/Indicator/Expression/Continent' header cells at the top of each continuation page (e.g. u175-u176, u188-u189, u216-u217) are labeled standards with the grade/course of the table they belong to.",
+  "u660-u662, u666: Grade 6 indicator 6.3.E is split across cells/pages (C2/C3 columns shifted); assigned to grade 6 standards. u725-u733, u1325-u1329 (USG.3.IN continuation split into table T2): extraction glitch, labeled standards.",
+  "u1238: strand heading extracted as 'Modernism and Intervention ism'; u1182/u1081 etc. cells split across pages; no content lost.",
+  "u1279-u1284, u1360-u1365: USG and EPF 'Establish Relationships' skill expression is split line-by-line across rows R2-R7 in column C3; labeled standards.",
+  "u1426-u1427, u1461-u1462: Old/New Testament course titles and 'Standards' appear as x-positioned text blocks, labeled standards with the respective course. u1422-u1424 (legislation permitting the elective courses) labeled backup grades 9-12 with no course because it covers both courses.",
+  "Appendix A (u1566-u1652): skills progression tables restate K-2 indicators without codes; labeled examples with grade from the column header (C2=K, C3=1, C4=2); row-label cells (Comparison, Causation, etc., column C1) labeled K-2. Appendix B (u1654-u1752): skill description table labeled examples K-12; the progression table is split across pages 151-152 with columns Grade 4, 5, 6, 8, Modern World History, US History & the Constitution mapped by table column (page 151: C4-C9; page 152: C7-C12); row labels (Comparison, Causation, Periodization, Context, Continuities and Changes, Evidence; u1690, u1697, u1704, u1731, u1738-u1739, u1746) labeled 4-12. Appendix C (u1754-u1791): Grade 3 column=C2, Grade 7=C3, Human Geography=C4 (9-12); row labels labeled '3,7,9-12'.",
+  "Appendix D Glossary (u1793-u2168) and Appendix E acknowledgements (u2170-u2185) labeled backup; glossary table columns are shifted/garbled (terms and definitions in varying C columns) but order is preserved.",
+  "Page 7 and page 10 (running header only, no units) and unit gaps (e.g., u11, u13-u14) are furniture/blank pages handled automatically."
+ ]
+}

@@ -1,0 +1,513 @@
+{
+ "state": "HI",
+ "file": "HI HCPSIII_PoliticalScience_Government.pdf",
+ "structure": "Single high school course. Header gives 'Grade/Course: Political Science/ Government / ACCN: No ACCN'. Pages are series of small tables: Strand ((name not shown)) + Standard heading: 'Standard N: ...'; per benchmark a table with Topic, benchmark text and code (Benchmark / SS.PSG.n.m in separate rows), Sample Performance (example task), 'Assessment (SPA)' and a 4-level Rubric (Advanced/Proficient/Partially Proficient/Novice in C1-C4). Rubric sentences sometimes split across page breaks.",
+ "labels": [
+  {
+   "units": "u1-u2",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Document header"
+  },
+  {
+   "units": "u3",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": " >  "
+  },
+  {
+   "units": "u4-u6",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem >  "
+  },
+  {
+   "units": "u7-u10",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions "
+  },
+  {
+   "units": "u11-u12",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions SS.PSG.1.1"
+  },
+  {
+   "units": "u13-u14",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions SS.PSG.1.1: sample performance"
+  },
+  {
+   "units": "u15-u24",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u25-u29",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions "
+  },
+  {
+   "units": "u30-u31",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions SS.PSG.1.2"
+  },
+  {
+   "units": "u32-u33",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions SS.PSG.1.2: sample performance"
+  },
+  {
+   "units": "u34-u43",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u44",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Institutions "
+  },
+  {
+   "units": "u45-u48",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Documents "
+  },
+  {
+   "units": "u49-u51",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Documents SS.PSG.1.3"
+  },
+  {
+   "units": "u52-u53",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Documents SS.PSG.1.3: sample performance"
+  },
+  {
+   "units": "u54-u67",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u68",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Political Documents "
+  },
+  {
+   "units": "u69-u72",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Values and Principles of Democracy "
+  },
+  {
+   "units": "u73-u75",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Values and Principles of Democracy SS.PSG.1.4"
+  },
+  {
+   "units": "u76-u77",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Values and Principles of Democracy SS.PSG.1.4: sample performance"
+  },
+  {
+   "units": "u78-u87",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u88",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 1: Understand how the concepts of governance, power, authority, and dem > Values and Principles of Democracy SS.PSG.1.4"
+  },
+  {
+   "units": "u89-u90",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat >  "
+  },
+  {
+   "units": "u91-u94",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy "
+  },
+  {
+   "units": "u95-u96",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy SS.PSG.2.1"
+  },
+  {
+   "units": "u97-u98",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy SS.PSG.2.1: sample performance"
+  },
+  {
+   "units": "u99-u108",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u109-u113",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy "
+  },
+  {
+   "units": "u114-u115",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy SS.PSG.2.2"
+  },
+  {
+   "units": "u116-u117",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy SS.PSG.2.2: sample performance"
+  },
+  {
+   "units": "u118-u127",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u128",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy "
+  },
+  {
+   "units": "u129-u131",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > International Organizations "
+  },
+  {
+   "units": "u132-u133",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > International Organizations SS.PSG.2.4"
+  },
+  {
+   "units": "u134-u135",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 2: Understand the role of United States policies in international relat > International Organizations SS.PSG.2.4: sample performance"
+  },
+  {
+   "units": "u136-u145",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u146",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > International Organizations "
+  },
+  {
+   "units": "u147-u149",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Political Institutions "
+  },
+  {
+   "units": "u150-u151",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Political Institutions SS.PSG.2.5"
+  },
+  {
+   "units": "u152-u153",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Political Institutions SS.PSG.2.5: sample performance"
+  },
+  {
+   "units": "u154-u163",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u164",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Political Institutions SS.PSG.2.5"
+  },
+  {
+   "units": "u165-u167",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res >  "
+  },
+  {
+   "units": "u168-u171",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship "
+  },
+  {
+   "units": "u172-u173",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship SS.PSG.3.1"
+  },
+  {
+   "units": "u174-u175",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship SS.PSG.3.1: sample performance"
+  },
+  {
+   "units": "u176-u185",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u186-u189",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship "
+  },
+  {
+   "units": "u190-u191",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship SS.PSG.3.2"
+  },
+  {
+   "units": "u192-u193",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship SS.PSG.3.2: sample performance"
+  },
+  {
+   "units": "u194-u203",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u204",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Citizenship SS.PSG.3.2"
+  },
+  {
+   "units": "u205-u206",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat >  "
+  },
+  {
+   "units": "u207-u211",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy "
+  },
+  {
+   "units": "u212-u213",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy : sample performance"
+  },
+  {
+   "units": "u214-u227",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u228",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 2: Understand the role of United States policies in international relat > Foreign Policy "
+  },
+  {
+   "units": "u229-u231",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res >  "
+  },
+  {
+   "units": "u232-u234",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process "
+  },
+  {
+   "units": "u235-u236",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process SS.PSG.3.3"
+  },
+  {
+   "units": "u237-u238",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process SS.PSG.3.3: sample performance"
+  },
+  {
+   "units": "u239-u248",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u249-u252",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process "
+  },
+  {
+   "units": "u253-u254",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process SS.PSG.3.4"
+  },
+  {
+   "units": "u255-u256",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process SS.PSG.3.4: sample performance"
+  },
+  {
+   "units": "u257-u266",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  },
+  {
+   "units": "u267",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Election Process "
+  },
+  {
+   "units": "u268-u270",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Public Policy "
+  },
+  {
+   "units": "u271-u272",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "standards",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Public Policy SS.PSG.3.5"
+  },
+  {
+   "units": "u273-u274",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "examples",
+   "section": "Standard 3: Understand the political party system and the roles, rights, and res > Public Policy SS.PSG.3.5: sample performance"
+  },
+  {
+   "units": "u275-u286",
+   "grades": "9-12",
+   "course": "Political Science/ Government",
+   "cat": "backup",
+   "section": "Sample performance assessment / rubric"
+  }
+ ],
+ "issues": [
+  "Rubric rows and 'Assessment (SPA)' labels labeled backup as assessment material; 'Sample Performance' tasks labeled examples.",
+  "Course has no stated grade; assigned 9-12.",
+  "u1-u2 are untabled header lines (positioned text) labeled backup. Course title written 'Political Science/ Government' (with the space) in the header; used as the course string.",
+  "u204-u230: a second 'Standard 2: Understand the role of United States policies in international relations' heading (u205) appears after Standard 3 (SS.PSG.3.1-3.2) and introduces benchmark SS.PSG.2.3; then Standard 3 is repeated (u229) for SS.PSG.3.3-3.5; the original order is as printed. Note benchmark SS.PSG.2.3 appears after 3.2 and SS.PSG.2.4 (u132) is the next benchmark after 2.2 with no 2.3 in that position.",
+  "u208-u210: benchmark code split ('Benchmark SS.PSG' / '2.3').",
+  "u60-u67, u220-u227, u281-u286: rubric sentences split across page breaks (backup).",
+  "Strand name (course name) cell is missing on the first Strand table (u3)."
+ ]
+}

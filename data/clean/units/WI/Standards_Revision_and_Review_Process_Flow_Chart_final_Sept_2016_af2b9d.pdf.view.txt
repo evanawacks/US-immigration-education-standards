@@ -1,0 +1,23 @@
+=== page 1 ===
+u1 Tony Evers, PhD, State Superintendent
+u2 Wisconsin Department of Public Instruction Wisconsin Academic Standards Review and Revision Process1
+u3 Issue Standards Review Notice
+u4 Request for Public Input on Need for
+u5 Standards Revision
+u6 Standards Review Council
+u7 State Superintendent Decision
+u8 on need for revision
+u9 (x=185) Y E S
+u10 (x=376) N O
+u11 Review Process Complete - Maintain Existing Standards
+u12 [T1 R1 C1] Standards Writing Committees Established Revised Revised Standards Standards Presented to Presented to Public Legislative Standing Committees
+u13 [T1 R2 C1] Revised Standards Presented to Public
+u14 [T1 R2 C2] Revised Standards Presented to Legislative Standing Committees
+u15 Standards Review Council  Review Process  Assesses public comments  Makes recommendations
+u16 Revised Standards Presented to State Superintendent with Recommendations
+u17 (x=389) OR
+u18 (x=157) State Superintendent Refers Standards Back
+u19 (x=458) State Superintendent
+u20 (x=159) to the Writing Committees in Part or Whole
+u21 (x=466) Adopts Standards
+u22 1 Wisconsin Academic Standards are subject area standards adopted by the state that specify what students should know and be able to do in the classroom. These standards are not required to be adopted by school districts under state law.

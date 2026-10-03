@@ -1,0 +1,181 @@
+{
+ "state": "AR",
+ "file": "AR_Grade_8_Social_Studies_Standards_2022_LS.pdf",
+ "structure": "Single-grade document (Grade 8: United States History Era 5 through Era 7, 1850-1930). Front matter as other AR docs. At a Glance: History H.4 (Eras 5-6), H.5 (Era 7). No civics/economics/geography KPEs; they are embedded. KPE pages: History heading, H.4/H.5 statement (sometimes split over two units), Era line, KPEs coded H.4.8.n and H.5.8.n; lists after a colon are part of the KPE; Teacher Notes are examples. No course field.",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 8 title: United States History Era 5 through Era 7 (1930)"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u7",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u8-u10",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u15-u16",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u21-u22",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u23-u32",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u33-u44",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u49-u57",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u62-u66",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u67-u78",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History H.4, H.5 with Grade 8 era components"
+  },
+  {
+   "units": "u79-u86",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u91-u95",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "KPE table column headings"
+  },
+  {
+   "units": "u96-u107",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.4 > Era 5 > H.4.8.1-3"
+  },
+  {
+   "units": "u112-u113",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "H.4.8.4"
+  },
+  {
+   "units": "u114-u115",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note H.4.8.4 additional individuals"
+  },
+  {
+   "units": "u116-u143",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "H.4.8.5-14 (Era 5 through Era 6)"
+  },
+  {
+   "units": "u144-u150",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note H.4.8.14 may include"
+  },
+  {
+   "units": "u155-u163",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.5 > Era 7 > H.5.8.1"
+  },
+  {
+   "units": "u164",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note H.5.8.1 Alaska Purchase"
+  },
+  {
+   "units": "u165-u173",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "H.5.8.2-5 (list for H.5.8.5 continues next page)"
+  },
+  {
+   "units": "u174",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "H.5.8.5 list continued"
+  },
+  {
+   "units": "u175",
+   "grades": "8",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note H.5.8.5 Holocaust connection"
+  },
+  {
+   "units": "u176-u180",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "H.5.8.6-8"
+  }
+ ],
+ "issues": [
+  "H.4.8.4 (u112) is followed by an e.g. list in u113 without a colon; kept as standards.",
+  "u97-u98, u130-u131, u156-u157 H.4/H.5 statements split across two units.",
+  "Lists broken across pages: u145/u150 (Teacher Note list), u169/u174 (H.5.8.5).",
+  "K-12 overview and C3 skills labeled grade 8 only."
+ ]
+}

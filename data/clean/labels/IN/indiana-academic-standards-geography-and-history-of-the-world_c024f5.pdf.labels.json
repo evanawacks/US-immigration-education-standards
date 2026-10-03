@@ -1,0 +1,67 @@
+{
+ "state": "IN",
+ "file": "indiana-academic-standards-geography-and-history-of-the-world_c024f5.pdf",
+ "structure": "Single high-school course document (Geography and History of the World, 2023 format). Pages 2-3: context/purpose, acknowledgments (backup); the sentence about examples is split across pages 2-3 (u11, u14). Page 4 onward: one table; row 1 = Learning Outcome for the course; then 12 topic heading rows (Cultural Hearths, World Religions, ... Global Change); each standard is a row with C1 = code (GHW.t.n) and C2 = standard text with an inline '\u25cf Examples: ...' list; '(E)' marks essential standards. Standard text and its examples sit in the same unit, so they are labeled standards; a few cells continue across page breaks as separate units.",
+ "labels": [
+  {
+   "units": "u2-u16",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Context and purpose, introduction, acknowledgments"
+  },
+  {
+   "units": "u19",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "standards",
+   "section": "Course title"
+  },
+  {
+   "units": "u20",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "backup",
+   "section": "How to read: essential standards note"
+  },
+  {
+   "units": "u21-u63",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "standards",
+   "section": "Learning outcome, topics 1-6 (through GHW.6.3 start)"
+  },
+  {
+   "units": "u64",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "examples",
+   "section": "Innovation and Revolutions > GHW.6.3 examples (continuation across page break)"
+  },
+  {
+   "units": "u65-u99",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "standards",
+   "section": "GHW.6.4 through GHW.10.3 start"
+  },
+  {
+   "units": "u100",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "examples",
+   "section": "States, Nations, and Nation-States > GHW.10.3 examples (continuation across page break)"
+  },
+  {
+   "units": "u101-u110",
+   "grades": "9-12",
+   "course": "Geography and History of the World",
+   "cat": "standards",
+   "section": "Topics 11-12, GHW.11.1-GHW.12.3"
+  }
+ ],
+ "issues": [
+  "u64, u100: table cell continuations (C2 only) split across page breaks; they hold only the tail of the GHW.6.3 and GHW.10.3 examples lists, so labeled examples while the starting units (u61, u97) are labeled standards because they mix standard text and examples.",
+  "u81: continuation of GHW.8.2 standard text ('lack of interdependence. (E)') plus its examples; labeled standards."
+ ]
+}

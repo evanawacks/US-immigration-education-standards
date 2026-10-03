@@ -1,0 +1,312 @@
+{
+ "state": "NJ",
+ "file": "2020NJSLS-SS_GradesK-2_5fcaec.pdf",
+ "structure": "NJSLS-SS 2020 grade-band file for K-2 (end of grade 2). Front matter (intro, mission/vision, framework, practices, structure/coding, essential questions, NJ statutes, references) pp.1-12. Then 'By End of Grade 2 / Disciplinary Concepts' tables per strand (Civics; Geography; Economics; History) with columns Disciplinary Concept | Description | Core Ideas (cell C1/C2/C3). Then Standard 6.1 U.S. History: America in the World by the End of Grade 2 and Standard 6.3 Active Citizenship in the 21st Century by the End of Grade 2, with tables Core Idea | Performance Expectations; PE codes 6.<std>.<grade 2>.<Strand><Concept>.<n> (e.g. 6.1.2.CivicsPI.1). All grade-level content is the K-2 band (labeled K-2). No courses. Description column cells of the disciplinary concept tables labeled examples (narrative); concept names and core ideas labeled standards.",
+ "labels": [
+  {
+   "units": "u1-u41",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Introduction, mission/vision, intent, framework diagram, changes"
+  },
+  {
+   "units": "u42-u63",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Social Studies Practices (K-12 practices table)"
+  },
+  {
+   "units": "u64-u66",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Standards in Action: Climate Change"
+  },
+  {
+   "units": "u67-u125",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Structure of the NJSLS-SS, coding of performance expectations"
+  },
+  {
+   "units": "u126-u139",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "The Role of Essential Questions (A-D)"
+  },
+  {
+   "units": "u140-u234",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "NJ Administrative Code summary, statutes, references"
+  },
+  {
+   "units": "u236-u242",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u243",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u244-u245",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u246",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u247-u248",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u249",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u250-u251",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u252",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u253-u254",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u255",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u256-u259",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u260",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u261-u266",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u267",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u268-u269",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u270",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u273",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u274-u277",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u278",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u279-u284",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u285",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u286-u287",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u288",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u289-u290",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u291",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u292-u293",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u294",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u295-u302",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u303",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u304-u309",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u310",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u311-u312",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u313",
+   "grades": "K-2",
+   "course": null,
+   "cat": "examples",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u314",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "By End of Grade 2 > Disciplinary Concepts tables (concept, core ideas; descriptions split out)"
+  },
+  {
+   "units": "u315-u481",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "6.1 and 6.3 by end of grade 2: core ideas and performance expectations"
+  }
+ ],
+ "issues": [
+  "u239-u314: table extraction splits cells across pages (u255/u258, u273/u276, u294/u297); continuation text labeled by its column (C2 description).",
+  "u322, u330, u351, u374, u387, u406, u413, u452: stray bullet-only cells ('• •') from PE tables; labeled standards with their PE table.",
+  "u323-u335, u352-u356, u375-u380, u388-u395: PE sentences broken across rows by line wrapping; kept in table order under the PE's core idea.",
+  "u410/u411: PE 6.1.2.EconET.3 duplicated in extraction (second copy in next row); u448/u449-u450: 6.1.2.HistoryUP.1 duplicated.",
+  "u382: PE 6.1.2.Geo.SV.4 contains drafting note 'needs more thought' in source text.",
+  "u340, u346, u363, u422, u435, u440, u461: several PEs merged in one cell; not split.",
+  "u126-u139: Essential questions are K-12 framework-level questions; labeled examples with grades K-2 (could arguably be backup).",
+  "u42-u63: Social Studies Practices apply K-12; labeled K-2 (this document's range) as standards.",
+  "Guide says tables have 'Performance Expectations' columns; in this file the disciplinary-concept tables also have a Description column which the state guide did not mention."
+ ]
+}

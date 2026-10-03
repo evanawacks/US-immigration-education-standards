@@ -83,6 +83,20 @@ def assemble_state(st, cfg, names):
         for l in labels:
             for x in parse_units(l["units"]):
                 assigned.setdefault(x, l)
+        # clusters that hold grade-specific (non-shared) course-less content in this document
+        def shared_with_course(G):
+            return any(G >= frozenset(S) for S in course_rows.values())
+        specific = set()
+        for l in labels:
+            if l.get("course") or l["cat"] == "backup" or str(l["grades"]) == "all": continue
+            G = gset(l["grades"])
+            if shared_with_course(G): continue
+            for i, C in enumerate(clusters):
+                if G & C: specific.add(i)
+        single_course = len(course_rows) == 1 and not specific
+        def course_row(t):
+            std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
+            return row(("C", t), frozenset(course_rows[t]), std, t)
         touched = set()
         for uid in sorted(units):
             u = units[uid]
@@ -95,24 +109,20 @@ def assemble_state(st, cfg, names):
             G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
             targets = []
             if l.get("course"):
-                t = l["course"].strip()
-                std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
-                targets.append(row(("C", t), frozenset(course_rows[t]), std, t))
+                targets.append(course_row(l["course"].strip()))
+            elif cat == "backup" and (str(l["grades"]) == "all" or G >= doc_grades):
+                targets.append(course_row(next(iter(course_rows))) if single_course else allrow)
             else:
-                if cat == "backup" and (str(l["grades"]) == "all" or G >= doc_grades):
-                    targets.append(allrow)
-                else:
-                    for C in clusters:
-                        if G & C:
-                            targets.append(row(("G", C), C))
-                            if not (G >= C or C >= G):
-                                state_issues.append(f"{fname}: u{uid} grades {l['grades']} only partly overlap row cluster {gtoken(C)}")
-                    for t, S in course_rows.items():
-                        if G >= frozenset(S):
-                            std = names.get(st, {}).get(t, names.get("*", {}).get(t, t))
-                            targets.append(row(("C", t), frozenset(S), std, t))
-                    if not targets:
-                        targets.append(allrow); state_issues.append(f"{fname}: u{uid} grades {l['grades']} match no row cluster -> ALL")
+                for t, S in course_rows.items():
+                    if G >= frozenset(S): targets.append(course_row(t))
+                for i, C in enumerate(clusters):
+                    if not (G & C): continue
+                    if course_rows and i not in specific: continue
+                    targets.append(row(("G", C), C))
+                    if not (G >= C or C >= G):
+                        state_issues.append(f"{fname}: u{uid} grades {l['grades']} only partly overlap row cluster {gtoken(C)}")
+                if not targets:
+                    targets.append(allrow); state_issues.append(f"{fname}: u{uid} grades {l['grades']} match no row -> ALL")
             for r in targets:
                 r[cat].append((fname, uid, u["text"]))
                 if fname not in r["files"]: r["files"].append(fname)

@@ -1,0 +1,2997 @@
+{
+ "state": "AR",
+ "file": "AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf",
+ "structure": "Combined Grades K-4 document. Front matter then 'Disciplinary Standards At a Glance' tables: one table per strand (Civics, Economics, Geography, History) with columns Kindergarten, Grade 1, Grade 2, Grade 3, Grade 4 (table columns 2-6 = K-4; column 1 = component name shared by K-4) giving the title/theme and components per grade. A 'Grade Level Themes' table follows. Then KPE tables per strand and component: header cells (strand, standard C.1/E.1/G.1/H.1, component name, 'Knowledge and Skill Performance Expectations') apply to K-4, a grade header row lists Kindergarten, Grade 1 ... Grade 4, then KPE cells coded strand.standard.GRADE.number (e.g. C.1.K.1, H.1.3.4); grade = third part of the code. Teacher Notes and bullet lists are embedded inside KPE cell units, so those units are labeled standards.",
+ "labels": [
+  {
+   "units": "u2-u3",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u6",
+   "grades": "K-4",
+   "course": null,
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u7-u9",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u14-u16",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; asterisk note; disciplinary literacy"
+  },
+  {
+   "units": "u21-u22",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u23-u32",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u33-u44",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u49-u57",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u62-u68",
+   "grades": "K-4",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u69-u70",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u71",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u72",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u73",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u74",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u75",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u76",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u77",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u78",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u79",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u80",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u81",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u82",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u83",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u84",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u85",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u86",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u87",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u88",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u89",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u90",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u91",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u92",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u93",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u94",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u95",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u96",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u97",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics"
+  },
+  {
+   "units": "u102-u103",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u104",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u105",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u106",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u107",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u108",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u109",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u110",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u111",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u112",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u113",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u114",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u115",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u116",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u117",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u118",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u119",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u120",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u121",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u122",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u123",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u124",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u125",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u126",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u127",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u128",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u129",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u130",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u131",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u132",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u133",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u134",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u135",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u136",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u137",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Economics"
+  },
+  {
+   "units": "u142-u143",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u144",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u145",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u146",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u147",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u148",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u149",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u150",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u151",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u152",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u153",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u154",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u155",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u156",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u157",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u158",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u159",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u160",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u161",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u162",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u163",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u164",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u165",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u166",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u167",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u168",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u169",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u170",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u171",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u172",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u173",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u174",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u175",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u176",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u177",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography"
+  },
+  {
+   "units": "u182-u183",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u184",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u185",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u186",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u187",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u188",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u189",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u190",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u191",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u192",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u193",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u194",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u195",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u196",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u197",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u198",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u199",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u200",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u201",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u202",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u203",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u204",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u205",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: History"
+  },
+  {
+   "units": "u210",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u211",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u212",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u213",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u214",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u215",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u216",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u217",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u218",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u219",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u220",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade Level Themes"
+  },
+  {
+   "units": "u221-u224",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE headings"
+  },
+  {
+   "units": "u225",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE grade headings"
+  },
+  {
+   "units": "u226",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE grade headings"
+  },
+  {
+   "units": "u227",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE grade headings"
+  },
+  {
+   "units": "u228",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE grade headings"
+  },
+  {
+   "units": "u229",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPE grade headings"
+  },
+  {
+   "units": "u230",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u231",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u232",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u233",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u234",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u239",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u240",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u241",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u242",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u243",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u244",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u245",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u246",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u247",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Civic and Political Institutions > KPEs"
+  },
+  {
+   "units": "u252-u253",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > KPEs"
+  },
+  {
+   "units": "u254-u255",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u256",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u257",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u258",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u259",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u260",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u261",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u262",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u263",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u264",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u265",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u266",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u267",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u268",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u269",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u270",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u271",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u272",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u273",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u274",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u275",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Participation and Deliberation > KPEs"
+  },
+  {
+   "units": "u280-u281",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > KPEs"
+  },
+  {
+   "units": "u282-u283",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u284",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u285",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u286",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u287",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u288",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u289",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u290",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u291",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u292",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u293",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u294",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u295",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u296",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u297",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u298",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u299",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u300",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u301",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u302",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u303",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > Process, Rules, and Laws > KPEs"
+  },
+  {
+   "units": "u308-u309",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > KPEs"
+  },
+  {
+   "units": "u310-u311",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u312",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u313",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u314",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u315",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u316",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u317",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u318",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u319",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u320",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u321",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u322",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u323",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u324",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u325",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u326",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Economic Decision-Making > KPEs"
+  },
+  {
+   "units": "u331-u332",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > KPEs"
+  },
+  {
+   "units": "u333-u334",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u335",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u336",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u337",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u338",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u339",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u340",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u341",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u342",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u343",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u344",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u345",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u346",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u347",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u348",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u349",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u350",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u351",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u352",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u353",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u354",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Exchange and Markets > KPEs"
+  },
+  {
+   "units": "u359-u360",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > KPEs"
+  },
+  {
+   "units": "u361-u362",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u363",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u364",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u365",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u366",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u367",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u368",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u369",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u370",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u371",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u372",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u373",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u374",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u375",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u376",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u377",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u378",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u379",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u380",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u381",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u382",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u387",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u388",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Growth and Stability > KPEs"
+  },
+  {
+   "units": "u389-u390",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > KPEs"
+  },
+  {
+   "units": "u391-u392",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u393",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u394",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u395",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u396",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u397",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u398",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u399",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u400",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u401",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u402",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u407",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u408",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u409",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u410",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u411",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > Global Economy > KPEs"
+  },
+  {
+   "units": "u416-u417",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > KPEs"
+  },
+  {
+   "units": "u418-u419",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u420",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u421",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u422",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u423",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u424",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u425",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u426",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u427",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u428",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u429",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u430",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u431",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u432",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u433",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u434",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u435",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u436",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u437",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u438",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u439",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Geographic Representations > KPEs"
+  },
+  {
+   "units": "u444-u445",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > KPEs"
+  },
+  {
+   "units": "u446-u447",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u448",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u449",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u450",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u451",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u452",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u453",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u454",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u455",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u456",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u457",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u458",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u459",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u460",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u461",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u462",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u463",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u464",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u465",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u466",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u467",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Human-Environment Interaction > KPEs"
+  },
+  {
+   "units": "u472-u473",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > KPEs"
+  },
+  {
+   "units": "u474-u475",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u476",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u477",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u478",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u479",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u480",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u481",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u482",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u483",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u484",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u485",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u486",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u487",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u488",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u489",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u490",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u491",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u492",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u493",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u494-u497",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Spatial Patterns and Movement > KPEs"
+  },
+  {
+   "units": "u502-u503",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > KPEs"
+  },
+  {
+   "units": "u504-u505",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u506",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u507",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u508",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u509",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u510",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u511",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u512",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u513",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u514",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u515",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u516",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u517",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u518",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u519",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u520",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > Global Interconnections > KPEs"
+  },
+  {
+   "units": "u525-u526",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > KPEs"
+  },
+  {
+   "units": "u527-u528",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u529",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u530",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u531",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u532",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u533",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u534",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u535",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u536",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u537",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u538",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u543",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u544",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u545",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u546",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u547",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u548",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u549",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u550",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u551",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u552",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u557",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u558",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u559",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u560",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u561",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u562",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u563",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u564",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u565",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u566",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Chronology, Change over time, Contextualization > KPEs"
+  },
+  {
+   "units": "u571-u572",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > KPEs"
+  },
+  {
+   "units": "u573-u574",
+   "grades": "K-4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u575",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u576",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u577",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u578",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u579",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u580",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u581",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u582",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u583",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u584-u585",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u586",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u587",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u588",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u589",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u590",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u595",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u596",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u597",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u598",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u599",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u600",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u601",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u602",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u603",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  },
+  {
+   "units": "u604-u605",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "History > Perspective, Evidence, Causation > KPEs"
+  }
+ ],
+ "issues": [
+  "u494-u497 (page 21) are garbled fragments ('reasons and', 'tha', 'people, goods, and ideas', 'move from place to place.') that look like overflow of G.1.2.8 text; assigned to grade 2 as standards.",
+  "u595-u605 (page 27) repeat KPEs H.1.K.6-H.1.4.7 already listed at u580-u585 (duplicated rows in the source); grades taken from codes.",
+  "u376 reads 'E.1.3.7e.g., Explain...' (extraction glitch); grade 3 from code.",
+  "At a Glance page 6: u97 is Grade 3 (column 5) and the Grade 4 cell for Processes, Rules, and Laws is missing from the extraction; Geography Spatial Patterns row has no K/1 gap issues.",
+  "K-12 overview and C3 skills labeled K-4 (all grades of the document).",
+  "Teacher notes embedded in KPE cells (u230-u231) and in-cell 'This may include' lists are not split from their KPE (labeled standards, not examples)."
+ ]
+}

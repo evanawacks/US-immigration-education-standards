@@ -1,0 +1,570 @@
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Academic Standards for", "id": "u1", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Personal Finance", "id": "u2", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Grades K-12", "id": "u3", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Pennsylvania Department of Education", "id": "u4", "furniture": false}
+{"page": 1, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u5", "furniture": true}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Overview", "id": "u6", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Personal Finance focuses on the fundamentals of personal finance, income, spending, saving and investing, risk and insurance, and credit, with a goal to develop individuals who can manage their personal finances. Personal finance is also known as personal financial literacy and financial literacy. The standards are written as grade-banded standards built around the areas below and topics that make up the areas of study.", "id": "u7", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Number", "id": "u8", "furniture": false}
+{"page": 2, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Areas", "id": "u9", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "17.1 Personal Finance Fundamentals", "id": "u10", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 1, "col": 2, "x": null, "text": "17.2", "id": "u11", "furniture": false}
+{"page": 2, "kind": "cell", "table": 2, "row": 1, "col": 4, "x": null, "text": "Income", "id": "u12", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "17.3 Spending", "id": "u13", "furniture": false}
+{"page": 2, "kind": "cell", "table": 3, "row": 1, "col": 2, "x": null, "text": "17.4", "id": "u14", "furniture": false}
+{"page": 2, "kind": "cell", "table": 3, "row": 1, "col": 4, "x": null, "text": "Saving & Investing", "id": "u15", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "17.5 Risk & Insurance", "id": "u16", "furniture": false}
+{"page": 2, "kind": "cell", "table": 4, "row": 1, "col": 2, "x": null, "text": "17.6", "id": "u17", "furniture": false}
+{"page": 2, "kind": "cell", "table": 4, "row": 1, "col": 4, "x": null, "text": "Credit", "id": "u18", "furniture": false}
+{"page": 2, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u19", "furniture": true}
+{"page": 3, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "Appendix F. Academic Standards for Personal Finance", "id": "u20", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u21", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u22", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u23", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u24", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u25", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "1. Personal Finance Fundamentals", "id": "u26", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "Financial goal setting and decision making", "id": "u27", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "Financial goal", "id": "u28", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "17.1.K-2.A", "id": "u29", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "17.1.3-5.A Describe reasons people set financial goals.", "id": "u30", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.1.6-8.A Compare short-, intermediate-, and long-term financial goals.", "id": "u31", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.1.9-12.A Determine the financial impact of various long-term goals (e.g., lifestyle, family, education).", "id": "u32", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "setting and", "id": "u33", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 4, "col": 4, "x": null, "text": "Identify short-term financial", "id": "u34", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "decision making", "id": "u35", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 6, "col": 4, "x": null, "text": "goals and steps people can", "id": "u36", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 7, "col": 4, "x": null, "text": "take to achieve them.", "id": "u37", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 4, "x": null, "text": "17.1.K-2.B", "id": "u38", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 6, "x": null, "text": "17.1.3-5.B Identify the opportunity cost of various financial decisions, including ones related to earning, spending, and saving.", "id": "u39", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 8, "x": null, "text": "17.1.6-8.B Explain why the opportunity cost of a decision might differ from one person or situation to another.", "id": "u40", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "17.1.9-12.B Apply a systematic decision- making process, including opportunity costs, to setting and achieving financial goals.", "id": "u41", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 9, "col": 4, "x": null, "text": "Explain how limited personal", "id": "u42", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 10, "col": 4, "x": null, "text": "financial resources affect the", "id": "u43", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 11, "col": 4, "x": null, "text": "choices people make.", "id": "u44", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 12, "col": 1, "x": null, "text": "Financial mindset and behaviors", "id": "u45", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 12, "col": 4, "x": null, "text": "17.1.K-2.C Describe how friends and family can impact a person's attitudes toward money.", "id": "u46", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 12, "col": 6, "x": null, "text": "17.1.3-5.C Explain how life circumstances and experiences can alter attitudes toward money.", "id": "u47", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 12, "col": 8, "x": null, "text": "17.1.6-8.C Analyze how people differ in their attitudes toward money.", "id": "u48", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "17.1.9-12.C Analyze the impact of various factors on a person's financial mindset and decisions.", "id": "u49", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 13, "col": 4, "x": null, "text": "Intentionally blank", "id": "u50", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 13, "col": 6, "x": null, "text": "17.1.3-5.D Identify financial decisions people make that may not be in their best interest.", "id": "u51", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 13, "col": 8, "x": null, "text": "17.1.6-8.D Describe behavioral biases (e.g., mental accounting, anchoring, confirmation bias) that can affect financial decisions.", "id": "u52", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "17.1.9-12.D Evaluate strategies for dealing with behavioral biases (e.g., loss aversion, experiential bias, mental accounting) and other obstacles to managing personal finances.", "id": "u53", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 14, "col": 6, "x": null, "text": "17.1.3-5.E Describe conversations people have about money.", "id": "u54", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 14, "col": 8, "x": null, "text": "17.1.6-8.E Describe important financial conversations people have and with whom they have them.", "id": "u55", "furniture": false}
+{"page": 3, "kind": "cell", "table": 1, "row": 14, "col": 10, "x": null, "text": "17.1.9-12.E Assess the value of sharing financial goals and information with others.", "id": "u56", "furniture": false}
+{"page": 3, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u57", "furniture": true}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u58", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u59", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u60", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u61", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u62", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "Financial services", "id": "u63", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "Financial services", "id": "u64", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "17.1.K-2.F Describe ways people use financial institutions (e.g., depositing money, obtaining cash).", "id": "u65", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "17.1.3-5.F Identify products and services provided by financial institutions.", "id": "u66", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.1.6-8.F Identify personal information needed to establish a financial account.", "id": "u67", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.1.9-12.F", "id": "u68", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "Compare various financial", "id": "u69", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "service providers (e.g., banks,", "id": "u70", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "credit unions, check cashers,", "id": "u71", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "brokerage firms) and the types", "id": "u72", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "of accounts and services each", "id": "u73", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "provides.", "id": "u74", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 4, "x": null, "text": "Intentionally blank", "id": "u75", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 6, "x": null, "text": "Intentionally blank", "id": "u76", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 8, "x": null, "text": "Intentionally blank", "id": "u77", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "17.1.9-12.G", "id": "u78", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "Communicate the process of", "id": "u79", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "opening financial accounts and", "id": "u80", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "the factors to consider when", "id": "u81", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "selecting financial institutions", "id": "u82", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 14, "col": 10, "x": null, "text": "and professionals.", "id": "u83", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 15, "col": 4, "x": null, "text": "Intentionally blank", "id": "u84", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 15, "col": 6, "x": null, "text": "Intentionally blank", "id": "u85", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "Intentionally blank", "id": "u86", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 15, "col": 10, "x": null, "text": "17.1.9-12.H", "id": "u87", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "Evaluate the use of financial", "id": "u88", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 17, "col": 10, "x": null, "text": "technology to access financial", "id": "u89", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 18, "col": 10, "x": null, "text": "services and make financial", "id": "u90", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 19, "col": 10, "x": null, "text": "decisions.", "id": "u91", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 20, "col": 1, "x": null, "text": "Financial record keeping", "id": "u92", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 20, "col": 4, "x": null, "text": "Intentionally blank", "id": "u93", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 20, "col": 6, "x": null, "text": "Intentionally blank", "id": "u94", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 20, "col": 8, "x": null, "text": "17.1.6-8.I Describe information people document and track for their personal finances.", "id": "u95", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 20, "col": 10, "x": null, "text": "17.1.9-12.I Develop a system for documenting and organizing personal financial records, both paper and electronic.", "id": "u96", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 21, "col": 4, "x": null, "text": "Intentionally blank", "id": "u97", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 21, "col": 6, "x": null, "text": "Intentionally blank", "id": "u98", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 21, "col": 8, "x": null, "text": "Intentionally blank", "id": "u99", "furniture": false}
+{"page": 4, "kind": "cell", "table": 1, "row": 21, "col": 10, "x": null, "text": "17.1.9-12.J Explain the financial implications of wills, powers of attorney, and naming beneficiaries for various accounts.", "id": "u100", "furniture": false}
+{"page": 4, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u101", "furniture": true}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u102", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u103", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u104", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u105", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u106", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "Consumer protection", "id": "u107", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "Consumer", "id": "u108", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u109", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u110", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "Intentionally blank", "id": "u111", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.1.9-12.K", "id": "u112", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 3, "col": 2, "x": null, "text": "protection", "id": "u113", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "Explain the role of various state", "id": "u114", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "and federal financial regulators", "id": "u115", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "and consumer protection", "id": "u116", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "agencies.", "id": "u117", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 4, "x": null, "text": "Intentionally blank", "id": "u118", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 6, "x": null, "text": "Intentionally blank", "id": "u119", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 8, "x": null, "text": "Intentionally blank", "id": "u120", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "17.1.9-12.L", "id": "u121", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "Describe the issues addressed", "id": "u122", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "by various laws and regulations", "id": "u123", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "that impact or safeguard a", "id": "u124", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "person's finances.", "id": "u125", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 12, "col": 2, "x": null, "text": "2. Income", "id": "u126", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 1, "x": null, "text": "Sources of income", "id": "u127", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 4, "x": null, "text": "17.2.K-2.A Identify reasons people and households require income.", "id": "u128", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 6, "x": null, "text": "17.2.3-5.A Describe how people receive income (e.g., work, gifts, renting property to others).", "id": "u129", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 8, "x": null, "text": "17.2.6-8.A Compare compensation methods, including hourly wage, salary, commission, tips, and piecework.", "id": "u130", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "17.2.9-12.A Explain various types of income (e.g., earned, unearned, passive, active) and their sources (e.g., work, rentals, investments, government programs).", "id": "u131", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 4, "x": null, "text": "Intentionally blank", "id": "u132", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 6, "x": null, "text": "Intentionally blank", "id": "u133", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 8, "x": null, "text": "Intentionally blank", "id": "u134", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 14, "col": 10, "x": null, "text": "17.2.9-12.B Describe sources of retirement income and how they relate to individual investment choices, employer-sponsored retirement plans, and government programs.", "id": "u135", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "Factors influencing income", "id": "u136", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 4, "x": null, "text": "17.2.K-2.C Predict the knowledge and skills needed for various jobs.", "id": "u137", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 6, "x": null, "text": "17.2.3-5.C Explain ways people improve their ability to earn income through education, training, and experience.", "id": "u138", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "17.2.6-8.C Analyze connections between the amount individuals might earn in various careers and the education or training that is required.", "id": "u139", "furniture": false}
+{"page": 5, "kind": "cell", "table": 1, "row": 15, "col": 10, "x": null, "text": "17.2.9-12.C Use data to support an individual's decision to obtain or forgo post-secondary education based on the associated costs and anticipated future income.", "id": "u140", "furniture": false}
+{"page": 5, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u141", "furniture": true}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u142", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u143", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u144", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u145", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u146", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u147", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u148", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.2.6-8.D", "id": "u149", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.2.9-12.D", "id": "u150", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "Compare ways people pay for", "id": "u151", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "Research options to pay for", "id": "u152", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "education and training, including", "id": "u153", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "education and training, ways to", "id": "u154", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "scholarships, grants, savings,", "id": "u155", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "reduce the total cost, and steps", "id": "u156", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 6, "col": 8, "x": null, "text": "military service, apprenticeships,", "id": "u157", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "needed to obtain financial aid.", "id": "u158", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 7, "col": 8, "x": null, "text": "and loans.", "id": "u159", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 4, "x": null, "text": "Intentionally blank", "id": "u160", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 6, "x": null, "text": "Intentionally blank", "id": "u161", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 8, "x": null, "text": "17.2.6-8.E", "id": "u162", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "17.2.9-12.E", "id": "u163", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 9, "col": 8, "x": null, "text": "Explain factors that may impact a", "id": "u164", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "Evaluate the impacts of", "id": "u165", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 10, "col": 8, "x": null, "text": "person's future income and", "id": "u166", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "technology, labor markets, and", "id": "u167", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 11, "col": 8, "x": null, "text": "employment status, including", "id": "u168", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "economic conditions and trends", "id": "u169", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 12, "col": 8, "x": null, "text": "changes in technology, demand", "id": "u170", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "on a person's employment", "id": "u171", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 13, "col": 8, "x": null, "text": "for workers, and the cost of post-", "id": "u172", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "potential.", "id": "u173", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 14, "col": 8, "x": null, "text": "secondary education.", "id": "u174", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 4, "x": null, "text": "Intentionally blank", "id": "u175", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 6, "x": null, "text": "Intentionally blank", "id": "u176", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "Intentionally blank", "id": "u177", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 15, "col": 10, "x": null, "text": "17.2.9-12.F", "id": "u178", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "Explain the impact of employee", "id": "u179", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 17, "col": 10, "x": null, "text": "benefits (e.g., health insurance,", "id": "u180", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 18, "col": 10, "x": null, "text": "retirement savings plans,", "id": "u181", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 19, "col": 10, "x": null, "text": "education reimbursement", "id": "u182", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 20, "col": 10, "x": null, "text": "programs) on an individual's", "id": "u183", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 21, "col": 10, "x": null, "text": "finances.", "id": "u184", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 22, "col": 1, "x": null, "text": "Self-employment and supplemental income", "id": "u185", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 22, "col": 4, "x": null, "text": "17.2.K-2.G Identify ways people earn income through entrepreneurship.", "id": "u186", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 22, "col": 6, "x": null, "text": "17.2.3-5.G Describe how people earn income through entrepreneurship and supplemental employment.", "id": "u187", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 22, "col": 8, "x": null, "text": "17.2.6-8.G Compare various forms of self- employment.", "id": "u188", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 22, "col": 10, "x": null, "text": "17.2.9-12.G Analyze the financial impact of a person's decision to own a business, work as an independent contractor, or be employed.", "id": "u189", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 23, "col": 1, "x": null, "text": "Income and payroll taxes", "id": "u190", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 23, "col": 4, "x": null, "text": "Intentionally blank", "id": "u191", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 23, "col": 6, "x": null, "text": "Intentionally blank", "id": "u192", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 23, "col": 8, "x": null, "text": "17.2.6-8.H", "id": "u193", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 23, "col": 10, "x": null, "text": "17.2.9-12.H", "id": "u194", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 24, "col": 8, "x": null, "text": "Interpret a pay statement and", "id": "u195", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 24, "col": 10, "x": null, "text": "Calculate the impact of taxes", "id": "u196", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 25, "col": 8, "x": null, "text": "explain the relationship between", "id": "u197", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 25, "col": 10, "x": null, "text": "and payroll deductions on", "id": "u198", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 26, "col": 8, "x": null, "text": "gross pay, net pay, and payroll", "id": "u199", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 26, "col": 10, "x": null, "text": "income.", "id": "u200", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 27, "col": 8, "x": null, "text": "deductions.", "id": "u201", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 28, "col": 4, "x": null, "text": "Intentionally blank", "id": "u202", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 28, "col": 6, "x": null, "text": "Intentionally blank", "id": "u203", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 28, "col": 8, "x": null, "text": "Intentionally blank", "id": "u204", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 28, "col": 10, "x": null, "text": "17.2.9-12.I", "id": "u205", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 29, "col": 10, "x": null, "text": "Complete various federal, state,", "id": "u206", "furniture": false}
+{"page": 6, "kind": "cell", "table": 1, "row": 30, "col": 10, "x": null, "text": "and local tax forms.", "id": "u207", "furniture": false}
+{"page": 6, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u208", "furniture": true}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u209", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u210", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u211", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u212", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u213", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "3. Spending", "id": "u214", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "Spending decisions", "id": "u215", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "17.3.K-2.A Describe spending choices people make in everyday life and factors that influence them.", "id": "u216", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "17.3.3-5.A Explain factors that influence a person's spending decisions and the impact these has on how they prioritize their wants.", "id": "u217", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.3.6-8.A Demonstrate making an informed purchase decision by evaluating price, product claims, and information from a variety of sources.", "id": "u218", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.3.9-12.A Develop a process for making informed spending decisions, including factors to consider (e.g., product features, price, durability, environmental or societal impact, reliability of information).", "id": "u219", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 4, "x": null, "text": "Intentionally blank", "id": "u220", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 6, "x": null, "text": "Intentionally blank", "id": "u221", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "17.3.6-8.B Apply mathematical skills to assess the impact of various ways retailers express prices (e.g., coupons, discounts, unit price).", "id": "u222", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "17.3.9-12.B Compare ways people can lower the price they pay for goods and services (e.g., online tools, discount retailers, negotiating, secondhand items).", "id": "u223", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "Developing a budget", "id": "u224", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 4, "x": null, "text": "17.3.K-2.C", "id": "u225", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 6, "x": null, "text": "17.3.3-5.C Provide examples of household spending and sources of income.", "id": "u226", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "17.3.6-8.C Compare ways people organize and track their spending and income.", "id": "u227", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "17.3.9-12.C", "id": "u228", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 6, "col": 4, "x": null, "text": "Differentiate between", "id": "u229", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "Develop a personal approach to", "id": "u230", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 7, "col": 4, "x": null, "text": "money that is received and", "id": "u231", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "keeping track of income and", "id": "u232", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 8, "col": 4, "x": null, "text": "money that is spent.", "id": "u233", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "spending.", "id": "u234", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 4, "x": null, "text": "17.3.K-2.D", "id": "u235", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 6, "x": null, "text": "17.3.3-5.D Construct a simple budget (e.g., for a family, individual, or school event).", "id": "u236", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 8, "x": null, "text": "17.3.6-8.D Explain the components of a personal budget (e.g., income, expenses, planned savings) and how budgeting can help people achieve their financial goals.", "id": "u237", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "17.3.9-12.D", "id": "u238", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 10, "col": 4, "x": null, "text": "Describe how people use", "id": "u239", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "Evaluate various budgeting", "id": "u240", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 11, "col": 4, "x": null, "text": "money for different", "id": "u241", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "approaches (e.g., 50-30-20,", "id": "u242", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 12, "col": 4, "x": null, "text": "purposes, including", "id": "u243", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "zero-based) and methods (e.g.,", "id": "u244", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 13, "col": 4, "x": null, "text": "spending, saving, and sharing", "id": "u245", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "envelope system, spreadsheets,", "id": "u246", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 14, "col": 4, "x": null, "text": "with others.", "id": "u247", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 14, "col": 10, "x": null, "text": "online tools).", "id": "u248", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 4, "x": null, "text": "Intentionally blank", "id": "u249", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 6, "x": null, "text": "Intentionally blank", "id": "u250", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "Intentionally blank", "id": "u251", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 15, "col": 10, "x": null, "text": "17.3.9-12.E", "id": "u252", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "Create a personal budget to", "id": "u253", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 17, "col": 10, "x": null, "text": "allocate current or future", "id": "u254", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 18, "col": 10, "x": null, "text": "income, including estimates for", "id": "u255", "furniture": false}
+{"page": 7, "kind": "cell", "table": 1, "row": 19, "col": 10, "x": null, "text": "fixed and variable expenses.", "id": "u256", "furniture": false}
+{"page": 7, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u257", "furniture": true}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u258", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u259", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u260", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u261", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u262", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u263", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u264", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "Intentionally blank", "id": "u265", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.3.9-12.F Identify methods for adjusting a budget for unexpected expenses or loss of income.", "id": "u266", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "Payment methods", "id": "u267", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "Intentionally blank", "id": "u268", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "17.3.3-5.G Explain various payment methods (e.g., cash, checks, gift cards, debit cards, credit cards).", "id": "u269", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.3.6-8.G Describe the advantages and disadvantages of using various payment methods (e.g., cash, checks, gift cards, debit cards, credit cards, mobile payments).", "id": "u270", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.3.9-12.G Compare the effects of using various payment methods when making purchases.", "id": "u271", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 4, "x": null, "text": "Intentionally blank", "id": "u272", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 6, "x": null, "text": "Intentionally blank", "id": "u273", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "Intentionally blank", "id": "u274", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "17.3.9-12.H Compare various approaches to paying bills, including making automated payments and ensuring bills are paid on time.", "id": "u275", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 4, "x": null, "text": "Intentionally blank", "id": "u276", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 6, "x": null, "text": "Intentionally blank", "id": "u277", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "Intentionally blank", "id": "u278", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "17.3.9-12.I Describe the impact of technology on payment methods and how it influences spending.", "id": "u279", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "Major life purchases", "id": "u280", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 4, "x": null, "text": "Intentionally blank", "id": "u281", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 6, "x": null, "text": "Intentionally blank", "id": "u282", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 8, "x": null, "text": "Intentionally blank", "id": "u283", "furniture": false}
+{"page": 8, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "17.3.9-12.J Analyze a housing decision, including comparing renting and buying, upfront and ongoing costs, and the process of obtaining a mortgage or a lease.", "id": "u284", "furniture": false}
+{"page": 8, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u285", "furniture": true}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u286", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u287", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u288", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u289", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u290", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u291", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u292", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "Intentionally blank", "id": "u293", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.3.9-12.K", "id": "u294", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "Justify the purchase or lease of", "id": "u295", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "a vehicle and the alternatives", "id": "u296", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "considered (e.g., new versus", "id": "u297", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "used, total cost of ownership or", "id": "u298", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "use).", "id": "u299", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "Sales and Property Taxes", "id": "u300", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 4, "x": null, "text": "Intentionally blank", "id": "u301", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 6, "x": null, "text": "17.3.3-5.L Identify taxes applied to certain purchases.", "id": "u302", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 8, "x": null, "text": "17.3.6-8.L Calculate the sales tax for various types of purchases.", "id": "u303", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "17.3.9-12.L Analyze the impact of paying sales, excise, and property taxes on financial decisions.", "id": "u304", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 1, "x": null, "text": "Charitable Giving", "id": "u305", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 4, "x": null, "text": "17.3.K-2.M", "id": "u306", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 6, "x": null, "text": "17.3.3-5.M", "id": "u307", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 8, "x": null, "text": "17.3.6-8.M", "id": "u308", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "17.3.9-12.M", "id": "u309", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 4, "x": null, "text": "Identify items people might", "id": "u310", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 6, "x": null, "text": "Identify reasons people", "id": "u311", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 8, "x": null, "text": "Describe ways people support", "id": "u312", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "Justify a decision to participate", "id": "u313", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 4, "x": null, "text": "give to someone else or", "id": "u314", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 6, "x": null, "text": "participate in fundraising", "id": "u315", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 8, "x": null, "text": "charitable organizations by", "id": "u316", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "in or forgo a fundraising effort", "id": "u317", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 4, "x": null, "text": "donate to charity.", "id": "u318", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 6, "x": null, "text": "efforts and the causes they", "id": "u319", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 8, "x": null, "text": "donating money, items, and time.", "id": "u320", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "based on the organization and", "id": "u321", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 13, "col": 6, "x": null, "text": "support.", "id": "u322", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "cause.", "id": "u323", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 14, "col": 2, "x": null, "text": "4. Saving and Investing", "id": "u324", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 1, "x": null, "text": "Asset building", "id": "u325", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 4, "x": null, "text": "17.4.K-2.A Describe things people own (e.g., toys, home, money).", "id": "u326", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 6, "x": null, "text": "17.4.3-5.A Identify items that might increase or decrease in value over time.", "id": "u327", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "17.4.6-8.A Explain the change in value over time of various assets.", "id": "u328", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 15, "col": 10, "x": null, "text": "17.4.9-12.A Calculate a person's net worth given their assets and liabilities.", "id": "u329", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "Saving", "id": "u330", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 4, "x": null, "text": "17.4.K-2.B", "id": "u331", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 6, "x": null, "text": "17.4.3-5.B", "id": "u332", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 8, "x": null, "text": "17.4.6-8.B", "id": "u333", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "17.4.9-12.B", "id": "u334", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 4, "x": null, "text": "Describe reasons people", "id": "u335", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 6, "x": null, "text": "Describe a variety of savings", "id": "u336", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 8, "x": null, "text": "Describe the process of creating,", "id": "u337", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 17, "col": 10, "x": null, "text": "Develop a savings plan for", "id": "u338", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 4, "x": null, "text": "save money for the future", "id": "u339", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 6, "x": null, "text": "goals and the factors that", "id": "u340", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 8, "x": null, "text": "implementing, and adapting a", "id": "u341", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 18, "col": 10, "x": null, "text": "accomplishing personal short-", "id": "u342", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 4, "x": null, "text": "rather than spend it now.", "id": "u343", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 6, "x": null, "text": "influence them.", "id": "u344", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 8, "x": null, "text": "personal savings plan.", "id": "u345", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 19, "col": 10, "x": null, "text": "and long-term financial goals.", "id": "u346", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 4, "x": null, "text": "17.4.K-2.C", "id": "u347", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 6, "x": null, "text": "17.4.3-5.C", "id": "u348", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 8, "x": null, "text": "17.4.6-8.C", "id": "u349", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 20, "col": 10, "x": null, "text": "17.4.9-12.C", "id": "u350", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 21, "col": 4, "x": null, "text": "Identify ways children can", "id": "u351", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 21, "col": 6, "x": null, "text": "Identify reasons people", "id": "u352", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 21, "col": 8, "x": null, "text": "Use different methods and tools", "id": "u353", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 21, "col": 10, "x": null, "text": "Compare the features of various", "id": "u354", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 22, "col": 4, "x": null, "text": "keep their money safe and", "id": "u355", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 22, "col": 6, "x": null, "text": "deposit money to be saved in", "id": "u356", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 22, "col": 8, "x": null, "text": "to calculate the growth in savings", "id": "u357", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 22, "col": 10, "x": null, "text": "savings vehicles (e.g., savings", "id": "u358", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 23, "col": 4, "x": null, "text": "avoid losing it.", "id": "u359", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 23, "col": 6, "x": null, "text": "accounts at financial", "id": "u360", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 23, "col": 8, "x": null, "text": "given various scenarios (e.g.,", "id": "u361", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 23, "col": 10, "x": null, "text": "accounts, certificates of deposit,", "id": "u362", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 24, "col": 6, "x": null, "text": "institutions and factors they", "id": "u363", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 24, "col": 8, "x": null, "text": "simple versus compound interest,", "id": "u364", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 24, "col": 10, "x": null, "text": "money market accounts) and", "id": "u365", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 25, "col": 6, "x": null, "text": "might consider when selecting", "id": "u366", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 25, "col": 8, "x": null, "text": "starting age, years to save, and", "id": "u367", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 25, "col": 10, "x": null, "text": "the interest rates offered by", "id": "u368", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 26, "col": 6, "x": null, "text": "a financial institution.", "id": "u369", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 26, "col": 8, "x": null, "text": "interest rates).", "id": "u370", "furniture": false}
+{"page": 9, "kind": "cell", "table": 1, "row": 26, "col": 10, "x": null, "text": "several institutions.", "id": "u371", "furniture": false}
+{"page": 9, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u372", "furniture": true}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u373", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u374", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u375", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u376", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u377", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "Investing", "id": "u378", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u379", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u380", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.4.6-8.D Describe similarities and differences between saving and investing.", "id": "u381", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.4.9-12.D Explain factors that contribute to rates of return for various investments, including risk, inflation, and taxes.", "id": "u382", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "Intentionally blank", "id": "u383", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "Intentionally blank", "id": "u384", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.4.6-8.E Identify publicly traded companies, the goods and services they produce, and their current stock prices.", "id": "u385", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.4.9-12.E Explain the similarities and differences between stocks, bonds, mutual funds, and exchange-traded funds, and the factors that influence price fluctuations for each.", "id": "u386", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 4, "x": null, "text": "Intentionally blank", "id": "u387", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 6, "x": null, "text": "Intentionally blank", "id": "u388", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "17.4.6-8.F Identify factors influencing investment planning (e.g., age, income, debt, assets, goals, family size, risk tolerance).", "id": "u389", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "17.4.9-12.F Describe factors to consider when selecting sources of investment advice and trading methods (e.g., online trading platforms, financial advisors, robo-advisors).", "id": "u390", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 4, "x": null, "text": "Intentionally blank", "id": "u391", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 6, "x": null, "text": "Intentionally blank", "id": "u392", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "17.4.6-8.G Describe how people make money through investing (e.g., buying low and selling high, earning dividends, buy and hold).", "id": "u393", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "17.4.9-12.G Explain how popular benchmark indices are used.", "id": "u394", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 6, "col": 4, "x": null, "text": "Intentionally blank", "id": "u395", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 6, "col": 6, "x": null, "text": "Intentionally blank", "id": "u396", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 6, "col": 8, "x": null, "text": "Intentionally blank", "id": "u397", "furniture": false}
+{"page": 10, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "17.4.9-12.H Recommend an investment portfolio diversified to meet specific goals, including purpose, starting age, time horizon, and tolerance for risk.", "id": "u398", "furniture": false}
+{"page": 10, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u399", "furniture": true}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u400", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u401", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u402", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u403", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u404", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u405", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "Intentionally blank", "id": "u406", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "Intentionally blank", "id": "u407", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.4.9-12.I Compare retirement-specific investment options, including employer-sponsored plans, Roth and traditional individual retirement accounts, and accounts available to people who are self-employed.", "id": "u408", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "Investing risk tolerance", "id": "u409", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "Intentionally blank", "id": "u410", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "Intentionally blank", "id": "u411", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.4.6-8.J Assess the impact of values and attitudes, including tolerance for risk, on saving and investing decisions.", "id": "u412", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.4.9-12.J Analyze personal attitudes towards risk and how these might impact future investment decisions and outcomes.", "id": "u413", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 4, "x": null, "text": "Intentionally blank", "id": "u414", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 6, "x": null, "text": "Intentionally blank", "id": "u415", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "Intentionally blank", "id": "u416", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "17.4.9-12.K Describe methods to avoid or counteract the potentially negative impacts of behavioral biases (e.g., loss aversion, herding, choice overload) on investment decisions.", "id": "u417", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "5. Risk and Insurance", "id": "u418", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 1, "x": null, "text": "Risk identification and management", "id": "u419", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 4, "x": null, "text": "17.5.K-2.A Identify risks in everyday situations.", "id": "u420", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 6, "x": null, "text": "17.5.3-5.A Describe how unexpected events could impact a person's finances (e.g., floods, automobile accidents, illness).", "id": "u421", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 8, "x": null, "text": "17.5.6-8.A Provide examples of financial risks people face (e.g., losing a job, needing to replace damaged property, paying medical expenses).", "id": "u422", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "17.5.9-12.A Evaluate a person's potential for financial risk (e.g., loss of personal property, reduction in income, liability).", "id": "u423", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 4, "x": null, "text": "17.5.K-2.B Explain ways to avoid or reduce risks.", "id": "u424", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 6, "x": null, "text": "17.5.3-5.B Explain how emergency savings can be used to offset losses from unexpected events.", "id": "u425", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 8, "x": null, "text": "17.5.6-8.B Describe how people manage the risk of financial loss through risk avoidance, reduction, retention, and transfer.", "id": "u426", "furniture": false}
+{"page": 11, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "17.5.9-12.B Critique approaches to avoiding, reducing, retaining, and transferring risk given a particular scenario.", "id": "u427", "furniture": false}
+{"page": 11, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u428", "furniture": true}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u429", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u430", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u431", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u432", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u433", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "Insurance", "id": "u434", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 2, "x": null, "text": "Insurance", "id": "u435", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u436", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "17.5.3-5.C Provide examples of insurance people buy in order to transfer financial risk (e.g., health, auto, flood).", "id": "u437", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.5.6-8.C", "id": "u438", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.5.9-12.C", "id": "u439", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "Compare various types of", "id": "u440", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "Formulate insurance", "id": "u441", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "insurance and what is typically", "id": "u442", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "recommendations based on", "id": "u443", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "covered by each.", "id": "u444", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "individual needs, situations, and", "id": "u445", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "preferences, including but not", "id": "u446", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "limited to automotive,", "id": "u447", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "homeowners, renters, health,", "id": "u448", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "life, and disability, as justified.", "id": "u449", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 4, "x": null, "text": "Intentionally blank", "id": "u450", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 6, "x": null, "text": "Intentionally blank", "id": "u451", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 8, "x": null, "text": "17.5.6-8.D", "id": "u452", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "17.5.9-12.D", "id": "u453", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 11, "col": 8, "x": null, "text": "Describe factors that impact the", "id": "u454", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "Use information from various", "id": "u455", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 12, "col": 8, "x": null, "text": "amount an individual can expect", "id": "u456", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "sources to compare insurance", "id": "u457", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 13, "col": 8, "x": null, "text": "to pay for insurance (e.g.,", "id": "u458", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "providers, plans, and prices.", "id": "u459", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 14, "col": 8, "x": null, "text": "coverage types and amounts, age,", "id": "u460", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "location, driving record).", "id": "u461", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 16, "col": 4, "x": null, "text": "Intentionally blank", "id": "u462", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 16, "col": 6, "x": null, "text": "Intentionally blank", "id": "u463", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 16, "col": 8, "x": null, "text": "17.5.6-8.E", "id": "u464", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "17.5.9-12.E", "id": "u465", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 17, "col": 8, "x": null, "text": "Defend decisions to purchase or", "id": "u466", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 17, "col": 10, "x": null, "text": "Formulate a process of", "id": "u467", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 18, "col": 8, "x": null, "text": "forgo insurance, extended", "id": "u468", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 18, "col": 10, "x": null, "text": "comparing insurance products,", "id": "u469", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 19, "col": 8, "x": null, "text": "warranties, and service contracts.", "id": "u470", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 19, "col": 10, "x": null, "text": "determining out-of-pocket costs,", "id": "u471", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 20, "col": 10, "x": null, "text": "and filing claims.", "id": "u472", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 21, "col": 4, "x": null, "text": "Intentionally blank", "id": "u473", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 21, "col": 6, "x": null, "text": "Intentionally blank", "id": "u474", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 21, "col": 8, "x": null, "text": "17.5.6-8.F", "id": "u475", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 21, "col": 10, "x": null, "text": "17.5.9-12.F", "id": "u476", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 22, "col": 8, "x": null, "text": "Describe how insurance works by", "id": "u477", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 22, "col": 10, "x": null, "text": "Describe circumstances in which", "id": "u478", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 23, "col": 8, "x": null, "text": "pooling the premiums of many", "id": "u479", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 23, "col": 10, "x": null, "text": "a person may be required to", "id": "u480", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 24, "col": 8, "x": null, "text": "policyholders in order to pay for", "id": "u481", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 24, "col": 10, "x": null, "text": "show proof of insurance or obtain", "id": "u482", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 25, "col": 8, "x": null, "text": "claims.", "id": "u483", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 25, "col": 10, "x": null, "text": "a minimum amount of coverage.", "id": "u484", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 26, "col": 4, "x": null, "text": "Intentionally blank", "id": "u485", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 26, "col": 6, "x": null, "text": "Intentionally blank", "id": "u486", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 26, "col": 8, "x": null, "text": "Intentionally blank", "id": "u487", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 26, "col": 10, "x": null, "text": "17.5.9-12.G", "id": "u488", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 27, "col": 10, "x": null, "text": "Evaluate the impact of public", "id": "u489", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 28, "col": 10, "x": null, "text": "insurance programs for", "id": "u490", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 29, "col": 10, "x": null, "text": "individuals facing financial", "id": "u491", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 30, "col": 10, "x": null, "text": "hardship (e.g., Medicare,", "id": "u492", "furniture": false}
+{"page": 12, "kind": "cell", "table": 1, "row": 31, "col": 10, "x": null, "text": "Medicaid, and unemployment).", "id": "u493", "furniture": false}
+{"page": 12, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u494", "furniture": true}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u495", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u496", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u497", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u498", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u499", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 1, "x": null, "text": "Financial fraud and identity theft", "id": "u500", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "17.5.K-2.H Give examples of personal information that should be kept private.", "id": "u501", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "17.5.3-5.H Predict the financial consequences of sharing personal information.", "id": "u502", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.5.6-8.H Describe strategies people can use to protect their personally identifiable information.", "id": "u503", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.5.9-12.H Analyze trends in financial fraud and strategies to avoid becoming a victim.", "id": "u504", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "Intentionally blank", "id": "u505", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "Intentionally blank", "id": "u506", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "Intentionally blank", "id": "u507", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.5.9-12.I Research the agencies individuals can contact and steps they can take to address financial fraud and scams, including identity theft.", "id": "u508", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 4, "col": 2, "x": null, "text": "6. Credit", "id": "u509", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 1, "x": null, "text": "Credit use and benefits", "id": "u510", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 2, "x": null, "text": "Credit use and", "id": "u511", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 4, "x": null, "text": "17.6.K-2.A Describe the process of borrowing items or money from someone else.", "id": "u512", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 6, "x": null, "text": "17.6.3-5.A Identify traits that could impact a person's ability to borrow items or money.", "id": "u513", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "17.6.6-8.A Explain how credit is established and tracked over time for an individual.", "id": "u514", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "17.6.9-12.A Evaluate pathways to obtaining credit and what lenders look for in a borrower (e.g., character, capacity, capital, collateral).", "id": "u515", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 6, "col": 2, "x": null, "text": "benefits", "id": "u516", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 4, "x": null, "text": "Intentionally blank", "id": "u517", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 6, "x": null, "text": "Intentionally blank", "id": "u518", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 8, "x": null, "text": "Intentionally blank", "id": "u519", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "17.6.9-12.B Describe how credit reports and scores are determined, used, and improved.", "id": "u520", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 1, "x": null, "text": "Types of credit", "id": "u521", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 4, "x": null, "text": "Intentionally blank", "id": "u522", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 6, "x": null, "text": "17.6.3-5.C Identify goods and services people often pay for over time using credit.", "id": "u523", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 8, "x": null, "text": "17.6.6-8.C Discuss various forms of credit and their uses (e.g., credit cards, home loans, auto loans, student loans).", "id": "u524", "furniture": false}
+{"page": 13, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "17.6.9-12.C Compare various forms of credit and how each is used (e.g., secured and unsecured loans, installment and revolving credit, service credit).", "id": "u525", "furniture": false}
+{"page": 13, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u526", "furniture": true}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 2, "x": null, "text": "Substrand", "id": "u527", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 4, "x": null, "text": "Kindergarten to Grade 2", "id": "u528", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 6, "x": null, "text": "Grades 3 to 5", "id": "u529", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 8, "x": null, "text": "Grades 6 to 8", "id": "u530", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 1, "col": 10, "x": null, "text": "Grades 9 to 12", "id": "u531", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 2, "col": 4, "x": null, "text": "Intentionally blank", "id": "u532", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 2, "col": 6, "x": null, "text": "17.6.3-5.D Describe how using a credit card is a form of borrowing.", "id": "u533", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 2, "col": 8, "x": null, "text": "17.6.6-8.D Summarize the differences between credit cards and debit cards.", "id": "u534", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 2, "col": 10, "x": null, "text": "17.6.9-12.D Analyze the use of loans to finance higher education and home purchases, how they are obtained, and options for paying them back.", "id": "u535", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 1, "x": null, "text": "Costs of credit", "id": "u536", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 4, "x": null, "text": "17.6.K-2.E Identify potential advantages and disadvantages of borrowing from others.", "id": "u537", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 6, "x": null, "text": "17.6.3-5.E Explain why borrowers might be asked to repay more than they initially borrowed (e.g., interest, fees).", "id": "u538", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 8, "x": null, "text": "17.6.6-8.E", "id": "u539", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 3, "col": 10, "x": null, "text": "17.6.9-12.E", "id": "u540", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 4, "col": 8, "x": null, "text": "Analyze factors that influence the", "id": "u541", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 4, "col": 10, "x": null, "text": "Calculate the total cost of credit", "id": "u542", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 5, "col": 8, "x": null, "text": "total cost of paying with credit,", "id": "u543", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 5, "col": 10, "x": null, "text": "given a variety of situations", "id": "u544", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 6, "col": 8, "x": null, "text": "including interest rates, fees,", "id": "u545", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 6, "col": 10, "x": null, "text": "(e.g., making minimum", "id": "u546", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 7, "col": 8, "x": null, "text": "repayment period, and source of", "id": "u547", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 7, "col": 10, "x": null, "text": "payments, paying fees, using", "id": "u548", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 8, "col": 8, "x": null, "text": "credit.", "id": "u549", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 8, "col": 10, "x": null, "text": "alternative financial service", "id": "u550", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 9, "col": 10, "x": null, "text": "providers).", "id": "u551", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 4, "x": null, "text": "Intentionally blank", "id": "u552", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 6, "x": null, "text": "Intentionally blank", "id": "u553", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 8, "x": null, "text": "17.6.6-8.F", "id": "u554", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 10, "col": 10, "x": null, "text": "17.6.9-12.F", "id": "u555", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 11, "col": 8, "x": null, "text": "Explain why potential borrowers", "id": "u556", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 11, "col": 10, "x": null, "text": "Describe the consequences of", "id": "u557", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 12, "col": 8, "x": null, "text": "could reach different conclusions", "id": "u558", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 12, "col": 10, "x": null, "text": "failing to repay debts and", "id": "u559", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 13, "col": 8, "x": null, "text": "about the use of credit, including", "id": "u560", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 13, "col": 10, "x": null, "text": "sources of debt management", "id": "u561", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 14, "col": 8, "x": null, "text": "how much debt constitutes", "id": "u562", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 14, "col": 10, "x": null, "text": "assistance.", "id": "u563", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 15, "col": 8, "x": null, "text": "overborrowing.", "id": "u564", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 16, "col": 1, "x": null, "text": "Credit rights and responsibilities", "id": "u565", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 16, "col": 4, "x": null, "text": "Intentionally blank", "id": "u566", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 16, "col": 6, "x": null, "text": "Intentionally blank", "id": "u567", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 16, "col": 8, "x": null, "text": "17.6.6-8.G Explain why lenders must provide borrowers with certain information (e.g., interest rates, annual percentage rates, fees, terms, conditions).", "id": "u568", "furniture": false}
+{"page": 14, "kind": "cell", "table": 1, "row": 16, "col": 10, "x": null, "text": "17.6.9-12.G Evaluate various rights and laws related to credit and their impact on consumers.", "id": "u569", "furniture": false}
+{"page": 14, "kind": "text", "table": null, "row": null, "col": null, "x": null, "text": "The Academic Standards for Personal Finance in 22 Pa. Code Chapter 4, Appendix F take effect on July 1, 2026.", "id": "u570", "furniture": true}

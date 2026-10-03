@@ -1,0 +1,934 @@
+=== page 1 === [running header: Voluntary National Content Standards in Economics]
+u2 2nd Edition
+=== page 2 ===
+u3 Voluntary National
+u4 Content Standards
+u5 in Economics
+u6 2nd Edition
+=== page 3 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u7 (x=71) WRITING COMMITTEE John Siegfried, Writing Committee Chair Vanderbilt University
+u8 (x=314) ACKNOWLEDGMENTS Many individuals reviewed the Voluntary National Content Standards in Economics, 2nd Edition. The individuals listed below provided special assistance in helping develop the content of the standards.
+u9 (x=71) Alan Krueger, Writing Committee Co-Chair Through February 2009 Princeton University
+u10 (x=314) Stephen Buckles Vanderbilt University
+u11 (x=71) Susan Collins University of Michigan
+u12 (x=314) Bonnie Meszaros University of Delaware
+u13 (x=71) Robert Frank Cornell University
+u14 (x=314) James O’Neill University of Delaware
+u15 (x=71) Richard MacDonald St. Cloud State University
+u16 (x=314) Robert Strom Ewing Marion Kauffman Foundation
+u17 (x=71) KimMarie McGoldrick University of Richmond
+u18 John Taylor Stanford University
+u19 George Vredeveld University of Cincinnati
+u20 FUNDING The Council for Economic Education gratefully acknowledges the funding of this publication by the United States Department of Education, Office of Innovation and Improvement, Excellence in Economic Education: Advancing K-12 Economic & Financial Education Nationwide grant award U215B050005-08. Any opinions, findings, conclusions, or recommendations expressed in the publication are those of the authors and do not necessarily reflect the view of the U.S. Department of Education.
+u21 Copyright © 2010, Council for Economic Education, 122 East 42 Street, Suite 2600, New York, NY 10168. All rights reserved. The Content Standards and Benchmarks in this document may be reproduced for non-commercial educational and research purposes. Notice of copyright must appear on all pages. Printed in the United States of America.
+u22 (x=70) ISBN 978-1-56183-733-5
+u23 (x=502) 5, 4, 3, 2, 1
+=== page 4 ===
+u26 Contents
+u27 PREFACE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+u28 FOREWORD TO THE FIRST EDITION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
+u29 ADDITIONAL RESOURCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ix
+u30 CONTENT STANDARDS STANDARD 1: SCARCITY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+u31 Productive resources are limited. Therefore, people cannot have all the goods and services they want; as a result, they must choose some things and give up others.
+u32 STANDARD 2: DECISION MAKING. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+u33 Effective decision making requires comparing the additional costs of alternatives with the additional benefits. Many choices involve doing a little more or a little less of something: few choices are “all or nothing” decisions.
+u34 STANDARD 3: ALLOCATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+u35 Different methods can be used to allocate goods and services. People acting individually or collectively must choose which methods to use to allocate different kinds of goods and services.
+u36 STANDARD 4: INCENTIVES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+u37 People usually respond predictably to positive and negative incentives.
+u38 STANDARD 5: TRADE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+u39 Voluntary exchange occurs only when all participating parties expect to gain. This is true for trade among individuals or organizations within a nation, and among individuals or organizations in different nations.
+u40 STANDARD 6: SPECIALIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+u41 When individuals, regions, and nations specialize in what they can produce at the lowest cost and then trade with others, both production and consumption increase.
+u42 STANDARD 7: MARKETS AND PRICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+u43 A market exists when buyers and sellers interact. This interaction determines market prices and thereby allocates scarce goods and services.
+u44 STANDARD 8: ROLE OF PRICES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+u45 Prices send signals and provide incentives to buyers and sellers. When supply or demand changes, market prices adjust, affecting incentives.
+u46 STANDARD 9: COMPETITION AND MARKET STRUCTURE. . . . . . . . . . . . . . . . . . . . . . . . . . 22
+u47 Competition among sellers usually lowers costs and prices, and encourages producers to produce what consumers are willing and able to buy. Competition among buyers increases prices and allocates goods and services to those people who are willing and able to pay the most for them.
+u48 STANDARD 10: INSTITUTIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+u49 Institutions evolve and are created to help individuals and groups accomplish their goals. Banks, labor unions, markets, corporations, legal systems, and not-for-profit organizations are examples of important institutions. A different kind of institution, clearly defined and enforced property rights, is essential to a market economy.
+=== page 5 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u51 STANDARD 11: MONEY AND INFLATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+u52 Money makes it easier to trade, borrow, save, invest, and compare the value of goods and services. The amount of money in the economy affects the overall price level. Inflation is an increase in the overall price level that reduces the value of money.
+u53 STANDARD 12: INTEREST RATES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+u54 Interest rates, adjusted for inflation, rise and fall to balance the amount saved with the amount borrowed, which affects the allocation of scarce resources between present and future uses.
+u55 STANDARD 13: INCOME . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+u56 Income for most people is determined by the market value of the productive resources they sell. What workers earn primarily depends on the market value of what they produce.
+u57 STANDARD 14: ENTREPRENEURSHIP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+u58 Entrepreneurs take on the calculated risk of starting new businesses, either by embarking on new ventures similar to existing ones or by introducing new innovations. Entrepreneurial innovation is an important source of economic growth.
+u59 STANDARD 15: ECONOMIC GROWTH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+u60 Investment in factories, machinery, new technology, and in the health, education, and training of people stimulates economic growth and can raise future standards of living.
+u61 STANDARD 16: ROLE OF GOVERNMENT AND MARKET FAILURE. . . . . . . . . . . . . . . . . . . 38
+u62 There is an economic role for government in a market economy whenever the benefits of a government policy outweigh its costs. Governments often provide for national defense, address environmental concerns, define and protect property rights, and attempt to make markets more competitive. Most government policies also have direct or indirect effects on peoples’ incomes.
+u63 STANDARD 17: GOVERNMENT FAILURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+u64 Costs of government policies sometimes exceed benefits. This may occur because of incentives facing voters, government officials, and government employees, because of actions by special interest groups that can impose costs on the general public, or because social goals other than economic efficiency are being pursued.
+u65 STANDARD 18: ECONOMIC FLUCTUATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+u66 Fluctuations in a nation’s overall levels of income, employment, and prices are determined by the interaction of spending and production decisions made by all households, firms, government agencies, and others in the economy. Recessions occur when overall levels of income and employment decline.
+u67 STANDARD 19: UNEMPLOYMENT AND INFLATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+u68 Unemployment imposes costs on individuals and the overall economy. Inflation, both expected and unexpected, also imposes costs on individuals and the overall economy. Unemployment increases during recessions and decreases during recoveries.
+u69 STANDARD 20: FISCAL AND MONETARY POLICY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+u70 Federal government budgetary policy and the Federal Reserve System’s monetary policy influence the overall levels of employment, output, and prices.
+=== page 6 ===
+u73 Preface
+u74 The Voluntary National Content Standards in Economics was first published by the CEE in 1997 and quickly became an essential tool informing economic education. In 2008, the CEE set out to update the Standards. Financial support for the update was assumed by the CEE and by the U.S. Department of Education, through the Excellence in Economic Education grant program administered by the Department’s Office of Innovation and Improvement. In addition to this financial support, many individuals generously contributed their time to originally produce and update these standards.
+u75 Writing Committee
+u76 In late 2007, the CEE convened a committee to update the Standards. The committee was chaired by Alan Krueger (Princeton University), with John Siegfried (Vanderbilt University) serving as deputy chair. When Krueger joined the U.S. Department of Treasury in early 2009, Siegfried assumed responsibility for completing the update. Other Writing Committee members were Susan Collins (University of Michigan), Robert Frank (Cornell University), Richard MacDonald (St. Cloud State University), KimMarie McGoldrick (University of Richmond), John Taylor (Stanford University), and George Vredeveld (University of Cincinnati).
+u77 The Writing Committee met several times from 2008 through early 2010. In October 2009, a smaller group, consisting of Siegfried, MacDonald, and Vredeveld and supplemented by Stephen Buckles (Vanderbilt University) and Bonnie Meszaros (University of Delaware), spent an intensive three days updating and revising the benchmarks associated with each of the 20 Standards. After circulating a draft of the Standards for public comment in late 2009, the Writing Committee signed off on the final form of 19 of the 20 standards in early 2010. In response to public comment on Standard 14 (Entrepreneurship), the Writing Committee sought additional expertise in revising the standard statement. Robert Strom (Ewing Marion Kauffman Foundation), with help from James O’Neill (University of Delaware), offered revised language for this standard, which the committee accepted with only minor changes.
+u78 The result of this substantial effort is the Voluntary National Content Standards in Economics, 2nd edition. As in the original publication, there are 20 economics content standards. Each standard is an essential principle of economics that an economically literate student should know and a statement of what the student should be able to do with that knowledge at grades 4, 8, and upon graduating from high school. This knowledge includes the most important and enduring ideas, concepts, and issues in economics.
+u79 Benchmarks
+u80 Each standard is accompanied by a rationale for its inclusion. The rationale explains to educators, parents, and citizens why it is essential for students to understand that standard and how the students’ lives and the lives of other citizens improve with that understanding. In addition, each standard also includes a set of benchmarks divided into achievement levels for grades 4, 8, and 12. The benchmarks identify building blocks underlying the principles embedded in the standard. They contain assumptions, intermediate conclusions, and elaborations for each standard. To a large extent, the benchmarks develop the economic reasoning behind the standard. In this way, the standards and benchmarks add up to more than a simple list of “things to know.” As students observe the reasoning process used by economists and practice it themselves, they will acquire analytical skills they can apply to emerging economic issues unforeseen at the time these standards were written.
+u81 Instructional Resources
+u82 The economics content standards can easily be coordinated with instructional resources. For example, content from more than 1,200 active learning lessons from numerous publications are aligned to these standards in the Council for Economic Education’s Virtual Economics instructional resource (see http://ve.councilforeconed. org/). In addition, every lesson found on EconEdLink (www.econedlink.org), the CEE’s curricular website, is
+=== page 7 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u84 also aligned to the standards. Through its long history of producing economic education instructional materials for grades K-12 that are integrated with content standards, the CEE is committed to providing resources for teachers that articulate the goals of economics instruction and provide the means to achieve the goals.
+u85 The standards are primarily conceptual. They generally do not include important basic facts about the American and world economies. The introduction to the standards indicates, however, that students also should know some pertinent facts about the American economy, including its size and the current rates of unemployment, inflation, and interest. Many of the exercises suggested in the benchmarks lead students to acquire such information. The relevant facts students should know about the economy change constantly, however. Conceptual standards, on the other hand, highlight the unique contribution of economics and are enduring principles. They also facilitate an emphasis on economic reasoning, encouraging students to develop the capacity to deduce conclusions from whatever facts are pertinent to the myriad problems they will confront in their lives.
+u86 The Language of Economics
+u87 The standards were written so that parents, teachers, students, and the general public can understand what they mean and what the standards require students to do. Although the nomenclature of economics is avoided in the standards, much of the language of economics, as well as many of the principles of economics, are contained in the benchmarks. Terms such as opportunity cost, marginal cost, transactions costs, comparative advantage, equilibrium, externalities, public goods, and potential gross domestic product appear only in benchmarks. Some other important language of economics, for example, economies of scale and the multiplier, do not appear at all, although those concepts are included in more accessible language.
+u88 Still other common economic concepts that are invariably included in introductory college economics courses are not in the standards at all. These include, for example, income effects, elasticity, absolute advantage, and diminishing marginal returns.
+u89 Before a concept was included in the standards or benchmarks, the Writing Committees working on the first and second editions of the standards asked why it was essential for a high school graduate to understand it. Understanding each standard should be necessary for citizenship, employment, and life-long learning of economics and help a typical high school graduate grapple with the ordinary business of life. When the committee could not explain satisfactorily why the concept was essential, or if there was doubt, especially when the concept is difficult to convey, the concept was excluded.
+u90 Best Scholarship in the Discipline
+u91 The standards attempt to reflect consensus in the discipline. This goal was accomplished by using the majority paradigm, circulating the standards widely, and considering comments and advice from readers of various drafts. The final standards reflect the view of a large majority of economists today in favor of a “neoclassical model” of economic behavior. The Writing Committee’s use of this paradigm does not connote a repudiation of alternatives. Rather, it reflects the assignment to produce a single, coherent set of standards to guide the teaching of economics in America’s schools. Including strongly held minority views of economic processes and concepts would have confused and frustrated teachers and students who would then be left with the responsibility of sorting the qualifications and alternatives without a sufficient foundation to do so.
+u92 The standards are supposed to be correct and to reflect the best scholarship in the discipline. This criterion turned out to be challenging. In areas of controversy — macroeconomics for example — the Writing Committee from the first edition struggled to identify a consensus paradigm. The Writing Committee from the second edition confronted similar challenges.
+u93 More difficult, however, was balancing the trade-off between accuracy and parsimony. Almost all economics principles are conditioned on assumptions. To report all of those assumptions each time would detract from the effectiveness of the standards, leaving readers with the responsibility of distinguishing the principle from the assumptions. So, in numerous cases, without specifying all of the required assumptions, standards and benchmarks imply as always true principles that are widely agreed to be true most, but not all, of the time.
+=== page 8 ===
+u96 Fundamental Economic Ideas and Concepts
+u97 The standards focus on the more fundamental economic ideas and concepts that are widely shared by professional economists. Some very important aspects of economics are either quite complex or so controversial that there seems to be no existing consensus. In spite of their importance, such complex or controversial aspects of economics receive less attention in the standards for pedagogical reasons. In addition, those aspects of economics that are more easily separated into independent components account for more of the standards. For these reasons, there are relatively more standards about microeconomics than macroeconomics. The individual macroeconomics standards, however, are quite significant for the many citizenship, employment, and financial decisions a typical high school graduate will confront during his or her lifetime.
+u98 These national content standards for pre-college economics education make it easier to incorporate the powerful fundamental principles of economics into elementary and secondary school curricula. They are offered as a resource for states and local school districts, for individual schools, and for teachers, who are responsible for specifying and integrating the curriculum into their schools.
+u99 Highlighted Differences from the First Edition
+u100 The changes found in the second edition of these standards are too numerous to itemize, but some highlights include the inclusion of concepts that were missing from the original edition. Concepts of discounting and compounding are now found in standards 2, 12, and 15. Also new are more explicit consideration of the role of the income and wealth distributions in the economy and increasingly frequent observations by behavioral economists of some predictable patterns of producer and consumer behavior that contradict the traditional paradigm of rational wealth maximizing individuals. Benchmarks on modern instruments of monetary policy and a greater emphasis on economic fluctuations are found in the second edition.
+u101 Information about inflation now appears in several standards (including those on money, economic fluctuations, unemployment and inflation, and fiscal and monetary policy). Standard 14 on entrepreneurship has been revised substantially to reflect current scholarship in this area. In some cases, the Writing Committee found it difficult to capture ideas in the simple form of benchmark statements. To elaborate on these ideas, the committee created enhancement boxes to accompany the benchmarks. For example, enhancement boxes on opportunity cost, altruism, discounting, moral hazard, and compound growth can be found in this second edition. The Writing Committee used these enhancement boxes in those cases in which it wished to elaborate on economic processes and concepts. The economic topics found in the enhancement boxes are not intended to be treated with more importance than other topics for which a box is not provided.
+u102 Many benchmark statements have been consolidated in this second edition. Others were removed. Still others were added. Some benchmarks have been reworded and some have moved to different grade bands. In addition, all statements relating to how students should be able to use the knowledge found in the benchmarks were carefully scrutinized for their current relevance. Many of these statements have been revised. In other cases, the committee simply accepted entirely new language on these examples of how students can demonstrate knowledge of benchmark statements.
+u103 Other than the changes noted above, the 20 standard statements themselves are little changed. The Writing Committee set a high threshold for decisions to change these statements and, for the most part, it was concluded that the statements have withstood the test of time. Of course, the rationale for the standard statements has been changed to reflect contemporary examples. Most of the changes found in this second edition appear in the benchmarks and activities designed for students to demonstrate understanding of the benchmarks.
+u104 Final Words
+u105 Since their original publication in 1997, the Voluntary National Content Standards in Economics have informed educational practices across a variety of settings. The copies of textbooks that instructors use are often annotated by their alignment to the standards. Assessments (such as the National Assessment of
+=== page 9 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u107 Educational Progress Economics 2006 assessment of high school seniors) draw heavily on the content found in these national standards. State authorities have used the national standards in designing their state’s educational requirements. Curriculum writers have used the standards throughout their creative work. Researchers have used the standards in designing an intellectual framework for their studies. In short, the Voluntary National Content Standards in Economics have become an indispensable element of any informed undertaking that involves K-12 economic education.
+u108 John J. Siegfried Vanderbilt University February 2010
+=== page 10 ===
+u111 Foreword to the First Edition
+u112 The purpose of the Voluntary National Content Standards in Economics is to help raise the quality of economic education in America’s schools.
+u113 Standards in economics are for students entering a complex global economy, so that they may fully and effectively participate in it. The standards are the result of more than a decade of general concern on the part of educators and other citizens regarding educational reform in the United States. The standards are benchmarks, guides, and concepts that foster and fortify incremental learning experiences. Standards are not hurdles to be overcome. They are signposts to point the way to economic literacy, not to circumscribe it.
+u114 The Voluntary National Content Standards in Economics provide a tool for educators, specifying what students, kindergarten through grade 12, should learn about basic economics and the economy as they go through school, so that they will be better-informed workers, consumers and producers, savers and investors, and most important, citizens.
+u115 The fact that economics is one of nine subject areas in the Goals 2000: Educate America Act of 1994 demonstrates its importance as a core subject in American schools. The standards are designed purposefully to advance economic literacy, which is critically important for the future of our students who are our future.
+u116 There are four attributes of these standards in economics for readers and users to keep in mind:
+u117 First, the standards are written for teachers; they have instructional value.
+u118 Second, the standards are written for teachers to use in practice; they outline benchmarks, guides to application, and teaching suggestions and strategies, in the belief that all students can learn and that learning principles of economics can be enjoyable, not dismal.
+u119 Third, the standards are written for teachers to use to help students learn crucial reasoning and decision-making skills that will serve them well all of their lives, in all of the many roles that they may play as responsible and effective participants in the American economic system.
+u120 Fourth, the standards are well-written and clear, benefiting from the insights and critiques of numerous educators and economists across the nation; they are a high-quality product — that is, made to serve their purpose, made to last, and made with distinction.
+u121 The standards in economics are commended to all who see measures of attainable knowledge as important to the growth of individuals and the health of society and who believe with Jefferson that an educated and literate — and, we would now add, economically literate — citizenry is essential for democracy to survive and to thrive.
+u122 Council for Economic Education
+u123 Additional Resources
+u124 On the Web
+u125 For more information on lessons and other educational resources that can be used in standards-based economics instruction in your classroom, go to the Virtual Economics website at http://ve.councilforeconed.org and EconEdLink at www.econedlink.org. A web-based version of the National Content Standards in Economics, 2nd edition is available at www.councilforeconed.org/standards.
+=== page 11 === [running header: Benchmarks: Grade 4 | Voluntary National Content Standards IN ECONOMICS]
+u127 Content Standard 1: Scarcity
+u128 Students will understand that: Productive resources are limited. Therefore, people can not have all the goods and services they want; as a result, they must choose some things and give up others.
+u129 Students will be able to use this knowledge to: Identify what they gain and what they give up when they make choices.
+u130 Students face many choices every day. Is playing video games the best use of their time? Is working at a fast-food restaurant better than the best alternative job or some other use of their time? Identifying and systematically comparing alternatives enables people to make more informed decisions and to recognize often overlooked relevant consequences of choices they or others make.
+u131 Some students believe that they can have all the goods and services they want from their family or from the government because goods provided by family or by governments are free. But this view is mistaken. Resources have alternative uses, even if parents or governments own them. For example, if a city uses land to build a football stadium, the best alternative use of that land must be given up. If additional funds are budgeted for police patrols, less money is available to hire more teachers. Explicitly comparing the value of alternative opportunities that are sacrificed in any choice enables citizens and their political representatives to weigh the alternatives in order to make better economic decisions. This analysis also makes people aware of the consequences of their actions for themselves and others, and could lead to a heightened sense of responsibility and accountability.
+u133 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u134 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u135 [T1 R2 C1] 1. People make choices because they can’t have everything they want.
+u136 [T1 R2 C2] 1. Identify some choices they have made and explain why they had to make a choice.
+u137 [T1 R3 C1] 2. Economic wants are desires that can be satisfied by consuming a good (an object), a service (an action), or a leisure activity.
+u138 [T1 R3 C2] 2. Match a list of wants with the correct example of a good, service or leisure activity that satisfies each want.
+u139 [T1 R4 C1] 3. People’s choices about what goods and services to buy and consume determine how resources will be used.
+u140 [T1 R4 C2] 3. Explain why a choice must be made, when a land owner has alternative uses for the property.
+u141 [T1 R5 C1] 4. Whenever a choice is made, something is given up because resources are limited.
+u142 [T1 R5 C2] 4. From a list of four toys, ask students to rank order their preferences, state their first choice and identify the second toy as what is given up.
+u143 [T1 R6 C1] 5. The opportunity cost of an activity is the value of the best alternative that would have been chosen instead. It includes what would have been done with the money spent and the time and other resources used in undertaking the activity.
+u144 [T1 R6 C2] 5. Describe a situation that requires a choice, make a decision, and identify the opportunity cost.
+=== page 12 ===
+u147 [T1 R1 C2] 6. Productive resources are the natural resources, human resources, and capital goods available to make goods and services.
+u148 [T1 R1 C3] 6. Identify examples of natural resources, human resources, and capital goods.
+u149 [T1 R2 C2] 7. Natural resources, such as land, are “gifts of na- ture;” they are present without human intervention.
+u150 [T1 R2 C3] 7. Use a resource map of a state to locate examples of natural resources.
+u151 [T1 R3 C2] 8. Human resources are the people who do the mental and physical work to produce goods and services.
+u152 [T1 R3 C3] 8. Draw pictures representing themselves as pro- ducers. Also, identify examples of human resources used in the production of education at their school.
+u153 [T1 R4 C2] 9. Capital goods are goods that are produced and used to make other goods and services.
+u154 [T1 R4 C3] 9. Draw a picture representing a capital good used at school. Also, identify examples of capital goods used to produce a good or service in their community.
+u155 [T1 R5 C2] 10. Human capital refers to the quality of labor resources, which can be improved through invest- ments in education, training, and health.
+u156 [T1 R5 C3] 10. Give examples of how to improve their human capital. Explain how a teacher invests in his or her human capital.
+u157 [T1 R6 C1] 11. Most people produce and consume. As producers they help make goods and services; As consumers they use goods and services to satisfy their wants.
+u158 [T1 R6 C2] 11. Most people produce and consume. As producers they help make goods and services; As consumers they use goods and services to satisfy their wants.
+u159 [T1 R6 C3] 11. Identify people who are consumers and provide examples in which students were consumers of goods and services. Identify people who are producers and provide examples of situations in which students helped produce goods and services.
+u160 ENHANCEMENT BOX
+u161 OPPORTUNITY COST
+u162 To evaluate the opportunity cost associated with making a choice, identify what would have been gained if the best alternative use of the resources, including time,
+u163 (x=155) had been undertaken. When a student chooses to attend a theatrical event, the student not only gives up the use of the money spent to purchase the admission ticket but the student also gives up the time spent at the play. If that time would have been spent babysitting, the opportunity cost is the value of the price of the
+u164 (x=220) ticket and the money not earned in babysitting.
+u165 The alternative use for resources also depends on the context in which the choice is being made. For example, a choice to attend school may have an opportunity cost of
+u166 the wages that would be earned if a student entered the workforce instead. But, in a period of high unemployment (when students may have little else to do), the choice
+u167 to attend school may have an opportunity cost of spending time with friends.
+u169 (x=220) Content Standard 1: Scarcity
+=== page 13 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u171 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u172 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u173 [T1 R2 C1] 1. Scarcity is the condition of not being able to have all of the goods and services that one wants. It exists because human wants for goods and services exceed the quantity of goods and services that can be produced using all available resources. Scarcity is experienced by individuals, governments, and societies.
+u174 [T1 R2 C2] 1. Role play a city council meeting called to allocate a budget of $100,000. The council would like to buy four new police cars at $25,000 each and repair two senior citizen centers at $50,000 each. Explain why a choice must be made, decide how the city council should allocate the money in its budget, describe the trade-offs made, and identify the opportunity cost of the decision.
+u175 [T1 R3 C1] 2. Making good choices should involve trading off the expected value of one opportunity against the expected value of its best alternative.
+u176 [T1 R3 C2] 2. Determine criteria for selecting a phone and identify the trade-offs made when selecting one phone over another.
+u177 [T1 R4 C1] 3. The choices people make have both present and future consequences.
+u178 [T1 R4 C2] 3. Analyze the consequences of choosing to quit school and identify when those consequences occur.
+u179 [T1 R5 C1] 4. The evaluation of choices and opportunity costs is subjective; such evaluations differ across individuals and societies.
+u180 [T1 R5 C2] 4. Individually compare solutions to a common problem, such as where to go on a class trip, and explain why solutions and opportunity costs differ among students.
+u182 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u183 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u184 [T2 R2 C1] 1. Choices made by individuals, frims, or government officials are constrained by the resources to which they have access.
+u185 [T2 R2 C2] 1. Compare the choices available to high school seniors from families with different income levels. Explain how choices will affect the students’ lifetime income.
+u186 [T2 R3 C1] 2. Choices made by individuals, firms, or government offciials often have long run unintended consequences that can partially or entirely offset or supplement the initial effects of the decision.
+u187 [T2 R3 C2] 2. Explain how a high school senior’s decision to work 20 hours per week during the school year could reduce her lifetime income. Also, explain why new highway construction may not reduce highway congestion.
+=== page 14 === [running header: Benchmarks: Grade 4]
+u190 Content Standard 2: Decision Making
+u191 Students will understand that: Effective decision making requires comparing the additional costs of alternatives with the additional benefits. Many choices involve doing a little more or a little less of something: few choices are “all or nothing” decisions.
+u192 Students will be able to use this knowledge to: Make effective decisions as consumers, producers, savers, investors, and citizens.
+u193 To make decisions that provide the greatest possible return from the resources available, people and organizations must weigh the benefits and costs of using their resources to do more of some things, and less of others. For example, to use their time effectively, students must weigh the additional benefits and costs of spending another hour studying economics rather than listening to music or talking with friends. School officials must decide whether to use some of their funds to buy more books for the library, more helmets for the football team, or more equipment for teachers to use in their classrooms. Company managers and directors must choose which products to make and whether to increase or decrease the amount they produce. The President, Congress, and other government officials must decide which public spending programs to increase, and which to decrease.
+u194 Focusing on changes in benefits and comparing them to changes in costs is a way of thinking that distinguishes economics from most social sciences. In applying this approach, students should realize that it is impossible to alter how resources were used in the past. Instead, past decisions only establish the starting points for current decisions about whether to increase, decrease, or leave unchanged resource levels devoted to different activities.
+u196 [T1 R1 C2] At the completion of Grade 4, students will know that:
+u197 [T1 R1 C3] At the completion of Grade 4, students will use this knowledge to:
+u198 [T1 R2 C2] 1. Choices involve getting more of one thing by giving up something else.
+u199 [T1 R2 C3] 1. Analyze how to divide their time on a Saturday afternoon when the possibilities are raking leaves to earn money, going to a movie with friends, and shopping at the mall with their aunt. Students will identify the possible uses of their time and explain how it could be an “all-or-nothing” decision or a decision to do a little more of one activity and a little less of another.
+u200 [T1 R3 C2] 2. A cost is what you give up when you decide to do something. A benefit is what satisfies your wants.
+u201 [T1 R3 C3] 2. List the costs (what you give up) and benefits of buying a pet.
+u203 (x=185) Content Standard 2: Decision making
+=== page 15 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u205 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u206 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u207 [T1 R2 C1] 1. To determine the best level of consumption of a product, people must compare the additional benefits with the additional costs of consuming a little more or a little less.
+u208 [T1 R2 C2] 1. Solve the following problem: Your grandmother gives you $30 for your birthday and you are trying to decide how to spend it. You are considering buying t-shirts ($15 each), going to the movies ($10 per ticket), or taking some friends out for pizza ($7.50 per person). You do not have to spend all your money on one thing. You can use some money for one thing, and some for another. How would you spend your money to get the greatest satisfaction?
+u209 [T1 R3 C1] 2. Marginal benefit is the change in total benefit resulting from an action. Marginal cost is the change in total cost resulting from an action.
+u210 [T1 R3 C2] 2. Identify the marginal benefit of buying and consuming additional granola bars. Contrast this with the marginal cost of acquiring additional granola bars.
+u211 [T1 R4 C1] 3. As long as the marginal benefit of an activity exceeds the marginal cost, people are better off doing more of it; if the marginal cost exceeds the marginal benefit, they are better off doing less of it.
+u212 [T1 R4 C2] 3. Apply the concepts of marginal benefit and marginal cost to reducing pollution.
+u213 [T1 R5 C1] 4. Many people have a tendency to be impatient, choosing immediate consumption over saving for the future.
+u214 [T1 R5 C2] 4. Explain the benefits of having saved an allowance for an extended period.
+u216 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u217 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u218 [T2 R2 C1] 1. To produce the profit-maximizing level of output and hire the optimal number of workers, and other resources, producers must compare the marginal benefits and marginal costs of producing a little more with the marginal benefits and marginal costs of producing a little less.
+u219 [T2 R2 C2] 1. Decide how many workers to hire for a profit- maximizing car wash by comparing the cost of hiring each additional worker to the additional rev- enues derived from hiring each additional worker.
+u220 [T2 R3 C1] 2. To determine the optimal level of a public policy program, voters and government officials must compare the marginal benefits and marginal costs of providing a little more or a little less of the program’s services.
+u221 [T2 R3 C2] 2. Use the concepts of marginal cost and marginal benefit to evaluate proposals for making your school building more attractive; select the best proposal and defend your decision.
+u222 [T2 R4 C1] 3. To compare marginal benefits with marginal costs that are realized at different times, benefits and costs must be adjusted to reflect their values at the time a decision is made about them. The adjustment reflects expected returns to investment compounded over time.
+u223 [T2 R4 C2] 3. Discuss how a business might evaluate an investment decision that costs $10,000 today and returns $12,000 one year from now.
+=== page 16 ===
+u226 [T1 R2 C2] 4. Costs that have already been incurred and benefits that have already been received are sunk and irrelevant for decisions about the future.
+u227 [T1 R2 C3] 4. Explain why the fact that you lost your first tic to an upcoming concert is irrelevant to whether should purchase a replacement. Explain why so people would consider the cost of the lost ticket deciding whether to purchase another ticket eve they had the money to do so.
+u228 [T1 R2 C4] ket you me in n if
+u229 [T1 R3 C1] e
+u230 [T1 R3 C2] 5. People sometimes fail to treat gains and losses qually, placing extra emphasis on losses.
+u231 [T1 R3 C3] 5. Explain why some people might treat $100 fo on the street differently than $100 that has been lost out of one’s pocket.
+u232 [T1 R3 C4] und
+u233 [T1 R4 C1] t t c n
+u234 [T1 R4 C2] 6. Some decisions involve taking risks in that either he benefits or the costs could be uncertain. Risk aking carries a cost. When risk is present, the osts should be treated as higher than when risk is ot present.
+u235 [T1 R4 C3] 6. Explain why an investment that pays a guaran $1,000 a year, is more desirable for most peop than an investment that pays $2,000 a year wit 50% chance and $0 with a 50% chance.
+u236 [T1 R4 C4] teed le h a
+u237 [T1 R5 C2] 7. Risk can be reduced by diversification.
+u238 [T1 R5 C3] 7. Explain why mutual funds have become a popular investment tool. Explain why it might make sense for someone who sells umbrellas to also sell suntan lotion.
+u239 [T1 R7 C2] ENHANCEMENT BOX COMPOUND INTEREST AND THE “RULE OF 72” Teh beneftis of making a long-term commitment to saving by delaying consumption are most evident when considering compound interest. Albert Einstein once stated “the most powerful force in the universe is compound interest.” Compound interest is interest that is earned not only on the principal amount invested, but also on interest already earned. Consider a one-time investment of $2,000 that earns an annual rate of return of 6 percent over a 45 year period (this is the number of years that a 22 year old college graduate will be in the work force before reaching a “normal” retirement age of 67). At the end of this 45 year period, this $2,000 initial investment will be worth $27,529 [calculated as $2,000 (1 + .06)45]. One important lesson of compound interest is to try to save early in life to take advantage of accumulations that arise from compounding. Teh “Rule of 72” is a useful tool that can be used to understand compounding. Dividing 72 by the rate of interest (expressed in percentage terms) approximates the number of years that it takes an amount to double in size. So, an investment that is earning 8% will double in size in approximately 9 years, while an investment that earns 4% will take about 18 years to double in size.
+u241 (x=185) Content Standard 2: Decision making
+=== page 17 === [running header: Benchmarks: Grade 4 | Voluntary National Content Standards IN ECONOMICS]
+u242 Content Standard 3: Allocation
+u243 Students will understand that: Different methods can be used to allocate goods and services. People acting individually or collectively must choose which methods to use to allocate different kinds of goods and services.
+u244 Students will be able to use this knowledge to: Evaluate different methods of allocating goods and services, by comparing the benefits to the costs of each method.
+u245 Individuals and organizations routinely use different decision-making systems to determine what should be produced, how it should be produced, and who will consume it. Most high school students already understand the major advantages and disadvantages of selling concert tickets using a first-come/first- served system, rather than a lottery to select from among those who applied for tickets. Unfortunately, many students have experienced the use of force to allocate resources on the school playground. Students also know that families typically use authoritarian systems to decide how resources are used — Mom and Dad decide.
+u246 The American economy uses a market system to make many allocation decisions, and it is important for students to understand why the market system is used so extensively. Students also should be able to compare the characteristics of a market system with alternatives used more extensively in some other countries. With this understanding, students can assess the benefits and costs of alternative allocation systems when discussing difficult questions such as how incomes should be divided among people or who should receive a kidney transplant and who should not.
+u248 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u249 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u250 [T1 R2 C1] 1. No method of distributing goods and services can satisfy all wants.
+u251 [T1 R2 C2] 1. Define different ways of allocating student time on classroom computers, identify who gains and who loses with each distribution method, and conclude that no distribution method satisfies all wants.
+u252 [T1 R3 C1] 2. There are different ways to distribute goods and services (by prices, command, majority rule, contests, force, frist-come/frist-served, sharing equally, lottery, personal characteristics, and others), and there are advantages and disadvantages to each.
+u253 [T1 R3 C2] 2. Compare the advantages and disadvantages of different methods of allocating various goods and services, such as cookies, student time on playground equipment during recess, elective class offices, and athletic championships.
+u254 At the completion of Grade 8, students will
+=== page 18 ===
+u257 [T1 R1 C2] enchmarks: Grade 8
+u258 [T1 R2 C2] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u259 [T1 R2 C3] At the completion of Grade 8, students will use this knowledge to:
+u260 [T1 R3 C2] 1. Scarcity requires the use of some distribution method to allocate goods, services, and resources, whether the method is selected explicitly or not.
+u261 [T1 R3 C3] 1. Describe the distribution methods used to allocate a variety of goods, services, and resources such as, parking spaces, access to a new drug treatment for cancer, seats on a bus, milk, and tickets to a popular art exhibit. Then explain why a distribution method is necessary.
+u262 [T1 R4 C2] 2. There are essential differences between a market economy, in which allocations result from individuals making decisions as buyers and sellers, and a command economy, in which resources are allocated according to central authority.
+u263 [T1 R4 C3] 2. Compare the methods used to allocate work responsibilities in homes with those used to allocate work responsibilities in business. Also, compare the advantages and disadvantages of various allocation systems using as criteria broad social goals such as freedom, efficiency, fairness, and growth.
+u264 [T1 R5 C2] 3. People in all economies must address three ques- tions: What goods and services will be produced? How will these goods and services be produced? Who will consume them?
+u265 [T1 R5 C3] 3. Answer the three economic questions while producing a simple classroom product.
+u266 [T1 R6 C2] 4. National economies vary in the extent to which they rely on government directives (central planning) and signals (prices) from private markets to allocate scarce goods, services, and productive resources.
+u267 [T1 R6 C3] 4. Compare the predominance of different types of allocation methods in several countries, such as North Korea, China, Singapore, and the United States. Repeat the exercise for a single country over time.
+u268 [T1 R7 C2] 5. As consumers, people use resources in different ways to satisfy different wants. Productive resources can be used in different ways to produce different goods and services.
+u269 [T1 R7 C3] 5. List the resources used to produce some item and identify other items that could have been made from these resources. Repeat the exercise for household production.
+u270 [T1 R8 C2] enchmarks: Grade 12
+u271 [T1 R8 C3] At the completion of Grade 12, students will use this knowledge to: 1. Examine various allocation methods that are used in different countries, to solve a particular problem, and select the one that provides the most effective method for allocating resources, and explain why this method is effective. Also, assess the effectiveness of various methods for allocating organ transplants, hunting and fishing licenses, elective offices, time with a parent, education resources, health care, and military service.
+u272 [T1 R9 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u273 [T1 R9 C3] At the completion of Grade 12, students will use this knowledge to:
+u274 [T1 R10 C2] 1. Comparing the benefits and costs of different allocation methods in order to choose the method that is most appropriate for some specific problem can result in more effective allocations and a more effective overall allocation system.
+u275 [T1 R10 C3] 1. Examine various allocation methods that are used in different countries, to solve a particular problem, and select the one that provides the most effective method for allocating resources, and explain why this method is effective. Also, assess the effectiveness of various methods for allocating organ transplants, hunting and fishing licenses, elective offices, time with a parent, education resources, health care, and military service.
+u276 [T1 R11 C2] 2. Changing the distribution of income or wealth will cause the allocation of resources to change.
+u277 [T1 R11 C3] 2. Explain how raising the Social Security tax on workers in order to pay higher benefits to retirees causes the allocation of resources to change.
+u279 (x=211) Content Standard 3: Allocation
+=== page 19 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u280 Content Standard 4: Incentives
+u281 Students will understand that: People usually respond predictably to positive and negative incentives.
+u282 Students will be able to use this knowledge to: Identify incentives that affect people’s behavior and explain how incentives affect their own behavior.
+u283 Economic incentives are the additional rewards or penalties people receive from engaging in more or less of a particular activity. Understanding rewards and penalties helps people to make the choices they need to make in order to achieve their goals. Prices, wages, profits, subsidies, and taxes are common economic incentives. Subsidizing an activity usually leads to more of it being provided; taxing or penalizing an activity usually leads to less of it being provided.
+u284 People frequently have good reasons to influence the behavior of others. For example, businesses try to encourage people to buy more of their products, workers try to persuade employers to hire them and to pay them higher wages, and governments try to induce the production and consumption of some products and discourage the production and consumption of others. To understand or predict behavior of people or organizations, students must understand the economic incentives these people or organizations face.
+u285 ENHANCEMENT BOX
+u286 BEHAVIORAL ECONOMICS
+u287 An evolving branch of economic thought merges economics with psychology to
+u288 reconsider predictions of economic models on topics such as how individuals respond to economic incentives. While people usually respond to incentives in ways predicted by standard economic theory, behavioral research suggests there can be deviations from strict patterns of rational behavior. Benchmarks reflecting
+u289 propositions from behavioral economics can be found in Standard 2 (see benchmarks on impatience and on the values placed on gains and losses)
+u290 and Standard 4 (see benchmark on fair treatment).
+=== page 20 ===
+u293 [T1 R1 C1] enchmarks: Grade 4 At the completion of Grade 4, students will know that: 1. Rewards are positive incentives that make people better off.
+u294 [T1 R2 C2] At the completion of Grade 4, students will know that:
+u295 [T1 R2 C3] At the completion of Grade 4, students will use this knowledge to:
+u296 [T1 R3 C2] 1. Rewards are positive incentives that make people better off.
+u297 [T1 R3 C3] 1. List examples of rewards that are incentives for positive classroom behavior.
+u298 [T1 R4 C2] 2. Penalties are negative incentives that make people worse off.
+u299 [T1 R4 C3] 2. List examples of penalties or negative incentives that discourage inappropriate behavior at home.
+u300 [T1 R5 C2] 3. Both positive and negative incentives affect people’s choices and behavior.
+u301 [T1 R5 C3] 3. Identify examples of how positive and negative incentives affect behavior.
+u302 [T1 R6 C2] 4. People’s views of rewards and penalties differ because people have different values. Therefore, an incentive can influence different individuals in different ways.
+u303 [T1 R6 C3] 4. Identify the incentives that would encourage them to read a book, to return their library books on time, to repay money they borrow from the school cafeteria for lunch, and to complete their homework assignments on time; explain why various students respond differently to incentives to do these things. Also, explain why some students will do extra-credit work and some will not.
+u304 ENHANCEMENT BOX
+u305 ALTRUISM
+u306 An important part of economic understanding is a recognition that people respond
+u307 to incentives, both costs and benefits. Behaving in a manner which is consistent
+u308 with self-interest does not imply that people always act selfishly.
+u309 Many people behave in ways which are motivated by the interests of others or of society. Such altruistic behaviors are often grounded in familial relationships,
+u310 such as when a parent rises in the middle of the night to feed a crying baby.
+u311 Social norms may promote altruistic behavior among unrelated persons,
+u312 such as when individuals perform volunteer activities.
+u313 Even in these instances, seemingly altruistic behavior may be motivated by the expectations of feeling good about one’s self or deeds. If that is the case, the expected
+u314 benefits may be greater than the expected costs and thus explain the behavior.
+u316 (x=215) Content Standard 4: Incentives
+=== page 21 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u318 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u319 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u320 [T1 R2 C1] 1. Responses to incentives are usually predictable because people normally pursue their self-interest or deviate from their self-interest in consistent ways.
+u321 [T1 R2 C2] 1. Explain why they would be willing to shovel snow when temperatures are below freezing, mow lawns when their friends are going to a movie, or babysit on a weekend evening instead of spending time hanging out with friends.
+u322 [T1 R3 C1] 2. Changes in incentives usually cause people to change their behavior in predictable ways.
+u323 [T1 R3 C2] 2. Predict how students’ study habits will change if the grading system changes from letter grades to satisfactory/unsatisfactory grading or no grades.
+u324 [T1 R4 C1] 3. Incentives can be monetary or non-monetary, or both.
+u325 [T1 R4 C2] 3. Identify the monetary and non-monetary incentives related to taking a driver’s education class, completing chores at home, taking a part time job, and obeying traffic laws.
+u327 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u328 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u329 [T2 R2 C1] 1. Acting as consumers, producers, workers, savers, investors, and citizens, people respond to incentives in order to allocate their scarce resources in ways that provide them the highest possible net benefits.
+u330 [T2 R2 C2] 1. Analyze competing viewpoints about the impact (on consumers, producers, workers, savers, and investors) of an increase in the minimum wage, a new tax policy, and a change in interest rates.
+u331 [T2 R3 C1] 2. Decision-making in small and large firms, labor unions, educational institutions, and not-for-profit organizations has different goals and faces different rules and constraints. These goals, rules, and constraints influence the benefits and costs of those who work with or for those organizations, and, therefore, their behavior.
+u332 [T2 R3 C2] 2. Compare and contrast the incentives an individual might face in serving as an elected official, the owner of a small business, the president of a large company, and the director of a local United Way office in the aftermath of hurricane devastation.
+u333 [T2 R4 C1] 3. People tend to respond to fair treatment with fair treatment, and to unfair treatment with retaliation, even when such reactions may not maximize their material wealth.
+u334 [T2 R4 C2] 3. Provide an example of when they declined to participate in an activity in which they would otherwise have participated because they thought they had been treated unfairly.
+=== page 22 === [running header: Benchmarks: Grade 4]
+u337 Content Standard 5: Trade
+u338 Students will understand that: Voluntary exchange occurs only when all participating parties expect to gain. This is true for trade among individuals or organizations within a nation, and among individuals or organizations in different nations.
+u339 Students will be able to use this knowledge to: Negotiate exchanges and identify the gains to themselves and others. Compare the benefits and costs of policies that alter trade barriers between nations, such as tariffs and quotas.
+u340 As a result of their competitive experiences in sports and games, students usually have learned to expect that, in most contests when one person or team wins, another person or team must lose. Voluntary exchanges, on the other hand, are cooperative activities in which both sides expect to gain, and both usually do. Because all of the parties to a voluntary exchange expect to gain from trade, institutions that make trading easier usually improve social welfare.
+u341 Understanding the win-win nature of voluntary exchange helps students learn that people and organizations trade with one another only when each party offers something that the other party values more than whatever he or she has to trade. For example, an employer will hire a student at a wage rate of $8 per hour only if the employer expects to receive labor services from the student that are worth at least that much. And the student will voluntarily work for $8 per hour only if the student values the $8 more than the best alternative use of his or her time. The principle that voluntary trade can improve each participant’s situation applies to all voluntary exchanges, including trade between people or organizations in different parts of the same country, or among people or organizations in different countries.
+u343 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u344 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u345 [T1 R2 C1] 1. Exchange is trading goods and services with people for other goods and services (called barter) or for money.
+u346 [T1 R2 C2] 1. Identify exchanges they have made and tell whether they were monetary or barter exchanges.
+u347 [T1 R3 C1] 2. The oldest form of exchange is barter, the direct trading of goods and services between people.
+u348 [T1 R3 C2] 2. Identify current and historical examples of barter exchanges.
+u349 [T1 R4 C1] 3. People voluntarily exchange goods and ser- vices because they expect to be better off after the exchange. This also may include the more informal exchanges of favors and courtesies.
+u350 [T1 R4 C2] 3. Describe a trade they have made, such as one with baseball cards, stickers, or lunch desserts, and explain why they agreed to trade.
+u352 (x=228) Content Standard 5: Trade
+=== page 23 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u354 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u355 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u356 [T1 R2 C1] 1. When people buy something, they value it more than it costs them; when people sell something, they value it less than the payment they receive.
+u357 [T1 R2 C2] 1. Describe recent monetary transactions they have made as buyer or sellers. Explain why they were willing to trade.
+u358 [T1 R3 C1] 2. Free trade increases worldwide material standards of living.
+u359 [T1 R3 C2] 2. Identify the net benefits when a trade barrier such as sugar or automobile import quotas is eliminated.
+u360 [T1 R4 C1] 3. The gains from free trade are not distributed equally, and some individuals or groups may lose more than they gain when trade barriers are reduced.
+u361 [T1 R4 C2] 3. Explain how free trade in the automobile industry makes consumers better off while some auto work- ers lose their jobs.
+u362 [T1 R5 C1] 4. Despite the mutual benefits from trade among people in different countries, many nations employ trade barriers to restrict free trade for national defense reasons, to protect key industries, or because some companies and workers are hurt by free trade.
+u363 [T1 R5 C2] 4. Look at historical examples of periods when the United States has imposed trade barriers and ex- plain why the U.S. government would impose trade barriers given the mutual benefits of free trade.
+u364 [T1 R6 C1] 5. Imports are foreign goods and services that are purchased from sellers in other nations.
+u365 [T1 R6 C2] 5. Examine labels of products in their homes and compile a list of imported products and the coun- tries from which they are imported.
+u366 [T1 R7 C1] 6. Exports are domestic goods and services that are sold to buyers in other nations.
+u367 [T1 R7 C2] 6. Determine what major products are produced in their community or state for export and the countries to which they are exported.
+u368 [T1 R8 C1] 7. Voluntary exchange among people or organiza- tions gives people a broader range of choices in buying goods and services.
+u369 [T1 R8 C2] 7. Describe how their daily lives would be different if people in the United States did not trade with people in other countries.
+u371 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u372 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u373 [T2 R2 C1] 1. Imports are paid for by exports, savings or borrowing.
+u374 [T2 R2 C2] 1. Participate in a trading simulation where students represent people or organizations in different countries with specific goods to sell and specific goods they want to buy; explain how each nation pays for its imports with its exports. After concluding the simulation, ask students how they might acquire additional imports after they had exhausted their export revenues.
+u375 [T2 R3 C1] 2. When imports are restricted by public policies, consumers pay higher prices and job opportunities and profits in exporting firms may decrease.
+u376 [T2 R3 C2] 2. Analyze the political and economic implications of a proposed ban on imported products.
+=== page 24 === [running header: Benchmarks: Grade 4]
+u379 Content Standard 6: Specialization
+u380 Students will understand that: When individuals, regions, and nations specialize in what they can produce at the lowest cost and then trade with others, both production and consumption increase.
+u381 Students will be able to use this knowledge to: Explain how they can benefit themselves and others by developing special skills and strengths.
+u382 Everyone specializes to some degree, and everyone depends on others to produce many of the things he or she consumes. As future producers and workers, students should understand that they will earn more by specializing in doing the things they can do well and that entail the least sacrifice in forgone opportunities. They also should understand that specialization can lead to increased production, even when everyone has similar skills and resources, because concentrating production of some goods or services in one location can sometimes reduce production costs.
+u383 This understanding will help students appreciate why an economy in which people specialize and trade voluntarily with one another results in higher overall levels of production and consumption, for individuals, regions, and nations.
+u385 [T1 R1 C2] At the completion of Grade 4, students will know that:
+u386 [T1 R1 C3] At the completion of Grade 4, students will use this knowledge to:
+u387 [T1 R2 C2] 1. Economic specialization occurs when people concentrate their production on fewer varieties of goods and services than they consume.
+u388 [T1 R2 C3] 1. Name several adults in the school or community who specialize in the production of a good or service (e.g., baker, law enforcement officer, teacher, etc.) and identify other goods and services that these in- dividuals consume but do not produce for themselves.
+u389 [T1 R3 C2] 2. Division of labor occurs when the production of a
+u390 [T1 R3 C3] 2. Participate in a simulated assembly line and
+u391 [T1 R4 C2] good is broken down into numerous separate tasks, with different workers performing each task.
+u392 [T1 R4 C3] identify the separate operations and the different tasks involved. Identify examples of goods produced in the U.S. using an assembly line.
+u393 [T1 R5 C2] 3. Specialization and division of labor usually increase the productivity of workers.
+u394 [T1 R5 C3] 3. Work individually to produce a product and then work as a member of a small group to produce the same product. Explain why more goods usually are produced when each member of the group performs a particular task in making the good.
+u395 [T1 R6 C2] 4. Greater specialization leads to increasing inter- dependence among producers and consumers.
+u396 [T1 R6 C3] 4. Compare the extent of specialization and inter- dependence of an American farm family in the 19th Century with a contemporary family that operates a cattle ranch in New Mexico.
+u398 (x=204) Content Standard 6: Specialization
+=== page 25 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u400 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u401 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u402 [T1 R2 C1] 1. Labor productivity is output per worker.
+u403 [T1 R2 C2] 1. Produce an item using a simulated production process and compute output per worker.
+u404 [T1 R3 C1] 2. Like trade among individuals within one country, international trade promotes specialization and division of labor and increases the productivity of labor, output and consumption.
+u405 [T1 R3 C2] 2. Explain how the process of specialization and division of labor results in increased productivity of labor, output, and overall consumption.
+u406 [T1 R4 C1] 3. As a result of growing international economic interdependence, economic conditions and policies in one nation increasingly affect economic conditions and policies in other nations.
+u407 [T1 R4 C2] 3. Analyze data on the kinds and value of goods that Japan, Canada, Mexico, and Germany export to the United States and predict the likely effect of a recession in the United States on the economies of these countries. Explain how a tariff on imported cacao beans affects the production of chocolate candy in the United States and how it affects people in cacao-growing countries.
+u409 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u410 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u411 [T2 R2 C1] 1. Individuals and nations have a comparative advantage in the production of goods or services if they can produce a product at a lower opportunity cost than other individuals or nations.
+u412 [T2 R2 C2] 1. Apply the concepts of opportunity cost and comparative advantage to the following problem: The Netherlands can produce in one day either four drill presses or eight embroidered tablecloths. Using the same amount of resources, Portugal can produce either two drill presses or seven embroidered tablecloths. Which country should specialize in producing drill presses and import tablecloths, and why? Which country should specialize in producing table cloths and import drill presses, and why?
+u413 [T2 R3 C1] 2. International trade stems mainly from factors that confer comparative advantage, including international differences in the availability of productive resources and differences in relative prices.
+u414 [T2 R3 C2] 2. Name three things, such as bananas, coffee and Eucalyptus oil, that could be produced in the continental United States, although production would be very costly. Explain in terms of opportunity costs why the United States is probably better off importing such goods.
+u415 [T2 R4 C1] 3. Transaction costs are costs (not to be confused with the price of the good or service) that are associated with the purchase of a good or service, such as the cost of locating buyers or sellers, negotiating the terms of an exchange, and insuring that the exchange occurs on the agreed upon terms. When transaction costs decrease, trade increases.
+u416 [T2 R4 C2] 3. Identify transaction costs associated with the purchase of a good or service. Also, explain why each of the following encourages more effciient exchange: (1) trucks that can carry larger loads for the same fuel costs; (2) automated teller machines; and (3) credit cards.
+u417 [T2 R5 C1] 4. The goods or services that an individual, region, or nation can produce at lowest opportunity cost depend on many factors (which may vary over time), including available resources, technology, and political and economic institutions.
+u418 [T2 R5 C2] 4. Using an understanding of available resources, technology, and political and economic institutions in the U.S. and other countries, explain why the U.S. no longer has a comparative advantage in the production of shoes.
+=== page 26 === [running header: Benchmarks: Grade 4]
+u421 Content Standard 7: Markets and Prices
+u422 Students will understand that: A market exists when buyers and sellers interact. This interaction determines market prices and thereby allocates scarce goods and services.
+u423 Students will be able to use this knowledge to: Identify markets in which they have participated as a buyer and as a seller and describe how the interaction of all buyers and sellers influences prices. Also, predict how prices change when there is either a shortage or surplus of the product available.
+u424 In market economies, there is no central authority that decides how many different kinds of sandwiches are provided for lunch every day at restaurants and stores, how many loaves of bread are baked, how many toys are produced before the holidays, or what the prices will be for sandwiches, bread, and toys. Students should understand that, instead, most prices in market economies are established by interaction between buyers and sellers.
+u425 Understanding how market prices and output levels are determined helps people anticipate market opportunities and make better choices as consumers and producers. It will also help them realize that market allocations are impersonal.
+u427 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u428 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u429 [T1 R2 C1] 1. A price is what people pay when they buy a good or service, and what they receive when they sell a good or service.
+u430 [T1 R2 C2] 1. Identify prices they have paid for a hamburger, french fries, and a soda, and prices they have received for selling lemonade, feeding a neighbor’s pet while its owner is on vacation, or doing certain household chores.
+u431 [T1 R3 C1] 2. A market exists whenever buyers and sellers exchange goods or services.
+u432 [T1 R3 C2] 2. Give examples of markets in which buyers and sellers meet face-to-face and other markets in which buyers and sellers never meet.
+u434 (x=190) Content Standard 7: Markets and Prices
+=== page 27 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u436 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u437 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u438 [T1 R2 C1] 1. Market prices are determined through the buying and selling decisions made by buyers and sellers.
+u439 [T1 R2 C2] 1. Play a market game in which buyers and sellers determine the market price for a common product, for example wheat, apples, or baseballs.
+u440 [T1 R3 C1] 2. The term ‘relative price’ refers to the price of one good or service compared to the prices of other goods and services. Relative prices are the basic measures of the relative scarcity of products when prices are set by market forces (supply and demand).
+u441 [T1 R3 C2] 2. Explain what will happen to the relative price of a good if it becomes increasingly scarce.
+u442 [T1 R4 C1] 3. The market clearing or equilibrium price for a good or service is the price at which quantity supplied equals quantity demanded.
+u443 [T1 R4 C2] 3. Determine the market clearing price when given a supply schedule and a demand schedule for apples.
+u444 [T1 R5 C1] 4. If a price is above the market clearing price, it will eventually fall, causing sellers to produce less and buyers to purchase more; if it is below the market clearing price, it will eventually rise, causing sellers to produce more and buyers to purchase less.
+u445 [T1 R5 C2] 4. Identify examples of products for which the price fell because sellers did not sell all they had produced at the initial price; identify examples of other products for which the price rose because consumers wanted to buy more than producers were producing at the initial price.
+u446 [T1 R6 C1] 5. An exchange rate is the price of one nation’s currency in terms of another nation’s currency. Like other prices, exchange rates are determined by the forces of supply and demand. Foreign exchange markets allocate international currencies.
+u447 [T1 R6 C2] 5. Calculate the following: (1) If the British pound is worth $2.10. How much would you have to pay in England for a shirt that costs $16.00? (2) If the Mexican peso is equal to $0.10 in U.S. dollars, what is the peso equivalent of $15.00? (3) If it takes 33 Indian rupees to buy $1.00, how much is an Indian sweater purchased for 1,000 rupees in U.S. dollars?
+u449 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u450 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u451 [T2 R2 C1] 1. Market outcomes depend on the resources available to buyers and sellers, and on government policies.
+u452 [T2 R2 C2] 1. Explain what would happen to residential housing prices if the federal government eliminated tax deductibility of mortgage interest.
+u453 [T2 R3 C1] 2. A shortage occurs when buyers want to purchase more than producers want to sell at the prevailing price.
+u454 [T2 R3 C2] 2. Explain why there is usually a shortage of batteries in areas where forecasters predict a hurricane.
+u455 [T2 R4 C1] 3. A surplus occurs when producers want to sell more than buyers want to purchase at the prevailing price.
+u456 [T2 R4 C2] 3. Explain why there is often a late-season surplus of tickets available for the home contests of a baseball team that loses most of its games.
+=== page 28 ===
+u459 [T1 R1 C1] 4. Shortages of a product usually result in price increases in a market economy; surpluses usually result in price decreases.
+u460 [T1 R1 C2] 4. Explain what happens (and why) to the price of concert tickets purchased from scalpers when, at prevailing prices, many more people want to attend those events than the number of seats available. Also explain what will happen to corn prices during an unusually favorable growing season.
+u461 [T1 R2 C1] 5. When the exchange rate between two currencies changes, the relative prices of the goods and services traded among countries using those currencies change; as a result, some groups gain and others lose.
+u462 [T1 R2 C2] 5. Use the following scenarios to analyze the effects on trade of a change in exchange rates: In one year, the U.S. dollar equaled 150 Japanese yen; in the following year, the U.S. dollar equaled 100 yen; and in the third year, it equaled 125 yen. If a camera costs 60,000 yen and a radio costs 10,000 yen: (1) What will be the price in dollars of these two products in each year for an American? (2) Will an American want to buy more or fewer Japanese products in year one, in year two, or in year three? Explain.
+u464 (x=190) Content Standard 7: Markets and Prices
+=== page 29 === [running header: Benchmarks: Grade 4 | Benchmarks: Grade 8 | Voluntary National Content Standards IN ECONOMICS]
+u465 Content Standard 8: Role of Prices
+u466 Students will understand that: Prices send signals and provide incentives to buyers and sellers. When supply or demand changes, market prices adjust, affecting incentives.
+u467 Students will be able to use this knowledge to: Predict how changes in factors such as consumers’ tastes or producers’ technology affect prices.
+u468 Understanding the role of prices as signals and incentives helps people make better choices as producers and consumers. It also helps citizens understand the consequences and weigh the costs and benefits of price controls, such as minimum-wage laws and rent ceilings, that set legal minimum or maximum prices and may result in sustained surpluses or shortages.
+u470 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u471 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u472 [T1 R2 C1] 1. Higher prices for a good or service provide incentives for buyers to purchase less of that good or service, and for producers to make or sell more of it. Lower prices for a good or service provide incentives for buyers to purchase more of that good or service, and for producers to make or sell less of it.
+u473 [T1 R2 C2] 1. Predict how consumers would react if the price of pencils rose to $10 each (and explain the prediction). Predict how they would react if the price fell to $.01 each (and explain the prediction). Explain how producers would react in each situation.
+u475 [T2 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u476 [T2 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u477 [T2 R2 C1] 1. An increase in the price of a good or service encourages people to look for substitutes, causing the quantity demanded to decrease, and vice versa. This well-established relationship between price and quantity demanded, known as the law of demand, exists as long as other factors influencing demand do not change.
+u478 [T2 R2 C2] 1. Survey students in other classes at school regarding how many glasses of orange juice students would be willing and able to buy at various prices. Analyze the data to show the relationship between price and quantity demanded. Identify the substitutes students use when the price is higher. Explain why substitutes are not identical for all students.
+u479 [T2 R3 C1] 2. An increase in the price of a good or service encourages producers to supply more, and vice versa. This relationship between price and quantity supplied is normally true as long as other factors influencing costs of production and supply do not change.
+u480 [T2 R3 C2] 2. State the number of hours spent baby sitting they would be willing and able to supply at various hourly wages. State a generalization about the relationship among price (wage), cost, and quantity supplied from the data.
+=== page 30 === [running header: Benchmarks: Grade 12]
+u483 [T1 R1 C1] 3. Markets are interrelated; changes in the price of one good or service can lead to changes in prices of many other goods and services.
+u484 [T1 R1 C2] 3. Explain how a decrease in the price of movie rentals could cause a decrease in the price of popcorn at movie theaters.
+u485 [T1 R2 C1] 4. Scarce goods and services are allocated in a market economy through the influence of prices on production and consumption decisions.
+u486 [T1 R2 C2] 4. Explain the ways in which producers and consumers change behavior when the price of peanuts rises or when gasoline prices fall, and why they behave in this way.
+u488 [T2 R1 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u489 [T2 R1 C3] At the completion of Grade 12, students will use this knowledge to:
+u490 [T2 R2 C2] 1. Demand for a product changes when there is a change in consumers’ incomes, preferences, the prices of related products, or in the number of consumers in a market.
+u491 [T2 R2 C3] 1. Predict the change in demand for a particular brand of jeans when an extensive ad campaign for the brand targets teenagers, their allowances double, the price of other pants increases, or jeans become a popular item among adults.
+u492 [T2 R3 C2] 2. Supply of a product changes when there are changes in either the prices of the productive resources used to make the product, the technology used to make the product, the profit opportunities available to producers from selling other products, or the number of sellers in a market.
+u493 [T2 R3 C3] 2. Predict the changes in supply and market price for new cars when the cost of labor increases, more robotics are used to produce cars, the prices of trucks rise, or when the number of car manufacturers decreases.
+u494 [T2 R4 C2] 3. Changes in supply or demand cause relative prices to change; in turn, buyers and sellers adjust their purchase and sales decisions.
+u495 [T2 R4 C3] 3. Identify products used in household production that have become more or less expensive (compared to other products) as a result of changes in supply and demand and explain how the price changes affected production and consumption decisions in the household.
+u496 [T2 R5 C2] 4. Government-enforced price ceilings set below the market-clearing price and government-enforced price floors set above the market-clearing price distort price signals and incentives to producers and consumers. Price ceilings can cause persistent shortages, while price floors can cause persistent surpluses.
+u497 [T2 R5 C3] 4. Describe what is likely to happen if the government imposes a price ceiling on gasoline and a price floor on milk.
+u499 (x=204) Content Standard 8: Role of Prices
+=== page 31 === [running header: Benchmarks: Grade 4 | Benchmarks: Grade 8 | Voluntary National Content Standards IN ECONOMICS]
+u500 (x=54) Content Standard 9: Competition and
+u501 (x=187) Market Structure
+u502 Students will understand that: Competition among sellers usually lowers costs and prices, and encourages producers to produce what consumers are willing and able to buy. Competition among buyers increases prices and allocates goods and services to those people who are willing and able to pay the most for them.
+u503 Students will be able to use this knowledge to: Explain how changes in the level of competition in different markets can affect price and output levels.
+u504 Fast-food restaurants that set prices too high, or give slow, unfriendly service, risk losing customers to competing restaurants that offer lower prices, higher-quality products, and better service. In this way, competition benefits consumers. Understanding the benefits of competition and the costs of limiting competition helps students evaluate public policies that affect the level of competition in various markets. It also helps students understand their own roles as producers and consumers in a market economy — in terms of opportunities to compete with others and in terms of the limits that competition places on their incomes, career plans, and what they can buy and consume.
+u505 Productivity is a measure of the quantity of goods and services produced for a given amount of resources. Competition helps improve productivity by forcing all suppliers to “be the best that they can be.” Productivity improvements, in turn, foster economic growth.
+u507 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u508 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u509 [T1 R2 C1] 1. Competition takes place when there are many buyers and sellers of similar products.
+u510 [T1 R2 C2] 1. Identify competitors in their community, using the yellow pages of the telephone book or an Internet site.
+u512 [T2 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u513 [T2 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u514 [T2 R2 C1] 1. Sellers compete on the basis of price, product quality, customer service, product design and variety, and advertising.
+u515 [T2 R2 C2] 1. Give examples of price and non-price competition in the athletic shoe market.
+u516 [T2 R3 C1] 2. Competition among sellers results in lower costs and prices, higher product quality, and/or better customer service. When competition among sellers is limited, sellers have some control over the prices they set.
+u517 [T2 R3 C2] 2. Explain how the opening of a second pizza shop in a small community affects prices, profits, service, quality, and choices.
+=== page 32 === [running header: Benchmarks: Grade 12]
+u520 [T1 R1 C1] 3. Competition among buyers of a product results in higher product prices.
+u521 [T1 R1 C2] 3. After playing several rounds of a market game in which the number of buyers is changed dramatically in each round, explain the impact of these changes on price.
+u523 [T2 R1 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u524 [T2 R1 C3] At the completion of Grade 12, students will use this knowledge to:
+u525 [T2 R2 C2] 1. The pursuit of self-interest in competitive markets usually leads to choices and behavior that also promote the national level of well-being.
+u526 [T2 R2 C3] 1. Explain how people motivated by their own self-interest help market economies promote national well-being through active competition among buyers and sellers.
+u527 [T2 R3 C2] 2. The level of competition in an industry is affected by the ease with which new producers can enter the industry, and by consumers’ information about the availability, price and quantity of substitute goods and services.
+u528 [T2 R3 C3] 2. Explain why, in the last ten years, there have been no U.S. companies emerging to manufacture loco- motives, but many to manufacture silk screen T-shirts. Also, predict what will happen to prices of new books if an active Internet market for used books is created.
+u529 [T2 R4 C2] 3. Some market structures are dominated by large frims, often competing against only a few other frims. Prices in such markets may be higher than they would be in more competitive markets.
+u530 [T2 R4 C3] 3. Evaluate the impact of the domination by a few frims in the U.S. cereal market. Identify other markets which are dominated by a few large frims.
+u531 [T2 R5 C2] 4. Collusion among buyers or sellers reduces the level of competition in a market. Collusion is more diffciult in markets with large numbers of buyers and sellers.
+u532 [T2 R5 C3] 4. Explain why collusion is more likely to work among international airlines than among U.S. farmers that produce wheat.
+u533 [T2 R6 C2] 5. The introduction of new products and production methods is an important form of competition and is a source of technological progress and economic growth.
+u534 [T2 R6 C3] 5. Create a timeline showing notable innovation prompted by entrepreneurs, corporate research, and government programs and write a brief essay on their impact on economic growth, competition, technological progress, and job opportunities.
+u535 REFERENCE BOX
+u536 Standard 16 (Role of Government and Market Failure) addresses situations
+u537 that can arise when markets are not competitive.
+u539 (x=143) Content Standard 9: Competition and Market Structure
+=== page 33 === [running header: Benchmarks: Grade 4 | Voluntary National Content Standards IN ECONOMICS]
+u540 Content Standard 10: Institutions
+u541 Students will understand that: Institutions evolve and are created to help individuals and groups accomplish their goals. Banks, labor unions, markets, corporations, legal systems, and not-for-profit organizations are examples of important institutions. A different kind of institution, clearly defined and enforced property rights, is essential to a market economy.
+u542 Students will be able to use this knowledge to: Describe the roles of various economic institutions and explain the importance of property rights in a market economy.
+u543 Institutions play a number of roles in a market economy. Property rights help insure that people bear the costs and reap the benefits of their decisions. Property rights and contract enforcement encourage investment by assuring investors that they will reap the rewards of deferring consumption and assuming risk if these investments perform well. Limiting individual liability and allowing people to pool their investment resources through joint stock corporations also increases investment and future income.
+u544 Other institutions lower the costs of bringing buyers and sellers together. For example, banks match savers with borrowers; and investment banks match entrepreneurs who organize new firms with investors who provide the needed funds. Many institutions work to promote the goals of certain interest groups. Labor unions, for example, increase the negotiating power of workers in their dealings with employers.
+u545 Understanding economic institutions and the purposes they serve will help students use institutions more effectively and help them evaluate proposed new institutions or changes in the existing legal and institutional environment.
+u547 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u548 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u549 [T1 R2 C1] 1. Banks are institutions where people save money and earn interest, and where other people borrow money and pay interest.
+u550 [T1 R2 C2] 1. Explain the relationship between saving money and earning interest and borrowing money and paying interest, after participating in an activity in which they role play savers and borrowers.
+u551 [T1 R3 C1] 2. Saving is the part of income not spent on taxes or consumption.
+u552 [T1 R3 C2] 2. Plan a budget for an allowance. The budget will include spending for goods and services, charitable donations, sales taxes, and saving.
+=== page 34 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12]
+u556 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u557 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u558 [T1 R2 C1] 1. The household is an important institution in which consumption and production take place.
+u559 [T1 R2 C2] 1. Describe the impact on households and the wider economy of increased labor force participation of women.
+u560 [T1 R3 C1] 2. Banks and other financial institutions channel funds from savers to borrowers and investors.
+u561 [T1 R3 C2] 2. Draw a diagram illustrating the role banks and other financial institutions play among savers, borrowers, and investors.
+u562 [T1 R4 C1] 3. Labor unions have influenced laws created in market economies and, through the process of collective bargaining with employers, labor unions represent some workers in negotiations involving wages, fringe benefits, and work rules.
+u563 [T1 R4 C2] 3. Read about the establishment of a labor union and explain why it emerged, how it influenced the U.S. economy, and what procedures it used to gain benefits for its members and workers in general.
+u564 [T1 R5 C1] 4. Not-for-profit organizations are established primarily for religious, health, educational, civic, or social purposes and are exempt from certain taxes.
+u565 [T1 R5 C2] 4. Identify a not-for-profit organization and explain its functions and its source of revenues.
+u567 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u568 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u569 [T2 R2 C1] 1. Property rights, contract enforcement, standards for weights and measures, and liability rules affect incentives for people to produce and exchange goods and services.
+u570 [T2 R2 C2] 1. Predict what might happen if there were no legal way to settle boundary disputes or if every state had its own system of weights and measures. Explain how strict producer liability for product defects affects the behavior of consumers and producers and how it affects the price of a good or service.
+u571 [T2 R3 C1] 2. Incorporation allows frims to accumulate suffciient financial capital to make large-scale investments and achieve economies of scale. Incorporation also reduces the risk to investors by limiting stockholders’ liability to their share of ownership of the corporation.
+u572 [T2 R3 C2] 2. Play the role of a business consultant hired to advise a partnership on the advantages it could enjoy by incorporating; write a letter outlining these benefits for their client.
+u574 (x=206) Content Standard 10: Institutions
+=== page 35 === [running header: Benchmarks: Grade 4 | Voluntary National Content Standards IN ECONOMICS]
+u575 Content Standard 11: Money and Inflation
+u576 Students will understand that: Money makes it easier to trade, borrow, save, invest, and compare the value of goods and services. The amount of money in the economy affects the overall price level. Inflation is an increase in the overall price level that reduces the value of money.
+u577 Students will be able to use this knowledge to: Explain how their lives would be more difficult in a world with no money, or in a world where money sharply lost its value.
+u578 Most people would like to have more money. Students, however, often fail to understand that the real value of money is determined by the goods and services money can buy. Doubling the amount of money in an economy overnight would not, by itself, make people better off, because there would still be the same amount of goods and services produced and consumed, only at higher prices. The use of money in buying and selling goods and services is important to an economy, however, because as it replaces barter, it makes exchange less costly. As a result, people are more likely to specialize in what they produce, and then use money to buy whatever they want to consume. This increases the overall levels of production and consumption in a nation.
+u579 Understanding what determines the real buying power of money and earnings will help students make better decisions in their personal and professional lives. Understanding the importance of money to society will also help them make more informed decisions about national policies related to banking, controlling the supply of money, and inflation.
+u580 REFERENCE BOX
+u581 Additional benchmarks on inflation are in Standard 18 (Economic Fluctuations),
+u582 (x=155) Standard 19 (Unemployment & Inflation), and Standard 20
+u583 (x=221) (Fiscal & Monetary Policy).
+u585 [T1 R1 C2] At the completion of Grade 4, students will know that:
+u586 [T1 R1 C3] At the completion of Grade 4, students will use this knowledge to:
+u587 [T1 R2 C2] 1. Money is anything widely accepted as final payment for goods and services.
+u588 [T1 R2 C3] 1. Identify things that have been used as money at different times and in different societies and countries. Explain why some things can be used effectively for money and some things cannot.
+u589 [T1 R3 C2] 2. Money (currency, coins, or checks) makes trading easier by replacing barter.
+u590 [T1 R3 C3] 2. List fvie goods and services they want, and describe ways of obtaining these goods and services, without using money. Then explain why using money makes it easier to get the same five items.
+=== page 36 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12]
+u593 [T1 R1 C1] 3. People consume goods and services, not money; money is useful primarily because it can be used to buy goods and services.
+u594 [T1 R1 C2] 3. Decide whether they would rather have a suitcase full of money or one full of food when stranded on a deserted island, and explain their answer.
+u595 [T1 R2 C1] 4. Producers use natural resources, human resources, and capital goods (not money) to make goods and services.
+u596 [T1 R2 C2] 4. Explain why, when given money, they are unable to produce paper weights to sell at the forthcoming school craft fair unless they exchange the money for productive resources.
+u597 [T1 R3 C1] 5. Inflation is an increase in most prices; deflation is a decrease in most prices.
+u598 [T1 R3 C2] 5. Determine in which years inflation occurred given the prices of a market basket of goods and services for three different years.
+u600 [T2 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u601 [T2 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u602 [T2 R2 C1] 1. As a store of value, money makes it easier for people to save and defer consumption until the future.
+u603 [T2 R2 C2] 1. Demonstrate their understanding of money as a “store of value” in responding to the following: A wheat farmer wants to save for her five-year old daughter’s college education. Why is she better off selling her wheat for money and saving the money than she would be if she saved wheat to exchange for her daughter’s college tuition?
+u604 [T2 R3 C1] 2. As a unit of account, money is used to compare the market value of different goods and services.
+u605 [T2 R3 C2] 2. Explain the advantages of being able to use money to compare prices of a gallon of milk in three different stores as opposed to when prices are expressed as one gallon of milk equals 10 pencils, or 6 apples, or half of a pound of roast beef.
+u606 [T2 R4 C1] 3. Money encourages specialization by decreasing the costs of exchange.
+u607 [T2 R4 C2] 3. Explain how life might change for a doctor who specializes as a cardiologist, and for others in the community, if our society became a barter economy.
+u608 [T2 R5 C1] 4. Inflation reduces the value of money.
+u609 [T2 R5 C2] 4. Compare the groceries that could be purchased for $10 in 1977 with those that can be purchased for $10 today. Explain how the value of money has changed.
+u611 [T3 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u612 [T3 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u613 [T3 R2 C1] 1. The basic money supply in the United States consists of currency, coins, and checking account deposits.
+u614 [T3 R2 C2] 1. Explain why deposits in checking accounts are considered money but assets such as stocks and bonds are not. Also explain why a credit card should not be considered money.
+u616 (x=180) Content Standard 11: Money and Inflation
+=== page 37 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u617 [T1 R1 C1] 2. In many economies, when banks make loans, the money supply increases; when loans are paid off, the money supply decreases.
+u618 [T1 R1 C2] 2. Demonstrate how successive deposits and loans made by commercial banks, resulting from one new deposit in the banking system, cause the money supply to expand and how repayment of loans causes the money supply to contract.
+u619 [T1 R2 C1] 3. The consumer price index (CPI) is the most com- monly used measure of price-level changes. It can be used to compare the price level in one year with price levels in earlier or later periods.
+u620 [T1 R2 C2] 3. Determine the current price for a pair of designer sunglasses that cost $50 in 1982-84, assuming the price has increased at the average rate of inflation.
+u621 [T1 R3 C1] 4. The annual inflation rate is the percentage change in the average prices of goods and services over a twelve month period.
+u622 [T1 R3 C2] 4. Calculate the annual rate of inflation when the CPI changes from 200 to 205 in one year.
+u623 [T1 R4 C1] 5. In the long-run, inflation results from increases in a nation’s money supply that exceed increases in its output of goods and services.
+u624 [T1 R4 C2] 5. Explain why inflation occurs after participating in two rounds of an auction where the number of goods available remains constant, but the money in circulation increases in round two.
+=== page 38 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12]
+u627 Content Standard 12: Interest Rates
+u628 Students will understand that: Interest rates, adjusted for inflation, rise and fall to balance the amount saved with the amount borrowed, which affects the allocation of scarce resources between present and future uses.
+u629 Students will be able to use this knowledge to: Explain situations in which they pay or receive interest, and explain how they would react to changes in interest rates if they were making or receiving interest payments.
+u630 Interest rates influence the borrowing and saving of individuals, households, firms and government agencies.
+u631 It is important for students to understand the incentive effects of interest rates. Interest payments compensate savers for postponing current consumption; they compensate lenders for letting others use their resources and the risk that borrowers might default on their loan.
+u633 [T1 R1 C1] At the completion of Grade 8, students will know that:
+u634 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u635 [T1 R2 C1] 1. An interest rate is a price of money that is borrowed or saved.
+u636 [T1 R2 C2] 1. Identify the current rates of interest on different kinds of savings instruments and different kinds of loans. Explain why these rates differ.
+u637 [T1 R3 C1] 2. Like other prices, interest rates are determined by the forces of supply and demand.
+u638 [T1 R3 C2] 2. Determine the interest rate on 30-year fixed-rate conventional home mortgages over the last 15 years and explain why this rate rose and fell.
+u640 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 8 benchmarks for this standard, and also that:
+u641 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u642 [T2 R2 C1] 1. The real interest rate is the nominal or current market interest rate minus the rate of inflation.
+u643 [T2 R2 C2] 1. Collect data on the rate of infaltion and inter- est rates for various kinds of loans and savings instruments over the past 15 years. Using this information, estimate the real rate of interest in these different years.
+u644 [T2 R3 C1] 2. Higher real interest rates increase the rewards for saving and make borrowing more expensive.
+u645 [T2 R3 C2] 2. Collect data on interest rates, the rate of infaltion, and new housing starts over the past 25 years. State how changes in real interest rates affect people’s decisions to borrow in order to buy a house.
+u647 (x=202) Content Standard 12: Interest Rates
+=== page 39 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u648 [T1 R1 C2] 3. Real interest rates normally are positive because people must be compensated for deferring the use of resources from the present into the future.
+u649 [T1 R1 C3] 3. Explain why people who save money receive interest payments while people who borrow money make interest payments.
+u650 [T1 R2 C2] 4. Riskier loans command higher interest rates than safer loans because of the greater chance of default on the repayment of a risky loan.
+u651 [T1 R2 C3] 4. Explain why there are usually differences in interest rates for individuals with good and bad credit ratings.
+u652 [T1 R3 C2] 5. Higher real interest rates reduce business investment spending and consumer spending on housing, cars, and other major purchases.
+u653 [T1 R3 C3] 5. Identify periods when real interest rates increased and how this affected business investment and consumer spending.
+u654 [T1 R4 C2] 6. Real interest rates rise and fall to balance the amount saved with the amount borrowed. This affects the allocation of scarce resources between present and future uses.
+u655 [T1 R4 C3] 6. Analyze past changes in real interest rates and identify how changes in interest rates increase (or decrease) the incentive to borrow and also the incentive to save.
+u656 [T1 R5 C2] 7. Expectations of increased inflation may lead to higher interest rates.
+u657 [T1 R5 C3] 7. Explain their answer to the following question: If you were going to lend $100 to someone for a year, would you ask for more or less interest if you expected the prices of most things you buy to rise faster than you previously thought?
+u658 [T1 R6 C2] 8. Future values can be converted to present values by discounting the future value based on the rate of interest.
+u659 [T1 R6 C3] 8. Correctly answer the following question: What is the present value of $200 you are promised to receive exactly four years from today if the annual rate of interest over the next four years is 2 percent?
+u660 ENHANCEMENT BOX
+u661 DISCOUNTING
+u662 To weigh benefits and costs accurately, it is necessary to take explicit account of the time when they occur. In general, an amount received in the future is worth less than the same amount received today, because if it were received today it could be invested
+u663 so that it would grow to a greater amount in the future. How much less is it worth today? The answer depends on the rate of interest. For example, $105 to be received one year from now would have a present value of $100 if the annual interest rate were
+u664 five percent, because $100 deposited in a bank account today would grow in value
+u665 (x=152) to $105 after one year. Similarly, the present value of $105 that must be paid one year from now would be only $100 today, because if $100 were deposited in a bank account earning five percent per year today, the account’s value by the end of a year
+u666 (x=245) would be sufficient to pay the $105.
+u667 Values one year from now are linked to values today by the interest rate: Future Value = (1 + interest rate) x Present Value, where the interest rate is
+u668 expressed as a decimal, i.e. five percent = 0.05.
+=== page 40 === [running header: Benchmarks: Grade 4 | Benchmarks: Grade 8]
+u671 Content Standard 13: Income
+u672 Students will understand that: Income for most people is determined by the market value of the productive resources they sell. What workers earn primarily depends on the market value of what they produce.
+u673 Students will be able to use this knowledge to: Predict future earnings based on their current plans for education, training, and career options.
+u674 In a market economy, wages and salaries — the prices of labor services — are determined just as other prices are, by the interaction of buyers and sellers. The buyers of labor services are employers. In competitive markets, they are willing to pay higher wages and salaries to those employees who can produce more or better goods or services in a given amount of time. Students who understand this will appreciate the value of the skills they can acquire by completing high school, and perhaps college or a vocational training program.
+u675 Understanding the forces affecting wages and other sources of income will be increasingly important in the future, when workers may change employers and careers more often than in the past. Regardless of the occupations or industries in which today’s students eventually work, they are likely to find that they will have to continue their education and training to maintain or increase their earnings.
+u677 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u678 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u679 [T1 R2 C1] 1. Labor is a human resource that is used to produce goods and services.
+u680 [T1 R2 C2] 1. Identify human resources in their community and the goods and services they produce.
+u681 [T1 R3 C1] 2. People can earn income by exchanging the use of their labor (physical or mental work) for wages or salaries.
+u682 [T1 R3 C2] 2. Collect data from adults regarding their reasons for working, analyze the data, and generalize about why people work.
+u684 [T2 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u685 [T2 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u686 [T2 R2 C1] 1. Employers are willing to pay wages and salaries to workers because they expect to be able to sell the goods and services that those workers produce at prices high enough to cover the wages and salaries and all other costs of production.
+u687 [T2 R2 C2] 1. Ask owners of businesses why they are willing to pay a wage or salary to workers and conclude that businesses do so because they expect to be able to sell the goods and services produced at a price high enough to cover the wages and salaries and all other costs of production.
+u689 (x=220) Content Standard 13: Income
+=== page 41 === [running header: Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u690 [T1 R1 C2] 2. To earn income people sell productive resources. These include their labor, capital, natural resources, and entrepreneurial talents.
+u691 [T1 R1 C3] 2. Survey several adults regarding their sources of income and the proportion of total income that is generated by each source, and draw a conclusion as to which source generates the largest portion of personal income.
+u692 [T1 R2 C2] 3. A wage or salary is the price of labor; it usually is determined by the supply of and demand for labor.
+u693 [T1 R2 C3] 3. Participate in a market simulation as employers and employees to determine wage rates for labor.
+u694 [T1 R3 C2] 4. More productive workers are likely to be of greater value to employers and earn higher wages than less productive workers.
+u695 [T1 R3 C3] 4. Decide which workers to hire and explain the hiring decisions, given a list of job applicants with different levels of productivity, measured by the amount the worker produces in a certain period of time.
+u696 [T1 R4 C2] 5. Peoples’ incomes, in part, reflect choices they have made about education, training, skill development, and careers. People with few skills are more likely to be poor.
+u697 [T1 R4 C3] 5. Consider a career choice, research the amount of education required and the median income for this career. Identify reasons why high school dropouts frequently end up in poverty.
+u699 [T2 R1 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 bench- marks for this standard, and also that:
+u700 [T2 R1 C3] At the completion of Grade 12, students will use this knowledge to:
+u701 [T2 R2 C2] 1. Changes in the structure of the economy, including technology, government policies, the extent of collective bargaining and discrimination, can infulence personal income.
+u702 [T2 R2 C3] 1. Explain how changes in the structure of the economy, including technology, government policies, the extent of collective bargaining and discrimination have infulenced personal income over the last 25 years.
+u703 [T2 R3 C2] 2. In a labor market, in the absence of other changes, a higher wage increases the reward for work and reduces the willingness of employers to hire workers.
+u704 [T2 R3 C3] 2. Explain why it is diffciult to predict the possible effects of an increase in the minimum wage on their ability to secure an after-school job.
+u705 [T2 R4 C2] 3. The hope of achieving wealth can affect productivity by energizing people to work harder, while the hopelessness of escaping poverty can discourage people from trying.
+u706 [T2 R4 C3] 3. Identify a successful entrepreneur from your region who grew up in modest circumstances.
+u707 [T2 R5 C2] 4. Changes in the prices of productive resources affect the incomes of the owners of those productive resources and the combination of those resources used by frims.
+u708 [T2 R5 C3] 4. Explain how a change in a resource price, such as computers, affects producers and workers in the accounting industry.
+u709 [T2 R6 C2] 5. Changes in demand for specifci goods and services often, in the short run, affect the incomes of the workers who make those goods and services.
+u710 [T2 R6 C3] 5. List three occupations that are expected to have new job openings over the next fvie years and explain why. List three occupations that are expected to experience a decline in job openings over the same period and explain why.
+=== page 42 === [running header: Benchmarks: Grade 4]
+u713 Content Standard 14: Entrepreneurship
+u714 Students will understand that: Entrepreneurs take on the calculated risk of starting new businesses, either by embarking on new ventures similar to existing ones or by introducing new innovations. Entrepreneurial innovation is an important source of economic growth.
+u715 Students will be able to use this knowledge to: Identify the risks and potential returns to entrepreneurship, as well as the skills necessary to engage in it. Understand the importance of entrepreneurship and innovation to economic growth, and how public policies affect incentives for and, consequently, the success of entrepreneurship in the United States.
+u716 Entrepreneurs create the new businesses in our economy. They take on the challenge of creating or identifying a product, assessing the market for the product, determining a price for the product, creating a strategy for the business, obtaining funding for the new enterprise, hiring and managing employees, and assuming the risk associated with the new venture. Entrepreneurs are often motivated by the potential for financial rewards, as well as an interest in working for themselves. If they are successful, entrepreneurs receive the profit that remains after they pay salaries for employees, taxes to the government, and all other costs associated with the business.
+u717 Starting any new business involves some risk. Entrepreneurs must invest their own time and resources before making products available in the market. The vast majority of entrepreneurs create new businesses similar to those around them, such as a new grocery store or a new dry cleaning business. These businesses may create jobs and often provide important products and services for their communities. Other entrepreneurs take on an even greater challenge by innovating or bringing a new invention to the market. In addition to accepting the risks entailed in starting a new businesses, these innovative entrepreneurs must have the vision, originality, and daring to seek out opportunities for a new product or service and introduce it to the public.
+u718 Innovative entrepreneurs are responsible for much of the growth in our economy. Bringing us innovations such as the radio, airplane, and personal computer, these individuals change the way people live their lives, often fostering a more productive and efficient economy. Because entrepreneurship plays an important role in economic growth, public policies that affect the returns to entrepreneurship — from intellectual property rights to taxes to immigration regulations — often have a significant effect on consumers.
+u720 [T1 R2 C1] At the completion of Grade 4, students will know that:
+u721 [T1 R2 C2] At the completion of Grade 4, students will use this knowledge to:
+u722 [T1 R3 C1] 1. Entrepreneurs are individuals who are willing to take risks, to develop new products, and start new businesses. They recognize opportunities, like working for themselves, and accept challenges.
+u723 [T1 R3 C2] 1. Read a children’s book about an entrepreneur. Identify the main character’s entrepreneurial char- acteristics and compare their own entrepreneurial characteristics with those of the main character.
+u724 [T1 R4 C1] 2. Entrepreneurs and workers often are innovative. They attempt to solve problems by developing and marketing new or improved products and processes.
+u725 [T1 R4 C2] 2. Solve a problem by inventing a new use for an existing product such as a wire coat hanger, thimble, or balloon. Also develop an advertising campaign for their new product.
+u727 (x=192) Content Standard 14: Entrepreneurship
+=== page 43 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u729 [T1 R1 C2] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u730 [T1 R1 C3] At the completion of Grade 8, students will use this knowledge to:
+u731 [T1 R2 C2] 1. Entrepreneurs compare the expected benefits of entering a new enterprise with the expected costs.
+u732 [T1 R2 C3] 1. Read short biographies of entrepreneurs and identify the risks each faced. Examine how the entrepreneur analyzed the risks and the entrepreneur’s incentive(s) for accepting the risk.
+u733 [T1 R3 C2] 2. Entrepreneurs organize resources to produce goods and services because they expect to earn profits.
+u734 [T1 R3 C3] 2. Interview an entrepreneur to learn why he or she started a new business.
+u735 [T1 R4 C2] 3. Entrepreneurs (as well as other sellers) earn proftis when the revenues they receive from selling the prod- ucts they sell are greater than the costs of production.
+u736 [T1 R4 C3] 3. Analyze simple profit and loss statements and determine which sellers earned profits.
+u737 [T1 R5 C2] 4. Entrepreneurs (as well as other sellers) incur losses when the revenues they receive from selling the products they sell do not cover the costs of production.
+u738 [T1 R5 C3] 4. Identify a firm that went out of business and give reasons why this might have occurred.
+u739 [T1 R6 C2] 5. In addition to profits, entrepreneurs respond to other incentives, including the opportunity to be their own boss, the chance to achieve recognition, and the satisfaction of creating new products or improving existing ones. In addition to financial losses, other disincentives to which entrepreneurs respond include the responsibility, long hours, and stress of running a business.
+u740 [T1 R6 C3] 5. Read short biographies of several entrepreneurs, list the pertinent characteristics of each entrepreneur, and make a generalization about the non-financial incentives that motivate entrepreneurs and the risks or disincentives entrepreneurs face.
+u742 [T2 R1 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u743 [T2 R1 C3] At the completion of Grade 12, students will use this knowledge to:
+u744 [T2 R2 C2] 1. Entrepreneurial decisions affect job opportunities.
+u745 [T2 R2 C3] 1. Identify an entrepreneur and describe how the entrepreneur’s decisions affect job opportunities.
+u746 [T2 R3 C2] 2. Entrepreneurial decisions are infulenced by tax, regulatory, education, and research support policies.
+u747 [T2 R3 C3] 2. Explain how government sponsored research may affect entrepreneurial activity. Explain how en- trepreneurial activity is affected by a tax policy that affects income from profits and capital investment.
+u748 [T2 R4 C2] 3. Productivity and efficiency gains that result from innovative practices of entrepreneurs foster long term economic growth.
+u749 [T2 R4 C3] 3. Explain how the invention and diffusion of the personal computer has contributed to increases in gross domestic product.
+=== page 44 === [running header: Benchmarks: Grade 4]
+u752 Content Standard 15: Economic Growth
+u753 Students will understand that: Investment in factories, machinery, new technology, and in the health, education, and training of people stimulates economic growth and can raise future standards of living.
+u754 Students will be able to use this knowledge to: Predict the consequences of investment decisions made by individuals, businesses, and governments.
+u755 Students should recognize that by saving and investing resources today, in the future they will be able to buy such things as a car, a phone, a trip to an amusement park, or other things they can’t afford today. They will face similar trade-offs throughout their lives. As adults they will save for many things such as housing, their children’s education, and their own retirement.
+u756 Savings deposited in financial institutions earn interest and are made available to businesses that want to invest in capital goods. The new physical capital, in turn, increases production and accelerates economic growth. Businesses and other organizations also face decisions about saving and investing resources.
+u757 Knowing this helps students understand investment programs adopted by corporations, as well as public policies involving taxation, spending programs, and investment in infrastructure, education, and other things that will increase future standards of living. It helps them appreciate that a better life in the future often requires patience and sacrifice. It helps them understand the importance of personal investment in education and training, and of business investments.
+u759 [T1 R1 C2] At the completion of Grade 4, students will know that:
+u760 [T1 R1 C3] At the completion of Grade 4, students will use this knowledge to:
+u761 [T1 R2 C2] 1. When workers learn and practice new skills they improve their productivity by improving their human capital.
+u762 [T1 R2 C3] 1. Make a paper airplane out of paper with no instructions, record how much time it took them to make the airplane, and discuss the quality of the finished product. After receiving instruction on how to make the airplane, and given time to practice, repeat the activity, record how long it takes to make the airplane, and compare the quality of the airplanes produced with and without instructions and practice.
+u763 [T1 R3 C2] 2. Workers can improve their productivity by using physical capital such as tools and machinery.
+u764 [T1 R3 C3] 2. Complete a basic math worksheet using pencil and paper in a given amount of time; correct the work and record the number of problems completed and the number of correct answers. Repeat a similar activity, using calculators; correct the work, record the number of problems completed and the number of correct answers, and explain the differences in results.
+u766 (x=186) Content Standard 15: Economic Growth
+=== page 45 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u768 [T1 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u769 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u770 [T1 R2 C1] 1. Standards of living increase as the productivity of labor improves.
+u771 [T1 R2 C2] 1. Analyze data on labor productivity and material standards of living. Draw a generalization about the relationship between the two. Explain how the living standards of their families would change if the productivity of every worker in the United States were to increase by 5 percent.
+u772 [T1 R3 C1] 2. Productivity is measured by dividing output (goods and services) by the number of inputs used to produce the output. A change in productivity is a change in output relative to input.
+u773 [T1 R3 C2] 2. Participate in a simulated production process in which they calculate productivity and analyze changes that occur through investment in human capital and capital goods.
+u774 [T1 R4 C1] 3. Technological change results from an advance in knowledge leading to new and improved goods and services and better ways of producing them.
+u775 [T1 R4 C2] 3. Create a timeline showing at least five new goods or services that have been created over the last 5 years. Also, explain how technological change led to these new or improved products.
+u776 [T1 R5 C1] 4. Increases in productivity can result from advances in technology or increases in physical or human capital.
+u777 [T1 R5 C2] 4. Critically evaluate the effect of the use of personal computers or communications technologies (such as e-mail) on productivity.
+u779 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u780 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u781 [T2 R2 C1] 1. Economic growth is a sustained rise in a nation’s production of goods and services. Long term growth in output results from improvements in labor productivity and increases in employment. It varies across countries because of differences in investments in human and physical capital, research and development, tech- nological change, and from alternative institutional arrangements and incentives.
+u782 [T2 R2 C2] 1. Analyze real Gross Domestic Product (GDP) per capita data for several periods in history, identifying periods during which the United States experienced rapid economic growth; identify the factors that contributed to this growth.
+u783 [T2 R3 C1] 2. Historically, economic growth that raises per capita output has been a vehicle for alleviating poverty and raising standards of living.
+u784 [T2 R3 C2] 2. Compare the standard of living of individuals living in the United States in 1800, 1900, and 2000; explain the relationship between higher production levels, new technologies, and standard of living.
+u785 [T2 R4 C1] 3. Investing in new physical or human capital can increase future productivity and consumption, but such investments require the sacrifice of current consumption and entail economic risks.
+u786 [T2 R4 C2] 3. Discuss the advantages and disadvantages of buying a motor scooter to replace a bicycle used to earn income as a delivery person.
+u787 [T2 R5 C1] 4. Lower interest rates encourage investment.
+u788 [T2 R5 C2] 4. Explain why a decrease in interest rates may affect a business decision to buy new computers or a high school senior’s decision to enroll in college next year.
+=== page 46 ===
+u791 [T1 R1 C1] 5. The rate of productivity increase in an economy is strongly affected by the incentives that reward suc- cessful innovation and investments (in research and development, and in physical and human capital).
+u792 [T1 R1 C2] 5. Explain how extending the length of copyright and patent protection affect the incentives to invest.
+u793 ENHANCEMENT BOX
+u794 COMPOUND GROWTH
+u795 One way to see how economic growth can improve standards of living over a long
+u796 period of time is through understanding the effects of compounding. As noted in
+u797 the Enhancement Box — Compound Interest and “The Rule of 72” in Content Standard 2 on page 7 — compounding is useful in demonstrating how an initial
+u798 financial investment can accumulate over time. It is also essential to
+u799 understanding compound economic growth.
+u800 For example, the “Rule of 72” can help students see how critical long-term growth is to a country. A country that experiences annualized growth in per capita output of 1% will take 72 years to double its current level of GDP per person. By contrast, a
+u801 country that experiences 2% annualized growth will double per capita output in 36 years, while a country with a 3% long-term growth rate can expect to double the size of its economy in 24 years. This example highlights the importance of relatively small
+u802 differences in annual growth rates that are compounded steadily over time.
+u804 (x=186) Content Standard 15: Economic Growth
+=== page 47 === [running header: Benchmarks: Grade 4 | Voluntary National Content Standards IN ECONOMICS]
+u805 (x=54) Content Standard 16: Role of Government
+u806 (x=200) and Market Failure
+u807 Students will understand that: There is an economic role for government in a market economy whenever the benefits of a government policy outweigh its costs. Governments often provide for national defense, address environmental concerns, define and protect property rights, and attempt to make markets more competitive. Most government policies also have direct or indirect effects on people’s incomes.
+u808 Students will be able to use this knowledge to: Identify and evaluate the benefits and costs of alternative public policies, and assess who enjoys the benefits and who bears the costs.
+u809 Why does government pay private construction firms to build roads and highways? Why do the firms that build the roads not own them themselves and charge tolls to users? All kinds of goods and services are produced and distributed through private markets, so why not roads and highways, too? In flipping through the pages of the telephone directory, we observe a vast array of businesses and government agencies. Why do markets work well to supply much of what we want, while failing to produce other things we want?
+u810 Citizens should understand the limitations and shortcomings of both markets and government policies. Learning the economic as well as the political and social reasons for public sector services helps citizens make better choices about the appropriate size and scope of markets and government. It is also important that students be able to evaluate redistributive effects of government programs.
+u812 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u813 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u814 [T1 R2 C1] 1. Governments provide certain kinds of goods and services in a market economy.
+u815 [T1 R2 C2] 1. Brainstorm a list of goods and services (such as schools, police protection, roads, parks, etc.) not usually privately produced and explain how these goods and services are paid for.
+u816 [T1 R3 C1] 2. Governments pay for the goods and services they use or provide by taxing or borrowing.
+u817 [T1 R3 C2] 2. Apply knowledge of the role of government in the economy in responding to the following question: Your community wants to build a new public school. Who usually pays for this school and how will they get the money?
+=== page 48 === [running header: Benchmarks: Grade 8 | Benchmarks: Grade 12]
+u821 [T1 R1 C2] At the completion of Grade 8, students will know the Grade 4 benchmarks for this standard, and also that:
+u822 [T1 R1 C3] At the completion of Grade 8, students will use this knowledge to:
+u823 [T1 R2 C2] 1. Public goods and services provide benefits to more than one person at a time, and their use can not be restricted to only those people who have paid to use them.
+u824 [T1 R2 C3] 1. Explain why tax dollars are used to produce national defense. Explain why national defense would not be provided in the private sector.
+u825 [T1 R3 C2] 2. If a good or service cannot be withheld from those who do not pay for it, producers expect to be unable to sell it and, therefore, will not produce it. Governments provide some of these goods and services.
+u826 [T1 R3 C3] 2. Answer the following question: If the national, state, and local governments had no power to tax, what goods and services would we have to do without?
+u827 [T1 R4 C2] 3. Most federal government tax revenue comes from personal income and payroll taxes. Payments to Social Security recipients, the costs of national defense and homeland security, medical expenditures (such as Medicare), transfers to state and local governments, and interest payments on the national debt constitute the bulk of federal government spending.
+u828 [T1 R4 C3] 3. Use data from the U.S. federal budget to construct two pie charts, one representing major categories of federal revenue and the other repre- senting major categories of federal expenditures.
+u829 [T1 R5 C2] 4. Most state and local government revenues come from sales taxes, grants from the federal government, personal income taxes, and property taxes. The bulk of state and local government revenue is spent for education, public welfare (including hospitals and health), road construction and repair, and public safety.
+u830 [T1 R5 C3] 4. Compare the various sources of state and local revenues and various categories of state and local expenditures in their state and community with those of the U.S. federal government.
+u832 [T2 R1 C1] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u833 [T2 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u834 [T2 R2 C1] 1. Markets do not allocate resources efficiently if: (1) property rights are not clearly defined or enforced; (2) externalities (spillover effects) affecting large numbers of people are associated with the production or consumption of a product; or (3) markets are not competitive.
+u835 [T2 R2 C2] 1. Identify at least three economic roles of our government and cite a specific example of each.
+u836 [T2 R3 C1] 2. An important role for government in the economy is to define, establish, and enforce property rights. A property right to a good or service includes the right to exclude others from using the good or service and the right to transfer the ownership or use of the resource to others.
+u837 [T2 R3 C2] 2. Predict what would happen to the value of apple orchards if owners were unable to prohibit apple theft.
+u839 (x=126) Content Standard 16: Role of Government and Market Failure
+=== page 49 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u840 [T1 R1 C2] 3. Property rights provide incentives for the owners of resources to weigh the value of present uses against the value of conserving the resources for future use.
+u841 [T1 R1 C3] 3. Analyze how issuing property rights in certain parts of the ocean will affect the size of fish harvests in those parts of the ocean.
+u842 [T1 R2 C2] 4. Externalities exist when some of the costs or
+u843 [T1 R2 C3] 4. Explain why there is a role for government in
+u844 [T1 R3 C2] benefits associated with production and consump- tion fall on someone other than the producers or consumers of the product.
+u845 [T1 R3 C3] dealing with pollution, vaccinations and medical research; recommend what this role would be.
+u846 [T1 R4 C2] 5. When a price fails to reflect all the benefits of a product, too little of the product is produced and consumed. When a price fails to reflect all the costs of a product, too much of it is produced and consumed. Government can use subsidies to help correct for insufficient output; it can use taxes to help correct for excessive output; or it can regulate output directly to correct for over- or under-produc- tion or consumption of a product.
+u847 [T1 R4 C3] 5. Explain why state and local governments use public money for elementary education and why tobacco and gasoline are heavily taxed and some polluting firms are taxed and/or regulated.
+u848 [T1 R5 C2] 6. In the United States, the federal government enforces antitrust laws and regulations to try to maintain effective levels of competition; however, laws and regulations can also have unintended effects of reducing competition.
+u849 [T1 R5 C3] 6. Explain why the Federal Trade Commission might oppose the purchase of one large corporation by its closest competitor and what the effects might be on consumers, producers, and workers if the merger were allowed.
+u850 [T1 R6 C2] 7. When one producer can supply total output in a market at a cost that is lower than when there are two or more producers, competition may be unde- sirable. In the absence of competition, government regulations may then be used to try to control price, output, and quality, or government may directly provide the good or service.
+u851 [T1 R6 C3] 7. Explain why there is usually only one local water and sewer supplier, natural gas distributor, or electric service.
+u852 [T1 R7 C2] 8. Government laws establish the rules and institu- tions in which markets operate. These include such things as property rights, collective bargaining rules, laws about discrimination, and laws regulating marriage and family life.
+u853 [T1 R7 C3] 8. Explain how the Civil Rights Act of 1964 has affected labor markets.
+u854 [T1 R8 C2] 9. Governments often redistribute income directly when individuals or interest groups are not satisfeid with the income distribution resulting from markets; governments also redistribute income indirectly as side-effects of other government actions that affect prices or output levels for various goods and services.
+u855 [T1 R8 C3] 9. Describe a government assistance program, explain why government provides it, and determine which groups in the economy benefit and which groups bear the costs.
+u856 [T1 R9 C2] 10. Different tax structures affect consumers and producers differently.
+u857 [T1 R9 C3] 10. Analyze the following situation: A government has to raise $100 billion of revenues. It can do so through a sales tax or a progressive income tax. Explain the effect of each tax on a low income and a high income family.
+u858 [T1 R10 C2] 11. Governments provide an alternative to private markets for supplying goods and services when it appears that the beneftis to society of doing so outweigh the costs to society. Not all individuals will bear the same costs or share the same beneftis of those policies.
+u859 [T1 R10 C3] 11. Discuss the costs and beneftis of public education and identify who gains and who bears the costs.
+=== page 50 === [running header: Benchmarks: Grade 8]
+u862 Content Standard 17: Government Failure
+u863 Students will understand that: Costs of government policies sometimes exceed benefits. This may occur because of incentives facing voters, government officials, and government employees, because of actions by special interest groups that can impose costs on the general public, or because social goals other than economic efficiency are being pursued.
+u864 Students will be able to use this knowledge to: Identify some public policies that may cost more than the benefits they generate, and assess who enjoys the benefits and who bears the costs. Explain why the policies exist.
+u865 Do government officials try to promote the general welfare of the nation, or are they guided by their own self-interests? Businesses that fail to satisfy consumer wants go bankrupt; but how do we know when government programs fail, and how do we change or eliminate failed government programs? Why do some farmers receive large subsidies from the government, and why are many businesses protected from competition by tariffs or quotas — even when only a small percentage of the U.S. labor force is employed in those industries? Why don’t taxpayers rise up and put a stop to the favoritism accorded to certain industries and special interest groups? And why do so few people participate in the political process, and so many choose not to register or vote?
+u866 It is important to realize that governments, like markets, also have shortcomings and imperfections. Citizens should understand the sources of these imperfections, including the distribution of costs and benefits of some programs sought by special interests, the costs involved in gathering and using information about different candi- dates and government programs, and the incentives that can induce government leaders and employees to act in ways that do not promote the general national interest. Understanding this allows citizens to compare actual with ideal government performance, and to decide about the appropriate role for federal, state, and local government.
+u868 [T1 R1 C1] At the completion of Grade 8, students will know that:
+u869 [T1 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u870 [T1 R2 C1] 1. Citizens, government employees, and elected officials do not always directly bear the costs of their political decisions. This often leads to policies whose costs outweigh their benefits for society.
+u871 [T1 R2 C2] 1. Predict the costs that would be imposed on the public if federal taxes were increased to balance the budget, and explain how political goals conflict with economic goals.
+u872 [T1 R3 C1] 2. Incentives exist for political leaders to favor pro- grams that entail immediate benefits and deferred costs.
+u873 [T1 R3 C2] 2. Explain why, although most Americans say they are in favor of reducing the federal budget deficit, Congress doesn’t vote to increase taxes.
+u875 (x=184) Content Standard 17: Government Failure
+=== page 51 === [running header: Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u877 [T1 R2 C3] At the completion of Grade 12, students will know the Grade 8 benchmarks for this stan- dard, and also that:
+u878 [T1 R2 C4] At the completion of Grade 12, students use this knowledge to:
+u879 [T1 R2 C5] will
+u880 [T1 R3 C3] 1. A government policy to correct a market imper- fection is not justified economically if the cost of implementing it exceeds its expected benefits.
+u881 [T1 R3 C4] 1. Analyze the costs and benefits of a $500 per person state government job-training program help adults without jobs. Make a recommendat on whether or not implementing this program i good economic decision.
+u882 [T1 R3 C5] to ion s a
+u883 [T1 R4 C3] 2. Incentives exist for political leaders to implement policies that disperse costs widely over large groups of people and benefit small, and politically powerful groups of people.
+u884 [T1 R4 C4] 2. Explain why a political leader would support idea that helps only a few, such as farm subsidi at the cost of many dispersed consumers.
+u885 [T1 R4 C5] an es,
+u886 [T1 R5 C3] 3. Although barriers to international trade usually impose higher costs than beneftis, they are often advocated by people and groups who expect to gain substantially from them. Because the costs of these barriers are typically spread over a large number of people who each pay only a little and may not recognize the cost, policies supporting trade barriers are often adopted through the political process.
+u887 [T1 R5 C4] 3. Explain why a political leader would support idea that helps only a few while harming many such as a tariff on imported luggage.
+u888 [T1 R5 C5] an ,
+u889 [T1 R6 C3] 4. Price controls, occupational licensing, and reduc- tions in antitrust enforcement are often advocated by special interest groups. Price controls can reduce the quantity of goods and services produced, thus depriving consumers of some goods and services whose value would exceed their cost.
+u890 [T1 R6 C4] 4. Explain the statement: Removing rent contro New York City is good economics but bad polit Also, explain who would gain and who would l as a result of a 10 percent ceiling on credit car interest rates.
+u891 [T1 R6 C5] ls in ics. ose d
+u892 [T1 R8 C3] ENHANCEMENT BOX MORAL HAZARD Moral hazard exists when someone changes his or her behavior because they are (at least partially) insulated from risk. Moral hazard frequently arises in insurance markets when parties who are insured against a particular economic or social outcome may behave difefrently than they otherwise would. For example, a company that believes that it will not be allowed to fail if it makes bad business decisions may decide to take otherwise inadvisable risks in the hope of achieving improved economic returns. Similarly, mountain climbers are more likely to take chances with poor predicted weather conditions if they know that a park rescue team will come to their aid if problems arise. Government policies can sometimes lead to adverse economic outcomes because of problems associated with moral hazard. For example, government financial assistance to institutions that regulators determine to be “too big to fail” can lead fniancial services frims to engage in riskier lending practices than would occur if these frims were fully responsible for the potential losses that result from these practices.
+=== page 52 === [running header: Benchmarks: Grade 8]
+u895 Content Standard 18: Economic Fluctuations
+u896 Students will understand that: Fluctuations in a nation’s overall levels of income, employment, and prices are determined by the interaction of spending and production decisions made by all households, firms, government agencies, and others in the economy. Recessions occur when overall levels of income and employment decline.
+u897 Students will be able to use this knowledge to: Interpret media reports about current economic conditions and explain how these conditions can influence decisions made by consumers, producers, and government policy makers.
+u898 Changes in national levels of economic activity have a profound effect on students’ future welfare, their job opportunities, the level of their prospective earnings, and the prices they will pay for things they buy. It is important, therefore, for students to understand possible causes of changes in these levels and how such changes can produce economic problems (such as unemployment and inflation) or opportunities (such as increased employment). Understanding these forces equips students to predict the economic consequences of proposed government policies and to make informed choices among alternative public policy proposals.
+u900 [T1 R1 C2] At the completion of Grade 8, students will know that:
+u901 [T1 R1 C3] At the completion of Grade 8, students will use this knowledge to:
+u902 [T1 R2 C2] 1. GDP is a basic measure of a nation’s economic output and income. It is the total market value, measured in dollars, of all final goods and services produced in the economy in one year.
+u903 [T1 R2 C3] 1. Explain what GDP is and how it can be used to describe a country’s economic output over time, comparing total output from year to year.
+u904 [T1 R4 C2] 2. GDP can be computed by summing household consumption spending, investment expenditures, purchases by federal, state, and local governments, and net exports.
+u905 [T1 R4 C3] 2. Explain what is included in each component of GDP.
+u906 [T1 R5 C2] 3. Net exports equal the value of exports (goods and services sold to other countries) minus the value of imports (goods and services bought from other countries). Net exports can be either positive (trade surplus) or negative (trade deficit).
+u907 [T1 R5 C3] 3. Calculate what has happened to net U.S. exports because of changes in exports and imports over the last 10 years. Identify whether there has been a trade surplus or trade deficit over these years.
+u908 [T1 R6 C2] 4. GDP per capita is GDP divided by the population of a country.
+u909 [T1 R6 C3] 4. Determine the GDP per capita for several countries. Identify a few other countries whose GDP per capita is similar to that of the United States.
+u911 (x=171) Content Standard 18: Economic Fluctuations
+=== page 53 === [running header: Benchmarks: Grade 12 | Voluntary National Content Standards IN ECONOMICS]
+u912 [T1 R1 C2] 5. When consumers make purchases, goods and services are transferred from businesses to households in exchange for money payments. That money is used by businesses to pay for productive resources (natural, human, and capital). Governments also provide goods and services that are paid for with tax receipts.
+u913 [T1 R1 C3] 5. Draw and label a circular flow diagram and explain the interrelated roles of households, businesses, and government in the economy.
+u914 [T1 R2 C2] 6. One person’s spending is other people’s income. Consequently, an initial change in spending (con- sumption, investment, government, or net exports) usually results in a larger change in national levels of income, spending, and output.
+u915 [T1 R2 C3] 6. Read the following scenario and analyze the effects on the local economy: A visitor comes into a community and spends $100 on a single purchase at a store. The store’s revenues are higher by $100. It spends some of this money to pay for materials from local suppliers.
+u916 [T1 R3 C2] 7. A recession occurs when overall levels of income and employment decline.
+u917 [T1 R3 C3] 7. Identify the last four recessions in the U.S.
+u919 [T2 R1 C2] At the completion of Grade 12, students will know the Grade 8 benchmarks for this stan- dard, and also that:
+u920 [T2 R1 C3] At the completion of Grade 12, students will use this knowledge to:
+u921 [T2 R2 C2] 1. An increase in nominal GDP may refelct increases in the production of goods and services and also increases in prices. GDP adjusted for price changes is “real GDP.” Real GDP per capita is a basis for comparing material living standards over time and among different countries.
+u922 [T2 R2 C3] 1. Gather current and historical data on nominal GDP and real GDP and describe why the annual changes may differ. Collect real GDP per capita for the United States, Japan, Peru, and South Korea and use these data to describe a relationship between real GDP per capita and material standards of living.
+u923 [T2 R3 C2] 2. The potential level of real GDP for a nation is determined by such things as the size and skills of its labor force, the size and quality of its stock of capital goods, the quantity and quality of its natural resources, its technological capabilities, and its legal and cultural institutions.
+u924 [T2 R3 C3] 2. Explain why it might be difficult for Sub-Saharan Africa countries to reach a level of real GDP that approaches the level of Western European countries within the next 25 years.
+u925 [T2 R4 C2] 3. A business cycle involves fluctuations of real GDP around its potential level.
+u926 [T2 R4 C3] 3. Select a particular business cycle in U.S. history and identify its phases as well as the long run trend in real GDP around this cycle.
+u927 [T2 R6 C2] 4. Fluctuations of real GDP around its potential level occur when overall spending declines, as in a recession, or when overall spending increases rapidly, as in recovery from a recession or in an expansion.
+u928 [T2 R6 C3] 4. List possible causes of recent recessions and recent expansions.
+u929 [T2 R7 C2] 5. When real GDP rises above its potential, there is a tendency for inflation to rise. When real GDP is below its potential (as in a recession), there is a tendency for inflation to fall.
+u930 [T2 R7 C3] 5. Describe the effect on the overall price level when total consumption, investment, government spending, and net exports exceed the value of a nation’s output of final goods and services.
+=== page 54 === [running header: Benchmarks: Grade 4 | Benchmarks: Grade 8]
+u933 (x=54) Content Standard 19: Unemployment
+u934 (x=200) and Inflation
+u935 Students will understand that: Unemployment imposes costs on individuals and the overall economy. Inflation, both expected and unexpected, also imposes costs on individuals and the overall economy. Unemployment increases during recessions and decreases during recoveries.
+u936 Students will be able to use this knowledge to: Make informed decisions by anticipating the consequences of inflation and unemployment.
+u937 Inflation and unemployment are costly to individuals and affect economic growth and standards of living. Some aspects of inflation and unemployment can be addressed with public policies. Various political leaders and parties often have different ideas about which policies should be followed to deal with inflation and unemployment, however. The controversial policies, and the fact that almost everyone is affected by unemployment or inflation, explain why these two problems and alternative approaches to combat them are so widely reported in the news media, and why understanding them is important to people in a democratic political system.
+u939 [T1 R1 C1] At the completion of Grade 4, students will know that:
+u940 [T1 R1 C2] At the completion of Grade 4, students will use this knowledge to:
+u941 [T1 R2 C1] 1. Unemployment exists when adults can’t find jobs.
+u942 [T1 R2 C2] 1. Examine different scenarios in which adults have more or less difficulty finding jobs.
+u944 [T2 R1 C1] At the completion of Grade 8, students will know the Grade 4 benchmark for this standard, and also that:
+u945 [T2 R1 C2] At the completion of Grade 8, students will use this knowledge to:
+u946 [T2 R2 C1] 1. To be counted as unemployed, a person must be in the labor force. The labor force consists of people age 16 and over who are employed or actively seeking work. Thus the labor force is the sum of total employment and total unemployment.
+u947 [T2 R2 C2] 1. Determine whether each of the following is counted as a member of the labor force: (1) an elementary school student who has a paper route; (2) an army captain; (3) a retired butcher; (4) an insurance salesperson; (5) a parent who has decided not to work outside the home until the children are in school; and (6) a 42-year old civil engineer who looked for work for two years, but finally gave up searching for a job because he was discouraged by his lack of success.
+u949 (x=157) Content Standard 19: Unemployment and Inflation
+=== page 55 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u950 [T1 R1 C1] 2. When people’s incomes increase more slowly than the inflation rate, their purchasing power declines. 3. The unemployment rate is the percentage of the labor force that is willing and able to work, does not currently have a job, and is actively looking for work. enchmarks: Grade 12 At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that: 1. The unemployment rate is an imperfect measure of unemployment because, among other reasons, it does not: (1) include workers whose job prospects are so poor that they become discouraged from seeking jobs and leave the labor force, and (2) refelct part-time workers who are looking for full-time work.
+u951 [T1 R2 C2] 2. When people’s incomes increase more slowly than the inflation rate, their purchasing power declines.
+u952 [T1 R2 C3] 2. Compare the prices of a market basket of goods in 1983 with similar prices today. Explain how infaltion reduces purchasing power for people whose income is either fixed or increasing slower than the rate of inflation.
+u953 [T1 R3 C2] 3. The unemployment rate is the percentage of the labor force that is willing and able to work, does not currently have a job, and is actively looking for work.
+u954 [T1 R3 C3] 3. Calculate the unemployment rate for the following situation: Berks County has 200,000 people. Of that population, 70,000 are full-time homemakers, students, children, retired people, or people not looking for work. Of the remaining residents of Berks County, 110,000 people have jobs.
+u955 [T1 R4 C3] At the completion of Grade 12, students will use this knowledge to: 1. Explain how the fact that there are people who are discouraged from seeking jobs helps us understand why unemployment sometimes increases while em- ployment is rising during an economic recovery. 2. Locate data pertaining to unemployment rates for young people and minorities, and provide possible explanations of why unemployment rates for these groups differ from the unemployment rates for other groups in the economy. 3. Give examples of each type of unemployment and identify which types cause more serious problems in the economy. 4. Identify why people might be unemployed even when the economy appears to be at full employment. 5. Using data on employment and real GDP, identify the relationship between the two.
+u956 [T1 R5 C2] At the completion of Grade 12, students will know the Grade 4 and Grade 8 benchmarks for this standard, and also that:
+u957 [T1 R5 C3] At the completion of Grade 12, students will use this knowledge to:
+u958 [T1 R6 C2] 1. The unemployment rate is an imperfect measure of unemployment because, among other reasons, it does not: (1) include workers whose job prospects are so poor that they become discouraged from seeking jobs and leave the labor force, and (2) refelct part-time workers who are looking for full-time work.
+u959 [T1 R6 C3] 1. Explain how the fact that there are people who are discouraged from seeking jobs helps us understand why unemployment sometimes increases while em- ployment is rising during an economic recovery.
+u960 [T1 R7 C2] 2. Unemployment rates differ for people of different ages, races, and sexes. This reflects differences in work experience, education, training, and skills, as well as discrimination.
+u961 [T1 R7 C3] 2. Locate data pertaining to unemployment rates for young people and minorities, and provide possible explanations of why unemployment rates for these groups differ from the unemployment rates for other groups in the economy.
+u962 [T1 R8 C2] 3. Unemployment can be caused by people changing jobs, by seasonal fluctuations in demand, by changes in the skills needed by employers, or by cyclical fulctuations in the level of national spending.
+u963 [T1 R8 C3] 3. Give examples of each type of unemployment and identify which types cause more serious problems in the economy.
+u964 [T1 R9 C2] 4. Some people are unemployed even when the economy is said to be functioning at full employment.
+u965 [T1 R9 C3] 4. Identify why people might be unemployed even when the economy appears to be at full employment.
+u966 [T1 R10 C2] 5. Changes in total employment are an important indicator of economic performance and influence levels of real GDP.
+u967 [T1 R10 C3] 5. Using data on employment and real GDP, identify the relationship between the two.
+u968 [T1 R11 C2] 6. Unexpected inflation imposes costs on many people and benefits others because it arbitrarily redistributes purchasing power among different groups of people. Unexpected inflation hurts savers and people on fixed incomes; it helps people who have borrowed money at a fixed rate of interest.
+u969 [T1 R11 C3] 6. For each of the following cases, explain who would be harmed and who would benefti from an unexpected 10 percent infaltion: (1) Mike’s retirement income is fxied at $24,000 a year; (2) Bonnie borrowed $5,000 last year and must pay it back at the end of this year; (3) John lent the $5,000 to Bonnie last year and will be paid back at the end of this year.
+u970 [T1 R12 C2] 7. Inflation can reduce the rate of growth of na- tional living standards because individuals and organizations use resources to protect themselves against the uncertainty of future prices.
+u971 [T1 R12 C3] 7. Identify assets people can buy to protect themselves against inflation and discuss how much time people spend with this problem in times of high inflation compared to times of low inflation.
+=== page 56 === [running header: Benchmarks: Grade 12]
+u974 (x=54) Content Standard 20: Fiscal and
+u975 (x=200) Monetary Policy
+u976 Students will understand that: Federal government budgetary policy and the Federal Reserve System’s monetary policy influence the overall levels of employment, output, and prices.
+u977 Students will be able to use this knowledge to: Anticipate the impact of federal government and Federal Reserve System macroeconomic policy decisions on themselves and others.
+u978 The U.S. federal government’s taxation and spending policies, and the Federal Reserve System’s monetary policies affect the nation’s overall levels of employment, output, and prices. Government taxation and spending activities are usually undertaken for other reasons. For example, government expenditures for national defense and human services are made to meet specific objectives and not primarily for their fiscal policy effects. Other important objectives must be merged with the goals of full employment, price stability, and economic growth. Government programs may have contradictory effects upon employment and inflation. Understanding these effects is complicated also by the time lags that occur before action taken pursuant to a specific policy begins to affect overall levels of employment, output, and prices.
+u979 In spite of these difficulties, policy makers and the general public continue to examine and debate the overall stabilization effects of public policy actions (such as stimulus packages), because the consequences are so important. Citizens should understand the role of conflicting objectives and the limitations on the effectiveness of economic stabilization policies in order to develop realistic expectations about what can be accomplished with taxation, spending, and monetary policies.
+u981 [T1 R1 C1] At the completion of Grade 12, students will know that:
+u982 [T1 R1 C2] At the completion of Grade 12, students will use this knowledge to:
+u983 [T1 R2 C1] 1. Fiscal policies are decisions to change spending and taxation levels by the federal government. As fsical policies, these decisions are adopted to infulence national levels of output, employment, and prices.
+u984 [T1 R2 C2] 1. Identify historical examples of fiscal policies and explain why these policies were adopted.
+u985 [T1 R3 C1] 2. In the short run, increasing federal spending and/ or reducing taxes can promote more employment and output, but these polices also put upward pressure on the price level and interest rates. Decreased federal spending and/or increased taxes tend to lower price levels and interest rates, but they reduce employment and output levels in the short run.
+u986 [T1 R3 C2] 2. Outline the fiscal policies they would recommend to correct rising unemployment and explain their recommendation.
+u988 (x=161) Content Standard 20: Fiscal and Monetary policy
+=== page 57 === [running header: Voluntary National Content Standards IN ECONOMICS]
+u989 [T1 R1 C1] 3. Over time, the interest-rate effects of an ex- pansionary fiscal policy may lead to a decrease in private investment spending that offsets the output and employment effects of the policy.
+u990 [T1 R1 C2] 3. Explain why an additional $20 billion of federal spending on highways, financed by federal gov- ernment borrowing, can reduce private investment spending in the economy in the long run.
+u991 [T1 R2 C1] 4. The federal government’s annual budget is balanced when its revenues from taxes (and other sources) equal its expenditures. The government runs a budget deficit when its expenditures exceed its revenues. The government runs a surplus when its revenues exceed its expenditures.
+u992 [T1 R2 C2] 4. Determine what is likely to happen to the federal budget deficit or surplus when the economy is growing and when economic activity is declining.
+u993 [T1 R3 C1] 5. When the government runs a budget deficit, it must borrow to finance that deficit.
+u994 [T1 R3 C2] 5. Explain that federal deficits are financed through the sale of government securities.
+u995 [T1 R4 C1] 6. The national debt is the accumulated sum of all its past annual deficits and surpluses.
+u996 [T1 R4 C2] 6. Distinguish between deficits and debt. Explain how federal budget deficits and surpluses affect the national debt.
+u997 [T1 R5 C1] 7. Monetary policies are decisions by the Federal Reserve System that lead to changes in the supply of money, short term interest rates, and the availability of credit. Changes in the growth rate of the money supply can influence overall levels of spending, employment, and prices in the economy by induc- ing changes in the levels of personal and business investment spending.
+u998 [T1 R5 C2] 7. Write an article for the business section of the lo- cal newspaper explaining how changes in monetary policy affect the money supply, interest rates, and the path of economic activity in their community.
+u999 [T1 R6 C1] 8. The Federal Reserve System’s major monetary policy tool is open market purchases or sales of government securities, which affects the money supply and short-term interest rates. Other policy tools used by the Federal Reserve System include making loans to banks (and charging a rate of interest called the discount rate). In emergency situations, the Federal Reserve may make loans to other institutions. The Federal Reserve can also influence monetary conditions by changing depository institutions’ reserve requirements.
+u1000 [T1 R6 C2] 8. Playing the roles of members of the Federal Open Market Committee, decide for each of the headlines below whether an expansionary policy or a contractionary policy would be more appropriate and whether government securities should be purchased or sold. Newspaper headlines: Unem- ployment Rate Soars; New Housing Starts Rise; CPI Rises At Faster Pace for Third Consecutive Month.
+u1001 [T1 R7 C1] 9. The Federal Reserve targets the level of the federal funds rate, a short-term rate that banks charge one another for the use of excess funds. This target is largely reached by buying and selling existing government securities.
+u1002 [T1 R7 C2] 9. Identify a recently announced change in the federal funds rate target and determine how and why this change was made.
+u1003 [T1 R8 C1] 10. The Federal Reserve tends to increase interest rate targets when it feels the economy is growing too rapidly and/or the inflation rate is accelerating. It tends to lower rate targets when it wants to stimulate the short-term growth of the economy.
+u1004 [T1 R8 C2] 10. Compare and contrast monetary policy during the 1979-82 period with monetary policy during 2008-09.
+=== page 58 ===
+u1007 ISBN 978-1-56183-733-5
+u1008 122 East 42nd Street, Suite 2600, New York, NY 10168
+u1009 (x=37) 212.730.7007 800.338.1192 fax: 212.730.1793 www.councilforeconed.org e-mail: customerservice@councilforeconed.org
+u1010 (x=437) 
+u1011 (x=37) 978-1-56183-733-5

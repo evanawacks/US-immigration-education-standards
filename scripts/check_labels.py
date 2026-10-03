@@ -31,12 +31,15 @@ def check(st, sub=""):
             d = json.loads(lf.read_text())
         except Exception as e:
             print(f"{lf.name}: INVALID JSON {e}"); ok = False; continue
-        uf = udir / (d.get("file", lf.name.replace(".labels.json", "")) + ".units.jsonl")
+        base = re.sub(r"\.part\d+$", "", lf.name.replace(".labels.json", ""))
+        uf = udir / (d.get("file", base) + ".units.jsonl")
         if not uf.exists():
             print(f"{lf.name}: unit file not found {uf.name}"); ok = False; continue
         units = [json.loads(l) for l in open(uf)]
         need = {int(u["id"][1:]) for u in units if not u.get("furniture")}
         allids = {int(u["id"][1:]) for u in units}
+        if d.get("range"):  # partial label file covering only a unit range
+            rng = set(parse_units(d["range"])); need &= rng
         seen, problems = {}, []
         for i, lab in enumerate(d.get("labels", [])):
             try:

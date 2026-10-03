@@ -960,7 +960,7 @@
    "2018_WI_Social_Studies_Standards_6bd3f2.pdf": "use",
    "2018_WI_Social_Studies_Standards_99e337.pdf": "skip: exact duplicate text of 2018_WI_Social_Studies_Standards_6bd3f2.",
    "Standards_Revision_and_Review_Process_Flow_Chart_final_Sept_2016_af2b9d.pdf": "skip: not standards (process chart)",
-   "WMAS_for_Social_Studies_9f7a60.pdf": "use",
+   "WMAS_for_Social_Studies_9f7a60.pdf": "skip: scanned image PDF with no text layer (older Wisconsin Model Academic Standards); current 2018 standards used",
    "voluntary-national-content-standards-2010_4ed1ed.pdf": "skip: older national standards (superseded)"
   },
   "issues": []

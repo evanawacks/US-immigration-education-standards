@@ -1,0 +1,1101 @@
+=== page 1 ===
+u1 South Dakota Social Studies Content Standards
+u2 Adopted August 24, 2015
+=== page 2 ===
+u3 Acknowledgments
+u4 The revised Social Studies Content Standards are a result of the contributions of educators from across the state. Many hours were devoted to research and thoughtful consideration of issues to ensure that the standards would reflect rigorous social studies teaching and provide opportunities for students to learn important social studies concepts, facts, and processes. The Social Studies Content Standards Revision Committee members represent concerned individuals across the state dedicated to their profession and to high-quality social studies education. Without their contributions, the revision of the Social Studies Content Standards would not have been possible. The South Dakota Department of Education wishes to express appreciation and gratitude to the individuals and the organizations they represent who contributed expertise and time to the revision of South Dakota’s Social Studies Content Standards.
+u5 South Dakota Social Studies Content Standards Revision Committee Members 2014
+u6 [T1 R1 C1] Name
+u7 [T1 R1 C2] School District/Affiliation
+u8 [T1 R1 C3] Title
+u9 [T1 R2 C1] Bagley, Robin
+u10 [T1 R2 C2] Chiesman Center for Democracy
+u11 [T1 R2 C3] Director of Civic Education
+u12 [T1 R3 C1] Belfrage, Marta
+u13 [T1 R3 C2] Sioux Falls Public Schools - Memorial MS
+u14 [T1 R3 C3] 8th Grade U.S. history
+u15 [T1 R4 C1] Bell, Erica
+u16 [T1 R4 C2] Sioux Falls Public Schools - Edison Middle
+u17 [T1 R4 C3] 8th Grade American history
+u18 [T1 R5 C1] Bohl, Joanne
+u19 [T1 R5 C2] West Central School District
+u20 [T1 R5 C3] World History, Government, Economics
+u21 [T1 R6 C1] Bolstad, Tyler
+u22 [T1 R6 C2] Brookings School District
+u23 [T1 R6 C3] 5th Grade Teacher
+u24 [T1 R7 C1] Brink, Marquette
+u25 [T1 R7 C2] St.Joseph School - Pierre
+u26 [T1 R7 C3] 5th Grade Teacher
+u27 [T1 R8 C1] Cass, Patrick
+u28 [T1 R8 C2] Meade School District
+u29 [T1 R8 C3] 8th Grade U.S. History
+u30 [T1 R9 C1] Clercx, Justin
+u31 [T1 R9 C2] Elk Point-Jefferson School District
+u32 [T1 R9 C3] MS Social Studies Teacher
+u33 [T1 R10 C1] Crown, Sandy
+u34 [T1 R10 C2] Hermosa (Custer School District)
+u35 [T1 R10 C3] 1st Grade Teacher
+u36 [T1 R11 C1] Davis, Michele
+u37 [T1 R11 C2] Technology and Innovation in Education
+u38 [T1 R11 C3] Learning Specialist
+u39 [T1 R12 C1] Garrett, Megan
+u40 [T1 R12 C2] Rapid City Public Schools
+u41 [T1 R12 C3] Middle School Social Studies
+u42 [T1 R13 C1] Gholson, Sean
+u43 [T1 R13 C2] Douglas School District
+u44 [T1 R13 C3] 9-12 Social Studies Teacher
+u45 [T1 R14 C1] Gritzner, Dr. Charles
+u46 [T1 R14 C2] South Dakota State University
+u47 [T1 R14 C3] Distinguished Professor Emeritus
+u48 [T1 R15 C1] Guse, Scott
+u49 [T1 R15 C2] Sioux Falls School District, Washington HS
+u50 [T1 R15 C3] AP Psychology
+u51 [T1 R16 C1] Haffner-Baumeister, Kristie
+u52 [T1 R16 C2] McIntosh School District
+u53 [T1 R16 C3] 8-12 Social Studies Teacher
+u54 [T1 R17 C1] Harder-Huwe, Nancy
+u55 [T1 R17 C2] Rapid City Area Schools
+u56 [T1 R17 C3] MS Social Studies
+=== page 3 ===
+u58 [T1 R1 C1] Harming, Cheryl
+u59 [T1 R1 C2] Elkton School District
+u60 [T1 R1 C3] 7-12 Social Studies
+u61 [T1 R2 C1] Hawkins, George
+u62 [T1 R2 C2] Sioux Falls New Technology High School
+u63 [T1 R2 C3] U.S. History, Government, AP Government Facilitator
+u64 [T1 R3 C1] Iverson, Erik
+u65 [T1 R3 C2] Rapid City Area Schools/BHSU Adjunct
+u66 [T1 R3 C3] 9-12 U.SS History
+u67 [T1 R4 C1] Karstens, Justin
+u68 [T1 R4 C2] Gayville-Volin School District
+u69 [T1 R4 C3] 9-12 Social Studies Teacher
+u70 [T1 R5 C1] Krahenbuhl, Dr. Kevin
+u71 [T1 R5 C2] Dakota State University
+u72 [T1 R5 C3] Assistant Professor in the College of Education
+u73 [T1 R6 C1] Lacher, Carol
+u74 [T1 R6 C2] Ipswich School District
+u75 [T1 R6 C3] 5th Grade Teacher
+u76 [T1 R7 C1] Larsen, Tracey
+u77 [T1 R7 C2] Sioux Falls School District, Patrick Henry MS
+u78 [T1 R7 C3] 8th Grade U.S. History Teacher
+u79 [T1 R8 C1] Lein, Kevin
+u80 [T1 R8 C2] Harrisburg School District
+u81 [T1 R8 C3] High School Principal
+u82 [T1 R9 C1] Long, Amy
+u83 [T1 R9 C2] Yankton School District
+u84 [T1 R9 C3] 8th Grade U.S. History Teacher
+u85 [T1 R10 C1] May, Mary Jo
+u86 [T1 R10 C2] Rapid City Area Schools
+u87 [T1 R10 C3] World History, Native American Heritage, Sociology, & Civics Teacher
+u88 [T1 R11 C1] Nelin-Maruani, Michelle
+u89 [T1 R11 C2] Rapid City Area Schools
+u90 [T1 R11 C3] Social Science Coordinator
+u91 [T1 R12 C1] Nystrom, Martha
+u92 [T1 R12 C2] Pierre School District, Middle School
+u93 [T1 R12 C3] 6th Grade Social Studies
+u94 [T1 R13 C1] Olson, Lauren
+u95 [T1 R13 C2] Rutland School District
+u96 [T1 R13 C3] High School Social Studies
+u97 [T1 R14 C1] Plowman, Laura
+u98 [T1 R14 C2] Brookings School District
+u99 [T1 R14 C3] World History, U.S. History, and AP U.S. Government teacher
+u100 [T1 R15 C1] Renner, Beth
+u101 [T1 R15 C2] Britton-Hecla School District
+u102 [T1 R15 C3] Elementary Teacher
+u103 [T1 R16 C1] Schlosser, Brandi
+u104 [T1 R16 C2] Ipswich School District
+u105 [T1 R16 C3] Elementary Teacher
+u106 [T1 R17 C1] Shaw, Sam
+u107 [T1 R17 C2] Department of Education
+u108 [T1 R17 C3] Division of Learning and Instruction
+u109 [T1 R18 C1] Toft, Eric
+u110 [T1 R18 C2] Brookings
+u111 [T1 R18 C3] 7th Grade Geography Teacher
+u112 [T1 R19 C1] Vroman, Beth
+u113 [T1 R19 C2] Sioux Falls School District, Patrick Henry MS
+u114 [T1 R19 C3] 7th Grade Geography Teacher
+=== page 4 ===
+u116 Social Studies Overview
+u117 Preface
+u118 These Social Studies Content Standards are set forth to ensure graduates of South Dakota’s public schools have the knowledge, skills, and competencies essential to leading productive, fulfilling, and successful lives as they continue their education, enter the workforce, and assume their civic responsibilities.
+u119 The final document evolved from recent research in best practices in teaching, adoption of rigorous content standards in other core subjects, experience in classrooms with the existing South Dakota Content Standards, the advancement of published standards from other states, the National Curriculum Standards for Social Studies, United States history, geography, civics, and economics, numerous professional publications, and lengthy discussions by experienced kindergarten through post-secondary South Dakota educators.
+u120 The outcomes students are expected to attain at each grade level are stated explicitly in these standards. With student mastery of this content, South Dakota schools will be competitive with the best educational systems in other states and nations. The standards are comprehensive and specific, they are rigorous, and they represent South Dakota’s commitment to excellence. The standards are firm but not unyielding; they will be modified in future years to reflect new research and scholarship.
+u121 Purpose and Key Considerations
+u122 Perhaps more than any other discipline, the social studies can provide students an opportunity to grow as independent decision-makers. This provides the foundation for pedagogy and instructional strategies. The standards in this document must be considered a vehicle to achieve greater educational goals. The standards are developmentally appropriate and logically sequenced for use as a framework to assist student growth in the following skills:
+u123 1. Responsible citizenship found in the Civics/Government standards. 2. Spatial awareness found in the Geography standards. 3. Economic literacy found in the Economics standards. 4. Historical analysis found in the History standards.
+u124 The South Dakota Social Studies Content Standards provide a listing of essential core content to be taught and learned. The standards are designed to guide the planning of instruction and to anchor the assessment of learning from kindergarten through twelfth grade. Outcomes are meant to inform content standards, assessment, provide information to teachers and students regarding student progress toward mastery of the standards, and specify targets for instruction and learning. The document presents a starting point for informed dialogue among those dedicated and committed to quality education in South Dakota. By providing a common set of goals and expectations for all students in all schools, this dialogue will be strengthened and enhanced.
+=== page 5 ===
+u126 Teachers can use the above skills to evaluate instruction and student performance. Curricular construction should make use of the above skills to guide curricular decisions. The standards in this document provide a roadmap to avoid redundancy except when necessary and to supply consistency across the state. Teachers, however, are not restricted to only the content represented. The depth and breadth of the social studies should provide teachers endless possibilities to create enlivened lessons that foster student advancement in social studies skills. Teachers are encouraged to measure instructional success by student advancement and not the amount of material covered or the quantity memorized. The following standards can guide the content selection to promote student achievement, but are not intended to limit instructional innovation. The social studies teacher aspires to provide instruction in the standards through meaningful, challenging, integrated, and active lessons. The standards support teachers in this quest. The foundation of these state standards is designed to foster responsible decision making that benefits the local and tribal community, state, nation, and world. Responsible citizens are informed, active, and recognize their connection with the world. The Social Studies Content Standards are organized into four disciplines: History, Geography, Civics/Government, and Economics. Each discipline is addressed at appropriate grade levels with increasing rigor and relevance.
+u127 As students move from kindergarten through grade 12, levels of cognitive demand and complexity of content, skills, and processes increase. New skills emerge and basic skills are subsumed within more advanced skills as students progress through the grades. Grade-level outcomes specify what students should know and be able to do by the end of each grade level. Because standards are not curriculum, any necessary review embedded in curriculum does not appear from grade-to-grade across grade-level standards. Teachers are charged with introducing skills in earlier grades before mastery is expected and with reviewing skills students will need to use in mastering the grade-level standards. Notable Changes (from 2007 SS Standards document to the 2014 SS Standards document)
+u128  Unified standards K-12 in all disciplines  Used the terms "Anchor Standards" and "Grade-level Standards" to indicate larger goals and their subsequent grade level aim.  Moved World and U.S. History under the discipline History  Used C3 Framework skills and parallel South Dakota Literacy for History/Social Studies in Reading and Writing Standards to inform standards and outcomes  Created skill-based, content standards including college, career, and civic readiness thinking skills: inquiry, communication, critical thinking, and problem solving  Integrated Webb Leveling /DOK (Depth of Knowledge)  Removed “Core” and “Advanced” distinctions  Removed specific curriculum examples from within the standards  Removed enabling skills and ensured they were embedded in content standards  Wrote HS Economics for stand-alone Economics course compared to the 2007 document, which had HS Economics standards cross-referenced to another discipline  Included standards for how humans culturally adapt to their environment in the K-2 Geography standards  SD History now spans 3-5th grade, leaving the majority of the SD History outcomes in 4th grade and also ensuring the content is built upon in a learning progression  Included standards for US History in grades 9-12 that cover from the Revolution to Reconstruction.
+=== page 6 ===
+u130 Organization of the South Dakota K-12 Social Studies Content Standards Document Guide to the Number and Symbol System
+u131 The South Dakota K-12 Social Studies Content Standards include both K-12 anchor standards and grade-level standards (what students should know and be able to do) each grade level (K-8) or grade band (9-12).
+u132 The Anchor Standards are coded to show Grade Level/Grade Band, Discipline, and Anchor Standard only. Anchor Standards are the same for all grades K- 12 and ensure that vertical progression occurs as students proceed from one grade to the next. The Grade Level Standards are coded to show Grade Level/Grade Band, Discipline, Anchor Standard, and the Grade Level Standard (see example code below). Grade Level Standards are specific outcomes for the respective grade level or grade band.
+u133 Grade Level Standard Example
+u134 (x=99) 9-12.
+u135 (x=295) G.
+u136 (x=479) 1.
+u138 (x=74) Grade Level
+u139 (x=266) Discipline
+u140 (x=419) Anchor Standard
+u141 (x=622) Grade Level
+u142 Standard
+u143 Example: 9-12.G.1.1 (9th through 12th grade, Geography, Anchor Standard 1, Grade Level Standard 1)
+=== page 7 ===
+u145 Additional Resources
+u146 Since this document uses appropriate social studies terminology, a reader may occasionally encounter an unfamiliar term. In order to assist the reader with terminology used in this document, a glossary has been included with specific definitions to clarify intended meaning by discipline. In addition, a comprehensive glossary is provided as a sampling of possible information sources. Because new resources are constantly becoming available, this list is intended to be neither exhaustive nor required.
+u147 South Dakota used research-based resources to inform the newest SD standards. Starting in June 2014, the workgroup reviewed the C3 Framework – a skill set needed for students to be College, Career, and Civic ready. In June the workgroup began by utilizing the expertise of the writers of C3 Framework, reviewed the current SD Standards, and discussed how the framework and the current SD Content Standards could inform the next draft of the SD State SS Standards. The final South Dakota product is an amalgamation that was created from documents based in research, national association’s contributions, existing South Dakota Social Studies Standards, the C3 Framework, and the National Curriculum Standards for Social Studies. The following are the resources/associations that had been referred to at some point throughout the standards revision process:
+u148 American Bar Association American Geographical Society American Historical Association Association of American Geographers C3 Framework Campaign for the Civic Mission of Schools Center for Civic Education Constitutional Rights Foundation Chicago Constitutional Rights Foundation USA Council for Economic Education National Council for Geographic Education National Council for History Education National Council for the Social Studies National Geographic Society National History Day Street Law, Inc. The College Board World History Association
+=== page 8 ===
+u150 General Introduction to C3 Framework
+u151 The C3 Framework served as inspiration for the graphic designed by the Social Studies Workgroup and it is intended to give a visual representation of the overarching themes within this standards document. The C3 Framework is split into four Dimensions: (1) Developing questions and planning inquiries; (2) applying disciplinary concepts and tools; (3) evaluating sources and using evidence; and (4) communicating conclusions and taking informed action.
+u152 C3 Integration & Parallels to the Visual on the Title Page
+u153 The South Dakota Social Studies Graphic utilizes elements from each of these Dimensions just as our standards documents sought to connect the C3 skills into our state standards. Along the right-hand side of the image is “inquiry” and it directly correlates with Dimension 1 of the C3 Framework, which is “developing questions and planning inquiries.” On the left-hand side is “communication”, which parallels with Dimension 4 of the C3 Framework: “communicating conclusions and taking informed action”. Finally, the four colored quadrants of the South Dakota layout reflect the four sub-elements of Dimension 2 “applying disciplinary concepts and tools” and includes specified history, geography, civics, and economics concepts and tools. Thus, this visual was adopted as a graphical representation of the parallels between the C3 Framework representing our commitment to increasing skill development and rigor in conjunction within the core disciplines of the social studies.
+=== page 9 ===
+u155 A Message to Teachers, Principals, Superintendents, and Others Who Will Use the Document
+u156 The Social Studies Content Standards Revision Committee was made up of a group of kindergarten through post-secondary educators who collaborated to establish a starting point for reaching South Dakota’s goal: each student graduates prepared for college, career, and civic life.
+u157 A set of standards is simply a place to begin—it lays the foundation for measurable, consistent, high-level student learning. Teachers, however, have the flexibility to consider the needs of their individual students and select the methods that will work best for their classrooms. Clearly, there is more to teaching and learning than these standards. The standards are a starting point in creating an environment where students can learn to live and thrive in a constantly changing, increasingly complex world. Conclusion
+u158 The committee provides, through the standards document, a framework for the teaching and learning of social studies content, concepts, and skills. The committee members wish to emphasize, however, that the real goal of social studies teachers is to inspire students to become committed, participating citizens. This requires that students develop skills and dispositions that are difficult to assess. Teachers who accomplish this goal with students practice the art and science of teaching. They are professionals who prioritize content that leads to citizenship skill development, often beyond the achievement of the stated Social Studies Content Standards, rather than teaching simply to “cover” the material. Social Studies is so much more than facts, places, and dates; it is the singular discipline that enables students to obtain a rich and broad understanding of the complex world they inhabit. We believe that civic virtues are embedded within the standards, but are not specifically addressed due to the inability to measure them, i.e., volunteerism, honesty, loyalty. We are confident that teachers will emphasize the importance of these vital components of social studies teaching and learning.
+u159 [T1 R1 C1] Table of Contents for the Grade Band/Grade Level Standards
+u160 [T1 R2 C1] Kindergarten………….page 10
+u161 [T1 R2 C2] 7th Grade………………………….page 27
+u162 [T1 R3 C1] 1st Grade………………..page 12
+u163 [T1 R3 C2] 8th Grade………………………….page 29
+u164 [T1 R4 C1] 2nd Grade………………..page 14
+u165 [T1 R4 C2] 9-12 Civics/Government……page 33
+u166 [T1 R5 C1] 3rd Grade………………..page 16
+u167 [T1 R5 C2] 9-12 Geography………………..page 35
+u168 [T1 R6 C1] 4th Grade………………..page 18
+u169 [T1 R6 C2] 9-12 Economics………………..page 36
+u170 [T1 R7 C1] 5th Grade………………..page 21
+u171 [T1 R7 C2] 9-12 U.S. History………………..page 38
+u172 [T1 R8 C1] 6th Grade………………..page 25
+u173 [T1 R8 C2] 9-12 World History……………page 39
+=== page 10 ===
+u175 Anchor Standards and Grade Level/Band Standards
+u176 Kindergarten
+u177 [T1 R1 C2] Kindergarten History
+u178 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u179 [T1 R3 C1] K.H.1.1
+u180 [T1 R3 C3] Distinguish yesterday, today, and tomorrow
+u181 [T1 R4 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas, and symbols upon history using multiple sources.
+u182 [T1 R5 C1] K.H.2.1
+u183 [T1 R5 C3] Identify local and national celebrations
+u184 [T2 R1 C2] Kindergarten Civics/Government
+u185 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes of various forms of governments.
+u186 [T2 R3 C1] K.C.1.1
+u187 [T2 R3 C3] Identify our country’s flag of the United States as a symbol of the nation
+u188 [T2 R4 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including, but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u189 [T2 R5 C1] K.C.2.1
+u190 [T2 R5 C3] Understand classroom rules and why they are important
+u191 [T3 R1 C2] Kindergarten Geography
+u192 [T3 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u193 [T3 R3 C1] K.G.1.1
+u194 [T3 R3 C3] Recognize that maps and globes represent places
+u195 [T3 R4 C1] K.G.1.2
+u196 [T3 R4 C3] Use environmental directions or positional words including but not limited to up, down, above, and below to identify significant locations in the classroom
+u197 [T3 R5 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+u198 [T3 R6 C1] K.G.3.1
+u199 [T3 R6 C3] Identify and describe places in the immediate environment including the classroom and/or playground
+u200 [T3 R7 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements
+=== page 11 ===
+u202 [T1 R1 C1] K.G.6.1
+u203 [T1 R1 C2] Describe ways people rely on the environment to meet human needs and wants
+u204 [T2 R1 C2] Kindergarten Economics
+u205 [T2 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u206 [T2 R3 C1] K.E.1.1
+u207 [T2 R3 C3] Describe the difference between wants and needs
+=== page 12 ===
+u209 Grade 1
+u210 [T1 R1 C2] Grade 1 History
+u211 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u212 [T1 R3 C1] 1.H.1.1
+u213 [T1 R3 C3] Demonstrate chronological order using events from their own lives
+u214 [T1 R4 C1] 1.H.1.2
+u215 [T1 R4 C3] Describe ways people learn about the past including but not limited to photos, artifacts, stories, and videos
+u216 [T1 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u217 [T1 R6 C1] 1.H.2.1
+u218 [T1 R6 C3] Connect people and events honored in commemorative celebrations
+u219 [T2 R1 C2] Grade 1 Civics/Government
+u220 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes of various forms of governments.
+u221 [T2 R3 C1] 1.C.1.1
+u222 [T2 R3 C3] Identify primary symbols of the United States
+u223 [T2 R4 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including, but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u224 [T2 R5 C1] 1.C.2.1
+u225 [T2 R5 C3] Explain who makes decisions and rules in the school
+u226 [T2 R6 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u227 [T2 R7 C1] 1.C.3.1
+u228 [T2 R7 C3] Identify services in your local community including but not limited to police, fire, and ambulance
+u229 [T3 R1 C2] Grade 1 Geography
+u230 [T3 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u231 [T3 R3 C1] 1.G.1.1
+u232 [T3 R3 C3] Construct simple maps of the classroom
+u233 [T3 R4 C1] 1.G.1.2
+u234 [T3 R4 C3] Use maps, globes, and other simple geographic models to identify absolute location
+u235 [T3 R5 C1] 1.G.1.3
+u236 [T3 R5 C3] Distinguish between landmasses and bodies of water using maps and globes
+u237 [T3 R6 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+=== page 13 ===
+u239 [T1 R1 C1] 1.G.3.1
+u240 [T1 R1 C2] Describe the unifying characteristics and boundaries of different school regions including but not limited to the playground, classroom, and reading corner
+u241 [T1 R2 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements.
+u242 [T1 R3 C1] 1.G.6.1
+u243 [T1 R3 C2] Describe ways in which people modify and adapt to the environment
+u244 [T2 R1 C2] Grade 1 Economics
+u245 [T2 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u246 [T2 R3 C1] 1.E.1.1
+u247 [T2 R3 C3] Distinguish between goods and services and how families use them
+u248 [T2 R4 C1] 1.E.1.2
+u249 [T2 R4 C3] Describe ways in which people earn money
+=== page 14 ===
+u251 Grade 2
+u252 [T1 R1 C2] Grade 2 History
+u253 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u254 [T1 R3 C1] 2.H.1.1
+u255 [T1 R3 C3] Demonstrate chronological order using events from history
+u256 [T1 R4 C1] 2.H.1.2
+u257 [T1 R4 C3] Use historical records and artifacts including but not limited to photos, diaries, oral histories, and videos to draw conclusions about family or school life in the past
+u258 [T1 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u259 [T1 R6 C1] 2.H.2.1
+u260 [T1 R6 C3] Compare how holidays are celebrated in different cultures
+u261 [T2 R1 C2] Grade 2 Civics/Government
+u262 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u263 [T2 R3 C1] 2.C.1.1
+u264 [T2 R3 C3] Explain, in written form, through speech, or through the use of technology, the meaning behind our national symbols
+u265 [T2 R4 C1] K-12.C.2 Students will explain the historical impact of primary founding documents, including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u266 [T2 R5 C1] 2.C.2.1
+u267 [T2 R5 C3] Explain the basic political roles of leaders in the larger community
+u268 [T2 R6 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u269 [T2 R7 C1] 2.C.3.1
+u270 [T2 R7 C3] Identify laws in your local government and how local laws are made
+u271 [T2 R8 C1] 2.C.3.2
+u272 [T2 R8 C3] Identify how local government services are funded
+u273 [T3 R1 C2] Grade 2 Geography
+u274 [T3 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u275 [T3 R3 C1] 2.G.1.1
+u276 [T3 R3 C3] Construct and explain a map that includes directions, labels, and a key
+u277 [T3 R4 C1] 2.G.1.2
+u278 [T3 R4 C3] Explain how local communities are part of a larger region
+u279 [T3 R5 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+=== page 15 ===
+u281 [T1 R1 C1] 2.G.3.1
+u282 [T1 R1 C2] Compare the physical and man-made characteristics of the local community with those of another community
+u283 [T1 R2 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements.
+u284 [T1 R3 C1] 2.G.6.1
+u285 [T1 R3 C2] Describe positive and negative consequences of changing the physical environment of the local community
+u286 [T1 R4 C1] 2.G.6.2
+u287 [T1 R4 C2] Suggest ways people can responsibly interact with the environment in the local community
+u288 [T2 R1 C2] Grade 2 Economics
+u289 [T2 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u290 [T2 R3 C1] 2.E.1.1
+u291 [T2 R3 C3] Identify goods and services available in the students’ communities
+=== page 16 ===
+u293 Grade 3
+u294 [T1 R1 C2] Grade 3 History
+u295 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u296 [T1 R3 C1] 3.H.1.1
+u297 [T1 R3 C3] Demonstrate knowledge of the obstacles and successes of the early settlers and in creating communities
+u298 [T1 R4 C1] 3.H.1.2
+u299 [T1 R4 C3] Explain cause and effect relationships that impacted early settlement and development in the United States
+u300 [T1 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u301 [T1 R6 C1] 3.H.2.1
+u302 [T1 R6 C3] Generate questions about individuals and groups who have shaped significant historical changes and continuities
+u303 [T1 R7 C1] 3.H.2.2
+u304 [T1 R7 C3] Explain the importance of famous American figures including but not limited to George Washington, Abraham Lincoln, and Thomas Jefferson
+u305 [T1 R8 C1] 3.H.2.3
+u306 [T1 R8 C3] Analyze a community’s culture and history
+u307 [T1 R9 C1] K-12.H.5 Students will develop historical research skills.
+u308 [T1 R10 C1] 3.H.5.1
+u309 [T1 R10 C3] Compare information provided by different primary and secondary historical sources about the past
+u310 [T2 R1 C2] Grade 3 Civics/Government
+u311 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u312 [T2 R3 C1] 3.C.1.1
+u313 [T2 R3 C3] Research and explain the meaning behind South Dakota’s symbols
+u314 [T2 R4 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u315 [T2 R5 C1] 3.C.2.1
+u316 [T2 R5 C3] Explain the meaning and importance of the Declaration of Independence and the Constitution
+u317 [T2 R6 C1] 3.C.2.2
+u318 [T2 R6 C3] Explain the basic political roles of leaders in the state and nation
+u319 [T2 R7 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u320 [T2 R8 C1] 3.C.3.1
+u321 [T2 R8 C3] Identify why laws and responsibilities are needed in a community and why there are legal consequences
+u322 [T2 R9 C1] 3.C.3.2
+u323 [T2 R9 C3] Identify the structure, roles, and responsibility of local government
+=== page 17 ===
+u325 [T1 R1 C1] K-12.C.4 Students will understand the fundamental principles of America’s democratic republic and the United States Constitution and the inherent conflicts that may arise.
+u326 [T1 R2 C1] 3.C.4.1
+u327 [T1 R2 C2] Explain the role of government agencies in a community
+u328 [T1 R3 C1] 3.C.4.2
+u329 [T1 R3 C2] Explain why communities have rules and laws
+u330 [T1 R4 C1] 3.C.4.3
+u331 [T1 R4 C2] Identify the rights and responsibilities of citizenship in students’ own communities
+u332 [T2 R1 C2] Grade 3 Geography
+u333 [T2 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u334 [T2 R3 C1] 3.G.1.1
+u335 [T2 R3 C3] Identify locations in a community by using grid systems
+u336 [T2 R4 C1] 3.G.1.2
+u337 [T2 R4 C3] Locate the seven continents, four oceans, and major physical features and regions of the United States on a map or globe
+u338 [T2 R5 C1] K-12.G.2 Students will understand the nature and importance of the Five Themes of Geography: location, place characteristics, human-environment interaction, movement, and region.
+u339 [T2 R6 C1] 3.G.2.1
+u340 [T2 R6 C3] Identify reasons why people move and how it affects their communities
+u341 [T3 R1 C2] Grade 3 Economics
+u342 [T3 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u343 [T3 R3 C1] 3.E.1.1
+u344 [T3 R3 C3] Explain ways producers use resources to produce goods and services
+u345 [T3 R4 C1] K-12.E.5 Students will describe how trade generates economic development and interdependence.
+u346 [T3 R5 C1] 3.E.5.1
+u347 [T3 R5 C3] Use examples to show that people in modern society may not be able to produce everything they want and depend upon trade with others to meet their wants
+=== page 18 ===
+u349 Grade 4
+u350 [T1 R1 C2] Grade 4 History
+u351 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u352 [T1 R3 C1] 4.H.1.1
+u353 [T1 R3 C3] Analyze the impact of significant historical events on the development of cultures in South Dakota
+u354 [T1 R4 C1] 4.H.1.2
+u355 [T1 R4 C3] Generate questions about multiple historical sources and their relationships to particular historical events and developments
+u356 [T1 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u357 [T1 R6 C1] 4.H.2.1
+u358 [T1 R6 C3] Explain the effects of conflicts and the establishment of reservations on the American Indians culture
+u359 [T1 R7 C1] 4.H.2.2
+u360 [T1 R7 C3] Examine basic environmental, economic, cultural, and population issues of concern to South Dakota
+u361 [T1 R8 C1] 4.H.2.3
+u362 [T1 R8 C3] Describe the influence of notable South Dakotans of the development of our state
+u363 [T1 R9 C1] 4.H.2.4
+u364 [T1 R9 C3] Describe influences of European cultures on South Dakota communities
+u365 [T1 R10 C1] 4.H.2.5
+u366 [T1 R10 C3] Describe how wars affected South Dakotans
+u367 [T1 R11 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives.
+u368 [T1 R12 C1] 4.H.3.1
+u369 [T1 R12 C3] Compare and contrast life today with life in historical time periods
+u370 [T1 R13 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems.
+u371 [T1 R14 C1] 4.H.4.1
+u372 [T1 R14 C3] Explain probable causes and effects of events and developments in South Dakota
+u373 [T1 R15 C1] 4.H.4.2
+u374 [T1 R15 C3] Explain factors affecting the growth and expansion of South Dakota
+u375 [T1 R16 C1] K-12.H.5 Students will develop historical research skills.
+u376 [T1 R17 C1] 4.H.5.1
+u377 [T1 R17 C3] Infer the intended audience and purpose of a historical source from information within the source itself
+u378 [T1 R18 C1] 4.H.5.2
+u379 [T1 R18 C3] Use evidence to develop a claim about the past
+=== page 19 ===
+u381 [T1 R1 C2] Grade 4 Civics/Government
+u382 [T1 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u383 [T1 R3 C1] 4.C.1.1
+u384 [T1 R3 C3] Describe key events related to South Dakota’s entry into statehood
+u385 [T1 R4 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u386 [T1 R5 C1] 4.C.2.1
+u387 [T1 R5 C3] Compare and contrast major themes within the SD Constitution and the U.S. Constitution
+u388 [T1 R6 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u389 [T1 R7 C1] 4.C.3.1
+u390 [T1 R7 C3] Explain how groups of people make rules to create responsibilities and protect freedoms
+u391 [T1 R8 C1] 4.C.3.2
+u392 [T1 R8 C3] Discuss South Dakota’s government and the roles of the three branches
+u393 [T2 R1 C2] Grade 4 Geography
+u394 [T2 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u395 [T2 R3 C1] 4.G.1.1
+u396 [T2 R3 C3] Locate major political and physical features of South Dakota and the United States on a map or globe
+u397 [T2 R4 C1] K-12.G.2 Students will understand the nature and importance of the Five Themes of Geography: location, place characteristics, human-environment interaction, movement, and region.
+u398 [T2 R5 C1] 4.G.2.1
+u399 [T2 R5 C3] Compare and contrast regions of South Dakota to one another
+u400 [T2 R6 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+u401 [T2 R7 C1] 4.G.3.1
+u402 [T2 R7 C3] Describe how natural and human conditions shape places and regions
+u403 [T3 R1 C2] Grade 4 Economics
+u404 [T3 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u405 [T3 R3 C1] 4.E.1.1
+u406 [T3 R3 C3] Discuss what factors (both positive and negative) influence individual choices
+=== page 20 ===
+u408 [T1 R1 C1] K-12.E.3 Students will analyze the ways government can impact the market.
+u409 [T1 R2 C1] 4.E.3.1
+u410 [T1 R2 C2] Describe the necessity for government to collect taxes from its citizens in order to provide services to its citizens
+u411 [T1 R3 C1] K-12.E.5 Students will describe how trade generates economic development and interdependence.
+u412 [T1 R4 C1] 4.E.5.1
+u413 [T1 R4 C2] Describe how the economic needs of South Dakotans and people in other regions of the U.S. have been met
+=== page 21 ===
+u415 Grade 5
+u416 [T1 R1 C2] Grade 5 History
+u417 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u418 [T1 R3 C1] 5.H.1.1
+u419 [T1 R3 C3] Create and use a chronological sequence of related events to compare developments that happened during the same time frame
+u420 [T1 R4 C1] 5.H.1.2
+u421 [T1 R4 C3] Identify key conflicts with other countries of the world and the effect they had on the U.S. physically, economically, and socially
+u422 [T1 R5 C1] 5.H.1.3
+u423 [T1 R5 C3] Describe the impact other countries had on North America through exploration and conflict
+u424 [T1 R6 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u425 [T1 R7 C1] 5.H.2.1
+u426 [T1 R7 C3] Differentiate the cultures of various American Indian tribes
+u427 [T1 R8 C1] 5.H.2.2
+u428 [T1 R8 C3] Identify and describe the roles of influential people during the American Revolution
+u429 [T1 R9 C1] 5.H.2.3
+u430 [T1 R9 C3] Identify the key changes leading to and resulting from growth and invention in the U.S. between the Revolution and 1865
+u431 [T1 R10 C1] 5.H.2.4
+u432 [T1 R10 C3] Evaluate the influence, impact, and interactions of various cultures, philosophies, and religions on the development of the U.S.
+u433 [T1 R11 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives.
+u434 [T1 R12 C1] 5.H.3.1
+u435 [T1 R12 C3] Explain why individuals and groups during the same historical period can differ in their perspectives
+u436 [T1 R13 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems.
+u437 [T1 R14 C1] 5.H.4.1
+u438 [T1 R14 C3] Identify the causes and effects of the development of Colonial America
+u439 [T1 R15 C1] 5.H.4.2
+u440 [T1 R15 C3] Identify key European explorers and the causes and effects of their voyages
+u441 [T1 R16 C1] 5.H.4.3
+u442 [T1 R16 C3] Explain probable causes and effects of events in the American Revolution
+u443 [T1 R17 C1] 5.H.4.4
+u444 [T1 R17 C3] Identify key events during the American Revolution considering how they affected people, government, and the economy
+u445 [T1 R18 C1] 5.H.4.5
+u446 [T1 R18 C3] Compare and contrast social, economic, and philosophical differences between the north and the south prior to the Civil War
+u447 [T1 R19 C1] K-12.H.5 Students will develop historical research skills.
+=== page 22 ===
+u449 [T1 R1 C1] 5.H.5.1
+u450 [T1 R1 C2] Summarize how different types of historical sources are used to explain events in the past
+u451 [T1 R2 C1] 5.H.5.2
+u452 [T1 R2 C2] Evaluate a historical source to justify the validity of that source
+u453 [T2 R1 C2] Grade 5 Civics/Government
+u454 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u455 [T2 R3 C1] 5.C.1.1
+u456 [T2 R3 C3] Explain why the U. S. was established as a republic over other forms of governments
+u457 [T2 R4 C1] 5.C.1.2
+u458 [T2 R4 C3] Explain how rules and laws change society and how people change rules and laws
+u459 [T2 R5 C1] 5.C.1.3
+u460 [T2 R5 C3] Develop a logical argument explaining why governments are necessary
+u461 [T2 R6 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u462 [T2 R7 C1] 5.C.2.1
+u463 [T2 R7 C3] Examine the origins and purposes of rules, laws, and key U.S. Constitutional powers
+u464 [T2 R8 C1] 5.C.2.2
+u465 [T2 R8 C3] Using research, show where the ideas come from that informed the Constitution
+u466 [T2 R9 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u467 [T2 R10 C1] 5.C.3.1
+u468 [T2 R10 C3] Using multiple sources, distinguish between the responsibilities and powers of government officials at various levels and branches of government
+u469 [T2 R11 C1] 5.C.3.2
+u470 [T2 R11 C3] Compare and contrast procedures for making decisions in a variety of settings, including classroom, school, government, and/or society
+u471 [T2 R12 C1] K-12.C.4 Students will understand the fundamental principles of America’s democratic republic and the United States Constitution and the inherent conflicts that may arise.
+u472 [T2 R13 C1] 5.C.4.1
+u473 [T2 R13 C3] Describe ways in which people benefit from and are challenged by working together in government, workplaces, volunteer organizations, and families
+u474 [T2 R14 C1] K-12.C.5 Students will understand the ways in which a citizen can use their basic rights to influence decisions of the republic.
+u475 [T2 R15 C1] 5.C.5.1
+u476 [T2 R15 C3] Explain how democracy relies upon citizens’ responsible participation, and draw implications for how individuals should participate
+u477 [T2 R16 C1] 5.C.5.2
+u478 [T2 R16 C3] Describe how volunteerism has benefitted the U.S.
+u479 [T2 R17 C1] 5.C.5.3
+u480 [T2 R17 C3] Illustrate historical and contemporary means of changing society
+=== page 23 ===
+u482 [T1 R1 C2] Grade 5 Geography
+u483 [T1 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u484 [T1 R3 C1] 5.G.1.1
+u485 [T1 R3 C3] Apply latitude and longitude to find absolute locations on a globe and map
+u486 [T1 R4 C1] 5.G.1.2
+u487 [T1 R4 C3] Investigate maps of different types and scales
+u488 [T1 R5 C1] K-12.G.2 Students will understand the nature and importance of the Five Themes of Geography: location, place, human-environment interaction, movement, and region.
+u489 [T1 R6 C1] 5.G.2.1
+u490 [T1 R6 C3] Explain how cultural and environmental characteristics affect the distribution and movement of people, goods, and ideas
+u491 [T1 R7 C1] 5.G.2.2
+u492 [T1 R7 C3] Explain how human settlements and movements relate to the locations and use of various natural resources
+u493 [T1 R8 C1] 5.G.2.3
+u494 [T1 R8 C3] Analyze the effects of environmental and technological changes on human settlements and migration
+u495 [T1 R9 C1] K-12.G.5 Students will recognize and explain the role population and culture play in creating diversity within the world’s places and regions.
+u496 [T1 R10 C1] 5.G.5.1
+u497 [T1 R10 C3] Describe how the spatial patterns of cultural activities in a place change over time because of interactions with nearby and distant places
+u498 [T1 R11 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements.
+u499 [T1 R12 C1] 5.G.6.1
+u500 [T1 R12 C3] Explain how natural events and human activities in one place affect people living in other places
+u501 [T2 R1 C2] Grade 5 Economics
+u502 [T2 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u503 [T2 R3 C1] 5.E.1.1
+u504 [T2 R3 C3] Explain how supply and demand influences sellers in markets
+u505 [T2 R4 C1] 5.E.1.2
+u506 [T2 R4 C3] Explain the role of money as a means of trade between individuals and/or groups
+u507 [T2 R5 C1] K-12.E.2 Students will demonstrate how the forces of supply and demand impact economic decision making.
+u508 [T2 R6 C1] 5.E.2.1
+u509 [T2 R6 C3] Explain the meaning of inflation, deflation, and unemployment
+u510 [T2 R7 C1] K-12.E.3 Students will analyze the ways government can impact the market.
+u511 [T2 R8 C1] 5.E.3.1
+u512 [T2 R8 C3] Describe examples of various institutions that make up economic systems
+u513 [T2 R9 C1] K-12.E.5 Students will describe how trade generates economic development and interdependence.
+=== page 24 ===
+u515 [T1 R1 C1] 5.E.5.1
+u516 [T1 R1 C2] Describe the role of trading in early U.S. History
+=== page 25 ===
+u518 Grade 6
+u519 (x=54) Note: The committee, with input from educators throughout the state, revised the former sixth grade social studies standards to facilitate effective
+u520 (x=194) instruction and student mastery with emphasis on an in-depth study of World History.
+u521 [T1 R1 C2] Grade 6 World History
+u522 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u523 [T1 R3 C1] 6.H.1.1
+u524 [T1 R3 C3] Classify key global events in chronological order
+u525 [T1 R4 C1] 6.H.1.2
+u526 [T1 R4 C3] Examine the chronology of historical events throughout the world to analyze their impact on the past, present, and future
+u527 [T1 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u528 [T1 R6 C1] 6.H.2.1
+u529 [T1 R6 C3] Analyze the development and cultural contributions that gave rise to the earliest human communities
+u530 [T1 R7 C1] 6.H.2.2
+u531 [T1 R7 C3] Analyze the development and cultural contributions that gave rise to the agrarian societies
+u532 [T1 R8 C1] 6.H.2.3
+u533 [T1 R8 C3] Analyze the development and cultural contributions including large-scale empires and major religions
+u534 [T1 R9 C1] 6.H.2.4
+u535 [T1 R9 C3] Analyze the development and cultural contributions that gave rise to economic systems and political institutions
+u536 [T1 R10 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives.
+u537 [T1 R11 C1] 6.H.3.1
+u538 [T1 R11 C3] Compare and contrast primary and secondary sources to identify multiple perspectives of the same event
+u539 [T1 R12 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems.
+u540 [T1 R13 C1] 6.H.4.1
+u541 [T1 R13 C3] Consider alternative courses of action or outcomes for historical events
+u542 [T1 R14 C1] 6.H.4.2
+u543 [T1 R14 C3] Determine how decisions made by individuals affected historical events
+u544 [T1 R15 C1] 6.H.4.3
+u545 [T1 R15 C3] Explain how events and ideas in ancient civilizations influence humans today
+u546 [T1 R16 C1] K-12.H.5 Students will develop historical research skills.
+u547 [T1 R17 C1] 6.H.5.1
+u548 [T1 R17 C3] Identify the difference between a compelling question and supporting questions
+u549 [T1 R18 C1] 6.H.5.2
+u550 [T1 R18 C3] Determine whether a source is appropriate for answering compelling and supporting questions
+u551 [T1 R19 C1] 6.H.5.3
+u552 [T1 R19 C3] Utilize primary and secondary sources and examine the credibility and intent of those sources
+=== page 26 ===
+u554 [T1 R1 C2] Grade 6 Civics/Government
+u555 [T1 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u556 [T1 R3 C1] 6.C.1.1
+u557 [T1 R3 C3] Compare and contrast ancient forms of government
+u558 [T1 R4 C1] 6.C.1.2
+u559 [T1 R4 C3] Identify how government decisions impact people, places, and history
+u560 [T1 R5 C1] 6.C.1.3
+u561 [T1 R5 C3] Identify the ways in which governments meet the needs of citizens, manage conflict, and establish order and security
+u562 [T1 R6 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights, and subsequent amendments.
+u563 [T1 R7 C1] 6.C.2.1
+u564 [T1 R7 C3] Explain the historical impact of ancient world history documents created by ancient civilizations
+u565 [T1 R8 C1] K-12.C.5 Students will understand the ways in which a citizen can use their basic rights to influence the decisions of the republic.
+u566 [T1 R9 C1] 6.C.5.1
+u567 [T1 R9 C3] Explain ways that people can affect or influence society and government
+u568 [T2 R1 C2] Grade 6 Economics
+u569 [T2 R2 C1] K-12.E.4 Students will explain how different economic systems coordinate and facilitate the exchange, production, distribution, and consumption of goods and services.
+u570 [T2 R3 C1] 6.E.4.1
+u571 [T2 R3 C3] Explain societies’ attempts throughout history to satisfy their basic needs and wants
+u572 [T2 R4 C1] 6.E.4.2
+u573 [T2 R4 C3] Identify basic economic systems present throughout ancient civilizations and how those systems contributed to the success or failure of the respective civilization
+u574 [T2 R5 C1] 6.E.4.3
+u575 [T2 R5 C3] Identify the effects of economic systems on society
+=== page 27 ===
+u577 Grade 7
+u578 Note: The committee, with input from educators throughout the state, revised the former seventh grade social studies standards to facilitate effective instruction and student mastery with emphasis on an in-depth study of Geography.
+u579 [T1 R1 C2] Grade 7 Civics/Government
+u580 [T1 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u581 [T1 R3 C1] 7.C.1.1
+u582 [T1 R3 C3] Identify and describe different forms of government used throughout the world
+u583 [T2 R1 C2] Grade 7 Geography
+u584 [T2 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u585 [T2 R3 C1] 7.G.1.1
+u586 [T2 R3 C3] Gather information, analyze data and demonstrate navigation with a map
+u587 [T2 R4 C1] 7.G.1.2
+u588 [T2 R4 C3] Construct maps or other geographic representations and explain the spatial patterns of cultural and/or physical characteristics
+u589 [T2 R5 C1] K-12.G.2 Students will understand the nature and importance of the Five Themes of Geography; location, place, human-environment interaction, movement, and region.
+u590 [T2 R6 C1] 7.G.2.1
+u591 [T2 R6 C3] Create an argument for the importance of the study of Geography
+u592 [T2 R7 C1] 7.G.2.2
+u593 [T2 R7 C3] Recognize and apply the Five Themes of Geography
+u594 [T2 R8 C1] 7.G.2.3
+u595 [T2 R8 C3] Analyze political and economic systems
+u596 [T2 R9 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+u597 [T2 R10 C1] 7.G.3.1
+u598 [T2 R10 C3] Identify and differentiate between the human and/or physical characteristics that create a region
+u599 [T2 R11 C1] 7.G.3.2
+u600 [T2 R11 C3] Describe how cultural patterns, including but not limited to economic and political decisions, influence environments and the daily lives of people in both nearby and distant places
+u601 [T2 R12 C1] 7.G.3.3
+u602 [T2 R12 C3] Explain how the physical and human characteristics of places and regions are connected to human identities and cultures
+u603 [T2 R13 C1] K-12.G.4 Students will identify Earth’s physical systems and the ways in which they are dynamic and interactive.
+u604 [T2 R14 C1] 7.G.4.1
+u605 [T2 R14 C3] Demonstrate understanding of the processes that result in the natural landscape
+u606 [T2 R15 C1] 7.G.4.2
+u607 [T2 R15 C3] Explain how and why different cultures interact with earth’s physical systems in various ways
+=== page 28 ===
+u609 [T1 R1 C1] K-12.G.5 Students will recognize and explain the role population and culture play in creating diversity within the world’s places and regions.
+u610 [T1 R2 C1] 7.G.5.1
+u611 [T1 R2 C2] Analyze basic components of culture, including how and why they differ spatially
+u612 [T1 R3 C1] 7.G.5.2
+u613 [T1 R3 C2] Identify population distribution and characteristics of human populations
+u614 [T1 R4 C1] 7.G.5.3
+u615 [T1 R4 C2] Explain how changes in land use affect population distribution patterns
+u616 [T1 R5 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements.
+u617 [T1 R6 C1] 7.G.6.1
+u618 [T1 R6 C2] Clarify how human groups adapt to, and depend upon, the natural environment
+u619 [T1 R7 C1] 7.G.6.2
+u620 [T1 R7 C2] Recognize and explain how cultures and cultural landscapes change
+u621 [T1 R8 C1] K-12.G.7 Students will be applying geographic knowledge to understand the diversity of Earth’s physical and human conditions, past, present, and future.
+u622 [T1 R9 C1] 7.G.7.1
+u623 [T1 R9 C2] Evaluate how the relationship between physical and cultural characteristics of a place impacts economic activity
+u624 [T1 R10 C1] 7.G.7.2
+u625 [T1 R10 C2] Articulate how changes in technology influence the spatial connections among human settlements and affect the diffusion of ideas and cultural practices
+u626 [T1 R11 C1] 7.G.7.3
+u627 [T1 R11 C2] Draw conclusions on how past human and/or physical conditions influence present and/or future conditions
+u628 [T2 R1 C2] Grade 7 Economics
+u629 [T2 R2 C1] K-12.E.3 Students will analyze the ways government can impact the market.
+u630 [T2 R3 C1] 7.E.3.1
+u631 [T2 R3 C3] Describe the relationship between government and economic systems in different countries
+u632 [T2 R4 C1] K-12.E.4 Students will explain how different economic systems coordinate and facilitate the exchange, production, distribution, and consumption of goods and services.
+u633 [T2 R5 C1] 7.E.4.1
+u634 [T2 R5 C3] Describe how economic activity affects standard of living
+u635 [T2 R6 C1] 7.E.4.2
+u636 [T2 R6 C3] Describe how technology affects the economic development of places and regions
+u637 [T2 R7 C1] 7.E.4.3
+u638 [T2 R7 C3] Describe the role of trade barriers and agreements in the global economy
+u639 [T2 R8 C1] 7.E.4.4
+u640 [T2 R8 C3] Explain how the availability of resources provides for or challenges human activities
+=== page 29 ===
+u642 Grade 8
+u643 Note: The committee, with input from educators throughout the state, revised the former eighth grade social studies standards to facilitate effective instruction and student mastery with emphasis on an in-depth study of U.S. History. (Updated 12/04/14)
+u644 [T1 R1 C2] Grade 8 History
+u645 [T1 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u646 [T1 R3 C1] 8.H.1.1
+u647 [T1 R3 C3] Describe major military battles in the American Revolution
+u648 [T1 R4 C1] 8.H.1.2
+u649 [T1 R4 C3] Identify causes and effects of the War of 1812, Texas Revolution, and the Mexican American War
+u650 [T1 R5 C1] 8.H.1.3
+u651 [T1 R5 C3] Understand the changing character of American political life after 1800
+u652 [T1 R6 C1] 8.H.1.4
+u653 [T1 R6 C3] Explain how and why the land west of the Mississippi was acquired and settled
+u654 [T1 R7 C1] 8.H.1.5
+u655 [T1 R7 C3] Describe major military battles and campaigns of the Civil War
+u656 [T1 R8 C1] 8.H.1.6
+u657 [T1 R8 C3] Describe the changing federal policy toward Native Americans after the Civil War
+u658 [T1 R9 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u659 [T1 R10 C1] 8.H.2.1
+u660 [T1 R10 C3] Construct a historical argument that acknowledges the strengths and weaknesses of Patriot and Loyalist sides
+u661 [T1 R11 C1] 8.H.2.2
+u662 [T1 R11 C3] Analyze how westward expansion was motivated by economic gain and Manifest Destiny
+u663 [T1 R12 C1] 8.H.2.3
+u664 [T1 R12 C3] Analyze the major sources of conflict that led to the Civil War
+u665 [T1 R13 C1] 8.H.2.4
+u666 [T1 R13 C3] Associate key individuals with their roles in the Civil War
+u667 [T1 R14 C1] 8.H.2.5
+u668 [T1 R14 C3] Investigate ways the Civil War changed the United States government
+u669 [T1 R15 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives.
+u670 [T1 R16 C1] 8.H.3.1
+u671 [T1 R16 C3] Compare the political and social differences between 13 separate colonies and one independent nation
+u672 [T1 R17 C1] 8.H.3.2
+u673 [T1 R17 C3] Evaluate competing ideas about the purposes government should serve
+u674 [T1 R18 C1] 8.H.3.3
+u675 [T1 R18 C3] Compare and contrast the Federalist and Anti-Federalist philosophies of Americans during the ratification process
+u676 [T1 R19 C1] 8.H.3.4
+u677 [T1 R19 C3] Investigate how the abolition of slavery affected the life of African-Americans in United States’ society
+=== page 30 ===
+u679 [T1 R1 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems.
+u680 [T1 R2 C1] 8.H.4.1
+u681 [T1 R2 C2] Analyze the sources of conflict which led to the American Revolution
+u682 [T1 R3 C1] 8.H.4.2
+u683 [T1 R3 C2] Explain how the Declaration of Independence influenced the colonies
+u684 [T1 R4 C1] 8.H.4.3
+u685 [T1 R4 C2] Identify economic support for the Patriots during the American Revolution
+u686 [T1 R5 C1] 8.H.4.4
+u687 [T1 R5 C2] Critique the United States government under the Articles of Confederation
+u688 [T1 R6 C1] 8.H.4.5
+u689 [T1 R6 C2] Summarize the basic structure of government adopted through compromises at the Constitutional Convention
+u690 [T1 R7 C1] 8.H.4.6
+u691 [T1 R7 C2] Connect the fundamental liberties and rights stated in the first 15 amendments of the Constitution to current events
+u692 [T1 R8 C1] 8.H.4.7
+u693 [T1 R8 C2] Describe ways in which migration led to conflicts between Anglo-European and Native American culture
+u694 [T1 R9 C1] 8.H.4.8
+u695 [T1 R9 C2] Draw conclusions on how the reform movements of the mid-nineteenth century affected the U.S.
+u696 [T1 R10 C1] 8.H.4.9
+u697 [T1 R10 C2] Assess the impact of significant inventors, technology and industrialization on mid-1800s America
+u698 [T1 R11 C1] 8.H.4.10
+u699 [T1 R11 C2] Explain how the war affected soldiers, civilians, women, the physical environment, and future warfare
+u700 [T1 R12 C1] 8.H.4.11
+u701 [T1 R12 C2] Draw conclusions about the political, economic and social effects of Reconstruction in the United States
+u702 [T1 R13 C1] K-12.H.5 Students will develop historical research skills.
+u703 [T1 R14 C1] 8.H.5.1
+u704 [T1 R14 C2] Generate a compelling question and supporting questions that address the impact of conflicting points of views in U.S. government
+u705 [T1 R15 C1] 8.H.5.2
+u706 [T1 R15 C2] Generate questions to analyze why individuals or groups, and their developments, are seen as historically significant
+u707 [T1 R16 C1] 8.H.5.3
+u708 [T1 R16 C2] Critique significant political primary sources and their impact on events of this time period
+u709 [T2 R1 C2] Grade 8 Civics/Government
+u710 [T2 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u711 [T2 R3 C1] 8.C.1.1
+u712 [T2 R3 C3] Explain how European ideals of government influenced the development of the U.S. government
+u713 [T2 R4 C1] 8.C.1.2
+u714 [T2 R4 C3] Explain how government decisions impact people, places, and history
+u715 [T2 R5 C1] 8.C.1.3
+u716 [T2 R5 C3] Explain the ways in which governments meet the needs of citizens, manage conflict, and establish order and security
+=== page 31 ===
+u718 [T1 R1 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u719 [T1 R2 C2] Refer to 8.H.2.2 and 8.H.2.3, as these grade-level standards include government content related to this anchor standard.
+u720 [T1 R3 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u721 [T1 R4 C1] 8.C.3.1
+u722 [T1 R4 C2] Identify the three branches of government including the separation of powers and checks and balances in the Constitution
+u723 [T1 R5 C1] 8.C.3.2
+u724 [T1 R5 C2] Describe the rationale behind the United States’ ability to amend the Constitution
+u725 [T1 R6 C1] 8.C.3.3
+u726 [T1 R6 C2] Explain why and how the Bill of Rights and subsequent amendments were added to the Constitution
+u727 [T1 R7 C1] K-12.C.4 - Students will understand the fundamental principles of America’s democratic republic and the United States Constitution and the inherent conflicts that may arise.
+u728 [T1 R8 C1] 8.C.4.1
+u729 [T1 R8 C2] Describe the election process and the Electoral College
+u730 [T1 R9 C1] 8.C.4.2
+u731 [T1 R9 C2] Apply the rights and responsibilities of U.S. citizens to students’ lives
+u732 [T1 R10 C1] 8.C.4.3
+u733 [T1 R10 C2] Compare and contrast methods of civic involvement
+u734 [T1 R11 C1] K-12.C.5 - Students will understand the ways in which a citizen can use their basic rights to influence the decisions of the republic.
+u735 [T1 R12 C1] 8.C.5.1
+u736 [T1 R12 C2] Analyze ways that citizens can affect or influence the U.S. society and government
+u737 [T1 R13 C1] 8.C.5.2
+u738 [T1 R13 C2] Explain the roles and influences of individuals, groups, and the media on governments
+u739 [T1 R14 C1] K-12.C.6 - Students will describe the elements of how U.S. foreign policy is made and understand the challenges and influences of the United States government
+u740 [T1 R15 C1] 8.C.6.1
+u741 [T1 R15 C2] Identify the impact of foreign policy decisions throughout U.S. history
+u742 [T2 R1 C2] Grade 8 Economics
+u743 [T2 R2 C1] K-12.E.3 Students will analyze the ways government can impact the market.
+u744 [T2 R3 C1] 8.E.3.1
+u745 [T2 R3 C3] Describe the impact of technology and industrialization on mid-1800s America
+u746 [T2 R4 C1] K-12.E.4 Students will explain how different economic systems coordinate and facilitate the exchange, production, distribution, and consumption of goods and services.
+u747 [T2 R5 C1] 8.E.4.1
+u748 [T2 R5 C3] Describe the economic effects of Reconstruction in the United States
+=== page 32 ===
+u750 [T1 R1 C1] 8.E.4.2
+u751 [T1 R1 C2] Identify economic support for America during conflicts
+u752 [T1 R2 C1] 8.E.4.3
+u753 [T1 R2 C2] Describe how economic gain was the motivation for westward expansion
+=== page 33 ===
+u755 High School Social Studies
+u756 [T1 R1 C2] High School Civics/Government
+u757 [T1 R2 C1] K-12.C.1 Students will explain, compare and contrast, and analyze the historical principles and philosophical purposes and various forms of governments.
+u758 [T1 R3 C1] 9-12.C.1.1
+u759 [T1 R3 C3] Rationalize the purposes of government throughout world history through the use of compelling questions,
+u760 [T1 R4 C1] 9-12.C.1.2
+u761 [T1 R4 C3] Summarize the critical similarities and differences in the various forms of government
+u762 [T1 R5 C1] 9-12.C.1.3
+u763 [T1 R5 C3] Sequence and identify critical events in British history that had a direct or indirect impact on the origins of the United States government
+u764 [T1 R6 C1] 9-12.C.1.4
+u765 [T1 R6 C3] Describe the influence of religion on western political thought
+u766 [T1 R7 C1] 9-12.C.1.5
+u767 [T1 R7 C3] Explain the relationship between political ideologies and corresponding economic ideologies and their impact on government systems through the use of compelling and supporting questions
+u768 [T1 R8 C1] K-12.C.2 Students will explain the historical impact of primary founding documents including but not limited to, the Declaration of Independence, the U.S. Constitution, the U.S. Bill of Rights and subsequent amendments.
+u769 [T1 R9 C1] 9-12.C.2.1
+u770 [T1 R9 C3] Differentiate between a constitutional or limited government and unconstitutional or unlimited government
+u771 [T1 R10 C1] 9-12.C.2.2
+u772 [T1 R10 C3] Critique the claims and evidence offered in the Declaration of Independence, justifying the independence of the American colonies
+u773 [T1 R11 C1] 9-12.C.2.3
+u774 [T1 R11 C3] Evaluate its effectiveness through identifying strengths and weaknesses of the Articles of Confederation
+u775 [T1 R12 C1] 9-12.C.2.4
+u776 [T1 R12 C3] Explain how the goals set forth in the preamble of the United States Constitution reflect enduring issues of American society
+u777 [T1 R13 C1] 9-12.C.2.5
+u778 [T1 R13 C3] Explain the construction of the United States Constitution as a bundle of compromises reflecting differing points of view
+u779 [T1 R14 C1] 9-12.C.2.6
+u780 [T1 R14 C3] Identify the points of agreement and disagreement between the Federalists and the Anti-Federalists over the ratification of the United States Constitution and how the disagreement was resolved via the protection of rights in the Bill of Rights
+u781 [T1 R15 C1] K-12.C.3 Students will explain how the Constitution organizes the government of the United States.
+u782 [T1 R16 C1] 9-12.C.3.1
+u783 [T1 R16 C3] Evaluate the effectiveness of the separation of powers and the role of checks and balances
+u784 [T1 R17 C1] 9-12.C.3.2
+u785 [T1 R17 C3] Outline the law making process
+u786 [T1 R18 C1] 9-12.C.3.3
+u787 [T1 R18 C3] Make arguments for and against the use of the Electoral College given its intended purpose
+u788 [T1 R19 C1] 9-12.C.3.4
+u789 [T1 R19 C3] Cite historical evidence justifying the power of judicial review
+=== page 34 ===
+u791 [T1 R1 C1] 9-12.C.3.5
+u792 [T1 R1 C2] Differentiate among the roles of the levels of authority in the national, state, local, and tribal governments regarding American federalism through the use of compelling questions,
+u793 [T1 R2 C1] K-12.C.4 Students will understand the fundamental principles of America’s democratic republic and the United States Constitution and the inherent conflicts that may arise.
+u794 [T1 R3 C1] 9-12.C.4.1
+u795 [T1 R3 C2] Define the concept of civic virtue through the use of compelling questions
+u796 [T1 R4 C1] 9-12.C.4.2
+u797 [T1 R4 C2] Summarize the general principles of American democracy such as the fundamental worth of the individual, equality of all persons, majority rule/minority rights, necessity of compromise, and individual freedom in light of the purpose of government
+u798 [T1 R5 C1] 9-12.C.4.3
+u799 [T1 R5 C2] Summarize the constitutional principles of popular sovereignty, limited government, separation of powers, checks and balances, judicial review, and federalism
+u800 [T1 R6 C1] 9-12.C.4.4
+u801 [T1 R6 C2] Differentiate between positive and negative rights protected by the United States Constitution and give examples of how they may come into conflict
+u802 [T1 R7 C1] K-12.C.5 Students will understand the ways in which a citizen can use their basic rights to influence the decisions of the republic.
+u803 [T1 R8 C1] 9-12.C.5.1
+u804 [T1 R8 C2] Differentiate between rights and responsibilities of a citizen and the practice of civic virtue
+u805 [T1 R9 C1] 9-12.C.5.2
+u806 [T1 R9 C2] Identify ways of becoming a United States citizen including the keys steps in the naturalization process and recognize the intended and unintended consequences of this process
+u807 [T1 R10 C1] 9-12.C.5.3
+u808 [T1 R10 C2] Explain how democracy relies upon responsible participation of its citizens and identify ways a citizen can effectively participate
+u809 [T1 R11 C1] 9-12.C.5.4
+u810 [T1 R11 C2] Demonstrate the ability to make informed decisions through the use of multiple, credible sources
+u811 [T1 R12 C1] 9-12.C.5.5
+u812 [T1 R12 C2] Explain the role of political parties and special interest groups in the political process
+u813 [T1 R13 C1] 9-12.C.5.6
+u814 [T1 R13 C2] Critique consistencies and inconsistencies throughout a variety of media sources
+u815 [T1 R14 C1] 9-12.C.5.7
+u816 [T1 R14 C2] Explain how civil disobedience has been used to influence policy making in United States government
+u817 [T1 R15 C1] 9-12.C.5.8
+u818 [T1 R15 C2] Assess options for action to address local, regional, and global problems by volunteer engagement
+u819 [T1 R16 C1] 9-12.C.5.9
+u820 [T1 R16 C2] Demonstrate and/or show examples of how technology has changed the way people participate beyond their traditional sphere of influence
+u821 [T1 R17 C1] K-12.C.6 Students will describe the elements of how U.S. foreign policy is made and understand the international challenges and influences of the United States government
+u822 [T1 R18 C1] 9-12.C.6.1
+u823 [T1 R18 C2] Explain the foreign policy process in the United States and give examples of its impact on foreign policy initiatives
+u824 [T1 R19 C1] 9-12.C.6.2
+u825 [T1 R19 C2] Identify the purpose of various international organizations in which the United States is involved
+=== page 35 ===
+u827 [T1 R1 C2] High School Geography
+u828 [T1 R2 C1] K-12.G.1 Students will apply geospatial resources, including data sources and geographic tools to generate, interpret, and analyze information.
+u829 [T1 R3 C1] 9-12.G.1.1
+u830 [T1 R3 C3] Use maps and other geographic representations, tools and technologies to acquire, process, and report information from a spatial perspective
+u831 [T1 R4 C1] 9-12.G.1.2
+u832 [T1 R4 C3] Employ mental maps to organize information about cultures, places, and environment in a spatial context
+u833 [T1 R5 C1] K-12.G.2 Students will understand the nature and importance of the Five Themes of Geography; location, place, human-environment interaction, movement, and region.
+u834 [T1 R6 C1] 9-12.G.2.1
+u835 [T1 R6 C3] Distinguish between the Five Themes of Geography and their key components
+u836 [T1 R7 C1] 9-12.G.2.2
+u837 [T1 R7 C3] Describe a given region or area utilizing the Five Themes of Geography
+u838 [T1 R8 C1] K-12.G.3 Students will recognize the characteristics of the processes that shape places and regions.
+u839 [T1 R9 C1] 9-12.G.3.1
+u840 [T1 R9 C3] Analyze the cultural and physical processes that make places unique
+u841 [T1 R10 C1] 9-12.G.3.2
+u842 [T1 R10 C3] Gather, organize, and analyze evidence that shows how the physical environment and culture contribute to the characteristics of places and regions
+u843 [T1 R11 C1] 9-12.G.3.3
+u844 [T1 R11 C3] Differentiate between formal, functional, and perceptual regions
+u845 [T1 R12 C1] 9-12.G.3.4
+u846 [T1 R12 C3] Apply the concept of interdependence to regions and places
+u847 [T1 R13 C1] K-12.G.4 Students will identify Earth’s physical systems and the ways in which they are dynamic and interactive.
+u848 [T1 R14 C1] 9-12.G.4.1
+u849 [T1 R14 C3] Recognize the components, processes, interdependence and spatial distribution, of Earth’s physical systems.
+u850 [T1 R15 C1] K-12.G.5 Students will recognize and explain the role population and culture play in creating diversity within the world’s places and regions.
+u851 [T1 R16 C1] 9-12.G.5.1
+u852 [T1 R16 C3] Analyze the characteristics, distribution, and migration of human populations
+u853 [T1 R17 C1] 9-12.G.5.2
+u854 [T1 R17 C3] Identify and explain the characteristics, distribution, and complexity of Earth’s various cultures
+u855 [T1 R18 C1] 9-12.G.5.3
+u856 [T1 R18 C3] Explain how human migration impacts local and global politics, economies, societies, and regions
+u857 [T1 R19 C1] K-12.G.6 Students will understand the ways in which humans culturally adapt to, use, and modify the natural environment and its various elements.
+u858 [T1 R20 C1] 9-12.G.6.1
+u859 [T1 R20 C3] Identify specific adaptive strategies employed by different cultures in similar environments
+u860 [T1 R21 C1] 9-12.G.6.2
+u861 [T1 R21 C3] Evaluate how different cultures identify and utilize natural resources
+=== page 36 ===
+u863 [T1 R1 C1] 9-12.G.6.3
+u864 [T1 R1 C2] Explain the ways technology expands the human capacity to use and modify the physical environment
+u865 [T1 R2 C1] 9-12.G.6.4
+u866 [T1 R2 C2] Examine ways humans perceive and react to extreme natural events
+u867 [T1 R3 C1] K-12.G.7 Students will apply geographic knowledge to understand the diversity of Earth’s physical and human conditions, past, present, and future.
+u868 [T1 R4 C1] 9-12.G.7.1
+u869 [T1 R4 C2] Analyze key processes that have resulted in changes within Earth’s physical and human systems
+u870 [T1 R5 C1] 9-12.G.7.2
+u871 [T1 R5 C2] Elaborate upon the interaction of physical and human systems and their influence on current and future condition
+u872 [T1 R6 C1] 9-12.G.7.3
+u873 [T1 R6 C2] Critique the role of multiple perspectives in contemporary geographic policies and issues
+u874 [T2 R1 C2] High School Economics
+u875 [T2 R2 C1] K-12.E.1 Students will apply the fundamental economic ideas and concepts associated with the study of economics.
+u876 [T2 R3 C1] 9-12.E.1.1
+u877 [T2 R3 C3] Through the construction of compelling questions, explain how the fundamental economic problem of unlimited wants with limited resources reflects enduring issues at all levels
+u878 [T2 R4 C1] 9-12.E.1.2
+u879 [T2 R4 C3] Analyze the factors that may lead to different responses to the basic economic questions
+u880 [T2 R5 C1] 9-12.E.1.3
+u881 [T2 R5 C3] Differentiate among the factors of production of land, labor, capital, and entrepreneurship
+u882 [T2 R6 C1] 9-12.E.1.4
+u883 [T2 R6 C3] Analyze the relationship between households and businesses in a market economy using the circular flow chart
+u884 [T2 R7 C1] 9-12.E.1.5
+u885 [T2 R7 C3] Define and assess advantages and disadvantages of sole-proprietorship, partnership, and corporations in a market economy
+u886 [T2 R8 C1] 9-12.E.1.6
+u887 [T2 R8 C3] Explain how scarcity, choice, and opportunity costs impact economic decision making at all levels by using a production possibilities curve
+u888 [T2 R9 C1] 9-12.E.1.7
+u889 [T2 R9 C3] Apply marginal analysis in the economic decision making process
+u890 [T2 R10 C1] K-12.E.2 Students will demonstrate how the forces of supply and demand impact economic decision making.
+u891 [T2 R11 C1] 9-12.E.2.1
+u892 [T2 R11 C3] Compare and contrast the characteristics of perfectly competitive and less competitive market structures
+u893 [T2 R12 C1] 9-12.E.2.2
+u894 [T2 R12 C3] Explain the law of supply and analyze the factors that create a change in supply
+u895 [T2 R13 C1] 9-12.E.2.3
+u896 [T2 R13 C3] Explain the law of demand and analyze the factors that create a change in demand
+u897 [T2 R14 C1] 9-12.E.2.4
+u898 [T2 R14 C3] Connect the role of supply and demand in creating price and quantity equilibriums in a perfectly competitive market
+=== page 37 ===
+u900 [T1 R1 C1] 9-12.E.2.5
+u901 [T1 R1 C2] Analyze how price and quantity equilibriums can be impacted through changes in supply, demand, and elasticity
+u902 [T1 R2 C1] 9-12.E.2.6
+u903 [T1 R2 C2] Explain the concerns with surplus and shortage in the marketplace and what factors can potentially create disequilibrium in a market
+u904 [T1 R3 C1] K-12.E.3 Students will analyze the ways government can impact the market.
+u905 [T1 R4 C1] 9-12.E.3.1
+u906 [T1 R4 C2] Identify and critique the socio-economic goals of various countries including the U.S.
+u907 [T1 R5 C1] 9-12.E.3.2
+u908 [T1 R5 C2] Analyze and explain the relationship between households, businesses, and government agencies in the economy of the U.S. by using the circular flow chart
+u909 [T1 R6 C1] 9-12.E.3.3
+u910 [T1 R6 C2] Interpret economic indicators used by economists that may lead to differing conclusions regarding the current phase of the business cycle
+u911 [T1 R7 C1] 9-12.E.3.4
+u912 [T1 R7 C2] Predict the degree of economic impact of different types of unemployment and different variables creating inflation by using appropriate data
+u913 [T1 R8 C1] 9-12.E.3.5
+u914 [T1 R8 C2] Describe the ways in which each level of government in the U.S. generates revenue and critique the method of using that revenue for public services
+u915 [T1 R9 C1] 9-12.E.3.6
+u916 [T1 R9 C2] Analyze the potential positive and/or negative impact of changes in government policy
+u917 [T1 R10 C1] 9-12.E.3.7
+u918 [T1 R10 C2] Compare and contrast economic stabilization approaches to the U.S. economy
+u919 [T1 R11 C1] 9-12.E.3.8
+u920 [T1 R11 C2] Explain the structure of U.S. banking system
+u921 [T1 R12 C1] 9-12.E.3.9
+u922 [T1 R12 C2] Assess and critique the tools used by the Federal Reserve System to influence the money supply
+u923 [T1 R13 C1] K-12.E.4 Students will explain how different economic systems coordinate and facilitate the exchange, production, distribution, and consumption of goods and services.
+u924 [T1 R14 C1] 9-12.E.4.1
+u925 [T1 R14 C2] Compare the general characteristics of communism, socialism, and capitalism
+u926 [T1 R15 C1] 9-12.E.4.2
+u927 [T1 R15 C2] Give a detailed explanation of the characteristics of capitalism citing examples from the U.S.
+u928 [T1 R16 C1] 9-12.E.4.3
+u929 [T1 R16 C2] Weigh the impact of factors such as the availability of economic resources, level of technology, and degree of economic freedom on a nation’s economic growth
+u930 [T1 R17 C1] 9-12.E.4.4
+u931 [T1 R17 C2] Explain, citing evidence, why the U.S. is an example of a mixed economy
+u932 [T1 R18 C1] 9-12.E.4.5
+u933 [T1 R18 C2] Differentiate between a developing and newly developed nations
+u934 [T1 R19 C1] 9-12.E.4.6
+u935 [T1 R19 C2] Analyze differing arguments regarding the impact of transitional economies on the global economy and specifically on the U.S. economy
+u936 [T1 R20 C1] K-12.E.5 Students will describe how trade generates economic development and interdependence.
+=== page 38 ===
+u938 [T1 R1 C1] 9-12.E.5.1
+u939 [T1 R1 C2] Apply the concept of comparative advantage to explain why goods and services are produced in one nation versus another
+u940 [T1 R2 C1] 9-12.E.5.2
+u941 [T1 R2 C2] Construct an argument for free-traders and construct a counter-argument for protectionists
+u942 [T1 R3 C1] 9-12.E.5.3
+u943 [T1 R3 C2] Identify and critique various barriers to international trade
+u944 [T1 R4 C1] 9-12.E.5.4
+u945 [T1 R4 C2] Identify and provide the historical foundations for various international trade agreements and any impact on the U.S. economy
+u946 [T1 R5 C1] 9-12.E.5.5
+u947 [T1 R5 C2] Explain the impact of exchange rates on the value of goods and services
+u948 [T1 R6 C1] 9-12.E.5.6
+u949 [T1 R6 C2] Analyze how the global economy has changed the interaction of buyers and sellers in the U.S. economy
+u950 [T2 R1 C2] High School U.S. History
+u951 [T2 R2 C1] Note: The South Dakota High School Graduation Requirements include a requirement for 1 credit of U.S. History. The standards have been labeled, below, to allow for flexibility within school districts across the state. Those labels indicate course options including Early U.S. History, Modern U.S. History, and Comprehensive U.S. History. A survey was sent to U.S. History teachers in South Dakota to gain feedback on the inclusion of Early U.S. History in the standards. From this survey, it was deemed necessary to convene an issue-specific workgroup of South Dakota U.S. History Teachers to help determine the best course of addressing the required content and time periods for High School U.S. History. The special workgroup is credited at the end of the standards document.
+u952 [T2 R3 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u953 [T2 R4 C1] 9-12.H.1.3
+u954 [T2 R4 C3] Describe causes and effects of the process of United States territorial expansion between the founding and the Civil War. (Courses: Early, Comprehensive)
+u955 [T2 R5 C1] 9-12.H.1.4
+u956 [T2 R5 C3] Analyze how individuals and groups reacted to social, political, and economic problems in the U.S. from Reconstruction through the Progressive Era. (Courses: Modern, Comprehensive)
+u957 [T2 R6 C1] 9-12.H.1.5
+u958 [T2 R6 C3] Explain the transformation of America from World War I through the Great Depression. (Courses: Modern, Comprehensive)
+u959 [T2 R7 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u960 [T2 R8 C1] 9-12.H.2.6
+u961 [T2 R8 C3] Evaluate the impact the American Revolution had on politics, economy, and society. (Courses: Early, Comprehensive)
+u962 [T2 R9 C1] 9-12.H.2.7
+u963 [T2 R9 C3] Critique recent developments in the United States addressing the roles of people, ideas, and groups in terms of foreign & domestic issues. (Courses: Modern, Comprehensive)
+u964 [T2 R10 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives
+u965 [T2 R11 C1] 9-12.H.3.3
+u966 [T2 R11 C3] Critique the development of American industrial society including its impacts on migration, systems of slavery, and the national economy. (Courses: Early, Comprehensive)
+=== page 39 ===
+u968 [T1 R1 C1] 9-12.H.3.4
+u969 [T1 R1 C2] Explain causes, events, and effects of the Civil War. (Courses: Early, Comprehensive)
+u970 [T1 R2 C1] 9-12.H.3.5
+u971 [T1 R2 C2] Assess the causes, events, and impacts of the Cold War on domestic and international affairs in American history. (Courses: Modern, Comprehensive)
+u972 [T1 R3 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems
+u973 [T1 R4 C1] 9-12.H.4.5
+u974 [T1 R4 C2] Analyze the development of American constitutional frameworks during the Revolutionary Era. (Courses: Early, Comprehensive)
+u975 [T1 R5 C1] 9-12.H.4.6
+u976 [T1 R5 C2] Evaluate the causes, events, and effects of reform movements stimulated from the 2nd Great Awakening. (Courses: Early, Comprehensive)
+u977 [T1 R6 C1] 9-12.H.4.7
+u978 [T1 R6 C2] Evaluate the causes and effects of the First World War on the United States. (Courses: Modern, Comprehensive)
+u979 [T1 R7 C1] 9-12.H.4.8
+u980 [T1 R7 C2] Assess the roots and outcomes of the Great Depression including its transformation of American political and economic institutions. (Courses: Modern, Comprehensive)
+u981 [T1 R8 C1] 9-12.H.4.9
+u982 [T1 R8 C2] Explain the causes, events, and consequences of the Second World War including issues at home and abroad. (Courses: Modern, Comprehensive)
+u983 [T1 R9 C1] K-12.H.5 Students will develop historical research skills.
+u984 [T1 R10 C1] 9-12.H.5.4
+u985 [T1 R10 C2] Investigate the philosophical foundations, the causes, and the effects of the Revolutionary Era in American history. (Courses: Early, Comprehensive)
+u986 [T1 R11 C1] 9-12.H.5.5
+u987 [T1 R11 C2] Evaluate to what extent Reconstruction both succeeded and failed in its intentions. (Courses: Modern, Comprehensive)
+u988 [T1 R12 C1] 9-12.H.5.6
+u989 [T1 R12 C2] Investigate the social, political, and economic transformation of the United States in the aftermath of the Second World War. (Courses: Modern, Comprehensive)
+u990 [T2 R1 C2] High School World History
+u991 [T2 R2 C1] K-12.H.1 Students will analyze how major events are chronologically connected and evaluate their impact on one another.
+u992 [T2 R3 C1] 9-12.H.1.1
+u993 [T2 R3 C3] Distinguish between long-term causes and triggering events in the development and events of the Renaissance and Reformation
+u994 [T2 R4 C1] 9-12.H.1.2
+u995 [T2 R4 C3] Identify patterns and analyze change and continuity in historical eras
+u996 [T2 R5 C1] K-12.H.2 Students will analyze and evaluate the impact of people, events, ideas and symbols upon history using multiple sources.
+u997 [T2 R6 C1] 9-12.H.2.1
+u998 [T2 R6 C3] Use questions generated about individuals and groups of the Scientific Revolution and Enlightenment to assess the significance of their actions and work
+u999 [T2 R7 C1] 9-12.H.2.2
+u1000 [T2 R7 C3] Evaluate how historical events and developments of the French Revolution and Napoleonic Era were shaped by unique circumstances of time and place as well as broader historical contexts
+=== page 40 ===
+u1002 [T1 R1 C1] 9-12.H.2.3
+u1003 [T1 R1 C2] Evaluate how agricultural and industrial revolutions were shaped by the unique circumstances of time and place
+u1004 [T1 R2 C1] 9-12.H.2.4
+u1005 [T1 R2 C2] Analyze complex and interacting factors that influenced the perspectives and changes in ideologies of populations
+u1006 [T1 R3 C1] 9-12.H.2.5
+u1007 [T1 R3 C2] Analyze multiple and complex effects of events and people related to the Cold War
+u1008 [T1 R4 C1] K-12.H.3 Students will analyze and evaluate historical events from multiple perspectives
+u1009 [T1 R5 C1] 9-12.H.3.1
+u1010 [T1 R5 C2] Analyze the ways in which the perspectives of those writing history shaped the history they produced in relation to exploration, imperialism, and expansion
+u1011 [T1 R6 C1] 9-12.H.3.2
+u1012 [T1 R6 C2] Interpret and critique historical propaganda sources based on their maker, date, place of origin, intended audience, and purpose
+u1013 [T1 R7 C1] K-12.H.4 Students will identify and evaluate the causes and effects of past, current and potential events, issues and problems.
+u1014 [T1 R8 C1] 9-12.H.4.1
+u1015 [T1 R8 C2] Identify and distinguish between long-term causes and triggering events of WWI
+u1016 [T1 R9 C1] 9-12.H.4.2
+u1017 [T1 R9 C2] Evaluate how economic conditions were shaped by the unique circumstances of the time and place
+u1018 [T1 R10 C1] 9-12.H.4.3
+u1019 [T1 R10 C2] Analyze multiple and complex causes and effects of events of WWII
+u1020 [T1 R11 C1] 9-12.H.4.4
+u1021 [T1 R11 C2] Identify and analyze historical content and events using disciplinary and interdisciplinary lenses to understand the characteristics and causes of contemporary local, regional, and global problems, challenges, and opportunities
+u1022 [T1 R12 C1] K-12.H.5 Students will develop historical research skills.
+u1023 [T1 R13 C1] 9-12.H.5.1
+u1024 [T1 R13 C2] Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration multiple points of view represented in the sources, the types of sources available, and the potential uses of the sources
+u1025 [T1 R14 C1] 9-12.H.5.2
+u1026 [T1 R14 C2] Evaluate the credibility of a source by examining how experts value the source
+u1027 [T1 R15 C1] 9-12.H.5.3
+u1028 [T1 R15 C2] Identify historical evidence that draws information directly and substantively from multiple sources to detect inconsistencies in evidence in order to revise or strengthen claims
+=== page 41 ===
+u1030 GLOSSARY
+u1031 Area - Any defined space on Earth’s surface expressed numerically in square units (as 1,000 square miles or kilometers), or by general location (as opposed to region which implies homogeneity).
+u1032 Cardinal directions - The four main compass points: north (toward North Pole), south (toward South Pole), east (direction from which Earth rotates on its axis), and west (direction of Earth’s rotation on axis). Intermediate directions are those between, e.g., N NW N. Terms such as “up” or “down” should never be used in reference to cardinal directions.
+u1033 Compelling Questions – These are open-ended question that promote higher-order thinking and stimulate thought and discussion to achieve further understanding. These have also been called essential questions in the past.
+u1034 -Example: How do we improve clean water while providing jobs, economic development and still maintain private property rights?
+u1035 Culture - Learned human behavior. Culture traits are the things humans do or create, including: language, religion, economic and political systems, social patterns, ideas and sentiments, and technology and material goods. A culture is a group of people who share a relatively common way-of-life (e.g., Japanese; French; Inuit).
+u1036 Environment - The totality of physical and human elements found in a particular place; one’s surroundings.
+u1037 Grid - A system of coordinates (lines) on a chart, map, or globe, such as those represented by latitude and longitude, which helps determine the specific location of places and things on Earth’s surface.
+u1038 Human-environment interactions – These are the myriad of ways by which humans, acting as cultural agents, adapt to, use, and modify the natural environment. The natural environment offers resources, options, and challenges that confront all human societies.
+u1039 Landscape - The totality of one’s sensed (e.g., seen) surroundings, including all physical and cultural elements. Latitude - Angular distance north or south of the equator measured in degrees (0o to 90o N or S). Parallels are the east-west lines on maps and globes that measure latitudinal locations.
+u1040 Location - “Where it is” in reference to specific or absolute position on Earth’s surface, as expressed by means of a grid system, or relative to the position of other places (usually expressed in direction and distance).
+=== page 42 ===
+u1042 Longitude - Angular distance east or west from the arbitrarily established Prime Meridian (0o) to the 180th meridian (which generally coincides with the International Date Line). Meridians are the north-south lines appearing on maps and globes that mark longitudinal locations.
+u1043 Map - A graphic representation of all or part of Earth’s surface that usually is drawn to scale on a flat surface. Most maps include reference to direction and distance (scale), and have a key or legend.
+u1044 Mental map - A “map” that represents the mental image a person has of an area, including knowledge of features and spatial relationships, as well as the person’s perceptions and attitudes regarding the place.
+u1045 Nation - Territory occupied by a nationality (self-identity, such as “Kurds,” or “Flemish”) of people. This is not to be confused with state, which is a politically organized and governed territory. A nation- state is a country occupied by a dominant nationality of people (e.g., those countries in which the name is derived from the national language, such as Italy, Norway, or Germany).
+u1046 Natural resource - Anything in nature that is actually used by a culture is considered a natural resource. Resource is an economic concept based upon a culture’s perceptions, values, needs, and technology.
+u1047 Physical systems - Earth’s natural elements: the lithosphere, atmosphere, hydrosphere, and biosphere.
+u1048 Place - “What is it like there” in reference to physical and human features and conditions of a particular location.
+u1049 Primary Sources - Original materials from the time period on which other research is based
+u1050 -Examples: artifacts, audio recordings, diaries, e-mail, interviews, photographs, art, music
+u1051 Region - An area with one or more common or unifying features or characteristics, which give it a degree of uniformity and set it apart from surrounding areas. Geographers recognize three types of regions: formal (e.g., Corn Belt, Middle West, Great Plains), functional (usually identified by a control point or node, e.g., South Dakota, Sioux Falls, Delta Airlines, HyVee or Safeway grocery chains), or vernacular/perceptual (regions recognized by the general populace, such as East River/West River in South Dakota).
+u1052 Scale - The relationship or ratio between a linear measurement on a map or globe and the corresponding distance on Earth’s surface. It can be expressed in words (“One inch = 10 miles”), shown as a line (bar scale), or given as a fraction (1:1,000,000).
+u1053 Secondary Sources - Accounts written after the fact with the benefit of hindsight.
+u1054 -Examples: Bibliographies, commentaries, encyclopedias, textbooks, magazines and newspapers
+u1055 Settlement - Where people reside, as rural vs. urban, or clustered vs. dispersed. Often includes those structures that house and otherwise indicate a human presence, such as “town,” “farm,” “suburb.”
+=== page 43 ===
+u1057 Spatial - Refers to space on Earth’s surface, including such concepts as area, region, location, distance, distribution, and pattern. Geography (spatial = where?), like history (temporal = when?), is a unique methodology, or way to organize and analyze information pertaining to the varied features of Earth’s surface.
+u1058 Supporting Questions - Questions related to the compelling question(s) that allow the learner to construct responses that focus on descriptions, definitions and processes.
+u1059 -Example: What are my rights as a landowner? What are the acceptable parameters of clean water? What kinds of jobs are created by the desire for clean water?
+u1060 System - A collection of elements that are interrelated or linked in some way as to form a functioning whole, such as the hydrologic cycle, a city, an economic or political entity, or transportation network.
+=== page 44 ===
+u1062 High School U.S. History Issue-Specific Workgroup
+u1063 This workgroup convened for a meeting on October 7th, 2014 and formatted the High School U.S. History standards and specified whether they were Early, Modern, and/or Comprehensive U.S. History Standards. This guidance will help schools make decisions regarding course offerings for students. Further guidance on the high school graduation requirements can be obtained by contacting the Department of Education and/or by visiting the DOE website: DOE.SD.GOV
+u1064 [T1 R1 C1] Name
+u1065 [T1 R1 C2] District
+u1066 [T1 R1 C3] Teaching Role
+u1067 [T1 R2 C1] Scott DeBoer
+u1068 [T1 R2 C2] Pierre 32-2
+u1069 [T1 R2 C3] U.S. History, Sociology
+u1070 [T1 R3 C1] Rick Gereau
+u1071 [T1 R3 C2] Bowdle 22-1
+u1072 [T1 R3 C3] American History, Government
+u1073 [T1 R4 C1] Sean Gholson*
+u1074 [T1 R4 C2] Douglas 51-1
+u1075 [T1 R4 C3] 9-12 Social Studies
+u1076 [T1 R5 C1] Cheryl Harming*
+u1077 [T1 R5 C2] Elkton 05-3
+u1078 [T1 R5 C3] 7-12 Social Studies
+u1079 [T1 R6 C1] Erik Iverson*
+u1080 [T1 R6 C2] Rapid City Area 51-4
+u1081 [T1 R6 C3] U.S. History
+u1082 [T1 R7 C1] Becky Kelley
+u1083 [T1 R7 C2] Sioux Falls 49-5
+u1084 [T1 R7 C3] AP U.S. History, Modern U.S. History
+u1085 [T1 R8 C1] Angie Kulesa
+u1086 [T1 R8 C2] Ipswich Public 22-6
+u1087 [T1 R8 C3] 9-12 Social Studies
+u1088 [T1 R9 C1] Jeffrey Palmer
+u1089 [T1 R9 C2] Rapid City Area 51-4
+u1090 [T1 R9 C3] U.S. History
+u1091 [T1 R10 C1] Laura Plowman*
+u1092 [T1 R10 C2] Brookings 05-1
+u1093 [T1 R10 C3] World History, U.S. History, AP U.S. Government
+u1094 [T1 R11 C1] Shawn Spurell
+u1095 [T1 R11 C2] Parkston 33-3
+u1096 [T1 R11 C3] th 11 U.S. History, 7-12 PE
+u1097 [T1 R12 C1] Carissa VanderLey
+u1098 [T1 R12 C2] Chamberlain 07-1
+u1099 [T1 R12 C3] U.S. History, AP U.S. History, Sociology, Psychology
+u1100 Note: The asterisk (*) designates a person who was also a member of the standards workgroup

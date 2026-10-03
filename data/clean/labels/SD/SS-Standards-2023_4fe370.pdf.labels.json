@@ -1,0 +1,286 @@
+{
+ "state": "SD",
+ "file": "SS-Standards-2023_4fe370.pdf",
+ "structure": "South Dakota Social Studies Standards, adopted April 17, 2023. Front matter (introduction, Dear Teacher, commission, guiding principles, notable adjustments, grade/subject table, identification key) then one section per grade (K, 1-8) and five 9-12 courses. Each grade/course section starts with a divider page (title only) then a title page. Grades 1-5 are each split into WORLD HISTORY and AMERICAN HISTORY halves (labeled with era), grades 6-8 are single chronological sections. Standard codes: grade.SS.n (e.g. 3.SS.5) for K-8, 9-12.<course>.n for HS (WH world history, WG world geography, E economics, USH US history, C government/civics); lettered subpoints A., B., ... are inline within the standard text; trailing letters (H, C, G, E) after each subpoint are discipline tags (History, Civics, Geography, Economics) per the Key. Each grade's .SS.1 (and .SS.2 in some) is the skills/inquiry standard ('Building upon skills learned in previous grades...') and is labeled with that single grade. Content lists (figures, symbols, places, bulleted 'including' lists) are part of the standard text and have no separate example blocks; there are no teacher notes, so no units are labeled examples. All 9-12 courses are labeled grades 9-12 with course = course title; no shared cross-course HS skills section exists. Physical-text layout: whole subpoints are merged into long paragraph units, so units are not split.",
+ "labels": [
+  {
+   "units": "u1-u124",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Front matter: title, table of contents, introduction, Dear Teacher, commission, guiding principles, notable adjustments, grade/subject overview table, identification key"
+  },
+  {
+   "units": "u127",
+   "grades": "K",
+   "course": null,
+   "cat": "backup",
+   "section": "Kindergarten Introduction to America (section divider page)"
+  },
+  {
+   "units": "u130",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten Introduction to America - grade title"
+  },
+  {
+   "units": "u131-u162",
+   "grades": "K",
+   "course": null,
+   "cat": "standards",
+   "section": "Kindergarten Introduction to America - standards (K.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u165",
+   "grades": "1",
+   "course": null,
+   "cat": "backup",
+   "section": "1st Grade World: to 315 and America: 1492-1787 (section divider page)"
+  },
+  {
+   "units": "u168",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1st Grade World: to 315 and America: 1492-1787 - grade title"
+  },
+  {
+   "units": "u169-u240",
+   "grades": "1",
+   "course": null,
+   "cat": "standards",
+   "section": "1st Grade World: to 315 and America: 1492-1787 - standards (1.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u243",
+   "grades": "2",
+   "course": null,
+   "cat": "backup",
+   "section": "2nd Grade World: 315-1492 and America: 1787-1908 (section divider page)"
+  },
+  {
+   "units": "u246",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2nd Grade World: 315-1492 and America: 1787-1908 - grade title"
+  },
+  {
+   "units": "u247-u349",
+   "grades": "2",
+   "course": null,
+   "cat": "standards",
+   "section": "2nd Grade World: 315-1492 and America: 1787-1908 - standards (2.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u352",
+   "grades": "3",
+   "course": null,
+   "cat": "backup",
+   "section": "3rd Grade World: To 60 B.C.E. and America 1492-1763 (section divider page)"
+  },
+  {
+   "units": "u355",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3rd Grade World: To 60 B.C.E. and America 1492-1763 - grade title"
+  },
+  {
+   "units": "u356-u430",
+   "grades": "3",
+   "course": null,
+   "cat": "standards",
+   "section": "3rd Grade World: To 60 B.C.E. and America 1492-1763 - standards (3.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u433",
+   "grades": "4",
+   "course": null,
+   "cat": "backup",
+   "section": "4th Grade World: 60 B.C.E.-C.E. 1300 and America: 1763-1820 (section divider page)"
+  },
+  {
+   "units": "u436",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4th Grade World: 60 B.C.E.-C.E. 1300 and America: 1763-1820 - grade title"
+  },
+  {
+   "units": "u437-u555",
+   "grades": "4",
+   "course": null,
+   "cat": "standards",
+   "section": "4th Grade World: 60 B.C.E.-C.E. 1300 and America: 1763-1820 - standards (4.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u558",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "5th Grade World: 1300-1648 and American 1820-1908 (section divider page)"
+  },
+  {
+   "units": "u561",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5th Grade World: 1300-1648 and American 1820-1908 - grade title"
+  },
+  {
+   "units": "u562-u663",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "5th Grade World: 1300-1648 and American 1820-1908 - standards (5.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u666",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "6th Grade Influential Ideas in History and Civics: To 1815 (section divider page)"
+  },
+  {
+   "units": "u669",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "6th Grade Influential Ideas in History and Civics: To 1815 - grade title"
+  },
+  {
+   "units": "u670-u767",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "6th Grade Influential Ideas in History and Civics: To 1815 - standards (6.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u770",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "7th Grade America: 1492-1877 (section divider page)"
+  },
+  {
+   "units": "u773",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "7th Grade America: 1492-1877 - grade title"
+  },
+  {
+   "units": "u774-u1000",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "7th Grade America: 1492-1877 - standards (7.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u1003",
+   "grades": "8",
+   "course": null,
+   "cat": "backup",
+   "section": "8th Grade America: 1877-2008 (section divider page)"
+  },
+  {
+   "units": "u1006",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "8th Grade America: 1877-2008 - grade title"
+  },
+  {
+   "units": "u1007-u1133",
+   "grades": "8",
+   "course": null,
+   "cat": "standards",
+   "section": "8th Grade America: 1877-2008 - standards (8.SS.n with lettered subpoints)"
+  },
+  {
+   "units": "u1136",
+   "grades": "9-12",
+   "course": "World History: Ancient to Modern",
+   "cat": "backup",
+   "section": "World History: Ancient to Modern (section divider page)"
+  },
+  {
+   "units": "u1139-u1296",
+   "grades": "9-12",
+   "course": "World History: Ancient to Modern",
+   "cat": "standards",
+   "section": "World History: Ancient to Modern - standards (9-12.WH.1-9)"
+  },
+  {
+   "units": "u1299",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "backup",
+   "section": "World Geography (section divider page)"
+  },
+  {
+   "units": "u1302-u1326",
+   "grades": "9-12",
+   "course": "World Geography",
+   "cat": "standards",
+   "section": "World Geography - standards (9-12.WG.1-3)"
+  },
+  {
+   "units": "u1329",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "backup",
+   "section": "Economics (section divider page)"
+  },
+  {
+   "units": "u1332-u1422",
+   "grades": "9-12",
+   "course": "Economics",
+   "cat": "standards",
+   "section": "Economics - standards (9-12.E.1-10)"
+  },
+  {
+   "units": "u1425",
+   "grades": "9-12",
+   "course": "United States History: 1492-2008",
+   "cat": "backup",
+   "section": "United States History: 1492-2008 (section divider page)"
+  },
+  {
+   "units": "u1428-u1853",
+   "grades": "9-12",
+   "course": "United States History: 1492-2008",
+   "cat": "standards",
+   "section": "United States History: 1492-2008 - standards (9-12.USH.1-21)"
+  },
+  {
+   "units": "u1856",
+   "grades": "9-12",
+   "course": "United States Government/American Civics",
+   "cat": "backup",
+   "section": "United States Government/American Civics (section divider page)"
+  },
+  {
+   "units": "u1859-u2121",
+   "grades": "9-12",
+   "course": "United States Government/American Civics",
+   "cat": "standards",
+   "section": "United States Government/American Civics - standards (9-12.C.1-18)"
+  }
+ ],
+ "issues": [
+  "State guide says both the 2023 and 2015 files are included, but state_config 'use' lists only the 2023 file; only 2023 labeled.",
+  "u88: the grade/subject table lists 'State and Native American History and Civics' as a 9-12 elective, but the document contains no standards for it (Notable Adjustments says it 'may be developed'); no units for it.",
+  "u151-u157: table fragments in K.SS.3 (Lakota names such as Maȟpíya Lúta, Heȟáka Sápa, Tȟatȟáŋka Íyotake, Tȟašúŋke Witkó) split mid-name across table cells and out of order with u150/u154; labeled K standards.",
+  "u93-u109: sample coding illustrations for K.SS.1 and 9-12.WH.1 inside the identification key; labeled backup (how-to-read), even though they quote real standard text.",
+  "u216: 1.SS.8 heading text duplicates 1.SS.7 wording (European exploration and settlement) in the source; extraction faithful, content is colonial America.",
+  "u973-u985: Lincoln biography bullets (7.SS.12.I) appear in u973 before the 'I.' lead-in u974 and list items are individual units; labeled grade 7 standards.",
+  "u1593-u1601 and u1708-u1711: multi-column lists extracted in interleaved order (9-12.USH.10.C items; USH.15.I heading/list order); text order may not match the visual layout.",
+  "u2111-u2113: stray 'C' tag in a separate unit before the 9-12.C.18.C list; labeled Government/American Civics standards.",
+  "u1465-u1468, u1869-u1870: 'modern way of life' lists run together in one unit; labeled standards.",
+  "u1136, u1299, u1329, u1425, u1856 (and K-8 dividers u127, u165, u243, u352, u433, u558, u666, u770, u1003): divider pages repeat the title already on the following content page; labeled backup, with the content-page title (u130, u168, ...) labeled standards.",
+  "Several standards (e.g. 7.SS.11, 9-12.USH.12, 9-12.C.15) contain numbering/lettering irregularities in the source (e.g. unnumbered final item u1610 under 9-12.USH.10 after K.); treated as part of the standard."
+ ]
+}

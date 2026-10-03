@@ -1,0 +1,215 @@
+{
+ "state": "AR",
+ "file": "AR_Grades_7-8_Arkansas_History_Standards_2022_LS.pdf",
+ "structure": "Single middle-school course document (Grades 7/8 Arkansas History, course Arkansas History, grades 7-8). Front matter as other AR docs (no course info table). At a Glance: Civics C.1, Economics E.1, Geography G.1, History H.1 with Arkansas-specific components. KPE pages: strand heading, standard statement, component heading, KPEs coded C.1.ARH.n, E.1.ARH.n, G.1.ARH.n, H.1.ARH.n; bulleted lists after a KPE are part of it; Teacher Note and 'This may include' blocks are examples.",
+ "labels": [
+  {
+   "units": "u1-u3",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u5",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u6-u8",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u12-u13",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u17-u18",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u19-u28",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u29-u40",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u44-u52",
+   "grades": "7-8",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u56-u60",
+   "grades": "7-8",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u61-u97",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "At a Glance: Civics C.1, Economics E.1, Geography G.1, History H.1 Arkansas components"
+  },
+  {
+   "units": "u101-u125",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "Civics > C.1 > ARH.1-6"
+  },
+  {
+   "units": "u129-u146",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "Economics > E.1 > ARH.1-4"
+  },
+  {
+   "units": "u147-u148",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note E.1.ARH.4 entrepreneurs"
+  },
+  {
+   "units": "u149-u185",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "Economics E.1.ARH.5-6; Geography G.1.ARH.1-5"
+  },
+  {
+   "units": "u186",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "G.1.ARH.5 may include"
+  },
+  {
+   "units": "u187",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "G.1.ARH.6"
+  },
+  {
+   "units": "u188-u189",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note G.1.ARH.6"
+  },
+  {
+   "units": "u190",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "G.1.ARH.7"
+  },
+  {
+   "units": "u191-u192",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note G.1.ARH.7 examples"
+  },
+  {
+   "units": "u196-u208",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "History > H.1 > ARH.1-6"
+  },
+  {
+   "units": "u209",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.1.ARH.6 convict leasing"
+  },
+  {
+   "units": "u213",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.1.ARH.7"
+  },
+  {
+   "units": "u214",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.1.ARH.7"
+  },
+  {
+   "units": "u215-u222",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.1.ARH.8-10"
+  },
+  {
+   "units": "u223-u224",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.1.ARH.10 programs"
+  },
+  {
+   "units": "u225-u229",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.1.ARH.11-12"
+  },
+  {
+   "units": "u230-u231",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.1.ARH.12"
+  },
+  {
+   "units": "u232-u235",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.1.ARH.13-15"
+  },
+  {
+   "units": "u236-u237",
+   "grades": "7-8",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.1.ARH.15"
+  }
+ ],
+ "issues": [
+  "u234 and u233 (H.1.ARH.14) list is e.g. list inside KPE; labeled standards.",
+  "u235 H.1.ARH.15 lacks a final period and its examples are in Teacher Note u236-u237.",
+  "K-12 overview and C3 skills labeled course null grades 7-8 (shared course content)."
+ ]
+}

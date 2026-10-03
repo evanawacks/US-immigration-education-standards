@@ -53,3 +53,10 @@ Rules for `labels`:
 2. Use the evidence in this order: explicit grade/course headings and table column headers → standard codes → running headers → position in the document.
 3. Do not guess silently. If a block could belong to more than one grade, pick the best-supported one and add an issue.
 4. Write valid JSON (no comments, no trailing commas). Run `python3 scripts/check_labels.py <ST>` and fix every reported gap/overlap before finishing.
+
+## Clarifications (from the pilot)
+
+- In a single-course document (e.g. a Psychology course file), shared material such as a K-12 overview or C3 inquiry skills that applies to the course: `course: null`, `grades` = the course's grades (e.g. `9-12`). The assembler copies it into that course's row only.
+- "Course Focus and Content" / course or grade overview narrative that describes what students study: `examples`.
+- Multi-grade documents that repeat front matter per grade section: label each copy with that section's grade (it lands in that grade's backup).
+- You may write a small script to generate labels for highly regular tables (e.g. map column C2..C6 to grades), but you must still read the whole view to confirm the mapping holds everywhere.

@@ -1,0 +1,273 @@
+{
+ "state": "AR",
+ "file": "AR_Grade_7_Social_Studies_Standards_2022_LS.pdf",
+ "structure": "Single-grade document (Grade 7: United States History Era 1 through Era 4, 1850). Front matter as other AR docs. At a Glance: Civics C.1, Economics E.1, Geography G.1, History H.3 with Era components. KPE pages: strand heading, standard statement, component heading, KPEs coded C.1.7.n, E.1.7.n, G.1.5.n (sic), H.3.7.n; bulleted lists after a colon are part of the KPE; 'may include' lists and Teacher Notes are examples. No course field (grade-level document).",
+ "labels": [
+  {
+   "units": "u2",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 7 title: United States History Era 1 through Era 4 (1850)"
+  },
+  {
+   "units": "u3-u4",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u7",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u8-u10",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u15-u16",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u21-u22",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u23-u32",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u33-u44",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u49-u57",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u62-u66",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u67-u112",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics C.1, Economics E.1, Geography G.1, History H.3 with Grade 7 components and eras"
+  },
+  {
+   "units": "u117-u121",
+   "grades": "7",
+   "course": null,
+   "cat": "backup",
+   "section": "KPE table column headings"
+  },
+  {
+   "units": "u122-u136",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C.1 > Civic and Political Institutions > C.1.7.1-4"
+  },
+  {
+   "units": "u137-u138",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "C.1.7.4 unenumerated rights may include"
+  },
+  {
+   "units": "u139-u144",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C.1 > Participation and Deliberation > C.1.7.5"
+  },
+  {
+   "units": "u145-u146",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "C.1.7.5 historical figures may include"
+  },
+  {
+   "units": "u147-u154",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "C.1.7.6-8 (list for C.1.7.7 continues on next page)"
+  },
+  {
+   "units": "u155-u156",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "C.1.7.8 notable developments"
+  },
+  {
+   "units": "u157-u166",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics > C.1 > Process, Rules, and Laws > C.1.7.9-11"
+  },
+  {
+   "units": "u171-u177",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics > E.1 > Economic Decision-Making > E.1.7.1"
+  },
+  {
+   "units": "u178",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note E.1.7.1 triangular trade"
+  },
+  {
+   "units": "u179-u213",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Economics E.1 > Exchange and Markets, Growth and Stability, Global Economy > E.1.7.2-8"
+  },
+  {
+   "units": "u214",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note E.1.7.8 Monroe Doctrine"
+  },
+  {
+   "units": "u219-u245",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.1 > Geographic Representations, Human-Environment Interaction, Spatial Patterns > G.1.5.1-5 (codes read 5)"
+  },
+  {
+   "units": "u246",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "G.1.5.5 may include"
+  },
+  {
+   "units": "u247-u259",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.1 > G.1.5.6-7 Global Interconnections"
+  },
+  {
+   "units": "u264-u270",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.3 > Era 1 > H.3.7.1"
+  },
+  {
+   "units": "u271-u272",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.1 pre-Columbian societies might include"
+  },
+  {
+   "units": "u273-u275",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "H.3.7.2-3"
+  },
+  {
+   "units": "u276-u277",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.3 reasons may include"
+  },
+  {
+   "units": "u282-u284",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.3 reasons continued; Teacher Note on European ventures"
+  },
+  {
+   "units": "u285-u293",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.3 > Era 2 > H.3.7.4-5"
+  },
+  {
+   "units": "u294-u295",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.5 inquiry questions"
+  },
+  {
+   "units": "u300",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.5 inquiry questions continued"
+  },
+  {
+   "units": "u301-u336",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.3 > Eras 3-4 > H.3.7.6-15"
+  },
+  {
+   "units": "u337-u338",
+   "grades": "7",
+   "course": null,
+   "cat": "examples",
+   "section": "H.3.7.15 events may include"
+  },
+  {
+   "units": "u339-u342",
+   "grades": "7",
+   "course": null,
+   "cat": "standards",
+   "section": "H.3.7.16-18"
+  }
+ ],
+ "issues": [
+  "Geography KPEs u224-u254 are coded G.1.5.1-G.1.5.7 (grade part 5) in the Grade 7 document; treated as Grade 7 (probable typo in source).",
+  "u309 code reads 'H32.7.7' (typo for H.3.7.7).",
+  "u331 Era 4 heading states H.2 instead of H.3 (source typo).",
+  "Lists broken across pages: u153 (C.1.7.7), u239 (G.1.5.4), u259 (G.1.5.7 text), u282 and u300 (continuation lists); labeled with their parent context.",
+  "K-12 overview and C3 skills labeled grade 7 only."
+ ]
+}

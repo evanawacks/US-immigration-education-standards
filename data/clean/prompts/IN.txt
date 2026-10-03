@@ -1,0 +1,36 @@
+You are labeling U.S. state social-studies standards documents for a research database. Repository: /home/user/US-immigration-education-standards (do NOT commit or push; only write the label files described).
+
+Read these first, fully:
+1. data/clean/LABELING_GUIDE.md — the rules; follow them exactly.
+2. data/clean/guides/IN.md — state-specific notes (which files to use, the row grade clusters, known structure). Verify the notes against the documents; the documents win if they disagree (record disagreements in issues).
+
+Your scope: state IN, these files (from data/clean/state_config.json, value "use"):
+- 2026-Indiana-Academic-Standards-Economics_933337.pdf
+- 2026-Indiana-Academic-Standards-Grade-3-Social-Studies_d0f3c3.pdf
+- 2026-Indiana-Academic-Standards-Grade-6-Social-Studies_94e5c1.pdf
+- 2026-Indiana-Academic-Standards-Grade-7-Social-Studies-3_ecfa83.pdf
+- 2026-Indiana-Academic-Standards-Grade-8-Social-Studies_a_8da304.pdf
+- 2026-Indiana-Academic-Standards-Sociology_505c23.pdf
+- 2026-Indiana-Academic-Standards-U.S.-Government_5c0f46.pdf
+- 2026-Indiana-Academic-Standards-U.S.-History_fa7d1b.pdf
+- 2026-Indiana-Academic-Standards-World-History-and-Civilization_ac0a88.pdf
+- Indiana-Academic-Standards-Grade-2-Social-Studies_b2b7c7.pdf
+- Indiana-Academic-Standards-Grade-4-Social-Studies_7dbc21.pdf
+- Indiana-Academic-Standards-Grade-5-Social-Studies_8ab064.pdf
+- Indiana-Academic-Standards-Grade-6-Middle-School-Civics_d4140f.pdf
+- indiana-academic-standards-geography-and-history-of-the-world_c024f5.pdf
+- indiana-academic-standards-grade-1-social-studies_432eee.pdf
+- indiana-academic-standards-kindergarten-social-studies_dbb6af.pdf
+
+For each file: read its view data/clean/units/IN/<file>.view.txt IN FULL with the Read tool (use offset/limit chunks until the end; never skim or sample), work out the document's internal schema (how grades, courses, strands, standard codes, examples and front matter are marked), write that schema in "structure", then write data/clean/labels/IN/<file>.labels.json (create the directory if needed).
+
+Accuracy over speed:
+- Every unit ID in your scope covered exactly once, ranges in document order.
+- Grades from explicit evidence: grade/course headings, table column headers (map each cell's C index to the header row of the same table), standard codes, running headers in the page markers. A table row's first-column cell (strand/component) applies to all grade columns of that row.
+- Shared skills/inquiry/practice standards get the full grade range they apply to (they are copied into each grade).
+- Course-based content: "course" = course title as written; same string for all units of that course.
+- Record every uncertainty or extraction problem in "issues" with unit IDs.
+
+After writing each labels file run from the repo root: python3 scripts/check_labels.py IN <file-substring> — fix every gap/overlap/format error until it prints OK.
+
+Final reply (under 200 words): files labeled, unresolved issues, and any pattern the shared guide or state guide did not cover.

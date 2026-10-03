@@ -1,0 +1,173 @@
+{
+ "state": "AR",
+ "file": "AR_Grades_9-12_Arkansas_History_Standards_2022_LS.pdf",
+ "structure": "Single HS course document (Arkansas History, grades 9-12). Same front matter as other AR HS courses. At a Glance: History H.3 (Eras 1-4), H.4 (Eras 5-7), H.5 (Eras 8-10) with Arkansas era components. KPE pages: 'History - <period>', H.n statement, Era line(s), era label, KPEs coded H.n.ARH.m; lists after a colon are part of the KPE; Teacher Notes and 'This may include' blocks are examples.",
+ "labels": [
+  {
+   "units": "u2-u6",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover and course info"
+  },
+  {
+   "units": "u8",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Course Focus and Content narrative"
+  },
+  {
+   "units": "u9-u11",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u15-u16",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u20-u21",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u22-u31",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills"
+  },
+  {
+   "units": "u32-u43",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u47-u55",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview"
+  },
+  {
+   "units": "u59-u63",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u64-u95",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "At a Glance: History H.3, H.4, H.5 and Era components"
+  },
+  {
+   "units": "u96-u103",
+   "grades": "9-12",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u107-u128",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "History > H.3 > Eras 1-3 > H.3.ARH.1-3 ; H.4 Era 4 > H.4.ARH.1"
+  },
+  {
+   "units": "u129",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.4.ARH.1 Indian Removal"
+  },
+  {
+   "units": "u130-u143",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.4.ARH.2-6 (Era 4, Eras 5-6)"
+  },
+  {
+   "units": "u144",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.4.ARH.6"
+  },
+  {
+   "units": "u145-u149",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.4.ARH.7-9"
+  },
+  {
+   "units": "u150",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.4.ARH.9"
+  },
+  {
+   "units": "u154-u177",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "History > H.4/H.5 > Eras 6-8 > H.4.ARH.10, H.5.ARH.1-7"
+  },
+  {
+   "units": "u178",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.5.ARH.7 Holocaust connections"
+  },
+  {
+   "units": "u179",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.5.ARH.8"
+  },
+  {
+   "units": "u180",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "Teacher Note H.5.ARH.8"
+  },
+  {
+   "units": "u181-u199",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "standards",
+   "section": "H.5.ARH.9-15 (Eras 9-10)"
+  },
+  {
+   "units": "u200-u201",
+   "grades": "9-12",
+   "course": "Arkansas History",
+   "cat": "examples",
+   "section": "H.5.ARH.15 may include list"
+  }
+ ],
+ "issues": [
+  "Page 10-11: H.4 statement repeated under heading 'United States History 1800-1900'; the H.4.ARH.10 (u154) sits on the next page before the H.5 heading u155.",
+  "u175-u176: Federal Art Project/WPA bullets are in unit u176 with e.g. lists; labeled standards.",
+  "K-12 overview and C3 skills labeled course null grades 9-12 (shared HS content)."
+ ]
+}

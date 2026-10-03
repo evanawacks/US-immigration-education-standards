@@ -1,0 +1,299 @@
+{
+ "state": "AR",
+ "file": "AR_Grades_5-6_Social_Studies_Standards_2022_LS.pdf",
+ "structure": "Combined document: Grade 5 World Geography section (u1-u195) followed by Grade 6 World History Era 1 through Era 5 section (u199-u520). Each section repeats front matter (cover, Course Focus, Integrating Standards, Related Laws, Skills, C3 Dimensions, K-12 Overview, At a Glance, KPEs). Grade 5 KPEs: Geography only, coded G.n.5.m (G.2, G.3, G.4). Grade 6 KPEs: Civics C.1.6.m, Economics E.1.6.m, Geography G.1.6.m, History H.2.6.m. Running headers say Grade 5 / Grade 6. Lists after a colon are part of the KPE; Teacher Note and 'may include' blocks are examples.",
+ "labels": [
+  {
+   "units": "u1",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 5 title: World Geography"
+  },
+  {
+   "units": "u2-u3",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u6",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 5 Course Focus and Content narrative"
+  },
+  {
+   "units": "u7-u9",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u14-u15",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u20-u21",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u22-u31",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills (Grade 5 section)"
+  },
+  {
+   "units": "u32-u43",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u48-u56",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview (Grade 5 section)"
+  },
+  {
+   "units": "u61-u65",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u66-u77",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Geography G.2, G.3, G.4 Grade 5 components"
+  },
+  {
+   "units": "u82-u89",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "Disciplinary Note and embedded strand components"
+  },
+  {
+   "units": "u94-u98",
+   "grades": "5",
+   "course": null,
+   "cat": "backup",
+   "section": "KPE table column headings"
+  },
+  {
+   "units": "u100-u133",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.2 > World in Spatial Terms > G.2.5.1-9"
+  },
+  {
+   "units": "u134",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.2.5.9"
+  },
+  {
+   "units": "u140-u147",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.3 > Human Systems > G.3.5.1-3"
+  },
+  {
+   "units": "u148",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.3.5.3"
+  },
+  {
+   "units": "u149-u161",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "G.3.5.4-5"
+  },
+  {
+   "units": "u162-u163",
+   "grades": "5",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.3.5.5 regions and resources"
+  },
+  {
+   "units": "u164-u195",
+   "grades": "5",
+   "course": null,
+   "cat": "standards",
+   "section": "G.3.5.6-10, Environment and Society G.4.5.1-6"
+  },
+  {
+   "units": "u199-u200",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Grade 6 title: World History Era 1 through Era 5 (1500 C.E.)"
+  },
+  {
+   "units": "u201-u202",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Cover"
+  },
+  {
+   "units": "u205",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Grade 6 Course Focus and Content narrative"
+  },
+  {
+   "units": "u206-u208",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Integrating standards, figure, related laws"
+  },
+  {
+   "units": "u213-u214",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Skills and application; disciplinary literacy"
+  },
+  {
+   "units": "u219-u220",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "C3 Framework explanation"
+  },
+  {
+   "units": "u221-u230",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "C3 Dimensions 1, 3, 4 inquiry skills (Grade 6 section)"
+  },
+  {
+   "units": "u231-u242",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "Dimension 2 disciplinary concepts table"
+  },
+  {
+   "units": "u247-u255",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "K-12 Disciplinary Standards Overview (Grade 6 section)"
+  },
+  {
+   "units": "u260-u264",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "At a Glance table headings"
+  },
+  {
+   "units": "u265-u312",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "At a Glance: Civics C.1, Economics E.1, Geography G.1, History H.2 Grade 6 components and world eras"
+  },
+  {
+   "units": "u317-u321",
+   "grades": "6",
+   "course": null,
+   "cat": "backup",
+   "section": "KPE table column headings"
+  },
+  {
+   "units": "u322-u414",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Civics C.1.6.1-8; Economics E.1.6.1-9; Geography G.1.6.1-6"
+  },
+  {
+   "units": "u415-u416",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.1.6.6"
+  },
+  {
+   "units": "u417-u428",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.1 > G.1.6.7-9"
+  },
+  {
+   "units": "u429-u430",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.1.6.9"
+  },
+  {
+   "units": "u431-u440",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "Geography > G.1 > Global Interconnections > G.1.6.10"
+  },
+  {
+   "units": "u441-u442",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "Teacher Note G.1.6.10"
+  },
+  {
+   "units": "u447-u514",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "History > H.2 > World Eras 1-5 > H.2.6.1-15"
+  },
+  {
+   "units": "u515-u516",
+   "grades": "6",
+   "course": null,
+   "cat": "examples",
+   "section": "H.2.6.15 groups may include"
+  },
+  {
+   "units": "u517-u520",
+   "grades": "6",
+   "course": null,
+   "cat": "standards",
+   "section": "H.2.6.16-18"
+  }
+ ],
+ "issues": [
+  "The Grade 5 section has no K-12 lists in Grade 5 KPE other than u150, u163 etc.; 'This may include' sentences inside KPE units (e.g. u108, u119, u120) kept with the standard (units not split).",
+  "u449 and similar Era headings combine era title and theme; labeled standards.",
+  "K-12 overview and C3 skills labeled per section (5 or 6)."
+ ]
+}

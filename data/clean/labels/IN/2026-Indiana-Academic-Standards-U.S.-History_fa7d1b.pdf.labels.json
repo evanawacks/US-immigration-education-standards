@@ -1,0 +1,36 @@
+{
+ "state": "IN",
+ "file": "2026-Indiana-Academic-Standards-U.S.-History_fa7d1b.pdf",
+ "structure": "Single high-school course document (U.S. History). Pages 2-4: context/purpose, C3 and historical thinking skills, acknowledgments (backup). Page 5 onward: one table; row 1 = Learning Outcome for the course; then domain heading rows (Domains 1-7, chronological periods 1775 to present); each standard is a row with C1 = code (USH.d.n) and C2 = standard text; '(E)' marks essential standards. No examples or teacher notes.",
+ "labels": [
+  {
+   "units": "u2-u19",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Context and purpose, introduction, thinking skills, acknowledgments"
+  },
+  {
+   "units": "u22",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "Course title: U.S. History"
+  },
+  {
+   "units": "u23",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "backup",
+   "section": "How to read: essential standards note"
+  },
+  {
+   "units": "u24-u109",
+   "grades": "9-12",
+   "course": "U.S. History",
+   "cat": "standards",
+   "section": "Course learning outcome, domains and standards"
+  }
+ ],
+ "issues": []
+}

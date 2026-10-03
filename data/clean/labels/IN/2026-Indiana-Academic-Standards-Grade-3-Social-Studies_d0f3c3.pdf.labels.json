@@ -1,0 +1,12 @@
+{
+  "state": "IN",
+  "file": "2026-Indiana-Academic-Standards-Grade-3-Social-Studies_d0f3c3.pdf",
+  "structure": "Single-grade document (Grade 3). Pages 2-4: context/purpose, C3 and historical thinking skills, acknowledgments (backup). Page 5 onward: one table with four domains (History, Civics and Government, Geography, Economics); each domain has a heading row, a Learning Outcome row, then standard rows with C1 = code (3.H.n, 3.C.n, 3.G.n, 3.E.n) and C2 = standard text; '(E)' marks essential standards. No examples or teacher notes.",
+  "labels": [
+    {"units": "u2-u19", "grades": "3", "course": null, "cat": "backup", "section": "Context and purpose, introduction, thinking skills, acknowledgments"},
+    {"units": "u22", "grades": "3", "course": null, "cat": "standards", "section": "Grade 3 Social Studies title"},
+    {"units": "u23", "grades": "3", "course": null, "cat": "backup", "section": "How to read: essential standards note"},
+    {"units": "u24-u93", "grades": "3", "course": null, "cat": "standards", "section": "Domains 1-4 learning outcomes and standards 3.H.1-3.E.8"}
+  ],
+  "issues": []
+}

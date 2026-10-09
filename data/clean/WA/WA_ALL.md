@@ -289,6 +289,10 @@ Assistant Superintendent
 Jerry Price, NBCT
 Program Supervisor
 for Social Studies
+Basic education—Goals of school districts. (RCW 28A.150.210)
+The goals of each school district, with the involvement of parents and community members, shall be to provide opportunities for every student to develop the knowledge and skills essential to:
+Read with comprehension, write effectively, and communicate successfully in a variety of ways and settings and with a variety of audiences;
+Know and apply the core concepts and principles of mathematics; social, physical, and life sciences; civics and history, including different cultures and participation in representative government; geography; arts; and health and fitness; Goals 3 and 4 are:
 
 ## Issues
 
@@ -316,3 +320,4 @@ OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx: Elementa
 OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx: Row cluster note: 6-8 cell treats grade 6 (World), 7 (WA), 8 (US) content together; no per-grade split possible.
 OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx: u1084-u1086 (Lead with Learning Standards box) and everything from u1084 on labeled backup/all.
 OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx: Guide's 'known structure' said use the PDF; per reviewer UPDATE the Word master is used, and the PDF was not labeled.
+OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx: Validation (step 2): text-box content (RCW 28A.150.210 goals) was skipped by the first extraction; recovered as u1267-u1270 and labeled backup.

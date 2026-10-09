@@ -1,0 +1,156 @@
+state,file,pages,ref_words,recall,precision,flagged_pages
+AK,Adopted-AK-SS-Standards-2024_09c1fb.pdf,129,34494,1.0,0.999,2
+AL,AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0_f8e7f0.pdf,163,51082,1.0,1.0,3
+AR,AR_African_American_History_Standards_2022_LS.pdf,13,4371,1.0,1.0,1
+AR,AR_Civics_Standards_2022_LS.pdf,14,3804,1.0,1.0,1
+AR,AR_Economics_with_Personal_Finance_Standards_2022_LS.pdf,16,4735,1.0,1.0,1
+AR,AR_Grade_7_Social_Studies_Standards_2022_LS.pdf,21,5712,1.0,1.0,1
+AR,AR_Grade_8_Social_Studies_Standards_2022_LS.pdf,12,4199,1.0,1.0,1
+AR,AR_Grades_5-6_Social_Studies_Standards_2022_LS.pdf,35,9073,1.0,1.0,3
+AR,AR_Grades_7-8_Arkansas_History_Standards_2022_LS.pdf,17,4769,1.0,1.0,2
+AR,AR_Grades_9-12_Arkansas_History_Standards_2022_LS.pdf,14,4670,1.0,1.0,1
+AR,AR_Grades_K-4_Social_Studies_Standards_2022_LS.pdf,27,8770,1.0,0.998,2
+AR,AR_Psychology_Standards_2022_LS.pdf,9,2960,1.0,1.0,1
+AR,AR_Sociology_Standards_2022_LS.pdf,9,3002,1.0,1.0,1
+AR,AR_US_Government_Standards_2022_LS.pdf,13,3979,1.0,1.0,1
+AR,AR_US_History_since_1929_Standards_2022_LS.pdf,12,4624,1.0,1.0,1
+AR,AR_World_Geography_Standards_2022_LS.pdf,10,3561,1.0,1.0,1
+AR,AR_World_History_since_1450_Standards_2022_LS.pdf,12,3989,1.0,1.0,1
+AZ,AZ 2018 History and Social Science Standards _Update8.23.19.pdf,53,21054,1.0,1.0,3
+CA,CA_hssframeworkwhole_k-12.pdf,855,276805,0.997,0.995,24
+CO,ColoradoAcademicStandards-SocialStudiesStandardsP-12adopted2022_1.pdf,145,48866,1.0,0.999,138
+CT,socialstudiesstandards_470fc5.pdf,76,27104,0.998,0.996,2
+DC,DC Standards in English.pdf,95,39552,0.998,0.998,1
+DE,DE-K-12-Civics-Standards-2018.docx,,1019,1.0,1.0,
+DE,DE-K-12-Economics-Standards-2018.docx,,847,1.0,1.0,
+DE,DE-K-12-Geography-Standards-2018.docx,,1006,1.0,1.0,
+DE,DE-K-12-History-Standards-2018.docx,,1185,1.0,1.0,
+FL,florida_k-12_social_studies.pdf,234,66599,0.999,0.999,3
+GA,Social Studies - Georgia Department of Education-CASE-items.csv,,62641,1.0,1.0,
+HI,FilipinoHistoryCultureCourseStandards_96ad1e.pdf,9,1657,1.0,1.0,0
+HI,Financial-Literacy-Standards_1b3278.pdf,7,2416,1.0,0.891,4
+HI,HCPSIII_AsianStudies_b80bc4.pdf,5,1630,0.996,0.993,0
+HI,HCPSIII_Economics_ede75f.pdf,6,2255,1.0,1.0,0
+HI,HCPSIII_EuropeanStudies_88656b.pdf,5,1675,0.999,0.999,0
+HI,HCPSIII_Geography_1b2aa3.pdf,5,1527,1.0,1.0,0
+HI,HCPSIII_GlobalStudies_605e6f.pdf,5,1471,1.0,1.0,0
+HI,HCSSSHawaiianKingdom_da6669.pdf,6,1264,1.0,1.0,0
+HI,HCSSSModernHistoryHawaii_614df7.pdf,6,1371,0.999,0.999,0
+HI,HCSSSPacificIslandStudies_d85df1.pdf,5,1152,1.0,1.0,0
+HI,HCSSSUSHistoryGovernment_92def7.pdf,15,2980,0.999,0.998,0
+HI,HCSSSWorldHistoryCulture_aebfd5.pdf,10,2355,0.999,0.988,0
+HI,HCSSSgr1_c61d03.pdf,5,1213,1.0,1.0,0
+HI,HCSSSgr2_cc4e98.pdf,5,1256,1.0,1.0,0
+HI,HCSSSgr3_83ae9b.pdf,6,1399,0.999,0.991,0
+HI,HCSSSgr4_962d88.pdf,10,1880,0.999,0.999,0
+HI,HCSSSgr5_85084d.pdf,9,1807,1.0,1.0,0
+HI,HCSSSgr6WorldHist_457412.pdf,10,2222,1.0,0.999,0
+HI,HCSSSgr8USHist_d361b9.pdf,10,1812,1.0,0.997,0
+HI,HCSSSgrK_26da93.pdf,4,932,1.0,1.0,0
+HI,HI HCPSIII_AmericanProblems.pdf,5,1719,0.996,0.992,0
+HI,HI HCPSIII_CulturalAnthropology.pdf,5,1666,0.994,0.988,0
+HI,HI HCPSIII_Humanities.pdf,5,1605,1.0,1.0,0
+HI,HI HCPSIII_PoliticalScience_Government.pdf,6,1923,1.0,1.0,1
+HI,HI HCPSIII_Psychology.pdf,4,1263,1.0,1.0,0
+HI,HI HCPSIII_Sociology.pdf,5,1676,1.0,1.0,0
+HI,HI HCSSSDemocracy.pdf,7,1365,1.0,1.0,0
+IA,download_e5f143.pdf,219,58643,0.999,0.998,3
+ID,K-12-Social-Studies-Standards_4ca81c.pdf,73,15180,1.0,0.981,8
+IL,IL-Social-Science-Standards_4db7c3.pdf,23,10982,0.998,0.986,8
+IN,2026-Indiana-Academic-Standards-Economics_933337.pdf,7,1638,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-Grade-3-Social-Studies_d0f3c3.pdf,7,1638,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-Grade-6-Social-Studies_94e5c1.pdf,7,1611,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-Grade-7-Social-Studies-3_ecfa83.pdf,7,1684,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-Grade-8-Social-Studies_a_8da304.pdf,8,2244,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-Sociology_505c23.pdf,9,2382,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-U.S.-Government_5c0f46.pdf,8,1875,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-U.S.-History_fa7d1b.pdf,7,1771,1.0,1.0,2
+IN,2026-Indiana-Academic-Standards-World-History-and-Civilization_ac0a88.pdf,8,1933,1.0,1.0,2
+IN,Indiana-Academic-Standards-Grade-2-Social-Studies_b2b7c7.pdf,6,1481,1.0,1.0,1
+IN,Indiana-Academic-Standards-Grade-4-Social-Studies_7dbc21.pdf,7,2159,1.0,0.961,1
+IN,Indiana-Academic-Standards-Grade-5-Social-Studies_8ab064.pdf,8,2299,1.0,1.0,1
+IN,Indiana-Academic-Standards-Grade-6-Middle-School-Civics_d4140f.pdf,5,1221,1.0,1.0,1
+IN,indiana-academic-standards-geography-and-history-of-the-world_c024f5.pdf,8,2653,1.0,1.0,1
+IN,indiana-academic-standards-grade-1-social-studies_432eee.pdf,5,1340,1.0,1.0,1
+IN,indiana-academic-standards-kindergarten-social-studies_dbb6af.pdf,5,1228,1.0,1.0,1
+KS,KS hgss-standards-benchmarks-and-appendices.pdf,95,31801,0.986,0.993,7
+KY,Kentucky_Academic_Standards_for_Social_Studies_52f5c5.pdf,284,88242,0.999,0.996,6
+LA,k-12-louisiana-student-standards-for-social-studies_b9db19.pdf,65,22700,1.0,1.0,3
+MA,2018-12_3e7081.pdf,217,86615,0.999,0.998,3
+ME,MLR_-_Social_Studies_2019_revised_standards_-_10.2025_fcf62a.docx,,7840,0.994,0.993,
+ME,Social_Studies_-_MLR_Social_Studies_Geography_2019_-_10.9.2025_83d3f3.pdf,8,2554,1.0,1.0,0
+ME,Social_Studies_-_MLR_Social_Studies_History_2019_-_10.9.2025_7f7403.pdf,10,3338,1.0,1.0,0
+MI,Final_Social_Studies_Standards_Document_655968_7_1bc63b.pdf,147,53876,0.993,0.986,0
+MN,MN k12 social science and studies 2021.pdf,110,27140,0.998,0.995,1
+MO,MO curr-mls-standards-ss-6-12-sboe-2016.docx,,9979,1.0,0.559,
+MO,MO curr-mls-standards-ss-k-5-sboe-2016.docx,,4444,0.998,0.56,
+MS,MS k12 social studies.pdf,481,94714,0.999,0.996,44
+MT,2021_SS_for_Web_4e6bb2.xlsx,,5825,1.0,0.994,
+NC,NC 1st SS Standards - A.pdf,5,1224,1.0,1.0,0
+NC,NC 2nd SS Standards - A.pdf,4,1086,1.0,0.999,0
+NC,NC 3rd SS Standards - A.pdf,5,1163,1.0,0.979,0
+NC,NC 4th SS Standards - A.pdf,5,1354,1.0,0.971,0
+NC,NC 5th SS Standards - A.pdf,6,1424,1.0,0.988,0
+NC,NC 6th SS Standards - A.pdf,5,1289,1.0,0.923,2
+NC,NC 7th SS Standards - A.pdf,5,1297,1.0,0.964,1
+NC,NC 8th SS Standards - A.pdf,6,1557,1.0,0.997,0
+NC,NC American History SS Standards - A.pdf,8,1900,1.0,0.998,0
+NC,NC Economics and Personal Finance SS Standards - A.pdf,6,1264,1.0,0.996,0
+NC,NC Founding Principles SS Standards - A.pdf,8,1991,0.997,0.977,1
+NC,NC K SS Standards - A.pdf,4,1115,1.0,1.0,0
+NC,NC World History SS Standards - A.pdf,7,1739,1.0,1.0,0
+ND,Rev7_2023.11.30_Social_Studies_Content_Standards_2e5e84.pdf,70,20840,0.998,0.998,1
+NE,Nebraska-Social-Studies-Standards-Final-11-2019_bc9931.pdf,66,20498,0.997,0.991,2
+NH,frameworks_4820bf.pdf,106,31376,0.986,0.806,52
+NJ,2020NJSLS-SS_Grades3-5_561b5a.pdf,29,10189,0.999,0.995,1
+NJ,2020NJSLS-SS_Grades6-8_74ea7e.pdf,31,11639,0.998,0.997,1
+NJ,2020NJSLS-SS_Grades9-12_baf253.pdf,51,20106,1.0,0.998,1
+NJ,2020NJSLS-SS_GradesK-2_5fcaec.pdf,24,8468,0.998,0.99,1
+NM,NM-Standards-508.pdf,105,24795,1.0,1.0,2
+NV,NVAC_Sfor_Social_Studies_ea0a1df6ac_f3c271.pdf,48,13761,1.0,0.987,1
+NY,NY ss-framework-k-8a2.pdf,110,39077,1.0,1.0,11
+NY,ny ss framework-9-12-with-2017-updates.pdf,51,17938,1.0,0.999,2
+OH,Ohio-s-Learning-Standards-for-Social-Studies_01-2019 1st.pdf,47,14017,0.999,0.963,8
+OK,Final_2025_SS_OAS_fc721b.pdf,179,62485,0.999,0.998,1
+OR,Final2024SocialScienceStandardsACCESSIBLE_3b6075.pdf,89,22640,1.0,0.999,0
+PA,civicsandgovernment_125f29.pdf,21,5649,0.983,0.892,9
+PA,e_history_web03_3aa68b.pdf,18,6085,1.0,0.853,11
+PA,economics_standards_appendix_c-1__99ce1c.pdf,9,2563,1.0,0.995,0
+PA,geography_cd6697.pdf,24,7400,0.989,0.899,10
+PA,personal_finance_standards_d1e49c.pdf,14,3817,0.998,0.994,0
+RI,RhodeIsland_SocialStudiesStandards_FULL_4c95f6.pdf,367,85862,1.0,0.996,8
+SC,SC 2019-SCSSCCR Standards-Final with appendices.pdf,168,48191,0.999,0.997,3
+SD,SS-Standards-2023_4fe370.pdf,179,45198,0.999,0.999,12
+TN,TN_Academic_Social_Studies_Standards_25_0162ee.pdf,269,54629,1.0,0.999,1
+TX,TX 6-8 SS.pdf,20,9792,1.0,1.0,1
+TX,TX AP IB SS.pdf,7,3294,1.0,1.0,0
+TX,TX highschool SS.pdf,70,34901,1.0,0.999,0
+TX,TX k-5 SS.pdf,26,13027,1.0,1.0,0
+UT,UT FifthGrade SS.pdf,13,3889,0.979,0.968,0
+UT,UT FirstGrade SS.pdf,10,2923,0.987,0.975,0
+UT,UT FourthGrade SS.pdf,13,3944,0.987,0.974,0
+UT,UT Kindergarten SS.pdf,10,2826,0.986,0.973,0
+UT,UT SecondGrade SS.pdf,11,3203,0.986,0.972,0
+UT,UT SixthGrade SS.pdf,12,3429,0.98,0.967,0
+UT,UT ThirdGrade SS.pdf,11,3261,0.986,0.972,0
+UT,UT USGovernment SS highschool.pdf,6,2010,0.987,0.973,0
+UT,UT USHistory1 SS highschool.pdf,8,3075,0.986,0.972,0
+UT,UT USHistory2 SS highschool.pdf,10,3591,0.988,0.976,0
+UT,UT UtahStudies SS highschool.pdf,8,2895,0.986,0.973,0
+UT,UT WorldGeography SS highschool.pdf,6,1927,0.983,0.967,0
+UT,UT WorldHistory SS highschool.pdf,9,3382,0.986,0.971,0
+VA,VA 2023 HSS SOL FINAL 03.11.25.docx,,23579,0.993,0.986,
+VT,VT edu-grade-1-people-places-and-the-environment .pdf,24,5711,1.0,0.999,0
+VT,VT edu-grade-2-the-americas.pdf,25,7100,1.0,0.999,0
+VT,VT edu-grade-3-global-interactions.pdf,38,7220,0.999,0.999,0
+VT,VT edu-grade-4-vermont-the-early-republic-and-the-us-precolonial-times-to-the-civil-war.pdf,34,7606,0.999,0.998,0
+VT,VT edu-grade-5-world-geography-and-ancient-civilizations-I-western-asia-the-middle-east-north-africa-sub-saharan-africa.pdf,33,5934,0.999,0.997,0
+VT,VT edu-grade-6-world-geography-and-ancient-civilization-II-latin-america-south-and-east-asia-oceania-europe.pdf,27,5770,0.999,0.999,0
+VT,VT edu-grade-7-the-us-and-vermont-from-reconstruction-to-the-civil-rights-movement.pdf,25,6806,0.999,0.999,0
+VT,VT edu-grade-8-civics-and-economics-in-action.pdf,18,4454,1.0,0.999,0
+VT,VT edu-kindergarten-me-and-my-community.pdf,15,3663,1.0,1.0,0
+VT,c3-framework-for-social-studies-rev0617_3db023.pdf,114,54877,0.975,0.968,12
+WA,OSPI_SocStudies_Standards_MASTER_09-16-2019_DigitalVersion_6fc627.docx,,34119,0.993,1.0,
+WI,2018_WI_Social_Studies_Standards_6bd3f2.pdf,62,14352,0.997,0.83,39
+WV,WV Social Studies Stadards.docx,,24002,1.0,1.0,
+WY,Social-Studies-Standards-20142018-additions_FINAL_f5341c.pdf,52,20313,1.0,0.999,0

@@ -2,3 +2,4 @@ data/*.sqlite
 __pycache__/
 data/download.log
 data/text/
+data/validation/audit_html/

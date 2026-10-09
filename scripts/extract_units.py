@@ -107,6 +107,14 @@ def docx_units(path):
                     t = norm("\n".join(p.text for p in cell.paragraphs))
                     if t:
                         units.append({"page": None, "kind": "cell", "table": tn, "row": ri, "col": ci, "x": None, "text": t})
+    # text boxes are skipped by python-docx; append their paragraphs at the end (keeps earlier unit IDs stable)
+    have = {u["text"] for u in units}
+    for tb in d.element.body.iter("{http://schemas.openxmlformats.org/wordprocessingml/2006/main}txbxContent"):
+        for p in tb.iter("{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p"):
+            t = norm("".join(x.text or "" for x in p.iter("{http://schemas.openxmlformats.org/wordprocessingml/2006/main}t")))
+            if t and t not in have:
+                have.add(t)
+                units.append({"page": None, "kind": "text", "table": None, "row": None, "col": None, "x": None, "style": "textbox", "text": t})
     return units, None
 
 # ---------------- XLSX / CSV ----------------

@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>validation_guide</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="VALIDATION_GUIDE_files/libs/clipboard/clipboard.min.js"></script>
+<script src="VALIDATION_GUIDE_files/libs/quarto-html/quarto.js"></script>
+<script src="VALIDATION_GUIDE_files/libs/quarto-html/popper.min.js"></script>
+<script src="VALIDATION_GUIDE_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="VALIDATION_GUIDE_files/libs/quarto-html/anchor.min.js"></script>
+<link href="VALIDATION_GUIDE_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="VALIDATION_GUIDE_files/libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="VALIDATION_GUIDE_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="VALIDATION_GUIDE_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="VALIDATION_GUIDE_files/libs/bootstrap/bootstrap-973236bd072d72a04ee9cd82dcc9cb29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="validation-guide-is-the-dataset-accurate" class="level1">
+<h1>Validation guide — is the dataset accurate?</h1>
+<p>The clean dataset (<code>data/clean/standards.sqlite</code> / <code>.csv</code>) went through many steps, and each one is a place where an error could creep in. This guide works through them in three levels, matching the questions to ask:</p>
+<ol type="1">
+<li><strong>Data source</strong> — did we get the right document (official, current, complete, unaltered)?</li>
+<li><strong>Original document contents</strong> — did we read everything in that document correctly (no lost, garbled, or invented text)?</li>
+<li><strong>Standardized dataset vs.&nbsp;original</strong> — does each row contain exactly the right text, under the right state / grade / course / category?</li>
+</ol>
+<p>Each level has <strong>automated checks</strong> (scripts, run in minutes, already run once — results below) and <strong>human checks</strong> (a person comparing against the original). The automated checks narrow the human work down to a list of flagged items plus a random sample.</p>
+<hr>
+<section id="where-errors-could-have-entered" class="level2">
+<h2 class="anchored" data-anchor-id="where-errors-could-have-entered">Where errors could have entered</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Stage</th>
+<th>What could go wrong</th>
+<th>Caught by</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Link list (spreadsheet)</td>
+<td>Link points to a non-official copy, an old version, or a draft</td>
+<td>1-A, 1-B</td>
+</tr>
+<tr class="even">
+<td>Download / crawl</td>
+<td>Wrong file picked from a page, an HTML error page saved as PDF, partial download</td>
+<td>1-A (hash, file type), 1-B</td>
+</tr>
+<tr class="odd">
+<td>Manual uploads</td>
+<td>Wrong file, mislabeled state, same file uploaded under several names (Ohio), no source URL recorded</td>
+<td>1-A, 1-B</td>
+</tr>
+<tr class="even">
+<td>Version selection</td>
+<td>Superseded version used, or a newer version dropped content an older one had</td>
+<td>1-B, 3-D</td>
+</tr>
+<tr class="odd">
+<td>Text extraction</td>
+<td>Text inside images missed, table columns mixed up, words garbled/duplicated, scanned pages</td>
+<td>2-A, 2-B</td>
+</tr>
+<tr class="even">
+<td>Splitting into units</td>
+<td>One unit mixing two grades or two categories (units are never split later)</td>
+<td>2-B, 3-C, 3-D</td>
+</tr>
+<tr class="odd">
+<td>Labeling (Claude agents)</td>
+<td>Wrong grade, wrong course, wrong category (standards / examples / backup), text skipped</td>
+<td>3-B, 3-C, 3-D</td>
+</tr>
+<tr class="even">
+<td>Assembly</td>
+<td>Shared text copied into the wrong grades, duplicates removed that should stay, text dropped</td>
+<td>3-A, 3-B, 3-E</td>
+</tr>
+<tr class="odd">
+<td>Standardization</td>
+<td>Course mapped to the wrong standard name/category</td>
+<td>3-F</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="running-the-automated-checks" class="level2">
+<h2 class="anchored" data-anchor-id="running-the-automated-checks">Running the automated checks</h2>
+<pre><code>python3 scripts/validate_sources.py       # Level 1  -&gt; data/validation/sources.csv
+python3 scripts/validate_extraction.py    # Level 2  -&gt; data/validation/extraction_docs.csv, extraction_pages.csv  (~10 min)
+python3 scripts/validate_dataset.py       # Level 3  -&gt; data/validation/dataset_checks.csv, dataset_findings.csv, audit_sample.csv
+python3 scripts/audit_pages.py [ST ...]   # builds side-by-side review pages in data/validation/audit_html/ (local only)</code></pre>
+<p>Re-run all of them after any fix (relabel, new file, re-extraction). Results below are from the run on 2026-10-09.</p>
+<hr>
+</section>
+<section id="level-1-validate-the-data-source" class="level2">
+<h2 class="anchored" data-anchor-id="level-1-validate-the-data-source">Level 1 — Validate the data source</h2>
+<section id="a-automated-validate_sources.py" class="level3">
+<h3 class="anchored" data-anchor-id="a-automated-validate_sources.py">1-A Automated (<code>validate_sources.py</code>)</h3>
+<p>For every file the dataset uses: file still present, SHA-256 identical to the hash recorded at download (detects accidental edits/replacement), file content matches its type (a “PDF” that is really an HTML error page fails), where it came from (URL and domain), and whether the dataset covers every grade K-12 for the state.</p>
+<p><strong>Current result:</strong> 156 files checked. All present, hashes unchanged, all genuine PDF/Word/Excel/CSV.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Finding</th>
+<th>States</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>No source file</td>
+<td>MD</td>
+<td>Obtain Maryland’s standards</td>
+</tr>
+<tr class="even">
+<td>Grades missing from the dataset</td>
+<td>UT (7, 8)</td>
+<td>Known: no Utah 7-8 files will be added</td>
+</tr>
+<tr class="odd">
+<td>Manual uploads with no source URL recorded (84 files)</td>
+<td>24 states, e.g.&nbsp;AR, CA, GA, HI, NC, OH, TX, UT, VT</td>
+<td>Record the URL each file came from (1-B step 5)</td>
+</tr>
+<tr class="even">
+<td>Not hosted by the state education agency</td>
+<td>NH (file hosted by the NH Historical Society), NV (Azure file host), VT (national C3 Framework from NCSS)</td>
+<td>Confirm against the state’s own site (1-B)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="b-human-checklist-one-line-per-file-in-datavalidationsources.csv" class="level3">
+<h3 class="anchored" data-anchor-id="b-human-checklist-one-line-per-file-in-datavalidationsources.csv">1-B Human checklist (one line per file in <code>data/validation/sources.csv</code>)</h3>
+<p>For each state, open the state education agency’s social studies standards page (the <code>spreadsheet_page</code> column) and fill in the <code>REVIEW_</code> columns:</p>
+<ol type="1">
+<li><strong>Official publisher</strong> — the document is published by the state education agency or board (not a district, vendor, or third-party mirror). <em>Watch:</em> NH, NV, VT.</li>
+<li><strong>Current version</strong> — it is the version in force today. Compare the adoption/revision date printed on the document with the agency page; look for newer revisions or drafts. <em>Known to check:</em> NE (revision expected fall 2026), TN (new standards effective 2027-28), ND (2026 draft), ID (2026 revision), WI (review started 2025), MD (revisions requested 2025), GA (spreadsheet says 2026; the CASE export appears to be the 2021 GSE).</li>
+<li><strong>Complete</strong> — every document the state lists for social studies K-12 is in the corpus: each grade, each high-school course, Pre-K if applicable. Compare the agency page’s list with the <code>file</code> column. <em>Known gaps:</em> UT 7-8. <em>Known oddities:</em> OH (all 14 uploads were the same complete document), MS (one PDF with three editions), IN (2023 + 2026 files mixed by design).</li>
+<li><strong>Same file</strong> — the file on disk is the one currently posted: download it again and compare (page count, date on cover; ideally <code>sha256sum</code> — the first 16 characters are in the <code>sha256</code> column). A changed hash means the state has replaced the document.</li>
+<li><strong>Source recorded</strong> — for manual uploads, write the URL the file was downloaded from into <code>REVIEW_notes</code> (and, if you like, into <code>data/raw/&lt;ST&gt;/sources.txt</code> as <code>&lt;filename&gt; &lt;url&gt;</code> so <code>register_manual.py</code> records it).</li>
+</ol>
+<p><strong>Pass:</strong> every row has yes / yes / yes, or a written explanation.</p>
+<hr>
+</section>
+</section>
+<section id="level-2-validate-the-original-document-contents" class="level2">
+<h2 class="anchored" data-anchor-id="level-2-validate-the-original-document-contents">Level 2 — Validate the original document contents</h2>
+<section id="a-automated-validate_extraction.py" class="level3">
+<h3 class="anchored" data-anchor-id="a-automated-validate_extraction.py">2-A Automated (<code>validate_extraction.py</code>)</h3>
+<p>Each document is read a second time by an <strong>independent</strong> program (Poppler’s <code>pdftotext</code> for PDFs — a different engine from the PyMuPDF used to build the dataset; the raw Word XML for .docx; the csv module for .csv) and compared page by page:</p>
+<ul>
+<li><strong>recall</strong> — share of the second program’s words that are also in our extraction (low → text lost)</li>
+<li><strong>precision</strong> — share of our words the second program also found (low → garbled or duplicated text)</li>
+<li>pages with almost no text (possible scans or graphics) and pages mostly covered by images (text inside images is invisible to both programs)</li>
+</ul>
+<p><strong>Current result:</strong> 155 documents, 6,874 PDF pages, overall recall <strong>99.7%</strong>; no document below 97% recall.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Flag</th>
+<th style="text-align: right;">Count</th>
+<th>Notes from the first review</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pages with possibly lost text (recall &lt; 90%)</td>
+<td style="text-align: right;">22</td>
+<td>Mostly false alarms: decorative covers (WI p1), spaced-out lettering (KS, SD), URL lists in backmatter (CA p854). MS p348 is in the superseded edition (backup). Each should still be glanced at.</td>
+</tr>
+<tr class="even">
+<td>Pages with almost no text</td>
+<td style="text-align: right;">112</td>
+<td>Blank/divider pages or graphics — check that none is a scanned page of standards.</td>
+</tr>
+<tr class="odd">
+<td>Pages ≥ 15% covered by images</td>
+<td style="text-align: right;">248</td>
+<td>Text that exists only inside an image is not in the dataset. <strong>Known:</strong> AL practice names in the skills tables.</td>
+</tr>
+<tr class="even">
+<td>Low precision (duplication/garbling)</td>
+<td style="text-align: right;">MO .docx (56%), NH (81%), WI (83%), PA (85-90%), HI financial literacy (89%)</td>
+<td>MO repeats merged table cells; NH/WI/PA have duplicate loose fragments of table text (labeled backup). Level 3-A confirms none of this duplication reached the dataset rows twice.</td>
+</tr>
+<tr class="odd">
+<td>Fixed during this validation</td>
+<td style="text-align: right;">WA</td>
+<td>A text box (state law, RCW 28A.150.210) was skipped; it is now recovered and in backup.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="b-human-checks" class="level3">
+<h3 class="anchored" data-anchor-id="b-human-checks">2-B Human checks</h3>
+<ol type="1">
+<li><strong>Every flagged page</strong> in <code>data/validation/extraction_pages.csv</code> (<code>flag</code> not empty): open the PDF at that page and compare with the extracted text (<code>data/clean/units/&lt;ST&gt;/&lt;file&gt;.view.txt</code>, search <code>=== page N ===</code>). Record whether anything that matters (standards, examples) is missing or wrong.</li>
+<li><strong>Image-heavy pages:</strong> look for text that is only inside images (logos and decorations don’t matter; standards, codes, practice names, tables do). Note them; OCR can recover them if needed.</li>
+<li><strong>Random pages:</strong> for each document, check 2 random pages the same way (a page is “correct” if every sentence on the page appears, in readable order, in the view file).</li>
+<li><strong>Tables with grade columns</strong> (AR, AK, ME, ND, NH, PA, WY, WI, IL, MO, NE, IA): on 3 table pages, check that each cell’s column tag (<code>[T1 R3 C4]</code>) matches the grade column it sits under on the page.</li>
+</ol>
+<p><strong>Pass:</strong> no unexplained missing standards text; every image-only text is listed as a known issue.</p>
+<hr>
+</section>
+</section>
+<section id="level-3-validate-the-standardized-dataset-against-the-original" class="level2">
+<h2 class="anchored" data-anchor-id="level-3-validate-the-standardized-dataset-against-the-original">Level 3 — Validate the standardized dataset against the original</h2>
+<section id="a-traceability-nothing-invented-or-altered-automated" class="level3">
+<h3 class="anchored" data-anchor-id="a-traceability-nothing-invented-or-altered-automated">3-A Traceability: nothing invented or altered (automated)</h3>
+<p>Every line stored in <code>body_standards</code>, <code>body_examples</code>, and <code>backup</code> must be identical (apart from whitespace and case) to a piece of extracted text from that state’s source files. Text is never retyped, so any mismatch means corruption. <strong>Current result: 0 untraceable lines.</strong></p>
+</section>
+<section id="b-completeness-nothing-dropped-automated" class="level3">
+<h3 class="anchored" data-anchor-id="b-completeness-nothing-dropped-automated">3-B Completeness: nothing dropped (automated)</h3>
+<p>Every piece of extracted text from every used file must appear in at least one row. <strong>Current result: 0 missing units.</strong></p>
+</section>
+<section id="c-grade-placement-standard-codes-automated" class="level3">
+<h3 class="anchored" data-anchor-id="c-grade-placement-standard-codes-automated">3-C Grade placement: standard codes (automated)</h3>
+<p>Most states print a grade inside each standard’s code (AR <code>H.3.4.2</code>, KY <code>4.H.CH.1</code>, GA <code>SS4H1</code>, NJ <code>6.1.5…</code> …). For 30 states the script checks that each coded standard sits in a grade row that includes that grade. <strong>Current result: 7,933 coded standards checked; 0 misplaced.</strong> 9 mismatches are typos in the source documents themselves (AR grade 7 prints its geography codes as <code>G.1.5.x</code>; AK grade 4 has two <code>SS.3.4.*</code> codes) and are noted in those rows’ <code>issues</code>. States without grade-coded standards (TX, OH, OK, MN, PA, FL, WI, WY, VA, CA …) depend on 3-D and 3-E.</p>
+</section>
+<section id="d-human-audit-sample" class="level3">
+<h3 class="anchored" data-anchor-id="d-human-audit-sample">3-D Human audit sample</h3>
+<p><code>data/validation/audit_sample.csv</code> holds a fixed random sample (seed 7) of <strong>952 units: about 19 per state</strong> (60% standards, 20% examples, 20% backup). For each unit it shows the text, the file and page, and the grade, course, and category it was given.</p>
+<p>How to review: 1. Run <code>python3 scripts/audit_pages.py &lt;ST&gt;</code> and open <code>data/validation/audit_html/&lt;ST&gt;.html</code>: each item shows the original page image with the text highlighted in yellow, next to what the dataset says about it. 2. Fill the <code>REVIEW_</code> columns: text matches the original (y/n), grade correct (y/n), course correct (y/n), category correct (y/n), and the correct value if wrong. Judge category by the rules in <code>data/clean/LABELING_GUIDE.md</code> (standards = what students must learn; examples = clarifications, examples, teacher notes, narrative; backup = everything else). 3. Compute error rates per state and overall (count of “n” / items reviewed).</p>
+<p><strong>Pass (suggested):</strong> overall grade error ≤ 2% and category error ≤ 5%; no single state above 10% on either. With ~950 items, an observed 2% error rate has a 95% margin of about ±1 point overall; per state (~19 items) the sample only catches large problems, so a state with 2+ errors gets a second, larger sample (<code>python3 scripts/validate_dataset.py --per-state 60 --seed 8 --out audit_sample_round2.csv</code>) before deciding to relabel it.</p>
+</section>
+<section id="e-row-level-read-through-human" class="level3">
+<h3 class="anchored" data-anchor-id="e-row-level-read-through-human">3-E Row-level read-through (human)</h3>
+<p>Pick <strong>one grade row and one course row per state</strong> (start with the grades/courses you care most about for the immigration analysis — e.g.&nbsp;the US history grades). Open <code>data/clean/&lt;ST&gt;/&lt;id&gt;.md</code> beside the original document’s section for that grade/course and check: - every standard in the original section is in <code>body_standards</code> (count them — standard numbers help); - nothing from another grade/course is in the row (shared skills/practices copied on purpose are fine — see <code>data/clean/NAMING.md</code>); - examples/clarifications landed in <code>body_examples</code>, not in <code>body_standards</code>; - the order is readable (table text can be fragmented; that’s an extraction limitation, not an error, as long as nothing is missing).</p>
+</section>
+<section id="f-structure-and-naming-checks-human-quick" class="level3">
+<h3 class="anchored" data-anchor-id="f-structure-and-naming-checks-human-quick">3-F Structure and naming checks (human, quick)</h3>
+<ul>
+<li><code>data/clean/README.md</code> per-state table: does each state have the rows you expect (grades, bands, courses)? Compare with the original document’s table of contents.</li>
+<li><code>data/clean/NAMING.md</code> course vocabulary: does each course title map to a sensible standardized course and category?</li>
+<li>Reviewer decisions that changed the default handling (listed in <code>data/clean/README.md</code> and each row’s <code>issues</code>): WA/DE/NJ/ND/NH/WI/WY band rows; PA single grades with band text copied; MS older editions to backup; OK/MT duplicated appendices to backup; AZ/NE/ND high school as one 9-12 row; CA framework narrative as examples; RI “Learning Assessment Objectives” as standards; VT and NE judgment calls. Confirm you agree with each.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="recording-results-and-fixing-problems" class="level2">
+<h2 class="anchored" data-anchor-id="recording-results-and-fixing-problems">Recording results and fixing problems</h2>
+<ul>
+<li>Write findings in the <code>REVIEW_</code> columns of <code>sources.csv</code> and <code>audit_sample.csv</code>, and add a dated line per state to a <code>VALIDATION_LOG.md</code> (what was checked, by whom, result).</li>
+<li><strong>Wrong grade/course/category:</strong> edit that unit’s entry in <code>data/clean/labels/&lt;ST&gt;/&lt;file&gt;.labels.json</code> (the unit ID is in the audit sheet), then run <code>scripts/check_labels.py &lt;ST&gt;</code>, <code>scripts/assemble_clean.py &lt;ST&gt;</code>, and the three validation scripts.</li>
+<li><strong>Missing or garbled text:</strong> fix the extraction (or add an OCR’d/text version of the file), re-run <code>scripts/extract_units.py &lt;ST&gt;</code>; if unit IDs shift, that state’s labels must be redone.</li>
+<li><strong>Wrong/old source document:</strong> replace the file in <code>data/raw/&lt;ST&gt;/</code> (via <code>inbox/</code>), update <code>data/clean/state_config.json</code>, extract, label, assemble, validate.</li>
+</ul>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,5 +1,10 @@
-state,file,found_via,source_url,domain_check,spreadsheet_page,spreadsheet_adopted,downloaded_at,sha256,check_status,missing_grades_in_dataset,REVIEW_official_publisher_yes_no,REVIEW_current_version_yes_no,REVIEW_complete_document_yes_no,REVIEW_reviewer,REVIEW_date,REVIEW_notes
-AK,Adopted-AK-SS-Standards-2024_09c1fb.pdf,direct,https://education.alaska.gov/akstandards/Adopted-AK-SS-Standards-2024.pdf,government/education domain,https://education.alaska.gov/akstandards/Adopted-AK-SS-Standards-2024.pdf,2024,2026-10-02T18:33:12+00:00,86793e976411e605,OK,,,,,,,
+156 source files checked -> data/validation/sources.csv
+automatic failures: 1
+   MD (none) FAIL: no source file
+manual uploads with no URL recorded: 84 files in 24 states
+non-government domains: [('NH', 'CHECK: hosted by NH Historical Society, not the NH DOE'), ('NV', "CHECK: Azure file host (appears to be NV DOE's CMS storage)"), ('VT', 'NCSS (national, not state)')]
+states whose dataset lacks some K-12 grades: [('MD', 'all'), ('UT', '7,8')]
+n.alaska.gov/akstandards/Adopted-AK-SS-Standards-2024.pdf,2024,2026-10-02T18:33:12+00:00,86793e976411e605,OK,,,,,,,
 AL,AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0_f8e7f0.pdf,direct,https://alabamaachieves.org/wp-content/uploads/2025/01/AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0.pdf,government/education agency (AL State Dept. of Education),https://alabamaachieves.org/wp-content/uploads/2025/01/AS_20250110_2024-Alabama-Course-of-Study-Social-Studies_V1.0.pdf,2024,2026-10-02T18:32:38+00:00,6b10872017de1911,OK,,,,,,,
 AR,AR_African_American_History_Standards_2022_LS.pdf,manual,,manual upload (no URL recorded),https://dese.ade.arkansas.gov/Offices/learning-services/curriculum-support/social-studies-standards-and-courses,2022,2026-10-02T23:16:33+00:00,a31d9b8a7ab59ac2,OK,,,,,,,
 AR,AR_Civics_Standards_2022_LS.pdf,manual,,manual upload (no URL recorded),https://dese.ade.arkansas.gov/Offices/learning-services/curriculum-support/social-studies-standards-and-courses,2022,2026-10-02T23:16:33+00:00,0bd05369801bed1b,OK,,,,,,,

@@ -5,7 +5,7 @@ One row per **state × grade (or grade cluster) × course**, built from the in-s
 - Database: `standards.sqlite` (table `standards`) and the same data as `standards.csv`
 - One readable file per row: `<ST>/<id>.md`
 - Columns, ID convention, grade rule and course vocabulary: [`NAMING.md`](NAMING.md)
-- How to check accuracy: [`VALIDATION_GUIDE.md`](../../VALIDATION_GUIDE.md) (scripts write to `data/validation/`)
+- How to check accuracy: [`VALIDATION_GUIDE.md`](../../docs/VALIDATION_GUIDE.md) (scripts write to `data/validation/`)
 - 785 rows for 50 states + DC (Maryland has a placeholder row, `MD_NONE`: no source file yet)
 - Totals: about 1.24M words of standards text, 0.89M words of examples/clarifications, 0.66M words of backup text (shared text is copied into every row it applies to, so these totals count copies)
 

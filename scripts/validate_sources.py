@@ -16,7 +16,7 @@ MAGIC = {"pdf": b"%PDF", "docx": b"PK", "xlsx": b"PK", "csv": None, "json": None
 
 cfg = json.loads((ROOT / "data/clean/state_config.json").read_text())
 man = {(r["abbr"], Path(r["local_path"]).name): r for r in csv.DictReader(open(ROOT / "data/manifest.csv"))}
-src = {r["Abbr."]: r for r in csv.DictReader(open(glob.glob(str(ROOT / "US_State*.csv"))[0]))}
+src = {r["Abbr."]: r for r in csv.DictReader(open(glob.glob(str(ROOT / "sources" / "US_State*.csv"))[0]))}
 con = sqlite3.connect(ROOT / "data/clean/standards.sqlite")
 
 KNOWN_OFFICIAL = {"alabamaachieves.org": "AL State Dept. of Education", "hawaiipublicschools.org": "HI Dept. of Education",

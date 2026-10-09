@@ -1,3 +1,10 @@
+# Phase 1 — download
 requests
 beautifulsoup4
 lxml
+# Phase 2 — extraction and database
+pymupdf
+python-docx
+openpyxl
+# optional: OCR for scanned PDFs (used once for West Virginia)
+rapidocr-onnxruntime

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build MASTER_REPORT.md from data/text_stats.csv + scripts/report_notes.py.
+"""Build docs/MASTER_REPORT.md from data/text_stats.csv + scripts/report_notes.py.
 
 Word-count rules (see EXCLUDE below): exact-duplicate text, alternate formats / re-sorts of the same
 standards, superseded versions and non-standards documents are listed but not counted."""
@@ -163,5 +163,5 @@ md += ["", "### Corpus gaps still open", "",
        "- **Duplicates / alternate formats / superseded versions kept on disk:** see appendix.", "",
        "## Appendix: files on disk that are not counted in word totals", "",
        "| State | File | Words | Reason |", "|---|---|---:|---|"] + excl_lines
-(ROOT / "MASTER_REPORT.md").write_text("\n".join(md) + "\n")
+(ROOT / "docs" / "MASTER_REPORT.md").write_text("\n".join(md) + "\n")
 print("wrote MASTER_REPORT.md;", counted_total, "counted words;", "fully individual:", individual_all, ";", len(k8_ind), "states K-8 individual")

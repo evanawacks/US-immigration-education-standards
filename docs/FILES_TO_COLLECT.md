@@ -1,6 +1,6 @@
 # Files to collect manually
 
-Drop new files in `inbox/` (see `inbox/README.md`; start the filename with the state code, e.g. `TX_Subchapter_A.pdf`) and tell me. "Link originally used" is the page listed in the source spreadsheet; where the crawler pulled a specific file, that URL is in the last column.
+Drop new files in the repository's `inbox/` folder (see `inbox/README.md`; start the filename with the state code, e.g. `TX_Subchapter_A.pdf`) and tell me. "Link originally used" is the page listed in the source spreadsheet; where the crawler pulled a specific file, that URL is in the last column.
 
 ## Required
 

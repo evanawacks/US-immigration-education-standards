@@ -4958,6 +4958,13 @@
    "course": null,
    "cat": "backup",
    "section": "FAQ, bibliography, acknowledgments, contact"
+  },
+  {
+   "units": "u1267-u1270",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": "Text box: Basic education—Goals of school districts (RCW 28A.150.210), recovered by validation"
   }
  ],
  "issues": [
@@ -4970,6 +4977,7 @@
   "u101-u109, u573-u583, u831-u839 band overview narratives labeled examples (K-5, 6-8, 9-12); u583 ('These standards can be addressed over multiple grade levels (6-8)') kept with them. u111-u113, u585-u587, u841-u843 table headers (color, icon, standard) labeled backup; u110/u584/u840 headings backup.",
   "Row cluster note: 6-8 cell treats grade 6 (World), 7 (WA), 8 (US) content together; no per-grade split possible.",
   "u1084-u1086 (Lead with Learning Standards box) and everything from u1084 on labeled backup/all.",
-  "Guide's 'known structure' said use the PDF; per reviewer UPDATE the Word master is used, and the PDF was not labeled."
+  "Guide's 'known structure' said use the PDF; per reviewer UPDATE the Word master is used, and the PDF was not labeled.",
+  "Validation (step 2): text-box content (RCW 28A.150.210 goals) was skipped by the first extraction; recovered as u1267-u1270 and labeled backup."
  ]
 }

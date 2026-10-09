@@ -2,4 +2,4 @@ data/*.sqlite
 __pycache__/
 data/download.log
 data/text/
-.Rproj.user
+data/validation/audit_html/

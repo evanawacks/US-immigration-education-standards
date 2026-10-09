@@ -1,0 +1,13 @@
+"0","ggplot(data = standards)+"
+"0","  stat_summary(aes(x=state, y = length(body_standards), geom='bar'))"
+"2","Warning in stat_summary(aes(x = state, y = length(body_standards), geom = ""bar"")) :"
+"2","
+ "
+"2"," [38;5;252mIgnoring unknown aesthetics: [32mgeom[38;5;252m[39m
+"
+"1","[38;5;252mNo summary function supplied, defaulting to `mean_se()`[39m
+"
+"2","Warning:"
+"2"," [38;5;252mRemoved 1 row containing missing values or values outside the scale range
+(`geom_segment()`).[39m
+"

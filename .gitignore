@@ -3,7 +3,7 @@ __pycache__/
 data/download.log
 data/text/
 data/validation/audit_html/
-# R / RStudio per-user files (note: files already committed under .Rproj.user/ stay tracked until removed from git on purpose)
+# R / RStudio per-user files
 .Rproj.user/
 .Rhistory
 .RData

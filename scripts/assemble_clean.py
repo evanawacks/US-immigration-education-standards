@@ -130,7 +130,7 @@ def assemble_state(st, cfg, names):
                 t = " ".join(l["course"].split())
                 key = next(k for k in course_rows if k[0].lower() == t.lower() and k[1] == G)
                 targets.append(course_row(key))
-            elif cat == "backup" and (str(l["grades"]) == "all" or G >= doc_grades):
+            elif cat == "backup" and not l.get("keep_in_rows") and (str(l["grades"]) == "all" or G >= doc_grades):
                 targets.append(course_row(next(iter(course_rows))) if single_course else allrow)
             else:
                 for k, S in course_rows.items():

@@ -7613,11 +7613,19 @@
    "section": "SS.Geog5 > performance indicators 6-8"
   },
   {
-   "units": "u1781-u1790",
+   "units": "u1781-u1789",
    "grades": "K-12",
    "course": null,
    "cat": "standards",
    "section": "History > Historical eras and themes"
+  },
+  {
+   "units": "u1790",
+   "grades": "K-12",
+   "course": null,
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] History > Historical eras and themes",
+   "keep_in_rows": true
   },
   {
    "units": "u1791",
@@ -7630,22 +7638,25 @@
    "units": "u1792",
    "grades": "K-12",
    "course": null,
-   "cat": "standards",
-   "section": "History > Historical eras and themes"
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] History > Historical eras and themes",
+   "keep_in_rows": true
   },
   {
    "units": "u1795-u1817",
    "grades": "K-12",
    "course": null,
-   "cat": "standards",
-   "section": "History > Wisconsin history eras"
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] History > Wisconsin history eras",
+   "keep_in_rows": true
   },
   {
    "units": "u1818-u1836",
    "grades": "K-12",
    "course": null,
-   "cat": "standards",
-   "section": "History > U.S. history eras"
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] History > U.S. history eras",
+   "keep_in_rows": true
   },
   {
    "units": "u1837",
@@ -7658,8 +7669,9 @@
    "units": "u1840-u1853",
    "grades": "K-12",
    "course": null,
-   "cat": "standards",
-   "section": "History > World history eras"
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] History > World history eras",
+   "keep_in_rows": true
   },
   {
    "units": "u1854",
@@ -7672,8 +7684,9 @@
    "units": "u1857",
    "grades": "K-12",
    "course": null,
-   "cat": "standards",
-   "section": "Content Area: History (Hist)"
+   "cat": "backup",
+   "section": "[moved to backup at Evan's request] Content Area: History (Hist)",
+   "keep_in_rows": true
   },
   {
    "units": "u1858",
@@ -12076,6 +12089,7 @@
   "u2278: stray ',' cell in PS2.a (T1 R2 C9) mapped to 6-8 by column.",
   "SS.BH1.a.2/.4, BH2.a.K-1 etc: codes use suggested grade suffix; indicator grade stays at the band (K-2, 3-5) rather than the single suggested grade because the document says districts may assign any grade in the band.",
   "u1-u3 cover page: only repeated publisher name; labeled backup.",
-  "u201-u202: Vision statement table cell split across cells; labeled backup."
+  "u201-u202: Vision statement table cell split across cells; labeled backup.",
+  "Evan's request (2026-10-09): units u1790-u1857 ('7. Wisconsin and Federal Observance days, weeks, and months' through the Historical Eras tables to 'Content Area: History (Hist)') moved from standards/examples to backup in all grade-band rows."
  ]
 }

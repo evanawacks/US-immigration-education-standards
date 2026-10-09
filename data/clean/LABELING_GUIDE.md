@@ -44,6 +44,7 @@ Rules for `labels`:
    - `examples` — content-related support that is not the standard itself: examples/e.g. lists set apart from the standard, clarifications, "teacher notes", "disciplinary clarifications", "instructional support", suggested/possible topics, guiding or compelling questions, content narrative describing what students study (framework chapters), key vocabulary/concepts, suggested primary sources, content-specific progressions.
    - `backup` — everything else: cover, table of contents, acknowledgments, committee lists, letters, legal/statutory text, introductions, philosophy, how-to-read/coding explanations, general pedagogy and instructional strategies not tied to specific content, literacy-in-history standards (CCSS RH/WHST), assessment/implementation information, resource/reference lists, glossaries, appendices that are not standards, document-wide headers.
    - When one unit mixes a standard with its e.g. list, label it `standards` (units are not split).
+   - Optional `"keep_in_rows": true` on a backup label keeps that text in the grade/course rows' backup instead of the state `_ALL` row.
 5. **section** — a short human-readable location (strand > standard > topic). It is metadata only; it is never inserted into the text.
 6. **issues** — anything uncertain or broken: garbled/merged extraction, columns that could not be told apart, text in the wrong order, missing pages, content that might belong to a different grade, pages that are images, etc. Always include unit IDs.
 

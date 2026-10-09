@@ -267,3 +267,4 @@ not used: voluntary-national-content-standards-2010_4ed1ed.pdf (skip: older nati
 2018_WI_Social_Studies_Standards_6bd3f2.pdf: SS.BH1.a.2/.4, BH2.a.K-1 etc: codes use suggested grade suffix; indicator grade stays at the band (K-2, 3-5) rather than the single suggested grade because the document says districts may assign any grade in the band.
 2018_WI_Social_Studies_Standards_6bd3f2.pdf: u1-u3 cover page: only repeated publisher name; labeled backup.
 2018_WI_Social_Studies_Standards_6bd3f2.pdf: u201-u202: Vision statement table cell split across cells; labeled backup.
+2018_WI_Social_Studies_Standards_6bd3f2.pdf: Evan's request (2026-10-09): units u1790-u1857 ('7. Wisconsin and Federal Observance days, weeks, and months' through the Historical Eras tables to 'Content Area: History (Hist)') moved from standards/examples to backup in all grade-band rows.

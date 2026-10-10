@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Phase 1: download state standards documents.
 
-Reads the source CSV (+ manual_overrides.csv), downloads direct files, crawls
+Reads sources/US_State*.csv (+ sources/manual_overrides.csv), downloads direct files, crawls
 landing pages for document links, and writes data/manifest.csv and
 data/needs_manual.csv. Raw files go to data/raw/<ABBR>/ (git-ignored).
 
@@ -109,10 +109,10 @@ def main():
     a = ap.parse_args()
     only = {x.strip().upper() for x in a.only.split(",") if x.strip()}
 
-    src = ROOT / glob.glob(str(ROOT / "US_State*.csv"))[0].split("/")[-1]
+    src = Path(glob.glob(str(ROOT / "sources" / "US_State*.csv"))[0])
     rows = list(csv.DictReader(open(src, encoding="utf-8")))
     overrides = {}
-    for r in csv.DictReader(open(ROOT / "manual_overrides.csv")):
+    for r in csv.DictReader(open(ROOT / "sources" / "manual_overrides.csv")):
         if r.get("url"): overrides.setdefault(r["Abbr."], []).append(r["url"])
 
     DATA.mkdir(exist_ok=True)

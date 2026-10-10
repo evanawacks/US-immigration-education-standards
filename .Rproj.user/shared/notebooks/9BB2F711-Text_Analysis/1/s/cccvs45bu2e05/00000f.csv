@@ -1,7 +1,0 @@
-"0","# Some HI high-school rows contain NUL bytes (PDF extraction artifacts)."
-"0","# R ends a string at the first NUL, so read the raw bytes and swap NULs for spaces first."
-"0","path <- ""data/clean/standards.csv"""
-"0","raw <- readBin(path, ""raw"", file.size(path))"
-"0","raw[raw == as.raw(0)] <- as.raw(0x20)"
-"0","standards <- read_csv(I(rawToChar(raw)), show_col_types = FALSE)"
-"0",""

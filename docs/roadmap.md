@@ -7,7 +7,7 @@
 | Topic | Decision |
 |---|---|
 | Scope | 50 states + DC; social studies / civics / history standards, multi-grade documents |
-| Source list | `US_State_Social_Studies_Standards.xlsx - State Standards.csv` (51 rows; 20 direct PDF links, 31 landing web pages) |
+| Source list | `sources/US_State_Social_Studies_Standards.xlsx - State Standards.csv` (51 rows; 20 direct PDF links, 31 landing web pages) |
 | Downloading | Semi-automated: script fetches direct files and crawls landing pages for PDF/DOCX/XLSX links; stragglers are fixed by hand via an override CSV |
 | Storage | `data/` is git-ignored (raw files + database). A manifest with URLs, hashes and dates is committed so downloads are reproducible |
 | Database | SQLite (single local file, FTS5 full-text search). Expected size: well under a few GB |
@@ -29,7 +29,7 @@
 1. Read the source CSV; normalize into a `sources` table.
 2. Direct links (PDF): download with retries, polite delay, browser-like User-Agent; verify the file is a real PDF (magic bytes, not an HTML error page).
 3. Landing pages: fetch the HTML, extract candidate links to `.pdf/.docx/.doc/.xlsx`, score them (social studies keywords, grade tokens), download the matches.
-4. Pages that fail (JS-rendered, bot-blocked, "under construction"): log them to `data/needs_manual.csv`; supply URLs in `manual_overrides.csv`, which the script merges in on the next run.
+4. Pages that fail (JS-rendered, bot-blocked, "under construction"): log them to `data/needs_manual.csv`; supply URLs in `sources/manual_overrides.csv`, which the script merges in on the next run.
 5. Record per file: state, source URL, local path, content type, size, SHA-256, download timestamp, HTTP status, how it was found (direct / crawled / manual).
 6. Respect the notes in the CSV (e.g. MD under construction, ND/NE/TN/WI revisions pending; prefer the current in-force standards and flag drafts).
 7. Verification: every state has ≥1 file, manifest has no duplicate hashes by accident, spot-check page counts.

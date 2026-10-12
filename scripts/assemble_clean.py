@@ -50,6 +50,31 @@ def load_cfg():
     if p.exists(): names = json.loads(p.read_text())
     return cfg, names
 
+def case_csv_text(text):
+    """GA CASE export rows: keep "code statement", drop item type / sequence / grade code / timestamp."""
+    parts = text.split(" | ")
+    if len(parts) >= 4 and re.fullmatch(r"\d{4}-\d\d-\d\dT[\d:.+-]+", parts[-1]):
+        parts = parts[:-1]
+        if re.fullmatch(r"(KG|\d\d)(-(\d\d))?", parts[-1]): parts = parts[:-1]
+        if re.fullmatch(r"[\d.]+", parts[1]): parts = parts[2:]
+        else: parts = parts[1:]
+        return " ".join(parts)
+    return text
+
+def doc_grade_context(labels):
+    """(grades the document covers, clamp): 'all' labels mean doc_grades; in a single-grade document
+    (e.g. a "Grade 1" file) band-labeled shared items apply to that grade only (clamp)."""
+    doc_grades = frozenset().union(*[gset(l["grades"]) for l in labels if str(l["grades"]) != "all"]) if labels else frozenset()
+    singles = {next(iter(gset(l["grades"]))) for l in labels if str(l["grades"]) != "all" and not l.get("course")
+               and l["cat"] != "backup" and len(gset(l["grades"])) == 1}
+    clamp = frozenset(singles) if len(singles) == 1 and not any(l.get("course") for l in labels) else None
+    if clamp: doc_grades = clamp
+    return doc_grades, clamp
+
+def label_grades(l, doc_grades, clamp):
+    G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
+    return clamp if clamp and G & clamp else G
+
 def assemble_state(st, cfg, names):
     c = cfg[st]
     clusters = [gset(x) for x in c.get("clusters", [])]
@@ -69,25 +94,13 @@ def assemble_state(st, cfg, names):
         lf = CLEAN / "labels" / st / f"{fname}.labels.json"
         if not uf.exists(): state_issues.append(f"missing units file for {fname}"); continue
         units = {int(json.loads(l)["id"][1:]): json.loads(l) for l in open(uf)}
-        if fname.lower().endswith(".csv"):   # CASE export rows: keep "code statement", drop item type / sequence / grade code / timestamp
-            for u in units.values():
-                parts = u["text"].split(" | ")
-                if len(parts) >= 4 and re.fullmatch(r"\d{4}-\d\d-\d\dT[\d:.+-]+", parts[-1]):
-                    parts = parts[:-1]
-                    if re.fullmatch(r"(KG|\d\d)(-(\d\d))?", parts[-1]): parts = parts[:-1]
-                    if re.fullmatch(r"[\d.]+", parts[1]): parts = parts[2:]
-                    else: parts = parts[1:]
-                    u["text"] = " ".join(parts)
+        if fname.lower().endswith(".csv"):
+            for u in units.values(): u["text"] = case_csv_text(u["text"])
         if not lf.exists(): state_issues.append(f"missing labels for {fname}"); continue
         d = json.loads(lf.read_text())
         doc_issues = [f"{fname}: {x}" for x in d.get("issues", [])]
         labels = d.get("labels", [])
-        doc_grades = frozenset().union(*[gset(l["grades"]) for l in labels if str(l["grades"]) != "all"]) if labels else frozenset()
-        # single-grade document (e.g. a "Grade 1" file): band-labeled shared items apply to that grade only
-        singles = {next(iter(gset(l["grades"]))) for l in labels if str(l["grades"]) != "all" and not l.get("course")
-                   and l["cat"] != "backup" and len(gset(l["grades"])) == 1}
-        clamp = frozenset(singles) if len(singles) == 1 and not any(l.get("course") for l in labels) else None
-        if clamp: doc_grades = clamp
+        doc_grades, clamp = doc_grade_context(labels)
         # course rows of this document
         course_rows = {}   # (title, grades) -> grades
         for l in labels:
@@ -123,8 +136,7 @@ def assemble_state(st, cfg, names):
             if l is None:
                 allrow["backup"].append((fname, uid, u["text"])); state_issues.append(f"{fname}: u{uid} unlabeled -> backup"); continue
             cat = l["cat"]
-            G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
-            if clamp and G & clamp: G = clamp
+            G = label_grades(l, doc_grades, clamp)
             targets = []
             if l.get("course"):
                 t = " ".join(l["course"].split())

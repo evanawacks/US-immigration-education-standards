@@ -188,17 +188,20 @@ def assemble_state(st, cfg, names):
         else:
             gl = glist(r["grades"]); rid = f"{st}_{gtoken(r['grades'])}"
             if r["course"]: rid += "_" + slug(r["course"][0])
-        def join(items):
+        prov = {}   # column -> (file, unit, text, kept) items in order: where each line of the row came from
+        def join(items, col):
             seen, out = set(), []
-            for _, _, t in items:
+            prov[col] = []
+            for f, u, t in items:
                 k = " ".join(t.split()).lower()
-                if len(k) > 25 and k in seen: continue   # drop exact repeats (sidebars, repeated headers)
-                seen.add(k); out.append(t)
+                if len(k) > 25 and k in seen:   # drop exact repeats (sidebars, repeated headers)
+                    prov[col].append((f, u, t, False)); continue
+                seen.add(k); out.append(t); prov[col].append((f, u, t, True))
             return "\n".join(out)
         out.append({"id": rid, "state": st, "grade": gl, "course": r["course"][0] if r["course"] else "", "course_category": r["course"][1] if r["course"] else "",
                     "course_title": r["course_title"] or "",
-                    "body_standards": join(r["standards"]), "body_examples": join(r["examples"]), "backup": join(r["backup"]),
-                    "source_files": "; ".join(r["files"]), "issues": "\n".join(dict.fromkeys(r["issues"]))})
+                    "body_standards": join(r["standards"], "body_standards"), "body_examples": join(r["examples"], "body_examples"), "backup": join(r["backup"], "backup"),
+                    "source_files": "; ".join(r["files"]), "issues": "\n".join(dict.fromkeys(r["issues"])), "_prov": prov})
     # disambiguate duplicate ids (same course slug in two docs)
     seen = collections.Counter()
     for o in out:

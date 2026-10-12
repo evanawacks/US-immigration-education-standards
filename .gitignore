@@ -9,5 +9,8 @@ data/validation/audit_html/
 .RData
 .Ruserdata
 
+# website build cache (unit positions; rebuilt by scripts/build_site.py)
+site/data/cache/
+
 # topic analysis: cached similarity matrix (rebuilt by scripts/topic_tags.py)
 data/analysis/similarity_cache.npy

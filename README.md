@@ -26,6 +26,7 @@
 | [data/clean/LABELING_GUIDE.md](data/clean/LABELING_GUIDE.md) | Rules used to label every piece of text with grade, course, and category (standards / examples / backup). | Makes the labeling consistent and repeatable, and is the reference when correcting a label. |
 | [data/analysis/README.md](data/analysis/README.md) | How every sentence of the standards and examples text was tagged with immigration topics by a local language model, and the output files (`topic_tags.csv`, word counts, state summary). | The Phase 3 topic counts; each tag traces to its sentence, document, and unit. |
 | [data/reference/immigration_topics.md](data/reference/immigration_topics.md) | 106 immigration topics and events by era, with descriptions and search terms (also as `.csv`). | The dictionary for the Phase 3 topic analysis. |
+| [site/README.md](site/README.md) | The website (this `site` branch): browse the database and compare each document side by side (original pages, clean text, database text). How to rebuild and publish it on GitHub Pages. | Lets anyone check where every line of the database came from. |
 | [inbox/README.md](inbox/README.md) | How to drop manually downloaded files for processing. | The hand-off point for files that cannot be downloaded automatically. |
 
 Supporting material, not listed individually: per-state notes on each document's structure (`data/clean/guides/`), the instructions given to the labeling agents (`data/clean/prompts/`), and one readable file per database row (`data/clean/<ST>/`).
@@ -69,6 +70,7 @@ requirements.txt          Python packages
 | Clean database | `extract_units.py` → labels (agents, checked by `check_labels.py`; large documents split with `split_ranges.py` and joined with `merge_label_parts.py`) → `assemble_clean.py` (uses `course_vocab.py`) → `qa_clean.py`; `state_status.py` shows progress |
 | Validate | `validate_sources.py`, `validate_extraction.py`, `validate_dataset.py`, `audit_pages.py` |
 | Analyze | `topic_tags.py` (tags sentences with immigration topics; writes `data/analysis/`) |
+| Website | `build_site.py` (writes `site/data/`; see [site/README.md](site/README.md)) |
 
 ## Quick start
 

@@ -433,7 +433,7 @@ async function chartsPage() {
     const bands = present.filter(gIsBand).sort((a, b) => gSortKey(a) - gSortKey(b)).filter((g) => data.some((d) => point(d, g)));
     data.forEach((d) => (d.bpts = bands.map((g) => point(d, g))));
     const meas = opt.lineMeasure === "count" ? (opt.lineAgg === "avg" ? "tags per state (average)" : "tags (total)") : (opt.lineAgg === "avg" ? "per 10,000 words (state average)" : "per 10,000 words (pooled)");
-    const yMax = niceMax(Math.max(1e-9, ...data.flatMap((d) => [...d.pts, ...d.bpts].filter(Boolean).map((p) => p.v))));
+    const yMax = 1.1 * Math.max(1e-9, ...data.flatMap((d) => d.pts.filter(Boolean).map((p) => p.v)));   // axis ends 10% above the highest point
     const tipRows = (title, key, i) => [[title, meas], ...data.map((d) => { const q = d[key][i]; return [q ? fmt1(q.v) : "—", q ? `${d.label || d.name} · ${fmt(q.tags)} tags, ${q.states} state${q.states > 1 ? "s" : ""}` : `${d.label || d.name} · no text`, d.color]; })];
 
     // line chart
@@ -441,8 +441,7 @@ async function chartsPage() {
     const xs = (i) => L + (singles.length > 1 ? (i * (W - R - L)) / (singles.length - 1) : (W - R - L) / 2);
     const ys = (v) => T + (H - T - Bm) * (1 - v / yMax);
     const g = [];
-    for (let k = 0; k <= 4; k++) {
-      const v = (yMax * k) / 4;
+    for (const [k, v] of niceTicks(yMax).entries()) {
       g.push(svg("line", { x1: L, x2: W - R, y1: ys(v), y2: ys(v), class: k ? "grid" : "axis" }), svg("text", { x: L - 8, y: ys(v) + 4, class: "tick", "text-anchor": "end" }, fmt1(v)));
     }
     singles.forEach((gr, i) => g.push(svg("text", { x: xs(i), y: H - Bm + 18, class: "tick", "text-anchor": "middle" }, gLabel(gr))));
@@ -475,10 +474,10 @@ async function chartsPage() {
     // band dot chart: one row per band, as the states wrote them
     const rowH = 26, BW = 1000, BL = 120, BR = 40, BT = 8;
     const BH = BT + bands.length * rowH + 30;
-    const bMax = niceMax(Math.max(1e-9, ...data.flatMap((d) => d.bpts.filter(Boolean).map((p) => p.v))));   // its own scale
+    const bMax = 1.1 * Math.max(1e-9, ...data.flatMap((d) => d.bpts.filter(Boolean).map((p) => p.v)));   // its own scale, 10% above the highest point
     const bxs = (v) => BL + (BW - BL - BR) * (v / bMax);
     const bg = [];
-    for (let k = 0; k <= 4; k++) { const v = (bMax * k) / 4; bg.push(svg("line", { x1: bxs(v), x2: bxs(v), y1: BT, y2: BH - 26, class: k ? "grid" : "axis" }), svg("text", { x: bxs(v), y: BH - 10, class: "tick", "text-anchor": "middle" }, fmt1(v))); }
+    for (const [k, v] of niceTicks(bMax).entries()) { bg.push(svg("line", { x1: bxs(v), x2: bxs(v), y1: BT, y2: BH - 26, class: k ? "grid" : "axis" }), svg("text", { x: bxs(v), y: BH - 10, class: "tick", "text-anchor": "middle" }, fmt1(v))); }
     const brows = bands.map((gr, i) => {
       const y = BT + i * rowH + rowH / 2;
       const grp = svg("g", { class: "brow" }, svg("rect", { x: 0, y: y - rowH / 2, width: BW, height: rowH, class: "hit" }),
@@ -521,9 +520,13 @@ async function chartsPage() {
   draw();
 }
 
-function niceMax(v) {
-  const p = Math.pow(10, Math.floor(Math.log10(v))), m = v / p;
-  return (m <= 1 ? 1 : m <= 2 ? 2 : m <= 2.5 ? 2.5 : m <= 5 ? 5 : 10) * p;
+/** Round tick values (0, step, 2*step, ...) that stay within an axis ending at max. */
+function niceTicks(max) {
+  const raw = max / 4, p = Math.pow(10, Math.floor(Math.log10(raw))), m = raw / p;
+  const step = (m <= 1 ? 1 : m <= 2 ? 2 : m <= 2.5 ? 2.5 : m <= 5 ? 5 : 10) * p;
+  const out = [];
+  for (let v = 0; v <= max + 1e-9; v += step) out.push(v);
+  return out;
 }
 function geoPath(geom) {
   const polys = geom.type === "Polygon" ? [geom.coordinates] : geom.type === "MultiPolygon" ? geom.coordinates : [];

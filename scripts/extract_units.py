@@ -20,11 +20,15 @@ def norm(s):
     return re.sub(r"[ \t\r\f\v]+", " ", re.sub(r"\s*\n\s*", " ", s)).strip()
 
 # ---------------- PDF ----------------
-def pdf_units(path):
+def pdf_units(path, with_bbox=False):
+    """with_bbox=True also returns each unit's position on its page as 'bbox' = [x0, y0, x1, y1]
+    in fractions of the page size (used by the website viewer; not stored in the unit files)."""
     import pymupdf
     doc = pymupdf.open(str(path))
     units = []
     for pno, page in enumerate(doc, start=1):
+        W, H = page.rect.width or 1, page.rect.height or 1
+        frac = lambda r: [round(r[0] / W, 4), round(r[1] / H, 4), round(r[2] / W, 4), round(r[3] / H, 4)]
         try:
             tabs = page.find_tables().tables
         except Exception:
@@ -41,7 +45,12 @@ def pdf_units(path):
             for ri, row in enumerate(rows, start=1):
                 for ci, cell in enumerate(row, start=1):
                     if cell and norm(cell):
-                        items.append((t.bbox[1], k, {"page": pno, "kind": "cell", "table": ti, "row": ri, "col": ci, "x": None, "text": norm(cell)}))
+                        u = {"page": pno, "kind": "cell", "table": ti, "row": ri, "col": ci, "x": None, "text": norm(cell)}
+                        if with_bbox:
+                            try: cb = t.rows[ri - 1].cells[ci - 1]
+                            except Exception: cb = None
+                            u["bbox"] = frac(cb or t.bbox)
+                        items.append((t.bbox[1], k, u))
                         k += 1
         # text outside tables -> lines grouped into paragraph units
         d = page.get_text("dict")
@@ -54,7 +63,10 @@ def pdf_units(path):
                 if cur:
                     txt = norm(" ".join(c[2] for c in cur))
                     if txt:
-                        items.append((cur[0][1], 10000 + len(items), {"page": pno, "kind": "text", "table": None, "row": None, "col": None, "x": round(cur[0][0]), "y1": cur[-1][3], "y0": cur[0][1], "text": txt}))
+                        u = {"page": pno, "kind": "text", "table": None, "row": None, "col": None, "x": round(cur[0][0]), "y1": cur[-1][3], "y0": cur[0][1], "text": txt}
+                        if with_bbox:
+                            u["bbox"] = frac((min(c[0] for c in cur), cur[0][1], max(c[4] for c in cur), max(c[3] for c in cur)))
+                        items.append((cur[0][1], 10000 + len(items), u))
                 cur = []
             for ln in b["lines"]:
                 txt = "".join(sp["text"] for sp in ln["spans"])
@@ -67,7 +79,7 @@ def pdf_units(path):
                 if cur and (abs(x0 - cur_x) > 60 or y0 - cur_y1 > 1.2 * h or y0 < cur[-1][1] - 2):
                     flush()
                 if not cur: cur_x = x0
-                cur.append((x0, y0, txt, y1)); cur_y1 = y1
+                cur.append((x0, y0, txt, y1, x1)); cur_y1 = y1
             flush()
         # stable order: by vertical position of block start, keeping stream order inside
         items.sort(key=lambda it: (round(it[0] / 4), it[1]))

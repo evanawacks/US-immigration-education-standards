@@ -8,3 +8,6 @@ data/validation/audit_html/
 .Rhistory
 .RData
 .Ruserdata
+
+# topic analysis: cached similarity matrix (rebuilt by scripts/topic_tags.py)
+data/analysis/similarity_cache.npy

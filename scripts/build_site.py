@@ -165,7 +165,8 @@ ANALYSIS = ROOT / "data" / "analysis"
 METHODS = {"meaning": 0, "name": 1, "both": 2}
 
 def load_topic_tags(index):
-    """Write site/data/topics/ and return {(state, file): [tag rows for the viewer]}."""
+    """Write site/data/topics/ (the analysis: standards text only) and return {(state, file): [tag rows for the
+    viewer, all categories]}."""
     tf = ANALYSIS / "topic_tags.csv"
     if not tf.exists():
         print("no data/analysis/topic_tags.csv: run scripts/topic_tags.py on main first; Topics and Charts tabs will be empty"); return {}
@@ -178,13 +179,15 @@ def load_topic_tags(index):
     states = sorted(index["states"])
     sidx = {s: i for i, s in enumerate(states)}
     fileno = {(s, f["name"]): f["n"] for s, v in index["states"].items() for f in v["files"]}
-    words = list(csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")))
-    tags = list(csv.DictReader(open(tf, encoding="utf-8")))
+    acats = set(meta.get("analysis_categories", ["standards"]))
+    words = [r for r in csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")) if r["category"] in acats]
+    all_tags = list(csv.DictReader(open(tf, encoding="utf-8")))
+    tags = [r for r in all_tags if r["category"] in acats]
     grades = sorted({r["grades"] for r in words} | {r["grades"] for r in tags})
     gidx = {g: i for i, g in enumerate(grades)}
     courses = sorted({r["course"] for r in tags if r["course"]})
     cidx = {c: i for i, c in enumerate(courses)}
-    cat = {"standards": 0, "examples": 1}
+    cat = {"standards": 0, "examples": 1, "backup": 2}
     cols = {k: [] for k in ("st", "d", "u", "s", "c", "g", "t", "sc", "ts", "m", "co")}
     text, per_doc = [], {}
     for r in tags:
@@ -193,7 +196,9 @@ def load_topic_tags(index):
                     sc=round(float(r["score"]) * 1000), ts=round(float(r["top_score"]) * 1000), m=METHODS[r["method"]], co=cidx.get(r["course"], -1))
         for k, v in vals.items(): cols[k].append(v)
         text.append(r["sentence"])
-        per_doc.setdefault((r["state"], r["file"]), []).append([vals["u"], vals["s"], vals["t"], vals["sc"], vals["ts"], vals["m"], r["sentence"]])
+    for r in all_tags:
+        per_doc.setdefault((r["state"], r["file"]), []).append([int(r["unit"]), int(r["sentence_no"]), int(r["topic_no"]), round(float(r["score"]) * 1000),
+                                                               round(float(r["top_score"]) * 1000), METHODS[r["method"]], cat[r["category"]], r["sentence"]])
     wcols = {"st": [sidx[r["state"]] for r in words], "c": [cat[r["category"]] for r in words], "g": [gidx[r["grades"]] for r in words],
              "w": [int(r["words"]) for r in words], "ns": [int(r["sentences"]) for r in words]}
     T = OUT / "topics"
@@ -201,7 +206,7 @@ def load_topic_tags(index):
     dump(T / "tags.json", cols)
     dump(T / "text.json", text)
     dump(T / "words.json", wcols)
-    print(f"topics: {len(tags):,} tags, {len(topics)} topics, {len(grades)} grade groups")
+    print(f"topics: {len(tags):,} tags in the analysis ({'/'.join(sorted(acats))}), {len(all_tags):,} in the viewer, {len(grades)} grade groups")
     return per_doc
 
 def main():

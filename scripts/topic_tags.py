@@ -10,7 +10,9 @@ Rules (agreed with the project lead):
     so two topics named in the same sentence are both tagged.
   - Every tag keeps its similarity score, so a minimum score can be applied later (on the website or
     in R) to cut false positives. Tags are stored down to a low floor (SCORE_FLOOR) or when named.
-  - Only standards and examples text of used documents is counted (no backup, no running headers).
+  - All labeled text of used documents is tagged (standards, examples and backup; never running
+    headers), so every tag can be seen in the document viewer. The analysis (summaries, the website's
+    Topics and Charts pages) uses the STANDARDS text only (ANALYSIS_CATS).
     Each sentence is counted once per state: an identical sentence with the same grades and category
     in two places of the same state's documents is kept once (its first occurrence).
   - Grades are the grades the document assigns to the text (a 4-6 band stays "04-06"; it is not
@@ -21,9 +23,9 @@ Outputs (data/analysis/):
   topic_tags.csv        one row per tag: sentence, where it is (state, file, unit), grades, course,
                         category, topic, similarity score, and how it was found (meaning / name / both)
   text_words.csv        words and sentences counted per state x category x grade group (denominators)
-  state_summary.csv     per state and category: words, tags and tags per 10,000 words at DEFAULT_MIN_SCORE
+  state_summary.csv     per state (standards text): words, tags and tags per 10,000 words at DEFAULT_MIN_SCORE
   topic_tags_meta.json  model, settings and run date
-Usage: python scripts/topic_tags.py [--reuse]   (needs: pip install fastembed; --reuse skips re-embedding
+Usage: python scripts/topic_tags.py [--reuse] [--count]   (needs: pip install fastembed; --reuse skips re-embedding
        when only the tagging rules or settings changed)
 """
 import csv, json, re, sys, collections, datetime
@@ -38,7 +40,8 @@ OUT = ROOT / "data" / "analysis"
 MODEL = "BAAI/bge-base-en-v1.5"
 SCORE_FLOOR = 0.60          # top-1 matches below this are not stored (named matches always are)
 DEFAULT_MIN_SCORE = 0.70    # default cut-off for summaries; the website lets you change it
-CATS = ("standards", "examples")
+PARTS = [("standards", "examples"), ("backup",)]   # tagged in two runs, each with its own similarity cache
+ANALYSIS_CATS = ("standards",)                      # what the summaries and website analysis count
 
 # ---------- sentences ----------
 ABBR = r"\b(?:e\.g|i\.e|etc|v|U\.S|U\.S\.A|U\.K|U\.N|D\.C|St|Mr|Mrs|Ms|Dr|Jr|Sr|vs|No|Gov|Pres|Gen|Rev|ca|c|approx|Ch|Vol|pp|p|Fig|Inc|Co|Corp|Ltd|Mt|Ft|B\.C|A\.D|B\.C\.E|C\.E)\."
@@ -74,7 +77,7 @@ def term_patterns(topics):
     return pats
 
 # ---------- corpus ----------
-def corpus():
+def corpus(cats):
     cfg = json.loads((CLEAN / "state_config.json").read_text())
     seen, items, words = set(), [], collections.Counter()
     sents_n = collections.Counter()
@@ -91,7 +94,7 @@ def corpus():
                 for x in parse_units(l["units"]): which.setdefault(x, l)
             for n in sorted(units):
                 u = units[n]; l = which.get(n)
-                if u.get("furniture") or not l or l["cat"] not in CATS: continue
+                if u.get("furniture") or not l or l["cat"] not in cats: continue
                 text = case_csv_text(u["text"]) if fname.lower().endswith(".csv") else u["text"]
                 g = gtoken(label_grades(l, doc_grades, clamp))
                 course = " ".join(l["course"].split()) if l.get("course") else ""
@@ -107,11 +110,11 @@ def corpus():
 
 def main():
     topics = load_topics()
-    items, words, sents_n = corpus()
-    print(f"{len(items):,} unique sentences, {sum(words.values()):,} words", flush=True)
-    if "--count" in sys.argv: return
-    cache = OUT / "similarity_cache.npy"
-    reuse = "--reuse" in sys.argv and cache.exists()
+    reuse = "--reuse" in sys.argv
+    if "--count" in sys.argv:
+        for cats in PARTS:
+            items, words, _ = corpus(cats); print(cats, f"{len(items):,} unique sentences, {sum(words.values()):,} words")
+        return
     from fastembed import TextEmbedding
     model = TextEmbedding(MODEL)
     def embed(texts, bs=64):
@@ -120,20 +123,26 @@ def main():
     tvec = embed([f"{t['topic']}: {t['description']} Related terms: {', '.join(t['terms'])}." for t in topics])
     tvec /= np.linalg.norm(tvec, axis=1, keepdims=True)
     pats = term_patterns(topics)
-    # embed in order of length (less padding per batch, much faster), keep results in corpus order
-    order = sorted(range(len(items)), key=lambda i: len(items[i]["sentence"]))
-    sim_all = np.load(cache) if reuse else np.zeros((len(items), len(topics)), dtype=np.float32)
-    if sim_all.shape != (len(items), len(topics)): sys.exit("similarity cache does not match the corpus; run without --reuse")
-    B = 4096
-    for b0 in (range(0, len(order), B) if not reuse else []):
-        idx = order[b0:b0 + B]
-        sv = embed([items[i]["sentence"] for i in idx])
-        sv /= np.linalg.norm(sv, axis=1, keepdims=True)
-        sim_all[idx] = sv @ tvec.T
-        print(f"  embedded {min(b0 + B, len(order)):,}/{len(order):,} sentences", flush=True)
-    np.save(cache, sim_all)   # not committed; `--reuse` re-runs the tagging rules without re-embedding
-    rows = []
-    if True:
+    rows, words, sents_n, n_items = [], collections.Counter(), collections.Counter(), 0
+    for cats in PARTS:
+        items, w, sn = corpus(cats)
+        words.update(w); sents_n.update(sn); n_items += len(items)
+        print(f"{'/'.join(cats)}: {len(items):,} unique sentences, {sum(w.values()):,} words", flush=True)
+        cache = OUT / f"similarity_cache_{'_'.join(cats)}.npy"   # not committed; --reuse skips re-embedding
+        sim_all = np.load(cache) if reuse and cache.exists() else None
+        if sim_all is not None and sim_all.shape != (len(items), len(topics)): sim_all = None
+        if sim_all is None:
+            # embed in order of length (less padding per batch, much faster), keep results in corpus order
+            order = sorted(range(len(items)), key=lambda i: len(items[i]["sentence"]))
+            sim_all = np.zeros((len(items), len(topics)), dtype=np.float32)
+            B = 4096
+            for b0 in range(0, len(order), B):
+                idx = order[b0:b0 + B]
+                sv = embed([items[i]["sentence"] for i in idx])
+                sv /= np.linalg.norm(sv, axis=1, keepdims=True)
+                sim_all[idx] = sv @ tvec.T
+                print(f"  embedded {min(b0 + B, len(order)):,}/{len(order):,} sentences", flush=True)
+            np.save(cache, sim_all)
         for it, srow in zip(items, sim_all):
             best = int(srow.argmax())
             named = {i for i, p in enumerate(pats) if p and p.search(it["sentence"])}
@@ -153,15 +162,17 @@ def main():
         w = csv.writer(f); w.writerow(["state", "category", "grades", "words", "sentences"])
         for (st, c, g), n in sorted(words.items()): w.writerow([st, c, g, n, sents_n[(st, c, g)]])
     summ = collections.defaultdict(lambda: [0, 0])
-    for (st, c, g), n in words.items(): summ[(st, c)][0] += n
+    for (st, c, g), n in words.items():
+        if c in ANALYSIS_CATS: summ[st][0] += n
     for r in rows:
-        if r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning": summ[(r["state"], r["category"])][1] += 1
+        if r["category"] in ANALYSIS_CATS and (r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning"): summ[r["state"]][1] += 1
     with open(OUT / "state_summary.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f); w.writerow(["state", "category", "words", "tags", "tags_per_10k_words", "min_score"])
-        for (st, c), (n, t) in sorted(summ.items()): w.writerow([st, c, n, t, round(t / n * 1e4, 2) if n else "", DEFAULT_MIN_SCORE])
+        w = csv.writer(f); w.writerow(["state", "text", "words", "tags", "tags_per_10k_words", "min_score"])
+        for st, (n, t) in sorted(summ.items()): w.writerow([st, "+".join(ANALYSIS_CATS), n, t, round(t / n * 1e4, 2) if n else "", DEFAULT_MIN_SCORE])
     (OUT / "topic_tags_meta.json").write_text(json.dumps({"model": MODEL, "score": "cosine similarity of sentence and topic embeddings",
         "topic_text": "'<topic>: <description> Related terms: <search terms>.'", "score_floor": SCORE_FLOOR, "default_min_score": DEFAULT_MIN_SCORE,
-        "sentences": len(items), "tags": len(rows), "run": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")}, indent=1))
+        "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS),
+        "sentences": n_items, "tags": len(rows), "run": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")}, indent=1))
     print("wrote", OUT)
 
 if __name__ == "__main__":

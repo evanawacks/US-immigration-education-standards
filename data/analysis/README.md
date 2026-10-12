@@ -1,13 +1,15 @@
 # Immigration-topic tags
 
-`scripts/topic_tags.py` tags every sentence of the standards and examples text with the immigration topics in
+`scripts/topic_tags.py` tags every sentence of the labeled text (standards, examples and backup) with the immigration topics in
 [`data/reference/immigration_topics.csv`](../reference/immigration_topics.csv), using a language model that runs
 locally (no LLM, no API).
 
 ## Method
 
-1. **Text.** Only the `standards` and `examples` text of the documents used in the database is counted, never
-   the backup text or the running headers. Each piece of text is split into sentences; bullet items count as
+1. **Text.** All labeled text of the documents used in the database is tagged (never the running headers), so the
+   tags can be checked in the website's document viewer. **The analysis counts the `standards` text only**: the state
+   summary and the website's Topics and Charts pages leave the examples and backup tags out (filter
+   `category == "standards"` in `topic_tags.csv`). Each piece of text is split into sentences; bullet items count as
    sentences.
 2. **One count per sentence per state.** If the same sentence appears twice in a state's documents with the same
    grades and category, it is counted once (at its first occurrence). Text that the database copies into several grade
@@ -33,8 +35,8 @@ locally (no LLM, no API).
 |---|---|---|
 | `topics.csv` | topic (numbered 1-106 in the order of the reference list) | topic_no, era, topic, years, description, search_terms |
 | `topic_tags.csv` | tag | state, file, unit, sentence_no, category, grades, course, course_title, topic_no, topic, era, score, method, top_score, sentence |
-| `text_words.csv` | state × category × grade group | words, sentences (denominators for rates) |
-| `state_summary.csv` | state × category | words, tags, tags per 10,000 words at the default cut-off |
+| `text_words.csv` | state × category × grade group | words, sentences (denominators for rates; use the standards rows) |
+| `state_summary.csv` | state | standards words, tags, tags per 10,000 words at the default cut-off |
 | `topic_tags_meta.json` | run | model, settings, counts, date |
 
 `state`, `file` and `unit` point to the exact place in the source: `data/clean/units/<state>/<file>.units.jsonl`, or
@@ -44,8 +46,9 @@ the website's side-by-side viewer.
 
 ```
 pip install fastembed
-python3 scripts/topic_tags.py           # about an hour on 4 CPU cores; caches the similarity matrix
+python3 scripts/topic_tags.py           # about 1.5 hours on 4 CPU cores; caches the similarity matrices
 python3 scripts/topic_tags.py --reuse   # only re-applies the tagging rules (seconds)
 ```
 
-In R: `tags <- read.csv("data/analysis/topic_tags.csv")`, then filter with `subset(tags, score >= 0.7 | method != "meaning")`.
+In R: `tags <- read.csv("data/analysis/topic_tags.csv")`, then
+`subset(tags, category == "standards" & (score >= 0.7 | method != "meaning"))`.

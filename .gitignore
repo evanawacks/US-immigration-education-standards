@@ -13,4 +13,4 @@ data/validation/audit_html/
 site/data/cache/
 
 # topic analysis: cached similarity matrix (rebuilt by scripts/topic_tags.py)
-data/analysis/similarity_cache.npy
+data/analysis/similarity_cache_*.npy

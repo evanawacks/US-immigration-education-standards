@@ -10,7 +10,7 @@ const REGIONS = {
 };
 const REGION_NAMES = Object.keys(REGIONS);
 const REGION_OF = Object.fromEntries(Object.entries(REGIONS).flatMap(([r, sts]) => sts.map((s) => [s, r])));
-const CAT_NAMES = ["standards", "examples"];
+const CAT_NAMES = ["standards", "examples", "backup"];
 const METHOD_NAMES = ["meaning", "name", "both"];
 const METHOD_LABEL = { meaning: "by meaning", name: "named in the sentence", both: "by meaning and named" };
 
@@ -34,7 +34,7 @@ const gSortKey = (g) => { const p = g.split(/[-+]/); return gNum(p[0]) * 100 + g
 
 // ---------- shared filters (one set for both tabs; score settings remembered) ----------
 const AF = {
-  states: null, regions: new Set(REGION_NAMES), grade: "all", cat: "both", topics: null,
+  states: null, regions: new Set(REGION_NAMES), grade: "all", topics: null,
   minScore: store.get("minScore", null), named: store.get("named", true),
 };
 function initFilters(D) {
@@ -49,7 +49,7 @@ function gradeOK(g) {
   if (AF.grade === "singles") return !gIsBand(g);
   return AF.grade.slice(2) === g;   // "g:05" or "b:K-02": an exact grade group
 }
-const catOK = (c) => AF.cat === "both" || CAT_NAMES[c] === AF.cat;
+const catOK = () => true;   // the analysis data holds standards text only (examples and backup are excluded)
 /** Indices of the tags that pass the filters. opts.ignoreGrade / ignoreTopics / ignoreStates relax one filter. */
 function filteredTags(D, opts = {}) {
   const T = D.tags, out = [];
@@ -151,14 +151,10 @@ function filterBar(D, onChange, { topics = true } = {}) {
     h("optgroup", { label: "Grade bands (as the state wrote them)" }, h("option", { value: "bands" }, "Every grade band"), bands.map((g) => h("option", { value: `b:${g}` }, gLabel(g)))));
   grSel.value = AF.grade;
   grSel.addEventListener("change", () => { AF.grade = grSel.value; onChange(); });
-  const catSel = h("select", { id: "af-cat" }, h("option", { value: "both" }, "Standards + examples"), h("option", { value: "standards" }, "Standards only"), h("option", { value: "examples" }, "Examples only"));
-  catSel.value = AF.cat;
-  catSel.addEventListener("change", () => { AF.cat = catSel.value; onChange(); });
   const topicSel = topics ? multiSelect({ id: "af-topics", label: "Topics", noun: "topics", selected: AF.topics, onChange,
     groups: D.eras.map((e) => ({ name: e, items: D.topics.filter((t) => t.era === e).map((t) => ({ value: t.no, label: `${t.no}. ${t.topic}` })) })) }) : null;
   return h("div", { class: "filters filterbar", role: "search" }, stSel, regions,
     h("div", { class: "field" }, h("label", { for: "af-grade" }, "Grade"), grSel),
-    h("div", { class: "field" }, h("label", { for: "af-cat" }, "Text"), catSel),
     topicSel, scoreControl(D, onChange));
 }
 
@@ -255,7 +251,7 @@ async function topicsPage(no) {
   }
   setMain(h("div", { class: "page" },
     h("div", {}, h("p", { class: "eyebrow" }, "Immigration topics"), h("h1", {}, "106 topics, numbered by era")),
-    h("p", { class: "lede" }, "Each sentence of the standards and examples text was compared with every topic by a local language model. A sentence gets the one topic it is most similar to, plus any topic it names outright. Raise the minimum similarity score to drop weak matches."),
+    h("p", { class: "lede" }, "Each sentence of the standards text was compared with every topic by a local language model. A sentence gets the one topic it is most similar to, plus any topic it names outright. Raise the minimum similarity score to drop weak matches. Examples and backup text are tagged too, but only in the document viewer; they are not counted here."),
     filterBar(D, draw, { topics: false }), stat, body));
   draw();
 }
@@ -333,7 +329,7 @@ async function chartsPage() {
     for (const i of keep) { const s = D.states[D.tags.st[i]]; per[s] = (per[s] || 0) + 1; ((top[s] ||= {})[D.tags.t[i]] = (top[s][D.tags.t[i]] || 0) + 1); }
     const totW = eff.reduce((a, s) => a + words[s], 0);
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, eff.length), " states with text"),
-      h("span", {}, h("b", {}, fmt(totW)), " words counted"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"));
+      h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"));
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });
@@ -503,7 +499,7 @@ async function chartsPage() {
 
   setMain(h("div", { class: "page wide" },
     h("div", {}, h("p", { class: "eyebrow" }, "Data visualization"), h("h1", {}, "Immigration topics across states and grades")),
-    h("p", { class: "lede" }, "A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
+    h("p", { class: "lede" }, "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
     filterBar(D, draw), stat,
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "Where immigration topics appear"),
       h("div", { class: "card-tools" }, h("label", { for: "map-m" }, "Measure"), sel("map-m", [["rate", "Tags per 10,000 words"], ["count", "Tags (count)"]], "mapMeasure"),

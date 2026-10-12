@@ -4,7 +4,15 @@
  "topic_text": "'<topic>: <description> Related terms: <search terms>.'",
  "score_floor": 0.6,
  "default_min_score": 0.7,
- "sentences": 91986,
- "tags": 16043,
- "run": "2026-10-12T22:03:56+00:00"
+ "tagged_categories": [
+  "standards",
+  "examples",
+  "backup"
+ ],
+ "analysis_categories": [
+  "standards"
+ ],
+ "sentences": 120049,
+ "tags": 18478,
+ "run": "2026-10-12T23:49:23+00:00"
 }

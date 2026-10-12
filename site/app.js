@@ -260,7 +260,8 @@ async function aboutPage() {
       h("li", {}, "Word documents are shown as pages rendered by LibreOffice; spreadsheets are shown as their sheets. The original file is always one click away.")),
     h("h2", {}, "Immigration topics"),
     h("ul", {},
-      h("li", {}, "Every sentence of the standards and examples text was compared with the 106 immigration topics by a language model that runs locally (BAAI/bge-base-en-v1.5). The similarity score runs from 0 to 1."),
+      h("li", {}, "Every sentence of the labeled text was compared with the 106 immigration topics by a language model that runs locally (BAAI/bge-base-en-v1.5). The similarity score runs from 0 to 1."),
+      h("li", {}, "The Topics and Charts pages count the standards text only. Tags in examples and backup text are shown in the document viewer for reference."),
       h("li", {}, "A sentence gets the one topic it is closest to in meaning. It also gets every topic it names outright (the topic's name or one of its search terms), so two topics named in one sentence are both tagged."),
       h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score."),
       h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
@@ -503,18 +504,25 @@ async function viewer(st, n, startUnit) {
   }
 
   // ----- pane: topics (immigration-topic tags of this document) -----
-  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, s]) => ({ u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], s }));
+  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, s]) => ({ u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], s }));
+  const tcats = { standards: true, examples: true, backup: true, ...store.get("tcats", {}) };
+  const shown = (tg) => tcats[tg.c] && tagPasses(tg);
   if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
   const topicName = (t) => TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`;
   const tagsOfUnit = new Map();
   for (const tg of docTags) { if (!tagsOfUnit.has(tg.u)) tagsOfUnit.set(tg.u, []); tagsOfUnit.get(tg.u).push(tg); }
   const topicsBody = h("div", { class: "body" });
   const topicsCount = h("span", { class: "muted" });
+  const tcatBtns = ["standards", "examples", "backup"].map((c) => h("button", { "aria-pressed": String(tcats[c]), title: `Show tags in ${c} text`, onclick: (e) => {
+    tcats[c] = !tcats[c]; e.currentTarget.setAttribute("aria-pressed", String(tcats[c])); store.set("tcats", tcats); renderTopics();
+  } }, h("i", { class: `cat-dot ${c}` }), ` ${c}`));
   const topicsPane = h("section", { class: "pane", "aria-label": "Topics" },
-    h("header", {}, h("h2", {}, "Topics"), topicsCount, TL ? scoreControl(TL, renderTopics, { compact: true }) : null), topicsBody);
+    h("header", {}, h("h2", {}, "Topics"), topicsCount, h("span", { class: "group" }, tcatBtns),
+      h("p", { class: "muted small pane-note" }, "The Topics and Charts pages count standards only; examples and backup tags are shown here for reference."),
+      TL ? scoreControl(TL, renderTopics, { compact: true }) : null), topicsBody);
   let topicRows = new Map();   // unit -> [row elements]
   function renderTopics() {
-    const pass = docTags.filter(tagPasses);
+    const pass = docTags.filter(shown);
     const units = new Set(pass.map((x) => x.u));
     const byTopic = new Map();
     for (const tg of pass) { if (!byTopic.has(tg.t)) byTopic.set(tg.t, []); byTopic.get(tg.t).push(tg); }
@@ -528,7 +536,8 @@ async function viewer(st, n, startUnit) {
           h("a", { class: "tp-more", href: `#/topics/${t}`, title: "See this topic in every state" }, "all states")),
         list.map((tg) => {
           const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => select(tg.u, "topics") },
-            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? h("span", { class: "chip" }, "named") : null,
+            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.sc.toFixed(2)),
+            h("span", { class: "tp-chips" }, tg.c !== "standards" ? h("span", { class: `chip cat-${tg.c}` }, tg.c) : null, tg.m !== "meaning" ? h("span", { class: "chip" }, "named") : null),
             h("span", { class: "tp-s" }, tg.s));
           if (!topicRows.has(tg.u)) topicRows.set(tg.u, []);
           topicRows.get(tg.u).push(row);
@@ -538,7 +547,7 @@ async function viewer(st, n, startUnit) {
     // tag chips under the units in the clean text, and marks on the original pages
     for (const [u, el] of unitEls) {
       el.querySelector(".tchips")?.remove();
-      const mine = (tagsOfUnit.get(u) || []).filter(tagPasses);
+      const mine = (tagsOfUnit.get(u) || []).filter(shown);
       el.classList.toggle("tagged", mine.length > 0);
       if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: "tchip", title: `${tg.s}\n${METHOD_LABEL[tg.m]}; top match score ${tg.top.toFixed(2)}` },
         `${tg.t}. ${topicName(tg.t)}`, h("b", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? " · named" : ""))));
@@ -599,7 +608,7 @@ async function viewer(st, n, startUnit) {
     markDb(u, from !== "db");
     markTopics(u, from !== "topics");
     const L = u.l >= 0 ? doc.labels[u.l] : null;
-    const utags = (tagsOfUnit.get(u.n) || []).filter(tagPasses);
+    const utags = (tagsOfUnit.get(u.n) || []).filter(shown);
     const where = [u.p ? (doc.type === "xlsx" ? `sheet ${u.p}` : `page ${u.p}`) : null, u.t ? u.t : null].filter(Boolean).join(" · ");
     const kept = u.r.filter((x) => x[2]), dropped = u.r.filter((x) => !x[2]);
     selbar.replaceChildren(...[

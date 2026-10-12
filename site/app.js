@@ -55,7 +55,7 @@ async function route() {
   const parts = (location.hash || "#/db").slice(2).split("/").map(decodeURIComponent);
   const [view, a, b, c] = parts;
   document.querySelectorAll(".nav a").forEach((x) => x.toggleAttribute("aria-current", false));
-  const navKey = { db: "db", row: "db", docs: "docs", doc: "docs", about: "about" }[view] || "db";
+  const navKey = { db: "db", row: "db", docs: "docs", doc: "docs", about: "about", topics: "topics", charts: "charts" }[view] || "db";
   document.querySelector(`.nav a[data-nav="${navKey}"]`)?.setAttribute("aria-current", "page");
   try {
     if (view === "doc") {
@@ -69,6 +69,8 @@ async function route() {
     if (view === "row") await rowPage(a);
     else if (view === "docs") await docsPage(a);
     else if (view === "about") await aboutPage();
+    else if (view === "topics") await topicsPage(a);
+    else if (view === "charts") await chartsPage();
     else await dbPage();
     window.scrollTo(0, 0);
   } catch (e) { console.error(e); errorView(e); }
@@ -256,6 +258,12 @@ async function aboutPage() {
       h("li", {}, "Click any unit, page box, or database line: the other panes jump to the same text and highlight it."),
       h("li", {}, "Colored boxes on the original pages show what each unit was labeled: blue for standards, amber for examples, grey for backup."),
       h("li", {}, "Word documents are shown as pages rendered by LibreOffice; spreadsheets are shown as their sheets. The original file is always one click away.")),
+    h("h2", {}, "Immigration topics"),
+    h("ul", {},
+      h("li", {}, "Every sentence of the standards and examples text was compared with the 106 immigration topics by a language model that runs locally (BAAI/bge-base-en-v1.5). The similarity score runs from 0 to 1."),
+      h("li", {}, "A sentence gets the one topic it is closest to in meaning. It also gets every topic it names outright (the topic's name or one of its search terms), so two topics named in one sentence are both tagged."),
+      h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score."),
+      h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
     h("p", {}, "Project documentation, validation reports, and code: ", h("a", { href: repo, target: "_blank", rel: "noopener" }, "GitHub repository"), "."))));
 }
 
@@ -269,13 +277,13 @@ async function viewer(st, n, startUnit) {
       h("p", {}, h("a", { href: `#/docs/${st}` }, "See this state's documents"), f0?.path ? [" · ", h("a", { href: fileUrl(f0.path), target: "_blank", rel: "noopener" }, "Open the original file")] : null)));
     return { kind: "msg" };
   }
-  const [idx, doc, rows] = await Promise.all([loadIndex(), loadDoc(st, n), loadRows(st)]);
+  const [idx, doc, rows, TL] = await Promise.all([loadIndex(), loadDoc(st, n), loadRows(st), getJSON("topics/list.json").catch(() => null)]);
   const files = idx.states[st].files;
   const rowById = Object.fromEntries(rows.map((r) => [r.id, r]));
   const units = doc.units;
   const byN = new Map(units.map((u) => [u.n, u]));
   const catOf = (u) => (u.f ? "furniture" : u.l >= 0 ? doc.labels[u.l].cat : "none");
-  const prefs = { panes: store.get("panes", { orig: true, text: true, db: true }), boxes: store.get("boxes", true), furn: false, hide: store.get("hide", {}), zoom: store.get("zoom", 1) };
+  const prefs = { panes: { topics: true, ...store.get("panes", { orig: true, text: true, db: true }) }, tmarks: store.get("tmarks", true), boxes: store.get("boxes", true), furn: false, hide: store.get("hide", {}), zoom: store.get("zoom", 1) };
   let selected = null;
   const ctl = { kind: "doc", st, n, select, destroy };
 
@@ -298,15 +306,19 @@ async function viewer(st, n, startUnit) {
     prefs.boxes = !prefs.boxes; e.currentTarget.setAttribute("aria-pressed", String(prefs.boxes)); store.set("boxes", prefs.boxes); origBody.classList.toggle("boxes-on", prefs.boxes);
   } }, "Label boxes");
   const fileInfo = files[n];
+  const tmarkBtn = h("button", { "aria-pressed": String(prefs.tmarks), title: "Outline the text that carries immigration-topic tags", onclick: (e) => {
+    prefs.tmarks = !prefs.tmarks; e.currentTarget.setAttribute("aria-pressed", String(prefs.tmarks)); store.set("tmarks", prefs.tmarks);
+    origBody.classList.toggle("tmarks-on", prefs.tmarks); textBody.classList.toggle("tmarks-on", prefs.tmarks);
+  } }, "Topic marks");
   const bar = h("div", { class: "vbar" },
     h("div", { class: "doc-title" }, h("span", { class: "eyebrow" }, h("a", { href: `#/docs/${st}` }, idx.states[st].name), ` · document ${n + 1} of ${files.length}`), h("strong", {}, doc.file)),
-    h("div", { class: "group", role: "group", "aria-label": "Panes" }, h("span", { class: "eyebrow" }, "Show"), paneBtn("orig", "Original"), paneBtn("text", "Clean text"), paneBtn("db", "Database text")),
-    h("div", { class: "group" }, boxBtn, jump),
+    h("div", { class: "group", role: "group", "aria-label": "Panes" }, h("span", { class: "eyebrow" }, "Show"), paneBtn("orig", "Original"), paneBtn("text", "Clean text"), paneBtn("db", "Database text"), TL ? paneBtn("topics", "Topics") : null),
+    h("div", { class: "group" }, boxBtn, TL ? tmarkBtn : null, jump),
     h("div", { class: "legend" }, ["standards", "examples", "backup"].map((c) => h("span", {}, h("i", { class: `cat-dot ${c}` }), c))));
   const selbar = h("div", { class: "selbar", "aria-live": "polite" }, h("span", { class: "muted" }, "Click a unit, a box on the page, or a database line to trace it across the panes."));
 
   // ----- pane: original -----
-  const origBody = h("div", { class: "body" + (prefs.boxes ? " boxes-on" : "") });
+  const origBody = h("div", { class: "body" + (prefs.boxes ? " boxes-on" : "") + (prefs.tmarks ? " tmarks-on" : "") });
   const viewUrl = fileUrl(doc.view || doc.path);
   let rerender = null;
   const zoomLabel = h("span", { class: "muted mono" }, `${Math.round(prefs.zoom * 100)}%`);
@@ -350,6 +362,7 @@ async function viewer(st, n, startUnit) {
     }
     pagesEl.replaceChildren(...pgs);
     pagesEl.style.width = `${prefs.zoom * 100}%`;
+    renderTopics();   // the page boxes exist now: mark the ones that carry topic tags
     pagesEl.addEventListener("click", (e) => { const b = e.target.closest(".box"); if (b) select(+b.dataset.n, "orig"); });
     const rendered = new Set();
     observer = new IntersectionObserver((entries) => {
@@ -421,7 +434,7 @@ async function viewer(st, n, startUnit) {
   function rowNum(u) { return parseInt(String(u.t).replace(/^R/, ""), 10); }
 
   // ----- pane: clean text -----
-  const textBody = h("div", { class: "body" });
+  const textBody = h("div", { class: "body" + (prefs.tmarks ? " tmarks-on" : "") });
   const unitEls = new Map();
   const hideBtns = ["standards", "examples", "backup"].map((c) => h("button", { "aria-pressed": String(!prefs.hide[c]), title: `Show ${c} units`, onclick: (e) => {
     prefs.hide[c] = !prefs.hide[c]; e.currentTarget.setAttribute("aria-pressed", String(!prefs.hide[c])); store.set("hide", prefs.hide); applyHide();
@@ -489,6 +502,57 @@ async function viewer(st, n, startUnit) {
     dbBody.replaceChildren(out);
   }
 
+  // ----- pane: topics (immigration-topic tags of this document) -----
+  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, s]) => ({ u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], s }));
+  if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
+  const topicName = (t) => TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`;
+  const tagsOfUnit = new Map();
+  for (const tg of docTags) { if (!tagsOfUnit.has(tg.u)) tagsOfUnit.set(tg.u, []); tagsOfUnit.get(tg.u).push(tg); }
+  const topicsBody = h("div", { class: "body" });
+  const topicsCount = h("span", { class: "muted" });
+  const topicsPane = h("section", { class: "pane", "aria-label": "Topics" },
+    h("header", {}, h("h2", {}, "Topics"), topicsCount, TL ? scoreControl(TL, renderTopics, { compact: true }) : null), topicsBody);
+  let topicRows = new Map();   // unit -> [row elements]
+  function renderTopics() {
+    const pass = docTags.filter(tagPasses);
+    const units = new Set(pass.map((x) => x.u));
+    const byTopic = new Map();
+    for (const tg of pass) { if (!byTopic.has(tg.t)) byTopic.set(tg.t, []); byTopic.get(tg.t).push(tg); }
+    topicsCount.textContent = docTags.length ? `${fmt(pass.length)} tags · ${byTopic.size} topics · ${units.size} units` : "No tags in this document";
+    topicRows = new Map();
+    const open = new Set([...topicsBody.querySelectorAll("details[open]")].map((d) => +d.dataset.t));
+    topicsBody.replaceChildren(...[...byTopic.keys()].sort((a, b) => a - b).map((t) => {
+      const list = byTopic.get(t).sort((a, b) => a.u - b.u || a.sno - b.sno);
+      return h("details", { class: "tp", "data-t": t, open: open.has(t) },
+        h("summary", {}, h("span", { class: "mono" }, `${t}.`), ` ${topicName(t)} `, h("span", { class: "chip" }, fmt(list.length)),
+          h("a", { class: "tp-more", href: `#/topics/${t}`, title: "See this topic in every state" }, "all states")),
+        list.map((tg) => {
+          const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => select(tg.u, "topics") },
+            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? h("span", { class: "chip" }, "named") : null,
+            h("span", { class: "tp-s" }, tg.s));
+          if (!topicRows.has(tg.u)) topicRows.set(tg.u, []);
+          topicRows.get(tg.u).push(row);
+          return row;
+        }));
+    }));
+    // tag chips under the units in the clean text, and marks on the original pages
+    for (const [u, el] of unitEls) {
+      el.querySelector(".tchips")?.remove();
+      const mine = (tagsOfUnit.get(u) || []).filter(tagPasses);
+      el.classList.toggle("tagged", mine.length > 0);
+      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: "tchip", title: `${tg.s}\n${METHOD_LABEL[tg.m]}; top match score ${tg.top.toFixed(2)}` },
+        `${tg.t}. ${topicName(tg.t)}`, h("b", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? " · named" : ""))));
+    }
+    for (const [u, els] of boxes) els.forEach((b) => b.classList.toggle("tagged", units.has(u)));
+    if (selected) markTopics(selected, false);
+  }
+  function markTopics(u, scroll) {
+    topicsBody.querySelectorAll(".tp-row.hl").forEach((x) => x.classList.remove("hl"));
+    const rows = topicRows.get(u.n) || [];
+    rows.forEach((r) => { r.classList.add("hl"); r.closest("details").open = true; });
+    if (scroll && rows[0]) scrollInto(topicsBody, rows[0]);
+  }
+
   // ----- selection -----
   function scrollInto(body, el, center = true) {
     if (!el) return;
@@ -533,7 +597,9 @@ async function viewer(st, n, startUnit) {
     markOrig(u, from !== "orig");
     markText(u, from !== "text");
     markDb(u, from !== "db");
+    markTopics(u, from !== "topics");
     const L = u.l >= 0 ? doc.labels[u.l] : null;
+    const utags = (tagsOfUnit.get(u.n) || []).filter(tagPasses);
     const where = [u.p ? (doc.type === "xlsx" ? `sheet ${u.p}` : `page ${u.p}`) : null, u.t ? u.t : null].filter(Boolean).join(" · ");
     const kept = u.r.filter((x) => x[2]), dropped = u.r.filter((x) => !x[2]);
     selbar.replaceChildren(...[
@@ -543,7 +609,8 @@ async function viewer(st, n, startUnit) {
       L && L.section ? h("span", { class: "muted" }, L.section) : null,
       h("span", {}, kept.length ? [`In ${kept.length} row${kept.length > 1 ? "s" : ""}: `, kept.slice(0, 12).flatMap((x, i) => [i ? ", " : "", h("a", { class: "rowlink", href: "#", onclick: (e) => { e.preventDefault(); dbRow = x[0]; buildDb(); markDb(u, true); } }, x[0]), h("span", { class: "muted" }, ` (${x[1]})`)]), kept.length > 12 ? ` and ${kept.length - 12} more` : ""]
         : dropped.length ? null : h("span", { class: "muted" }, "Not in any row's text")),
-      dropped.length ? h("span", { class: "muted" }, `Repeat of text already in ${dropped.map((x) => x[0]).join(", ")} (kept once)`) : null].flat(Infinity).filter(Boolean));
+      dropped.length ? h("span", { class: "muted" }, `Repeat of text already in ${dropped.map((x) => x[0]).join(", ")} (kept once)`) : null,
+      utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: `#/topics/${tg.t}` }, `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
     const want = `#/doc/${st}/${n}/u${u.n}`;
     if (location.hash !== want) history.replaceState(null, "", want);
   }
@@ -551,8 +618,8 @@ async function viewer(st, n, startUnit) {
   // ----- layout -----
   const panes = h("div", { class: "panes" });
   function layoutPanes() {
-    panes.replaceChildren(...[["orig", origPane], ["text", textPane], ["db", dbPane]].filter(([k]) => prefs.panes[k]).map(([, p]) => p));
-    if (selected) { markOrig(selected, true); markText(selected, true); markDb(selected, true); }
+    panes.replaceChildren(...[["orig", origPane], ["text", textPane], ["db", dbPane], ["topics", TL ? topicsPane : null]].filter(([k, p]) => p && prefs.panes[k]).map(([, p]) => p));
+    if (selected) { markOrig(selected, true); markText(selected, true); markDb(selected, true); markTopics(selected, true); }
   }
   function destroy() { observer?.disconnect(); pdfTask?.destroy?.(); }
 
@@ -564,6 +631,7 @@ async function viewer(st, n, startUnit) {
   else if (doc.blocks) buildBlocks();
   else if (/\.(pdf)$/i.test(doc.view || "")) buildPdf().catch((e) => origBody.append(h("p", { class: "error" }, `Could not show the pages: ${e.message}. Use the link above to open the file.`)));
   else origBody.append(h("p", { class: "empty" }, "No page view for this file type. Use the link above to open the original."));
+  renderTopics();
   if (startUnit) select(startUnit, "url");
   return ctl;
 }

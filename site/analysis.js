@@ -240,18 +240,34 @@ function scoreControl(D, onChange, { compact = false } = {}) {
     h("div", { class: "score-row" }, range, out, h("label", { class: "check", for: id + "-named", title: "Keep a topic whose name or search terms appear in the sentence, whatever its score" }, named, "Keep named topics")));
 }
 
+/** Show a tooltip on hover, and on a tap (a touch screen sends no pointermove before the tap). */
+const onPoint = (el, fn) => { el.addEventListener("pointermove", fn); el.addEventListener("pointerdown", fn); };
 // tooltip (one per page)
 function tooltip() {
   let tip = document.getElementById("viz-tip");
-  if (!tip) { tip = h("div", { id: "viz-tip", class: "viz-tip", role: "tooltip", hidden: true }); document.body.append(tip); }
+  if (!tip) {
+    tip = h("div", { id: "viz-tip", class: "viz-tip", role: "tooltip", hidden: true }); document.body.append(tip);
+    // Safety net: pointerleave does not fire when the chart under the pointer is redrawn or removed, when the page
+    // scrolls under a still pointer, or after a tap on a touch screen. Hide the tip whenever the pointer is anywhere
+    // but on the element that opened it, and on scroll, resize, or leaving the window.
+    const off = (e) => { if (!tip.hidden && !(tip.owner?.isConnected && e.target instanceof Node && tip.owner.contains(e.target))) tip.hidden = true; };
+    document.addEventListener("pointermove", off, true);
+    document.addEventListener("pointerdown", off, true);
+    const hideNow = () => { tip.hidden = true; };
+    window.addEventListener("scroll", hideNow, true);
+    window.addEventListener("resize", hideNow);
+    document.documentElement.addEventListener("pointerleave", (e) => e.pointerType !== "touch" && hideNow());
+    window.addEventListener("blur", hideNow);
+  }
   return {
     show(e, rows) {
+      tip.owner = e.currentTarget instanceof Element ? e.currentTarget : null;   // null (keyboard focus): any pointer move hides it
       tip.replaceChildren(...rows.map(([v, l, color]) => h("div", { class: "tip-row" }, color ? h("i", { class: "tip-key", style: `background:${color}` }) : null, h("b", {}, v), l ? h("span", {}, l) : null)));
       tip.hidden = false;
       const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8), y = Math.min(e.clientY + 14, window.innerHeight - tip.offsetHeight - 8);
       tip.style.left = `${x}px`; tip.style.top = `${y}px`;
     },
-    hide() { tip.hidden = true; },
+    hide(e) { if (e?.pointerType !== "touch") tip.hidden = true; },   // a finger lifting is not leaving: a tap elsewhere or a scroll hides it
   };
 }
 const svg = (tag, attrs, ...kids) => {
@@ -428,6 +444,7 @@ async function chartsPage() {
 
   let kwPer = null;
   function draw() {
+    tip.hide();   // the element that opened it is about to be replaced
     const keep = filteredTags(D);
     const { byState: words } = wordTotals(D);
     const eff = effStates(D).filter((s) => words[s] > 0);
@@ -465,8 +482,8 @@ async function chartsPage() {
         tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...(kwPer ? [[fmt(kwPer[s] || 0), "“immigration” keyword matches"]] : []), ...tops]
           : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
       };
-      p.addEventListener("pointermove", show); p.addEventListener("pointerleave", tip.hide);
-      p.addEventListener("focus", (e) => { const r = p.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top + r.height / 2 }); });
+      onPoint(p, show); p.addEventListener("pointerleave", tip.hide);
+      p.addEventListener("focus", (e) => { if (!document.activeElement?.matches(":focus-visible")) return; const r = p.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top + r.height / 2 }); });
       p.addEventListener("blur", tip.hide);
       p.addEventListener("click", () => { if (s) location.hash = `#/docs/${s}`; });
       return p;
@@ -478,7 +495,7 @@ async function chartsPage() {
       const c = centroid(dc.geometry);
       const cls = effSet.has("DC") ? b.cls(val("DC")) : "q0 off";
       const m = svg("circle", { cx: c[0] + 28, cy: c[1] + 18, r: 7, class: `st ${cls}` });
-      m.addEventListener("pointermove", (e) => tip.show(e, [[D.stateNames.DC, REGION_OF.DC], [fmt(per.DC || 0), "tags"], [fmt(nTop("DC")), "distinct topics"], [fmt1(val("DC")), unit]]));
+      onPoint(m, (e) => tip.show(e, [[D.stateNames.DC, REGION_OF.DC], [fmt(per.DC || 0), "tags"], [fmt(nTop("DC")), "distinct topics"], [fmt1(val("DC")), unit]]));
       m.addEventListener("pointerleave", tip.hide);
       extra.push(svg("line", { x1: c[0], y1: c[1], x2: c[0] + 28, y2: c[1] + 18, class: "leader" }), m, svg("text", { x: c[0] + 38, y: c[1] + 22, class: "map-lab" }, "DC"));
     }
@@ -513,7 +530,7 @@ async function chartsPage() {
         cols.map((c) => {
           const v = value(s, c.key), n = cell[`${s}|${c.key}`] || 0;
           const td = h("td", { class: b.cls(v), tabindex: "-1" }, n ? fv(v) : "");
-          td.addEventListener("pointermove", (e) => tip.show(e, [[fv(v), opt.mtxValue === "share" ? `of ${D.stateNames[s]}'s tags` : opt.mtxValue === "rate" ? "per 10,000 words" : opt.mtxValue === "distinct" ? "distinct topics" : "tags"], [fmt(n), "tags"], [c.title, D.stateNames[s]]]));
+          onPoint(td, (e) => tip.show(e, [[fv(v), opt.mtxValue === "share" ? `of ${D.stateNames[s]}'s tags` : opt.mtxValue === "rate" ? "per 10,000 words" : opt.mtxValue === "distinct" ? "distinct topics" : "tags"], [fmt(n), "tags"], [c.title, D.stateNames[s]]]));
           td.addEventListener("pointerleave", tip.hide);
           return td;
         }))]).filter(Boolean)));
@@ -592,7 +609,7 @@ async function chartsPage() {
     const cross = svg("line", { class: "cross", y1: T, y2: H - Bm, visibility: "hidden" });
     const hit = svg("rect", { x: L - 20, y: T, width: W - R - L + 40, height: H - T - Bm, class: "hit" });
     const root = svg("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Immigration-topic tags by single grade" }, g, marks, cross, hit);
-    hit.addEventListener("pointermove", (e) => {
+    onPoint(hit, (e) => {
       if (!singles.length) return;
       const pt = root.createSVGPoint(); pt.x = e.clientX; pt.y = e.clientY;
       const x = pt.matrixTransform(root.getScreenCTM().inverse()).x;
@@ -601,7 +618,7 @@ async function chartsPage() {
       const bo = bandOnly[i];
       tip.show(e, [...tipRows(`Grade ${gLabel(singles[i])}`, "pts", i), ...(bo.length ? [[`${bo.length} state${bo.length > 1 ? "s" : ""}`, `not in this point: grade ${gLabel(singles[i])} only inside a band (${bo.slice(0, 8).join(", ")}${bo.length > 8 ? "…" : ""})`]] : [])]);
     });
-    hit.addEventListener("pointerleave", () => { cross.setAttribute("visibility", "hidden"); tip.hide(); });
+    hit.addEventListener("pointerleave", (e) => { cross.setAttribute("visibility", "hidden"); tip.hide(e); });
     lineBox.replaceChildren(singles.length ? root : h("p", { class: "muted" }, "No text written for single grades in the selected states."));
 
     lineLegend.replaceChildren(h("div", { class: "legend" }, data.length > 1 ? data.map((d) => h("span", { class: "lg" }, h("i", { class: `lk ${d.cls}` }), d.label || d.name)) : h("span", { class: "muted" }, `${eff.length} states combined`),
@@ -640,8 +657,8 @@ async function chartsPage() {
       const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, D.stateNames[s]], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
         [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
         [`${Math.round((v / top) * 100)}%`, `of ${s}'s highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
-      grp.addEventListener("pointermove", show); grp.addEventListener("pointerleave", tip.hide);
-      grp.addEventListener("focus", (e) => { const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
+      onPoint(grp, show); grp.addEventListener("pointerleave", tip.hide);
+      grp.addEventListener("focus", (e) => { if (!document.activeElement?.matches(":focus-visible")) return; if (!document.activeElement?.matches(":focus-visible")) return; const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
       out.push(grp);
     });
     return svg("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": `${D.stateNames[s]}: ${smUnit[m]} by grade and band` }, out);
@@ -715,8 +732,8 @@ async function chartsPage() {
         const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, row.label], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
           [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
           [`${Math.round((v / top1) * 100)}%`, `of the row's highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
-        grp.addEventListener("pointermove", show); grp.addEventListener("pointerleave", tip.hide);
-        grp.addEventListener("focus", () => { const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
+        onPoint(grp, show); grp.addEventListener("pointerleave", tip.hide);
+        grp.addEventListener("focus", () => { if (!document.activeElement?.matches(":focus-visible")) return; const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
         out.push(grp);
       }
     });

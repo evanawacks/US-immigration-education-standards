@@ -3,7 +3,7 @@
 "use strict";
 
 const DATA = "site/data/";
-const VER = "2026-10-13e";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
+const VER = "2026-10-13f";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
 const COLS = [["body_standards", "standards", "Standards"], ["body_examples", "examples", "Examples / clarifications"], ["backup", "backup", "Backup (non-standards text)"]];
 const GRADES = ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "site/vendor/pdf.worker.min.js";
@@ -86,7 +86,8 @@ window.addEventListener("DOMContentLoaded", () => { navBadge(); route(); });
 // ---------- database page ----------
 const dbState = { st: "", grade: "", cat: "", q: "", topic: "", full: false, sort: null, limit: 200 };
 async function dbPage() {
-  const [idx, TDb, KDb, RT] = await Promise.all([loadIndex(), loadTopicData().catch(() => null), loadKeywordData().catch(() => null), getJSON("topics/rowtags.json").catch(() => null)]);
+  const [idx, TDb, KLb, RT] = await Promise.all([loadIndex(), loadTopicData().catch(() => null), loadKeywords().catch(() => []), getJSON("topics/rowtags.json").catch(() => null)]);
+  const KON = KLb.filter((x) => kwOn(x.k));   // keywords not switched off on the Filters page
   const all = [];
   for (const [st, s] of Object.entries(idx.states)) for (const r of s.rows) all.push({ ...r, state: st });
   // topic tags and "immigration" keyword matches in each row's standards text, under the global filter and score settings
@@ -95,7 +96,7 @@ async function dbPage() {
   const tagOK = (i) => topicOn(TDb.tags.t[i]) && (TDb.tags.sc[i] >= min || (AF.named && TDb.tags.m[i] !== 0));
   for (const r of all) {
     r.tt = RT && TDb ? (RT.tags[r.id] || []).filter(tagOK) : [];
-    r.kw = RT && KDb && GF.kw ? (RT.kw[r.id] || []).length : 0;
+    r.kw = Object.fromEntries(KON.map(({ k }) => [k.id, (RT?.kw?.[k.id]?.[r.id] || []).length]));
   }
   const hasTopics = !!(RT && TDb);
   const cats = [...new Set(all.map((r) => r.course_category).filter(Boolean))].sort();
@@ -105,7 +106,7 @@ async function dbPage() {
   const catSel = h("select", { id: "f-cat" }, h("option", { value: "" }, "All rows"), h("option", { value: "-" }, "Grade rows (no course)"), cats.map((c) => h("option", { value: c }, c)));
   const q = h("input", { type: "search", id: "f-q", placeholder: "ID, course, or title" });
   const topicSel = hasTopics ? h("select", { id: "f-topic" }, h("option", { value: "" }, "Any text"), h("option", { value: "any" }, "Has any counted topic"),
-    KDb && GF.kw ? h("option", { value: "kw" }, "Has the word “immigration” (keyword)") : null,
+    KON.map(({ k }) => h("option", { value: `kw:${k.id}` }, `Has a ${k.word} word (${k.topic})`)),
     TDb.eras.map((e) => h("optgroup", { label: e }, TDb.topics.filter((t) => t.era === e && topicOn(t.no)).map((t) => h("option", { value: String(t.no) }, `${t.no}. ${t.topic}`))))) : null;
   if (topicSel) topicSel.value = dbState.topic;
   const full = h("input", { type: "checkbox", id: "f-full" });
@@ -115,7 +116,7 @@ async function dbPage() {
 
   const tbody = h("tbody");
   const heads = [["id", "Row ID"], ["grade", "Grades"], ["course", "Course"], ["course_category", "Category"], ["w0", "Standards words", 1], ["w1", "Examples words", 1], ["w2", "Backup words", 1],
-    ...(hasTopics ? [["ntt", "Topic tags", 1], ["kw", "“Immigration” words", 1]] : [])];
+    ...(hasTopics ? [["ntt", "Topic tags", 1], ...KON.map(({ k }) => [`kw:${k.id}`, `${k.word} words`, 1])] : [])];
   const thead = h("thead", {}, h("tr", {}, heads.map(([k, label, num]) => h("th", { "data-sort": k, class: num ? "num" : null, scope: "col" }, label))));
   const more = h("div", { class: "more" });
   const table = h("div", { class: "table-wrap" }, h("table", { class: "ledger" }, thead, tbody));
@@ -151,7 +152,7 @@ async function dbPage() {
     let rows = all.filter((r) => (!dbState.st || r.state === dbState.st)
       && (!dbState.grade || (dbState.grade === "ALL" ? r.grade === "[ALL]" : r.grade.slice(1, -1).split(",").includes(dbState.grade === "K" ? "0" : dbState.grade)))
       && (!dbState.cat || (dbState.cat === "-" ? !r.course && r.grade !== "[ALL]" : r.course_category === dbState.cat))
-      && (!dbState.topic || (dbState.topic === "any" ? r.tt.length > 0 : dbState.topic === "kw" ? r.kw > 0 : r.tt.some((i) => TDb.tags.t[i] === +dbState.topic))));
+      && (!dbState.topic || (dbState.topic === "any" ? r.tt.length > 0 : dbState.topic.startsWith("kw:") ? r.kw[dbState.topic.slice(3)] > 0 : r.tt.some((i) => TDb.tags.t[i] === +dbState.topic))));
     let hits = null;
     if (term) {
       if (dbState.full) {
@@ -161,7 +162,7 @@ async function dbPage() {
     }
     if (dbState.sort) {
       const [k, dir] = dbState.sort;
-      const val = (r) => (k[0] === "w" && k.length === 2 ? r.words[+k[1]] : k === "ntt" ? r.tt.length : r[k] || "");
+      const val = (r) => (k[0] === "w" && k.length === 2 ? r.words[+k[1]] : k === "ntt" ? r.tt.length : k.startsWith("kw:") ? r.kw[k.slice(3)] || 0 : r[k] || "");
       rows.sort((x, y) => (val(x) > val(y) ? 1 : val(x) < val(y) ? -1 : 0) * dir);
     }
     thead.querySelectorAll("th").forEach((th) => th.classList.remove("sorted-asc", "sorted-desc"));
@@ -178,8 +179,8 @@ async function dbPage() {
       return h("tr", { onclick: (e) => { if (!e.target.closest("a")) location.hash = `#/row/${encodeURIComponent(r.id)}`; } },
         first, h("td", {}, gradeLabel(r.grade)), h("td", {}, r.course || h("span", { class: "muted" }, "—"), r.course_title && r.course_title !== r.course ? h("div", { class: "snip" }, r.course_title) : null),
         h("td", {}, r.course_category || ""), ...r.words.map((w) => h("td", { class: "num" }, fmt(w))),
-        hasTopics ? h("td", { class: "num", title: dbState.topic && !["any", "kw"].includes(dbState.topic) ? `${r.tt.filter((i) => TDb.tags.t[i] === +dbState.topic).length} of them this topic` : null }, fmt(r.tt.length)) : null,
-        hasTopics ? h("td", { class: "num" }, r.kw ? fmt(r.kw) : h("span", { class: "muted" }, "0")) : null);
+        hasTopics ? h("td", { class: "num", title: dbState.topic && dbState.topic !== "any" && !dbState.topic.startsWith("kw:") ? `${r.tt.filter((i) => TDb.tags.t[i] === +dbState.topic).length} of them this topic` : null }, fmt(r.tt.length)) : null,
+        hasTopics ? KON.map(({ k }) => h("td", { class: "num" }, r.kw[k.id] ? fmt(r.kw[k.id]) : h("span", { class: "muted" }, "0"))) : null);
     }));
     more.replaceChildren(rows.length > shown.length ? h("button", { onclick: () => { dbState.limit += 400; draw(); } }, `Show more (${fmt(rows.length - shown.length)} hidden)`) : "");
   }
@@ -201,7 +202,7 @@ async function dbPage() {
       topicSel ? h("div", { class: "field" }, h("label", { for: "f-topic" }, "Immigration topic"), topicSel) : null,
       h("div", { class: "field" }, h("label", { for: "f-q" }, "Search"), q),
       h("label", { class: "check", for: "f-full" }, full, "Search the full text"), status),
-    hasTopics ? h("p", { class: "muted small" }, "Topic tags and “Immigration” words count the standards text of each row, at the minimum score set on Topics and Charts; topics left out on the Filters page are not counted or offered.") : null,
+    hasTopics ? h("p", { class: "muted small" }, "Topic tags and keyword words count the standards text of each row, at the minimum score set on Topics and Charts; topics left out on the Filters page are not counted or offered.") : null,
     gfNoteSafe(), table, more));
   draw();
 }
@@ -295,7 +296,7 @@ async function aboutPage() {
       h("li", {}, "Sentences are read in overlapping 12-word windows; each window gets its closest topic, and a topic counts once per sentence. In the viewer, the words behind each tag are underlined and numbered with their topic."),
       h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score. “Skip a topic repeated within N words” counts a run of mentions of the same topic once."),
       h("li", {}, "Distinct topics counts how many different topics appear, to show the span of what a state covers."),
-      h("li", {}, "Apart from the topics, a separate keyword count finds every word starting with “immigra” (immigration, immigrant, immigrated…) by plain text search. It has its own line on the Topics page and its own option on the Charts page."),
+      h("li", {}, "Apart from the topics, two separate keyword counts use plain text search: words starting with “immigra” (immigration, immigrant, immigrated…) and words containing “migra” (migration, migrant, emigration, immigration…). They have their own lines on the Topics page, columns and a filter on the Database page, counts on the Charts page, and an option there to chart either one."),
       h("li", {}, "The Filters page leaves chosen topics out of every page and the document viewer."),
       h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
     h("p", {}, "Project documentation, validation reports, and code: ", h("a", { href: repo, target: "_blank", rel: "noopener" }, "GitHub repository"), "."))));
@@ -610,10 +611,10 @@ async function viewer(st, n, startUnit) {
 
   // ----- pane: topics (immigration-topic tags of this document) -----
   const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, cs, ce, mt], k) => ({ k, u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], cs, ce, mt }));
-  // the separate "immigration" keyword: every match in labeled text (not running headers)
-  for (const u of units) {
+  // the separate keywords: every match in labeled text (not running headers)
+  for (const kw of KWS) for (const u of units) {
     if (u.f || u.l < 0 || !CAT_NAMES.includes(catOf(u))) continue;
-    for (const m of u.s.matchAll(KW_RE)) docTags.push({ k: docTags.length, u: u.n, sno: 0, t: KW_NO, sc: 1, top: 1, m: "name", c: catOf(u), cs: m.index, ce: m.index + m[0].length, mt: m[0], kw: true });
+    for (const m of u.s.matchAll(kw.re)) docTags.push({ k: docTags.length, u: u.n, sno: 0, t: kw.no, sc: 1, top: 1, m: "name", c: catOf(u), cs: m.index, ce: m.index + m[0].length, mt: m[0], kw: true });
   }
   /** Character span of a tag's matched words in its unit's text (null if they cannot be found). */
   const spanOf = (tg) => {
@@ -642,7 +643,7 @@ async function viewer(st, n, startUnit) {
   const tcats = { standards: true, examples: true, backup: true, ...store.get("tcats", {}) };
   const shown = (tg) => tcats[tg.c] && tagPasses(tg);
   if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
-  const topicName = (t) => (t === KW_NO ? KW_TOPIC.topic : TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`);
+  const topicName = (t) => (isKw(t) ? KW_BY_NO[t].topic : TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`);
   const tagsOfUnit = new Map();
   for (const tg of docTags) { if (!tagsOfUnit.has(tg.u)) tagsOfUnit.set(tg.u, []); tagsOfUnit.get(tg.u).push(tg); }
   const topicsBody = h("div", { class: "body" });

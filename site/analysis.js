@@ -26,37 +26,49 @@ async function loadTopicData() {
 }
 const loadTopicText = () => getJSON("topics/text.json");
 
-// ---------- the separate keyword count: every word starting with "immigra" (scripts/keyword_tags.py) ----------
-const KW_NO = 0;   // its topic number in the tag columns; the 106 topics are numbered from 1
-const KW_RE = /(?<![A-Za-z])immigra[A-Za-z]*/gi;   // keep in step with PATTERN in scripts/keyword_tags.py
-const KW_TOPIC = { no: KW_NO, era: "Keyword", topic: "“Immigration” keyword", years: "all", terms: ["immigration", "immigrant(s)", "immigrate(d)", "any word starting with “immigra”"],
-  description: "Not one of the 106 topics: a plain word search, counted on its own. Every word starting with “immigra” (immigration, immigrant, immigrated…) is one match, whatever its meaning; “emigration” and “migration” are not matched." };
-let KD;   // keyword data shaped like TD (undefined: not loaded yet; null: not built)
-async function loadKeywordData() {
-  if (KD !== undefined) return KD;
+// ---------- the separate keyword counts: plain word search (scripts/keyword_tags.py), apart from the topics ----------
+// Each keyword is a pseudo-topic with a number of 0 or below (the 106 topics are numbered from 1).
+const KWS = [   // keep in step with KEYWORDS in scripts/keyword_tags.py
+  { id: "immigration", no: 0, slug: "kw", tag: "kw", re: /(?<![A-Za-z])immigra[A-Za-z]*/gi, word: "“immigra…”", rule: "every word starting with “immigra”",
+    topic: "“Immigration” keyword", terms: ["immigration", "immigrant(s)", "immigrate(d)", "any word starting with “immigra”"],
+    description: "Not one of the 106 topics: a plain word search, counted on its own. Every word starting with “immigra” (immigration, immigrant, immigrated…) is one match, whatever its meaning; “emigration” and “migration” are not matched." },
+  { id: "migra", no: -1, slug: "kw-migra", tag: "mg", re: /[A-Za-z]*migra[A-Za-z]*/gi, word: "“…migra…”", rule: "every word containing “migra”",
+    topic: "“Migra” keyword", terms: ["migration", "migrant(s)", "immigration", "emigration", "any word containing “migra”"],
+    description: "Not one of the 106 topics: a plain word search, counted on its own. Every word containing “migra” (migration, migrant, immigration, emigrated, outmigration…) is one match, whatever its meaning. It includes every “immigra” match." },
+].map((k) => ({ ...k, era: "Keyword", years: "all" }));
+const KW_BY_NO = Object.fromEntries(KWS.map((k) => [k.no, k]));
+const isKw = (t) => t in KW_BY_NO;
+const KDS = {};   // keyword data shaped like TD, by keyword id (null: not built)
+async function loadKeywordData(id = KWS[0].id) {
+  if (id in KDS) return KDS[id];
   const D = await loadTopicData();
-  const kw = await getJSON("topics/keyword.json").catch(() => null);
-  KD = kw ? { ...D, tags: kw.tags, text: kw.text, n: kw.tags.t.length, topics: [KW_TOPIC], eras: [KW_TOPIC.era], topicByNo: { [KW_NO]: KW_TOPIC }, eraOfTopic: { [KW_NO]: 0 }, keyword: true } : null;
-  return KD;
+  const all = await getJSON("topics/keyword.json").catch(() => null);
+  const k = KWS.find((x) => x.id === id), kw = all?.keywords?.[id];
+  KDS[id] = kw && k ? { ...D, tags: kw.tags, text: kw.text, n: kw.tags.t.length, topics: [k], eras: [k.era], topicByNo: { [k.no]: k }, eraOfTopic: { [k.no]: 0 }, keyword: k } : null;
+  return KDS[id];
 }
-const topicHref = (t) => (t === KW_NO ? "#/topics/kw" : `#/topics/${t}`);
-const topicNo = (t) => (t === KW_NO ? "kw" : String(t));
+/** [{ k, D }] for every keyword that has been built. */
+async function loadKeywords() { return (await Promise.all(KWS.map(async (k) => ({ k, D: await loadKeywordData(k.id) })))).filter((x) => x.D); }
+const topicHref = (t) => (isKw(t) ? `#/topics/${KW_BY_NO[t].slug}` : `#/topics/${t}`);
+const topicNo = (t) => (isKw(t) ? KW_BY_NO[t].tag : String(t));
 
 // ---------- global topic filter (Filters tab): leaves topics out of every tab and the viewer; remembered ----------
-const GF = { excluded: new Set(store.get("gfExcluded", [])), kw: store.get("gfKw", true) };
-function saveGF() { store.set("gfExcluded", [...GF.excluded]); store.set("gfKw", GF.kw); navBadge(); }
-const topicOn = (t) => (t === KW_NO ? GF.kw : !GF.excluded.has(t));
+const GF = { excluded: new Set(store.get("gfExcluded", [])), kwOff: new Set(store.get("gfKwOff", store.get("gfKw", true) ? [] : ["immigration"])) };
+function saveGF() { store.set("gfExcluded", [...GF.excluded]); store.set("gfKwOff", [...GF.kwOff]); navBadge(); }
+const topicOn = (t) => (isKw(t) ? !GF.kwOff.has(KW_BY_NO[t].id) : !GF.excluded.has(t));
+const kwOn = (k) => !GF.kwOff.has(k.id);
 function navBadge() {
   const a = document.querySelector('.nav a[data-nav="filters"]');
   if (!a) return;
-  const n = GF.excluded.size + (GF.kw ? 0 : 1);
+  const n = GF.excluded.size + GF.kwOff.size;
   a.replaceChildren("Filters", n ? h("span", { class: "nav-badge", title: `${n} topic${n > 1 ? "s" : ""} filtered out` }, String(n)) : "");
 }
 /** A line saying which topics the global filter leaves out (null when none). */
 function gfNote() {
   const n = GF.excluded.size;
-  if (!n && GF.kw) return null;
-  const parts = [n ? `${n} topic${n > 1 ? "s are" : " is"} filtered out` : null, GF.kw ? null : "the “immigration” keyword is off"].filter(Boolean).join(" and ");
+  if (!n && !GF.kwOff.size) return null;
+  const off = KWS.filter((k) => !kwOn(k)).map((k) => k.topic);
+  const parts = [n ? `${n} topic${n > 1 ? "s are" : " is"} filtered out` : null, off.length ? `the ${off.join(" and ")} ${off.length > 1 ? "are" : "is"} off` : null].filter(Boolean).join(" and ");
   return h("p", { class: "gf-note" }, `${parts[0].toUpperCase()}${parts.slice(1)} on every tab. `, h("a", { href: "#/filters" }, "Change the global filter"));
 }
 
@@ -322,11 +334,12 @@ function markMatch(sentence, start, len) {
 
 // ================= TOPICS TAB =================
 async function topicsPage(no) {
-  const [D, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
+  const [D, KL, idx] = await Promise.all([loadTopicData(), loadKeywords(), loadIndex()]);
   D.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
-  if (K) K.stateNames = D.stateNames;
+  for (const x of KL) x.D.stateNames = D.stateNames;
   initFilters(D);
-  if (no === "kw") { if (!K) throw new Error("The keyword count has not been built (run scripts/keyword_tags.py, then scripts/build_site.py)."); return topicDetail(K, idx, KW_NO); }
+  const kwPage = KWS.find((k) => k.slug === no);
+  if (kwPage) { const x = KL.find((y) => y.k === kwPage); if (!x) throw new Error("The keyword counts have not been built (run scripts/keyword_tags.py, then scripts/build_site.py)."); return topicDetail(x.D, idx, kwPage.no); }
   if (no) return topicDetail(D, idx, +no);
   const body = h("div", { class: "topic-eras" });
   const kwBox = h("div", {});
@@ -339,20 +352,21 @@ async function topicsPage(no) {
     const max = Math.max(1, ...Object.values(count));
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, Object.keys(count).length), " of ", h("b", {}, onTopics.length), " distinct topics found"),
       h("span", {}, h("b", {}, effStates(D).length), " states selected"));
-    // the keyword count, apart from the topics
-    if (K && GF.kw) {
-      const kk = filteredTags(K);
-      const ks = new Set(kk.map((i) => K.tags.st[i]));
+    // the keyword counts, apart from the topics
+    const KON = KL.filter((x) => kwOn(x.k));
+    if (KON.length) {
       const { byState: w } = wordTotals(D);
       const words = effStates(D).reduce((a, s) => a + (w[s] || 0), 0);
+      const rows = KON.map(({ k, D: K }) => { const kk = filteredTags(K); return { k, n: kk.length, states: new Set(kk.map((i) => K.tags.st[i])).size }; });
+      const kmax = Math.max(1, ...rows.map((r) => r.n));
       kwBox.replaceChildren(h("section", { class: "era kw-era" },
-        h("header", {}, h("h2", {}, "Separate keyword count"), h("span", { class: "muted mono" }, `${fmt(kk.length)} matches`)),
-        h("p", { class: "muted small" }, "Not part of the topic counts below: every word starting with “immigra” (immigration, immigrant, immigrated…), found by plain text search."),
-        h("ol", { class: "topic-list" }, h("li", {},
-          h("a", { class: "tl-name", href: topicHref(KW_NO) }, h("span", { class: "tl-no mono" }, "kw"), h("span", {}, KW_TOPIC.topic, h("span", { class: "muted" }, ` · ${words ? fmt1((kk.length / words) * 1e4) : "—"} per 10,000 words`))),
-          h("span", { class: "tl-bar", "aria-hidden": "true" }, h("i", { style: `width:${Math.min(100, (kk.length / max) * 100)}%` })),
-          h("span", { class: "tl-n mono" }, fmt(kk.length)),
-          h("span", { class: "tl-s muted" }, `${ks.size} states`)))));
+        h("header", {}, h("h2", {}, "Separate keyword counts"), h("span", { class: "muted mono" }, rows.map((r) => `${fmt(r.n)} ${r.k.word}`).join(" · "))),
+        h("p", { class: "muted small" }, "Not part of the topic counts below: plain text search for words starting with “immigra” (immigration, immigrant…) and, separately, words containing “migra” (migration, migrant, emigration, immigration…)."),
+        h("ol", { class: "topic-list" }, rows.map(({ k, n, states }) => h("li", {},
+          h("a", { class: "tl-name", href: topicHref(k.no) }, h("span", { class: "tl-no mono" }, k.tag), h("span", {}, k.topic, h("span", { class: "muted" }, ` · ${k.rule} · ${words ? fmt1((n / words) * 1e4) : "—"} per 10,000 words`))),
+          h("span", { class: "tl-bar", "aria-hidden": "true" }, h("i", { style: `width:${(n / kmax) * 100}%` })),
+          h("span", { class: "tl-n mono" }, fmt(n)),
+          h("span", { class: "tl-s muted" }, `${states} states`))))));
     } else kwBox.replaceChildren();
     body.replaceChildren(...D.eras.map((era) => {
       const ts = D.topics.filter((t) => t.era === era && topicOn(t.no));
@@ -379,7 +393,7 @@ async function topicDetail(D, idx, no) {
   if (!t) throw new Error(`There is no topic ${no}.`);
   const text = D.text || await loadTopicText();
   const off = !topicOn(no) ? h("p", { class: "gf-note" }, `This ${D.keyword ? "keyword" : "topic"} is filtered out on every tab, so nothing is counted here. `,
-    h("button", { type: "button", class: "link", onclick: () => { D.keyword ? (GF.kw = true) : GF.excluded.delete(no); saveGF(); route(); } }, "Include it again"), " · ", h("a", { href: "#/filters" }, "Global filter")) : null;
+    h("button", { type: "button", class: "link", onclick: () => { D.keyword ? GF.kwOff.delete(D.keyword.id) : GF.excluded.delete(no); saveGF(); route(); } }, "Include it again"), " · ", h("a", { href: "#/filters" }, "Global filter")) : null;
   const byState = h("div", { class: "table-wrap" });
   const occ = h("div", { class: "occ" });
   const stat = h("p", { class: "stats" });
@@ -421,15 +435,18 @@ async function topicDetail(D, idx, no) {
 
 // ================= CHARTS TAB =================
 async function chartsPage() {
-  const [TD0, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
+  const [TD0, KL0, idx] = await Promise.all([loadTopicData(), loadKeywords(), loadIndex()]);
   TD0.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
-  if (K) K.stateNames = TD0.stateNames;
+  for (const x of KL0) x.D.stateNames = TD0.stateNames;
   initFilters(TD0);
-  // what is counted: the 106 topics, or the separate "immigration" keyword
-  const kwOn = !!K && GF.kw && store.get("chartSource", "topics") === "kw";
-  const D = kwOn ? K : TD0;
-  const srcSel = K && GF.kw ? h("select", { id: "af-src" }, h("option", { value: "topics" }, "Immigration topics (106)"), h("option", { value: "kw" }, "“Immigration” keyword (separate)")) : null;
-  if (srcSel) { srcSel.value = kwOn ? "kw" : "topics"; srcSel.addEventListener("change", () => { store.set("chartSource", srcSel.value); chartsPage(); }); }
+  const KL = KL0.filter((x) => kwOn(x.k));   // keywords not switched off on the Filters page
+  // what is counted: the 106 topics, or one of the separate keywords
+  let src = store.get("chartSource", "topics");
+  if (src === "kw") src = "immigration";
+  const kwSrc = KL.find((x) => x.k.id === src);
+  const D = kwSrc ? kwSrc.D : TD0;
+  const srcSel = KL.length ? h("select", { id: "af-src" }, h("option", { value: "topics" }, "Immigration topics (106)"), KL.map(({ k }) => h("option", { value: k.id }, `${k.topic} (${k.word}, separate)`))) : null;
+  if (srcSel) { srcSel.value = kwSrc ? kwSrc.k.id : "topics"; srcSel.addEventListener("change", () => { store.set("chartSource", srcSel.value); chartsPage(); }); }
   const srcField = srcSel ? h("div", { class: "field" }, h("label", { for: "af-src" }, "Count"), srcSel) : null;
   const geo = await fetch("site/vendor/states-albers-10m.json").then((r) => r.json());
   const tip = tooltip();
@@ -450,7 +467,7 @@ async function chartsPage() {
   const features = topojson.feature(geo, geo.objects.states).features;
   const nameToAbbr = Object.fromEntries(Object.entries(D.stateNames).map(([a, n]) => [n, a]));
 
-  let kwPer = null;
+  let kwPer = [];
   function draw() {
     tip.hide();   // the element that opened it is about to be replaced
     const keep = filteredTags(D);
@@ -459,12 +476,11 @@ async function chartsPage() {
     const per = {}, top = {};
     for (const i of keep) { const s = D.states[D.tags.st[i]]; per[s] = (per[s] || 0) + 1; ((top[s] ||= {})[D.tags.t[i]] = (top[s][D.tags.t[i]] || 0) + 1); }
     const totW = eff.reduce((a, s) => a + words[s], 0);
-    // the separate keyword count, shown beside the topic tags (same states and grades)
-    kwPer = null;
-    if (K && GF.kw && !D.keyword) { kwPer = {}; for (const i of filteredTags(K)) { const s = D.states[K.tags.st[i]]; kwPer[s] = (kwPer[s] || 0) + 1; } }
+    // the separate keyword counts, shown beside the topic tags (same states and grades)
+    kwPer = D.keyword ? [] : KL.map(({ k, D: K }) => { const per = {}; for (const i of filteredTags(K)) { const s = D.states[K.tags.st[i]]; per[s] = (per[s] || 0) + 1; } return { k, per, n: Object.values(per).reduce((a, b) => a + b, 0) }; });
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, distinct(D, keep)), " distinct topics"), h("span", {}, h("b", {}, eff.length), " states with text"),
       h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"),
-      kwPer ? h("a", { href: "#/topics/kw", class: "kw-stat" }, h("b", {}, fmt(Object.values(kwPer).reduce((a, b) => a + b, 0))), " “immigration” keyword matches") : null);
+      kwPer.map(({ k, n }) => h("a", { href: topicHref(k.no), class: "kw-stat" }, h("b", {}, fmt(n)), ` ${k.word} keyword matches`)));
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });
@@ -487,7 +503,7 @@ async function chartsPage() {
       const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : "q0 off"}`, tabindex: "0", "aria-label": s });
       const show = (e) => {
         const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), D.keyword ? "keyword matches" : `${t}. ${D.topicByNo[t].topic}`]);
-        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...(kwPer ? [[fmt(kwPer[s] || 0), "“immigration” keyword matches"]] : []), ...tops]
+        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...kwPer.map(({ k, per: kp }) => [fmt(kp[s] || 0), `${k.word} keyword matches`]), ...tops]
           : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
       };
       onPoint(p, show); p.addEventListener("pointerleave", tip.hide);
@@ -510,8 +526,8 @@ async function chartsPage() {
     mapBox.replaceChildren(svg("svg", { viewBox: "-60 0 1040 620", role: "img", "aria-label": "Map of states colored by immigration-topic tags" }, paths, extra));
     const f = opt.mapMeasure === "rate" ? fmt1 : (x) => fmt(Math.round(x));
     mapLegend.replaceChildren(legendBins(b, f, opt.mapScale === "quantile" ? "Five equal-size groups of states" : opt.mapScale === "log" ? "Log scale" : ""));
-    mapTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, ["State", "Region", "Tags", "Distinct topics", "Words", "Per 10,000 words", kwPer ? "“Immigration” words" : null].filter(Boolean).map((x, i) => h("th", { class: i > 1 ? "num" : null }, x)))),
-      h("tbody", {}, eff.slice().sort((a, c) => val(c) - val(a)).map((s) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(per[s] || 0)), h("td", { class: "num" }, fmt(nTop(s))), h("td", { class: "num" }, fmt(words[s])), h("td", { class: "num" }, fmt1(((per[s] || 0) / words[s]) * 1e4)), kwPer ? h("td", { class: "num" }, fmt(kwPer[s] || 0)) : null)))));
+    mapTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, ["State", "Region", "Tags", "Distinct topics", "Words", "Per 10,000 words", ...kwPer.map(({ k }) => `${k.word} words`)].map((x, i) => h("th", { class: i > 1 ? "num" : null }, x)))),
+      h("tbody", {}, eff.slice().sort((a, c) => val(c) - val(a)).map((s) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(per[s] || 0)), h("td", { class: "num" }, fmt(nTop(s))), h("td", { class: "num" }, fmt(words[s])), h("td", { class: "num" }, fmt1(((per[s] || 0) / words[s]) * 1e4)), kwPer.map(({ per: kp }) => h("td", { class: "num" }, fmt(kp[s] || 0))))))));
   }
 
   // ----- matrix: distribution of topic mentions -----
@@ -769,7 +785,7 @@ async function chartsPage() {
     const topics = Object.entries(byTopic).sort((a, b) => b[1] - a[1]);
     const groups = D.grades.filter((g) => W.byStateGrade[`${s}|${g}`] > 0).sort((a, b) => gSortKey(a) - gSortKey(b));
     const bandWords = groups.filter(gIsBand).reduce((a, g) => a + W.byStateGrade[`${s}|${g}`], 0);
-    const kwN = K && GF.kw && !D.keyword ? filteredTags(K, { ignoreGrade: true, ignoreStates: true }).filter((i) => K.tags.st[i] === si).length : null;
+    const kwN = D.keyword ? [] : KL.map(({ k, D: K }) => ({ k, n: filteredTags(K, { ignoreGrade: true, ignoreStates: true }).filter((i) => K.tags.st[i] === si).length }));
     const files = idx.states[s]?.files || [];
     const tile = (v, l, sub) => h("div", { class: "tile" }, h("b", {}, v), h("span", {}, l), sub ? h("span", { class: "muted small" }, sub) : null);
     const picker = h("select", { id: "prof-st", "aria-label": "State" }, D.states.filter((x) => W.byState[x] > 0).map((x) => h("option", { value: x }, `${x} · ${D.stateNames[x]}`)));
@@ -790,7 +806,7 @@ async function chartsPage() {
         tile(fmt(mine.length), "tags", `${fmt1(rate)} per 10,000 words`),
         tile(`${rank} of ${rates.length}`, "rank, tags per 10,000 words", `selected states average ${fmt1(avgRate)}`),
         D.keyword ? null : tile(`${topics.length}`, "distinct topics", `of ${D.topics.filter((t) => topicOn(t.no)).length} counted`),
-        kwN != null ? tile(fmt(kwN), "“immigration” keyword matches", `${words ? fmt1((kwN / words) * 1e4) : "—"} per 10,000 words`) : null,
+        kwN.map(({ k, n }) => tile(fmt(n), `${k.word} keyword matches`, `${words ? fmt1((n / words) * 1e4) : "—"} per 10,000 words`)),
         tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${groups.filter((g) => !gIsBand(g)).length} single grades, ${groups.filter(gIsBand).length} bands`)),
       h("div", { class: "viz-line sm-big" }, statePanel(s, G, opt.smMeasure, { w: 1000, h: 300, big: true })),
       h("div", { class: "two-col prof-cols" },
@@ -811,7 +827,8 @@ async function chartsPage() {
   setMain(h("div", { class: "page wide" },
     h("div", {}, h("p", { class: "eyebrow" }, "Data visualization"), h("h1", {}, "Immigration topics across states and grades")),
     h("p", { class: "lede" }, D.keyword
-      ? "Standards text only. Counting the separate “immigration” keyword: each word starting with “immigra” is one tag, apart from the 106 topics. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
+      ? `Standards text only. Counting the separate ${D.keyword.topic}: ${D.keyword.rule} is one tag, apart from the 106 topics.`
+        + " Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
       : "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
     gfNote(), filterBar(D, draw, { topics: !D.keyword, score: !D.keyword, extra: srcField }), stat,
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "Where immigration topics appear"),
@@ -840,23 +857,23 @@ async function chartsPage() {
 
 // ================= FILTERS TAB (global topic filter) =================
 async function filtersPage() {
-  const [D, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
+  const [D, KL, idx] = await Promise.all([loadTopicData(), loadKeywords(), loadIndex()]);
   D.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
   initFilters(D);
   // tags per topic in all states and grades, at the current score settings, to help decide
   const count = {};
   for (const i of filteredTags(D, { ignoreTopics: true, ignoreStates: true, ignoreGrade: true, ignoreGlobal: true })) count[D.tags.t[i]] = (count[D.tags.t[i]] || 0) + 1;
-  const kwCount = K ? filteredTags(K, { ignoreStates: true, ignoreGrade: true, ignoreGlobal: true }).length : 0;
+  const kwCount = Object.fromEntries(KL.map(({ k, D: K }) => [k.no, filteredTags(K, { ignoreStates: true, ignoreGrade: true, ignoreGlobal: true }).length]));
   const status = h("span", { class: "muted" });
   const boxes = new Map(), eraBoxes = [];
   function sync() {
     const on = D.topics.filter((t) => topicOn(t.no)).length;
-    status.textContent = `${on} of ${D.topics.length} topics included${K ? `; keyword ${GF.kw ? "included" : "left out"}` : ""}`;
+    status.textContent = `${on} of ${D.topics.length} topics included${KL.length ? `; keywords: ${KL.map(({ k }) => `${k.word} ${kwOn(k) ? "on" : "off"}`).join(", ")}` : ""}`;
     for (const [no, cb] of boxes) { cb.checked = topicOn(no); cb.closest(".gf-item")?.classList.toggle("off", !cb.checked); }
     for (const [cb, nos] of eraBoxes) { const k = nos.filter(topicOn).length; cb.checked = k === nos.length; cb.indeterminate = k > 0 && k < nos.length; }
   }
   function set(nos, on) {
-    for (const no of nos) { if (no === KW_NO) GF.kw = on; else on ? GF.excluded.delete(no) : GF.excluded.add(no); }
+    for (const no of nos) { if (isKw(no)) on ? GF.kwOff.delete(KW_BY_NO[no].id) : GF.kwOff.add(KW_BY_NO[no].id); else on ? GF.excluded.delete(no) : GF.excluded.add(no); }
     saveGF(); sync();
   }
   const search = h("input", { type: "search", id: "gf-q", placeholder: "Find a topic…" });
@@ -892,8 +909,8 @@ async function filtersPage() {
       h("div", { class: "field" }, h("span", { class: "flabel" }, "Topics"), h("div", { class: "chips" },
         h("button", { type: "button", onclick: () => set(all, true) }, "Include all"), h("button", { type: "button", onclick: () => set(all, false) }, "Leave all out"))),
       status),
-    K ? h("section", { class: "era gf-era kw-era" }, h("header", {}, h("h2", {}, "Separate keyword count"), h("span", { class: "muted mono" }, "not one of the 106 topics")),
-      h("ul", { class: "gf-list" }, item(KW_NO, KW_TOPIC.topic, "every word starting with “immigra”", kwCount))) : null,
+    KL.length ? h("section", { class: "era gf-era kw-era" }, h("header", {}, h("h2", {}, "Separate keyword counts"), h("span", { class: "muted mono" }, "not among the 106 topics")),
+      h("ul", { class: "gf-list" }, KL.map(({ k }) => item(k.no, k.topic, k.rule, kwCount[k.no])))) : null,
     h("div", { class: "topic-eras" }, eras)));
   sync();
 }

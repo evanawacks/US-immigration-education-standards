@@ -45,12 +45,14 @@ locally (no LLM, no API).
 | `text_words.csv` | state × category × grade group | words, sentences (denominators for rates; use the standards rows) |
 | `state_summary.csv` | state | standards words, tags, tags per 10,000 words at the default cut-off |
 | `topic_tags_meta.json` | run | model, settings, counts, date |
-| `keyword_tags.csv` | match of the "immigration" keyword | as `topic_tags.csv` without topic and score, plus `keyword` and `sentence_char` (written by `scripts/keyword_tags.py`) |
+| `keyword_tags.csv` | match of a keyword ("immigration" or "migra", in `keyword`) | as `topic_tags.csv` without topic and score, plus `keyword` and `sentence_char` (written by `scripts/keyword_tags.py`) |
 
 ## Keyword count
 
-`scripts/keyword_tags.py` is a plain word search kept apart from the topics: every word starting with "immigra"
-(immigration, immigrant(s), immigrate(d)…; not emigration or migration), case-insensitive, in the same sentences as
+`scripts/keyword_tags.py` is a plain word search kept apart from the topics, with two keywords counted
+separately: "immigration", every word starting with "immigra" (immigration, immigrant(s), immigrate(d)…; not
+emigration or migration), and "migra", every word containing "migra" (migration, migrant, emigration, immigration…).
+Both are case-insensitive, in the same sentences as
 above (same text, same once-per-state rule, same grades). Every match counts, so a sentence with two matches counts
 twice. It needs no model and runs in seconds.
 

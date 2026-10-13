@@ -884,7 +884,12 @@
    "c3-framework-for-social-studies-rev0617.2_c633fc.pdf": "skip: near-duplicate copy of the same C3 Framework file",
    "c3-framework-for-social-studies-rev0617_3db023.pdf": "use"
   },
-  "issues": []
+  "issues": [
+   "The national C3 Framework is used for grades 9-12 only: Vermont's own grade documents cover K-8, so the framework's K-2, 3-5, 6-8 and K-12 text is left out."
+  ],
+  "grade_limits": {
+   "c3-framework-for-social-studies-rev0617_3db023.pdf": "9-12"
+  }
  },
  "VA": {
   "clusters": [

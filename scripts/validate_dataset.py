@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from check_labels import parse_units
+from assemble_clean import limit_labels
 OUT = ROOT / "data" / "validation"; OUT.mkdir(parents=True, exist_ok=True)
 C = ROOT / "data" / "clean"
 norm = lambda t: " ".join(t.split()).lower()
@@ -53,7 +54,10 @@ def main():
         used = [f for f, v in cfg[st]["files"].items() if v == "use"]
         if not used: report.append(f"{st}: no source files (skipped)"); continue
         units, unit_texts = {}, set()
+        left_out = set()   # units of a file used for some grades only (state config "grade_limits")
         for f in used:
+            lf = C / "labels" / st / f"{f}.labels.json"
+            if lf.exists(): left_out |= {(f, x) for x in limit_labels(cfg[st], f, json.loads(lf.read_text()).get("labels", []))[1]}
             for l in open(C / "units" / st / f"{f}.units.jsonl"):
                 u = json.loads(l); units[(f, u["id"])] = u
                 t = u["text"]
@@ -77,7 +81,7 @@ def main():
         alltext = norm("\n".join("\n".join(c or "" for c in r[3:]) for r in rows))
         missing = []
         for (f, uid), u in units.items():
-            if u.get("furniture"): continue
+            if u.get("furniture") or (f, int(uid[1:])) in left_out: continue
             probe = u["text"]
             if f.lower().endswith(".csv"):
                 fields = [x for x in probe.split(" | ")[1:-1] if not re.fullmatch(r"[\d.]+|KG|\d\d(-\d\d)?|KG-\d\d", x)]

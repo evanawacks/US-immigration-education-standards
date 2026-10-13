@@ -38,7 +38,7 @@ from pathlib import Path
 import numpy as np
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from assemble_clean import CLEAN, case_csv_text, doc_grade_context, label_grades, gtoken
+from assemble_clean import CLEAN, case_csv_text, doc_grade_context, label_grades, gtoken, limit_labels
 from check_labels import parse_units
 from course_vocab import standardize
 OUT = ROOT / "data" / "analysis"
@@ -107,7 +107,7 @@ def corpus(cats):
             uf = CLEAN / "units" / st / f"{fname}.units.jsonl"; lf = CLEAN / "labels" / st / f"{fname}.labels.json"
             if not uf.exists() or not lf.exists(): continue
             units = {int(json.loads(l)["id"][1:]): json.loads(l) for l in open(uf)}
-            labels = json.loads(lf.read_text()).get("labels", [])
+            labels, _ = limit_labels(cfg[st], fname, json.loads(lf.read_text()).get("labels", []))
             doc_grades, clamp = doc_grade_context(labels)
             which = {}
             for l in labels:

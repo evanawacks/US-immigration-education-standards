@@ -71,6 +71,17 @@ def doc_grade_context(labels):
     if clamp: doc_grades = clamp
     return doc_grades, clamp
 
+def limit_labels(c, fname, labels):
+    """(labels kept, unit ids dropped): a state config's "grade_limits" uses a file for some grades only, e.g. a
+    national framework for the grades the state's own documents leave out (VT: the C3 Framework for 9-12 only).
+    Text labeled for other grades, or for all grades, is left out of the rows and the analysis."""
+    lim = c.get("grade_limits", {}).get(fname)
+    if not lim: return labels, set()
+    L = gset(lim)
+    keep = [l for l in labels if str(l["grades"]) != "all" and gset(l["grades"]) <= L]
+    dropped = {x for l in labels if l not in keep for x in parse_units(l["units"])}
+    return keep, dropped - {x for l in keep for x in parse_units(l["units"])}
+
 def label_grades(l, doc_grades, clamp):
     G = doc_grades if str(l["grades"]) == "all" else gset(l["grades"])
     return clamp if clamp and G & clamp else G
@@ -99,7 +110,8 @@ def assemble_state(st, cfg, names):
         if not lf.exists(): state_issues.append(f"missing labels for {fname}"); continue
         d = json.loads(lf.read_text())
         doc_issues = [f"{fname}: {x}" for x in d.get("issues", [])]
-        labels = d.get("labels", [])
+        labels, dropped = limit_labels(c, fname, d.get("labels", []))
+        if dropped: state_issues.append(f"{fname}: used for grades {c['grade_limits'][fname]} only; {len(dropped)} units for other grades left out")
         doc_grades, clamp = doc_grade_context(labels)
         # course rows of this document
         course_rows = {}   # (title, grades) -> grades
@@ -130,7 +142,7 @@ def assemble_state(st, cfg, names):
         touched = set()
         for uid in sorted(units):
             u = units[uid]
-            if u.get("furniture"):
+            if u.get("furniture") or uid in dropped:
                 continue
             l = assigned.get(uid)
             if l is None:

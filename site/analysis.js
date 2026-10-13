@@ -802,6 +802,7 @@ async function chartsPage() {
     let peerN = 0;
     for (const i of keepAll) if (peerSet.has(D.tags.st[i])) { eraAll[D.eraOfTopic[D.tags.t[i]]] = (eraAll[D.eraOfTopic[D.tags.t[i]]] || 0) + 1; peerN++; }
     const pct = (a, b) => (b ? (a / b) * 100 : 0);
+    const plural = (n, w) => `${n} ${w}${n === 1 ? "" : "s"}`;
     const topTopic = (g) => { const c = {}; for (const i of mine) if (D.grades[D.tags.g[i]] === g) c[D.tags.t[i]] = (c[D.tags.t[i]] || 0) + 1; const t = Object.entries(c).sort((a, b) => b[1] - a[1])[0]; return t ? `${topicNo(+t[0])}. ${D.topicByNo[t[0]].topic} (${t[1]})` : "—"; };
     profBox.replaceChildren(
       h("div", { class: "card-tools" }, h("label", { for: "prof-st" }, "State"), picker, h("a", { href: `#/docs/${s}` }, "Documents"), h("span", { class: "muted small" }, "All grades and bands; the other filters above apply.")),
@@ -811,7 +812,7 @@ async function chartsPage() {
         tile(`${rank} of ${rates.length}`, "rank, tags per 10,000 words", `selected states average ${fmt1(avgRate)}`),
         D.keyword ? null : tile(`${topics.length}`, "distinct topics", `of ${D.topics.filter((t) => topicOn(t.no)).length} counted`),
         kwN.map(({ k, n }) => tile(fmt(n), `${k.word} keyword matches`, `${words ? fmt1((n / words) * 1e4) : "—"} per 10,000 words`)),
-        tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${groups.filter((g) => !gIsBand(g)).length} single grades, ${groups.filter(gIsBand).length} bands`)),
+        tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${plural(groups.filter((g) => !gIsBand(g)).length, "single grade")}, ${plural(groups.filter(gIsBand).length, "band")}`)),
       h("div", { class: "viz-line sm-big" }, statePanel(s, G, opt.smMeasure, { w: 1000, h: 300, big: true })),
       h("div", { class: "two-col prof-cols" },
         D.keyword ? null : h("section", {}, h("h3", {}, "Top topics"), topics.length ? h("ol", { class: "topic-list prof-top" }, topics.slice(0, 10).map(([t, n]) => h("li", {},

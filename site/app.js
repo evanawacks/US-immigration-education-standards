@@ -262,8 +262,10 @@ async function aboutPage() {
     h("ul", {},
       h("li", {}, "Every sentence of the labeled text was compared with the 106 immigration topics by a language model that runs locally (BAAI/bge-base-en-v1.5). The similarity score runs from 0 to 1."),
       h("li", {}, "The Topics and Charts pages count the standards text only. Tags in examples and backup text are shown in the document viewer for reference."),
-      h("li", {}, "A sentence gets the one topic it is closest to in meaning. It also gets every topic it names outright (the topic's name or one of its search terms), so two topics named in one sentence are both tagged."),
-      h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score."),
+      h("li", {}, "A passage gets the topic it is closest to in meaning. It also gets every topic it names outright (the topic's name or one of its search terms), so two topics named in one sentence are both tagged."),
+      h("li", {}, "Sentences are read in overlapping 12-word windows; each window gets its closest topic, and a topic counts once per sentence. In the viewer, the words behind each tag are underlined and numbered with their topic."),
+      h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score. “Skip a topic repeated within N words” counts a run of mentions of the same topic once."),
+      h("li", {}, "Distinct topics counts how many different topics appear, to show the span of what a state covers."),
       h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
     h("p", {}, "Project documentation, validation reports, and code: ", h("a", { href: repo, target: "_blank", rel: "noopener" }, "GitHub repository"), "."))));
 }
@@ -457,7 +459,7 @@ async function viewer(st, n, startUnit) {
         frag.append(h("div", { class: `lab-start ${L.cat}` }, h("i", { class: `cat-dot ${L.cat}` }), h("b", {}, L.cat), `grades ${L.grades}`, L.course ? `· ${L.course}` : null, L.section ? `· ${L.section}` : null));
         lastLabel = u.l;
       }
-      const el = h("div", { class: `u ${catOf(u)}`, "data-n": u.n }, h("span", { class: "uid" }, `u${u.n}`), u.t ? h("span", { class: "tag" }, `[${u.t}]`) : null, u.s);
+      const el = h("div", { class: `u ${catOf(u)}`, "data-n": u.n }, h("span", { class: "uid" }, `u${u.n}`), u.t ? h("span", { class: "tag" }, `[${u.t}]`) : null, h("span", { class: "utext" }, u.s));
       unitEls.set(u.n, el);
       frag.append(el);
     }
@@ -504,7 +506,31 @@ async function viewer(st, n, startUnit) {
   }
 
   // ----- pane: topics (immigration-topic tags of this document) -----
-  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, s]) => ({ u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], s }));
+  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, cs, ce, mt], k) => ({ k, u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], cs, ce, mt }));
+  /** Character span of a tag's matched words in its unit's text (null if they cannot be found). */
+  const spanOf = (tg) => {
+    const s = byN.get(tg.u)?.s || "";
+    if (tg.cs >= 0 && s.slice(tg.cs, tg.ce) === tg.mt) return [tg.cs, tg.ce];
+    const i = tg.mt ? s.indexOf(tg.mt) : -1;
+    return i >= 0 ? [i, i + tg.mt.length] : null;
+  };
+  /** Rewrite a unit's text with the matched words of its tags marked, each led by its topic number. */
+  function paintUnit(el, u, tags) {
+    const box = el.querySelector(".utext"), s = u.s;
+    const spans = tags.map((tg) => [spanOf(tg), tg]).filter((x) => x[0]);
+    if (!spans.length) { box.textContent = s; return; }
+    const cuts = [...new Set([0, s.length, ...spans.flatMap(([[a, b]]) => [a, b])])].sort((a, b) => a - b);
+    const parts = [];
+    for (let i = 0; i < cuts.length - 1; i++) {
+      const a = cuts[i], b = cuts[i + 1];
+      for (const [[x], tg] of spans) if (x === a) parts.push(h("sup", { class: "tno", "data-k": tg.k, title: `${tg.t}. ${topicName(tg.t)} · score ${tg.sc.toFixed(2)}` }, String(tg.t)));
+      const cover = spans.filter(([[x, y]]) => x <= a && y >= b).map(([, tg]) => tg.k);
+      parts.push(cover.length ? h("mark", { class: "tm", "data-k": cover.join(" ") }, s.slice(a, b)) : s.slice(a, b));
+    }
+    box.replaceChildren(...parts);
+  }
+  /** Highlight the words of one tag (k) in the clean text, or clear with null. */
+  const hot = (k) => textBody.querySelectorAll(".tm, .tno").forEach((m) => m.classList.toggle("hot", k != null && m.dataset.k.split(" ").includes(String(k))));
   const tcats = { standards: true, examples: true, backup: true, ...store.get("tcats", {}) };
   const shown = (tg) => tcats[tg.c] && tagPasses(tg);
   if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
@@ -535,10 +561,10 @@ async function viewer(st, n, startUnit) {
         h("summary", {}, h("span", { class: "mono" }, `${t}.`), ` ${topicName(t)} `, h("span", { class: "chip" }, fmt(list.length)),
           h("a", { class: "tp-more", href: `#/topics/${t}`, title: "See this topic in every state" }, "all states")),
         list.map((tg) => {
-          const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => select(tg.u, "topics") },
+          const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => { select(tg.u, "topics"); hot(tg.k); }, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null) },
             h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.sc.toFixed(2)),
             h("span", { class: "tp-chips" }, tg.c !== "standards" ? h("span", { class: `chip cat-${tg.c}` }, tg.c) : null, tg.m !== "meaning" ? h("span", { class: "chip" }, "named") : null),
-            h("span", { class: "tp-s" }, tg.s));
+            h("span", { class: "tp-s" }, "“", h("b", {}, tg.mt), "”"));
           if (!topicRows.has(tg.u)) topicRows.set(tg.u, []);
           topicRows.get(tg.u).push(row);
           return row;
@@ -549,8 +575,10 @@ async function viewer(st, n, startUnit) {
       el.querySelector(".tchips")?.remove();
       const mine = (tagsOfUnit.get(u) || []).filter(shown);
       el.classList.toggle("tagged", mine.length > 0);
-      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: "tchip", title: `${tg.s}\n${METHOD_LABEL[tg.m]}; top match score ${tg.top.toFixed(2)}` },
-        `${tg.t}. ${topicName(tg.t)}`, h("b", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? " · named" : ""))));
+      if (mine.length || el.querySelector(".tm")) paintUnit(el, byN.get(u), mine);
+      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: "tchip", "data-k": tg.k, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null),
+        title: `Matched: “${tg.mt}”\n${METHOD_LABEL[tg.m]}; this sentence's best score ${tg.top.toFixed(2)}` },
+        h("b", { class: "mono" }, String(tg.t)), ` ${topicName(tg.t)}`, h("span", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? " · named" : ""))));
     }
     for (const [u, els] of boxes) els.forEach((b) => b.classList.toggle("tagged", units.has(u)));
     if (selected) markTopics(selected, false);
@@ -619,7 +647,7 @@ async function viewer(st, n, startUnit) {
       h("span", {}, kept.length ? [`In ${kept.length} row${kept.length > 1 ? "s" : ""}: `, kept.slice(0, 12).flatMap((x, i) => [i ? ", " : "", h("a", { class: "rowlink", href: "#", onclick: (e) => { e.preventDefault(); dbRow = x[0]; buildDb(); markDb(u, true); } }, x[0]), h("span", { class: "muted" }, ` (${x[1]})`)]), kept.length > 12 ? ` and ${kept.length - 12} more` : ""]
         : dropped.length ? null : h("span", { class: "muted" }, "Not in any row's text")),
       dropped.length ? h("span", { class: "muted" }, `Repeat of text already in ${dropped.map((x) => x[0]).join(", ")} (kept once)`) : null,
-      utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: `#/topics/${tg.t}` }, `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
+      utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: `#/topics/${tg.t}` }, `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted" }, ` ← “${tg.mt}”`), h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
     const want = `#/doc/${st}/${n}/u${u.n}`;
     if (location.hash !== want) history.replaceState(null, "", want);
   }

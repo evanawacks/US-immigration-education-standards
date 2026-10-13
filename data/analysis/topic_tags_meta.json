@@ -1,6 +1,8 @@
 {
  "model": "BAAI/bge-base-en-v1.5",
- "score": "cosine similarity of sentence and topic embeddings",
+ "score": "cosine similarity of a text window and the topic embedding",
+ "window_words": 12,
+ "window_step": 6,
  "topic_text": "'<topic>: <description> Related terms: <search terms>.'",
  "score_floor": 0.6,
  "default_min_score": 0.7,
@@ -13,6 +15,6 @@
   "standards"
  ],
  "sentences": 120049,
- "tags": 18478,
- "run": "2026-10-12T23:49:23+00:00"
+ "tags": 31659,
+ "run": "2026-10-13T01:32:38+00:00"
 }

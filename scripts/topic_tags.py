@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
-"""Tag every sentence of the standards and examples text with immigration topics, using a local
-embedding model (no LLM).
+"""Tag the labeled text of every used document with immigration topics, using a local embedding
+model (no LLM).
 
 Rules (agreed with the project lead):
-  - The tagging unit is the sentence (each unit of a used document is split into sentences; bullet
-    items count as sentences).
-  - By meaning: each sentence gets the ONE topic whose embedding is most similar to it (top-1 cosine).
+  - Text is split into sentences (bullet items count as sentences), and each sentence is read in
+    overlapping windows of WINDOW words (step STRIDE); a sentence of WINDOW words or fewer is one window.
+  - By meaning: each window gets the ONE topic whose embedding is most similar to it (top-1 cosine),
+    so a passage close to two topics only counts for the closer one, while a sentence that moves
+    from one topic to another gets both. Within a sentence a topic is tagged once (its best window).
   - By name: a sentence also gets every topic whose name or search terms appear in it literally,
     so two topics named in the same sentence are both tagged.
+  - Each tag records the words that triggered it (the window, or the name found) with their place in
+    the unit text and in the document (word position), so repeats close together can be dropped later.
   - Every tag keeps its similarity score, so a minimum score can be applied later (on the website or
     in R) to cut false positives. Tags are stored down to a low floor (SCORE_FLOOR) or when named.
   - All labeled text of used documents is tagged (standards, examples and backup; never running
@@ -20,8 +24,9 @@ Rules (agreed with the project lead):
 
 Outputs (data/analysis/):
   topics.csv            the 106 topics, numbered in the order of data/reference/immigration_topics.csv
-  topic_tags.csv        one row per tag: sentence, where it is (state, file, unit), grades, course,
-                        category, topic, similarity score, and how it was found (meaning / name / both)
+  topic_tags.csv        one row per tag: sentence, the matched words, where it is (state, file, unit, character
+                        span in the unit, word position in the document), grades, course, category, topic,
+                        similarity score, and how it was found (meaning / name / both)
   text_words.csv        words and sentences counted per state x category x grade group (denominators)
   state_summary.csv     per state (standards text): words, tags and tags per 10,000 words at DEFAULT_MIN_SCORE
   topic_tags_meta.json  model, settings and run date
@@ -40,6 +45,7 @@ OUT = ROOT / "data" / "analysis"
 MODEL = "BAAI/bge-base-en-v1.5"
 SCORE_FLOOR = 0.60          # top-1 matches below this are not stored (named matches always are)
 DEFAULT_MIN_SCORE = 0.70    # default cut-off for summaries; the website lets you change it
+WINDOW, STRIDE = 12, 6      # words per window and step between windows
 PARTS = [("standards", "examples"), ("backup",)]   # tagged in two runs, each with its own similarity cache
 ANALYSIS_CATS = ("standards",)                      # what the summaries and website analysis count
 
@@ -68,15 +74,29 @@ def load_topics():
         topics.append({"no": i, "era": r["era"], "topic": r["topic"], "years": r["years"], "description": r["description"], "terms": terms})
     return topics
 
+GENERIC_TAIL = {"migration", "migrations", "movement", "act", "era", "crisis", "decision", "decisions"}
+
 def term_patterns(topics):
     pats = []
     for t in topics:
-        names = [t["topic"].split("(")[0].strip()] + t["terms"]
+        name = t["topic"].split("(")[0].strip()
+        names = [name] + t["terms"]
+        w = name.split()
+        if len(w) >= 3 and w[-1].lower() in GENERIC_TAIL: names.append(" ".join(w[:-1]))   # "Irish Potato Famine migration" -> "Irish Potato Famine"
         alts = sorted({re.escape(n) for n in names if len(n) >= 4}, key=len, reverse=True)
         pats.append(re.compile(r"(?<![A-Za-z])(?:" + "|".join(alts) + r")(?![A-Za-z])", re.I) if alts else None)
     return pats
 
 # ---------- corpus ----------
+def windows(sentence):
+    """[(char_start, char_end, text)] of the overlapping word windows of a sentence."""
+    toks = [(m.start(), m.end()) for m in re.finditer(r"\S+", sentence)]
+    n = len(toks)
+    if n <= WINDOW: return [(0, len(sentence), sentence)]
+    starts = list(range(0, n - WINDOW + 1, STRIDE))
+    if starts[-1] + WINDOW < n: starts.append(n - WINDOW)
+    return [(toks[a][0], toks[a + WINDOW - 1][1], sentence[toks[a][0]:toks[a + WINDOW - 1][1]]) for a in starts]
+
 def corpus(cats):
     cfg = json.loads((CLEAN / "state_config.json").read_text())
     seen, items, words = set(), [], collections.Counter()
@@ -92,20 +112,27 @@ def corpus(cats):
             which = {}
             for l in labels:
                 for x in parse_units(l["units"]): which.setdefault(x, l)
+            doc_words = 0   # running word count of the document (all non-header units), for word positions
             for n in sorted(units):
                 u = units[n]; l = which.get(n)
-                if u.get("furniture") or not l or l["cat"] not in cats: continue
+                if u.get("furniture"): continue
                 text = case_csv_text(u["text"]) if fname.lower().endswith(".csv") else u["text"]
+                before = doc_words; doc_words += len(text.split())
+                if not l or l["cat"] not in cats: continue
                 g = gtoken(label_grades(l, doc_grades, clamp))
                 course = " ".join(l["course"].split()) if l.get("course") else ""
+                cursor = 0
                 for si, s in enumerate(sentences(text), start=1):
+                    at = text.find(s, cursor)
+                    if at >= 0: cursor = at + len(s)
                     key = (st, l["cat"], g, " ".join(s.lower().split()))
                     if key in seen: continue
                     seen.add(key)
                     w = len(s.split())
                     words[(st, l["cat"], g)] += w; sents_n[(st, l["cat"], g)] += 1
                     items.append({"state": st, "file": fname, "unit": n, "sentence_no": si, "sentence": s, "category": l["cat"], "grades": g,
-                                  "course": standardize(course)[0] if course else "", "course_title": course, "words": w})
+                                  "course": standardize(course)[0] if course else "", "course_title": course, "words": w,
+                                  "at": at, "wpos": before + (len(text[:at].split()) if at >= 0 else 0)})
     return items, words, sents_n
 
 def main():
@@ -127,31 +154,47 @@ def main():
     for cats in PARTS:
         items, w, sn = corpus(cats)
         words.update(w); sents_n.update(sn); n_items += len(items)
-        print(f"{'/'.join(cats)}: {len(items):,} unique sentences, {sum(w.values()):,} words", flush=True)
+        wins = [windows(it["sentence"]) for it in items]
+        flat = [(k, j) for k, ws in enumerate(wins) for j in range(len(ws))]
+        print(f"{'/'.join(cats)}: {len(items):,} unique sentences, {len(flat):,} windows, {sum(w.values()):,} words", flush=True)
         cache = OUT / f"similarity_cache_{'_'.join(cats)}.npy"   # not committed; --reuse skips re-embedding
         sim_all = np.load(cache) if reuse and cache.exists() else None
-        if sim_all is not None and sim_all.shape != (len(items), len(topics)): sim_all = None
+        if sim_all is not None and sim_all.shape != (len(flat), len(topics)): sim_all = None
         if sim_all is None:
-            # embed in order of length (less padding per batch, much faster), keep results in corpus order
-            order = sorted(range(len(items)), key=lambda i: len(items[i]["sentence"]))
-            sim_all = np.zeros((len(items), len(topics)), dtype=np.float32)
-            B = 4096
+            # embed in order of length (less padding per batch, much faster), keep results in window order
+            texts = [wins[k][j][2] for k, j in flat]
+            order = sorted(range(len(texts)), key=lambda i: len(texts[i]))
+            sim_all = np.zeros((len(texts), len(topics)), dtype=np.float32)
+            B = 8192
             for b0 in range(0, len(order), B):
                 idx = order[b0:b0 + B]
-                sv = embed([items[i]["sentence"] for i in idx])
+                sv = embed([texts[i] for i in idx])
                 sv /= np.linalg.norm(sv, axis=1, keepdims=True)
                 sim_all[idx] = sv @ tvec.T
-                print(f"  embedded {min(b0 + B, len(order)):,}/{len(order):,} sentences", flush=True)
+                print(f"  embedded {min(b0 + B, len(order)):,}/{len(order):,} windows", flush=True)
             np.save(cache, sim_all)
-        for it, srow in zip(items, sim_all):
-            best = int(srow.argmax())
-            named = {i for i, p in enumerate(pats) if p and p.search(it["sentence"])}
-            tags = set(named) | ({best} if srow[best] >= SCORE_FLOOR else set())
-            for i in sorted(tags, key=lambda i: -srow[i]):
-                method = "both" if i == best and i in named else ("meaning" if i == best else "name")
+        row0 = 0
+        for it, ws in zip(items, wins):
+            sim = sim_all[row0:row0 + len(ws)]; row0 += len(ws)
+            sent = it["sentence"]
+            best_w = sim.argmax(axis=1)                       # each window's top topic
+            top_score = float(sim.max())
+            found = {}                                        # topic -> (score, char span in sentence, method)
+            for j, (a0, a1, _) in enumerate(ws):
+                t = int(best_w[j]); sc = float(sim[j, t])
+                if sc >= SCORE_FLOOR and (t not in found or sc > found[t][0]): found[t] = (sc, a0, a1, "meaning")
+            for i, p in enumerate(pats):
+                m = p.search(sent) if p else None
+                if not m: continue
+                sc = float(sim[:, i].max())
+                found[i] = (sc, m.start(), m.end(), "both" if i in found else "name")
+            for i, (sc, a0, a1, method) in sorted(found.items(), key=lambda x: -x[1][0]):
+                at = it["at"]
                 rows.append({**{k: it[k] for k in ("state", "file", "unit", "sentence_no", "category", "grades", "course", "course_title")},
                              "topic_no": topics[i]["no"], "topic": topics[i]["topic"], "era": topics[i]["era"],
-                             "score": round(float(srow[i]), 4), "method": method, "top_score": round(float(srow[best]), 4), "sentence": it["sentence"]})
+                             "score": round(sc, 4), "method": method, "top_score": round(top_score, 4),
+                             "matched": sent[a0:a1], "char_start": at + a0 if at >= 0 else "", "char_end": at + a1 if at >= 0 else "",
+                             "word_pos": it["wpos"] + len(sent[:a0].split()), "sentence": sent})
     OUT.mkdir(parents=True, exist_ok=True)
     with open(OUT / "topics.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["topic_no", "era", "topic", "years", "description", "search_terms"])
@@ -169,7 +212,8 @@ def main():
     with open(OUT / "state_summary.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["state", "text", "words", "tags", "tags_per_10k_words", "min_score"])
         for st, (n, t) in sorted(summ.items()): w.writerow([st, "+".join(ANALYSIS_CATS), n, t, round(t / n * 1e4, 2) if n else "", DEFAULT_MIN_SCORE])
-    (OUT / "topic_tags_meta.json").write_text(json.dumps({"model": MODEL, "score": "cosine similarity of sentence and topic embeddings",
+    (OUT / "topic_tags_meta.json").write_text(json.dumps({"model": MODEL, "score": "cosine similarity of a text window and the topic embedding",
+        "window_words": WINDOW, "window_step": STRIDE,
         "topic_text": "'<topic>: <description> Related terms: <search terms>.'", "score_floor": SCORE_FLOOR, "default_min_score": DEFAULT_MIN_SCORE,
         "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS),
         "sentences": n_items, "tags": len(rows), "run": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")}, indent=1))

@@ -188,17 +188,23 @@ def load_topic_tags(index):
     courses = sorted({r["course"] for r in tags if r["course"]})
     cidx = {c: i for i, c in enumerate(courses)}
     cat = {"standards": 0, "examples": 1, "backup": 2}
-    cols = {k: [] for k in ("st", "d", "u", "s", "c", "g", "t", "sc", "ts", "m", "co")}
-    text, per_doc = [], {}
+    # tag columns: x = index of the sentence in text.json, ms/ml = where the matched words sit in it, wp = word position in the document
+    cols = {k: [] for k in ("st", "d", "u", "s", "c", "g", "t", "sc", "ts", "m", "co", "x", "ms", "ml", "wp")}
+    text, tidx, per_doc = [], {}, {}
     for r in tags:
         d = fileno.get((r["state"], r["file"]), -1)
+        sent = r["sentence"]
+        if sent not in tidx: tidx[sent] = len(text); text.append(sent)
+        ms = sent.find(r["matched"]) if r.get("matched") else -1
         vals = dict(st=sidx[r["state"]], d=d, u=int(r["unit"]), s=int(r["sentence_no"]), c=cat[r["category"]], g=gidx[r["grades"]], t=int(r["topic_no"]),
-                    sc=round(float(r["score"]) * 1000), ts=round(float(r["top_score"]) * 1000), m=METHODS[r["method"]], co=cidx.get(r["course"], -1))
+                    sc=round(float(r["score"]) * 1000), ts=round(float(r["top_score"]) * 1000), m=METHODS[r["method"]], co=cidx.get(r["course"], -1),
+                    x=tidx[sent], ms=ms, ml=len(r["matched"]) if ms >= 0 else 0, wp=int(r["word_pos"]))
         for k, v in vals.items(): cols[k].append(v)
-        text.append(r["sentence"])
     for r in all_tags:
+        cs = int(r["char_start"]) if r.get("char_start") not in (None, "") else -1
+        ce = int(r["char_end"]) if r.get("char_end") not in (None, "") else -1
         per_doc.setdefault((r["state"], r["file"]), []).append([int(r["unit"]), int(r["sentence_no"]), int(r["topic_no"]), round(float(r["score"]) * 1000),
-                                                               round(float(r["top_score"]) * 1000), METHODS[r["method"]], cat[r["category"]], r["sentence"]])
+                                                               round(float(r["top_score"]) * 1000), METHODS[r["method"]], cat[r["category"]], cs, ce, r["matched"]])
     wcols = {"st": [sidx[r["state"]] for r in words], "c": [cat[r["category"]] for r in words], "g": [gidx[r["grades"]] for r in words],
              "w": [int(r["words"]) for r in words], "ns": [int(r["sentences"]) for r in words]}
     T = OUT / "topics"

@@ -16,25 +16,32 @@ locally (no LLM, no API).
    rows is counted once.
 3. **Grades.** Each sentence keeps the grades its document assigns to it (the labels used to build the database). A
    band such as `04-06` stays a band; it is never split into single grades or counted once per grade.
-4. **Scoring.** The model (`BAAI/bge-base-en-v1.5`, via `fastembed`) turns each sentence and each topic into an
+4. **Windows.** Each sentence is read in overlapping windows of 12 words (one every 6 words); a sentence of 12 words or
+   fewer is one window. This lets a sentence that moves from one topic to another (for example from immigration waves
+   to the Irish potato famine) get both.
+5. **Scoring.** The model (`BAAI/bge-base-en-v1.5`, via `fastembed`) turns each window and each topic into an
    embedding. A topic is represented by `"<topic>: <description> Related terms: <search terms>."`. The score is the
    cosine similarity between the two (higher = closer in meaning).
-5. **Tags.**
-   - *By meaning*: each sentence gets the **one** topic it is most similar to (its top match), if the score is at
-     least 0.60. A sentence that is close to two topics only counts for the closer one.
-   - *By name*: a sentence also gets every topic whose name or search terms appear in it word for word, so two topics
-     named in the same sentence are both tagged.
-   - `method` says which rule tagged it: `meaning`, `name`, or `both`.
-6. **Cut-off.** Every tag keeps its `score`, and `top_score` is the sentence's best score over all topics. Weak matches
-   are removed by choosing a minimum score (the website has a slider, default 0.70). Named tags can be kept whatever
-   their score.
+6. **Tags.**
+   - *By meaning*: each window gets the **one** topic it is most similar to, if the score is at least 0.60. A window
+     close to two topics only counts for the closer one. Within a sentence a topic is tagged once, from its best window.
+   - *By name*: a sentence also gets every topic whose name or search terms appear in it word for word (a topic name
+     ending in a generic word such as "migration" or "Act" also matches without it, e.g. "Irish Potato Famine"), so two
+     topics named in the same sentence are both tagged.
+   - `method` says which rule tagged it: `meaning`, `name`, or `both`. `matched` holds the words that triggered the tag
+     (the window, or the name found), `char_start`/`char_end` their place in the unit text, and `word_pos` their place
+     in the document (words from the start of the document).
+7. **Cut-off and repeats.** Every tag keeps its `score`, and `top_score` is the sentence's best score over all topics.
+   Weak matches are removed by choosing a minimum score (the website has a slider, default 0.70); named tags can be
+   kept whatever their score. The website can also skip a tag when the same topic was already tagged within N words
+   (default 25) before it in the same document, using `word_pos`.
 
 ## Files
 
 | File | One row per | Columns |
 |---|---|---|
 | `topics.csv` | topic (numbered 1-106 in the order of the reference list) | topic_no, era, topic, years, description, search_terms |
-| `topic_tags.csv` | tag | state, file, unit, sentence_no, category, grades, course, course_title, topic_no, topic, era, score, method, top_score, sentence |
+| `topic_tags.csv` | tag | state, file, unit, sentence_no, category, grades, course, course_title, topic_no, topic, era, score, method, top_score, matched, char_start, char_end, word_pos, sentence |
 | `text_words.csv` | state × category × grade group | words, sentences (denominators for rates; use the standards rows) |
 | `state_summary.csv` | state | standards words, tags, tags per 10,000 words at the default cut-off |
 | `topic_tags_meta.json` | run | model, settings, counts, date |
@@ -46,7 +53,7 @@ the website's side-by-side viewer.
 
 ```
 pip install fastembed
-python3 scripts/topic_tags.py           # about 1.5 hours on 4 CPU cores; caches the similarity matrices
+python3 scripts/topic_tags.py           # about 2 hours on 4 CPU cores; caches the similarity matrices
 python3 scripts/topic_tags.py --reuse   # only re-applies the tagging rules (seconds)
 ```
 

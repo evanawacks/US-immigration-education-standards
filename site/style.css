@@ -237,6 +237,8 @@ table.ledger { border-collapse: collapse; width: 100%; font-size: 0.88rem; }
 .score-field { min-width: 0; }
 .score-row { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
 .score-row input[type="range"] { width: 150px; accent-color: var(--accent); }
+.num-in { width: 4.5em; font-family: var(--font-mono); }
+mark.match { background: var(--tag-bg); color: inherit; border-bottom: 2px solid var(--tag); }
 .small { font-size: 0.8rem; }
 button.link { border: 0; background: none; padding: 0 4px; color: var(--accent); font-weight: 500; font-size: 0.78rem; text-decoration: underline; }
 
@@ -334,7 +336,13 @@ table.mtx { border-collapse: separate; border-spacing: 2px; font-size: 0.78rem; 
 /* topic tags in the viewer */
 .tchips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 3px; }
 .tchip { font-size: 0.72rem; padding: 1px 7px; border-radius: 3px; background: var(--tag-bg); color: var(--ink); border: 1px solid var(--tag); display: inline-flex; gap: 5px; align-items: baseline; }
-.tchip b { font-weight: 500; color: var(--tag); }
+.tchip b { font-weight: 700; color: var(--tag); }
+.tchip .mono { color: var(--muted); }
+.tm { background: var(--tag-bg); color: inherit; border-bottom: 2px solid var(--tag); padding: 0 1px; }
+.tno { font: 600 0.62rem var(--font-mono); color: var(--tag); margin: 0 1px 0 2px; }
+.tm.hot { background: var(--hl); color: var(--hl-ink); }
+.tno.hot { color: var(--ink); }
+.tp-s b { font-weight: 600; }
 .tmarks-on .u.tagged { box-shadow: inset -3px 0 0 var(--tag); }
 .tmarks-on .box.tagged { outline: 2px dashed var(--tag); outline-offset: 1px; }
 .tmarks-on .docx-wrap .tagged, .tmarks-on .grid-wrap tr.tagged td:first-of-type { box-shadow: inset 3px 0 0 var(--tag); }

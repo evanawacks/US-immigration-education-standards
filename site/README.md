@@ -17,8 +17,9 @@ every line of it against the source document.
   the viewer's Topics pane.
 - **Topics** (`#/topics`): the 106 immigration topics, numbered and grouped by era, with how many sentences each is
   tagged in. Open a topic to see every sentence, by state and document, linked to the viewer.
-- **Charts** (`#/charts`): filters for states, regions, grade (a single grade leaves bands out), topics and the
-  minimum similarity score; a map (tags per 10,000 words or count; linear, log, or quintile categories),
+- **Charts** (`#/charts`): filters for states, regions, grade (a single grade leaves bands out), topics, the
+  minimum similarity score, and an option to skip a topic repeated within N words (default 25) in the same document;
+  tag counts, tags per 10,000 words, or distinct topics; a map (tags per 10,000 words or count; linear, log, or quintile categories),
   a state × era (or topic) heat map of how each state's tags are distributed, and a line graph over grades (bands as
   their own points) for all selected states, by region, or for up to 8 states, as state averages or raw totals.
 - In the viewer, the **Topics** pane lists every topic tagged in the document, with each sentence and its score;

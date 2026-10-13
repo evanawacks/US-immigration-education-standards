@@ -662,6 +662,9 @@ async function chartsPage() {
     for (const i of keep) { const k = `${D.states[D.tags.st[i]]}|${D.grades[D.tags.g[i]]}`; cnt[k] = (cnt[k] || 0) + 1; (tset[k] ||= new Set()).add(D.tags.t[i]); }
     return { cnt, tset, words: byStateGrade };
   }
+  /** The single grades a band covers that the same row (state) also wrote text for on their own: "overlap". */
+  const bandOverlap = (words, r, g) => gSpan(g).filter((p) => Object.keys(words).some((k) => { const [r2, g2] = k.split("|"); return r2 === r && !gIsBand(g2) && words[k] > 0 && gPos(g2) === p; }));
+  const overlapNote = (words, r, g) => { const o = bandOverlap(words, r, g); return o.length ? [["", `overlaps grade${o.length > 1 ? "s" : ""} ${o.map((p) => AXIS_GRADES[p]).join(", ")}, also written on ${o.length > 1 ? "their" : "its"} own: those grades are counted in both`]] : []; };
   const smVal = (G, k, m) => (m === "rate" ? (G.words[k] ? ((G.cnt[k] || 0) / G.words[k]) * 1e4 : 0) : m === "distinct" ? G.tset[k]?.size || 0 : G.cnt[k] || 0);
   const smUnit = { count: "tags", rate: "tags per 10,000 words", distinct: "distinct topics" };
   /** One state's grades: x = grade (Pre-K..12); a single grade is a point; a band is a point at each grade it covers, at
@@ -684,7 +687,7 @@ async function chartsPage() {
       span.forEach((p) => grp.append(svg("circle", { cx: xs(p), cy: ys(v), r: big ? (band ? 5 : 6) : band ? 3.2 : 4, class: `smdot ${b.cls(v)}` })));
       const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, D.stateNames[s]], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
         [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
-        [`${Math.round((v / top) * 100)}%`, `of ${s}'s highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
+        [`${Math.round((v / top) * 100)}%`, `of ${s}'s highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"], ...overlapNote(G.words, s, g)] : [])]);
       onPoint(grp, show); grp.addEventListener("pointerleave", tip.hide);
       grp.addEventListener("focus", (e) => { if (!document.activeElement?.matches(":focus-visible")) return; if (!document.activeElement?.matches(":focus-visible")) return; const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
       out.push(grp);
@@ -759,7 +762,7 @@ async function chartsPage() {
         span.forEach((p) => grp.append(svg("circle", { cx: xs(p), cy, r: band ? 3.6 : 4.6, class: `smdot ${b.cls(v)}` })));
         const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, row.label], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
           [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
-          [`${Math.round((v / top1) * 100)}%`, `of the row's highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
+          [`${Math.round((v / top1) * 100)}%`, `of the row's highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"], ...(row.state ? overlapNote(G.words, row.key, g) : [])] : [])]);
         onPoint(grp, show); grp.addEventListener("pointerleave", tip.hide);
         grp.addEventListener("focus", () => { if (!document.activeElement?.matches(":focus-visible")) return; const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
         out.push(grp);
@@ -789,6 +792,8 @@ async function chartsPage() {
     const topics = Object.entries(byTopic).sort((a, b) => b[1] - a[1]);
     const groups = D.grades.filter((g) => W.byStateGrade[`${s}|${g}`] > 0).sort((a, b) => gSortKey(a) - gSortKey(b));
     const bandWords = groups.filter(gIsBand).reduce((a, g) => a + W.byStateGrade[`${s}|${g}`], 0);
+    const overBands = groups.filter((g) => gIsBand(g) && bandOverlap(W.byStateGrade, s, g).length);   // bands over grades also written singly
+    const overWords = overBands.reduce((a, g) => a + W.byStateGrade[`${s}|${g}`], 0);
     const kwN = D.keyword ? [] : KL.map(({ k, D: K }) => ({ k, n: filteredTags(K, { ignoreGrade: true, ignoreStates: true }).filter((i) => K.tags.st[i] === si).length }));
     const files = idx.states[s]?.files || [];
     const tile = (v, l, sub) => h("div", { class: "tile" }, h("b", {}, v), h("span", {}, l), sub ? h("span", { class: "muted small" }, sub) : null);
@@ -812,7 +817,8 @@ async function chartsPage() {
         tile(`${rank} of ${rates.length}`, "rank, tags per 10,000 words", `selected states average ${fmt1(avgRate)}`),
         D.keyword ? null : tile(`${topics.length}`, "distinct topics", `of ${D.topics.filter((t) => topicOn(t.no)).length} counted`),
         kwN.map(({ k, n }) => tile(fmt(n), `${k.word} keyword matches`, `${words ? fmt1((n / words) * 1e4) : "—"} per 10,000 words`)),
-        tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${plural(groups.filter((g) => !gIsBand(g)).length, "single grade")}, ${plural(groups.filter(gIsBand).length, "band")}`)),
+        tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${plural(groups.filter((g) => !gIsBand(g)).length, "single grade")}, ${plural(groups.filter(gIsBand).length, "band")}`),
+        tile(`${Math.round(pct(overWords, words))}%`, "of its words in bands that overlap its single grades", overBands.length ? `${overBands.map(gLabel).join(", ")}: those grades are counted twice` : "no grade is counted twice")),
       h("div", { class: "viz-line sm-big" }, statePanel(s, G, opt.smMeasure, { w: 1000, h: 300, big: true })),
       h("div", { class: "two-col prof-cols" },
         D.keyword ? null : h("section", {}, h("h3", {}, "Top topics"), topics.length ? h("ol", { class: "topic-list prof-top" }, topics.slice(0, 10).map(([t, n]) => h("li", {},
@@ -853,7 +859,7 @@ async function chartsPage() {
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "Grades and bands by state"),
       h("div", { class: "card-tools" }, h("label", { for: "sm-m" }, "Measure"), sel("sm-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "smMeasure"),
         h("label", { for: "sm-r" }, "Rows"), sel("sm-r", [["states", "States"], ["byRegion", "States, grouped by region"], ["regions", "Regions (states added up)"]], "smRows"))),
-      h("p", { class: "muted small" }, "A row per selected state (or region), grades across. A dot is text written for a single grade; a band (for example K–2 or 9–12) is a line with a dot at each grade it covers, on its own lane under the row's single grades. Darker dots are higher relative to the row's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
+      h("p", { class: "muted small" }, "A row per selected state (or region), grades across. A dot is text written for a single grade; a band (for example K–2 or 9–12) is a line with a dot at each grade it covers, on its own lane under the row's single grades. Where a state wrote text for single grades and also for a band over them (for example Grade 1 and K–2), both are shown as written, so that grade appears twice; the band's hover says which grades it overlaps, and the state summary gives the share of words involved. Darker dots are higher relative to the row's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
       h("div", { class: "legend" }, h("span", { class: "lg" }, h("i", { class: "sw q0" }), "no tags"), [1, 3, 5, 7].map((q, i) => h("span", { class: "lg" }, h("i", { class: `sw q${q}` }), ["low", "", "", "highest in the row"][i])), h("span", { class: "lg" }, h("i", { class: "lk band-key" }), "band")),
       smBox),
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "State summary")), profBox)));

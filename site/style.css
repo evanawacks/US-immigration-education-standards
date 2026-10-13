@@ -50,6 +50,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }   /* a class's display (e.g. .viz-tip's flex) must never undo hidden */
 html, body { height: 100%; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 15px/1.5 var(--font-ui); display: flex; flex-direction: column; }
 a { color: var(--accent); }

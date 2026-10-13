@@ -270,6 +270,7 @@ function tooltip() {
     window.addEventListener("resize", hideNow);
     document.documentElement.addEventListener("pointerleave", (e) => e.pointerType !== "touch" && hideNow());
     window.addEventListener("blur", hideNow);
+    document.addEventListener("keydown", (e) => e.key === "Escape" && hideNow());
   }
   return {
     show(e, rows) {
@@ -284,7 +285,10 @@ function tooltip() {
         if (tip.hidden) { clearInterval(tip.watch); return; }
         if (!tip.owner?.isConnected || (!tip.touch && tip.owner && !tip.owner.matches(":hover"))) { tip.hidden = true; clearInterval(tip.watch); }
       }, 250);
-      const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8), y = Math.min(e.clientY + 14, window.innerHeight - tip.offsetHeight - 8);
+      // beside the pointer, flipped to the other side near an edge, so it never sits under the pointer
+      const W = tip.offsetWidth, H = tip.offsetHeight;
+      const x = e.clientX + 14 + W + 8 <= window.innerWidth ? e.clientX + 14 : Math.max(8, e.clientX - 14 - W);
+      const y = e.clientY + 14 + H + 8 <= window.innerHeight ? e.clientY + 14 : Math.max(8, e.clientY - 14 - H);
       tip.style.left = `${x}px`; tip.style.top = `${y}px`;
     },
     hide(e) { if (e?.pointerType !== "touch") tip.hidden = true; },   // a finger lifting is not leaving: a tap elsewhere or a scroll hides it

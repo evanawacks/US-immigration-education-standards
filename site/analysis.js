@@ -65,6 +65,13 @@ const gIsBand = (g) => /[-+]/.test(g);
 const gNum = (x) => (x === "PK" ? -1 : x === "K" ? 0 : +x);
 const gLabel = (g) => g.split(/([-+])/).map((p) => (p === "-" ? "–" : p === "+" ? ", " : p === "PK" ? "Pre-K" : p.replace(/^0(\d)/, "$1"))).join("");
 const gSortKey = (g) => { const p = g.split(/[-+]/); return gNum(p[0]) * 100 + gNum(p[p.length - 1]); };
+/** Positions on a PK..12 axis (PK = 0, K = 1, grade 1 = 2, ...) of the grades a grade group covers: "K-02" -> [1, 2, 3]. */
+const gPos = (x) => gNum(x) + 1;
+function gSpan(g) {
+  if (g.includes("-")) { const [a, b] = g.split("-").map(gPos); return Array.from({ length: b - a + 1 }, (_, i) => a + i); }
+  return g.split("+").map(gPos);
+}
+const AXIS_GRADES = ["Pre-K", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 
 // ---------- shared filters (one set for both tabs; score settings remembered) ----------
 const AF = {
@@ -402,12 +409,13 @@ async function chartsPage() {
   const srcField = srcSel ? h("div", { class: "field" }, h("label", { for: "af-src" }, "Count"), srcSel) : null;
   const geo = await fetch("site/vendor/states-albers-10m.json").then((r) => r.json());
   const tip = tooltip();
-  const opt = { mapMeasure: "rate", mapScale: "linear", mtxValue: "share", mtxCols: "eras", lineMeasure: "count", lineAgg: "avg", lineBy: "combined", compare: new Set() };
+  const opt = { mapMeasure: "rate", mapScale: "linear", mtxValue: "share", mtxCols: "eras", lineMeasure: "count", lineAgg: "avg", lineBy: "combined", compare: new Set(),
+    smMeasure: "count", smScale: "own", profile: store.get("profile", null) };
 
   const stat = h("p", { class: "stats" });
   const mapBox = h("div", { class: "viz-map" }), mapLegend = h("div", {}), mapTable = h("div", { class: "table-wrap", hidden: true });
   const mtxBox = h("div", { class: "viz-mtx table-wrap" });
-  const lineBox = h("div", { class: "viz-line" }), bandBox = h("div", { class: "viz-line viz-bands" }), lineLegend = h("div", {}), lineTable = h("div", { class: "table-wrap", hidden: true });
+  const lineBox = h("div", { class: "viz-line" }), smBox = h("div", { class: "sm-grid" }), profBox = h("div", { class: "profile" }), lineLegend = h("div", {}), lineTable = h("div", { class: "table-wrap", hidden: true });
   const sel = (id, options, key) => {
     const s = h("select", { id }, options.map(([v, l]) => h("option", { value: v }, l)));
     s.value = opt[key]; s.addEventListener("change", () => { opt[key] = s.value; draw(); }); return s;
@@ -430,7 +438,11 @@ async function chartsPage() {
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });
-    drawLine(filteredTags(D, { ignoreGrade: true }), all.byStateGrade, effStates(D).filter((s) => all.byState[s] > 0));
+    const effAll = effStates(D).filter((s) => all.byState[s] > 0);
+    const keepAll = filteredTags(D, { ignoreGrade: true });
+    drawLine(keepAll, all.byStateGrade, effAll);
+    drawStates(keepAll, all.byStateGrade, effAll);
+    drawProfile(effAll);
   }
 
   // ----- map -----
@@ -503,7 +515,7 @@ async function chartsPage() {
     mtxBox.replaceChildren(table, legendBins(b, fv, opt.mtxValue === "share" ? "Each row adds up to 100%" : ""));
   }
 
-  // ----- line graph over single grades, and a dot chart for grade bands -----
+  // ----- line graph over single grades (band values go in its table; each state's bands are drawn below) -----
   function drawLine(keep, byStateGrade, eff) {
     let series;
     if (opt.lineBy === "region") series = REGION_NAMES.filter((r) => AF.regions.has(r)).map((r) => ({ name: r, states: eff.filter((s) => REGION_OF[s] === r) })).filter((x) => x.states.length);
@@ -544,7 +556,11 @@ async function chartsPage() {
     const tipRows = (title, key, i) => [[title, meas], ...data.map((d) => { const q = d[key][i]; return [q ? fmt1(q.v) : "—", q ? `${d.label || d.name} · ${fmt(q.tags)} tags, ${q.states} state${q.states > 1 ? "s" : ""}` : `${d.label || d.name} · no text`, d.color]; })];
 
     // line chart
-    const W = 1000, H = 360, L = 56, R = 130, T = 16, Bm = 44;
+    // states in these lines that wrote a grade only inside a band (e.g. 3-5): they are not in that grade's point
+    const lineStates = [...new Set(data.flatMap((d) => d.states))];
+    const bandOnly = singles.map((gr) => lineStates.filter((s) => !(byStateGrade[`${s}|${gr}`] > 0)
+      && Object.keys(byStateGrade).some((k) => { const [s2, g2] = k.split("|"); return s2 === s && gIsBand(g2) && byStateGrade[k] > 0 && gSpan(g2).includes(gPos(gr)); })));
+    const W = 1000, H = 384, L = 76, R = 130, T = 16, Bm = 68;
     const xs = (i) => L + (singles.length > 1 ? (i * (W - R - L)) / (singles.length - 1) : (W - R - L) / 2);
     const ys = (v) => T + (H - T - Bm) * (1 - v / yMax);
     const g = [];
@@ -552,6 +568,10 @@ async function chartsPage() {
       g.push(svg("line", { x1: L, x2: W - R, y1: ys(v), y2: ys(v), class: k ? "grid" : "axis" }), svg("text", { x: L - 8, y: ys(v) + 4, class: "tick", "text-anchor": "end" }, fmt1(v)));
     }
     singles.forEach((gr, i) => g.push(svg("text", { x: xs(i), y: H - Bm + 18, class: "tick", "text-anchor": "middle" }, gLabel(gr))));
+    if (bandOnly.some((x) => x.length)) {
+      g.push(svg("text", { x: L - 8, y: H - Bm + 38, class: "tick band-only", "text-anchor": "end" }, "band only"));
+      bandOnly.forEach((x, i) => x.length && g.push(svg("text", { x: xs(i), y: H - Bm + 38, class: "tick band-only", "text-anchor": "middle" }, `+${x.length}`)));
+    }
     g.push(svg("text", { x: (L + W - R) / 2, y: H - 6, class: "axis-title", "text-anchor": "middle" }, "Grade (text written for that grade only)"));
     const marks = [], labels = [];
     for (const d of data) {
@@ -573,34 +593,124 @@ async function chartsPage() {
       const x = pt.matrixTransform(root.getScreenCTM().inverse()).x;
       let i = 0; singles.forEach((_, k) => { if (Math.abs(xs(k) - x) < Math.abs(xs(i) - x)) i = k; });
       cross.setAttribute("x1", xs(i)); cross.setAttribute("x2", xs(i)); cross.setAttribute("visibility", "visible");
-      tip.show(e, tipRows(`Grade ${gLabel(singles[i])}`, "pts", i));
+      const bo = bandOnly[i];
+      tip.show(e, [...tipRows(`Grade ${gLabel(singles[i])}`, "pts", i), ...(bo.length ? [[`${bo.length} state${bo.length > 1 ? "s" : ""}`, `not in this point: grade ${gLabel(singles[i])} only inside a band (${bo.slice(0, 8).join(", ")}${bo.length > 8 ? "…" : ""})`]] : [])]);
     });
     hit.addEventListener("pointerleave", () => { cross.setAttribute("visibility", "hidden"); tip.hide(); });
     lineBox.replaceChildren(singles.length ? root : h("p", { class: "muted" }, "No text written for single grades in the selected states."));
-
-    // band dot chart: one row per band, as the states wrote them
-    const rowH = 26, BW = 1000, BL = 120, BR = 40, BT = 8;
-    const BH = BT + bands.length * rowH + 30;
-    const bMax = 1.1 * Math.max(1e-9, ...data.flatMap((d) => d.bpts.filter(Boolean).map((p) => p.v)));   // its own scale, 10% above the highest point
-    const bxs = (v) => BL + (BW - BL - BR) * (v / bMax);
-    const bg = [];
-    for (const [k, v] of niceTicks(bMax).entries()) { bg.push(svg("line", { x1: bxs(v), x2: bxs(v), y1: BT, y2: BH - 26, class: k ? "grid" : "axis" }), svg("text", { x: bxs(v), y: BH - 10, class: "tick", "text-anchor": "middle" }, fmt1(v))); }
-    const brows = bands.map((gr, i) => {
-      const y = BT + i * rowH + rowH / 2;
-      const grp = svg("g", { class: "brow" }, svg("rect", { x: 0, y: y - rowH / 2, width: BW, height: rowH, class: "hit" }),
-        svg("text", { x: BL - 10, y: y + 4, class: "tick", "text-anchor": "end" }, gLabel(gr)),
-        svg("line", { x1: BL, x2: BW - BR, y1: y, y2: y, class: "grid" }),
-        data.map((d) => { const q = d.bpts[i]; return q ? svg("circle", { cx: bxs(q.v), cy: y + (data.length > 1 ? (d.si - (data.length - 1) / 2) * 3 : 0), r: 5, class: `dot ${d.cls}` }) : null; }));
-      grp.addEventListener("pointermove", (e) => tip.show(e, tipRows(`Band ${gLabel(gr)}`, "bpts", i)));
-      grp.addEventListener("pointerleave", tip.hide);
-      return grp;
-    });
-    bandBox.replaceChildren(bands.length ? svg("svg", { viewBox: `0 0 ${BW} ${BH}`, role: "img", "aria-label": "Immigration-topic tags by grade band" }, bg, brows) : h("p", { class: "muted" }, "No grade-band text in the selected states."));
 
     lineLegend.replaceChildren(h("div", { class: "legend" }, data.length > 1 ? data.map((d) => h("span", { class: "lg" }, h("i", { class: `lk ${d.cls}` }), d.label || d.name)) : h("span", { class: "muted" }, `${eff.length} states combined`),
       opt.lineBy === "state" && eff.length > 8 ? h("span", { class: "muted" }, "Up to 8 states at a time") : null));
     lineTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, h("th", {}, "Series"), [...singles, ...bands].map((gr) => h("th", { class: "num" }, gLabel(gr))))),
       h("tbody", {}, data.map((d) => h("tr", {}, h("td", {}, d.label || d.name), [...d.pts, ...d.bpts].map((q) => h("td", { class: "num" }, q ? fmt1(q.v) : "—")))))));
+  }
+
+  // ----- per-state charts: one per state, every grade and band as the state wrote it -----
+  /** For each "state|grade group": tags, distinct topics (Set) and words, from tag indices keep (all grades). */
+  function gradeStats(keep, byStateGrade) {
+    const cnt = {}, tset = {};
+    for (const i of keep) { const k = `${D.states[D.tags.st[i]]}|${D.grades[D.tags.g[i]]}`; cnt[k] = (cnt[k] || 0) + 1; (tset[k] ||= new Set()).add(D.tags.t[i]); }
+    return { cnt, tset, words: byStateGrade };
+  }
+  const smVal = (G, k, m) => (m === "rate" ? (G.words[k] ? ((G.cnt[k] || 0) / G.words[k]) * 1e4 : 0) : m === "distinct" ? G.tset[k]?.size || 0 : G.cnt[k] || 0);
+  const smUnit = { count: "tags", rate: "tags per 10,000 words", distinct: "distinct topics" };
+  /** One state's grades: x = grade (Pre-K..12); a single grade is a point; a band is a point at each grade it covers, at
+      the band's value, joined by a line. Point color = value relative to the state's own highest value. */
+  function statePanel(s, G, m, { w = 330, h: H = 150, yMax = null, big = false } = {}) {
+    const groups = D.grades.filter((g) => G.words[`${s}|${g}`] > 0).sort((a, b) => gSpan(b).length - gSpan(a).length || gSortKey(a) - gSortKey(b));
+    const vals = groups.map((g) => smVal(G, `${s}|${g}`, m));
+    const top = Math.max(1e-9, ...vals);
+    const ymax = yMax || 1.1 * top;
+    const b = bins(vals, "linear");
+    const L = big ? 52 : 34, R = 10, T = 10, Bm = big ? 30 : 22;
+    const xs = (p) => L + (p * (w - L - R)) / 13, ys = (v) => T + (H - T - Bm) * (1 - Math.min(v, ymax) / ymax);
+    const out = [];
+    for (const [k, v] of niceTicks(ymax).entries()) if (big || k === 0 || v === niceTicks(ymax).at(-1)) out.push(svg("line", { x1: L, x2: w - R, y1: ys(v), y2: ys(v), class: k ? "grid" : "axis" }), svg("text", { x: L - 5, y: ys(v) + 4, class: "tick", "text-anchor": "end" }, fmt1(v)));
+    AXIS_GRADES.forEach((lab, p) => (big || p % 2 === 1 || p === 0) && out.push(svg("text", { x: xs(p), y: H - Bm + (big ? 18 : 14), class: "tick", "text-anchor": "middle" }, big ? lab : lab.replace("Pre-K", "PK"))));
+    groups.forEach((g, gi) => {
+      const k = `${s}|${g}`, v = vals[gi], span = gSpan(g), band = span.length > 1;
+      const grp = svg("g", { class: `smg${band ? " band" : ""}`, tabindex: big ? "0" : null });
+      if (band) grp.append(svg("path", { d: span.map((p, j) => `${j ? "L" : "M"}${xs(p).toFixed(1)},${ys(v).toFixed(1)}`).join(""), class: "band-ln" }));
+      span.forEach((p) => grp.append(svg("circle", { cx: xs(p), cy: ys(v), r: big ? (band ? 5 : 6) : band ? 3.2 : 4, class: `smdot ${b.cls(v)}` })));
+      const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, D.stateNames[s]], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
+        [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
+        [`${Math.round((v / top) * 100)}%`, `of ${s}'s highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
+      grp.addEventListener("pointermove", show); grp.addEventListener("pointerleave", tip.hide);
+      grp.addEventListener("focus", (e) => { const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
+      out.push(grp);
+    });
+    return svg("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": `${D.stateNames[s]}: ${smUnit[m]} by grade and band` }, out);
+  }
+  function drawStates(keep, byStateGrade, eff) {
+    const G = gradeStats(keep, byStateGrade), m = opt.smMeasure;
+    const yMax = opt.smScale === "shared" ? 1.1 * Math.max(1e-9, ...Object.keys(byStateGrade).filter((k) => eff.includes(k.split("|")[0])).map((k) => smVal(G, k, m))) : null;
+    smBox.replaceChildren(...(eff.length ? eff.map((s) => {
+      const n = Object.keys(G.cnt).filter((k) => k.startsWith(s + "|")).reduce((a, k) => a + G.cnt[k], 0);
+      const singles = D.grades.filter((g) => !gIsBand(g) && byStateGrade[`${s}|${g}`] > 0).length, bands = D.grades.filter((g) => gIsBand(g) && byStateGrade[`${s}|${g}`] > 0).length;
+      return h("figure", { class: "sm" },
+        h("figcaption", {}, h("button", { type: "button", class: "link sm-name", title: "Open this state's summary", onclick: () => { opt.profile = s; store.set("profile", s); drawProfile(eff); profBox.closest(".card").scrollIntoView({ block: "start" }); } }, `${s} · ${D.stateNames[s]}`),
+          h("span", { class: "muted small" }, `${fmt(n)} tags · ${singles} grades, ${bands} band${bands === 1 ? "" : "s"}`)),
+        statePanel(s, G, m, { yMax }));
+    }) : [h("p", { class: "muted" }, "No states with text under these filters.")]));
+  }
+
+  // ----- one state's summary -----
+  function drawProfile(eff) {
+    const s = opt.profile && D.states.includes(opt.profile) ? opt.profile : eff[0];
+    if (!s) { profBox.replaceChildren(h("p", { class: "muted" }, "No state selected.")); return; }
+    const si = D.states.indexOf(s);
+    const keepAll = filteredTags(D, { ignoreGrade: true, ignoreStates: true });
+    const mine = keepAll.filter((i) => D.tags.st[i] === si);
+    const W = wordTotals(D, { ignoreGrade: true, ignoreStates: true });
+    const G = gradeStats(mine, W.byStateGrade);
+    const words = W.byState[s] || 0, rate = words ? (mine.length / words) * 1e4 : 0;
+    // compare with the selected states (and this one)
+    const peers = [...new Set([...eff, s])].filter((x) => W.byState[x] > 0);
+    const per = {}; for (const i of keepAll) { const x = D.states[D.tags.st[i]]; per[x] = (per[x] || 0) + 1; }
+    const rates = peers.map((x) => [x, ((per[x] || 0) / W.byState[x]) * 1e4]).sort((a, b) => b[1] - a[1]);
+    const rank = rates.findIndex(([x]) => x === s) + 1;
+    const avgRate = rates.reduce((a, [, r]) => a + r, 0) / Math.max(1, rates.length);
+    const byTopic = {}; for (const i of mine) byTopic[D.tags.t[i]] = (byTopic[D.tags.t[i]] || 0) + 1;
+    const topics = Object.entries(byTopic).sort((a, b) => b[1] - a[1]);
+    const groups = D.grades.filter((g) => W.byStateGrade[`${s}|${g}`] > 0).sort((a, b) => gSortKey(a) - gSortKey(b));
+    const bandWords = groups.filter(gIsBand).reduce((a, g) => a + W.byStateGrade[`${s}|${g}`], 0);
+    const kwN = K && GF.kw && !D.keyword ? filteredTags(K, { ignoreGrade: true, ignoreStates: true }).filter((i) => K.tags.st[i] === si).length : null;
+    const files = idx.states[s]?.files || [];
+    const tile = (v, l, sub) => h("div", { class: "tile" }, h("b", {}, v), h("span", {}, l), sub ? h("span", { class: "muted small" }, sub) : null);
+    const picker = h("select", { id: "prof-st", "aria-label": "State" }, D.states.filter((x) => W.byState[x] > 0).map((x) => h("option", { value: x }, `${x} · ${D.stateNames[x]}`)));
+    picker.value = s;
+    picker.addEventListener("change", () => { opt.profile = picker.value; store.set("profile", opt.profile); drawProfile(eff); });
+    // eras: this state's share against the selected states'
+    const eraN = {}, eraAll = {};
+    for (const i of mine) eraN[D.eraOfTopic[D.tags.t[i]]] = (eraN[D.eraOfTopic[D.tags.t[i]]] || 0) + 1;
+    const peerSet = new Set(peers.map((x) => D.states.indexOf(x)));
+    let peerN = 0;
+    for (const i of keepAll) if (peerSet.has(D.tags.st[i])) { eraAll[D.eraOfTopic[D.tags.t[i]]] = (eraAll[D.eraOfTopic[D.tags.t[i]]] || 0) + 1; peerN++; }
+    const pct = (a, b) => (b ? (a / b) * 100 : 0);
+    const topTopic = (g) => { const c = {}; for (const i of mine) if (D.grades[D.tags.g[i]] === g) c[D.tags.t[i]] = (c[D.tags.t[i]] || 0) + 1; const t = Object.entries(c).sort((a, b) => b[1] - a[1])[0]; return t ? `${topicNo(+t[0])}. ${D.topicByNo[t[0]].topic} (${t[1]})` : "—"; };
+    profBox.replaceChildren(
+      h("div", { class: "card-tools" }, h("label", { for: "prof-st" }, "State"), picker, h("a", { href: `#/docs/${s}` }, "Documents"), h("span", { class: "muted small" }, "All grades and bands; the other filters above apply.")),
+      h("div", { class: "tiles" },
+        tile(fmt(words), "words of standards", `${files.filter((f) => f.status === "use").length} documents used`),
+        tile(fmt(mine.length), "tags", `${fmt1(rate)} per 10,000 words`),
+        tile(`${rank} of ${rates.length}`, "rank, tags per 10,000 words", `selected states average ${fmt1(avgRate)}`),
+        D.keyword ? null : tile(`${topics.length}`, "distinct topics", `of ${D.topics.filter((t) => topicOn(t.no)).length} counted`),
+        kwN != null ? tile(fmt(kwN), "“immigration” keyword matches", `${words ? fmt1((kwN / words) * 1e4) : "—"} per 10,000 words`) : null,
+        tile(`${Math.round(pct(bandWords, words))}%`, "of its words written for bands", `${groups.filter((g) => !gIsBand(g)).length} single grades, ${groups.filter(gIsBand).length} bands`)),
+      h("div", { class: "viz-line sm-big" }, statePanel(s, G, opt.smMeasure, { w: 1000, h: 300, big: true })),
+      h("div", { class: "two-col prof-cols" },
+        D.keyword ? null : h("section", {}, h("h3", {}, "Top topics"), topics.length ? h("ol", { class: "topic-list prof-top" }, topics.slice(0, 10).map(([t, n]) => h("li", {},
+          h("a", { class: "tl-name", href: topicHref(+t) }, h("span", { class: "tl-no mono" }, `${t}.`), h("span", {}, D.topicByNo[t].topic)),
+          h("span", { class: "tl-bar", "aria-hidden": "true" }, h("i", { style: `width:${(n / topics[0][1]) * 100}%` })),
+          h("span", { class: "tl-n mono" }, fmt(n)), h("span", { class: "tl-s muted" }, `${Math.round(pct(n, mine.length))}%`)))) : h("p", { class: "muted" }, "No tags.")),
+        D.keyword ? null : h("section", {}, h("h3", {}, "Eras: share of the state's tags"), h("p", { class: "muted small" }, "Bar: this state. Tick: all selected states together."),
+          h("ul", { class: "era-bars" }, D.eras.map((e, i) => h("li", {}, h("span", {}, e), h("span", { class: "eb", title: `${Math.round(pct(eraN[i] || 0, mine.length))}% here, ${Math.round(pct(eraAll[i] || 0, peerN))}% in the selected states` },
+            h("i", { style: `width:${pct(eraN[i] || 0, mine.length)}%` }), h("b", { style: `left:${pct(eraAll[i] || 0, peerN)}%` })), h("span", { class: "mono small" }, `${Math.round(pct(eraN[i] || 0, mine.length))}%`)))))),
+      h("h3", {}, "By grade and band"),
+      h("div", { class: "table-wrap" }, h("table", { class: "ledger" },
+        h("thead", {}, h("tr", {}, ["Grades", "Words", "Tags", "Per 10,000 words", "Distinct topics", D.keyword ? null : "Top topic"].filter(Boolean).map((x, i) => h("th", { class: i && i < 5 ? "num" : null }, x)))),
+        h("tbody", {}, groups.map((g) => { const k = `${s}|${g}`; return h("tr", {}, h("td", {}, gIsBand(g) ? `${gLabel(g)} (band)` : `Grade ${gLabel(g)}`), h("td", { class: "num" }, fmt(W.byStateGrade[k])),
+          h("td", { class: "num" }, fmt(G.cnt[k] || 0)), h("td", { class: "num" }, fmt1(smVal(G, k, "rate"))), h("td", { class: "num" }, fmt(G.tset[k]?.size || 0)), D.keyword ? null : h("td", {}, topTopic(g))); })))));
   }
 
   setMain(h("div", { class: "page wide" },
@@ -621,11 +731,14 @@ async function chartsPage() {
       h("div", { class: "card-tools" }, h("label", { for: "ln-m" }, "Measure"), sel("ln-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "lineMeasure"),
         h("label", { for: "ln-a" }, "Combine states"), sel("ln-a", [["avg", "Average per state"], ["sum", "Total (raw numbers)"]], "lineAgg"),
         h("label", { for: "ln-b" }, "Lines"), sel("ln-b", [["combined", "All selected states"], ["region", "By region"], ["state", "By state"]], "lineBy"), tableBtn(lineTable))),
-      compareWrap, lineLegend, lineBox,
-      h("h3", {}, "Grade bands, as the states wrote them"),
-      h("p", { class: "muted small" }, "Text written for a band (for example 6–8 or 9–12 courses) is shown here, not split into grades. Same lines and measure as above, on its own scale."),
-      bandBox, lineTable,
-      h("p", { class: "muted small" }, "The grade filter above does not apply to these two charts: they always show every grade and band. A line skips a grade where none of its states has text written for that grade."))));
+      compareWrap, lineLegend, lineBox, lineTable,
+      h("p", { class: "muted small" }, "Only text written for a single grade is in these lines. “band only +N”: N of the states wrote that grade only inside a band (for example 3–5), so they are missing from that point; see each state below. The grade filter above does not apply: every grade is shown. A line skips a grade where none of its states has text written for that grade.")),
+    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Each state by grade, with its bands"),
+      h("div", { class: "card-tools" }, h("label", { for: "sm-m" }, "Measure"), sel("sm-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "smMeasure"),
+        h("label", { for: "sm-s" }, "Height"), sel("sm-s", [["own", "Each state's own scale"], ["shared", "Same scale for all states"]], "smScale"))),
+      h("p", { class: "muted small" }, "One chart per selected state. A dot is a single grade; a band (for example K–2 or 9–12) is a dot at each grade it covers, at the band's value, joined by a line. Darker dots are higher relative to the state's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
+      smBox),
+    h("section", { class: "card" }, h("header", {}, h("h2", {}, "State summary")), profBox)));
   draw();
 }
 

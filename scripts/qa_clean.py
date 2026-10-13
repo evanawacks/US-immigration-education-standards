@@ -5,7 +5,7 @@ import json, re, sqlite3, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from assemble_clean import gset, glist
+from assemble_clean import gset, glist, limit_labels
 C = ROOT / "data" / "clean"
 cfg = json.loads((C / "state_config.json").read_text())
 con = sqlite3.connect(C / "standards.sqlite")
@@ -36,9 +36,11 @@ for st, c in sorted(cfg.items()):
         if v != "use": continue
         uf = C / "units" / st / f"{f}.units.jsonl"
         miss = 0; tot = 0; missing_ids = []
+        lf = C / "labels" / st / f"{f}.labels.json"
+        left_out = limit_labels(c, f, json.loads(lf.read_text()).get("labels", []))[1] if lf.exists() else set()   # "grade_limits"
         for l in open(uf):
             u = json.loads(l)
-            if u.get("furniture"): continue
+            if u.get("furniture") or int(u["id"][1:]) in left_out: continue
             tot += 1
             probe = max(u["text"].split(" | ")[:-1] or [u["text"]], key=len) if f.lower().endswith(".csv") else u["text"]
             if norm(probe) not in texts: miss += 1; missing_ids.append(u["id"])

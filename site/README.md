@@ -22,6 +22,19 @@ every line of it against the source document.
   tag counts, tags per 10,000 words, or distinct topics; a map (tags per 10,000 words or count; linear, log, or quintile categories),
   a state × era (or topic) heat map of how each state's tags are distributed, and a line graph over grades (bands as
   their own points) for all selected states, by region, or for up to 8 states, as state averages or raw totals.
+- **Charts** also has **Each state by grade, with its bands**: one small chart per selected state, a dot per single
+  grade and, for a band (K–2, 9–12…), a dot at each grade it covers at the band's value, joined by a line; dots are
+  shaded relative to the state's own highest value. **State summary** gives one state's totals, rank, keyword matches,
+  share of text written for bands, top topics, eras against the selected states, and a grade-by-grade table. The grade
+  line graph marks under each grade how many states wrote it only inside a band ("band only +N").
+- **Keyword** (separate from the 106 topics): every word starting with "immigra" (immigration, immigrant, immigrated…),
+  found by plain text search (`scripts/keyword_tags.py`). Listed on its own at the top of **Topics** (`#/topics/kw`),
+  chosen with **Count** on **Charts**, and shown as `kw` tags in the viewer.
+- **Filters** (`#/filters`): a global topic filter. Unchecked topics (and the keyword) are left out of every tab and the
+  viewer; the choice is saved in the browser.
+- In the viewer, the **Clean text** and **Database text** panes each have a find box (Enter / Shift+Enter step through
+  matches). Turning off a category (standards, examples, backup) hides it from both panes, and clicking that category's
+  text elsewhere (page boxes, the Topics pane) no longer opens it; links from other pages still do.
 - In the viewer, the **Topics** pane lists every topic tagged in the document, with each sentence and its score;
   tags also show under each unit of the clean text and as dashed outlines on the original pages.
 
@@ -45,6 +58,7 @@ from the repository root of this branch.
 
 ```
 git merge main                       # bring in new labels / database
+python3 scripts/keyword_tags.py      # the "immigration" keyword count (seconds)
 python3 scripts/build_site.py        # all states (or: python3 scripts/build_site.py AR DE)
 ```
 

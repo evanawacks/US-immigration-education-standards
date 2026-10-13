@@ -28,14 +28,15 @@ every line of it against the source document.
   **State summary** gives one state's totals, rank, keyword matches, share of text written for bands, top topics, eras
   against the selected states, and a grade-by-grade table. The grade line graph marks under each grade how many states
   wrote it only inside a band ("band only +N").
-- **Database** shows each row's topic tags and "immigration" keyword matches (standards text) and can be narrowed to
-  rows with a topic or the keyword; `topics/rowtags.json` maps rows to tags.
+- **Database** shows each row's topic tags and keyword matches (standards text) and can be narrowed to
+  rows with a topic or a keyword; `topics/rowtags.json` maps rows to tags.
 - After changing the site, bump `VER` in `site/app.js` and the `?v=` on the scripts in `index.html`, so browsers do not
   keep the old files.
-- **Keyword** (separate from the 106 topics): every word starting with "immigra" (immigration, immigrant, immigrated…),
-  found by plain text search (`scripts/keyword_tags.py`). Listed on its own at the top of **Topics** (`#/topics/kw`),
-  chosen with **Count** on **Charts**, and shown as `kw` tags in the viewer.
-- **Filters** (`#/filters`): a global topic filter. Unchecked topics (and the keyword) are left out of every tab and the
+- **Keywords** (separate from the 106 topics), found by plain text search (`scripts/keyword_tags.py`): "immigra"
+  (words starting with it: immigration, immigrant…; `#/topics/kw`, `kw` tags in the viewer) and "migra" (words
+  containing it: migration, migrant, emigration, immigration…; `#/topics/kw-migra`, `mg` tags). Listed on their own at
+  the top of **Topics**, chosen with **Count** on **Charts**, and kept in step with `KWS` in `site/analysis.js`.
+- **Filters** (`#/filters`): a global topic filter. Unchecked topics (and the keywords) are left out of every tab and the
   viewer; the choice is saved in the browser.
 - In the viewer, the **Clean text** and **Database text** panes each have a find box (Enter / Shift+Enter step through
   matches). Turning off a category (standards, examples, backup) hides it from both panes, and clicking that category's
@@ -63,7 +64,7 @@ from the repository root of this branch.
 
 ```
 git merge main                       # bring in new labels / database
-python3 scripts/keyword_tags.py      # the "immigration" keyword count (seconds)
+python3 scripts/keyword_tags.py      # the "immigra" and "migra" keyword counts (seconds)
 python3 scripts/build_site.py        # all states (or: python3 scripts/build_site.py AR DE)
 ```
 

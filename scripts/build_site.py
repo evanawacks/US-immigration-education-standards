@@ -183,7 +183,7 @@ def load_topic_tags(index):
     words = [r for r in csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")) if r["category"] in acats]
     all_tags = list(csv.DictReader(open(tf, encoding="utf-8")))
     tags = [r for r in all_tags if r["category"] in acats]
-    kf = ANALYSIS / "keyword_tags.csv"   # scripts/keyword_tags.py: the separate "immigration" keyword count
+    kf = ANALYSIS / "keyword_tags.csv"   # scripts/keyword_tags.py: the separate keyword counts
     kw = [r for r in csv.DictReader(open(kf, encoding="utf-8")) if r["category"] in acats] if kf.exists() else []
     grades = sorted({r["grades"] for r in words} | {r["grades"] for r in tags} | {r["grades"] for r in kw})
     gidx = {g: i for i, g in enumerate(grades)}
@@ -202,15 +202,21 @@ def load_topic_tags(index):
                     sc=round(float(r["score"]) * 1000), ts=round(float(r["top_score"]) * 1000), m=METHODS[r["method"]], co=cidx.get(r["course"], -1),
                     x=tidx[sent], ms=ms, ml=len(r["matched"]) if ms >= 0 else 0, wp=int(r["word_pos"]))
         for k, v in vals.items(): cols[k].append(v)
-    # keyword matches: the same columns, as one pseudo-topic (t=0) found by name with a full score, and their own sentences
-    kcols, ktext, ktidx = {k: [] for k in cols}, [], {}
-    for r in kw:
-        sent = r["sentence"]
-        if sent not in ktidx: ktidx[sent] = len(ktext); ktext.append(sent)
-        vals = dict(st=sidx[r["state"]], d=fileno.get((r["state"], r["file"]), -1), u=int(r["unit"]), s=int(r["sentence_no"]), c=cat[r["category"]],
-                    g=gidx[r["grades"]], t=0, sc=1000, ts=1000, m=METHODS["name"], co=cidx.get(r["course"], -1), x=ktidx[sent], ms=int(r["sentence_char"]),
-                    ml=len(r["matched"]), wp=int(r["word_pos"]))
-        for k, v in vals.items(): kcols[k].append(v)
+    # keyword matches: per keyword, the same columns, as one pseudo-topic (t=0, -1, ...) found by name with a full
+    # score, and their own sentences
+    kws = list(dict.fromkeys(r["keyword"] for r in kw))
+    kdata = {}
+    for ki, name in enumerate(kws):
+        kcols, ktext, ktidx = {k: [] for k in cols}, [], {}
+        for r in kw:
+            if r["keyword"] != name: continue
+            sent = r["sentence"]
+            if sent not in ktidx: ktidx[sent] = len(ktext); ktext.append(sent)
+            vals = dict(st=sidx[r["state"]], d=fileno.get((r["state"], r["file"]), -1), u=int(r["unit"]), s=int(r["sentence_no"]), c=cat[r["category"]],
+                        g=gidx[r["grades"]], t=-ki, sc=1000, ts=1000, m=METHODS["name"], co=cidx.get(r["course"], -1), x=ktidx[sent], ms=int(r["sentence_char"]),
+                        ml=len(r["matched"]), wp=int(r["word_pos"]))
+            for k, v in vals.items(): kcols[k].append(v)
+        kdata[name] = {"tags": kcols, "text": ktext}
     for r in all_tags:
         cs = int(r["char_start"]) if r.get("char_start") not in (None, "") else -1
         ce = int(r["char_end"]) if r.get("char_end") not in (None, "") else -1
@@ -223,7 +229,7 @@ def load_topic_tags(index):
     dump(T / "tags.json", cols)
     dump(T / "text.json", text)
     dump(T / "words.json", wcols)
-    if kf.exists(): dump(T / "keyword.json", {"keyword": "immigration", "tags": kcols, "text": ktext})
+    if kf.exists(): dump(T / "keyword.json", {"keywords": kdata})
     # database rows -> the tags in their standards text (indices into tags.json / keyword.json), for the Database tab
     def by_row(c):
         at = {}
@@ -236,8 +242,8 @@ def load_topic_tags(index):
                 idx = [i for fi, u, _ in r["seg"]["body_standards"] for i in at.get((st, fi, u), [])]
                 if idx: out[r["id"]] = sorted(set(idx))
         return out
-    dump(T / "rowtags.json", {"tags": by_row(cols), "kw": by_row(kcols) if kf.exists() else {}})
-    print(f"keyword: {len(kw):,} matches in the analysis") if kf.exists() else None
+    dump(T / "rowtags.json", {"tags": by_row(cols), "kw": {name: by_row(d["tags"]) for name, d in kdata.items()}})
+    for name, d in kdata.items(): print(f"keyword {name}: {len(d['tags']['t']):,} matches in the analysis")
     print(f"topics: {len(tags):,} tags in the analysis ({'/'.join(sorted(acats))}), {len(all_tags):,} in the viewer, {len(grades)} grade groups")
     return per_doc
 

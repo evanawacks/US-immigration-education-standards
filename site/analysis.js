@@ -264,6 +264,14 @@ function tooltip() {
       tip.owner = e.currentTarget instanceof Element ? e.currentTarget : null;   // null (keyboard focus): any pointer move hides it
       tip.replaceChildren(...rows.map(([v, l, color]) => h("div", { class: "tip-row" }, color ? h("i", { class: "tip-key", style: `background:${color}` }) : null, h("b", {}, v), l ? h("span", {}, l) : null)));
       tip.hidden = false;
+      tip.touch = e.pointerType === "touch";
+      // last line of defense, whatever events the browser does or does not send: while the tip is up, check four
+      // times a second that a mouse is still over the element that opened it
+      clearInterval(tip.watch);
+      tip.watch = setInterval(() => {
+        if (tip.hidden) { clearInterval(tip.watch); return; }
+        if (!tip.owner?.isConnected || (!tip.touch && tip.owner && !tip.owner.matches(":hover"))) { tip.hidden = true; clearInterval(tip.watch); }
+      }, 250);
       const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8), y = Math.min(e.clientY + 14, window.innerHeight - tip.offsetHeight - 8);
       tip.style.left = `${x}px`; tip.style.top = `${y}px`;
     },

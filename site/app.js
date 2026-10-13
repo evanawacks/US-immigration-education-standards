@@ -3,6 +3,7 @@
 "use strict";
 
 const DATA = "site/data/";
+const VER = "2026-10-13c";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
 const COLS = [["body_standards", "standards", "Standards"], ["body_examples", "examples", "Examples / clarifications"], ["backup", "backup", "Backup (non-standards text)"]];
 const GRADES = ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "site/vendor/pdf.worker.min.js";
@@ -29,7 +30,7 @@ const store = {
 };
 const cache = {};
 function getJSON(path) {
-  if (!cache[path]) cache[path] = fetch(DATA + path).then((r) => { if (!r.ok) throw new Error(`Could not load ${path} (HTTP ${r.status}).`); return r.json(); });
+  if (!cache[path]) cache[path] = fetch(`${DATA}${path}?v=${VER}`).then((r) => { if (!r.ok) throw new Error(`Could not load ${path} (HTTP ${r.status}).`); return r.json(); });
   return cache[path];
 }
 const loadIndex = () => getJSON("index.json");
@@ -74,7 +75,8 @@ async function route() {
     else if (view === "topics") await topicsPage(a);
     else if (view === "charts") await chartsPage();
     else if (view === "filters") await filtersPage();
-    else await dbPage();
+    else if (!view || view === "db") await dbPage();
+    else throw new Error(`There is no page “${view}”. If you just updated the site, reload the page (Ctrl+Shift+R / Cmd+Shift+R).`);
     if (!scrolled) window.scrollTo(0, 0);
   } catch (e) { console.error(e); errorView(e); }
 }
@@ -82,24 +84,38 @@ window.addEventListener("hashchange", route);
 window.addEventListener("DOMContentLoaded", () => { navBadge(); route(); });
 
 // ---------- database page ----------
-const dbState = { st: "", grade: "", cat: "", q: "", full: false, sort: null, limit: 200 };
+const dbState = { st: "", grade: "", cat: "", q: "", topic: "", full: false, sort: null, limit: 200 };
 async function dbPage() {
-  const idx = await loadIndex();
+  const [idx, TDb, KDb, RT] = await Promise.all([loadIndex(), loadTopicData().catch(() => null), loadKeywordData().catch(() => null), getJSON("topics/rowtags.json").catch(() => null)]);
   const all = [];
   for (const [st, s] of Object.entries(idx.states)) for (const r of s.rows) all.push({ ...r, state: st });
+  // topic tags and "immigration" keyword matches in each row's standards text, under the global filter and score settings
+  if (TDb) initFilters(TDb);
+  const min = TDb ? Math.round(AF.minScore * 1000) : 0;
+  const tagOK = (i) => topicOn(TDb.tags.t[i]) && (TDb.tags.sc[i] >= min || (AF.named && TDb.tags.m[i] !== 0));
+  for (const r of all) {
+    r.tt = RT && TDb ? (RT.tags[r.id] || []).filter(tagOK) : [];
+    r.kw = RT && KDb && GF.kw ? (RT.kw[r.id] || []).length : 0;
+  }
+  const hasTopics = !!(RT && TDb);
   const cats = [...new Set(all.map((r) => r.course_category).filter(Boolean))].sort();
 
   const stSel = h("select", { id: "f-state" }, h("option", { value: "" }, "All states"), Object.entries(idx.states).map(([k, s]) => h("option", { value: k }, `${k} · ${s.name}`)));
   const grSel = h("select", { id: "f-grade" }, h("option", { value: "" }, "Any grade"), GRADES.map((g) => h("option", { value: g }, g === "PK" ? "Pre-K" : g === "K" ? "Kindergarten" : `Grade ${g}`)), h("option", { value: "ALL" }, "State-wide (_ALL)"));
   const catSel = h("select", { id: "f-cat" }, h("option", { value: "" }, "All rows"), h("option", { value: "-" }, "Grade rows (no course)"), cats.map((c) => h("option", { value: c }, c)));
   const q = h("input", { type: "search", id: "f-q", placeholder: "ID, course, or title" });
+  const topicSel = hasTopics ? h("select", { id: "f-topic" }, h("option", { value: "" }, "Any text"), h("option", { value: "any" }, "Has any counted topic"),
+    KDb && GF.kw ? h("option", { value: "kw" }, "Has the word “immigration” (keyword)") : null,
+    TDb.eras.map((e) => h("optgroup", { label: e }, TDb.topics.filter((t) => t.era === e && topicOn(t.no)).map((t) => h("option", { value: String(t.no) }, `${t.no}. ${t.topic}`))))) : null;
+  if (topicSel) topicSel.value = dbState.topic;
   const full = h("input", { type: "checkbox", id: "f-full" });
   const status = h("span", { class: "muted" });
   for (const [el, k] of [[stSel, "st"], [grSel, "grade"], [catSel, "cat"], [q, "q"]]) el.value = dbState[k];
   full.checked = dbState.full;
 
   const tbody = h("tbody");
-  const heads = [["id", "Row ID"], ["grade", "Grades"], ["course", "Course"], ["course_category", "Category"], ["w0", "Standards words", 1], ["w1", "Examples words", 1], ["w2", "Backup words", 1]];
+  const heads = [["id", "Row ID"], ["grade", "Grades"], ["course", "Course"], ["course_category", "Category"], ["w0", "Standards words", 1], ["w1", "Examples words", 1], ["w2", "Backup words", 1],
+    ...(hasTopics ? [["ntt", "Topic tags", 1], ["kw", "“Immigration” words", 1]] : [])];
   const thead = h("thead", {}, h("tr", {}, heads.map(([k, label, num]) => h("th", { "data-sort": k, class: num ? "num" : null, scope: "col" }, label))));
   const more = h("div", { class: "more" });
   const table = h("div", { class: "table-wrap" }, h("table", { class: "ledger" }, thead, tbody));
@@ -130,11 +146,12 @@ async function dbPage() {
   let token = 0;
   async function draw() {
     const my = ++token;
-    Object.assign(dbState, { st: stSel.value, grade: grSel.value, cat: catSel.value, q: q.value.trim(), full: full.checked });
+    Object.assign(dbState, { st: stSel.value, grade: grSel.value, cat: catSel.value, q: q.value.trim(), full: full.checked, topic: topicSel?.value || "" });
     const term = dbState.q.toLowerCase();
     let rows = all.filter((r) => (!dbState.st || r.state === dbState.st)
       && (!dbState.grade || (dbState.grade === "ALL" ? r.grade === "[ALL]" : r.grade.slice(1, -1).split(",").includes(dbState.grade === "K" ? "0" : dbState.grade)))
-      && (!dbState.cat || (dbState.cat === "-" ? !r.course && r.grade !== "[ALL]" : r.course_category === dbState.cat)));
+      && (!dbState.cat || (dbState.cat === "-" ? !r.course && r.grade !== "[ALL]" : r.course_category === dbState.cat))
+      && (!dbState.topic || (dbState.topic === "any" ? r.tt.length > 0 : dbState.topic === "kw" ? r.kw > 0 : r.tt.some((i) => TDb.tags.t[i] === +dbState.topic))));
     let hits = null;
     if (term) {
       if (dbState.full) {
@@ -144,7 +161,7 @@ async function dbPage() {
     }
     if (dbState.sort) {
       const [k, dir] = dbState.sort;
-      const val = (r) => (k[0] === "w" && k.length === 2 ? r.words[+k[1]] : r[k] || "");
+      const val = (r) => (k[0] === "w" && k.length === 2 ? r.words[+k[1]] : k === "ntt" ? r.tt.length : r[k] || "");
       rows.sort((x, y) => (val(x) > val(y) ? 1 : val(x) < val(y) ? -1 : 0) * dir);
     }
     thead.querySelectorAll("th").forEach((th) => th.classList.remove("sorted-asc", "sorted-desc"));
@@ -160,12 +177,14 @@ async function dbPage() {
       }
       return h("tr", { onclick: (e) => { if (!e.target.closest("a")) location.hash = `#/row/${encodeURIComponent(r.id)}`; } },
         first, h("td", {}, gradeLabel(r.grade)), h("td", {}, r.course || h("span", { class: "muted" }, "—"), r.course_title && r.course_title !== r.course ? h("div", { class: "snip" }, r.course_title) : null),
-        h("td", {}, r.course_category || ""), ...r.words.map((w) => h("td", { class: "num" }, fmt(w))));
+        h("td", {}, r.course_category || ""), ...r.words.map((w) => h("td", { class: "num" }, fmt(w))),
+        hasTopics ? h("td", { class: "num", title: dbState.topic && !["any", "kw"].includes(dbState.topic) ? `${r.tt.filter((i) => TDb.tags.t[i] === +dbState.topic).length} of them this topic` : null }, fmt(r.tt.length)) : null,
+        hasTopics ? h("td", { class: "num" }, r.kw ? fmt(r.kw) : h("span", { class: "muted" }, "0")) : null);
     }));
     more.replaceChildren(rows.length > shown.length ? h("button", { onclick: () => { dbState.limit += 400; draw(); } }, `Show more (${fmt(rows.length - shown.length)} hidden)`) : "");
   }
   let timer;
-  for (const el of [stSel, grSel, catSel, full]) el.addEventListener("change", () => { dbState.limit = 200; draw(); });
+  for (const el of [stSel, grSel, catSel, full, topicSel].filter(Boolean)) el.addEventListener("change", () => { dbState.limit = 200; draw(); });
   q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { dbState.limit = 200; draw(); }, dbState.full ? 350 : 120); });
 
   const t = idx.totals;
@@ -179,11 +198,14 @@ async function dbPage() {
       h("div", { class: "field" }, h("label", { for: "f-state" }, "State"), stSel),
       h("div", { class: "field" }, h("label", { for: "f-grade" }, "Grade"), grSel),
       h("div", { class: "field" }, h("label", { for: "f-cat" }, "Course category"), catSel),
+      topicSel ? h("div", { class: "field" }, h("label", { for: "f-topic" }, "Immigration topic"), topicSel) : null,
       h("div", { class: "field" }, h("label", { for: "f-q" }, "Search"), q),
       h("label", { class: "check", for: "f-full" }, full, "Search the full text"), status),
-    table, more));
+    hasTopics ? h("p", { class: "muted small" }, "Topic tags and “Immigration” words count the standards text of each row, at the minimum score set on Topics and Charts; topics left out on the Filters page are not counted or offered.") : null,
+    gfNoteSafe(), table, more));
   draw();
 }
+const gfNoteSafe = () => (typeof gfNote === "function" ? gfNote() : null);
 
 // ---------- row page ----------
 async function rowPage(id) {

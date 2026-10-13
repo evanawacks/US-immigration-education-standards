@@ -224,6 +224,19 @@ def load_topic_tags(index):
     dump(T / "text.json", text)
     dump(T / "words.json", wcols)
     if kf.exists(): dump(T / "keyword.json", {"keyword": "immigration", "tags": kcols, "text": ktext})
+    # database rows -> the tags in their standards text (indices into tags.json / keyword.json), for the Database tab
+    def by_row(c):
+        at = {}
+        for i, (st, d, u) in enumerate(zip(c["st"], c["d"], c["u"])): at.setdefault((states[st], d, u), []).append(i)
+        out = {}
+        for st in states:
+            rf = OUT / "rows" / f"{st}.json"
+            if not rf.exists(): continue
+            for r in json.loads(rf.read_text()):
+                idx = [i for fi, u, _ in r["seg"]["body_standards"] for i in at.get((st, fi, u), [])]
+                if idx: out[r["id"]] = sorted(set(idx))
+        return out
+    dump(T / "rowtags.json", {"tags": by_row(cols), "kw": by_row(kcols) if kf.exists() else {}})
     print(f"keyword: {len(kw):,} matches in the analysis") if kf.exists() else None
     print(f"topics: {len(tags):,} tags in the analysis ({'/'.join(sorted(acats))}), {len(all_tags):,} in the viewer, {len(grades)} grade groups")
     return per_doc

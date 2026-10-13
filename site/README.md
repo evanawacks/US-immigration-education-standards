@@ -22,11 +22,16 @@ every line of it against the source document.
   tag counts, tags per 10,000 words, or distinct topics; a map (tags per 10,000 words or count; linear, log, or quintile categories),
   a state × era (or topic) heat map of how each state's tags are distributed, and a line graph over grades (bands as
   their own points) for all selected states, by region, or for up to 8 states, as state averages or raw totals.
-- **Charts** also has **Each state by grade, with its bands**: one small chart per selected state, a dot per single
-  grade and, for a band (K–2, 9–12…), a dot at each grade it covers at the band's value, joined by a line; dots are
-  shaded relative to the state's own highest value. **State summary** gives one state's totals, rank, keyword matches,
-  share of text written for bands, top topics, eras against the selected states, and a grade-by-grade table. The grade
-  line graph marks under each grade how many states wrote it only inside a band ("band only +N").
+- **Charts** also has **Grades and bands by state**: one chart with a row per selected state (or states grouped by
+  region, or regions added up) and grades Pre-K to 12 across; a dot per single grade and, for a band (K–2, 9–12…), a
+  line with a dot at each grade it covers, on its own lane; dots are shaded relative to the row's own highest value.
+  **State summary** gives one state's totals, rank, keyword matches, share of text written for bands, top topics, eras
+  against the selected states, and a grade-by-grade table. The grade line graph marks under each grade how many states
+  wrote it only inside a band ("band only +N").
+- **Database** shows each row's topic tags and "immigration" keyword matches (standards text) and can be narrowed to
+  rows with a topic or the keyword; `topics/rowtags.json` maps rows to tags.
+- After changing the site, bump `VER` in `site/app.js` and the `?v=` on the scripts in `index.html`, so browsers do not
+  keep the old files.
 - **Keyword** (separate from the 106 topics): every word starting with "immigra" (immigration, immigrant, immigrated…),
   found by plain text search (`scripts/keyword_tags.py`). Listed on its own at the top of **Topics** (`#/topics/kw`),
   chosen with **Count** on **Charts**, and shown as `kw` tags in the viewer.

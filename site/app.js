@@ -55,7 +55,8 @@ async function route() {
   const parts = (location.hash || "#/db").slice(2).split("/").map(decodeURIComponent);
   const [view, a, b, c] = parts;
   document.querySelectorAll(".nav a").forEach((x) => x.toggleAttribute("aria-current", false));
-  const navKey = { db: "db", row: "db", docs: "docs", doc: "docs", about: "about", topics: "topics", charts: "charts" }[view] || "db";
+  document.getElementById("viz-tip")?.toggleAttribute("hidden", true);   // a chart tooltip open when a click navigated away
+  const navKey = { db: "db", row: "db", docs: "docs", doc: "docs", about: "about", topics: "topics", charts: "charts", filters: "filters" }[view] || "db";
   document.querySelector(`.nav a[data-nav="${navKey}"]`)?.setAttribute("aria-current", "page");
   try {
     if (view === "doc") {
@@ -66,17 +67,19 @@ async function route() {
       return;
     }
     current?.destroy?.(); current = null;
+    let scrolled = false;   // a page that scrolled to a target itself (documents page with a state) keeps its place
     if (view === "row") await rowPage(a);
-    else if (view === "docs") await docsPage(a);
+    else if (view === "docs") scrolled = await docsPage(a);
     else if (view === "about") await aboutPage();
     else if (view === "topics") await topicsPage(a);
     else if (view === "charts") await chartsPage();
+    else if (view === "filters") await filtersPage();
     else await dbPage();
-    window.scrollTo(0, 0);
+    if (!scrolled) window.scrollTo(0, 0);
   } catch (e) { console.error(e); errorView(e); }
 }
 window.addEventListener("hashchange", route);
-window.addEventListener("DOMContentLoaded", route);
+window.addEventListener("DOMContentLoaded", () => { navBadge(); route(); });
 
 // ---------- database page ----------
 const dbState = { st: "", grade: "", cat: "", q: "", full: false, sort: null, limit: 200 };
@@ -238,7 +241,11 @@ async function docsPage(focus) {
       h("select", { id: "jump", onchange: (e) => document.getElementById(`st-${e.target.value}`)?.scrollIntoView() },
         h("option", { value: "" }, "Choose…"), Object.entries(idx.states).map(([k, s]) => h("option", { value: k }, `${k} · ${s.name}`))))),
     h("div", { class: "state-list" }, cards)));
-  if (focus) document.getElementById(`st-${focus}`)?.scrollIntoView();
+  const card = focus && document.getElementById(`st-${focus}`);
+  if (!card) return false;
+  card.classList.add("focus");
+  card.scrollIntoView({ block: "start" });
+  return true;
 }
 
 // ---------- about ----------
@@ -266,8 +273,72 @@ async function aboutPage() {
       h("li", {}, "Sentences are read in overlapping 12-word windows; each window gets its closest topic, and a topic counts once per sentence. In the viewer, the words behind each tag are underlined and numbered with their topic."),
       h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score. “Skip a topic repeated within N words” counts a run of mentions of the same topic once."),
       h("li", {}, "Distinct topics counts how many different topics appear, to show the span of what a state covers."),
+      h("li", {}, "Apart from the topics, a separate keyword count finds every word starting with “immigra” (immigration, immigrant, immigrated…) by plain text search. It has its own line on the Topics page and its own option on the Charts page."),
+      h("li", {}, "The Filters page leaves chosen topics out of every page and the document viewer."),
       h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
     h("p", {}, "Project documentation, validation reports, and code: ", h("a", { href: repo, target: "_blank", rel: "noopener" }, "GitHub repository"), "."))));
+}
+
+// ---------- find box for a viewer pane ----------
+/** Search one pane: items() gives the searchable [element, text, selector of the element's text]; matching elements are
+    marked, the words themselves highlighted where the browser has the CSS Custom Highlight API; Enter / Shift+Enter step
+    through them, and onPick(element) runs on the current one. */
+function findBar(key, label, body, items, onPick) {
+  const input = h("input", { type: "search", class: "find-in", placeholder: `Find in ${label}`, "aria-label": `Find in ${label}` });
+  const count = h("span", { class: "find-n muted mono", "aria-live": "polite" });
+  const prev = h("button", { type: "button", class: "small", title: "Previous match (Shift+Enter)", "aria-label": "Previous match", onclick: () => go(-1) }, "↑");
+  const next = h("button", { type: "button", class: "small", title: "Next match (Enter)", "aria-label": "Next match", onclick: () => go(1) }, "↓");
+  const hasHL = typeof Highlight === "function" && !!window.CSS?.highlights;
+  let hits = [], cur = -1, q = "", timer;
+  function ranges(x) {
+    const out = [], box = x.el.querySelector(x.sel) || x.el;
+    const walk = document.createTreeWalker(box, NodeFilter.SHOW_TEXT);
+    for (let t = walk.nextNode(); t; t = walk.nextNode()) {
+      const low = t.data.toLowerCase();
+      for (let i = low.indexOf(q); i >= 0; i = low.indexOf(q, i + q.length)) { const r = new Range(); r.setStart(t, i); r.setEnd(t, i + q.length); out.push(r); }
+    }
+    return out;
+  }
+  function paint() {
+    body.querySelectorAll(".find-hit").forEach((e) => e.classList.remove("find-hit", "find-cur"));
+    hits.forEach((x) => x.el.classList.add("find-hit"));
+    hits[cur]?.el.classList.add("find-cur");
+    count.textContent = q ? (hits.length ? `${fmt(cur + 1)} of ${fmt(hits.length)}` : "no matches") : "";
+    if (!hasHL) return;
+    const rest = [], now = [];
+    hits.forEach((x, i) => (i === cur ? now : rest).push(...ranges(x)));
+    CSS.highlights.set(`find-${key}`, new Highlight(...rest));
+    CSS.highlights.set(`find-${key}-cur`, new Highlight(...now));
+  }
+  function run(keep) {
+    const old = hits[cur]?.el;
+    q = input.value.trim().toLowerCase();
+    hits = q ? items().filter(([el, text]) => el && text.toLowerCase().includes(q)).map(([el, , sel]) => ({ el, sel })) : [];
+    cur = !hits.length ? -1 : keep && old ? Math.max(0, hits.findIndex((x) => x.el === old)) : 0;
+    paint();
+  }
+  function show() {
+    const el = hits[cur]?.el;
+    if (!el) return;
+    onPick?.(el);
+    const B = body.getBoundingClientRect(), E = el.getBoundingClientRect();
+    body.scrollTop += E.top - B.top - body.clientHeight / 3;
+  }
+  function go(d) {
+    if (input.value.trim().toLowerCase() !== q) { run(false); show(); return; }
+    if (!hits.length) return;
+    cur = (cur + d + hits.length) % hits.length; paint(); show();
+  }
+  input.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { run(false); show(); }, 200); });
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); clearTimeout(timer); go(e.shiftKey ? -1 : 1); }
+    else if (e.key === "Escape") { input.value = ""; run(false); }
+  });
+  return {
+    el: h("span", { class: "group find", role: "search" }, input, prev, next, count),
+    refresh: () => { if (q) run(true); },
+    clear: () => { if (hasHL) { CSS.highlights.delete(`find-${key}`); CSS.highlights.delete(`find-${key}-cur`); } },
+  };
 }
 
 // ---------- document viewer ----------
@@ -443,11 +514,18 @@ async function viewer(st, n, startUnit) {
     prefs.hide[c] = !prefs.hide[c]; e.currentTarget.setAttribute("aria-pressed", String(!prefs.hide[c])); store.set("hide", prefs.hide); applyHide();
   } }, h("i", { class: `cat-dot ${c}` }), ` ${c}`));
   const furnBtn = h("button", { "aria-pressed": "false", title: "Show running headers and footers", onclick: (e) => {
-    prefs.furn = !prefs.furn; e.currentTarget.setAttribute("aria-pressed", String(prefs.furn)); textBody.firstChild?.classList.toggle("show-furn", prefs.furn);
+    prefs.furn = !prefs.furn; e.currentTarget.setAttribute("aria-pressed", String(prefs.furn)); textBody.firstChild?.classList.toggle("show-furn", prefs.furn); textFind.refresh();
   } }, "Headers");
+  const isHidden = (u) => !!prefs.hide[catOf(u)];   // its category is filtered out: not traced into the clean text or database panes
+  const textFind = findBar("text", "clean text", textBody, () => units.filter((u) => !isHidden(u) && (!u.f || prefs.furn)).map((u) => [unitEls.get(u.n), u.s, ".utext"]), (el) => select(+el.dataset.n, "text-find"));
   const textPane = h("section", { class: "pane", "aria-label": "Clean text" },
-    h("header", {}, h("h2", {}, "Clean text"), h("span", { class: "muted" }, `${fmt(units.length)} units`), h("span", { class: "group" }, hideBtns, furnBtn)), textBody);
-  function applyHide() { const c = textBody.firstChild; if (c) for (const k of ["standards", "examples", "backup"]) c.classList.toggle(`hide-${k}`, !!prefs.hide[k]); }
+    h("header", {}, h("h2", {}, "Clean text"), h("span", { class: "muted" }, `${fmt(units.length)} units`), h("span", { class: "group" }, hideBtns, furnBtn), textFind.el), textBody);
+  /** Filtered-out categories leave the clean text and database panes, and their boxes on the original pages stop responding. */
+  function applyHide() {
+    for (const body of [textBody, dbBody, origBody]) for (const k of ["standards", "examples", "backup"]) body.classList.toggle(`hide-${k}`, !!prefs.hide[k]);
+    if (selected && isHidden(selected)) { clearMarks(); selbar.replaceChildren(...hiddenNote(selected)); }
+    textFind.refresh(); dbFind.refresh();
+  }
   function buildText() {
     const box = h("div", { class: "units" });
     const frag = document.createDocumentFragment();
@@ -466,7 +544,6 @@ async function viewer(st, n, startUnit) {
     box.append(frag);
     box.addEventListener("click", (e) => { const el = e.target.closest(".u"); if (el) select(+el.dataset.n, "text"); });
     textBody.append(box);
-    applyHide();
   }
 
   // ----- pane: database text -----
@@ -474,8 +551,10 @@ async function viewer(st, n, startUnit) {
   const rowSel = h("select", { id: "db-row", "aria-label": "Database row" }, feedRows.map((rid) => h("option", { value: rid }, `${rid} (${fmt(feed.get(rid))} units)`)));
   rowSel.addEventListener("change", () => { dbRow = rowSel.value; store.set(`dbrow:${st}:${n}`, dbRow); buildDb(); if (selected) markDb(selected, true); });
   const rowLink = h("a", { href: "#" }, "Open row");
+  const dbFind = findBar("db", "database text", dbBody, () => [...dbBody.querySelectorAll(".dbcol")].filter((c) => !prefs.hide[c.dataset.cat]).flatMap((c) => [...c.querySelectorAll(".seg")].map((el) => [el, el.querySelector(".txt").textContent, ".txt"])),
+    (el) => { if (el.dataset.n) select(+el.dataset.n, "db-find"); });
   const dbPane = h("section", { class: "pane", "aria-label": "Database text" },
-    h("header", {}, h("h2", {}, "Database text"), rowSel, rowLink), dbBody);
+    h("header", {}, h("h2", {}, "Database text"), rowSel, rowLink, dbFind.el), dbBody);
   let segEls = new Map(), textEls = new Map();
   const normText = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
   function buildDb() {
@@ -487,8 +566,9 @@ async function viewer(st, n, startUnit) {
     const out = h("div", {});
     for (const [col, cat, label] of COLS) {
       const segs = r.seg?.[col] || [];
-      out.append(h("div", { class: "dbcol-h" }, `${label} · ${fmt(segs.length)} lines`));
-      if (!segs.length) { out.append(h("p", { class: "empty" }, "(empty)")); continue; }
+      const box = h("div", { class: `dbcol ${cat}`, "data-cat": cat }, h("div", { class: "dbcol-h" }, `${label} · ${fmt(segs.length)} lines`));
+      out.append(box);
+      if (!segs.length) { box.append(h("p", { class: "empty" }, "(empty)")); continue; }
       const frag = document.createDocumentFragment();
       for (const [fi, u, text] of segs) {
         const mine = fi === n;
@@ -499,14 +579,20 @@ async function viewer(st, n, startUnit) {
         const k = normText(text); if (!textEls.has(k)) textEls.set(k, []); textEls.get(k).push(el);
         frag.append(el);
       }
-      out.append(frag);
+      box.append(frag);
     }
     out.addEventListener("click", (e) => { const el = e.target.closest(".seg.mine"); if (el && el.dataset.n && !e.target.closest("a")) select(+el.dataset.n, "db"); });
     dbBody.replaceChildren(out);
+    dbFind?.refresh();
   }
 
   // ----- pane: topics (immigration-topic tags of this document) -----
   const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, cs, ce, mt], k) => ({ k, u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], cs, ce, mt }));
+  // the separate "immigration" keyword: every match in labeled text (not running headers)
+  for (const u of units) {
+    if (u.f || u.l < 0 || !CAT_NAMES.includes(catOf(u))) continue;
+    for (const m of u.s.matchAll(KW_RE)) docTags.push({ k: docTags.length, u: u.n, sno: 0, t: KW_NO, sc: 1, top: 1, m: "name", c: catOf(u), cs: m.index, ce: m.index + m[0].length, mt: m[0], kw: true });
+  }
   /** Character span of a tag's matched words in its unit's text (null if they cannot be found). */
   const spanOf = (tg) => {
     const s = byN.get(tg.u)?.s || "";
@@ -523,7 +609,7 @@ async function viewer(st, n, startUnit) {
     const parts = [];
     for (let i = 0; i < cuts.length - 1; i++) {
       const a = cuts[i], b = cuts[i + 1];
-      for (const [[x], tg] of spans) if (x === a) parts.push(h("sup", { class: "tno", "data-k": tg.k, title: `${tg.t}. ${topicName(tg.t)} · score ${tg.sc.toFixed(2)}` }, String(tg.t)));
+      for (const [[x], tg] of spans) if (x === a) parts.push(h("sup", { class: "tno", "data-k": tg.k, title: tg.kw ? topicName(tg.t) : `${tg.t}. ${topicName(tg.t)} · score ${tg.sc.toFixed(2)}` }, topicNo(tg.t)));
       const cover = spans.filter(([[x, y]]) => x <= a && y >= b).map(([, tg]) => tg.k);
       parts.push(cover.length ? h("mark", { class: "tm", "data-k": cover.join(" ") }, s.slice(a, b)) : s.slice(a, b));
     }
@@ -534,7 +620,7 @@ async function viewer(st, n, startUnit) {
   const tcats = { standards: true, examples: true, backup: true, ...store.get("tcats", {}) };
   const shown = (tg) => tcats[tg.c] && tagPasses(tg);
   if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
-  const topicName = (t) => TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`;
+  const topicName = (t) => (t === KW_NO ? KW_TOPIC.topic : TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`);
   const tagsOfUnit = new Map();
   for (const tg of docTags) { if (!tagsOfUnit.has(tg.u)) tagsOfUnit.set(tg.u, []); tagsOfUnit.get(tg.u).push(tg); }
   const topicsBody = h("div", { class: "body" });
@@ -545,7 +631,7 @@ async function viewer(st, n, startUnit) {
   const topicsPane = h("section", { class: "pane", "aria-label": "Topics" },
     h("header", {}, h("h2", {}, "Topics"), topicsCount, h("span", { class: "group" }, tcatBtns),
       h("p", { class: "muted small pane-note" }, "The Topics and Charts pages count standards only; examples and backup tags are shown here for reference."),
-      TL ? scoreControl(TL, renderTopics, { compact: true }) : null), topicsBody);
+      TL ? scoreControl(TL, renderTopics, { compact: true }) : null, gfNote()), topicsBody);
   let topicRows = new Map();   // unit -> [row elements]
   function renderTopics() {
     const pass = docTags.filter(shown);
@@ -558,12 +644,12 @@ async function viewer(st, n, startUnit) {
     topicsBody.replaceChildren(...[...byTopic.keys()].sort((a, b) => a - b).map((t) => {
       const list = byTopic.get(t).sort((a, b) => a.u - b.u || a.sno - b.sno);
       return h("details", { class: "tp", "data-t": t, open: open.has(t) },
-        h("summary", {}, h("span", { class: "mono" }, `${t}.`), ` ${topicName(t)} `, h("span", { class: "chip" }, fmt(list.length)),
-          h("a", { class: "tp-more", href: `#/topics/${t}`, title: "See this topic in every state" }, "all states")),
+        h("summary", {}, h("span", { class: "mono" }, `${topicNo(t)}.`), ` ${topicName(t)} `, h("span", { class: "chip" }, fmt(list.length)),
+          h("a", { class: "tp-more", href: topicHref(t), title: "See this topic in every state" }, "all states")),
         list.map((tg) => {
           const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => { select(tg.u, "topics"); hot(tg.k); }, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null) },
-            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.sc.toFixed(2)),
-            h("span", { class: "tp-chips" }, tg.c !== "standards" ? h("span", { class: `chip cat-${tg.c}` }, tg.c) : null, tg.m !== "meaning" ? h("span", { class: "chip" }, "named") : null),
+            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.kw ? "word" : tg.sc.toFixed(2)),
+            h("span", { class: "tp-chips" }, tg.c !== "standards" ? h("span", { class: `chip cat-${tg.c}` }, tg.c) : null, tg.m !== "meaning" && !tg.kw ? h("span", { class: "chip" }, "named") : null),
             h("span", { class: "tp-s" }, "“", h("b", {}, tg.mt), "”"));
           if (!topicRows.has(tg.u)) topicRows.set(tg.u, []);
           topicRows.get(tg.u).push(row);
@@ -576,12 +662,13 @@ async function viewer(st, n, startUnit) {
       const mine = (tagsOfUnit.get(u) || []).filter(shown);
       el.classList.toggle("tagged", mine.length > 0);
       if (mine.length || el.querySelector(".tm")) paintUnit(el, byN.get(u), mine);
-      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: "tchip", "data-k": tg.k, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null),
-        title: `Matched: “${tg.mt}”\n${METHOD_LABEL[tg.m]}; this sentence's best score ${tg.top.toFixed(2)}` },
-        h("b", { class: "mono" }, String(tg.t)), ` ${topicName(tg.t)}`, h("span", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" ? " · named" : ""))));
+      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: `tchip${tg.kw ? " kw" : ""}`, "data-k": tg.k, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null),
+        title: tg.kw ? `Keyword match: “${tg.mt}”` : `Matched: “${tg.mt}”\n${METHOD_LABEL[tg.m]}; this sentence's best score ${tg.top.toFixed(2)}` },
+        h("b", { class: "mono" }, topicNo(tg.t)), ` ${topicName(tg.t)}`, tg.kw ? null : h("span", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" && !tg.kw ? " · named" : ""))));
     }
     for (const [u, els] of boxes) els.forEach((b) => b.classList.toggle("tagged", units.has(u)));
     if (selected) markTopics(selected, false);
+    textFind.refresh();   // the unit text was rewritten
   }
   function markTopics(u, scroll) {
     topicsBody.querySelectorAll(".tp-row.hl").forEach((x) => x.classList.remove("hl"));
@@ -607,15 +694,21 @@ async function viewer(st, n, startUnit) {
   function markText(u, scroll) {
     textBody.querySelectorAll(".u.hl").forEach((x) => x.classList.remove("hl"));
     const el = unitEls.get(u.n);
-    if (!el) return;
+    if (!el || isHidden(u)) return;
     el.classList.add("hl");
     if (u.f && !prefs.furn) furnBtn.click();
-    const c = catOf(u);
-    if (prefs.hide[c]) { prefs.hide[c] = false; hideBtns[["standards", "examples", "backup"].indexOf(c)]?.setAttribute("aria-pressed", "true"); applyHide(); }
     if (scroll) scrollInto(textBody, el);
+  }
+  function showCat(c) { if (!prefs.hide[c]) return; prefs.hide[c] = false; store.set("hide", prefs.hide); hideBtns[["standards", "examples", "backup"].indexOf(c)]?.setAttribute("aria-pressed", "true"); applyHide(); }
+  function clearMarks() { textBody.querySelectorAll(".u.hl").forEach((x) => x.classList.remove("hl")); dbBody.querySelectorAll(".seg.hl").forEach((x) => x.classList.remove("hl")); }
+  function hiddenNote(u) {
+    const c = catOf(u);
+    return [h("strong", { class: "mono" }, `u${u.n}`), h("span", {}, h("i", { class: `cat-dot ${c}` }), ` ${c} text is filtered out, so it is not opened in the clean text or database panes.`),
+      h("button", { type: "button", class: "link", onclick: () => { showCat(c); select(u.n, "show"); } }, `Show ${c}`)];
   }
   function markDb(u, scroll) {
     dbBody.querySelectorAll(".seg.hl").forEach((x) => x.classList.remove("hl"));
+    if (isHidden(u)) return;
     // a repeated unit is kept once in a row: then highlight the identical line it was merged into
     const els = segEls.get(u.n) || (u.r.some((x) => x[0] === dbRow) ? textEls.get(normText(u.s)) || [] : []);
     els.forEach((x) => x.classList.add("hl"));
@@ -625,6 +718,15 @@ async function viewer(st, n, startUnit) {
     const u = byN.get(num);
     if (!u) { selbar.replaceChildren(h("span", { class: "error" }, `This document has no unit u${num}.`)); return; }
     selected = u;
+    // a link from another page (or a typed unit number) opens a filtered-out category; a click inside the viewer does not
+    if (isHidden(u) && (from === "url" || from === "jump")) showCat(catOf(u));
+    if (isHidden(u)) {
+      markOrig(u, from !== "orig"); markTopics(u, from !== "topics"); clearMarks();
+      selbar.replaceChildren(...hiddenNote(u));
+      const want = `#/doc/${st}/${n}/u${u.n}`;
+      if (location.hash !== want) history.replaceState(null, "", want);
+      return;
+    }
     // choose a database row that holds this unit (keep the current one if it does)
     const holding = (u.r.some((x) => x[2]) ? u.r.filter((x) => x[2]) : u.r).map((x) => x[0]);
     if (holding.length && !holding.includes(dbRow)) {
@@ -632,8 +734,8 @@ async function viewer(st, n, startUnit) {
       buildDb();
     }
     markOrig(u, from !== "orig");
-    markText(u, from !== "text");
-    markDb(u, from !== "db");
+    markText(u, from !== "text" && from !== "text-find");
+    markDb(u, from !== "db" && from !== "db-find");
     markTopics(u, from !== "topics");
     const L = u.l >= 0 ? doc.labels[u.l] : null;
     const utags = (tagsOfUnit.get(u.n) || []).filter(shown);
@@ -647,7 +749,7 @@ async function viewer(st, n, startUnit) {
       h("span", {}, kept.length ? [`In ${kept.length} row${kept.length > 1 ? "s" : ""}: `, kept.slice(0, 12).flatMap((x, i) => [i ? ", " : "", h("a", { class: "rowlink", href: "#", onclick: (e) => { e.preventDefault(); dbRow = x[0]; buildDb(); markDb(u, true); } }, x[0]), h("span", { class: "muted" }, ` (${x[1]})`)]), kept.length > 12 ? ` and ${kept.length - 12} more` : ""]
         : dropped.length ? null : h("span", { class: "muted" }, "Not in any row's text")),
       dropped.length ? h("span", { class: "muted" }, `Repeat of text already in ${dropped.map((x) => x[0]).join(", ")} (kept once)`) : null,
-      utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: `#/topics/${tg.t}` }, `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted" }, ` ← “${tg.mt}”`), h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
+      utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: topicHref(tg.t) }, tg.kw ? topicName(tg.t) : `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted" }, ` ← “${tg.mt}”`), tg.kw ? null : h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
     const want = `#/doc/${st}/${n}/u${u.n}`;
     if (location.hash !== want) history.replaceState(null, "", want);
   }
@@ -657,13 +759,15 @@ async function viewer(st, n, startUnit) {
   function layoutPanes() {
     panes.replaceChildren(...[["orig", origPane], ["text", textPane], ["db", dbPane], ["topics", TL ? topicsPane : null]].filter(([k, p]) => p && prefs.panes[k]).map(([, p]) => p));
     if (selected) { markOrig(selected, true); markText(selected, true); markDb(selected, true); markTopics(selected, true); }
+    textFind.refresh(); dbFind.refresh();
   }
-  function destroy() { observer?.disconnect(); pdfTask?.destroy?.(); }
+  function destroy() { observer?.disconnect(); pdfTask?.destroy?.(); textFind.clear(); dbFind.clear(); }
 
   setMain(h("div", { class: "viewer" }, bar, selbar, panes));
   layoutPanes();
   buildText();
   buildDb();
+  applyHide();
   if (doc.grid) buildGrid();
   else if (doc.blocks) buildBlocks();
   else if (/\.(pdf)$/i.test(doc.view || "")) buildPdf().catch((e) => origBody.append(h("p", { class: "error" }, `Could not show the pages: ${e.message}. Use the link above to open the file.`)));

@@ -26,6 +26,40 @@ async function loadTopicData() {
 }
 const loadTopicText = () => getJSON("topics/text.json");
 
+// ---------- the separate keyword count: every word starting with "immigra" (scripts/keyword_tags.py) ----------
+const KW_NO = 0;   // its topic number in the tag columns; the 106 topics are numbered from 1
+const KW_RE = /(?<![A-Za-z])immigra[A-Za-z]*/gi;   // keep in step with PATTERN in scripts/keyword_tags.py
+const KW_TOPIC = { no: KW_NO, era: "Keyword", topic: "“Immigration” keyword", years: "all", terms: ["immigration", "immigrant(s)", "immigrate(d)", "any word starting with “immigra”"],
+  description: "Not one of the 106 topics: a plain word search, counted on its own. Every word starting with “immigra” (immigration, immigrant, immigrated…) is one match, whatever its meaning; “emigration” and “migration” are not matched." };
+let KD;   // keyword data shaped like TD (undefined: not loaded yet; null: not built)
+async function loadKeywordData() {
+  if (KD !== undefined) return KD;
+  const D = await loadTopicData();
+  const kw = await getJSON("topics/keyword.json").catch(() => null);
+  KD = kw ? { ...D, tags: kw.tags, text: kw.text, n: kw.tags.t.length, topics: [KW_TOPIC], eras: [KW_TOPIC.era], topicByNo: { [KW_NO]: KW_TOPIC }, eraOfTopic: { [KW_NO]: 0 }, keyword: true } : null;
+  return KD;
+}
+const topicHref = (t) => (t === KW_NO ? "#/topics/kw" : `#/topics/${t}`);
+const topicNo = (t) => (t === KW_NO ? "kw" : String(t));
+
+// ---------- global topic filter (Filters tab): leaves topics out of every tab and the viewer; remembered ----------
+const GF = { excluded: new Set(store.get("gfExcluded", [])), kw: store.get("gfKw", true) };
+function saveGF() { store.set("gfExcluded", [...GF.excluded]); store.set("gfKw", GF.kw); navBadge(); }
+const topicOn = (t) => (t === KW_NO ? GF.kw : !GF.excluded.has(t));
+function navBadge() {
+  const a = document.querySelector('.nav a[data-nav="filters"]');
+  if (!a) return;
+  const n = GF.excluded.size + (GF.kw ? 0 : 1);
+  a.replaceChildren("Filters", n ? h("span", { class: "nav-badge", title: `${n} topic${n > 1 ? "s" : ""} filtered out` }, String(n)) : "");
+}
+/** A line saying which topics the global filter leaves out (null when none). */
+function gfNote() {
+  const n = GF.excluded.size;
+  if (!n && GF.kw) return null;
+  const parts = [n ? `${n} topic${n > 1 ? "s are" : " is"} filtered out` : null, GF.kw ? null : "the “immigration” keyword is off"].filter(Boolean).join(" and ");
+  return h("p", { class: "gf-note" }, `${parts[0].toUpperCase()}${parts.slice(1)} on every tab. `, h("a", { href: "#/filters" }, "Change the global filter"));
+}
+
 // ---------- grades ----------
 const gIsBand = (g) => /[-+]/.test(g);
 const gNum = (x) => (x === "PK" ? -1 : x === "K" ? 0 : +x);
@@ -51,7 +85,7 @@ function gradeOK(g) {
   return AF.grade.slice(2) === g;   // "g:05" or "b:K-02": an exact grade group
 }
 const catOK = () => true;   // the analysis data holds standards text only (examples and backup are excluded)
-/** Indices of the tags that pass the filters. opts.ignoreGrade / ignoreTopics / ignoreStates relax one filter. */
+/** Indices of the tags that pass the filters. opts.ignoreGrade / ignoreTopics / ignoreStates / ignoreGlobal relax one filter. */
 function filteredTags(D, opts = {}) {
   const T = D.tags, out = [];
   const st = new Set(opts.ignoreStates ? D.states : effStates(D));
@@ -60,7 +94,8 @@ function filteredTags(D, opts = {}) {
   const min = Math.round(AF.minScore * 1000);
   for (let i = 0; i < D.n; i++) {
     if (!stOK[T.st[i]] || !gOK[T.g[i]] || !catOK(T.c[i])) continue;
-    if (!opts.ignoreTopics && !AF.topics.has(T.t[i])) continue;
+    if (!opts.ignoreGlobal && !topicOn(T.t[i])) continue;
+    if (!opts.ignoreTopics && !D.keyword && !AF.topics.has(T.t[i])) continue;
     if (T.sc[i] < min && !(AF.named && T.m[i] !== 0)) continue;
     out.push(i);
   }
@@ -94,7 +129,7 @@ function wordTotals(D, opts = {}) {
   }
   return { byState, byStateGrade };
 }
-const tagPasses = (tag) => tag.sc >= AF.minScore || (AF.named && tag.m !== "meaning");
+const tagPasses = (tag) => topicOn(tag.t) && (tag.sc >= AF.minScore || (AF.named && tag.m !== "meaning"));
 
 // ---------- small UI pieces ----------
 function multiSelect({ id, label, groups, selected, onChange, noun, max }) {
@@ -153,7 +188,7 @@ function multiSelect({ id, label, groups, selected, onChange, noun, max }) {
   return h("div", { class: "field" }, h("label", { for: id }, label), det);
 }
 
-function filterBar(D, onChange, { topics = true } = {}) {
+function filterBar(D, onChange, { topics = true, score = true, extra = null } = {}) {
   const stateGroups = REGION_NAMES.map((r) => ({ name: r, items: REGIONS[r].filter((s) => D.states.includes(s)).map((s) => ({ value: s, label: `${s} · ${D.stateNames[s]}` })) }));
   const stSel = multiSelect({ id: "af-states", label: "States", groups: stateGroups, selected: AF.states, onChange, noun: "states" });
   const regions = h("div", { class: "field" }, h("span", { class: "flabel" }, "Regions"),
@@ -169,10 +204,10 @@ function filterBar(D, onChange, { topics = true } = {}) {
   grSel.value = AF.grade;
   grSel.addEventListener("change", () => { AF.grade = grSel.value; onChange(); });
   const topicSel = topics ? multiSelect({ id: "af-topics", label: "Topics", noun: "topics", selected: AF.topics, onChange,
-    groups: D.eras.map((e) => ({ name: e, items: D.topics.filter((t) => t.era === e).map((t) => ({ value: t.no, label: `${t.no}. ${t.topic}` })) })) }) : null;
-  return h("div", { class: "filters filterbar", role: "search" }, stSel, regions,
+    groups: D.eras.map((e) => ({ name: e, items: D.topics.filter((t) => t.era === e && topicOn(t.no)).map((t) => ({ value: t.no, label: `${t.no}. ${t.topic}` })) })).filter((g) => g.items.length) }) : null;
+  return h("div", { class: "filters filterbar", role: "search" }, extra, stSel, regions,
     h("div", { class: "field" }, h("label", { for: "af-grade" }, "Grade"), grSel),
-    topicSel, scoreControl(D, onChange), repeatControl(onChange));
+    topicSel, score ? scoreControl(D, onChange) : null, repeatControl(onChange));
 }
 
 function repeatControl(onChange) {
@@ -256,21 +291,41 @@ function markMatch(sentence, start, len) {
 
 // ================= TOPICS TAB =================
 async function topicsPage(no) {
-  const [D, idx] = await Promise.all([loadTopicData(), loadIndex()]);
+  const [D, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
   D.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
+  if (K) K.stateNames = D.stateNames;
   initFilters(D);
+  if (no === "kw") { if (!K) throw new Error("The keyword count has not been built (run scripts/keyword_tags.py, then scripts/build_site.py)."); return topicDetail(K, idx, KW_NO); }
   if (no) return topicDetail(D, idx, +no);
   const body = h("div", { class: "topic-eras" });
+  const kwBox = h("div", {});
   const stat = h("p", { class: "stats" });
+  const onTopics = D.topics.filter((t) => topicOn(t.no));
   function draw() {
     const keep = filteredTags(D, { ignoreTopics: true });
     const count = {}, states = {};
     for (const i of keep) { const t = D.tags.t[i]; count[t] = (count[t] || 0) + 1; (states[t] ||= new Set()).add(D.tags.st[i]); }
     const max = Math.max(1, ...Object.values(count));
-    stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, Object.keys(count).length), " of ", h("b", {}, D.topics.length), " distinct topics found"),
+    stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, Object.keys(count).length), " of ", h("b", {}, onTopics.length), " distinct topics found"),
       h("span", {}, h("b", {}, effStates(D).length), " states selected"));
+    // the keyword count, apart from the topics
+    if (K && GF.kw) {
+      const kk = filteredTags(K);
+      const ks = new Set(kk.map((i) => K.tags.st[i]));
+      const { byState: w } = wordTotals(D);
+      const words = effStates(D).reduce((a, s) => a + (w[s] || 0), 0);
+      kwBox.replaceChildren(h("section", { class: "era kw-era" },
+        h("header", {}, h("h2", {}, "Separate keyword count"), h("span", { class: "muted mono" }, `${fmt(kk.length)} matches`)),
+        h("p", { class: "muted small" }, "Not part of the topic counts below: every word starting with “immigra” (immigration, immigrant, immigrated…), found by plain text search."),
+        h("ol", { class: "topic-list" }, h("li", {},
+          h("a", { class: "tl-name", href: topicHref(KW_NO) }, h("span", { class: "tl-no mono" }, "kw"), h("span", {}, KW_TOPIC.topic, h("span", { class: "muted" }, ` · ${words ? fmt1((kk.length / words) * 1e4) : "—"} per 10,000 words`))),
+          h("span", { class: "tl-bar", "aria-hidden": "true" }, h("i", { style: `width:${Math.min(100, (kk.length / max) * 100)}%` })),
+          h("span", { class: "tl-n mono" }, fmt(kk.length)),
+          h("span", { class: "tl-s muted" }, `${ks.size} states`)))));
+    } else kwBox.replaceChildren();
     body.replaceChildren(...D.eras.map((era) => {
-      const ts = D.topics.filter((t) => t.era === era);
+      const ts = D.topics.filter((t) => t.era === era && topicOn(t.no));
+      if (!ts.length) return null;
       const n = ts.reduce((a, t) => a + (count[t.no] || 0), 0);
       return h("section", { class: "era" },
         h("header", {}, h("h2", {}, era), h("span", { class: "muted mono" }, `${fmt(n)} tags`)),
@@ -279,31 +334,34 @@ async function topicsPage(no) {
           h("span", { class: "tl-bar", "aria-hidden": "true" }, h("i", { style: `width:${((count[t.no] || 0) / max) * 100}%` })),
           h("span", { class: "tl-n mono" }, fmt(count[t.no] || 0)),
           h("span", { class: "tl-s muted" }, `${states[t.no]?.size || 0} states`)))));
-    }));
+    }).filter(Boolean));
   }
   setMain(h("div", { class: "page" },
-    h("div", {}, h("p", { class: "eyebrow" }, "Immigration topics"), h("h1", {}, "106 topics, numbered by era")),
+    h("div", {}, h("p", { class: "eyebrow" }, "Immigration topics"), h("h1", {}, `${onTopics.length === D.topics.length ? D.topics.length : `${onTopics.length} of ${D.topics.length}`} topics, numbered by era`)), gfNote(),
     h("p", { class: "lede" }, "Each sentence of the standards text was compared with every topic by a local language model. A sentence gets the one topic it is most similar to, plus any topic it names outright. Raise the minimum similarity score to drop weak matches. Examples and backup text are tagged too, but only in the document viewer; they are not counted here."),
-    filterBar(D, draw, { topics: false }), stat, body));
+    filterBar(D, draw, { topics: false }), stat, kwBox, body));
   draw();
 }
 
 async function topicDetail(D, idx, no) {
   const t = D.topicByNo[no];
   if (!t) throw new Error(`There is no topic ${no}.`);
-  const text = await loadTopicText();
+  const text = D.text || await loadTopicText();
+  const off = !topicOn(no) ? h("p", { class: "gf-note" }, `This ${D.keyword ? "keyword" : "topic"} is filtered out on every tab, so nothing is counted here. `,
+    h("button", { type: "button", class: "link", onclick: () => { D.keyword ? (GF.kw = true) : GF.excluded.delete(no); saveGF(); route(); } }, "Include it again"), " · ", h("a", { href: "#/filters" }, "Global filter")) : null;
   const byState = h("div", { class: "table-wrap" });
   const occ = h("div", { class: "occ" });
   const stat = h("p", { class: "stats" });
   let limit = 200;
   function draw() {
     const keep = filteredTags(D, { ignoreTopics: true }).filter((i) => D.tags.t[i] === no);
+    const noun = D.keyword ? "matches" : "tags";
     const { byState: words } = wordTotals(D);
     const per = {};
     for (const i of keep) { const s = D.states[D.tags.st[i]]; per[s] = (per[s] || 0) + 1; }
-    stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, Object.keys(per).length), " states"));
+    stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), ` ${noun}`), h("span", {}, h("b", {}, Object.keys(per).length), " states"));
     const rows = Object.entries(per).sort((a, b) => b[1] - a[1]);
-    byState.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, h("th", {}, "State"), h("th", {}, "Region"), h("th", { class: "num" }, "Tags"), h("th", { class: "num" }, "Per 10,000 words"))),
+    byState.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, h("th", {}, "State"), h("th", {}, "Region"), h("th", { class: "num" }, D.keyword ? "Matches" : "Tags"), h("th", { class: "num" }, "Per 10,000 words"))),
       h("tbody", {}, rows.map(([s, n]) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(n)), h("td", { class: "num" }, words[s] ? fmt1((n / words[s]) * 1e4) : "—"))))));
     // occurrences grouped by state and document
     keep.sort((a, b) => D.tags.st[a] - D.tags.st[b] || D.tags.d[a] - D.tags.d[b] || D.tags.u[a] - D.tags.u[b]);
@@ -316,25 +374,32 @@ async function topicDetail(D, idx, no) {
       if (key !== lastKey) { out.push(h("h3", { class: "occ-doc" }, `${D.stateNames[s]} · `, h("span", { class: "muted" }, idx.states[s].files[d]?.name || "?"))); lastKey = key; }
       out.push(h("a", { class: "occ-row", href: `#/doc/${s}/${d}/u${T.u[i]}` },
         h("span", { class: "occ-text" }, markMatch(text[T.x[i]], T.ms[i], T.ml[i])),
-        h("span", { class: "occ-meta" }, h("b", { class: "mono" }, (T.sc[i] / 1000).toFixed(2)), ` ${METHOD_LABEL[METHOD_NAMES[T.m[i]]]}`,
+        h("span", { class: "occ-meta" }, D.keyword ? h("b", {}, "keyword match") : [h("b", { class: "mono" }, (T.sc[i] / 1000).toFixed(2)), ` ${METHOD_LABEL[METHOD_NAMES[T.m[i]]]}`],
           ` · ${CAT_NAMES[T.c[i]]} · grades ${gLabel(D.grades[T.g[i]])}`, T.co[i] >= 0 ? ` · ${D.courses[T.co[i]]}` : "", ` · u${T.u[i]}`)));
     }
     if (keep.length > shown.length) out.push(h("button", { onclick: () => { limit += 400; draw(); } }, `Show more (${fmt(keep.length - shown.length)} more)`));
     occ.replaceChildren(...(out.length ? out : [h("p", { class: "muted" }, "No sentences match these filters.")]));
   }
   setMain(h("div", { class: "page" },
-    h("div", {}, h("p", { class: "eyebrow" }, h("a", { href: "#/topics" }, "Topics"), ` / ${t.era}`), h("h1", {}, `${t.no}. ${t.topic}`)),
-    h("dl", { class: "meta" }, h("dt", {}, "Years"), h("dd", {}, t.years), h("dt", {}, "Description"), h("dd", {}, t.description), h("dt", {}, "Search terms"), h("dd", {}, t.terms.join("; "))),
-    filterBar(D, draw, { topics: false }), stat,
+    h("div", {}, h("p", { class: "eyebrow" }, h("a", { href: "#/topics" }, "Topics"), ` / ${t.era}`), h("h1", {}, D.keyword ? t.topic : `${t.no}. ${t.topic}`)), off,
+    h("dl", { class: "meta" }, h("dt", {}, "Years"), h("dd", {}, t.years), h("dt", {}, "Description"), h("dd", {}, t.description), h("dt", {}, D.keyword ? "Matches" : "Search terms"), h("dd", {}, t.terms.join("; "))),
+    filterBar(D, draw, { topics: false, score: !D.keyword }), stat,
     h("div", { class: "two-col" }, h("section", {}, h("h2", {}, "By state"), byState), h("section", { class: "minw0" }, h("h2", {}, "Where it appears"), h("p", { class: "muted" }, "Click a sentence to open it in the side-by-side viewer."), occ))));
   draw();
 }
 
 // ================= CHARTS TAB =================
 async function chartsPage() {
-  const [D, idx] = await Promise.all([loadTopicData(), loadIndex()]);
-  D.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
-  initFilters(D);
+  const [TD0, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
+  TD0.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
+  if (K) K.stateNames = TD0.stateNames;
+  initFilters(TD0);
+  // what is counted: the 106 topics, or the separate "immigration" keyword
+  const kwOn = !!K && GF.kw && store.get("chartSource", "topics") === "kw";
+  const D = kwOn ? K : TD0;
+  const srcSel = K && GF.kw ? h("select", { id: "af-src" }, h("option", { value: "topics" }, "Immigration topics (106)"), h("option", { value: "kw" }, "“Immigration” keyword (separate)")) : null;
+  if (srcSel) { srcSel.value = kwOn ? "kw" : "topics"; srcSel.addEventListener("change", () => { store.set("chartSource", srcSel.value); chartsPage(); }); }
+  const srcField = srcSel ? h("div", { class: "field" }, h("label", { for: "af-src" }, "Count"), srcSel) : null;
   const geo = await fetch("site/vendor/states-albers-10m.json").then((r) => r.json());
   const tip = tooltip();
   const opt = { mapMeasure: "rate", mapScale: "linear", mtxValue: "share", mtxCols: "eras", lineMeasure: "count", lineAgg: "avg", lineBy: "combined", compare: new Set() };
@@ -379,7 +444,7 @@ async function chartsPage() {
       const s = nameToAbbr[f.properties.name];
       const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : "q0 off"}`, tabindex: "0", "aria-label": s });
       const show = (e) => {
-        const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), `${t}. ${D.topicByNo[t].topic}`]);
+        const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), D.keyword ? "keyword matches" : `${t}. ${D.topicByNo[t].topic}`]);
         tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...tops]
           : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
       };
@@ -409,7 +474,7 @@ async function chartsPage() {
 
   // ----- matrix: distribution of topic mentions -----
   function drawMatrix(keep, eff, words) {
-    const selTopics = D.topics.filter((t) => AF.topics.has(t.no));
+    const selTopics = D.topics.filter((t) => (D.keyword || AF.topics.has(t.no)) && topicOn(t.no));
     const useTopics = opt.mtxCols === "topics";
     const cols = useTopics ? selTopics.map((t) => ({ key: t.no, label: String(t.no), title: `${t.no}. ${t.topic}` }))
       : D.eras.map((e, i) => ({ key: i, label: e.replace(/\s*\(.*\)/, ""), title: e })).filter((c) => selTopics.some((t) => D.eraOfTopic[t.no] === c.key));
@@ -540,8 +605,10 @@ async function chartsPage() {
 
   setMain(h("div", { class: "page wide" },
     h("div", {}, h("p", { class: "eyebrow" }, "Data visualization"), h("h1", {}, "Immigration topics across states and grades")),
-    h("p", { class: "lede" }, "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
-    filterBar(D, draw), stat,
+    h("p", { class: "lede" }, D.keyword
+      ? "Standards text only. Counting the separate “immigration” keyword: each word starting with “immigra” is one tag, apart from the 106 topics. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
+      : "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
+    gfNote(), filterBar(D, draw, { topics: !D.keyword, score: !D.keyword, extra: srcField }), stat,
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "Where immigration topics appear"),
       h("div", { class: "card-tools" }, h("label", { for: "map-m" }, "Measure"), sel("map-m", [["rate", "Tags per 10,000 words"], ["count", "Tags (count)"], ["distinct", "Distinct topics"]], "mapMeasure"),
         h("label", { for: "map-s" }, "Scale"), sel("map-s", [["linear", "Linear"], ["log", "Log"], ["quantile", "Categories (quintiles)"]], "mapScale"), tableBtn(mapTable))),
@@ -560,6 +627,66 @@ async function chartsPage() {
       bandBox, lineTable,
       h("p", { class: "muted small" }, "The grade filter above does not apply to these two charts: they always show every grade and band. A line skips a grade where none of its states has text written for that grade."))));
   draw();
+}
+
+// ================= FILTERS TAB (global topic filter) =================
+async function filtersPage() {
+  const [D, K, idx] = await Promise.all([loadTopicData(), loadKeywordData(), loadIndex()]);
+  D.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
+  initFilters(D);
+  // tags per topic in all states and grades, at the current score settings, to help decide
+  const count = {};
+  for (const i of filteredTags(D, { ignoreTopics: true, ignoreStates: true, ignoreGrade: true, ignoreGlobal: true })) count[D.tags.t[i]] = (count[D.tags.t[i]] || 0) + 1;
+  const kwCount = K ? filteredTags(K, { ignoreStates: true, ignoreGrade: true, ignoreGlobal: true }).length : 0;
+  const status = h("span", { class: "muted" });
+  const boxes = new Map(), eraBoxes = [];
+  function sync() {
+    const on = D.topics.filter((t) => topicOn(t.no)).length;
+    status.textContent = `${on} of ${D.topics.length} topics included${K ? `; keyword ${GF.kw ? "included" : "left out"}` : ""}`;
+    for (const [no, cb] of boxes) { cb.checked = topicOn(no); cb.closest(".gf-item")?.classList.toggle("off", !cb.checked); }
+    for (const [cb, nos] of eraBoxes) { const k = nos.filter(topicOn).length; cb.checked = k === nos.length; cb.indeterminate = k > 0 && k < nos.length; }
+  }
+  function set(nos, on) {
+    for (const no of nos) { if (no === KW_NO) GF.kw = on; else on ? GF.excluded.delete(no) : GF.excluded.add(no); }
+    saveGF(); sync();
+  }
+  const search = h("input", { type: "search", id: "gf-q", placeholder: "Find a topic…" });
+  const all = D.topics.map((t) => t.no);
+  const item = (no, label, sub, n) => {
+    const cb = h("input", { type: "checkbox" });
+    cb.addEventListener("change", () => set([no], cb.checked));
+    boxes.set(no, cb);
+    return h("li", { class: "gf-item", "data-label": `${topicNo(no)}. ${label}`.toLowerCase() },
+      h("label", {}, cb, h("span", { class: "tl-no mono" }, topicNo(no)), h("span", {}, label, sub ? h("span", { class: "muted" }, ` · ${sub}`) : null)),
+      h("span", { class: "tl-n mono", title: "Tags in the standards text of all states at the current score settings" }, fmt(n)),
+      h("button", { type: "button", class: "link", onclick: () => { set(all, false); set([no], true); }, title: "Keep only this topic" }, "only"));
+  };
+  const eras = D.eras.map((era) => {
+    const ts = D.topics.filter((t) => t.era === era), nos = ts.map((t) => t.no);
+    const cb = h("input", { type: "checkbox", "aria-label": `All topics of ${era}` });
+    cb.addEventListener("change", () => set(nos, cb.checked));
+    eraBoxes.push([cb, nos]);
+    return h("section", { class: "era gf-era" },
+      h("header", {}, h("label", { class: "gf-era-h" }, cb, h("h2", {}, era)), h("span", { class: "muted mono" }, `${ts.length} topics`)),
+      h("ul", { class: "gf-list" }, ts.map((t) => item(t.no, t.topic, t.years, count[t.no] || 0))));
+  });
+  search.addEventListener("input", () => {
+    const q = search.value.trim().toLowerCase();
+    document.querySelectorAll(".gf-item").forEach((r) => (r.hidden = q && !r.dataset.label.includes(q)));
+    document.querySelectorAll(".gf-era").forEach((e) => (e.hidden = !e.querySelector(".gf-item:not([hidden])")));
+  });
+  setMain(h("div", { class: "page" },
+    h("div", {}, h("p", { class: "eyebrow" }, "Global filter"), h("h1", {}, "Choose which topics count, on every tab")),
+    h("p", { class: "lede" }, "A topic you uncheck here is left out everywhere: the Topics list, the Charts (map, heat map, grade charts and their totals), and the tags in the document viewer. The choice is saved in this browser."),
+    h("div", { class: "filters filterbar" },
+      h("div", { class: "field" }, h("label", { for: "gf-q" }, "Find"), search),
+      h("div", { class: "field" }, h("span", { class: "flabel" }, "Topics"), h("div", { class: "chips" },
+        h("button", { type: "button", onclick: () => set(all, true) }, "Include all"), h("button", { type: "button", onclick: () => set(all, false) }, "Leave all out"))),
+      status),
+    K ? h("section", { class: "era gf-era kw-era" }, h("header", {}, h("h2", {}, "Separate keyword count"), h("span", { class: "muted mono" }, "not one of the 106 topics")),
+      h("ul", { class: "gf-list" }, item(KW_NO, KW_TOPIC.topic, "every word starting with “immigra”", kwCount))) : null,
+    h("div", { class: "topic-eras" }, eras)));
+  sync();
 }
 
 /** Round tick values (0, step, 2*step, ...) that stay within an axis ending at max. */

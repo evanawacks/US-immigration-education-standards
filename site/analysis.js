@@ -410,12 +410,12 @@ async function chartsPage() {
   const geo = await fetch("site/vendor/states-albers-10m.json").then((r) => r.json());
   const tip = tooltip();
   const opt = { mapMeasure: "rate", mapScale: "linear", mtxValue: "share", mtxCols: "eras", lineMeasure: "count", lineAgg: "avg", lineBy: "combined", compare: new Set(),
-    smMeasure: "count", smScale: "own", profile: store.get("profile", null) };
+    smMeasure: "count", smRows: "states", profile: store.get("profile", null) };
 
   const stat = h("p", { class: "stats" });
   const mapBox = h("div", { class: "viz-map" }), mapLegend = h("div", {}), mapTable = h("div", { class: "table-wrap", hidden: true });
   const mtxBox = h("div", { class: "viz-mtx table-wrap" });
-  const lineBox = h("div", { class: "viz-line" }), smBox = h("div", { class: "sm-grid" }), profBox = h("div", { class: "profile" }), lineLegend = h("div", {}), lineTable = h("div", { class: "table-wrap", hidden: true });
+  const lineBox = h("div", { class: "viz-line" }), smBox = h("div", { class: "viz-line viz-rows" }), profBox = h("div", { class: "profile" }), lineLegend = h("div", {}), lineTable = h("div", { class: "table-wrap", hidden: true });
   const sel = (id, options, key) => {
     const s = h("select", { id }, options.map(([v, l]) => h("option", { value: v }, l)));
     s.value = opt[key]; s.addEventListener("change", () => { opt[key] = s.value; draw(); }); return s;
@@ -426,6 +426,7 @@ async function chartsPage() {
   const features = topojson.feature(geo, geo.objects.states).features;
   const nameToAbbr = Object.fromEntries(Object.entries(D.stateNames).map(([a, n]) => [n, a]));
 
+  let kwPer = null;
   function draw() {
     const keep = filteredTags(D);
     const { byState: words } = wordTotals(D);
@@ -433,8 +434,12 @@ async function chartsPage() {
     const per = {}, top = {};
     for (const i of keep) { const s = D.states[D.tags.st[i]]; per[s] = (per[s] || 0) + 1; ((top[s] ||= {})[D.tags.t[i]] = (top[s][D.tags.t[i]] || 0) + 1); }
     const totW = eff.reduce((a, s) => a + words[s], 0);
+    // the separate keyword count, shown beside the topic tags (same states and grades)
+    kwPer = null;
+    if (K && GF.kw && !D.keyword) { kwPer = {}; for (const i of filteredTags(K)) { const s = D.states[K.tags.st[i]]; kwPer[s] = (kwPer[s] || 0) + 1; } }
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, distinct(D, keep)), " distinct topics"), h("span", {}, h("b", {}, eff.length), " states with text"),
-      h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"));
+      h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"),
+      kwPer ? h("a", { href: "#/topics/kw", class: "kw-stat" }, h("b", {}, fmt(Object.values(kwPer).reduce((a, b) => a + b, 0))), " “immigration” keyword matches") : null);
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });
@@ -457,7 +462,7 @@ async function chartsPage() {
       const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : "q0 off"}`, tabindex: "0", "aria-label": s });
       const show = (e) => {
         const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), D.keyword ? "keyword matches" : `${t}. ${D.topicByNo[t].topic}`]);
-        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...tops]
+        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...(kwPer ? [[fmt(kwPer[s] || 0), "“immigration” keyword matches"]] : []), ...tops]
           : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
       };
       p.addEventListener("pointermove", show); p.addEventListener("pointerleave", tip.hide);
@@ -480,8 +485,8 @@ async function chartsPage() {
     mapBox.replaceChildren(svg("svg", { viewBox: "-60 0 1040 620", role: "img", "aria-label": "Map of states colored by immigration-topic tags" }, paths, extra));
     const f = opt.mapMeasure === "rate" ? fmt1 : (x) => fmt(Math.round(x));
     mapLegend.replaceChildren(legendBins(b, f, opt.mapScale === "quantile" ? "Five equal-size groups of states" : opt.mapScale === "log" ? "Log scale" : ""));
-    mapTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, ["State", "Region", "Tags", "Distinct topics", "Words", "Per 10,000 words"].map((x, i) => h("th", { class: i > 1 ? "num" : null }, x)))),
-      h("tbody", {}, eff.slice().sort((a, c) => val(c) - val(a)).map((s) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(per[s] || 0)), h("td", { class: "num" }, fmt(nTop(s))), h("td", { class: "num" }, fmt(words[s])), h("td", { class: "num" }, fmt1(((per[s] || 0) / words[s]) * 1e4)))))));
+    mapTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, ["State", "Region", "Tags", "Distinct topics", "Words", "Per 10,000 words", kwPer ? "“Immigration” words" : null].filter(Boolean).map((x, i) => h("th", { class: i > 1 ? "num" : null }, x)))),
+      h("tbody", {}, eff.slice().sort((a, c) => val(c) - val(a)).map((s) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(per[s] || 0)), h("td", { class: "num" }, fmt(nTop(s))), h("td", { class: "num" }, fmt(words[s])), h("td", { class: "num" }, fmt1(((per[s] || 0) / words[s]) * 1e4)), kwPer ? h("td", { class: "num" }, fmt(kwPer[s] || 0)) : null)))));
   }
 
   // ----- matrix: distribution of topic mentions -----
@@ -641,17 +646,82 @@ async function chartsPage() {
     });
     return svg("svg", { viewBox: `0 0 ${w} ${H}`, role: "img", "aria-label": `${D.stateNames[s]}: ${smUnit[m]} by grade and band` }, out);
   }
+  /** One chart: a row per state (or region), grades Pre-K..12 across. A single grade is a dot; a band is a dot at each
+      grade it covers joined by a line, on its own lane under the row's single grades. Dot color = value relative to the
+      row's own highest grade group. */
   function drawStates(keep, byStateGrade, eff) {
-    const G = gradeStats(keep, byStateGrade), m = opt.smMeasure;
-    const yMax = opt.smScale === "shared" ? 1.1 * Math.max(1e-9, ...Object.keys(byStateGrade).filter((k) => eff.includes(k.split("|")[0])).map((k) => smVal(G, k, m))) : null;
-    smBox.replaceChildren(...(eff.length ? eff.map((s) => {
-      const n = Object.keys(G.cnt).filter((k) => k.startsWith(s + "|")).reduce((a, k) => a + G.cnt[k], 0);
-      const singles = D.grades.filter((g) => !gIsBand(g) && byStateGrade[`${s}|${g}`] > 0).length, bands = D.grades.filter((g) => gIsBand(g) && byStateGrade[`${s}|${g}`] > 0).length;
-      return h("figure", { class: "sm" },
-        h("figcaption", {}, h("button", { type: "button", class: "link sm-name", title: "Open this state's summary", onclick: () => { opt.profile = s; store.set("profile", s); drawProfile(eff); profBox.closest(".card").scrollIntoView({ block: "start" }); } }, `${s} · ${D.stateNames[s]}`),
-          h("span", { class: "muted small" }, `${fmt(n)} tags · ${singles} grades, ${bands} band${bands === 1 ? "" : "s"}`)),
-        statePanel(s, G, m, { yMax }));
-    }) : [h("p", { class: "muted" }, "No states with text under these filters.")]));
+    const G0 = gradeStats(keep, byStateGrade), m = opt.smMeasure;
+    let G = G0, rows;
+    if (opt.smRows === "regions") {   // add up the states of each region, grade group by grade group
+      const cnt = {}, tset = {}, words = {};
+      for (const [k, w] of Object.entries(byStateGrade)) {
+        const [st, g] = k.split("|");
+        if (!eff.includes(st)) continue;
+        const rk = `${REGION_OF[st]}|${g}`;
+        words[rk] = (words[rk] || 0) + w; cnt[rk] = (cnt[rk] || 0) + (G0.cnt[k] || 0);
+        for (const t of G0.tset[k] || []) (tset[rk] ||= new Set()).add(t);
+      }
+      G = { cnt, tset, words };
+      rows = REGION_NAMES.filter((r) => eff.some((st) => REGION_OF[st] === r)).map((r) => ({ key: r, label: r, sub: `${eff.filter((st) => REGION_OF[st] === r).length} states` }));
+    } else {
+      const order = opt.smRows === "byRegion" ? REGION_NAMES.flatMap((r) => eff.filter((st) => REGION_OF[st] === r)) : eff;
+      rows = order.map((st, i) => ({ key: st, label: `${st} · ${D.stateNames[st]}`, state: st, head: opt.smRows === "byRegion" && (i === 0 || REGION_OF[order[i - 1]] !== REGION_OF[st]) ? REGION_OF[st] : null }));
+    }
+    const W = 1000, L = 190, R = 24, TOP = 26, LANE = 9, PAD = 7, HEAD = 22;
+    const xs = (p) => L + 12 + (p * (W - L - R - 24)) / 13;
+    // lay out each row: lane 0 = single grades, bands packed into lanes 1, 2, ... without overlapping
+    let y = TOP;
+    const laid = rows.map((row) => {
+      const groups = D.grades.filter((g) => G.words[`${row.key}|${g}`] > 0);
+      const lanes = [];
+      const place = groups.filter(gIsBand).sort((a, b) => gSpan(a)[0] - gSpan(b)[0] || gSpan(b).length - gSpan(a).length).map((g) => {
+        const sp = gSpan(g);
+        let li = lanes.findIndex((end) => end < sp[0]);
+        if (li < 0) { lanes.push(-1); li = lanes.length - 1; }
+        lanes[li] = sp[sp.length - 1];
+        return [g, li + 1];
+      });
+      const hasSingles = groups.some((g) => !gIsBand(g));
+      const nLanes = (hasSingles ? 1 : 0) + lanes.length;
+      const head = row.head ? (y += HEAD, y - HEAD) : null;
+      const top = y, hgt = Math.max(1, nLanes) * LANE + 2 * PAD;
+      y += hgt;
+      const laneY = (li) => top + PAD + LANE / 2 + (hasSingles ? li : li - 1) * LANE;
+      return { row, groups, place: [...groups.filter((g) => !gIsBand(g)).map((g) => [g, 0]), ...place], top, hgt, laneY, head };
+    });
+    const H = y + 26;
+    const out = [];
+    AXIS_GRADES.forEach((lab, p) => {
+      out.push(svg("line", { x1: xs(p), x2: xs(p), y1: TOP - 4, y2: y, class: "grid" }));
+      out.push(svg("text", { x: xs(p), y: TOP - 10, class: "tick", "text-anchor": "middle" }, lab), svg("text", { x: xs(p), y: y + 16, class: "tick", "text-anchor": "middle" }, lab));
+    });
+    laid.forEach(({ row, groups, place, top, hgt, laneY, head }, ri) => {
+      if (head != null) out.push(svg("text", { x: 4, y: head + 15, class: "row-head" }, row.head));
+      out.push(svg("rect", { x: 0, y: top, width: W, height: hgt, class: `row-bg${ri % 2 ? " odd" : ""}` }));
+      const lab = svg("text", { x: L - 8, y: top + hgt / 2 + 4, class: `row-lab${row.state ? " link" : ""}`, "text-anchor": "end" }, row.label);
+      if (row.state) {
+        lab.setAttribute("tabindex", "0");
+        const open = () => { opt.profile = row.state; store.set("profile", row.state); drawProfile(eff); profBox.closest(".card").scrollIntoView({ block: "start" }); };
+        lab.addEventListener("click", open); lab.addEventListener("keydown", (e) => e.key === "Enter" && open());
+      }
+      out.push(lab);
+      const vals = groups.map((g) => smVal(G, `${row.key}|${g}`, m));
+      const top1 = Math.max(1e-9, ...vals), b = bins(vals, "linear");
+      for (const [g, li] of place) {
+        const k = `${row.key}|${g}`, v = smVal(G, k, m), span = gSpan(g), band = span.length > 1, cy = laneY(li);
+        const grp = svg("g", { class: `smg${band ? " band" : ""}`, tabindex: "0" });
+        if (band) grp.append(svg("path", { d: `M${xs(span[0])},${cy}L${xs(span[span.length - 1])},${cy}`, class: "band-ln" }));
+        span.forEach((p) => grp.append(svg("circle", { cx: xs(p), cy, r: band ? 3.6 : 4.6, class: `smdot ${b.cls(v)}` })));
+        const show = (e) => tip.show(e, [[band ? `Band ${gLabel(g)}` : `Grade ${gLabel(g)}`, row.label], [fmt(G.cnt[k] || 0), "tags"], [fmt(G.tset[k]?.size || 0), "distinct topics"],
+          [fmt1(smVal(G, k, "rate")), "tags per 10,000 words"], [fmt(G.words[k]), "words of standards"],
+          [`${Math.round((v / top1) * 100)}%`, `of the row's highest grade group (${smUnit[m]})`], ...(band ? [["", "one value for the whole band, not split into grades"]] : [])]);
+        grp.addEventListener("pointermove", show); grp.addEventListener("pointerleave", tip.hide);
+        grp.addEventListener("focus", () => { const r = grp.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top }); }); grp.addEventListener("blur", tip.hide);
+        out.push(grp);
+      }
+    });
+    smBox.replaceChildren(rows.length ? svg("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": `${smUnit[m]} by grade and band for each ${opt.smRows === "regions" ? "region" : "state"}` }, out)
+      : h("p", { class: "muted" }, "No states with text under these filters."));
   }
 
   // ----- one state's summary -----
@@ -733,10 +803,11 @@ async function chartsPage() {
         h("label", { for: "ln-b" }, "Lines"), sel("ln-b", [["combined", "All selected states"], ["region", "By region"], ["state", "By state"]], "lineBy"), tableBtn(lineTable))),
       compareWrap, lineLegend, lineBox, lineTable,
       h("p", { class: "muted small" }, "Only text written for a single grade is in these lines. “band only +N”: N of the states wrote that grade only inside a band (for example 3–5), so they are missing from that point; see each state below. The grade filter above does not apply: every grade is shown. A line skips a grade where none of its states has text written for that grade.")),
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Each state by grade, with its bands"),
+    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Grades and bands by state"),
       h("div", { class: "card-tools" }, h("label", { for: "sm-m" }, "Measure"), sel("sm-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "smMeasure"),
-        h("label", { for: "sm-s" }, "Height"), sel("sm-s", [["own", "Each state's own scale"], ["shared", "Same scale for all states"]], "smScale"))),
-      h("p", { class: "muted small" }, "One chart per selected state. A dot is a single grade; a band (for example K–2 or 9–12) is a dot at each grade it covers, at the band's value, joined by a line. Darker dots are higher relative to the state's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
+        h("label", { for: "sm-r" }, "Rows"), sel("sm-r", [["states", "States"], ["byRegion", "States, grouped by region"], ["regions", "Regions (states added up)"]], "smRows"))),
+      h("p", { class: "muted small" }, "A row per selected state (or region), grades across. A dot is text written for a single grade; a band (for example K–2 or 9–12) is a line with a dot at each grade it covers, on its own lane under the row's single grades. Darker dots are higher relative to the row's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
+      h("div", { class: "legend" }, h("span", { class: "lg" }, h("i", { class: "sw q0" }), "no tags"), [1, 3, 5, 7].map((q, i) => h("span", { class: "lg" }, h("i", { class: `sw q${q}` }), ["low", "", "", "highest in the row"][i])), h("span", { class: "lg" }, h("i", { class: "lk band-key" }), "band")),
       smBox),
     h("section", { class: "card" }, h("header", {}, h("h2", {}, "State summary")), profBox)));
   draw();

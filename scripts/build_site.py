@@ -46,8 +46,8 @@ def unit_tag(u):
 # ---------- unit positions on the page ----------
 def pdf_positions(src, units):
     """Re-run the PDF extraction with positions; use them only if it reproduces the stored units exactly."""
-    from extract_units import pdf_units
-    again, _ = pdf_units(src, with_bbox=True)
+    from extract_units import pdf_units, ocr_files
+    again, _ = pdf_units(src, with_bbox=True, ocr=src.name in ocr_files(src.parent.name))
     if [(u["page"], u["text"]) for u in again] != [(u["page"], u["text"]) for u in units]:
         return None, "re-extraction did not reproduce the stored units; no page highlights"
     return {i + 1: [u["page"], u["bbox"]] for i, u in enumerate(again)}, None

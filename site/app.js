@@ -3,7 +3,7 @@
 "use strict";
 
 const DATA = "site/data/";
-const VER = "2026-10-24d";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
+const VER = "2026-10-24e";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
 const COLS = [["body_standards", "standards", "Standards"], ["body_examples", "examples", "Examples / clarifications"], ["backup", "backup", "Backup (non-standards text)"]];
 const GRADES = ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "site/vendor/pdf.worker.min.js";

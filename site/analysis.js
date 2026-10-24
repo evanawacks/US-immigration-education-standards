@@ -486,7 +486,7 @@ async function chartsPage() {
     kwPer = D.keyword ? [] : KL.map(({ k, D: K }) => { const per = {}; for (const i of filteredTags(K)) { const s = D.states[K.tags.st[i]]; per[s] = (per[s] || 0) + 1; } return { k, per, n: Object.values(per).reduce((a, b) => a + b, 0) }; });
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, distinct(D, keep)), " distinct topics"), h("span", {}, h("b", {}, eff.length), " states with text"),
       h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"),
-      kwPer.map(({ k, n }) => h("a", { href: topicHref(k.no), class: "kw-stat" }, h("b", {}, fmt(n)), ` ${k.word} keyword matches`)));
+      ...kwPer.map(({ k, n }) => h("a", { href: topicHref(k.no), class: "kw-stat" }, h("b", {}, fmt(n)), ` ${k.word} keyword matches`)));
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });

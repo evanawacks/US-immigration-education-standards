@@ -1,23 +1,21 @@
 # PA guide
 
 Files to label (`use`):
-- `civicsandgovernment_125f29.pdf`
-- `e_history_web03_3aa68b.pdf`
-- `economics_standards_appendix_c-1__99ce1c.pdf`
-- `geography_cd6697.pdf`
-- `personal_finance_standards_d1e49c.pdf`
+- `Pennsylvania_Code_Chapter_4.pdf` (Pennsylvania Code, Title 22, Chapter 4, 137 pages; printed from the official Pennsylvania Code site)
 
-Not used (do not label):
-- arts_456012.pdf — skip: not social studies standards
-- career_education_and_work_standards_appendix_e-1__a86a77.pdf — skip: not social studies standards
-- pa_common_core_-_appendix_c_41d4b5.pdf — skip: not social studies standards
-- pennsylvania_technology_and_engineering_standards_-_grades_6-12_a7e0c9.pdf — skip: not social studies standards
+Sections (`structure` in `labels/PA/`):
+- Pages 1-78: regulations (sections 4.1-4.83) and Appendices A-2 (English language arts and mathematics) and B-1 (science, environment, technology). Not social studies: backup.
+- Appendix C, pages 79-105: Academic Standards for Civics and Government (5.1-5.4), Geography (7.1-7.4) and History (8.1-8.4), plus the Reading and Writing in History and Social Studies standards (CCSS 8.5, 8.6, backup) and three glossaries (backup).
+- Appendix C-1, pages 106-109: Economics (grid, pages 107-109 are pictures, text from OCR).
+- Appendices D, D-1, E, E-1 (arts and humanities, health, family and consumer sciences, career education): not social studies, backup.
+- Appendix F, pages 130-136: Personal Finance (grid, pages 132-136 are pictures, text from OCR).
 
-Row clusters for grade-level (non-course) content: K-3, 4-6, 7-9, 10-12. Course-based content (mostly high school) gets course rows via the `course` field.
+Row clusters:
+- Civics, geography, history: K-3, 4-6, 7-9, 10-12 (the table columns for grades 3, 6, 9 and 12; project convention for PA).
+- Economics and personal finance: K-2, 3-5, 6-8, 9-12 (the grid's four grade columns).
+- Shared lead-in and strand headings: K-12.
 
-Known structure (from the corpus survey; verify against the document):
-- Grade groupings found: [0-3],[4-6],[7-9],[10-12]
-- Topics/courses: Civics & Government, Economics, Geography, History, Personal Finance
-- Notes: Standards state what students should know at end of grades 3, 6, 9, 12 (grouped). Downloader also grabbed Arts & Humanities, Career Education, Common Core, and Technology/Engineering standards (not social studies; arts uses grades 3,5,8,12)
-
-Specific hints: each subject file (Civics & Government, Economics, Geography, History, Personal Finance) is a grid where each standard statement is given for GRADE 3, GRADE 6, GRADE 9, GRADE 12 columns (e.g. 5.1.3.A / 5.1.6.A / 5.1.9.A / 5.1.12.A — the third number is the grade). PA rows are bands: grade 3 column → `K-3`, grade 6 → `4-6`, grade 9 → `7-9`, grade 12 → `10-12` (Personal Finance may use different end grades — read its header and map to the band ending at that grade; if its bands differ from K-3/4-6/7-9/10-12 report it in issues). Column-header and code evidence override reading order. Standard category headings shared across columns (e.g. "5.1 Principles and Documents of Government") → all of the file's grades.
+Notes:
+- Civics, geography and history tables: column C1 = grade 3, C2 = grade 6, C3 = grade 9, C4 = grade 12. Row 1 = strand heading, row 2 = grade headers, row 3 = lead-in, rows 4+ = lettered statements.
+- Economics and personal finance grids: the first column is the substrand (label, x = 0); grade cells sit at about x = 101-104 (K-2), 168-173 (3-5), 235-249 (6-8) and 320-339 (9-12). Page text was OCR'd by `scripts/extract_units.py` (`ocr_units`), so check those units against the PDF.
+- No course rows: PA standards are by grade.

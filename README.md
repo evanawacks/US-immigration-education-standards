@@ -6,7 +6,7 @@
 
 | Phase | Status |
 |---|---|
-| 1. Collect the standards documents | Done for 50 of 51 jurisdictions; **Maryland is still missing**. 253 files collected, 155 used (current versions only). |
+| 1. Collect the standards documents | Done for 50 of 51 jurisdictions; **Maryland is still missing**. 245 files collected, 151 used (current versions only). |
 | 2. Build the clean database | Done: **785 rows** (one per state × grade or grade band × course; 288 course rows) with standards text, examples text, a backup column, and an issues column. All text is verbatim from the sources. |
 | — Validation | Automated checks run and passing; the human review (source checklist and a 952-item audit sample) is ready to be filled in. |
 | 3. Analysis | Started: R notebook `Text_Analysis.Rmd`; every sentence tagged with the 106 immigration topics; the analysis counts the standards text only (`data/analysis/`). |

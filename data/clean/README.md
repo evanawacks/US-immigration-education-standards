@@ -7,7 +7,7 @@ One row per **state × grade (or grade cluster) × course**, built from the in-s
 - Columns, ID convention, grade rule and course vocabulary: [`NAMING.md`](NAMING.md)
 - How to check accuracy: [`VALIDATION_GUIDE.md`](../../docs/VALIDATION_GUIDE.md) (scripts write to `data/validation/`)
 - 785 rows for 50 states + DC (Maryland has a placeholder row, `MD_NONE`: no source file yet)
-- Totals: about 1.24M words of standards text, 0.89M words of examples/clarifications, 0.66M words of backup text (shared text is copied into every row it applies to, so these totals count copies)
+- Totals: about 1.21M words of standards text, 0.84M words of examples/clarifications, 0.69M words of backup text (shared text is copied into every row it applies to, so these totals count copies)
 
 ## How it was built
 
@@ -30,7 +30,7 @@ python3 scripts/qa_clean.py
 ## Reviewer decisions worth knowing
 
 - **Band-only states** keep band rows: DE (K-3, 4-5, 6-8, 9-12), NJ, ND (K-2, 3-5, 6-12), NH (K-2, 3-4, 5-6, 7-8, 9-12), WI, WY, WA (WA prints several grades inside one table cell in both its PDF and Word versions, so cells cannot be split by grade).
-- **PA** writes civics/history/geography for K-3/4-6/7-9/10-12 but economics/personal finance for K-2/3-5/6-8/9-12, so PA rows are single grades with each band's text copied into every grade it covers.
+- **PA** writes civics/history/geography for K-3/4-6/7-9/10-12 but economics/personal finance for K-2/3-5/6-8/9-12, so PA rows are single grades with each band's text copied into every grade it covers. PA's only source is the Pennsylvania Code, Chapter 4 (one 137-page file); its economics (pp. 107-109) and personal finance (pp. 132-136) pages are pictures, so their text was read by OCR and needs checking against the PDF (see `labels/PA/` issues).
 - **MS**: the PDF contains three editions (2022 current, 2021, 2018 with redlines); only the 2022 text plus the 2021 Humanities course (absent in 2022) are in the body; the rest is in backup.
 - **CA**: Appendix C (the 1998 content standards) is `body_standards`; the framework chapters are `body_examples` (narrative), so CA examples columns are large.
 - **NE, ND, AZ** high-school strands are not courses → one 9-12 row. **OK, MT** appendices/sheets that duplicate standards printed elsewhere were moved to backup.
@@ -79,7 +79,7 @@ python3 scripts/qa_clean.py
 | OH | 16 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 6 | 8,213 | 13,551 | 3,862 |
 | OK | 21 | PK, K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 10 | 51,661 | 1,194 | 13,999 |
 | OR | 12 | K, 1, 2, 3, 4, 5, 6-7, 8, 9-12 | 2 | 16,304 | 17,698 | 1,519 |
-| PA | 14 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 | 0 | 62,203 | 0 | 9,788 |
+| PA | 14 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 | 0 | 47,396 | 13,845 | 71,524 |
 | RI | 16 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 5 | 73,941 | 16,889 | 6,890 |
 | SC | 18 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 7 | 25,370 | 16,476 | 10,264 |
 | SD | 15 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 5 | 40,307 | 0 | 3,572 |

@@ -8,24 +8,101 @@ Output per document in data/clean/units/<ABBR>/:
 Repeated page furniture (running headers/footers/page numbers) is detected and marked
 furniture=true; it is omitted from the view and goes to the backup column automatically.
 
+Image-only PDF pages (no text layer) are read with tesseract only for the files listed in
+data/raw/<ABBR>/ocr.txt (one file name per line); other files are unchanged by this option.
+
 Usage: python scripts/extract_units.py [ABBR ...]
 """
-import csv, json, re, sys, collections
+import csv, json, re, shutil, subprocess, sys, collections
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "clean" / "units"
+
+def ocr_files(abbr):
+    """File names listed in data/raw/<ABBR>/ocr.txt: PDFs whose image-only pages are read with OCR. Opt-in, because
+    many PDFs carry pictures on pages that already have text, and OCR would change their unit IDs."""
+    p = ROOT / "data" / "raw" / abbr / "ocr.txt"
+    return {l.strip() for l in p.read_text().splitlines() if l.strip()} if p.exists() else set()
 
 def norm(s):
     s = s.replace("­", "").replace("ﬁ", "fi").replace("ﬂ", "fl")
     return re.sub(r"[ \t\r\f\v]+", " ", re.sub(r"\s*\n\s*", " ", s)).strip()
 
 # ---------------- PDF ----------------
-def pdf_units(path, with_bbox=False):
+def ocr_words(page, dpi=300):
+    """Words of an image-only page from tesseract, as (x, y, width, height, text) in PDF points.
+    Returns [] if tesseract is not installed."""
+    if shutil.which("tesseract") is None: return []
+    png = page.get_pixmap(dpi=dpi).tobytes("png")
+    res = subprocess.run(["tesseract", "stdin", "stdout", "--psm", "4", "tsv"], input=png, capture_output=True)
+    if res.returncode != 0: return []
+    s = 72 / dpi
+    out = []
+    for row in res.stdout.decode("utf-8", "replace").splitlines()[1:]:
+        f = row.split("\t")
+        if len(f) >= 12 and f[0] == "5" and f[11].strip():
+            out.append((int(f[6]) * s, int(f[7]) * s, int(f[8]) * s, int(f[9]) * s, f[11].strip()))
+    return out
+
+def grid_starts(page_words):
+    """Grade-column starts of a run of pages: a standard code such as 6.1.3-5.B or 17.2.K-2.A opens every grade
+    cell, so clustered code positions give the cell starts (the label column is everything left of them)."""
+    xs = sorted(w[0] for ws in page_words for w in ws if re.match(r"\d+\.\d+\.(PreK|K|\d)", w[4]))
+    groups = []
+    for x in xs:
+        if groups and x - groups[-1][-1] < 12: groups[-1].append(x)
+        else: groups.append([x])
+    return [min(g) - 5 for g in groups if len(g) >= 2]
+
+def ocr_units(words, pno, cols):
+    """Units for an image-only page: each word goes to the column it starts in (cols from grid_starts; column 0
+    is the label column, x=0); stacked visual lines in one column with a small gap form one unit. x and y are PDF
+    points, so x works like the x of a side-by-side text block."""
+    if not words: return []
+    colmap = collections.defaultdict(list)
+    for w in words:
+        colmap[sum(1 for x in cols if w[0] >= x)].append(w)
+    line_h = sorted(w[3] for w in words)[len(words) // 2]
+    units = []
+    for c, ws in colmap.items():
+        rows = []   # visual lines in this column: [centre y, top, bottom, words]
+        for w in sorted(ws, key=lambda w: w[1] + w[3] / 2):
+            yc = w[1] + w[3] / 2
+            if rows and abs(rows[-1][0] - yc) < line_h / 2:
+                r = rows[-1]; r[3].append(w); r[1] = min(r[1], w[1]); r[2] = max(r[2], w[1] + w[3])
+            else:
+                rows.append([yc, w[1], w[1] + w[3], [w]])
+        cell = None
+        for yc, top, bottom, rw in rows:
+            text = " ".join(w[4] for w in sorted(rw, key=lambda w: w[0]))
+            if cell and top - cell["y1"] <= 1.5 * line_h:
+                cell["text"] += " " + text; cell["y1"] = bottom
+            else:
+                cell = {"x": round(cols[c - 1] if c else 0), "y0": top, "y1": bottom, "text": text}
+                units.append(cell)
+    out = []
+    for u in units:
+        t = norm(u["text"])
+        if t: out.append({"page": pno, "kind": "text", "table": None, "row": None, "col": None, "x": u["x"],
+                          "y0": u["y0"], "y1": u["y1"], "text": t, "ocr": True})
+    return out
+
+def pdf_units(path, with_bbox=False, ocr=False):
     """with_bbox=True also returns each unit's position on its page as 'bbox' = [x0, y0, x1, y1]
     in fractions of the page size (used by the website viewer; not stored in the unit files)."""
     import pymupdf
     doc = pymupdf.open(str(path))
     units = []
+    # image-only pages (no text layer but pictures) are OCR'd when ocr is set; grid columns are pooled over runs of
+    # consecutive pages
+    words = {pno: ocr_words(page) for pno, page in enumerate(doc, start=1)
+             if ocr and len(page.get_text().strip()) < 200 and page.get_images()}
+    cols, run = {}, []
+    for pno in sorted(words) + [None]:
+        if run and (pno is None or pno != run[-1] + 1):
+            starts = grid_starts([words[p] for p in run])
+            cols.update({p: starts for p in run}); run = []
+        if pno is not None: run.append(pno)
     for pno, page in enumerate(doc, start=1):
         W, H = page.rect.width or 1, page.rect.height or 1
         frac = lambda r: [round(r[0] / W, 4), round(r[1] / H, 4), round(r[2] / W, 4), round(r[3] / H, 4)]
@@ -81,6 +158,10 @@ def pdf_units(path, with_bbox=False):
                 if not cur: cur_x = x0
                 cur.append((x0, y0, txt, y1, x1)); cur_y1 = y1
             flush()
+        # no text layer but pictures on the page -> OCR the page (its pieces join the same sorting and column logic)
+        if pno in words:
+            for u in ocr_units(words[pno], pno, cols[pno]):
+                items.append((u["y0"], 10000 + len(items), u))
         # stable order: by vertical position of block start, keeping stream order inside
         items.sort(key=lambda it: (round(it[0] / 4), it[1]))
         # mark side-by-side text units (need x to tell columns apart)
@@ -193,7 +274,7 @@ def run(abbrs):
         fn = {".pdf": pdf_units, ".docx": docx_units, ".xlsx": xlsx_units, ".csv": csv_units}.get(ext)
         if not fn: continue
         try:
-            units, npages = fn(p)
+            units, npages = pdf_units(p, ocr=p.name in ocr_files(r["abbr"])) if ext == ".pdf" else fn(p)
         except Exception as e:
             print("ERROR", p, e); continue
         for i, u in enumerate(units, start=1): u["id"] = f"u{i}"

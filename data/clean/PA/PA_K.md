@@ -3,752 +3,304 @@
 - State: PA
 - Grade: [0]
 - Course: (none)
-- Source files: civicsandgovernment_125f29.pdf; e_history_web03_3aa68b.pdf; economics_standards_appendix_c-1__99ce1c.pdf; geography_cd6697.pdf; personal_finance_standards_d1e49c.pdf
+- Source files: Pennsylvania_Code_Chapter_4.pdf
 
 ## Standards
 
+Academic Standards for Civics and Government
 5.1. Principles and Documents of Government
 5.1.3. GRADE 3
 Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to . . .
-A. Describe what government is. B. Explain the purposes of rules and laws and why they are important in the classroom, school, community, state and nation. C. Define the principles and ideals shaping government. • Justice • Truth • Diversity of people and ideas • Patriotism • Common good • Liberty • Rule of law • Leadership • Citizenship D. Identify the document which created Pennsylvania.
-B. Explain the purposes of rules and laws
-knowledge and skills needed to . . .
-D. Identify the document which created
-classroom, school, community, state
-and why they are important in the
-Diversity of people and ideas
-C. Define the principles and ideals
 A. Describe what government is.
+B. Explain the purposes of rules and laws and why they are important in the classroom, school, community, state and nation.
+C. Define the principles and ideals shaping government. • Justice • Truth • Diversity of people and ideas • Patriotism • Common good • Liberty • Rule of law • Leadership • Citizenship
 5.1.3. GRADE 3
-shaping government.
-Common good
-Rule of law
-Leadership
-Citizenship
-Patriotism
-Pennsylvania.
-Liberty
-and nation.
-Justice
-Truth
-E. Identify documents of United States government. • Declaration of Independence • Constitution of the United States • Bill of Rights F. Explain the meaning of a preamble. • Constitution of the United States • Pennsylvania Constitution G. Describe the purpose of the United States Flag, The Pledge of Allegiance and The National Anthem. H. Identify framers of documents of governments. • Pennsylvania • United States I. Explain why government is necessary in the classroom, school, community, state and nation and the basic purposes of government in Pennsylvania and the United States.
-activities.
-I.
-state and nation and the basic purposes
-of government in Pennsylvania and the
-States Flag, The Pledge of Allegiance
-Explain why government is necessary
-in the classroom, school, community,
-Constitution of the United States
-E. Identify documents of United States
-F. Explain the meaning of a preamble.
-G. Describe the purpose of the United
-H. Identify framers of documents of
-Declaration of Independence
-Pennsylvania Constitution
-and The National Anthem.
-Pennsylvania
-United States
-Bill of Rights
-governments.
-United States.
-government.
-I.
-J. Explain the importance of respect for the property and the opinions of others. K. Identify symbols and political holidays. • Pennsylvania (e.g., Charter Day, Liberty Bell, Keystone State) • United States (e.g., Presidents' Day, Statue of Liberty, White House) L. Identify ways courts resolve conflicts involving principles and ideals of government. M. Identify portions of famous speeches and writings that reflect the basic principles and ideals of government (e.g., “I have a dream,” Reverend Martin Luther King; “One small step for mankind,” Neil Armstrong).
-K. Describe the purpose of symbols and
-promotes the common good.
-ideals of government.
-Federal
-Local
-holidays.
-State
-J.
-the property and the opinions of others.
-Explain the importance of respect for
-Pennsylvania (e.g., Charter Day,
-M. Identify portions of famous speeches
-L. Identify ways courts resolve conflicts
-Martin Luther King; “One small step
-United States (e.g., Presidents'
-principles and ideals of government
-Liberty Bell, Keystone State)
-Day, Statue of Liberty, White
-(e.g., “I have a dream,” Reverend
-involving principles and ideals of
-and writings that reflect the basic
-for mankind,” Neil Armstrong).
-K. Identify symbols and political
-House)
-government.
-holidays.
-J.
+D. Identify the document which created Pennsylvania.
+5.1.3. GRADE 3
+E. Identify documents of United States government. • Declaration of Independence • Constitution of the United States • Bill of Rights
+5.1.3. GRADE 3
+F. Explain the meaning of a preamble. • Constitution of the United States • Pennsylvania Constitution
+G. Describe the purpose of the United States Flag, The Pledge of Allegiance and The National Anthem.
+5.1.3. GRADE 3
+H. Identify framers of documents of governments. • Pennsylvania • United States
+I. Explain why government is necessary in the classroom, school, community, state and nation and the basic purposes of government in Pennsylvania and the United States.
+J. Explain the importance of respect for the property and the opinions of others.
+5.1.3. GRADE 3
+K. Identify symbols and political holidays. • Pennsylvania (e.g., Charter Day, Liberty Bell, Keystone State) • United States (e.g., Presidents’ Day, Statue of Liberty, White House)
+L. Identify ways courts resolve conflicts involving principles and ideals of government.
+5.1.3. GRADE 3
+M. Identify portions of famous speeches and writings that reflect the basic principles and ideals of government (e.g., ‘‘I have a dream,’’ Reverend Martin Luther King; ‘‘One small step for man,’’ Neil Armstrong).
+5.2.3. GRADE 3
+A. Identify examples of the rights and responsibilities of citizenship. • Personal rights • Political rights • Economic rights • Personal responsibili- ties • Civic responsibilities
+B. Identify personal rights and responsibilities.
 5.2. Rights and Responsibilities of Citizenship
 5.2.3. GRADE 3
-A. Identify examples of the rights and responsibilities of citizenship. • Personal rights • Political rights • Economic rights • Personal responsibilities • Civic responsibilities B. Identify personal rights and responsibilities. C. Identify sources of conflict and disagreement and different ways conflicts can be resolved. D. Identify the importance of political leadership and public service in the school, community, state and nation. E. Describe ways citizens can influence the decisions and actions of government.
-school, community, state and nation.
-E. Describe ways citizens can influence
-A. Identify examples of the rights and
-D. Identify the importance of political
-leadership and public service in the
-disagreement and different ways
-C. Identify sources of conflict and
-responsibilities of citizenship.
-Personal responsibilities
-B. Identify personal rights and
-the decisions and actions of
+C. Identify sources of conflict and disagreement and different ways conflicts can be resolved.
+D. Identify the importance of political leadership and public service in the school, community, state and nation.
+E. Describe ways citizens can influence the decisions and actions of government.
+F. Explain the benefits of following rules and laws and the consequences of violating them.
+G. Identify ways to participate in government and civic life.
 5.2.3. GRADE 3
-Civic responsibilities
-conflicts can be resolved.
-and skills needed to . . .
-Economic rights
-Personal rights
-Political rights
-responsibilities.
-government.
-F. Explain the benefits of following rules and laws and the consequences of violating them. G. Identify ways to participate in government and civic life.
-F. Explain the benefits of following rules
-and laws and the consequences of
-G. Identify ways to participate in
-government and civic life.
-violating them.
 5.3. How Government Works
 5.3.3. GRADE 3
-A. Identify the elected representative bodies responsible for making local, Pennsylvania and United States laws. B. Identify the role of the three branches of government. • Executive • Legislative • Judicial C. Identify reasons for rules and laws in the school and community. D. Identify services performed by the local, state and national governments.
-government.
-B. Identify the role of the three branches
-local, state and national governments.
-C. Identify reasons for rules and laws in
-Pennsylvania and United States laws.
+Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to. . .
+A. Identify the elected representative bodies responsible for making local, Pennsylvania and United States laws.
+B. Identify the role of the three branches of government. • Executive • Legislative • Judicial
+C. Identify reasons for rules and laws in the school and community.
 5.3. How Government Works
-bodies responsible for making local,
-D. Identify services performed by the
-A. Identify the elected representative
-the school and community.
 5.3.3. GRADE 3
-Legislative
-of government.
-Executive
-Judicial
-E. Identify positions of authority at school and in local, state and national governments. F. Explain what an election is. G. Explain why being treated fairly is important. H. Identify individual interests and explain ways to influence others. I. Explain why taxes are necessary and identify who pays them. J. Identify the role of the media in society.
-I.
-J.
-school and in local, state and national
-Explain why taxes are necessary and
-G. Explain why being treated fairly is
-explain ways to influence others.
-E. Identify positions of authority at
-H. Identify individual interests and
-Identify the role of the media in
-F. Explain what an election is.
-identify who pays them.
+D. Identify services performed by the local, state and national
 governments.
-important.
-society.
-I.
-J.
+E. Identify positions of authority at school and in local, state and national governments.
+5.3. How Government Works
+5.3.3. GRADE 3
+F. Explain what an election is.
+G. Explain why being treated fairly is important.
+5.3. How Government Works
+5.3.3. GRADE 3
+H. Identify individual interests and explain ways to influence others.
+I. Explain why taxes are necessary and identify who pays them.
+J. Identify the role of the media in society.
 K. Identify different ways people govern themselves.
-K. Identify different ways people govern
-themselves.
 5.4. How International Relationships Function
 5.4.3. GRADE 3
-A. Identify how customs and traditions influence governments. B. Recognize that the world is divided into various political units. C. Identify ways in which countries interact with the United States. D. Identify treaties and other agreements between or among nations. E. Identify how nations work together to solve problems.
-D. Identify treaties and other agreements
-E. Identify how nations work together to
-A. Identify how customs and traditions
-B. Recognize that the world is divided
-C. Identify ways in which countries
-interact with the United States.
-into various political units.
-between or among nations.
+A. Identify how customs and traditions influence governments.
+B. Recognize that the world is divided into various political units.
+C. Identify ways in which countries interact with the United States.
 5.4.3. GRADE 3
-influence governments.
-solve problems.
-Four Standard Statements within the Academic Standards for History: An Overview
-Political and Cultural Contributions of Individuals and Groups • Inhabitants (cultures, subcultures, groups) • Political Leaders (monarchs, governors, elected officials) • Military Leaders (generals, noted military figures) • Cultural and Commercial Leaders (entrepreneurs, corporate executives, artists, entertainers, writers) • Innovators and Reformers (inventors, philosophers, religious leaders, social change agents, improvers of technology)
-How Continuity and Change Have Influenced History • Belief Systems and Religions (ideas, beliefs, values) • Commerce and Industry (jobs, trade, environmental change, labor systems, entertainment) • Innovations (ideas, technology, methods and processes) • Politics (political party systems, administration of government, rules, regulations and laws, political and judicial interpretation) • Transportation (methods of moving people and goods over time, transportation routes, circulation systems) • Settlement Patterns and Expansion (population density and diversity, settlement types, land use, colonization) • Social Organization (social structure, identification of social groups, families, groups and communities, education, school population, suffrage, civil rights) • Women’s Movement (changing roles of women, social and political movements, breaking barriers, role models)
-Primary Documents, Material Artifacts and Historical Places • Documents, Writings and Oral Traditions (government documents, letters and diaries, fiction and non-fiction works, newspapers and other media, folklore) • Artifacts, Architecture and Historic Places (historic sites and places, museums and museum collections, official and popular cultural symbols, material culture)
-Conflict and Cooperation Among Social Groups and Organizations • Domestic Instability (political unrest, natural and man-made disasters, genocide) • Ethnic and Racial Relations (racism and xenophobia, ethnic and religious prejudices, collective and individual actions) • Immigration and Migration (causes of population shifts, xenophobia, intercultural activity) • Labor Relations (strikes and collective bargaining, working conditions over time, labor/management identity) • Military Conflicts (causes, conduct and impact of military conflicts, wars and rebellions)
-How Continuity and Change Have Influenced History
-• Artifacts, Architecture and Historic Places (historic sites and places, museums and museum collections, official and popular
-• Cultural and Commercial Leaders (entrepreneurs, corporate executives, artists, entertainers, writers)
-• Innovators and Reformers (inventors, philosophers, religious leaders, social change agents, improvers of technology)
-Political and Cultural Contributions of Individuals and Groups
-Primary Documents, Material Artifacts and Historical Places
-• Documents, Writings and Oral Traditions (government documents, letters and diaries, fiction and non-fiction works,
-• Political Leaders (monarchs, governors, elected officials) • Military Leaders (generals, noted military figures)
-• Inhabitants (cultures, subcultures, groups)
-newspapers and other media, folklore)
-cultural symbols, material culture)
+D. Identify treaties and other agreements between or among nations.
+E. Identify how nations work together to solve problems.
+Academic Standards for Geography
+7.1. Basic Geographic Literacy
+7.1.3. GRADE 3
+A. Identify geographic tools and their uses. • Characteristics and purposes of different geographic representations • Maps and basic map elements • Globes • Graphs • Diagrams • Photographs • Geographic representations to display spatial information • Sketch maps • Thematic maps • Mental maps to describe the human and physical features of the local area
+7.1.3. GRADE 3
+B. Identify and locate places and regions. • Physical features • Continents and oceans • Major landforms, rivers and lakes in North America • Local community • Human features • Countries (i.e., United States, Mexico, Canada) • States (i.e., Pennsylvania, Delaware, Maryland, New Jersey, New York, Ohio, West Virginia) • Cities (i.e., Philadelphia, Erie, Altoona, Pittsburgh, Scranton, Harrisburg, Johnstown, Allentown, Washington D.C., Baltimore, New York, Toronto, Cleveland • Local community • Regions as areas with unifying geographic characteristics • Physical regions (e.g., landform regions, climate regions, river basins)
+7.1.3. GRADE 3
+• Human regions (e.g., neighborhoods, cities, states, countries)
+7.2 The Physical Characteristics of Places and Regions
+7.2.3. GRADE 3
+A. Identify the physical characteristics of places and regions. • Physical properties • Landforms (e.g., plains, hills, plateaus and mountains) • Bodies of water (e.g., rivers, lakes, seas and oceans) • Weather and climate • Vegetation and animals • Earth’s basic physical systems • Lithosphere • Hydrosphere • Atmosphere • Biosphere
+B. Identify the basic physical processes that affect the physical characteristics of
+places and regions. • Earth-sun relationships (i.e., seasons and length of daylight, weather and climate) • Extreme physical events (e.g., earthquakes, floods, hurricanes, tornadoes)
+7.3 The Human Characteristics of Places and Regions
+7.3.3. GRADE 3
+Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to. .
+A. Identify the human characteristics of places and regions by their population characteristics. • The number and distribution of people in the local community • Human movement in the local community (e.g., mobility in daily life, migration)
+B. Identify the human characteristics of places and regions by their cultural characteristics. • Components of culture (e.g., language, belief systems and customs, social organizations, foods, ethnicity) • Ethnicity of people in the local community (e.g., customs, celebrations, languages, religions)
+C. Identify the human characteristics of places and regions by their settlement characteristics. • Types of settlements (e.g., villages, towns, suburbs, cities, metropolitan areas) • Factors that affect where people settle (e.g., water, resources, transportation)
+D. Identify the human characteristics of places and regions by their economic activities. • Location factors in the spatial distribution of economic activities (e.g., market, transportation, workers, materials) • Producers of consumer products and services (e.g., bread, pizza, television, shopping malls) • Products of farms and factories at the local and regional level (e.g.,
+mushrooms, milk, snack foods, furniture) • Spatial distribution of resources • Non-renewable resources • Renewable resources • Flow resources (e.g., water power, wind power)
+7.3.3. GRADE 3
+Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to.
+E. Identify the human characteristics of places and regions by their political activities. • Type of political units (e.g., townships, boroughs, towns, cities, counties, states, countries (nation-state)) • Political units in the local area
+7.4 The Interactions Between People and Places
+7.4.3. GRADE 3
+A. Identify the impacts of physical systems on people. • How people depend on, adjust to and modify physical systems on a local scale (e.g., soil quality and agriculture, snowfall and daily activities, drought and water use) • Ways in which natural hazards affect human activities (e.g., storms, lightning, foloding)
+B. Identify the impacts of people on physical systems. • Effects of energy use (e.g., water quality, air quality, change in natural vegetation) • Ways humans change local ecosystems (e.g., land use, dams and canals on waterways, reduction and extinction of species)
+Academic Standards for History
 8.1. Historical Analysis and Skills Development
 8.1.3. GRADE 3
-Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to. . .
-A. Understand chronological thinking and distinguish between past, present and future time. • Calendar time • Time lines • Continuity and change • Events (time and place) B. Develop an understanding of historical sources. • Data in historical maps • Visual data from maps and tables • Mathematical data from graphs and tables • Author or historical source C. Understand fundamentals of historical interpretation. • Difference between fact and opinion • The existence of multiple points of view • Illustrations in historical stories • Causes and results
-Difference between fact and opinion
-Mathematical data from graphs and
-A. Understand chronological thinking and
-B. Develop an understanding of historical
-The existence of multiple points of
-Visual data from maps and tables
-C. Understand fundamentals of historical
-distinguish between past, present and
-Illustrations in historical stories
-Author or historical source
-Events (time and place)
+A. Understand chronological thinking and distinguish between past, present and future time. • Calendar time • Time lines • Continuity and change • Events (time and place)
+B. Develop an understanding of historical sources. • Data in historical maps • Visual data from maps and tables • Mathematical data from graphs and tables • Author or historical source
 8.1.3. GRADE 3
-Continuity and change
-Data in historical maps
-Causes and results
-Calendar time
-Time lines
-interpretation.
-future time.
-tables
-view
-sources.
-D. Understand historical research. • Event (time and place) • Facts, folklore and fiction • Formation of a historical question • Primary sources • Secondary sources • Conclusions (e.g., storytelling, role playing, diorama)
-Conclusions (e.g., storytelling, role
-Formation of a historical question
-D. Understand historical research.
-Facts, folklore and fiction
-Event (time and place)
-Secondary sources
-Primary sources
-playing, diorama)
-8.2 Pennsylvania History
+C. Understand fundamentals of historical interpretation. • Difference between fact and opinion • The existence of multiple points of view • Illustrations in historical stories • Causes and results
+D. Understand historical research. • Event (time and place) • Facts, folklore and fiction • Formation of historical question • Primary sources • Secondary sources • Conclusions (e.g., storytelling, role playing, diorama)
+8.2. Pennsylvania History
 8.2.3. GRADE 3
-Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to analyze cultural, economic, geographic, political and social relations to. . .
-A. Understand the political and cultural contributions of individuals and groups to Pennsylvania history. • William Penn • Benjamin Franklin • Pennsylvanians impacting American Culture (e.g., John Chapman, Richard Allen, Betsy Ross, Mary Ludwig Hayes, Rachel Carson, Elizabeth Jane Cochran, Marian Anderson) • Local historical figures in municipalities and counties. B. Identify and describe primary documents, material artifacts and historic sites important in Pennsylvania history. • Documents, Writings and Oral Traditions (e.g., Penn’s Charter, Pennsylvania “Declaration of Rights”) • Artifacts, Architecture and Historic Places (e.g., Local historical sites, museum collections, Independence Hall) • Liberty Bell • Official Commonwealth symbols (e.g., tree, bird, dog, insect)
-analyze cultural, economic, geographic, political and social relations to. . .
-contributions of individuals and groups
-Ross, Mary Ludwig Hayes, Rachel
-historic sites important in Pennsylvania
-Official Commonwealth symbols
-A. Understand the political and cultural
-Carson, Elizabeth Jane Cochran,
-Traditions (e.g., Penn’s Charter,
-Chapman, Richard Allen, Betsy
-Documents, Writings and Oral
-collections, Independence Hall)
-American Culture (e.g., John
-documents, material artifacts and
-Pennsylvania “Declaration of
-municipalities and counties.
-Pennsylvanians impacting
-Artifacts, Architecture and
-Historic Places (e.g., Local
-(e.g., tree, bird, dog, insect)
-Local historical figures in
-B. Identify and describe primary
-historical sites, museum
-8.2.3. GRADE 3
-to Pennsylvania history.
-Benjamin Franklin
-8.2 Pennsylvania History
-Marian Anderson)
-William Penn
-Liberty Bell
-Rights”)
-history.
+Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to analyze cultural, economic, geographic, political and social relations to . . .
+A. Understand the political and cultural contributions of individuals and groups to Pennsylvania history. • William Penn • Benjamin Franklin • Pennsylvanians impacting American Culture (e.g., John Chapman, Richard Allen, Betsy Ross, Mary Ludwig Hayes, Rachel Carson, Elizabeth Jane Cochran, Marian Anderson) • Local historical figures in municipalities and counties.
+B. Identify and describe primary documents, material artifacts and historic sites important in Pennsylvania history. • Documents, Writings and Oral Traditions (e.g., Penn’s Charter, Pennsylvania ‘‘Declaration of Rights’) • Artifacts, Architecture and Historic Places (e.g., Local historical sites, museum collections, Independence Hall) • Liberty Bell • Official Commonwealth symbols (e.g., tree, bird, dog, insect)
 C. Identify and describe how continuity and change have influenced Pennsylvania history. • Belief Systems and Religions (e.g., Native Americans, early settlers, contemporary religions) • Commerce and Industry (e.g., jobs, trade, environmental change) • Innovations (e.g., technology, ideas, processes) • Politics (e.g., rules, regulations, laws) • Settlement Patterns (e.g., farms, towns, rural communities, cities) • Social Organization (e.g., relationships of individuals, families, groups, communities; ability to be educated) • Transportation (e.g., methods of moving people and goods over time) • Women’s Movement (e.g., changes in roles and rights over time)
-jobs, trade, environmental change)
-C. Identify and describe how continuity
-(e.g., relationships of individuals,
-Transportation (e.g., methods of
-settlers, contemporary religions)
-Politics (e.g., rules, regulations,
-Settlement Patterns (e.g., farms,
-towns, rural communities, cities)
-families, groups, communities;
-changes in roles and rights over
-Belief Systems and Religions
-(e.g., Native Americans, early
-Commerce and Industry (e.g.,
-Innovations (e.g., technology,
-moving people and goods over
-Women’s Movement (e.g.,
-and change have influenced
-ability to be educated)
-Social Organization
-Pennsylvania history.
-ideas, processes)
-time)
-laws)
-time)
-D. Identify and describe conflict and cooperation among social groups and organizations in Pennsylvania history. • Domestic Instability (e.g., political, economic and geographic impact on daily activities) • Ethnic and Racial Relations (e.g., treatment of various ethnic and racial groups in history) • Labor Relations (e.g., working conditions over time) • Immigration (e.g., diverse groups inhabiting the state) • Military Conflicts (e.g., struggle for control)
-political, economic and geographic
-organizations in Pennsylvania history.
-Immigration (e.g., diverse groups
-cooperation among social groups and
-Military Conflicts (e.g., struggle
-(e.g., treatment of various ethnic
-Labor Relations (e.g., working
-D. Identify and describe conflict and
-Ethnic and Racial Relations
-and racial groups in history)
-Domestic Instability (e.g.,
-impact on daily activities)
-conditions over time)
-inhabiting the state)
-for control)
+8.2. Pennsylvania History
+8.2.3. GRADE 3
+8.2. Pennsylvania History
+8.2.3. GRADE 3
+D. Identify and describe conflict and cooperation among social groups and organizations in Pennsylvania history. • Domestic Instability (e.g., political, economic and geographic impact on daily activities) • Ethnic and Racial Relations (e.g., treatment of various ethnic and racial groups in history) • Labor Relations (e.g., working conditions, over time) • Immigration (e.g., diverse groups inhabiting the state) • Military Conflicts (e.g., struggle for control)
 8.3. United States History
 8.3.3. GRADE 3
-A. Identify contributions of individuals and groups to United States history. • George Washington • Thomas Jefferson • Abraham Lincoln • Theodore Roosevelt • Franklin D. Roosevelt • Individuals who are role models (e.g., Abigail Adams, Sacajawea, Frederick Douglass, Clara Barton, Jackie Robinson, Rosa Parks, Archbishop Patrick Flores, Jamie Escalante, Sally Ride, Tiger Woods, Cal Ripken, Jr., Sammy Sosa) B. Identify and describe primary documents, material artifacts and historic sites important in United States history. • Documents (e.g., Declaration of Independence, U.S. Constitution, Bill of Rights) • Writings and Communications (e.g., Pledge of Allegiance, famous quotations and sayings) • Historic Places (e.g., The White House, Mount Rushmore, Statue of Liberty)
-Frederick Douglass, Clara Barton,
-(e.g., Pledge of Allegiance, famous
-House, Mount Rushmore, Statue of
-(e.g., Abigail Adams, Sacajawea,
-Archbishop Patrick Flores, Jamie
-Individuals who are role models
-Woods, Cal Ripken, Jr., Sammy
-Independence, U.S. Constitution,
-A. Identify contributions of individuals
-and groups to United States history.
-Historic Places (e.g., The White
-• Documents (e.g., Declaration of
-Jackie Robinson, Rosa Parks,
-• Writings and Communications
-historic sites important in United
-Escalante, Sally Ride, Tiger
-Franklin D. Roosevelt
-quotations and sayings)
+A. Identify contributions of individuals and groups to United States history. • George Washington • Thomas Jefferson • Abraham Lincoln • Theodore Roosevelt • Franklin D. Roosevelt • Individuals who are role models (e.g., Abigail Adams, Sacajawea, Frederick Douglass, Clara Barton, Jackie Robinson, Rosa Parks, Archbishop Patrick Flores, Jamie Escalante, Sally Ride, Tiger Woods, Cal Ripken, Jr., Sammy Sosa)
+B. Identify and describe primary documents, material artifacts and historic sites important in United States history. • Documents (e.g., Declaration of Independence, U.S. Constitution, Bill of Rights) • Writings and Communications (e.g., Pledge of Allegiance, famous quotations and sayings) • Historic Places (e.g., The White House, Mount Rushmore, Statue of Liberty) • The Flag of the United States
 8.3.3. GRADE 3
-George Washington
-Theodore Roosevelt
-Thomas Jefferson
-Abraham Lincoln
-Bill of Rights)
-States history.
-Liberty)
-Sosa)
-• The Flag of the United States C. Identify important changes in United States history (e.g., Belief Systems and Religions, Commerce and Industry, Innovations, Politics, Settlement Patterns and Expansion, Social Organization, Transportation, Women’s Movement).
-States history (e.g., Belief Systems and
-C. Identify important changes in United
-Religions, Commerce and Industry,
-The Flag of the United States
-Innovations, Politics, Settlement
-Patterns and Expansion, Social
-Organization, Transportation,
-Women’s Movement).
+C. Identify important changes in United States history (e.g., Belief Systems and Religions, Commerce and Industry, Innovations, Politics, Settlement Patterns and Expansion, Social Organization, Transportation, Women’s Movement).
+8.3.3. GRADE 3
 D. Identify conflict and cooperation among social groups and organizations in United States history. • Domestic Instability (e.g., impact on daily activities) • Ethnic and Racial Relations (e.g., treatment of minority groups in history) • Labor Relations (e.g., working conditions over time) • Immigration (e.g., diverse groups inhabiting the state) • Military Conflicts (e.g., struggle for control)
-among social groups and organizations
-Domestic Instability (e.g., impact
-(e.g., treatment of minority groups
-D. Identify conflict and cooperation
-conditions over time)
-in United States history.
-on daily activities)
-inhabiting the state)
-for control)
-in history)
+8.3.3. GRADE 3
 8.4. World History
 8.4.3. GRADE 3
-Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to analyze cultural, economic, geographic, political and social relations to...
-A. Identify individuals and groups who have made significant political and cultural contributions to world history. • Africa (e.g., Nefertiti, Mansa Musa, Nelson Mandela) • Americas (e.g., Montezuma, Simon Bolivar, Fidel Castro) • Asia (e.g., Hammurabi, Mohandas Gandhi, Benazir Bhutto) • Europe (e.g., Julius Ceasar, Joan of Arc, Pope John Paul) B. Identify historic sites and material artifacts important to world history. • Africa (e.g., Pyramids, treasures of Tutankhamen, Nefertiti’s sculpture) • Americas (e.g., Olmec ritualistic centers, Mayan pyramids, arrowheads) • Asia (e.g., Code of Hammurabi, Ziggurat at Ur, canals) • Europe (e.g., ancient megaliths, Arc de Triomphe, Acropolis)
-cultural, economic, geographic, political and social relations to...
-cultural contributions to world history.
-Asia (e.g., Hammurabi, Mohandas
-Europe (e.g., Julius Ceasar, Joan
-Africa (e.g., Pyramids, treasures
-Americas (e.g., Olmec ritualistic
-Asia (e.g., Code of Hammurabi,
-A. Identify individuals and groups who
-artifacts important to world history.
-Europe (e.g., ancient megaliths,
-have made significant political and
-Africa (e.g., Nefertiti, Mansa
-B. Identify historic sites and material
-Americas (e.g., Montezuma,
-Simon Bolivar, Fidel Castro)
-Arc de Triomphe, Acropolis)
-of Tutankhamen, Nefertiti’s
-Gandhi, Benazir Bhutto)
-centers, Mayan pyramids,
-Musa, Nelson Mandela)
-of Arc, Pope John Paul)
-8.4.3. GRADE 3
-Ziggurat at Ur, canals)
-8.4. World History
-arrowheads)
-sculpture)
-C. Compare similarities and differences between earliest civilizations and life today (e.g., Africa, Egypt; Asia, Babylonia; Americas, Olmec; Europe, Neolithic settlements). D. Identify how conflict and cooperation among social groups and organizations affected world history. • Domestic Instability (e.g., political, economic and geographic impact on normal activities) • Labor Relations (e.g., working conditions over time) • Racial and Ethnic Relations (e.g., treatment of various ethnic and racial groups in history) • Immigration and migration (e.g., diverse groups inhabiting a territory) • Military Conflicts (e.g., struggle for control)
-Babylonia; Americas, Olmec; Europe,
-D. Identify how conflict and cooperation
-C. Compare similarities and differences
-between earliest civilizations and life
-(e.g., diverse groups inhabiting a
-today (e.g., Africa, Egypt; Asia,
-impact on normal activities)
-Racial and Ethnic Relations
-Immigration and migration
-conditions over time)
-Neolithic settlements).
-affected world history.
-for control)
-territory)
-Substrand
-Kindergarten to Grade 2
-1. Fundamentals of Economics
-Economic systems
-Economic systems
+A. Identify individuals and groups who have made significant political and cultural contributions to world history. • Africa (e.g., Nefertiti, Mansa Musa, Nelson Mandela) • Americas (e.g., Montezuma, Simon Bolivar, Fidel Castro)
+• Asia (e.g., Hammurabi, Mohandas Gandhi, Benazir Bhutto) • Europe (e.g., Julius Ceasar, Joan of Arc, Pope John Paul)
+B. Identify historic sites and material artifacts important to world history. • Africa (e.g., Pyramids, treasures of Tutankhamen, Nefertiti’s sculpture) • Americas (e.g., Olmec ritualistic centers, Mayan pyramids, arrowheads) • Asia (e.g., Code of Hammurabi, Ziggurat at Ur, canals) • Europe (e.g., ancient megaliths, Arc de Triomphe, Acropolis)
+C. Compare similarities and differences between earliest civilizations and life today. (e.g., Africa, Egypt; Asia, Babylonia; Americas, Olmec; Europe, Neolithic settlements).
+D. Identify how conflict and cooperation among social groups and organizations affected world history. • Domestic Instability (e.g., political, economic and geographic impact on normal activities) • Labor Relations (e.g., working conditions over time) • Racial and Ethnic Relations (e.g., treatment of various ethnic and racial groups in history) • Immigration and migration (e.g., diverse groups inhabiting a territory) • Military Conflicts (e.g., struggle for control)
+Academic Standards for Economics
+Grades K—12
+6.1
+Fundamentals of Economics
+6.2
+Microeconomics
+6.3
+Macroeconomics
+6.4
+Money and Economic Institutions
+Appendix
+C-1. Academic
+Standards for
+Economics
+Kinderg: ito Grade 2
+1. Fundamentals Intentionally blank
+Economic systems =
 Fundamental economic questions
-6.1.K-2.B Explain how limited resources require us to make choices and share when we cannot have everything we want.
+6.1.K-2.B Explain how limited resources require us to make choices and share when we cannot have everything we want,
 Scarcity
 Economic choice
-Substrand
-Kindergarten to Grade 2
-Economic resources
-Economic
-resources
+Kindergarten to Grade 2 = Intentionally blank
 Marginal analysis
 Opportunity cost
 Incentives
 Specialization
-6.1.K-2.I Describe why people divide tasks to make work easier.
+6.1.K-21 Describe why people divide tasks to make work easier,
 Trade
-6.1.K-2.J Explain why people trade.
+6.1.K-2) Explain why people trade.
 Foreign trade
-Substrand
 Kindergarten to Grade 2
-Global interdependence
 Comparative advantage
-2. Microeconomics
 Circular flow
-Circular flow
-6.2.K-2.A Define and identify goods and services.
+62.024 Define and identify goods and services.
 Competition
 Monopolies
 Supply and demand
-Substrand
 Kindergarten to Grade 2
-Economic patterns
-Economic patterns
 Wages
 Productivity
+= 6.2.K-2.H Identify businesses in your community.
 Types of businesses
-6.2.K-2.H Identify businesses in your community.
 Profit and loss
 Entrepreneurship
-6.2.K-2.J Define entrepreneurship and identify entrepreneurs in the local community.
-Substrand
+6.2K-2) Define entrepreneurship and identify entrepreneurs in the local community.
 Kindergarten to Grade 2
-3. Macroeconomics
-Economic indicators
+3. Macroeconomics 633-54 Define unemployment and inflation.
+Economie indicators
 Business cycles
 Fiscal policy
 Federal budget
 Taxation
-6.3.K-2.E Define a tax and identify examples.
-Substrand
+6.3.K-2E Define a tax and identify examples,
 Kindergarten to Grade 2
-Tax policy
-Tax policy
 Economic role of government
-Externalities
+Externalities.
 Public goods and services
-6.3.K-2.I Define public goods and services provided by the government.
-4. Money and Economic Institutions
+6.3.K-21 Define public goods and services provided by the government.
 Money
 Exchange rates
-Substrand
-Kindergarten to Grade 2
-Monetary policy
-Banking
-6.4.K-2.D Define saving and explain why people use banks to save.
-Federal reserve system
-Nongovernmental organizations
-Interest rate policy
-7.1. Basic Geographic Literacy
-7.1.3. GRADE 3
-A. Identify geographic tools and their uses. • Characteristics and purposes of different geographic representations ¾ Maps and basic map elements ¾ Globes ¾ Graphs ¾ Diagrams ¾ Photographs • Geographic representations to display spatial information ¾ Sketch maps ¾ Thematic maps • Mental maps to describe the human and physical features of the local area
-•
-•
-•
-•
-A. Identify geographic tools and their uses.
-human and physical features of the
-¾ Maps and basic map elements
-Geographic representations to
-Characteristics and purposes
-Mental maps to describe the
-display spatial information
-of different geographic
-7.1.3. GRADE 3
-¾ Thematic maps
-¾ Photographs
-¾ Sketch maps
-representations
-¾ Diagrams
-¾ Graphs
-¾ Globes
-local area
-•
-•
-•
-B. Identify and locate places and regions. • Physical features ¾ Continents and oceans ¾ Major landforms, rivers and lakes in North America ¾ Local community • Human features ¾ Countries (i.e., United States, ¾ States (i.e., Pennsylvania, Mexico, Canada) Delaware, Maryland, New West Virginia) ¾ Cities (i.e., Philadelphia, Erie, Harrisburg, Johnstown, Jersey, NAelwto oYnoar,k P, iOttshbiou,r gh, Scranton, Allentown, Washington D.C., Baltimore, New York, ¾ Local community Toronto, Cleveland) • Regions as areas with unifying geographic characteristics ¾ Physical regions (e.g., landform regions, climate regions, river basins) ¾ Human regions (e.g., neighborhoods, cities, states, countries)
-places
-•
-•
-•
-•
-•
-Allentown, Washington D.C.,
-¾ Countries (i.e., United States,
-¾ Cities (i.e., Philadelphia, Erie,
-climate regions, river basins)
-B. Identify and locate places and regions.
-¾ Major landforms, rivers and
-(e.g., neighborhoods, cities,
-¾ States (i.e., Pennsylvania,
-Regions as areas with unifying
-¾ Human regions
-Altoona, Pittsburgh, Scranton, Harrisburg, Johnstown,
-lakes in North America
-Baltimore, New York,
-(e.g., landform regions,
-¾ Continents and oceans
-Delaware, Maryland, New
-geographic characteristics
-¾ Local community
-¾ Local community
-¾ Physical regions
-states, countries)
-West Virginia)
-Toronto, Cleveland)
-Physical features
-Mexico, Canada)
-Jersey, New York, Ohio,
-Human features
-•
-•
-•
-7.2 The Physical Characteristics of Places and Regions
-7.2.3. GRADE 3
-A. Identify the physical characteristics of places and regions. • Physical properties ¾ Landforms (e.g., plains, hills, plateaus and mountains) ¾ Bodies of water (e.g., rivers, lakes, seas and oceans) ¾ Weather and climate ¾ Vegetation and animals • Earth’s basic physical systems ¾ Lithosphere ¾ Hydrosphere ¾ Atmosphere ¾ Biosphere B. Identify the basic physical processes that affect the physical characteristics of places and regions. • Earth-sun relationships (i.e., seasons and length of daylight, weather and climate) • Extreme physical events (e.g., earthquakes, floods, hurricanes, tornadoes)
-•
-•
-A. Identify the physical characteristics of
-¾ Landforms (e.g., plains, hills,
-that affect the physical characteristics
-¾ Bodies of water (e.g., rivers,
-B. Identify the basic physical processes
-Earth’s basic physical systems
-daylight, weather and climate)
-• Extreme physical events (e.g., earthquakes, floods,
-plateaus and mountains)
-lakes, seas and oceans)
-¾ Vegetation and animals
-(i.e., seasons and length of
-¾ Weather and climate
-7.2.3. GRADE 3
-• Earth-sun relationships
-hurricanes, tornadoes)
-Physical properties
-of places and regions.
-¾ Hydrosphere
-¾ Atmosphere
-places and regions.
-¾ Lithosphere
-¾ Biosphere
-•
-•
-7.3 The Human Characteristics of Places and Regions
-7.3.3. GRADE 3
-Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to. .
-A. Identify the human characteristics of places and regions by their population characteristics. • The number and distribution of people in the local community • Human movement in the local community (e.g., mobility in daily life, migration) B. Identify the human characteristics of places and regions by their cultural characteristics. • Components of culture (e.g., language, belief systems and customs, social organizations, foods, ethnicity)
-B. Identify the human characteristics of
-places and regions by their population
-• Human movement in the local
-community (e.g., mobility in daily
-(e.g., language, belief systems and
-A. Identify the human characteristics of
-places and regions by their cultural
-• The number and distribution of people in the local community
-customs, social organizations,
-• Components of culture
-7.3.3. GRADE 3
-foods, ethnicity)
-life, migration)
-characteristics.
-characteristics.
-• Ethnicity of people in the local community (e.g., customs, celebrations, languages, religions) C. Identify the human characteristics of places and regions by their settlement characteristics. • Types of settlements (e.g., villages, towns, suburbs, cities, metropolitan areas) • Factors that affect where people settle (e.g., water, resources, transportation) D. Identify the human characteristics of places and regions by their economic activities. • Location factors in the spatial distribution of economic activities (e.g., market, transportation, workers, materials) ¾ Producers of consumer products and services (e.g., bread, pizza, television, shopping malls)
-•
-C. Identify the human characteristics of
-distribution of economic activities
-celebrations, languages, religions)
-• Types of settlements (e.g., villages, towns, suburbs, cities,
-places and regions by their settlement
-places and regions by their economic
-(e.g., bread, pizza, television,
-D. Identify the human characteristics of
-• Factors that affect where people settle (e.g., water, resources,
-Ethnicity of people in the local
-• Location factors in the spatial
-products and services
-(e.g., market, transportation,
-¾ Producers of consumer
-community (e.g., customs,
-workers, materials)
-shopping malls)
-metropolitan areas)
-transportation)
-characteristics.
-activities.
-•
-¾ Products of farms and factories at the local and regional level (e.g., mushrooms, milk, snack foods, furniture) • Spatial distribution of resources ¾ Non-renewable resources ¾ Renewable resources ¾ Flow resources (e.g., water power, wind power) E. Identify the human characteristics of places and regions by their political activities. • Type of political units (e.g., townships, boroughs, towns, cities, counties, states, countries (nation state)) • Political units in the local area
-•
-¾ Products of farms and factories
-(e.g., mushrooms, milk, snack
-(e.g., townships, boroughs, towns,
-at the local and regional level
-E. Identify the human characteristics of
-cities, counties, states, countries
-Spatial distribution of resources
-¾ Flow resources (e.g., water
-places and regions by their political
-• Type of political units
-¾ Non-renewable resources
-• Political units in the local area
-¾ Renewable resources
-power, wind power)
-foods, furniture)
-(nation state))
-activities.
-•
-7.4 The Interactions Between People and Places
-7.4.3. GRADE 3
-Pennsylvania’s public schools shall teach, challenge and support every student to realize his or her maximum potential and to acquire the knowledge and skills needed to…
-A. Identify the impacts of physical systems on people. • How people depend on, adjust to and modify physical systems on a local scale (e.g., soil quality and agriculture, snowfall and daily activities, drought and water use) • Ways in which natural hazards affect human activities (e.g., storms, lightning, flooding) B. Identify the impacts of people on physical systems. • Effects of energy use (e.g., water quality, air quality, change in natural vegetation) • Ways humans change local ecosystems (e.g., land use, dams and canals on waterways, reduction and extinction of species)
-and modify physical systems on a
-(e.g., storms, lightning, flooding)
-activities, drought and water use)
-• How people depend on, adjust to
-local scale (e.g., soil quality and
-B. Identify the impacts of people on
-• Effects of energy use (e.g., water quality, air quality, change in
-ecosystems (e.g., land use, dams
-agriculture, snowfall and daily
-affect human activities
-• Ways in which natural hazards
-A. Identify the impacts of physical
-reduction and extinction of
-• Ways humans change local
-and canals on waterways,
-7.4.3. GRADE 3
-natural vegetation)
-systems on people.
-physical systems.
-species)
-Substrand
-Kindergarten to Grade 2
-1. Personal Finance Fundamentals
-Financial goal setting and decision making
-Financial goal
-17.1.K-2.A
-setting and
-Identify short-term financial
-decision making
-goals and steps people can
-take to achieve them.
-17.1.K-2.B
-Explain how limited personal
-financial resources affect the
-choices people make.
-Financial mindset and behaviors
-17.1.K-2.C Describe how friends and family can impact a person's attitudes toward money.
-Substrand
-Kindergarten to Grade 2
+Academic Standards for Personal Finance
+Grades K—12
+17.1
+Personal Finance Fundamentals
+17.2
+Income
+17.3
+Spending
+17.4
+Saving and Investing
+17.5
+Risk and Insurance
+17.6
+Credit
+Kindergarten to Grade 2 = 17.1,K-2.F Describe ways people use financial institutions (e.g., depositing money, obtaining cash).
 Financial services
-Financial services
-17.1.K-2.F Describe ways people use financial institutions (e.g., depositing money, obtaining cash).
 Financial record keeping
-Substrand
-Kindergarten to Grade 2
 Consumer protection
-Consumer
-protection
-2. Income
+Kindergarten to Grade 2
 Sources of income
 17.2.K-2.A Identify reasons people and households require income.
 Factors influencing income
-17.2.K-2.C Predict the knowledge and skills needed for various jobs.
-Substrand
-Kindergarten to Grade 2
+17.2.K-2.0 Predict the knowledge and skills needed for various jobs.
+Sub d
+Kind: ten to Grade 2 Intentionally blank
 Self-employment and supplemental income
-17.2.K-2.G Identify ways people earn income through entrepreneurship.
+= 17.2.K-2.G identify ways people earn income through entrepreneurship.
 Income and payroll taxes
-Substrand
+intentionally blank
 Kindergarten to Grade 2
-3. Spending
 Spending decisions
-17.3.K-2.A Describe spending choices people make in everyday life and factors that influence them.
+17.3.K-2A Describe spending choices people make in everyday life and factors that influence them.
 Developing a budget
-17.3.K-2.C
-Differentiate between
-money that is received and
-money that is spent.
-17.3.K-2.D
-Describe how people use
-money for different
-purposes, including
-spending, saving, and sharing
-with others.
-Substrand
+17.3.K-2.€ Differentiate between money that is received and money that is spent. 17.3.K:2.B Describe how people use money for different purposes, including spending, saving, and sharing with others.
 Kindergarten to Grade 2
 Payment methods
+= Intentionally blank
 Major life purchases
-Substrand
 Kindergarten to Grade 2
 Sales and Property Taxes
 Charitable Giving
-17.3.K-2.M
-Identify items people might
-give to someone else or
-donate to charity.
-4. Saving and Investing
+= -17.3.K-2.M Identify items people might give to someone else or donate to charity.
 Asset building
-17.4.K-2.A Describe things people own (e.g., toys, home, money).
+17.42.48 Describe things people own le.g., toys, home, money).
 Saving
-17.4.K-2.B
-Describe reasons people
-save money for the future
-rather than spend it now.
-17.4.K-2.C
-Identify ways children can
-keep their money safe and
-avoid losing it.
-Substrand
+17.4.K-2.B Describe reasons people save money for the future rather than spend it now. 17.42. Identify ways children can keep their money safe and avald losing it,
 Kindergarten to Grade 2
 Investing
-Substrand
 Kindergarten to Grade 2
 Investing risk tolerance
-5. Risk and Insurance
 Risk identification and management
-17.5.K-2.A Identify risks in everyday situations.
-17.5.K-2.B Explain ways to avoid or reduce risks.
-Substrand
+= 17.5,K-2.4 identify risks in everyday situations.
+17.5,K-2.B Explain ways to avoid or reduce risks,
 Kindergarten to Grade 2
 Insurance
-Insurance
-Substrand
-Kindergarten to Grade 2
+Kindergarten to Grade 2 17.5.K-2.H Give examples of personal information that should be kept private. Intentionally blank
 Financial fraud and identity theft
-17.5.K-2.H Give examples of personal information that should be kept private.
-6. Credit
 Credit use and benefits
-Credit use and
-17.6.K-2.A Describe the process of borrowing items or money from someone else.
-benefits
+17.6.K-2.4 Describe the process of borrowing items or money from someone else.
 Types of credit
-Substrand
-Kindergarten to Grade 2
-Costs of credit
-17.6.K-2.E Identify potential advantages and disadvantages of borrowing from others.
-Credit rights and responsibilities
 
 ## Examples / clarifications
 
-(none)
+Basic concepts found in lower grades for standard statements and their descriptors must be developed more fully throughout higher grade levels.
+These are the Five Fundamental Themes of Geography:
+Theme
+Description
+Location
+The absolute and relative position of a place on Earth’s surface
+Place
+How physical and human characteristics define and distinguish a place
+Human-Environ ment Interactions
+How humans modify and adapt to natural settings
+Movement
+How people, ideas and materials move between and among locations
+Regions
+How an area displays unity in terms of physical and human characteristics
+Basic Geography Literacy must include local-to-global progression (scales) for all students at all grade levels for the standard statements and their descriptors. Basic concepts introduced in lower grade levels must be developed more fully throughout higher grade levels. Portions of Basic Geography Literacy relate directly to the Mathematics Standards.
+The Physical Characteristics of Places and Regions must include local-to-global progression (scales) for all students at all grade levels for the standard statements and their descriptors. Basic concepts must be developed more fully throughout higher grade levels. Portions of Physical Characteristics of Places and Regions relate directly to Science and Technology and Environment and Ecology standards.
+The Human Characteristics of Places and Regions must include local-to-global progression (scales) for all students at all grade levels for the standard statements and their descriptors. Basic concepts found in lower grade levels must be developed more fully throughout higher grade levels. Portions of Human Characteristics of Places and Regions relate directly to the Civics and Government and Economics Standards.
+The Interactions Between People and Places must include local to global scales for all students at all grade levels for the standard statements and their descriptors. Basic concepts found in lower grade levels must be developed more fully throughout higher grade levels.
+Historical Analysis and Skills Development…8.1.
+Pennsylvania and   United States History
+World History
+Grades 1-3 Beginnings to Present Grades 1-3
+Beginnings to Present
+Grades 4-6 Beginnings to 1824
+Grades 4-6 Beginnings to Present
+Grades 7-9 1787 to 1914
+Grades 7-9 Beginnings to 1500
+Grades 10-12 1890 to Present
+Grades 10-12 1450 to Present
+Four Standard Statements within the Academic Standards for History: An Overview
+Political and Cultural Contributions of Individuals and Groups • Inhabitants (cultures, subcultures, groups) • Political Leaders (monarchs, governors, elected officials) • Military Leaders (generals, noted military figures) • Cultural and Commercial Leaders (entrepreneurs, corporate executives, artists, entertainers, writers) • Innovators and Reformers (inventors, philosophers, religious leaders, social change agents, improvers of technology)
+How Continuity and Change Have Influenced History • Belief Systems and Religions (ideas, beliefs, values) • Commerce and Industry (jobs, trade, environmental change, labor systems, entertainment) • Innovations (ideas, technology, methods and processes) • Politics (political party systems, administration of government, rules, regulations and laws, political and judicial interpretation) • Transportation (methods of moving people and goods over time, transportation routes, circulation systems) • Settlement Patterns and Expansion (population density and diversity, settlement types, land use, colonization) • Social Organization (social structure, identification of social groups, families, groups and communities, education, school population, suffrage, civil rights) • Women’s Movement (changing roles of women, social and political movements, breaking barriers, role models)
+Primary Documents, Material Artifacts and Historical Places
+Conflict and Cooperation Among Social Groups and Organizations • Domestic Instability (political unrest, natural and man-made disasters,
+• Documents, Writings and Oral Traditions (government documents, letters and diaries, fiction and non-fiction works, newspapers and other media, folklore) • Artifacts, Architecture and Historic Places (historic sites and places, museums and museum collections, official and popular cultural symbols, material culture)
+genocide) • Ethnic and Racial Relations (racism and xenophobia, ethnic and religious prejudices, collective and individual actions) • Immigration and Migration (causes of population shifts, xenophobia, intercultural activity) • Labor Relations (strikes and collective bargaining, working conditions over time, labor/management identity) • Military Conflicts (causes, conduct and impact of military conflicts, wars and rebellions)
+Each standard statement outlines its respective standard descriptors. Each standard descriptor suggests content that may be addressed. These are not all encompassing and local planned instruction is not limited to these examples.
+Historical Analysis and Skill Development are learned through and applied to the standards statements and their descriptors for 8.2 Pennsylvania History, 8.3 United States History and 8.4 World History
+Standard Category 8.1. Historical Analysis and Skills Development should be applied to the above standard statements and descriptors. Suggested chronology for grade levels 4-6, 7-9 and 10-12 focus on a particular century; however, instruction is encouraged that draws on prior and later events in history so that students may develop a seamless view of the world.
+Standard Category 8.1. Historical Analysis and Skills Development should be applied to the above standard statements and descriptors. Suggested chronology for grade levels 4-6, 7-9 and 10-12 focus on a particular century; however, instruction is encouraged that draws on prior or later events in history so that students may develop a seamless view of the world.
+Standard Category 8.1. Historical Analysis and Skills Development should be applied to the above standard statements and descriptors. Suggested chronology in organizing the content for grade levels 7-9 and 10-12 use the 15th century as the dividing point; however, instruction is encouraged that draws on prior and later events in history so that students may develop a seamless view of the world.
+Overview
+Economics is concerned with the behavior of individuals and institutions engaged in the production, exchange, and consumption of goods and services. For students to succeed in the workforce, knowledge of how the world works is critical. Every student should know the characteristics of economic systems, how markets establish prices, how scarcity and choice affect the allocation of resources, the global nature of economic interdependence, and how work and earnings impact productivity. These standards are intended to provide direction in learning how economic activity impacts everyday life through the areas of fundamentals of economics, microeconomics, macroeconomics, and money and financial institutions. The standards are grade banded and reflect the increasing complexity and sophistication that students are expected to achieve as they progress through school.
+Overview
+Personal Finance focuses on the fundamentals of personal finance, income, spending, saving and investing, risk and insurance, and credit, with a goal to develop individuals who can manage their personal finances. Personal finance is also known as personal financial literacy and financial literacy. The standards are written as grade-banded standards built around the areas below and topics that make up the areas of study.
 
 ## Backup (non-standards text)
 
@@ -811,27 +363,13 @@ Intentionally blank
 Intentionally blank
 Intentionally blank
 Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
-Intentionally blank
 
 ## Issues
 
-civicsandgovernment_125f29.pdf: u120-u160, u165-u197, u203-u235, u246-u277, u286-u302, u313-u360, u367-u387, u398-u413: loose x= fragments duplicate table-cell text (right-to-left/scrambled); assigned to the grade whose cell text they repeat (mostly Grade 3 -> K-3); u286-u290 matched to Grade 9 (7-9), u292-u296 to Grade 6 (4-6), u298-u302 to Grade 3, u337 'affiliation.' to Grade 6, u369-u374 to Grade 9, u380-u382 to Grade 6, u398 and u400 to Grade 6 by text matching.
-civicsandgovernment_125f29.pdf: u115, u133, u241, u267, u308, u325, u393, u411: stem 'Pennsylvania's public schools shall teach... needed to ...' is shared by all grade columns; labeled standards, grades all.
-e_history_web03_3aa68b.pdf: u116-u134: Overview table of the four standard statements with descriptors; labeled standards/all (it states the standard statements and descriptors for all grades) though it could be argued examples/backup.
-e_history_web03_3aa68b.pdf: u383, u493, u250: stem fragments 'analyze cultural, economic, ... relations to...' labeled all.
-economics_standards_appendix_c-1__99ce1c.pdf: Grade bands in this document are K-2, 3-5, 6-8 and 9-12, which differ from the state guide's K-3/4-6/7-9/10-12 row clusters; labels use the document's own bands (K-2, 3-5, 6-8, 9-12), so the assembler must map them (3-5 straddles clusters 4-6/K-3; 6-8 straddles 4-6/7-9).
-economics_standards_appendix_c-1__99ce1c.pdf: Cells reading 'Intentionally blank' are labeled backup with the band of their column.
-geography_cd6697.pdf: u145-u148 (7.1 B): extraction merged nested bullets across columns (e.g. 'NAelwto oYnoar,k' in u145, 'depic¾ti ngP tohien t' in u115); text is garbled but the unit is kept in its column's grade.
-personal_finance_standards_d1e49c.pdf: Grade bands in this document are K-2, 3-5, 6-8 and 9-12, which differ from the state guide's K-3/4-6/7-9/10-12 row clusters; labels use the document's own bands (K-2, 3-5, 6-8, 9-12), so the assembler must map them (3-5 straddles clusters 4-6/K-3; 6-8 straddles 4-6/7-9).
-personal_finance_standards_d1e49c.pdf: Cells reading 'Intentionally blank' are labeled backup with the band of their column.
+Pennsylvania_Code_Chapter_4.pdf: Scope: the upload is the whole of Chapter 4, not the separate subject PDFs used before (those files were removed). Only Appendices C (u2999-u4289), C-1 (u4290-u4509) and F (u5493-u5828) hold social studies. Everything else is labeled backup: regulations and front matter (u1-u2998), Appendices A-2 and B-1 (ELA, math, science), and Appendices D, D-1, E and E-1 (arts, health, family and consumer sciences, career education, u4510-u5492). Backup from the whole file goes to the state's PA_ALL row, not to a grade row.
+Pennsylvania_Code_Chapter_4.pdf: Grade bands: the civics, geography and history tables have one column per grade 3, 6, 9 and 12. Following the project's PA convention (data/clean/README.md: civics, history and geography use K-3, 4-6, 7-9, 10-12), grade 3 maps to K-3, grade 6 to 4-6, grade 9 to 7-9 and grade 12 to 10-12, and each band is copied into every grade it covers. The document describes these as standards for grades 3, 6, 9 and 12, and its history introduction names the first band as grades 1-3; the K-3 label follows the convention, not the printed wording.
+Pennsylvania_Code_Chapter_4.pdf: Shared text: the lead-in ('Pennsylvania's public schools shall teach...', row 3 of each table) and the strand headings apply to all grades (K-12). Notes that describe the standards rather than state them ('Basic concepts found in lower grades...', 'must include local-to-global progression', 'Standard Category 8.1...', the five themes, the four-statement overview and the chronology table) are examples, K-12.
+Pennsylvania_Code_Chapter_4.pdf: Table continuations: a cell split across pages keeps its table column, so its continuation takes that column's grade (e.g. u3255, u3256, u3257). The PDF cuts a few words inside cells, so some text is garbled in the source (for example 'esources' in u3633 and 'he United States' in u3128).
+Pennsylvania_Code_Chapter_4.pdf: Economics (Appendix C-1, pages 107-109, units u4317-u4503) and Personal Finance (Appendix F, pages 132-136, units u5527-u5817) are pictures with no text layer. Their text was read by tesseract OCR at 300 dpi (scripts/extract_units.py, ocr_units). OCR can misread words and codes (for example 'searcity' for 'scarcity', 'ch istics' for 'characteristics', and '6.1.6-3.B' for 6.1.3-5.B). Each OCR unit's grade comes from its x position: label column x=0; K-2 about x=101-104; 3-5 about x=168-173; 6-8 about x=235-249; 9-12 about x=320-339. A cell that OCR merged with a neighbour takes the column of its first word. Check these units against the PDF before the economics and personal finance text is used.
+Pennsylvania_Code_Chapter_4.pdf: Print header and footer lines of the Pennsylvania Code web page ('10/24/26, 12:56 PM', 'Pennsylvania Code', 'about:blank', 'n/137') and the 'Final-form 22 Pa. Code ... approved ... September 12, 2024' footers are page furniture or OCR footers; they are backup, not standards.
+Pennsylvania_Code_Chapter_4.pdf: 'Intentionally blank' cells in the economics and personal finance grids are backup for their band.

@@ -1,0 +1,6395 @@
+{
+ "state": "PA",
+ "file": "Pennsylvania_Code_Chapter_4.pdf",
+ "structure": "Pennsylvania Code, Title 22, Chapter 4 (Academic Standards and Assessment), printed from the official Pennsylvania Code site (137 pages). Pages 1-78 are regulations (sections 4.1-4.83) and Appendices A-2 (English language arts and mathematics) and B-1 (science, environment, technology): not social studies, so backup. Appendix C (pages 79-105) holds Academic Standards for Civics and Government (strands 5.1-5.4), Geography (7.1-7.4) and History (8.1-8.4). Each is a table with one column per grade: C1 = grade 3, C2 = grade 6, C3 = grade 9, C4 = grade 12 (labeled K-3, 4-6, 7-9, 10-12). Row 1 holds the strand heading ('5.1. ...'), row 2 the grade headers ('5.1.3. GRADE 3'), row 3 a shared lead-in ('Pennsylvania's public schools shall teach...'), and the lettered statements (A., B., ...) follow with bullet descriptors and e.g. lists in the same cell. A statement can continue onto the next page in a new table with the same column. Glossaries and the Reading/Writing in History and Social Studies standards (CCSS 8.5, 8.6) are backup. Appendix C-1 (pages 106-109, Economics) and Appendix F (pages 130-136, Personal Finance) are grids: the substrand is the first column and grade bands K-2, 3-5, 6-8, 9-12 are the next four. Those pages have no text layer (they are pictures), so their text came from OCR (see issues). Appendices D (arts, health), D-1 (family and consumer sciences), E and E-1 (career education) are not social studies: backup.",
+ "labels": [
+  {
+   "units": "u3-u3007",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3008",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u3009-u3072",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3073",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3074",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3075",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3076",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3077",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3078",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3079",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3080",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3081",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3082",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3083",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3084",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3085",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3086",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3087",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > C"
+  },
+  {
+   "units": "u3088",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > C"
+  },
+  {
+   "units": "u3089",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > C"
+  },
+  {
+   "units": "u3090",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > C"
+  },
+  {
+   "units": "u3091",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3092",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3093",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3094",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3095",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3096",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3097",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > D"
+  },
+  {
+   "units": "u3098",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > D"
+  },
+  {
+   "units": "u3099",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > D"
+  },
+  {
+   "units": "u3100",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > D"
+  },
+  {
+   "units": "u3101",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3102",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3103",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3104",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3105",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3106",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3107",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > E"
+  },
+  {
+   "units": "u3108",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > E"
+  },
+  {
+   "units": "u3109",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > E"
+  },
+  {
+   "units": "u3110",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > E"
+  },
+  {
+   "units": "u3111",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3112",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3113",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3114",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3115",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3120",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3121",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3122",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3123",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3124",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3125",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > G"
+  },
+  {
+   "units": "u3126",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > G"
+  },
+  {
+   "units": "u3127",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > G"
+  },
+  {
+   "units": "u3128",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > G"
+  },
+  {
+   "units": "u3129",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3130",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3131",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3132",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3133",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3134",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3135",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > H"
+  },
+  {
+   "units": "u3136",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > H"
+  },
+  {
+   "units": "u3137",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > H"
+  },
+  {
+   "units": "u3138",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > H"
+  },
+  {
+   "units": "u3139",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > I"
+  },
+  {
+   "units": "u3140",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > I"
+  },
+  {
+   "units": "u3141",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > I"
+  },
+  {
+   "units": "u3142",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > I"
+  },
+  {
+   "units": "u3143",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > J"
+  },
+  {
+   "units": "u3144",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > J"
+  },
+  {
+   "units": "u3145",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > J"
+  },
+  {
+   "units": "u3146",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > J"
+  },
+  {
+   "units": "u3147",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3148",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3149",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3150",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3151",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3152",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3153",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > K"
+  },
+  {
+   "units": "u3154",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > K"
+  },
+  {
+   "units": "u3155",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > K"
+  },
+  {
+   "units": "u3156",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > K"
+  },
+  {
+   "units": "u3157",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > L"
+  },
+  {
+   "units": "u3158",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > L"
+  },
+  {
+   "units": "u3159",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > L"
+  },
+  {
+   "units": "u3160",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > L"
+  },
+  {
+   "units": "u3161",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3162",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3163",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3164",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3165",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3166",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3167",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3168",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3169",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3170",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3171",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3172",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3177",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3178",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3179",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3180",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > M"
+  },
+  {
+   "units": "u3181",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government"
+  },
+  {
+   "units": "u3182",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3183",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3184",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3185",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > A"
+  },
+  {
+   "units": "u3186",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3187",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3188",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3189",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.1. Principles and Documents of Government > B"
+  },
+  {
+   "units": "u3190",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3191",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3192",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3193",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3194",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3195",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3196",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > C"
+  },
+  {
+   "units": "u3197",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > C"
+  },
+  {
+   "units": "u3198",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > C"
+  },
+  {
+   "units": "u3199",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > C"
+  },
+  {
+   "units": "u3200",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > D"
+  },
+  {
+   "units": "u3201",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > D"
+  },
+  {
+   "units": "u3202",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > D"
+  },
+  {
+   "units": "u3203",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > D"
+  },
+  {
+   "units": "u3204",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > E"
+  },
+  {
+   "units": "u3205",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > E"
+  },
+  {
+   "units": "u3206",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > E"
+  },
+  {
+   "units": "u3207",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > E"
+  },
+  {
+   "units": "u3208",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > F"
+  },
+  {
+   "units": "u3209",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > F"
+  },
+  {
+   "units": "u3210",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > F"
+  },
+  {
+   "units": "u3211",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > F"
+  },
+  {
+   "units": "u3212",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > G"
+  },
+  {
+   "units": "u3213",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > G"
+  },
+  {
+   "units": "u3214",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > G"
+  },
+  {
+   "units": "u3215",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship > G"
+  },
+  {
+   "units": "u3216",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3217",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3218",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3219",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3220",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3221",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3222",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "5.2. Rights and Responsibilities of Citizenship"
+  },
+  {
+   "units": "u3223",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3224",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3225",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3226",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3227",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3228",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3229",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > A"
+  },
+  {
+   "units": "u3230",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > A"
+  },
+  {
+   "units": "u3231",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > A"
+  },
+  {
+   "units": "u3232",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > A"
+  },
+  {
+   "units": "u3233",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > B"
+  },
+  {
+   "units": "u3234",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > B"
+  },
+  {
+   "units": "u3235",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > B"
+  },
+  {
+   "units": "u3236",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > B"
+  },
+  {
+   "units": "u3237",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > C"
+  },
+  {
+   "units": "u3238",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > C"
+  },
+  {
+   "units": "u3239",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > C"
+  },
+  {
+   "units": "u3240",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > C"
+  },
+  {
+   "units": "u3241",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3242",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3243",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3244",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3245",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3246",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3247",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3248",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3249",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3250",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3255",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3256",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3257",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > D"
+  },
+  {
+   "units": "u3258",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3259",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3260",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3261",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3262",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3263",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3264",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3265",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3266",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3267",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3268",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > F"
+  },
+  {
+   "units": "u3269",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > F"
+  },
+  {
+   "units": "u3270",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > F"
+  },
+  {
+   "units": "u3271",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > F"
+  },
+  {
+   "units": "u3272",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > G"
+  },
+  {
+   "units": "u3273",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > G"
+  },
+  {
+   "units": "u3274",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > G"
+  },
+  {
+   "units": "u3275",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > G"
+  },
+  {
+   "units": "u3276",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3277",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3278",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3279",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3280",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3281",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3282",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > H"
+  },
+  {
+   "units": "u3283",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > H"
+  },
+  {
+   "units": "u3284",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > H"
+  },
+  {
+   "units": "u3285",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > H"
+  },
+  {
+   "units": "u3286",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > I"
+  },
+  {
+   "units": "u3287",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > I"
+  },
+  {
+   "units": "u3288",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > I"
+  },
+  {
+   "units": "u3289",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > I"
+  },
+  {
+   "units": "u3290",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > J"
+  },
+  {
+   "units": "u3291",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > J"
+  },
+  {
+   "units": "u3292",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > J"
+  },
+  {
+   "units": "u3293",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > J"
+  },
+  {
+   "units": "u3294",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > K"
+  },
+  {
+   "units": "u3295",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > K"
+  },
+  {
+   "units": "u3296",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > K"
+  },
+  {
+   "units": "u3297",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.3. How Government Works > K"
+  },
+  {
+   "units": "u3298",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "5.3. How Government Works"
+  },
+  {
+   "units": "u3299",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3300",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3301",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3302",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3303",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3304",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3305",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > A"
+  },
+  {
+   "units": "u3306",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > A"
+  },
+  {
+   "units": "u3307",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > A"
+  },
+  {
+   "units": "u3308",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > A"
+  },
+  {
+   "units": "u3309",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > B"
+  },
+  {
+   "units": "u3310",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > B"
+  },
+  {
+   "units": "u3311",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > B"
+  },
+  {
+   "units": "u3312",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > B"
+  },
+  {
+   "units": "u3313",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > C"
+  },
+  {
+   "units": "u3314",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > C"
+  },
+  {
+   "units": "u3315",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > C"
+  },
+  {
+   "units": "u3316",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > C"
+  },
+  {
+   "units": "u3317",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3318",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3319",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3320",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3321",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3326",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3327",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3328",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3329",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3330",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function"
+  },
+  {
+   "units": "u3331",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > E"
+  },
+  {
+   "units": "u3332",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > E"
+  },
+  {
+   "units": "u3333",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > E"
+  },
+  {
+   "units": "u3334",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "5.4. How International Relationships Function > E"
+  },
+  {
+   "units": "u3335-u3498",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3499",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u3500-u3529",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3530-u3542",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u3543-u3545",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3546",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3547",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3548",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3549",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3550",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3551",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3552",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3553",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3554",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3555",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3556",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3557",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3558",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3559",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3560",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3561",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3562",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3563",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > A"
+  },
+  {
+   "units": "u3568",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3569",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3570",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3571",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3572",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3573",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3574",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3575",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3576",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3577",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3578",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3579",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3580",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.1. Basic Geographic Literacy > B"
+  },
+  {
+   "units": "u3581",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "7.1. Basic Geographic Literacy"
+  },
+  {
+   "units": "u3582",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3583",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3584",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3585",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3586",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3587",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3588",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3589",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3590",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3591",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3592",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3593",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3594",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3595",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3600",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3601",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3602",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3603",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.2 The Physical Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3604",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "7.2 The Physical Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3605",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3606",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3607",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3608",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3609",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3610",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3611",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3612",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3613",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3614",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > A"
+  },
+  {
+   "units": "u3615",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3616",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3617",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3618",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > B"
+  },
+  {
+   "units": "u3619",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > C"
+  },
+  {
+   "units": "u3620",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > C"
+  },
+  {
+   "units": "u3621",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > C"
+  },
+  {
+   "units": "u3622",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > C"
+  },
+  {
+   "units": "u3623",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3624",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3625",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3626",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3631",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3632",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3633",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3634",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3635",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3636",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3637",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3638",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3639",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3640",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > D"
+  },
+  {
+   "units": "u3641",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > E"
+  },
+  {
+   "units": "u3642",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > E"
+  },
+  {
+   "units": "u3643",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > E"
+  },
+  {
+   "units": "u3644",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.3 The Human Characteristics of Places and Regions > E"
+  },
+  {
+   "units": "u3645",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "7.3 The Human Characteristics of Places and Regions"
+  },
+  {
+   "units": "u3646",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3647",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3648",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3649",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3650",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3651",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3652",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > A"
+  },
+  {
+   "units": "u3653",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > A"
+  },
+  {
+   "units": "u3654",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > A"
+  },
+  {
+   "units": "u3655",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > A"
+  },
+  {
+   "units": "u3656",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > B"
+  },
+  {
+   "units": "u3657",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > B"
+  },
+  {
+   "units": "u3658",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > B"
+  },
+  {
+   "units": "u3659",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "7.4 The Interactions Between People and Places > B"
+  },
+  {
+   "units": "u3660",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "7.4 The Interactions Between People and Places"
+  },
+  {
+   "units": "u3661-u3888",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3889",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u3890-u3892",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3893",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u3894-u3948",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3949-u3958",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u3959-u3962",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u3963-u3974",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u3975",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3976",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3977",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3978",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3979",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3980",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3981",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > A"
+  },
+  {
+   "units": "u3982",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > A"
+  },
+  {
+   "units": "u3983",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > A"
+  },
+  {
+   "units": "u3984",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > A"
+  },
+  {
+   "units": "u3985",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > B"
+  },
+  {
+   "units": "u3986",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > B"
+  },
+  {
+   "units": "u3987",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > B"
+  },
+  {
+   "units": "u3988",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > B"
+  },
+  {
+   "units": "u3989",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3990",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3991",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3992",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3993",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3994",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u3995",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > C"
+  },
+  {
+   "units": "u3996",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > C"
+  },
+  {
+   "units": "u3997",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > C"
+  },
+  {
+   "units": "u3998",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > C"
+  },
+  {
+   "units": "u3999",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > D"
+  },
+  {
+   "units": "u4000",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > D"
+  },
+  {
+   "units": "u4001",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > D"
+  },
+  {
+   "units": "u4002",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.1. Historical Analysis and Skills Development > D"
+  },
+  {
+   "units": "u4003",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "8.1. Historical Analysis and Skills Development"
+  },
+  {
+   "units": "u4004",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4005",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4006",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4007",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4008",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4013",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4014",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4015",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4016",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4017",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4018",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > B"
+  },
+  {
+   "units": "u4019",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > B"
+  },
+  {
+   "units": "u4020",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > B"
+  },
+  {
+   "units": "u4021",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > B"
+  },
+  {
+   "units": "u4022",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4023",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4024",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4025",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4026",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4027",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4028",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4029",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4030",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4031",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4032",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4033",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4034",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > C"
+  },
+  {
+   "units": "u4035",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4036",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4037",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4038",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4039",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4040",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4045",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > D"
+  },
+  {
+   "units": "u4046",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > D"
+  },
+  {
+   "units": "u4047",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > D"
+  },
+  {
+   "units": "u4048",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.2. Pennsylvania History > D"
+  },
+  {
+   "units": "u4049",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "8.2. Pennsylvania History"
+  },
+  {
+   "units": "u4050",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4051",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4052",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4053",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4054",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4055",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4056",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > A"
+  },
+  {
+   "units": "u4057",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > A"
+  },
+  {
+   "units": "u4058",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > A"
+  },
+  {
+   "units": "u4059",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > A"
+  },
+  {
+   "units": "u4060",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > B"
+  },
+  {
+   "units": "u4061",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > B"
+  },
+  {
+   "units": "u4062",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > B"
+  },
+  {
+   "units": "u4063",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > B"
+  },
+  {
+   "units": "u4064",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4065",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4066",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4067",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4068",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4069",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4070",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4071",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4072",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4073",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4078",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4079",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4080",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4081",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4082",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4083",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4084",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4085",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4086",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4087",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4088",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4089",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > C"
+  },
+  {
+   "units": "u4090",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4091",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4092",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4093",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4094",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4095",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4096",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4097",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4098",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4099",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4100",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4101",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4102",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.3. United States History > D"
+  },
+  {
+   "units": "u4103",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "8.3. United States History"
+  },
+  {
+   "units": "u4104",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4105",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4106",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4107",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4108",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4109",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4110",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4111",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4112",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4113",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4118",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4119",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4120",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4121",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > A"
+  },
+  {
+   "units": "u4122",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4123",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4124",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4125",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4126",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > C"
+  },
+  {
+   "units": "u4127",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > C"
+  },
+  {
+   "units": "u4128",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > C"
+  },
+  {
+   "units": "u4129",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > C"
+  },
+  {
+   "units": "u4130",
+   "grades": "K-3",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > D"
+  },
+  {
+   "units": "u4131",
+   "grades": "4-6",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > D"
+  },
+  {
+   "units": "u4132",
+   "grades": "7-9",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > D"
+  },
+  {
+   "units": "u4133",
+   "grades": "10-12",
+   "course": null,
+   "cat": "standards",
+   "section": "8.4. World History > D"
+  },
+  {
+   "units": "u4134",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": "8.4. World History"
+  },
+  {
+   "units": "u4135-u4290",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4291-u4292",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4293-u4298",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4299-u4300",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u4301-u4302",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4303",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4304-u4305",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Fundamentals of Economics"
+  },
+  {
+   "units": "u4306-u4307",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Microeconomics"
+  },
+  {
+   "units": "u4308-u4309",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Macroeconomics"
+  },
+  {
+   "units": "u4310",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Money and Economic Institutions"
+  },
+  {
+   "units": "u4317-u4320",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4321",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4322",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4323",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4324",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4325",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4326",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4327",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4328",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic systems"
+  },
+  {
+   "units": "u4329",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic systems"
+  },
+  {
+   "units": "u4330",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economic systems"
+  },
+  {
+   "units": "u4331",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Fundamental economic questions"
+  },
+  {
+   "units": "u4332",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Fundamental economic questions"
+  },
+  {
+   "units": "u4333",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Fundamental economic questions"
+  },
+  {
+   "units": "u4334",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Scarcity"
+  },
+  {
+   "units": "u4335",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Scarcity"
+  },
+  {
+   "units": "u4336",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Scarcity"
+  },
+  {
+   "units": "u4337",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Scarcity"
+  },
+  {
+   "units": "u4338",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4339",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4340",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4341",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4342-u4345",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4346",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4347",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4348",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4349",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4350",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4351",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4352",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4353",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic choice"
+  },
+  {
+   "units": "u4354",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Marginal analysis"
+  },
+  {
+   "units": "u4355",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Marginal analysis"
+  },
+  {
+   "units": "u4356",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Marginal analysis"
+  },
+  {
+   "units": "u4357",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Opportunity cost"
+  },
+  {
+   "units": "u4358",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Opportunity cost"
+  },
+  {
+   "units": "u4359",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Incentives"
+  },
+  {
+   "units": "u4360",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Incentives"
+  },
+  {
+   "units": "u4361",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Incentives"
+  },
+  {
+   "units": "u4362",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Incentives"
+  },
+  {
+   "units": "u4363",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Specialization"
+  },
+  {
+   "units": "u4364",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Specialization"
+  },
+  {
+   "units": "u4365",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Specialization"
+  },
+  {
+   "units": "u4366",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Specialization"
+  },
+  {
+   "units": "u4367",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Trade"
+  },
+  {
+   "units": "u4368",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Trade"
+  },
+  {
+   "units": "u4369",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Foreign trade"
+  },
+  {
+   "units": "u4370",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Foreign trade"
+  },
+  {
+   "units": "u4371",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Foreign trade"
+  },
+  {
+   "units": "u4372",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Foreign trade"
+  },
+  {
+   "units": "u4373-u4382",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4384",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4385",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4386",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4387-u4388",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4389",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4390",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4391",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4392",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Comparative advantage"
+  },
+  {
+   "units": "u4393",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Comparative advantage"
+  },
+  {
+   "units": "u4394",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Comparative advantage"
+  },
+  {
+   "units": "u4395",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Comparative advantage"
+  },
+  {
+   "units": "u4396",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Comparative advantage"
+  },
+  {
+   "units": "u4397",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Circular flow"
+  },
+  {
+   "units": "u4398",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Circular flow"
+  },
+  {
+   "units": "u4399",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Circular flow"
+  },
+  {
+   "units": "u4400",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Circular flow"
+  },
+  {
+   "units": "u4401",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Competition"
+  },
+  {
+   "units": "u4402",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Competition"
+  },
+  {
+   "units": "u4403",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Competition"
+  },
+  {
+   "units": "u4404",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Monopolies"
+  },
+  {
+   "units": "u4405",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Monopolies"
+  },
+  {
+   "units": "u4406",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4407",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4408-u4411",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4412",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4413",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4414",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4415",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4416",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4417",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4418",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4419",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Supply and demand"
+  },
+  {
+   "units": "u4420",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Wages"
+  },
+  {
+   "units": "u4421",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Wages"
+  },
+  {
+   "units": "u4422",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Wages"
+  },
+  {
+   "units": "u4423",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Wages"
+  },
+  {
+   "units": "u4424",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4425",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4426",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4427",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4428",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4429",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Productivity"
+  },
+  {
+   "units": "u4430",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of businesses"
+  },
+  {
+   "units": "u4431",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of businesses"
+  },
+  {
+   "units": "u4432",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Profit and loss"
+  },
+  {
+   "units": "u4433",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Profit and loss"
+  },
+  {
+   "units": "u4434",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Entrepreneurship"
+  },
+  {
+   "units": "u4435",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Entrepreneurship"
+  },
+  {
+   "units": "u4436",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Entrepreneurship"
+  },
+  {
+   "units": "u4437",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Entrepreneurship"
+  },
+  {
+   "units": "u4438-u4447",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4449",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4450",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4451",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4452",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4453",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u4454",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economie indicators"
+  },
+  {
+   "units": "u4455",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economie indicators"
+  },
+  {
+   "units": "u4456",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economie indicators"
+  },
+  {
+   "units": "u4457",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Economie indicators"
+  },
+  {
+   "units": "u4458",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Business cycles"
+  },
+  {
+   "units": "u4459",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Business cycles"
+  },
+  {
+   "units": "u4460",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Business cycles"
+  },
+  {
+   "units": "u4461",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Business cycles"
+  },
+  {
+   "units": "u4462",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Fiscal policy"
+  },
+  {
+   "units": "u4463",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Fiscal policy"
+  },
+  {
+   "units": "u4464",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Fiscal policy"
+  },
+  {
+   "units": "u4465",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Federal budget"
+  },
+  {
+   "units": "u4466",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Federal budget"
+  },
+  {
+   "units": "u4467",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Federal budget"
+  },
+  {
+   "units": "u4468",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Federal budget"
+  },
+  {
+   "units": "u4469",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4470",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4471",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4472",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4473-u4476",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u4477",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4478",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4479",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4480",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4481",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4482",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4483",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4484",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Taxation"
+  },
+  {
+   "units": "u4485",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Economic role of government"
+  },
+  {
+   "units": "u4486",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Economic role of government"
+  },
+  {
+   "units": "u4487",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Externalities."
+  },
+  {
+   "units": "u4488",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Externalities."
+  },
+  {
+   "units": "u4489",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Externalities."
+  },
+  {
+   "units": "u4490",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Externalities."
+  },
+  {
+   "units": "u4491",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Public goods and services"
+  },
+  {
+   "units": "u4492",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Public goods and services"
+  },
+  {
+   "units": "u4493",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Public goods and services"
+  },
+  {
+   "units": "u4494",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Money"
+  },
+  {
+   "units": "u4495",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Money"
+  },
+  {
+   "units": "u4496",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Money"
+  },
+  {
+   "units": "u4497",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Money"
+  },
+  {
+   "units": "u4498",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Exchange rates"
+  },
+  {
+   "units": "u4499",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Exchange rates"
+  },
+  {
+   "units": "u4500",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Exchange rates"
+  },
+  {
+   "units": "u4501-u5493",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5494-u5499",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5500-u5505",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5506-u5507",
+   "grades": "K-12",
+   "course": null,
+   "cat": "examples",
+   "section": ""
+  },
+  {
+   "units": "u5508-u5509",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5510",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5511-u5512",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Personal Finance Fundamentals"
+  },
+  {
+   "units": "u5513-u5514",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Income"
+  },
+  {
+   "units": "u5515-u5516",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending"
+  },
+  {
+   "units": "u5517-u5518",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Saving and Investing"
+  },
+  {
+   "units": "u5519-u5520",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk and Insurance"
+  },
+  {
+   "units": "u5521",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit"
+  },
+  {
+   "units": "u5527-u5529",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5530",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5531",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5532",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5533",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5534",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5535",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5536",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5537",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5538",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5539",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5540",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5541",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5542",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5543",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5544",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial services"
+  },
+  {
+   "units": "u5545",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5546",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5547",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5548",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5549",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5550",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5551",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Financial record keeping"
+  },
+  {
+   "units": "u5552",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5553",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5554",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5555",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5556",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5557-u5560",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5561",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5562",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5563",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5564",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5565",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5566",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5567",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5568",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Consumer protection"
+  },
+  {
+   "units": "u5569",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5570",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5571",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5572",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5573",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5574",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5575",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Sources of income"
+  },
+  {
+   "units": "u5576",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Factors influencing income"
+  },
+  {
+   "units": "u5577",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Factors influencing income"
+  },
+  {
+   "units": "u5578",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Factors influencing income"
+  },
+  {
+   "units": "u5579",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Factors influencing income"
+  },
+  {
+   "units": "u5580-u5591",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5592",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5593",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5594",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5595",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5596",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5597-u5598",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5599",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5600",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5601",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5602",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5603",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Sub d"
+  },
+  {
+   "units": "u5604",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Self-employment and supplemental income"
+  },
+  {
+   "units": "u5605",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Self-employment and supplemental income"
+  },
+  {
+   "units": "u5606",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Self-employment and supplemental income"
+  },
+  {
+   "units": "u5607",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Self-employment and supplemental income"
+  },
+  {
+   "units": "u5608",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Self-employment and supplemental income"
+  },
+  {
+   "units": "u5609",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5610",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5611",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5612",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5613",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5614",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5615",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5616",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5617",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5618-u5619",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Income and payroll taxes"
+  },
+  {
+   "units": "u5620",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5621",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5622",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5623",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5624",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5625",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5626",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5627",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5628",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Spending decisions"
+  },
+  {
+   "units": "u5629",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Developing a budget"
+  },
+  {
+   "units": "u5630",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Developing a budget"
+  },
+  {
+   "units": "u5631",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Developing a budget"
+  },
+  {
+   "units": "u5632",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Developing a budget"
+  },
+  {
+   "units": "u5633",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Developing a budget"
+  },
+  {
+   "units": "u5641-u5643",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5644",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5645",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5646",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5647",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5648",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5649",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5650",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5651",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5652",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5653",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5654",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5655",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5656",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5657",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5658",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5659",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5660",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5661",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5662",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Payment methods"
+  },
+  {
+   "units": "u5663",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5664",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5665",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5666",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5667",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5668",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5669",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5670-u5673",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5674",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5675",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5676",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5677",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Major life purchases"
+  },
+  {
+   "units": "u5678",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Sales and Property Taxes"
+  },
+  {
+   "units": "u5679",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Sales and Property Taxes"
+  },
+  {
+   "units": "u5680",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Sales and Property Taxes"
+  },
+  {
+   "units": "u5681",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Sales and Property Taxes"
+  },
+  {
+   "units": "u5682",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Charitable Giving"
+  },
+  {
+   "units": "u5683",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Charitable Giving"
+  },
+  {
+   "units": "u5684",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Charitable Giving"
+  },
+  {
+   "units": "u5685",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Charitable Giving"
+  },
+  {
+   "units": "u5686",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Charitable Giving"
+  },
+  {
+   "units": "u5687",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Asset building"
+  },
+  {
+   "units": "u5688",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Asset building"
+  },
+  {
+   "units": "u5689",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Asset building"
+  },
+  {
+   "units": "u5690",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Asset building"
+  },
+  {
+   "units": "u5691",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Saving"
+  },
+  {
+   "units": "u5692",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Saving"
+  },
+  {
+   "units": "u5693",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Saving"
+  },
+  {
+   "units": "u5694",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Saving"
+  },
+  {
+   "units": "u5695-u5707",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5708",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5709",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5710",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5711",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5712",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5713",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5714",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5715",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5716",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5717",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5718",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5719",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5720",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5721",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5722",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5723",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5724",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5725",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5726",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5727",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5728",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5729",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5730",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5731",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing"
+  },
+  {
+   "units": "u5732-u5735",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5736",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5737",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5738",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5739",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5740",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing"
+  },
+  {
+   "units": "u5741",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5742",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5743",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5744",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5745",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5746",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5747",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Investing risk tolerance"
+  },
+  {
+   "units": "u5748",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5749",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5750",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5751",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5752",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5753",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5754",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Risk identification and management"
+  },
+  {
+   "units": "u5755-u5767",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5768",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5769",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5770",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5771",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": ""
+  },
+  {
+   "units": "u5772",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5773",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5774",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5775",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5776",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5777",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5778",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5779",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5780",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5781",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5782",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5783",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5784",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5785",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5786",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5787",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5788",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5789-u5792",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  },
+  {
+   "units": "u5793",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5794",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5795",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5796",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Insurance"
+  },
+  {
+   "units": "u5797",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial fraud and identity theft"
+  },
+  {
+   "units": "u5798",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial fraud and identity theft"
+  },
+  {
+   "units": "u5799",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Financial fraud and identity theft"
+  },
+  {
+   "units": "u5800",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5801",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5802",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5803",
+   "grades": "K-2",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5804",
+   "grades": "6-8",
+   "course": null,
+   "cat": "backup",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5805",
+   "grades": "9-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5806",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5807",
+   "grades": "3-5",
+   "course": null,
+   "cat": "backup",
+   "section": "Credit use and benefits"
+  },
+  {
+   "units": "u5808",
+   "grades": "K-12",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5809",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5810",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5811",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5812",
+   "grades": "6-8",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5813",
+   "grades": "3-5",
+   "course": null,
+   "cat": "standards",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5814",
+   "grades": "K-2",
+   "course": null,
+   "cat": "backup",
+   "section": "Types of credit"
+  },
+  {
+   "units": "u5815-u5826",
+   "grades": "all",
+   "course": null,
+   "cat": "backup",
+   "section": ""
+  }
+ ],
+ "issues": [
+  "Scope: the upload is the whole of Chapter 4, not the separate subject PDFs used before (those files were removed). Only Appendices C (u2999-u4289), C-1 (u4290-u4509) and F (u5493-u5828) hold social studies. Everything else is labeled backup: regulations and front matter (u1-u2998), Appendices A-2 and B-1 (ELA, math, science), and Appendices D, D-1, E and E-1 (arts, health, family and consumer sciences, career education, u4510-u5492). Backup from the whole file goes to the state's PA_ALL row, not to a grade row.",
+  "Grade bands: the civics, geography and history tables have one column per grade 3, 6, 9 and 12. Following the project's PA convention (data/clean/README.md: civics, history and geography use K-3, 4-6, 7-9, 10-12), grade 3 maps to K-3, grade 6 to 4-6, grade 9 to 7-9 and grade 12 to 10-12, and each band is copied into every grade it covers. The document describes these as standards for grades 3, 6, 9 and 12, and its history introduction names the first band as grades 1-3; the K-3 label follows the convention, not the printed wording.",
+  "Shared text: the lead-in ('Pennsylvania's public schools shall teach...', row 3 of each table) and the strand headings apply to all grades (K-12). Notes that describe the standards rather than state them ('Basic concepts found in lower grades...', 'must include local-to-global progression', 'Standard Category 8.1...', the five themes, the four-statement overview and the chronology table) are examples, K-12.",
+  "Table continuations: a cell split across pages keeps its table column, so its continuation takes that column's grade (e.g. u3255, u3256, u3257). The PDF cuts a few words inside cells, so some text is garbled in the source (for example 'esources' in u3633 and 'he United States' in u3128).",
+  "Economics (Appendix C-1, pages 107-109, units u4317-u4503) and Personal Finance (Appendix F, pages 132-136, units u5527-u5817) are pictures with no text layer. Their text was read by tesseract OCR at 300 dpi (scripts/extract_units.py, ocr_units). OCR can misread words and codes (for example 'searcity' for 'scarcity', 'ch istics' for 'characteristics', and '6.1.6-3.B' for 6.1.3-5.B). Each OCR unit's grade comes from its x position: label column x=0; K-2 about x=101-104; 3-5 about x=168-173; 6-8 about x=235-249; 9-12 about x=320-339. A cell that OCR merged with a neighbour takes the column of its first word. Check these units against the PDF before the economics and personal finance text is used.",
+  "Print header and footer lines of the Pennsylvania Code web page ('10/24/26, 12:56 PM', 'Pennsylvania Code', 'about:blank', 'n/137') and the 'Final-form 22 Pa. Code ... approved ... September 12, 2024' footers are page furniture or OCR footers; they are backup, not standards.",
+  "'Intentionally blank' cells in the economics and personal finance grids are backup for their band.",
+  "Editor's notes (u4289 and u5105-u5106) say the economics standards in Appendix C expired July 1, 2026 and that Appendix C-1 applies from then, and that Appendix F (personal finance) applies from July 1, 2026. Appendix C-1 and F are the current text. Appendix E (career education) expires July 1, 2026 and is not social studies.",
+  "Reading and Writing in History and Social Studies (CCSS 8.5 and 8.6, units u4135-u4246) and the civics, geography and history glossaries are backup, following the labeling guide."
+ ]
+}

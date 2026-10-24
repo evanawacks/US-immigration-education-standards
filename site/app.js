@@ -3,7 +3,7 @@
 "use strict";
 
 const DATA = "site/data/";
-const VER = "2026-10-24b";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
+const VER = "2026-10-24c";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
 const COLS = [["body_standards", "standards", "Standards"], ["body_examples", "examples", "Examples / clarifications"], ["backup", "backup", "Backup (non-standards text)"]];
 const GRADES = ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "site/vendor/pdf.worker.min.js";
@@ -317,7 +317,7 @@ async function aboutPage() {
     h("ul", {},
       h("li", {}, "Every sentence of the labeled text was compared with the 106 immigration topics by a language model that runs locally (BAAI/bge-base-en-v1.5). The similarity score runs from 0 to 1."),
       h("li", {}, "The Topics and Charts pages count the standards text only. Tags in examples and backup text are shown in the document viewer for reference."),
-      h("li", {}, "Standards written for every grade at once (K–12 or Pre-K–12: anchor standards, strand overviews) are left out of the Topics, Charts and Database counts, since they belong to no grade; they stay visible, with their tags, in the document reader."),
+      h("li", {}, "Standards written for every grade at once (K–12 or Pre-K–12: anchor standards, strand overviews) are left out of the Topics, Charts and Database counts, since they belong to no grade. So are a state's umbrella bands: shared skills, practices and overviews written for a band such as K–2 or 6–8 when the same document also writes each of those grades on its own. Both stay visible, with their tags, in the document reader."),
       h("li", {}, "A passage gets the topic it is closest to in meaning. It also gets every topic it names outright (the topic's name or one of its search terms), so two topics named in one sentence are both tagged."),
       h("li", {}, "Sentences are read in overlapping 12-word windows; each window gets its closest topic, and a topic counts once per sentence. In the viewer, the words behind each tag are underlined and numbered with their topic."),
       h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score. “Skip a topic repeated within N words” counts a run of mentions of the same topic once."),

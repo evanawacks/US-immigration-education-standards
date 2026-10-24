@@ -10,6 +10,8 @@ For every state it writes, under site/data/:
   cache/<ST>/<n>.bbox.json   cached unit positions (rebuilt when the source file changes)
 
 Usage: python scripts/build_site.py [ST ...]    (needs pymupdf; LibreOffice `soffice` for .docx)
+       python scripts/build_site.py --topics     only refresh site/data/topics/, the tags in each document and the main
+                                                 documents / subfiles (after topic_tags.py or keyword_tags.py; no pymupdf)
 """
 import csv, hashlib, json, re, subprocess, sys, shutil, tempfile
 from concurrent.futures import ProcessPoolExecutor
@@ -18,6 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from assemble_clean import assemble_state, load_cfg, CLEAN
 from check_labels import parse_units
+import doc_parts
 OUT = ROOT / "site" / "data"
 
 STATE_NAMES = dict(AL="Alabama", AK="Alaska", AZ="Arizona", AR="Arkansas", CA="California", CO="Colorado", CT="Connecticut", DE="Delaware",
@@ -247,7 +250,34 @@ def load_topic_tags(index):
     print(f"topics: {len(tags):,} tags in the analysis ({'/'.join(sorted(acats))}), {len(all_tags):,} in the viewer, {len(grades)} grade groups")
     return per_doc
 
+def set_parts(index):
+    """Mark main documents and their subfiles (scripts/doc_parts.py) on the files of each state in index.json."""
+    for st, s in index["states"].items():
+        n = {f["name"]: f["n"] for f in s["files"]}
+        for f in s["files"]: f.pop("subfiles", None); f.pop("part_of", None)
+        for main, subs in doc_parts.parts(st).items():
+            if main not in n: continue
+            s["files"][n[main]]["subfiles"] = [n[x] for x in subs if x in n]
+            for x in subs:
+                if x in n: s["files"][n[x]]["part_of"] = n[main]
+
+def topics_only():
+    idx_path = OUT / "index.json"
+    index = json.loads(idx_path.read_text())
+    set_parts(index)
+    per_doc = load_topic_tags(index)
+    for st, s in index["states"].items():
+        for f in s["files"]:
+            p = OUT / "docs" / st / f"{f['n']}.json"
+            if f["status"] != "use" or not p.exists(): continue
+            doc = json.loads(p.read_text())
+            doc["tags"] = per_doc.get((st, doc["file"]), [])
+            dump(p, doc)
+    dump(idx_path, index)
+    print("wrote", OUT / "topics", "and the tags of every document")
+
 def main():
+    if "--topics" in sys.argv: return topics_only()
     cfg, names = load_cfg()
     states = sys.argv[1:] or sorted(cfg)
     man = {(r["abbr"], Path(r["local_path"]).name): r for r in csv.DictReader(open(ROOT / "data" / "manifest.csv"))}
@@ -335,6 +365,7 @@ def main():
         doc["tags"] = per_doc.get((st, doc["file"]), [])
         dump(OUT / "docs" / st / f"{n}.json", doc)
     index["states"] = dict(sorted(index["states"].items()))
+    set_parts(index)
     index["totals"] = {"states": len(index["states"]), "rows": sum(len(s["rows"]) for s in index["states"].values()),
                        "files": sum(len(s["files"]) for s in index["states"].values()),
                        "used": sum(f["status"] == "use" for s in index["states"].values() for f in s["files"])}

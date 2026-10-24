@@ -14,7 +14,8 @@
  "analysis_categories": [
   "standards"
  ],
- "sentences": 117450,
- "tags": 31294,
- "run": "2026-10-13T01:32:38+00:00"
+ "sentences": 117380,
+ "tags": 31238,
+ "run": "2026-10-13T01:32:38+00:00",
+ "retagged": "2026-10-24T17:12:42+00:00"
 }

@@ -20,6 +20,9 @@ locally (no LLM, no API).
    documents are found automatically (`scripts/doc_parts.py`: at least 60% of a file's distinctive standards text is in
    a larger file of the state); a state's `"parts"` in `state_config.json` overrides that. `python scripts/doc_parts.py`
    lists what it finds.
+   **Text for every grade at once** (grades `K-12` or `PK-12`: anchor standards, strand overviews) is tagged and shown
+   in the website's reader, but left out of `state_summary.csv` and the website's Topics, Charts and Database counts
+   (`analysis_exclude_grades` in `topic_tags_meta.json`); its rows stay in `topic_tags.csv` and `text_words.csv`.
 3. **Grades.** Each sentence keeps the grades its document assigns to it (the labels used to build the database). A
    band such as `04-06` stays a band; it is never split into single grades or counted once per grade.
 4. **Windows.** Each sentence is read in overlapping windows of 12 words (one every 6 words); a sentence of 12 words or

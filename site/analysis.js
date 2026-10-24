@@ -838,9 +838,9 @@ async function chartsPage() {
   setMain(h("div", { class: "page wide" },
     h("div", {}, h("p", { class: "eyebrow" }, "Data visualization"), h("h1", {}, "Immigration topics across states and grades")),
     h("p", { class: "lede" }, D.keyword
-      ? `Standards text only. Counting the separate ${D.keyword.topic}: ${D.keyword.rule} is one tag, apart from the 106 topics.`
+      ? `Standards text only, without K–12 anchor and overview text. Counting the separate ${D.keyword.topic}: ${D.keyword.rule} is one tag, apart from the 106 topics.`
         + " Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
-      : "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
+      : "Standards text only, without text written for every grade at once (K–12 anchor standards and overviews, which stay visible in the document reader). A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
     gfNote(), filterBar(D, draw, { topics: !D.keyword, score: !D.keyword, extra: srcField }), stat,
     h("nav", { class: "chart-nav", "aria-label": "Charts on this page" }, h("span", { class: "eyebrow" }, "Jump to"),
       [["c-map", "Map"], ["c-mtx", "Heat map"], ["c-line", "By grade"], ["c-bands", "Grades and bands"], ["c-state", "State summary"]].map(([id, l]) =>

@@ -840,7 +840,7 @@ async function chartsPage() {
     h("p", { class: "lede" }, D.keyword
       ? `Standards text only, without K–12 anchor and overview text. Counting the separate ${D.keyword.topic}: ${D.keyword.rule} is one tag, apart from the 106 topics.`
         + " Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
-      : "Standards text only, without text written for every grade at once (K–12 anchor standards and overviews, which stay visible in the document reader). A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
+      : "Standards text only, without text written for every grade at once (K–12 anchor standards and overviews) and without a state's umbrella bands (shared skills and overviews for a band such as K–2 whose grades the document also writes one by one); both stay visible in the document reader. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
     gfNote(), filterBar(D, draw, { topics: !D.keyword, score: !D.keyword, extra: srcField }), stat,
     h("nav", { class: "chart-nav", "aria-label": "Charts on this page" }, h("span", { class: "eyebrow" }, "Jump to"),
       [["c-map", "Map"], ["c-mtx", "Heat map"], ["c-line", "By grade"], ["c-bands", "Grades and bands"], ["c-state", "State summary"]].map(([id, l]) =>

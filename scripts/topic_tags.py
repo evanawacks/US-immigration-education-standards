@@ -17,7 +17,9 @@ Rules (agreed with the project lead):
   - All labeled text of used documents is tagged (standards, examples and backup; never running
     headers), so every tag can be seen in the document viewer. The analysis (summaries, the website's
     Topics and Charts pages) uses the STANDARDS text only (ANALYSIS_CATS), and leaves out text written for every grade
-    at once (K-12, PK-12: anchor standards and overviews; ANALYSIS_EXCLUDE_GRADES).
+    at once (K-12, PK-12: anchor standards and overviews; ANALYSIS_EXCLUDE_GRADES) and a state's umbrella bands: a band
+    such as K-2 or 6-8 over grades the same document also writes on their own, holding the shared skills, practices
+    and strand overviews (ANALYSIS_EXCLUDE_BANDS; `--bands` lists the candidates).
     Each sentence is counted once per state: an identical sentence with the same grades and category
     in two places of the same state's documents is kept once (its first occurrence).
   - Main documents and subfiles (scripts/doc_parts.py): when one document holds the text of other documents of the
@@ -56,6 +58,21 @@ PARTS = [("standards", "examples"), ("backup",)]   # tagged in two runs, each wi
 ANALYSIS_CATS = ("standards",)                      # what the summaries and website analysis count
 ANALYSIS_EXCLUDE_GRADES = ("K-12", "PK-12")         # text for every grade at once (anchor standards, overviews): tagged and
                                                     # shown in the viewer, not counted in the summaries or website analysis
+# Umbrella bands, left out of the analysis the same way: inquiry skills, practices, overview charts and strand headings
+# written for a band whose grades the same document also writes on their own. Kept on purpose (real course content in
+# a band): AL 9-12 and WV 9-12 (high school courses), FL 6-8 (African American history and Holocaust strands), ID 6-9
+# and 6-12 (courses), AR 7-8 (its own Arkansas History document), and PA (two sets of bands, being redone).
+ANALYSIS_EXCLUDE_BANDS = {
+    "AK": ("K-02", "03-05", "06-08"), "AR": ("K-04",), "CA": ("K-05", "06-08", "09-12"), "GA": ("K-05", "06-08"),
+    "HI": ("06-08",), "ID": ("K-05",), "IL": ("K-02", "03-05", "K-05", "06-12"), "KS": ("06-08",),
+    "LA": ("K-02", "03-05", "06-08"), "ME": ("K-02", "03-05"), "MI": ("K-02", "03-04", "03-05", "06-08"),
+    "MO": ("K-05", "06-12"), "ND": ("K-05",), "NH": ("K-04", "05-08"), "NY": ("K-04", "05-08", "07-08", "09-12"),
+    "OH": ("K-08",), "TN": ("K-02", "03-05", "06-08"), "WA": ("K-05",), "WV": ("K-02", "03-05", "06-08"),
+}
+
+def counted(st, cat, g):
+    """Is this state's text in this category and grade group part of the summaries and website analysis?"""
+    return cat in ANALYSIS_CATS and g not in ANALYSIS_EXCLUDE_GRADES and g not in ANALYSIS_EXCLUDE_BANDS.get(st, ())
 
 # ---------- sentences ----------
 ABBR = r"\b(?:e\.g|i\.e|etc|v|U\.S|U\.S\.A|U\.K|U\.N|D\.C|St|Mr|Mrs|Ms|Dr|Jr|Sr|vs|No|Gov|Pres|Gen|Rev|ca|c|approx|Ch|Vol|pp|p|Fig|Inc|Co|Corp|Ltd|Mt|Ft|B\.C|A\.D|B\.C\.E|C\.E)\."
@@ -147,6 +164,7 @@ def main():
     topics = load_topics()
     reuse = "--reuse" in sys.argv
     if "--retag" in sys.argv: return retag(topics)
+    if "--bands" in sys.argv: return bands()
     if "--count" in sys.argv:
         for cats in PARTS:
             items, words, _ = corpus(cats); print(cats, f"{len(items):,} unique sentences, {sum(words.values()):,} words")
@@ -200,6 +218,26 @@ def main():
             for i, (sc, a0, a1, method) in sorted(found.items(), key=lambda x: -x[1][0]):
                 rows.append(tag_row(it, topics[i], round(sc, 4), method, round(top_score, 4), a0, a1))
     write_outputs(topics, rows, words, sents_n, n_items)
+
+def bands():
+    """List candidate umbrella bands: a band of the analysis text whose grades the same document also writes on their own
+    or in narrower bands, with whether ANALYSIS_EXCLUDE_BANDS leaves it out. Real course content written in a band
+    can match too, so each candidate is checked by reading its text before it is listed."""
+    order = ["PK", "K"] + [f"{i:02d}" for i in range(1, 13)]
+    def span(g):
+        if "+" in g: return g.split("+")
+        a, _, b = g.partition("-")
+        return order[order.index(a):order.index(b) + 1] if b else [g]
+    items, words, _ = corpus(ANALYSIS_CATS)
+    groups = collections.defaultdict(lambda: collections.Counter())
+    for it in items: groups[(it["state"], it["file"])][it["grades"]] += it["words"]
+    for (st, f), gs in sorted(groups.items()):
+        for g, n in sorted(gs.items()):
+            sp = span(g)
+            if len(sp) < 2 or g in ANALYSIS_EXCLUDE_GRADES: continue
+            inside = [h for h in gs if h != g and set(span(h)) < set(sp)]
+            if set(sp) <= {x for h in inside for x in span(h)}:
+                print(f"{st} {g:6} {n:6,} words  {'left out' if g in ANALYSIS_EXCLUDE_BANDS.get(st, ()) else 'counted '}  {f}  (also written: {', '.join(sorted(inside, key=lambda h: order.index(span(h)[0])))})")
 
 def tag_row(it, topic, score, method, top_score, a0, a1):
     """One output row: topic tag on a corpus item, the matched words at a0:a1 of its sentence."""
@@ -267,9 +305,9 @@ def write_outputs(topics, rows, words, sents_n, n_items, meta_extra=None):
         for (st, c, g), n in sorted(words.items()): w.writerow([st, c, g, n, sents_n[(st, c, g)]])
     summ = collections.defaultdict(lambda: [0, 0])
     for (st, c, g), n in words.items():
-        if c in ANALYSIS_CATS and g not in ANALYSIS_EXCLUDE_GRADES: summ[st][0] += n
+        if counted(st, c, g): summ[st][0] += n
     for r in rows:
-        if r["category"] in ANALYSIS_CATS and r["grades"] not in ANALYSIS_EXCLUDE_GRADES and (r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning"): summ[r["state"]][1] += 1
+        if counted(r["state"], r["category"], r["grades"]) and (r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning"): summ[r["state"]][1] += 1
     with open(OUT / "state_summary.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["state", "text", "words", "tags", "tags_per_10k_words", "min_score"])
         for st, (n, t) in sorted(summ.items()): w.writerow([st, "+".join(ANALYSIS_CATS), n, t, round(t / n * 1e4, 2) if n else "", DEFAULT_MIN_SCORE])
@@ -277,6 +315,7 @@ def write_outputs(topics, rows, words, sents_n, n_items, meta_extra=None):
         "window_words": WINDOW, "window_step": STRIDE,
         "topic_text": "'<topic>: <description> Related terms: <search terms>.'", "score_floor": SCORE_FLOOR, "default_min_score": DEFAULT_MIN_SCORE,
         "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS), "analysis_exclude_grades": list(ANALYSIS_EXCLUDE_GRADES),
+        "analysis_exclude_bands": {st: list(g) for st, g in ANALYSIS_EXCLUDE_BANDS.items()},
         "sentences": n_items, "tags": len(rows), "run": now(), **(meta_extra or {})}, indent=1))
     print("wrote", OUT)
 

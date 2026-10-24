@@ -3,7 +3,7 @@
 "use strict";
 
 const DATA = "site/data/";
-const VER = "2026-10-13i";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
+const VER = "2026-10-24a";   // bump with every site update, so browsers fetch the new data (index.html carries the same for the scripts)
 const COLS = [["body_standards", "standards", "Standards"], ["body_examples", "examples", "Examples / clarifications"], ["backup", "backup", "Backup (non-standards text)"]];
 const GRADES = ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"];
 if (window.pdfjsLib) pdfjsLib.GlobalWorkerOptions.workerSrc = "site/vendor/pdf.worker.min.js";
@@ -62,9 +62,9 @@ async function route() {
   try {
     if (view === "doc") {
       const unit = c && c.startsWith("u") ? parseInt(c.slice(1), 10) : null;
-      if (current && current.kind === "doc" && current.st === a && current.n === +b) { if (unit) current.select(unit, "url"); return; }
+      if (current && current.kind === "doc" && current.st === a) { current.go(b, unit); return; }
       current?.destroy?.();
-      current = await viewer(a, +b, unit);
+      current = await viewer(a, b, unit);
       return;
     }
     current?.destroy?.(); current = null;
@@ -87,7 +87,7 @@ window.addEventListener("DOMContentLoaded", () => { navBadge(); route(); });
 const dbState = { st: "", grade: "", cat: "", q: "", topic: "", full: false, sort: null, limit: 200 };
 async function dbPage() {
   const [idx, TDb, KLb, RT] = await Promise.all([loadIndex(), loadTopicData().catch(() => null), loadKeywords().catch(() => []), getJSON("topics/rowtags.json").catch(() => null)]);
-  const KON = KLb.filter((x) => kwOn(x.k));   // keywords not switched off on the Filters page
+  const KON = KLb.filter((x) => kwOn(x.k));   // keywords not switched off on the Topic filter page
   const all = [];
   for (const [st, s] of Object.entries(idx.states)) for (const r of s.rows) all.push({ ...r, state: st });
   // topic tags and "immigration" keyword matches in each row's standards text, under the global filter and score settings
@@ -202,7 +202,7 @@ async function dbPage() {
       topicSel ? h("div", { class: "field" }, h("label", { for: "f-topic" }, "Immigration topic"), topicSel) : null,
       h("div", { class: "field" }, h("label", { for: "f-q" }, "Search"), q),
       h("label", { class: "check", for: "f-full" }, full, "Search the full text"), status),
-    hasTopics ? h("p", { class: "muted small" }, "Topic tags and keyword words count the standards text of each row, at the minimum score set on Topics and Charts; topics left out on the Filters page are not counted or offered.") : null,
+    hasTopics ? h("p", { class: "muted small" }, "Topic tags and keyword words count the standards text of each row, at the minimum score set on Topics and Charts; topics left out on the Topic filter page are not counted or offered.") : null,
     gfNoteSafe(), table, more));
   draw();
 }
@@ -235,7 +235,7 @@ async function rowPage(id) {
       h("dt", {}, "Source files"), h("dd", {}, (r.source_files ? r.source_files.split("; ") : []).map((f, i) => {
         const fi = files.findIndex((x) => x.name === f);
         return h("div", {}, fi >= 0 ? h("a", { href: `#/doc/${st}/${fi}` }, f) : f);
-      }))),
+      }), files.filter((x) => x.status === "use").length > 1 ? h("div", {}, h("a", { href: `#/doc/${st}` }, `Read all of ${idx.states[st].name}'s documents together`)) : null)),
     h("p", { class: "legend" }, "Each line links to the unit it came from; click to see it on the original page."),
     blocks,
     h("section", { class: "colblock" }, h("header", {}, h("h2", {}, "Issues")), h("pre", { class: "issues" }, r.issues || "(none)"))));
@@ -243,26 +243,50 @@ async function rowPage(id) {
 const shortName = (f) => (f.length > 34 ? f.slice(0, 31) + "…" : f);
 
 // ---------- documents page ----------
+/** One collapsible row per state; a state opens to its documents. #/docs/ST opens and scrolls to that state. */
 async function docsPage(focus) {
   const idx = await loadIndex();
-  const cards = Object.entries(idx.states).map(([st, s]) => h("section", { class: "state-card", id: `st-${st}` },
-    h("header", {}, h("h2", {}, `${s.name}`), h("span", { class: "muted mono" }, `${st} · ${s.files.filter((f) => f.status === "use").length}/${s.files.length} used`)),
-    s.files.length ? h("ul", { class: "files" }, s.files.map((f) => h("li", {},
-      h("span", { class: "fname" }, f.status === "use" ? h("a", { href: `#/doc/${st}/${f.n}` }, f.name) : f.name),
-      h("span", { class: "links" },
-        h("span", { class: `chip ${f.status === "use" ? "use" : "skip"}` }, f.status === "use" ? "Used" : "Not used"),
-        h("span", { class: "chip" }, f.type.toUpperCase()),
-        f.status === "use" ? h("a", { href: `#/doc/${st}/${f.n}` }, "Compare side by side") : null,
-        f.path ? h("a", { href: fileUrl(f.path), target: "_blank", rel: "noopener" }, "Original file") : null,
-        f.url ? h("a", { href: f.url, target: "_blank", rel: "noopener" }, "Source link") : null),
-      f.status !== "use" ? h("span", { class: "why" }, f.status) : null)))
-      : h("p", { class: "muted" }, (s.issues || []).join(" ") || "No source file collected.")));
+  const open = new Set(store.get("docsOpen", []));
+  const saveOpen = () => store.set("docsOpen", [...open]);
+  const nUsed = (s) => s.files.filter((f) => f.status === "use").length;
+  const cards = Object.entries(idx.states).map(([st, s]) => {
+    const used = nUsed(s);
+    const pos = new Map(s.files.filter((f) => f.status === "use").map((f, i) => [f.n, i + 1]));
+    const det = h("details", { class: "state-card", id: `st-${st}`, "data-q": `${st} ${s.name} ${s.files.map((f) => f.name).join(" ")}`.toLowerCase(), open: open.has(st) || focus === st },
+      h("summary", {}, h("span", { class: "st-name" }, s.name, h("span", { class: "muted mono" }, ` ${st}`)),
+        h("span", { class: "muted st-count" }, s.files.length ? `${used} of ${s.files.length} document${s.files.length > 1 ? "s" : ""} used` : "no document collected"),
+        used ? h("a", { class: "st-read", href: `#/doc/${st}`, onclick: (e) => e.stopPropagation() }, used > 1 ? `Read all ${used} together` : "Read it") : null),
+      s.files.length ? h("ul", { class: "files" }, s.files.map((f) => h("li", {},
+        h("span", { class: "fname" }, f.status === "use" ? [h("span", { class: "muted mono" }, `${pos.get(f.n)}. `), h("a", { href: `#/doc/${st}/${f.n}` }, f.name)] : f.name),
+        h("span", { class: "links" },
+          h("span", { class: `chip ${f.status === "use" ? "use" : "skip"}` }, f.status === "use" ? "Used" : "Not used"),
+          f.subfiles?.length ? h("span", { class: "chip part", title: "Its text that is repeated in its subfiles is counted once, in the subfiles" }, `Main document of ${f.subfiles.map((x) => pos.get(x)).join(" and ")}`) : null,
+          f.part_of != null ? h("span", { class: "chip part", title: "Counted on its own; the main document's copy of this text is not counted again" }, `Part of ${pos.get(f.part_of)}`) : null,
+          h("span", { class: "chip" }, f.type.toUpperCase()),
+          f.status === "use" ? h("a", { href: `#/doc/${st}/${f.n}` }, "Open this one only") : null,
+          f.path ? h("a", { href: fileUrl(f.path), target: "_blank", rel: "noopener" }, "Original file") : null,
+          f.url ? h("a", { href: f.url, target: "_blank", rel: "noopener" }, "Source link") : null),
+        f.status !== "use" ? h("span", { class: "why" }, f.status) : null)))
+        : h("p", { class: "muted" }, (s.issues || []).join(" ") || "No source file collected."));
+    det.addEventListener("toggle", () => { det.open ? open.add(st) : open.delete(st); saveOpen(); });
+    return det;
+  });
+  const setAll = (on) => { for (const c of cards) c.open = on; };
+  const find = h("input", { type: "search", id: "docs-q", placeholder: "State or file name" });
+  find.addEventListener("input", () => {
+    const q = find.value.trim().toLowerCase();
+    for (const c of cards) c.hidden = q && !c.dataset.q.includes(q);
+  });
+  const goTo = (st) => { const c = document.getElementById(`st-${st}`); if (!c) return; c.open = true; c.scrollIntoView({ block: "start" }); };
   setMain(h("div", { class: "page" },
     h("div", {}, h("p", { class: "eyebrow" }, "Source documents"), h("h1", {}, "Every document collected, by state")),
-    h("p", { class: "lede" }, "Open a used document to compare the original pages with the clean text and the database text side by side. Documents marked “Not used” are older or duplicate versions; the reason is listed under each."),
-    h("div", { class: "filters" }, h("div", { class: "field" }, h("label", { for: "jump" }, "Jump to state"),
-      h("select", { id: "jump", onchange: (e) => document.getElementById(`st-${e.target.value}`)?.scrollIntoView() },
-        h("option", { value: "" }, "Choose…"), Object.entries(idx.states).map(([k, s]) => h("option", { value: k }, `${k} · ${s.name}`))))),
+    h("p", { class: "lede" }, "Click a state to see its documents. “Read all together” opens every document the state uses in one reader, one after the other; you can still focus on one document or one grade there. Documents marked “Not used” are older or duplicate versions; the reason is listed under each."),
+    h("div", { class: "filters" },
+      h("div", { class: "field" }, h("label", { for: "jump" }, "Jump to state"),
+        h("select", { id: "jump", onchange: (e) => goTo(e.target.value) },
+          h("option", { value: "" }, "Choose…"), Object.entries(idx.states).map(([k, s]) => h("option", { value: k }, `${k} · ${s.name}`)))),
+      h("div", { class: "field" }, h("label", { for: "docs-q" }, "Find"), find),
+      h("div", { class: "chips" }, h("button", { type: "button", onclick: () => setAll(true) }, "Expand all"), h("button", { type: "button", onclick: () => setAll(false) }, "Collapse all"))),
     h("div", { class: "state-list" }, cards)));
   const card = focus && document.getElementById(`st-${focus}`);
   if (!card) return false;
@@ -285,6 +309,7 @@ async function aboutPage() {
       h("li", {}, "Running headers and footers are set aside and stored in each state's _ALL row.")),
     h("h2", {}, "Using the side-by-side view"),
     h("ul", {},
+      h("li", {}, "A state's documents open together in one reader, one after the other. The Focus menus narrow every pane, and the Topics pane's tags, to one document or one grade."),
       h("li", {}, "Click any unit, page box, or database line: the other panes jump to the same text and highlight it."),
       h("li", {}, "Colored boxes on the original pages show what each unit was labeled: blue for standards, amber for examples, grey for backup."),
       h("li", {}, "Word documents are shown as pages rendered by LibreOffice; spreadsheets are shown as their sheets. The original file is always one click away.")),
@@ -297,7 +322,8 @@ async function aboutPage() {
       h("li", {}, "Use the minimum score to drop weak matches. “Keep named topics” keeps a named topic whatever its score. “Skip a topic repeated within N words” counts a run of mentions of the same topic once."),
       h("li", {}, "Distinct topics counts how many different topics appear, to show the span of what a state covers."),
       h("li", {}, "Apart from the topics, two separate keyword counts use plain text search: words starting with “immigra” (immigration, immigrant, immigrated…) and words containing “migra” (migration, migrant, emigration, immigration…). They have their own lines on the Topics page, columns and a filter on the Database page, counts on the Charts page, and an option there to chart either one."),
-      h("li", {}, "The Filters page leaves chosen topics out of every page and the document viewer."),
+      h("li", {}, "The Topic filter page leaves chosen topics out of every page and the document viewer."),
+      h("li", {}, "When one document holds the text of other documents of the same state (Maine's full 2019 standards and its separate History and Geography files), the separate files count on their own and the main document's copy of that text is not counted again. This is found automatically by comparing the documents' text."),
       h("li", {}, "Each sentence is counted once per state, at the grades its document gives it. Bands such as 4–6 are never split into grades; choosing a single grade leaves bands out.")),
     h("p", {}, "Project documentation, validation reports, and code: ", h("a", { href: repo, target: "_blank", rel: "noopener" }, "GitHub repository"), "."))));
 }
@@ -364,32 +390,60 @@ function findBar(key, label, body, items, onPick) {
   };
 }
 
-// ---------- document viewer ----------
-async function viewer(st, n, startUnit) {
-  setMain(h("p", { class: "loading" }, "Loading document…"));
-  const idx0 = await loadIndex();
-  const f0 = idx0.states[st]?.files[n];
-  if (!f0 || f0.status !== "use") {
-    setMain(h("div", { class: "page" }, h("p", { class: "error" }, f0 ? `${f0.name} is not used in the database (${f0.status}), so it has no side-by-side view.` : `There is no document ${n} for ${st}.`),
+// ---------- document viewer: every used document of a state, read together ----------
+/** #/doc/ST: all of the state's documents; #/doc/ST/n: document n only; #/doc/ST/n/u12: unit 12 of document n (with all
+    documents). A unit is known by its key, document number × UKEY + unit number, since unit numbers restart in every file.
+    The Focus menus narrow every pane (and the Topics pane's tags) to one document and/or one grade. */
+const UKEY = 100000;
+const ukey = (n, u) => n * UKEY + u;
+async function viewer(st, docArg, startUnit) {
+  setMain(h("p", { class: "loading" }, "Loading documents…"));
+  const idx = await loadIndex();
+  const S = idx.states[st];
+  const one = docArg == null || docArg === "" || docArg === "all" ? null : +docArg;
+  const f0 = one != null ? S?.files[one] : null;
+  const used = (S?.files || []).filter((f) => f.status === "use");
+  if (!S || (one != null && (!f0 || f0.status !== "use")) || !used.length) {
+    setMain(h("div", { class: "page" }, h("p", { class: "error" }, !S ? `There is no state ${st}.` : f0 ? `${f0.name} is not used in the database (${f0.status}), so it has no side-by-side view.`
+      : one != null ? `There is no document ${one} for ${st}.` : `None of ${S.name}'s documents is used in the database.`),
       h("p", {}, h("a", { href: `#/docs/${st}` }, "See this state's documents"), f0?.path ? [" · ", h("a", { href: fileUrl(f0.path), target: "_blank", rel: "noopener" }, "Open the original file")] : null)));
     return { kind: "msg" };
   }
-  const [idx, doc, rows, TL] = await Promise.all([loadIndex(), loadDoc(st, n), loadRows(st), getJSON("topics/list.json").catch(() => null)]);
-  const files = idx.states[st].files;
+  const [docs0, rows, TL] = await Promise.all([Promise.all(used.map((f) => loadDoc(st, f.n).catch(() => null))), loadRows(st), getJSON("topics/list.json").catch(() => null)]);
+  const docs = docs0.filter(Boolean);
+  const files = S.files;
   const rowById = Object.fromEntries(rows.map((r) => [r.id, r]));
-  const units = doc.units;
-  const byN = new Map(units.map((u) => [u.n, u]));
-  const catOf = (u) => (u.f ? "furniture" : u.l >= 0 ? doc.labels[u.l].cat : "none");
+  const dpos = new Map(docs.map((D, i) => [D.n, i + 1]));   // document number shown to the reader: 1, 2, ...
+  const byK = new Map();
+  for (const D of docs) for (const u of D.units) { u.D = D; u.K = ukey(D.n, u.n); byK.set(u.K, u); }
+  const catOf = (u) => (u.f ? "furniture" : u.l >= 0 ? u.D.labels[u.l].cat : "none");
   const prefs = { panes: { topics: true, ...store.get("panes", { orig: true, text: true, db: true }) }, tmarks: store.get("tmarks", true), boxes: store.get("boxes", true), furn: false, hide: store.get("hide", {}), zoom: store.get("zoom", 1) };
   let selected = null;
-  const ctl = { kind: "doc", st, n, select, destroy };
+  const ctl = { kind: "doc", st, go, destroy };
+  const docName = (D) => `${dpos.get(D.n)}. ${D.file}`;
+  /** Main documents and subfiles (scripts/doc_parts.py): the repeated text counts once, in the subfile. */
+  function partNote(D) {
+    const f = files[D.n];
+    if (f.subfiles?.length) return h("span", { class: "part-note" }, `Main document. Its text repeated in ${f.subfiles.map((x) => `document ${dpos.get(x) ?? "?"}`).join(" and ")} is counted there, once.`);
+    if (f.part_of != null) return h("span", { class: "part-note" }, `Part of document ${dpos.get(f.part_of) ?? "?"}, counted on its own.`);
+    return null;
+  }
 
-  // rows this document feeds, ranked by how many of its units they hold
-  const feed = new Map();
-  for (const u of units) for (const [rid] of u.r) feed.set(rid, (feed.get(rid) || 0) + 1);
-  const feedRows = [...feed.keys()].sort((a, b) => (a.endsWith("_ALL") - b.endsWith("_ALL")) || a.localeCompare(b, "en", { numeric: true }));
-  let dbRow = store.get(`dbrow:${st}:${n}`, null);
-  if (!feed.has(dbRow)) dbRow = feedRows.find((r) => !r.endsWith("_ALL")) || feedRows[0] || null;
+  // ----- focus: one document and/or one grade -----
+  const rowGrades = new Map(S.rows.map((r) => [r.id, r.grade === "[ALL]" || r.grade === "[]" ? null : new Set(r.grade.slice(1, -1).split(","))]));
+  const gradeToks = ["PK", ...Array.from({ length: 13 }, (_, i) => String(i))].filter((g) => [...rowGrades.values()].some((s) => s?.has(g)));
+  const gName = (g) => (g === "PK" ? "Pre-K" : g === "0" ? "Kindergarten" : `Grade ${g}`);
+  const scope = { doc: startUnit ? null : one, grade: "" };
+  /** A unit is in focus when it is in the chosen document and in a database row for the chosen grade. */
+  const inScope = (u) => (scope.doc == null || u.D.n === scope.doc) && (!scope.grade || u.r.some(([rid]) => rowGrades.get(rid)?.has(scope.grade)));
+  const scopeLabel = () => [scope.doc == null ? (docs.length > 1 ? `all ${docs.length} documents` : "this document") : `document ${dpos.get(scope.doc)}`, scope.grade ? gName(scope.grade).toLowerCase() : "all grades"].join(", ");
+  const docSel = h("select", { id: "v-doc", "aria-label": "Document" }, h("option", { value: "" }, docs.length > 1 ? `All ${docs.length} documents together` : "The document"),
+    docs.length > 1 ? docs.map((D) => h("option", { value: String(D.n) }, `${docName(D)}${files[D.n].subfiles?.length ? " (main document)" : files[D.n].part_of != null ? ` (part of ${dpos.get(files[D.n].part_of)})` : ""}`)) : null);
+  const gradeSel = h("select", { id: "v-grade", "aria-label": "Grade" }, h("option", { value: "" }, "All grades"), gradeToks.map((g) => h("option", { value: g }, gName(g))));
+  const syncScope = () => { docSel.value = scope.doc == null ? "" : String(scope.doc); gradeSel.value = scope.grade; };
+  const refocus = () => { applyScope(!(selected && inScope(selected))); if (selected && inScope(selected)) select(selected.K, "scope"); else setUrl(); };
+  docSel.addEventListener("change", () => { scope.doc = docSel.value === "" ? null : +docSel.value; refocus(); });
+  gradeSel.addEventListener("change", () => { scope.grade = gradeSel.value; refocus(); });
 
   // ----- toolbar -----
   const paneBtn = (k, label) => h("button", { "aria-pressed": String(!!prefs.panes[k]), onclick: (e) => {
@@ -397,142 +451,162 @@ async function viewer(st, n, startUnit) {
     if (!on && Object.values(prefs.panes).filter(Boolean).length === 1) return;
     prefs.panes[k] = on; e.currentTarget.setAttribute("aria-pressed", String(on)); store.set("panes", prefs.panes); layoutPanes();
   } }, label);
-  const jump = h("input", { type: "text", id: "jump-unit", placeholder: "u123", "aria-label": "Go to unit" });
-  jump.addEventListener("keydown", (e) => { if (e.key === "Enter") { const m = jump.value.trim().match(/^u?(\d+)$/i); if (m) select(+m[1], "jump"); } });
-  const boxBtn = h("button", { "aria-pressed": String(prefs.boxes), title: "Show label colors on the original pages", onclick: (e) => {
+  const jump = h("input", { type: "text", id: "jump-unit", placeholder: "u123", "aria-label": "Go to unit (in the selected unit's document)", title: "Go to a unit number, in the selected unit's document (or 2:u123 for document 2)" });
+  jump.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter") return;
+    const m = jump.value.trim().match(/^(?:(\d+)\s*[:.]\s*)?u?(\d+)$/i);
+    if (!m) return;
+    const D = m[1] ? docs[+m[1] - 1] : selected?.D || docs.find((x) => x.n === scope.doc) || docs[0];
+    if (D) select(ukey(D.n, +m[2]), "jump");
+  });
+  const boxBtn = h("button", { "aria-pressed": String(prefs.boxes), title: "Color each unit on the original pages by its label", onclick: (e) => {
     prefs.boxes = !prefs.boxes; e.currentTarget.setAttribute("aria-pressed", String(prefs.boxes)); store.set("boxes", prefs.boxes); origBody.classList.toggle("boxes-on", prefs.boxes);
-  } }, "Label boxes");
-  const fileInfo = files[n];
+  } }, "Label colors");
   const tmarkBtn = h("button", { "aria-pressed": String(prefs.tmarks), title: "Outline the text that carries immigration-topic tags", onclick: (e) => {
     prefs.tmarks = !prefs.tmarks; e.currentTarget.setAttribute("aria-pressed", String(prefs.tmarks)); store.set("tmarks", prefs.tmarks);
     origBody.classList.toggle("tmarks-on", prefs.tmarks); textBody.classList.toggle("tmarks-on", prefs.tmarks);
   } }, "Topic marks");
+  const title = h("strong", {});
   const bar = h("div", { class: "vbar" },
-    h("div", { class: "doc-title" }, h("span", { class: "eyebrow" }, h("a", { href: `#/docs/${st}` }, idx.states[st].name), ` · document ${n + 1} of ${files.length}`), h("strong", {}, doc.file)),
+    h("div", { class: "doc-title" }, h("span", { class: "eyebrow" }, h("a", { href: `#/docs/${st}` }, S.name), ` · ${docs.length} document${docs.length > 1 ? "s" : ""} used`), title),
+    h("div", { class: "group focus", role: "group", "aria-label": "Focus" }, h("span", { class: "eyebrow" }, "Focus"), docs.length > 1 ? docSel : null, gradeSel),
     h("div", { class: "group", role: "group", "aria-label": "Panes" }, h("span", { class: "eyebrow" }, "Show"), paneBtn("orig", "Original"), paneBtn("text", "Clean text"), paneBtn("db", "Database text"), TL ? paneBtn("topics", "Topics") : null),
     h("div", { class: "group" }, boxBtn, TL ? tmarkBtn : null, jump),
     h("div", { class: "legend" }, ["standards", "examples", "backup"].map((c) => h("span", {}, h("i", { class: `cat-dot ${c}` }), c))));
   const selbar = h("div", { class: "selbar", "aria-live": "polite" }, h("span", { class: "muted" }, "Click a unit, a box on the page, or a database line to trace it across the panes."));
 
-  // ----- pane: original -----
+  // ----- pane: original (one section per document; PDF pages load as they scroll into view) -----
   const origBody = h("div", { class: "body" + (prefs.boxes ? " boxes-on" : "") + (prefs.tmarks ? " tmarks-on" : "") });
-  const viewUrl = fileUrl(doc.view || doc.path);
-  let rerender = null;
   const zoomLabel = h("span", { class: "muted mono" }, `${Math.round(prefs.zoom * 100)}%`);
   const zoomBy = (f) => {
     prefs.zoom = Math.min(4, Math.max(0.5, Math.round(prefs.zoom * f * 4) / 4));
-    zoomLabel.textContent = `${Math.round(prefs.zoom * 100)}%`; store.set("zoom", prefs.zoom); rerender?.();
+    zoomLabel.textContent = `${Math.round(prefs.zoom * 100)}%`; store.set("zoom", prefs.zoom); rerender();
   };
-  const zoomCtl = doc.grid || doc.blocks ? null : h("span", { class: "group", role: "group", "aria-label": "Zoom" },
-    h("button", { class: "small", onclick: () => zoomBy(1 / 1.25), "aria-label": "Zoom out" }, "−"), zoomLabel, h("button", { class: "small", onclick: () => zoomBy(1.25), "aria-label": "Zoom in" }, "+"));
-  const origHead = h("header", {}, h("h2", {}, "Original"), zoomCtl,
-    doc.path ? h("a", { href: fileUrl(doc.path), target: "_blank", rel: "noopener" }, `Open ${doc.type.toUpperCase()} file`) : null,
-    doc.url ? h("a", { href: doc.url, target: "_blank", rel: "noopener" }, "Source link") : null);
-  const origPane = h("section", { class: "pane", "aria-label": "Original document" }, origHead, origBody);
-  const boxes = new Map();   // unit n -> [box elements]
-  let pdfTask = null, observer = null;
+  const isPdf = (D) => !D.grid && !D.blocks && /\.pdf$/i.test(D.view || "");
+  const zoomCtl = docs.some(isPdf) ? h("span", { class: "group", role: "group", "aria-label": "Zoom" },
+    h("button", { class: "small", onclick: () => zoomBy(1 / 1.25), "aria-label": "Zoom out" }, "−"), zoomLabel, h("button", { class: "small", onclick: () => zoomBy(1.25), "aria-label": "Zoom in" }, "+")) : null;
+  const origPane = h("section", { class: "pane", "aria-label": "Original documents" }, h("header", {}, h("h2", {}, "Original"), zoomCtl), origBody);
+  const boxes = new Map();   // unit key -> [box elements]
+  const osec = new Map();    // document n -> its section
+  const pdfs = new Map();    // document n -> { pagesEl, pgs, addPage, rendered, load, task }
+  const addBox = (K, el) => { el.dataset.k = K; if (!boxes.has(K)) boxes.set(K, []); boxes.get(K).push(el); };
+  let observer = null;
 
-  async function buildPdf() {
+  function buildOrig() {
+    observer = new IntersectionObserver(onPages, { root: origBody, rootMargin: "800px 0px" });
+    for (const D of docs) {
+      const sec = h("section", { class: "odoc", "data-d": D.n },
+        h("header", { class: "odoc-h" }, h("strong", {}, docName(D)),
+          D.path ? h("a", { href: fileUrl(D.path), target: "_blank", rel: "noopener" }, `Open ${D.type.toUpperCase()} file`) : null,
+          D.url ? h("a", { href: D.url, target: "_blank", rel: "noopener" }, "Source link") : null, partNote(D)));
+      osec.set(D.n, sec);
+      origBody.append(sec);
+      if (D.grid) buildGrid(D, sec);
+      else if (D.blocks) buildBlocks(D, sec);
+      else if (isPdf(D)) buildPages(D, sec);
+      else sec.append(h("p", { class: "empty" }, "No page view for this file type. Use the link above to open the original."));
+    }
+    origBody.addEventListener("click", (e) => { const el = e.target.closest("[data-k]"); if (el && el.dataset.k) select(+el.dataset.k, "orig"); });
+  }
+  function buildPages(D, sec) {
     const notes = [];
-    if (doc.type === "docx") notes.push("Word document shown as pages rendered by LibreOffice. Layout can differ slightly from Word; use “Open DOCX file” for the original.");
-    if (doc.view_note) notes.push(doc.view_note);
-    if (notes.length) origBody.append(h("div", { class: "render-note" }, notes.join(" ")));
-    const pagesEl = h("div", { class: "pages" }, h("p", { class: "muted" }, "Loading pages…"));
-    origBody.append(pagesEl);
-    if (!window.pdfjsLib) { pagesEl.replaceChildren(h("p", { class: "error" }, "The PDF viewer did not load. Use the link above to open the file.")); return; }
-    pdfTask = pdfjsLib.getDocument({ url: viewUrl });
-    const pdf = await pdfTask.promise;
-    const first = (await pdf.getPage(1)).getViewport({ scale: 1 });
+    if (D.type === "docx") notes.push("Word document shown as pages rendered by LibreOffice. Layout can differ slightly from Word; use “Open DOCX file” for the original.");
+    if (D.view_note) notes.push(D.view_note);
+    if (notes.length) sec.append(h("div", { class: "render-note" }, notes.join(" ")));
+    if (!window.pdfjsLib) { sec.append(h("p", { class: "error" }, "The PDF viewer did not load. Use the link above to open the file.")); return; }
+    const pagesEl = h("div", { class: "pages" });
+    pagesEl.style.width = `${prefs.zoom * 100}%`;
     const byPage = new Map();
-    for (const u of units) if (u.b) { if (!byPage.has(u.p)) byPage.set(u.p, []); byPage.get(u.p).push(u); }
-    const pgs = [];
-    for (let p = 1; p <= pdf.numPages; p++) {
-      const pg = h("div", { class: "pg", "data-p": p, style: `aspect-ratio: ${first.width} / ${first.height}` }, h("span", { class: "pno" }, `p. ${p}`));
+    let last = 1;
+    for (const u of D.units) { if (u.p > last) last = u.p; if (u.b) { if (!byPage.has(u.p)) byPage.set(u.p, []); byPage.get(u.p).push(u); } }
+    const P = { pagesEl, pgs: [], rendered: new Set(), load: null, task: null };
+    // pages are laid out (with their unit boxes) before the PDF loads, so every box can be clicked and scrolled to
+    P.addPage = (p) => {
+      const pg = h("div", { class: "pg", "data-d": D.n, "data-p": p, style: `aspect-ratio: ${P.ratio || "8.5 / 11"}` }, h("span", { class: "pno" }, `p. ${p}`));
       for (const u of byPage.get(p) || []) {
         const [x0, y0, x1, y1] = u.b;
-        const bx = h("div", { class: `box ${catOf(u)}`, "data-n": u.n, title: `u${u.n}`, style: `left:${x0 * 100}%;top:${y0 * 100}%;width:${(x1 - x0) * 100}%;height:${(y1 - y0) * 100}%` });
+        const bx = h("div", { class: `box ${catOf(u)}`, title: `u${u.n}`, style: `left:${x0 * 100}%;top:${y0 * 100}%;width:${(x1 - x0) * 100}%;height:${(y1 - y0) * 100}%` });
+        addBox(u.K, bx);
         pg.append(bx);
-        if (!boxes.has(u.n)) boxes.set(u.n, []);
-        boxes.get(u.n).push(bx);
       }
-      pgs.push(pg);
-    }
-    pagesEl.replaceChildren(...pgs);
-    pagesEl.style.width = `${prefs.zoom * 100}%`;
-    renderTopics();   // the page boxes exist now: mark the ones that carry topic tags
-    pagesEl.addEventListener("click", (e) => { const b = e.target.closest(".box"); if (b) select(+b.dataset.n, "orig"); });
-    const rendered = new Set();
-    observer = new IntersectionObserver((entries) => {
-      for (const en of entries) {
-        if (!en.isIntersecting) continue;
-        const p = +en.target.dataset.p;
-        if (rendered.has(p)) continue;
-        rendered.add(p);
-        pdf.getPage(p).then((page) => {
-          const vp1 = page.getViewport({ scale: 1 });
-          en.target.style.aspectRatio = `${vp1.width} / ${vp1.height}`;
-          const scale = Math.min(3, Math.max(1, (en.target.clientWidth * (window.devicePixelRatio || 1)) / vp1.width));
-          const vp = page.getViewport({ scale });
-          const cv = h("canvas", { width: Math.round(vp.width), height: Math.round(vp.height), "aria-label": `Page ${p}` });
-          en.target.prepend(cv);
-          return page.render({ canvasContext: cv.getContext("2d"), viewport: vp }).promise;
-        }).catch((err) => console.warn("page", p, err));
-      }
-    }, { root: origBody, rootMargin: "800px 0px" });
-    pgs.forEach((pg) => observer.observe(pg));
-    rerender = () => {
-      const keep = selected;
-      const top = origBody.scrollTop / Math.max(1, origBody.scrollHeight);
-      pagesEl.style.width = `${prefs.zoom * 100}%`;
-      pgs.forEach((pg) => { pg.querySelector("canvas")?.remove(); observer.unobserve(pg); });
-      rendered.clear();
-      origBody.scrollTop = top * origBody.scrollHeight;
-      pgs.forEach((pg) => observer.observe(pg));
-      if (keep) markOrig(keep, true);
+      P.pgs.push(pg); pagesEl.append(pg); observer.observe(pg);
     };
+    for (let p = 1; p <= last; p++) P.addPage(p);
+    sec.append(pagesEl);
+    pdfs.set(D.n, P);
+    P.open = () => P.load ||= (P.task = pdfjsLib.getDocument({ url: fileUrl(D.view || D.path) })).promise.then(async (pdf) => {
+      const vp = (await pdf.getPage(1)).getViewport({ scale: 1 });
+      P.ratio = `${vp.width} / ${vp.height}`;
+      P.pgs.forEach((pg) => { if (!pg.querySelector("canvas")) pg.style.aspectRatio = P.ratio; });
+      for (let p = P.pgs.length + 1; p <= pdf.numPages; p++) P.addPage(p);
+      return pdf;
+    }).catch((err) => { sec.append(h("p", { class: "error" }, `Could not show the pages: ${err.message}. Use the link above to open the file.`)); throw err; });
+  }
+  function onPages(entries) {
+    for (const en of entries) {
+      if (!en.isIntersecting) continue;
+      const P = pdfs.get(+en.target.dataset.d), p = +en.target.dataset.p;
+      if (!P || P.rendered.has(p)) continue;
+      P.rendered.add(p);
+      P.open().then((pdf) => (p <= pdf.numPages ? pdf.getPage(p) : null)).then((page) => {
+        if (!page) return;
+        const vp1 = page.getViewport({ scale: 1 });
+        en.target.style.aspectRatio = `${vp1.width} / ${vp1.height}`;
+        const scale = Math.min(3, Math.max(1, (en.target.clientWidth * (window.devicePixelRatio || 1)) / vp1.width));
+        const vp = page.getViewport({ scale });
+        const cv = h("canvas", { width: Math.round(vp.width), height: Math.round(vp.height), "aria-label": `Page ${p}` });
+        en.target.querySelector("canvas")?.remove();
+        en.target.prepend(cv);
+        return page.render({ canvasContext: cv.getContext("2d"), viewport: vp }).promise;
+      }).catch((err) => console.warn("page", p, err));
+    }
+  }
+  function rerender() {
+    const top = origBody.scrollTop / Math.max(1, origBody.scrollHeight);
+    for (const P of pdfs.values()) {
+      P.pagesEl.style.width = `${prefs.zoom * 100}%`;
+      P.pgs.forEach((pg) => { pg.querySelector("canvas")?.remove(); observer.unobserve(pg); });
+      P.rendered.clear();
+    }
+    origBody.scrollTop = top * origBody.scrollHeight;
+    for (const P of pdfs.values()) P.pgs.forEach((pg) => observer.observe(pg));
     if (selected) markOrig(selected, true);
   }
-
-  function buildGrid() {
+  function buildGrid(D, sec) {
     const wrap = h("div", { class: "grid-wrap" });
     const map = new Map();
-    for (const u of units) if (u.k === "row") map.set(`${doc.type === "csv" ? 1 : unitSheet(u)}:${rowNum(u)}`, u.n);
-    doc.grid.forEach((sheet, si) => {
+    for (const u of D.units) if (u.k === "row") map.set(`${D.type === "csv" ? 1 : u.p}:${parseInt(String(u.t).replace(/^R/, ""), 10)}`, u);
+    D.grid.forEach((sheet, si) => {
       const width = Math.max(1, ...sheet.rows.map((r) => r[1].length));
       wrap.append(h("h3", {}, `Sheet ${si + 1}: ${sheet.name}`));
       const tb = h("tbody");
       for (const [rn, cells] of sheet.rows) {
-        const un = map.get(`${si + 1}:${rn}`);
-        const u = un != null ? byN.get(un) : null;
-        const tr = h("tr", { "data-n": un ?? "", class: u ? catOf(u) : "" }, h("th", {}, rn), Array.from({ length: width }, (_, i) => h("td", {}, cells[i] ?? "")));
-        if (un != null) { if (!boxes.has(un)) boxes.set(un, []); boxes.get(un).push(tr); }
+        const u = map.get(`${si + 1}:${rn}`);
+        const tr = h("tr", { class: u ? catOf(u) : "" }, h("th", {}, rn), Array.from({ length: width }, (_, i) => h("td", {}, cells[i] ?? "")));
+        if (u) addBox(u.K, tr);
         tb.append(tr);
       }
       wrap.append(h("div", { style: "overflow-x:auto" }, h("table", {}, tb)));
     });
-    wrap.addEventListener("click", (e) => { const tr = e.target.closest("tr[data-n]"); if (tr && tr.dataset.n) select(+tr.dataset.n, "orig"); });
-    origBody.append(h("div", { class: "render-note" }, `Spreadsheet shown as its ${doc.grid.length > 1 ? "sheets" : "rows"}; each spreadsheet row is one unit.`), wrap);
+    sec.append(h("div", { class: "render-note" }, `Spreadsheet shown as its ${D.grid.length > 1 ? "sheets" : "rows"}; each spreadsheet row is one unit.`), wrap);
   }
-  function buildBlocks() {
+  function buildBlocks(D, sec) {
     const wrap = h("div", { class: "docx-wrap" });
-    const add = (el, n) => { if (n == null) return; el.dataset.n = n; const u = byN.get(n); if (u) el.classList.add(catOf(u)); if (!boxes.has(n)) boxes.set(n, []); boxes.get(n).push(el); };
-    for (const b of doc.blocks) {
+    const add = (el, n) => { if (n == null) return; const u = D.units.find((x) => x.n === n); if (!u) return; el.classList.add(catOf(u)); addBox(u.K, el); };
+    for (const b of D.blocks) {
       if (b.table) {
         const tb = h("tbody");
         for (const row of b.table) { const tr = h("tr"); for (const [n, t] of row) { const td = h("td", {}, t); add(td, n); tr.append(td); } tb.append(tr); }
         wrap.append(h("div", { style: "overflow-x:auto" }, h("table", {}, tb)));
       } else { const el = h(b.h ? "h3" : "p", {}, b.s); add(el, b.n); wrap.append(el); }
     }
-    wrap.addEventListener("click", (e) => { const el = e.target.closest("[data-n]"); if (el) select(+el.dataset.n, "orig"); });
-    origBody.append(h("div", { class: "render-note" }, doc.view_note || ""), wrap);
+    sec.append(h("div", { class: "render-note" }, D.view_note || ""), wrap);
   }
-  // spreadsheet units: the sheet number is the unit's page, the row tag is "R<n>"
-  function unitSheet(u) { return u.p; }
-  function rowNum(u) { return parseInt(String(u.t).replace(/^R/, ""), 10); }
 
   // ----- pane: clean text -----
   const textBody = h("div", { class: "body" + (prefs.tmarks ? " tmarks-on" : "") });
-  const unitEls = new Map();
+  const unitEls = new Map();   // unit key -> element
+  const markers = [];          // [heading element, [its unit elements]]: hidden when none of its units is in focus
   const hideBtns = ["standards", "examples", "backup"].map((c) => h("button", { "aria-pressed": String(!prefs.hide[c]), title: `Show ${c} units`, onclick: (e) => {
     prefs.hide[c] = !prefs.hide[c]; e.currentTarget.setAttribute("aria-pressed", String(!prefs.hide[c])); store.set("hide", prefs.hide); applyHide();
   } }, h("i", { class: `cat-dot ${c}` }), ` ${c}`));
@@ -540,9 +614,11 @@ async function viewer(st, n, startUnit) {
     prefs.furn = !prefs.furn; e.currentTarget.setAttribute("aria-pressed", String(prefs.furn)); textBody.firstChild?.classList.toggle("show-furn", prefs.furn); textFind.refresh();
   } }, "Headers");
   const isHidden = (u) => !!prefs.hide[catOf(u)];   // its category is filtered out: not traced into the clean text or database panes
-  const textFind = findBar("text", "clean text", textBody, () => units.filter((u) => !isHidden(u) && (!u.f || prefs.furn)).map((u) => [unitEls.get(u.n), u.s, ".utext"]), (el) => select(+el.dataset.n, "text-find"));
+  const allUnits = docs.flatMap((D) => D.units);
+  const textFind = findBar("text", "clean text", textBody, () => allUnits.filter((u) => !isHidden(u) && inScope(u) && (!u.f || prefs.furn)).map((u) => [unitEls.get(u.K), u.s, ".utext"]), (el) => select(+el.dataset.k, "text-find"));
+  const textCount = h("span", { class: "muted" });
   const textPane = h("section", { class: "pane", "aria-label": "Clean text" },
-    h("header", {}, h("h2", {}, "Clean text"), h("span", { class: "muted" }, `${fmt(units.length)} units`), h("span", { class: "group" }, hideBtns, furnBtn), textFind.el), textBody);
+    h("header", {}, h("h2", {}, "Clean text"), textCount, h("span", { class: "group" }, hideBtns, furnBtn), textFind.el), textBody);
   /** Filtered-out categories leave the clean text and database panes, and their boxes on the original pages stop responding. */
   function applyHide() {
     for (const body of [textBody, dbBody, origBody]) for (const k of ["standards", "examples", "backup"]) body.classList.toggle(`hide-${k}`, !!prefs.hide[k]);
@@ -552,37 +628,59 @@ async function viewer(st, n, startUnit) {
   function buildText() {
     const box = h("div", { class: "units" });
     const frag = document.createDocumentFragment();
-    let page = undefined, lastLabel = -2;
-    for (const u of units) {
-      if (u.p !== page && u.p != null && doc.type !== "csv") { page = u.p; frag.append(h("div", { class: "pmark" }, doc.type === "xlsx" ? `sheet ${page}` : `page ${page}${doc.type === "docx" ? " (rendered)" : ""}`)); }
-      if (!u.f && u.l !== lastLabel && u.l >= 0) {
-        const L = doc.labels[u.l];
-        frag.append(h("div", { class: `lab-start ${L.cat}` }, h("i", { class: `cat-dot ${L.cat}` }), h("b", {}, L.cat), `grades ${L.grades}`, L.course ? `· ${L.course}` : null, L.section ? `· ${L.section}` : null));
-        lastLabel = u.l;
+    for (const D of docs) {
+      const dm = [h("div", { class: "tdoc-h", "data-d": D.n }, h("b", {}, docName(D)), partNote(D)), []];
+      markers.push(dm); frag.append(dm[0]);
+      let page, lastLabel = -2, pm = null, lm = null;
+      for (const u of D.units) {
+        if (u.p !== page && u.p != null && D.type !== "csv") {
+          page = u.p;
+          pm = [h("div", { class: "pmark" }, `${dpos.get(D.n)} · ${D.type === "xlsx" ? `sheet ${page}` : `page ${page}${D.type === "docx" ? " (rendered)" : ""}`}`), []];
+          markers.push(pm); frag.append(pm[0]);
+        }
+        if (!u.f && u.l !== lastLabel && u.l >= 0) {
+          const L = D.labels[u.l];
+          lm = [h("div", { class: `lab-start ${L.cat}` }, h("i", { class: `cat-dot ${L.cat}` }), h("b", {}, L.cat), `grades ${L.grades}`, L.course ? `· ${L.course}` : null, L.section ? `· ${L.section}` : null), []];
+          markers.push(lm); frag.append(lm[0]);
+          lastLabel = u.l;
+        }
+        const el = h("div", { class: `u ${catOf(u)}`, "data-k": u.K }, h("span", { class: "uid" }, `u${u.n}`), u.t ? h("span", { class: "tag" }, `[${u.t}]`) : null, h("span", { class: "utext" }, u.s));
+        unitEls.set(u.K, el);
+        for (const m of [dm, pm, lm]) m?.[1].push(el);
+        frag.append(el);
       }
-      const el = h("div", { class: `u ${catOf(u)}`, "data-n": u.n }, h("span", { class: "uid" }, `u${u.n}`), u.t ? h("span", { class: "tag" }, `[${u.t}]`) : null, h("span", { class: "utext" }, u.s));
-      unitEls.set(u.n, el);
-      frag.append(el);
     }
     box.append(frag);
-    box.addEventListener("click", (e) => { const el = e.target.closest(".u"); if (el) select(+el.dataset.n, "text"); });
+    box.addEventListener("click", (e) => { const el = e.target.closest(".u"); if (el) select(+el.dataset.k, "text"); });
     textBody.append(box);
   }
 
   // ----- pane: database text -----
   const dbBody = h("div", { class: "body" });
-  const rowSel = h("select", { id: "db-row", "aria-label": "Database row" }, feedRows.map((rid) => h("option", { value: rid }, `${rid} (${fmt(feed.get(rid))} units)`)));
-  rowSel.addEventListener("change", () => { dbRow = rowSel.value; store.set(`dbrow:${st}:${n}`, dbRow); buildDb(); if (selected) markDb(selected, true); });
+  const rowSel = h("select", { id: "db-row", "aria-label": "Database row" });
+  let dbRow = store.get(`dbrow:${st}`, null);
+  rowSel.addEventListener("change", () => { dbRow = rowSel.value; store.set(`dbrow:${st}`, dbRow); buildDb(); if (selected) markDb(selected, true); });
   const rowLink = h("a", { href: "#" }, "Open row");
   const dbFind = findBar("db", "database text", dbBody, () => [...dbBody.querySelectorAll(".dbcol")].filter((c) => !prefs.hide[c.dataset.cat]).flatMap((c) => [...c.querySelectorAll(".seg")].map((el) => [el, el.querySelector(".txt").textContent, ".txt"])),
-    (el) => { if (el.dataset.n) select(+el.dataset.n, "db-find"); });
+    (el) => { if (el.dataset.k) select(+el.dataset.k, "db-find"); });
   const dbPane = h("section", { class: "pane", "aria-label": "Database text" },
     h("header", {}, h("h2", {}, "Database text"), rowSel, rowLink, dbFind.el), dbBody);
-  let segEls = new Map(), textEls = new Map();
+  let segEls = new Map(), textEls = new Map(), feed = new Map();
   const normText = (t) => t.replace(/\s+/g, " ").trim().toLowerCase();
+  const rowOK = (rid) => !scope.grade || !!rowGrades.get(rid)?.has(scope.grade);
+  /** The database rows the documents in focus feed (for the chosen grade), ranked by how many of their units they hold. */
+  function buildRowSel() {
+    feed = new Map();
+    for (const D of docs) if (scope.doc == null || D.n === scope.doc) for (const u of D.units) for (const [rid] of u.r) if (rowOK(rid)) feed.set(rid, (feed.get(rid) || 0) + 1);
+    const list = [...feed.keys()].sort((a, b) => (a.endsWith("_ALL") - b.endsWith("_ALL")) || a.localeCompare(b, "en", { numeric: true }));
+    if (!feed.has(dbRow)) dbRow = list.find((r) => !r.endsWith("_ALL")) || list[0] || null;
+    rowSel.replaceChildren(...list.map((rid) => h("option", { value: rid }, `${rid} (${fmt(feed.get(rid))} units)`)));
+    rowSel.disabled = !list.length;
+  }
   function buildDb() {
     segEls = new Map(); textEls = new Map();
-    if (!dbRow) { dbBody.replaceChildren(h("p", { class: "empty" }, "No database rows use this document.")); return; }
+    if (!dbRow) { dbBody.replaceChildren(h("p", { class: "empty" }, scope.grade ? `No database row for ${gName(scope.grade).toLowerCase()} uses ${scope.doc == null ? "these documents" : "this document"}.` : "No database rows use these documents.")); rowLink.hidden = true; dbFind?.refresh(); return; }
+    rowLink.hidden = false;
     rowSel.value = dbRow;
     rowLink.href = `#/row/${encodeURIComponent(dbRow)}`;
     const r = rowById[dbRow];
@@ -594,31 +692,33 @@ async function viewer(st, n, startUnit) {
       if (!segs.length) { box.append(h("p", { class: "empty" }, "(empty)")); continue; }
       const frag = document.createDocumentFragment();
       for (const [fi, u, text] of segs) {
-        const mine = fi === n;
-        const el = h("div", { class: `seg ${cat} ${mine ? "mine" : "other"}`, "data-n": mine ? u : "" },
+        const K = u ? ukey(fi, u) : null, mine = K != null && byK.has(K);
+        const away = !mine || (scope.doc != null && fi !== scope.doc);
+        const el = h("div", { class: `seg ${cat} ${mine ? "mine" : ""} ${away ? "other" : ""}`, "data-k": mine ? K : "" },
           h("div", { class: "txt" }, text),
-          mine ? h("span", { class: "src" }, u ? `u${u}` : "headers") : h("a", { class: "src", href: `#/doc/${st}/${fi}${u ? `/u${u}` : ""}`, title: files[fi]?.name }, `${u ? "u" + u : "headers"} · ${shortName(files[fi]?.name || "?")}`));
-        if (mine && u) { if (!segEls.has(u)) segEls.set(u, []); segEls.get(u).push(el); }
+          h("span", { class: "src", title: files[fi]?.name }, `${u ? "u" + u : "headers"}${docs.length > 1 || !mine ? ` · ${dpos.has(fi) ? `doc ${dpos.get(fi)}` : shortName(files[fi]?.name || "?")}` : ""}`));
+        if (mine) { if (!segEls.has(K)) segEls.set(K, []); segEls.get(K).push(el); }
         const k = normText(text); if (!textEls.has(k)) textEls.set(k, []); textEls.get(k).push(el);
         frag.append(el);
       }
       box.append(frag);
     }
-    out.addEventListener("click", (e) => { const el = e.target.closest(".seg.mine"); if (el && el.dataset.n && !e.target.closest("a")) select(+el.dataset.n, "db"); });
+    out.addEventListener("click", (e) => { const el = e.target.closest(".seg.mine"); if (el && el.dataset.k) select(+el.dataset.k, "db"); });
     dbBody.replaceChildren(out);
     dbFind?.refresh();
   }
 
-  // ----- pane: topics (immigration-topic tags of this document) -----
-  const docTags = (doc.tags || []).map(([u, sno, t, sc, top, m, c, cs, ce, mt], k) => ({ k, u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], cs, ce, mt }));
+  // ----- pane: topics (immigration-topic tags of the documents in focus) -----
+  const docTags = [];
+  for (const D of docs) for (const [u, sno, t, sc, top, m, c, cs, ce, mt] of D.tags || []) docTags.push({ k: docTags.length, K: ukey(D.n, u), u, sno, t, sc: sc / 1000, top: top / 1000, m: METHOD_NAMES[m], c: CAT_NAMES[c], cs, ce, mt });
   // the separate keywords: every match in labeled text (not running headers)
-  for (const kw of KWS) for (const u of units) {
+  for (const kw of KWS) for (const u of allUnits) {
     if (u.f || u.l < 0 || !CAT_NAMES.includes(catOf(u))) continue;
-    for (const m of u.s.matchAll(kw.re)) docTags.push({ k: docTags.length, u: u.n, sno: 0, t: kw.no, sc: 1, top: 1, m: "name", c: catOf(u), cs: m.index, ce: m.index + m[0].length, mt: m[0], kw: true });
+    for (const m of u.s.matchAll(kw.re)) docTags.push({ k: docTags.length, K: u.K, u: u.n, sno: 0, t: kw.no, sc: 1, top: 1, m: "name", c: catOf(u), cs: m.index, ce: m.index + m[0].length, mt: m[0], kw: true });
   }
   /** Character span of a tag's matched words in its unit's text (null if they cannot be found). */
   const spanOf = (tg) => {
-    const s = byN.get(tg.u)?.s || "";
+    const s = byK.get(tg.K)?.s || "";
     if (tg.cs >= 0 && s.slice(tg.cs, tg.ce) === tg.mt) return [tg.cs, tg.ce];
     const i = tg.mt ? s.indexOf(tg.mt) : -1;
     return i >= 0 ? [i, i + tg.mt.length] : null;
@@ -632,72 +732,113 @@ async function viewer(st, n, startUnit) {
     const parts = [];
     for (let i = 0; i < cuts.length - 1; i++) {
       const a = cuts[i], b = cuts[i + 1];
-      for (const [[x], tg] of spans) if (x === a) parts.push(h("sup", { class: "tno", "data-k": tg.k, title: tg.kw ? topicName(tg.t) : `${tg.t}. ${topicName(tg.t)} · score ${tg.sc.toFixed(2)}` }, topicNo(tg.t)));
+      for (const [[x], tg] of spans) if (x === a) parts.push(h("sup", { class: "tno", "data-t": tg.k, title: tg.kw ? topicName(tg.t) : `${tg.t}. ${topicName(tg.t)} · score ${tg.sc.toFixed(2)}` }, topicNo(tg.t)));
       const cover = spans.filter(([[x, y]]) => x <= a && y >= b).map(([, tg]) => tg.k);
-      parts.push(cover.length ? h("mark", { class: "tm", "data-k": cover.join(" ") }, s.slice(a, b)) : s.slice(a, b));
+      parts.push(cover.length ? h("mark", { class: "tm", "data-t": cover.join(" ") }, s.slice(a, b)) : s.slice(a, b));
     }
     box.replaceChildren(...parts);
   }
   /** Highlight the words of one tag (k) in the clean text, or clear with null. */
-  const hot = (k) => textBody.querySelectorAll(".tm, .tno").forEach((m) => m.classList.toggle("hot", k != null && m.dataset.k.split(" ").includes(String(k))));
+  const hot = (k) => textBody.querySelectorAll(".tm, .tno").forEach((m) => m.classList.toggle("hot", k != null && m.dataset.t.split(" ").includes(String(k))));
   const tcats = { standards: true, examples: true, backup: true, ...store.get("tcats", {}) };
-  const shown = (tg) => tcats[tg.c] && tagPasses(tg);
+  const shown = (tg) => tcats[tg.c] && tagPasses(tg) && inScope(byK.get(tg.K));
   if (TL && AF.minScore == null) AF.minScore = TL.meta.default_min_score;
   const topicName = (t) => (isKw(t) ? KW_BY_NO[t].topic : TL?.topics.find((x) => x.no === t)?.topic || `Topic ${t}`);
   const tagsOfUnit = new Map();
-  for (const tg of docTags) { if (!tagsOfUnit.has(tg.u)) tagsOfUnit.set(tg.u, []); tagsOfUnit.get(tg.u).push(tg); }
+  for (const tg of docTags) { if (!tagsOfUnit.has(tg.K)) tagsOfUnit.set(tg.K, []); tagsOfUnit.get(tg.K).push(tg); }
   const topicsBody = h("div", { class: "body" });
   const topicsCount = h("span", { class: "muted" });
+  const topicsScope = h("p", { class: "small pane-note scope-note" });
   const tcatBtns = ["standards", "examples", "backup"].map((c) => h("button", { "aria-pressed": String(tcats[c]), title: `Show tags in ${c} text`, onclick: (e) => {
     tcats[c] = !tcats[c]; e.currentTarget.setAttribute("aria-pressed", String(tcats[c])); store.set("tcats", tcats); renderTopics();
   } }, h("i", { class: `cat-dot ${c}` }), ` ${c}`));
   const topicsPane = h("section", { class: "pane", "aria-label": "Topics" },
-    h("header", {}, h("h2", {}, "Topics"), topicsCount, h("span", { class: "group" }, tcatBtns),
+    h("header", {}, h("h2", {}, "Topics"), topicsCount, topicsScope, h("span", { class: "group" }, tcatBtns),
       h("p", { class: "muted small pane-note" }, "The Topics and Charts pages count standards only; examples and backup tags are shown here for reference."),
       TL ? scoreControl(TL, renderTopics, { compact: true }) : null, gfNote()), topicsBody);
-  let topicRows = new Map();   // unit -> [row elements]
+  let topicRows = new Map();   // unit key -> [row elements]
   function renderTopics() {
     const pass = docTags.filter(shown);
-    const units = new Set(pass.map((x) => x.u));
+    const units = new Set(pass.map((x) => x.K));
     const byTopic = new Map();
     for (const tg of pass) { if (!byTopic.has(tg.t)) byTopic.set(tg.t, []); byTopic.get(tg.t).push(tg); }
-    topicsCount.textContent = docTags.length ? `${fmt(pass.length)} tags · ${byTopic.size} topics · ${units.size} units` : "No tags in this document";
+    topicsCount.textContent = docTags.length ? `${fmt(pass.length)} tags · ${byTopic.size} topics · ${units.size} units` : "No tags in these documents";
+    topicsScope.replaceChildren("Tags in ", h("b", {}, scopeLabel()), ...(scope.doc != null || scope.grade ? [" · ", h("button", { type: "button", class: "link", onclick: () => { scope.doc = null; scope.grade = ""; applyScope(true); setUrl(); } }, "show all")] : []));
     topicRows = new Map();
     const open = new Set([...topicsBody.querySelectorAll("details[open]")].map((d) => +d.dataset.t));
-    topicsBody.replaceChildren(...[...byTopic.keys()].sort((a, b) => a - b).map((t) => {
-      const list = byTopic.get(t).sort((a, b) => a.u - b.u || a.sno - b.sno);
+    const many = new Set(pass.map((x) => byK.get(x.K).D.n)).size > 1;
+    topicsBody.replaceChildren(...(byTopic.size ? [...byTopic.keys()].sort((a, b) => a - b).map((t) => {
+      const list = byTopic.get(t).sort((a, b) => dpos.get(byK.get(a.K).D.n) - dpos.get(byK.get(b.K).D.n) || a.u - b.u || a.sno - b.sno);
       return h("details", { class: "tp", "data-t": t, open: open.has(t) },
         h("summary", {}, h("span", { class: "mono" }, `${topicNo(t)}.`), ` ${topicName(t)} `, h("span", { class: "chip" }, fmt(list.length)),
           h("a", { class: "tp-more", href: topicHref(t), title: "See this topic in every state" }, "all states")),
         list.map((tg) => {
-          const row = h("button", { type: "button", class: "tp-row", "data-u": tg.u, onclick: () => { select(tg.u, "topics"); hot(tg.k); }, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null) },
-            h("span", { class: "mono muted" }, `u${tg.u}`), h("b", { class: "mono" }, tg.kw ? "word" : tg.sc.toFixed(2)),
+          const row = h("button", { type: "button", class: "tp-row", onclick: () => { select(tg.K, "topics"); hot(tg.k); }, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null) },
+            h("span", { class: "mono muted" }, many ? `${dpos.get(byK.get(tg.K).D.n)}·u${tg.u}` : `u${tg.u}`), h("b", { class: "mono" }, tg.kw ? "word" : tg.sc.toFixed(2)),
             h("span", { class: "tp-chips" }, tg.c !== "standards" ? h("span", { class: `chip cat-${tg.c}` }, tg.c) : null, tg.m !== "meaning" && !tg.kw ? h("span", { class: "chip" }, "named") : null),
             h("span", { class: "tp-s" }, "“", h("b", {}, tg.mt), "”"));
-          if (!topicRows.has(tg.u)) topicRows.set(tg.u, []);
-          topicRows.get(tg.u).push(row);
+          if (!topicRows.has(tg.K)) topicRows.set(tg.K, []);
+          topicRows.get(tg.K).push(row);
           return row;
         }));
-    }));
+    }) : [h("p", { class: "empty" }, docTags.length ? `No tags in ${scopeLabel()} at these settings.` : "No tags in these documents.")]));
     // tag chips under the units in the clean text, and marks on the original pages
-    for (const [u, el] of unitEls) {
+    for (const [K, el] of unitEls) {
       el.querySelector(".tchips")?.remove();
-      const mine = (tagsOfUnit.get(u) || []).filter(shown);
+      const mine = (tagsOfUnit.get(K) || []).filter(shown);
       el.classList.toggle("tagged", mine.length > 0);
-      if (mine.length || el.querySelector(".tm")) paintUnit(el, byN.get(u), mine);
-      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: `tchip${tg.kw ? " kw" : ""}`, "data-k": tg.k, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null),
+      if (mine.length || el.querySelector(".tm")) paintUnit(el, byK.get(K), mine);
+      if (mine.length) el.append(h("div", { class: "tchips" }, mine.map((tg) => h("span", { class: `tchip${tg.kw ? " kw" : ""}`, "data-t": tg.k, onmouseenter: () => hot(tg.k), onmouseleave: () => hot(null),
         title: tg.kw ? `Keyword match: “${tg.mt}”` : `Matched: “${tg.mt}”\n${METHOD_LABEL[tg.m]}; this sentence's best score ${tg.top.toFixed(2)}` },
         h("b", { class: "mono" }, topicNo(tg.t)), ` ${topicName(tg.t)}`, tg.kw ? null : h("span", { class: "mono" }, tg.sc.toFixed(2)), tg.m !== "meaning" && !tg.kw ? " · named" : ""))));
     }
-    for (const [u, els] of boxes) els.forEach((b) => b.classList.toggle("tagged", units.has(u)));
+    for (const [K, els] of boxes) els.forEach((b) => b.classList.toggle("tagged", units.has(K)));
     if (selected) markTopics(selected, false);
     textFind.refresh();   // the unit text was rewritten
   }
   function markTopics(u, scroll) {
     topicsBody.querySelectorAll(".tp-row.hl").forEach((x) => x.classList.remove("hl"));
-    const rows = topicRows.get(u.n) || [];
-    rows.forEach((r) => { r.classList.add("hl"); r.closest("details").open = true; });
-    if (scroll && rows[0]) scrollInto(topicsBody, rows[0]);
+    const rws = topicRows.get(u.K) || [];
+    rws.forEach((r) => { r.classList.add("hl"); r.closest("details").open = true; });
+    if (scroll && rws[0]) scrollInto(topicsBody, rws[0]);
+  }
+
+  // ----- focus applied to every pane -----
+  /** Narrow every pane to the focus; scroll: bring the first unit in focus into view. */
+  function applyScope(scroll) {
+    syncScope();
+    for (const D of docs) osec.get(D.n).hidden = scope.doc != null && D.n !== scope.doc;
+    let n = 0;
+    for (const u of allUnits) {
+      const ok = inScope(u); if (ok) n++;
+      unitEls.get(u.K)?.classList.toggle("out", !ok);
+      boxes.get(u.K)?.forEach((b) => b.classList.toggle("out", !ok));
+    }
+    for (const [el, els] of markers) el.hidden = !els.some((e) => !e.classList.contains("out"));
+    const D1 = docs.find((D) => D.n === scope.doc);
+    title.textContent = D1 ? docName(D1) : docs.length > 1 ? `All ${docs.length} documents, read together` : docName(docs[0]);
+    textCount.textContent = `${fmt(n)} units${scope.grade ? ` for ${gName(scope.grade).toLowerCase()}` : ""}`;
+    buildRowSel(); buildDb();
+    renderTopics();
+    if (selected && !inScope(selected)) { selected = null; clearMarks(); origBody.querySelectorAll(".hl").forEach((x) => x.classList.remove("hl")); markTopics({ K: -1 }, false);
+      selbar.replaceChildren(h("span", { class: "muted" }, "Click a unit, a box on the page, or a database line to trace it across the panes.")); }
+    dbFind.refresh();
+    if (scroll) {
+      const first = allUnits.find((u) => inScope(u) && !isHidden(u) && !u.f);
+      const head = markers.find(([el]) => !el.hidden)?.[0];
+      if (head) textBody.scrollTop += head.getBoundingClientRect().top - textBody.getBoundingClientRect().top;
+      if (first) markOrigView(first);
+      dbBody.scrollTop = 0; topicsBody.scrollTop = 0;
+    }
+  }
+  /** Scroll the original pane to a unit without highlighting it. */
+  function markOrigView(u) {
+    const el = boxes.get(u.K)?.[0] || (u.p && osec.get(u.D.n).querySelector(`.pg[data-p="${u.p}"]`)) || osec.get(u.D.n);
+    scrollInto(origBody, el, false);
+  }
+  function setUrl() {
+    const want = selected ? `#/doc/${st}/${selected.D.n}/u${selected.n}` : scope.doc != null ? `#/doc/${st}/${scope.doc}` : `#/doc/${st}`;
+    if (location.hash !== want) history.replaceState(null, "", want);
   }
 
   // ----- selection -----
@@ -709,14 +850,15 @@ async function viewer(st, n, startUnit) {
   }
   function markOrig(u, scroll) {
     origBody.querySelectorAll(".hl").forEach((x) => x.classList.remove("hl"));
-    const els = boxes.get(u.n) || [];
+    const els = boxes.get(u.K) || [];
     els.forEach((x) => x.classList.add("hl"));
-    if (scroll && els[0]) scrollInto(origBody, els[0]);
-    else if (scroll && u.p && doc.type !== "xlsx" && doc.type !== "csv") scrollInto(origBody, origBody.querySelector(`.pg[data-p="${u.p}"]`), false);
+    if (!scroll) return;
+    if (els[0]) scrollInto(origBody, els[0]);
+    else scrollInto(origBody, (u.p && u.D.type !== "xlsx" && u.D.type !== "csv" && osec.get(u.D.n).querySelector(`.pg[data-p="${u.p}"]`)) || osec.get(u.D.n), false);
   }
   function markText(u, scroll) {
     textBody.querySelectorAll(".u.hl").forEach((x) => x.classList.remove("hl"));
-    const el = unitEls.get(u.n);
+    const el = unitEls.get(u.K);
     if (!el || isHidden(u)) return;
     el.classList.add("hl");
     if (u.f && !prefs.furn) furnBtn.click();
@@ -727,54 +869,65 @@ async function viewer(st, n, startUnit) {
   function hiddenNote(u) {
     const c = catOf(u);
     return [h("strong", { class: "mono" }, `u${u.n}`), h("span", {}, h("i", { class: `cat-dot ${c}` }), ` ${c} text is filtered out, so it is not opened in the clean text or database panes.`),
-      h("button", { type: "button", class: "link", onclick: () => { showCat(c); select(u.n, "show"); } }, `Show ${c}`)];
+      h("button", { type: "button", class: "link", onclick: () => { showCat(c); select(u.K, "show"); } }, `Show ${c}`)];
   }
   function markDb(u, scroll) {
     dbBody.querySelectorAll(".seg.hl").forEach((x) => x.classList.remove("hl"));
     if (isHidden(u)) return;
     // a repeated unit is kept once in a row: then highlight the identical line it was merged into
-    const els = segEls.get(u.n) || (u.r.some((x) => x[0] === dbRow) ? textEls.get(normText(u.s)) || [] : []);
+    const els = segEls.get(u.K) || (u.r.some((x) => x[0] === dbRow) ? textEls.get(normText(u.s)) || [] : []);
     els.forEach((x) => x.classList.add("hl"));
     if (scroll && els[0]) scrollInto(dbBody, els[0]);
   }
-  function select(num, from) {
-    const u = byN.get(num);
-    if (!u) { selbar.replaceChildren(h("span", { class: "error" }, `This document has no unit u${num}.`)); return; }
+  function select(K, from) {
+    const u = byK.get(K);
+    if (!u) { selbar.replaceChildren(h("span", { class: "error" }, `There is no unit u${K % UKEY} in ${files[Math.floor(K / UKEY)]?.name || "that document"}.`)); return; }
     selected = u;
+    // a unit outside the focus (a link, a typed number, another document's database line) widens the focus to show it
+    if (!inScope(u)) {
+      if (scope.doc != null && u.D.n !== scope.doc) scope.doc = null;
+      if (!inScope(u)) scope.grade = "";
+      selected = null; applyScope(); selected = u;
+    }
     // a link from another page (or a typed unit number) opens a filtered-out category; a click inside the viewer does not
     if (isHidden(u) && (from === "url" || from === "jump")) showCat(catOf(u));
     if (isHidden(u)) {
       markOrig(u, from !== "orig"); markTopics(u, from !== "topics"); clearMarks();
       selbar.replaceChildren(...hiddenNote(u));
-      const want = `#/doc/${st}/${n}/u${u.n}`;
-      if (location.hash !== want) history.replaceState(null, "", want);
+      setUrl();
       return;
     }
-    // choose a database row that holds this unit (keep the current one if it does)
+    // choose a database row that holds this unit (keep the current one if it does), for the grade in focus if one is
     const holding = (u.r.some((x) => x[2]) ? u.r.filter((x) => x[2]) : u.r).map((x) => x[0]);
     if (holding.length && !holding.includes(dbRow)) {
-      dbRow = holding.find((r) => !r.endsWith("_ALL")) || holding[0];
+      dbRow = holding.find((r) => !r.endsWith("_ALL") && rowOK(r)) || holding.find((r) => !r.endsWith("_ALL")) || holding[0];
+      if (!feed.has(dbRow)) rowSel.append(h("option", { value: dbRow }, dbRow));
       buildDb();
     }
     markOrig(u, from !== "orig");
     markText(u, from !== "text" && from !== "text-find");
     markDb(u, from !== "db" && from !== "db-find");
     markTopics(u, from !== "topics");
-    const L = u.l >= 0 ? doc.labels[u.l] : null;
-    const utags = (tagsOfUnit.get(u.n) || []).filter(shown);
-    const where = [u.p ? (doc.type === "xlsx" ? `sheet ${u.p}` : `page ${u.p}`) : null, u.t ? u.t : null].filter(Boolean).join(" · ");
+    const L = u.l >= 0 ? u.D.labels[u.l] : null;
+    const utags = (tagsOfUnit.get(u.K) || []).filter(shown);
+    const where = [docs.length > 1 ? `document ${dpos.get(u.D.n)}` : null, u.p ? (u.D.type === "xlsx" ? `sheet ${u.p}` : `page ${u.p}`) : null, u.t ? u.t : null].filter(Boolean).join(" · ");
     const kept = u.r.filter((x) => x[2]), dropped = u.r.filter((x) => !x[2]);
     selbar.replaceChildren(...[
-      h("strong", { class: "mono" }, `u${u.n}`), where ? h("span", { class: "muted" }, where) : null,
+      h("strong", { class: "mono" }, `u${u.n}`), where ? h("span", { class: "muted", title: u.D.file }, where) : null,
       h("span", {}, h("i", { class: `cat-dot ${catOf(u)}` }), " ", u.f ? "running header/footer" : L ? L.cat : "unlabeled"),
       L ? h("span", {}, `grades ${L.grades}${L.course ? ` · ${L.course}` : ""}`) : null,
       L && L.section ? h("span", { class: "muted" }, L.section) : null,
-      h("span", {}, kept.length ? [`In ${kept.length} row${kept.length > 1 ? "s" : ""}: `, kept.slice(0, 12).flatMap((x, i) => [i ? ", " : "", h("a", { class: "rowlink", href: "#", onclick: (e) => { e.preventDefault(); dbRow = x[0]; buildDb(); markDb(u, true); } }, x[0]), h("span", { class: "muted" }, ` (${x[1]})`)]), kept.length > 12 ? ` and ${kept.length - 12} more` : ""]
+      h("span", {}, kept.length ? [`In ${kept.length} row${kept.length > 1 ? "s" : ""}: `, kept.slice(0, 12).flatMap((x, i) => [i ? ", " : "", h("a", { class: "rowlink", href: "#", onclick: (e) => { e.preventDefault(); dbRow = x[0]; if (!feed.has(dbRow)) rowSel.append(h("option", { value: dbRow }, dbRow)); buildDb(); markDb(u, true); } }, x[0]), h("span", { class: "muted" }, ` (${x[1]})`)]), kept.length > 12 ? ` and ${kept.length - 12} more` : ""]
         : dropped.length ? null : h("span", { class: "muted" }, "Not in any row's text")),
       dropped.length ? h("span", { class: "muted" }, `Repeat of text already in ${dropped.map((x) => x[0]).join(", ")} (kept once)`) : null,
       utags.length ? h("span", {}, "Topics: ", utags.flatMap((tg, i) => [i ? "; " : "", h("a", { href: topicHref(tg.t) }, tg.kw ? topicName(tg.t) : `${tg.t}. ${topicName(tg.t)}`), h("span", { class: "muted" }, ` ← “${tg.mt}”`), tg.kw ? null : h("span", { class: "muted mono" }, ` ${tg.sc.toFixed(2)}`)])) : null].flat(Infinity).filter(Boolean));
-    const want = `#/doc/${st}/${n}/u${u.n}`;
-    if (location.hash !== want) history.replaceState(null, "", want);
+    setUrl();
+  }
+  /** A new hash for the same state: a unit link selects it, a document link changes the focus. */
+  function go(docArg, unit) {
+    if (unit) { select(ukey(+docArg, unit), "url"); return; }
+    scope.doc = docArg == null || docArg === "" || docArg === "all" || !dpos.has(+docArg) ? null : +docArg;
+    applyScope(true); setUrl();
   }
 
   // ----- layout -----
@@ -784,18 +937,15 @@ async function viewer(st, n, startUnit) {
     if (selected) { markOrig(selected, true); markText(selected, true); markDb(selected, true); markTopics(selected, true); }
     textFind.refresh(); dbFind.refresh();
   }
-  function destroy() { observer?.disconnect(); pdfTask?.destroy?.(); textFind.clear(); dbFind.clear(); }
+  function destroy() { observer?.disconnect(); for (const P of pdfs.values()) P.task?.destroy?.(); textFind.clear(); dbFind.clear(); }
 
   setMain(h("div", { class: "viewer" }, bar, selbar, panes));
   layoutPanes();
   buildText();
-  buildDb();
+  buildOrig();
   applyHide();
-  if (doc.grid) buildGrid();
-  else if (doc.blocks) buildBlocks();
-  else if (/\.(pdf)$/i.test(doc.view || "")) buildPdf().catch((e) => origBody.append(h("p", { class: "error" }, `Could not show the pages: ${e.message}. Use the link above to open the file.`)));
-  else origBody.append(h("p", { class: "empty" }, "No page view for this file type. Use the link above to open the original."));
-  renderTopics();
-  if (startUnit) select(startUnit, "url");
+  applyScope();
+  if (startUnit) select(ukey(one ?? docs[0].n, startUnit), "url");
+  else setUrl();
   return ctl;
 }

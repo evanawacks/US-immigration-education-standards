@@ -19,6 +19,8 @@ Rules (agreed with the project lead):
     Topics and Charts pages) uses the STANDARDS text only (ANALYSIS_CATS).
     Each sentence is counted once per state: an identical sentence with the same grades and category
     in two places of the same state's documents is kept once (its first occurrence).
+  - Main documents and subfiles (scripts/doc_parts.py): when one document holds the text of other documents of the
+    state, the subfiles count on their own and a sentence of the main document that is also in a subfile is left out.
   - Grades are the grades the document assigns to the text (a 4-6 band stays "04-06"; it is not
     split into grades), from the same rules the database assembler uses.
 
@@ -30,8 +32,10 @@ Outputs (data/analysis/):
   text_words.csv        words and sentences counted per state x category x grade group (denominators)
   state_summary.csv     per state (standards text): words, tags and tags per 10,000 words at DEFAULT_MIN_SCORE
   topic_tags_meta.json  model, settings and run date
-Usage: python scripts/topic_tags.py [--reuse] [--count]   (needs: pip install fastembed; --reuse skips re-embedding
-       when only the tagging rules or settings changed)
+Usage: python scripts/topic_tags.py [--reuse] [--count] [--retag]   (needs: pip install fastembed; --reuse skips
+       re-embedding when only the tagging rules or settings changed; --retag needs no model: it reuses the tags already in
+       topic_tags.csv, since a sentence's tags depend on its text only, when only the choice of counted sentences changed,
+       e.g. main documents and subfiles)
 """
 import csv, json, re, sys, collections, datetime
 from pathlib import Path
@@ -41,6 +45,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from assemble_clean import CLEAN, case_csv_text, doc_grade_context, label_grades, gtoken, limit_labels
 from check_labels import parse_units
 from course_vocab import standardize
+import doc_parts
 OUT = ROOT / "data" / "analysis"
 MODEL = "BAAI/bge-base-en-v1.5"
 SCORE_FLOOR = 0.60          # top-1 matches below this are not stored (named matches always are)
@@ -97,13 +102,13 @@ def windows(sentence):
     if starts[-1] + WINDOW < n: starts.append(n - WINDOW)
     return [(toks[a][0], toks[a + WINDOW - 1][1], sentence[toks[a][0]:toks[a + WINDOW - 1][1]]) for a in starts]
 
-def corpus(cats):
+def corpus(cats, use_parts=True):
     cfg = json.loads((CLEAN / "state_config.json").read_text())
     seen, items, words = set(), [], collections.Counter()
     sents_n = collections.Counter()
     for st in sorted(cfg):
-        for fname, v in cfg[st].get("files", {}).items():
-            if v != "use": continue
+        files = [f for f, v in cfg[st].get("files", {}).items() if v == "use"]
+        for fname in (doc_parts.order(st, files) if use_parts else files):
             uf = CLEAN / "units" / st / f"{fname}.units.jsonl"; lf = CLEAN / "labels" / st / f"{fname}.labels.json"
             if not uf.exists() or not lf.exists(): continue
             units = {int(json.loads(l)["id"][1:]): json.loads(l) for l in open(uf)}
@@ -126,7 +131,7 @@ def corpus(cats):
                     at = text.find(s, cursor)
                     if at >= 0: cursor = at + len(s)
                     key = (st, l["cat"], g, " ".join(s.lower().split()))
-                    if key in seen: continue
+                    if key in seen or (use_parts and doc_parts.repeated_in_subfile(st, fname, s)): continue
                     seen.add(key)
                     w = len(s.split())
                     words[(st, l["cat"], g)] += w; sents_n[(st, l["cat"], g)] += 1
@@ -138,6 +143,7 @@ def corpus(cats):
 def main():
     topics = load_topics()
     reuse = "--reuse" in sys.argv
+    if "--retag" in sys.argv: return retag(topics)
     if "--count" in sys.argv:
         for cats in PARTS:
             items, words, _ = corpus(cats); print(cats, f"{len(items):,} unique sentences, {sum(words.values()):,} words")
@@ -189,12 +195,57 @@ def main():
                 sc = float(sim[:, i].max())
                 found[i] = (sc, m.start(), m.end(), "both" if i in found else "name")
             for i, (sc, a0, a1, method) in sorted(found.items(), key=lambda x: -x[1][0]):
-                at = it["at"]
-                rows.append({**{k: it[k] for k in ("state", "file", "unit", "sentence_no", "category", "grades", "course", "course_title")},
-                             "topic_no": topics[i]["no"], "topic": topics[i]["topic"], "era": topics[i]["era"],
-                             "score": round(sc, 4), "method": method, "top_score": round(top_score, 4),
-                             "matched": sent[a0:a1], "char_start": at + a0 if at >= 0 else "", "char_end": at + a1 if at >= 0 else "",
-                             "word_pos": it["wpos"] + len(sent[:a0].split()), "sentence": sent})
+                rows.append(tag_row(it, topics[i], round(sc, 4), method, round(top_score, 4), a0, a1))
+    write_outputs(topics, rows, words, sents_n, n_items)
+
+def tag_row(it, topic, score, method, top_score, a0, a1):
+    """One output row: topic tag on a corpus item, the matched words at a0:a1 of its sentence."""
+    sent, at = it["sentence"], it["at"]
+    return {**{k: it[k] for k in ("state", "file", "unit", "sentence_no", "category", "grades", "course", "course_title")},
+            "topic_no": topic["no"], "topic": topic["topic"], "era": topic["era"],
+            "score": score, "method": method, "top_score": top_score,
+            "matched": sent[a0:a1], "char_start": at + a0 if at >= 0 else "", "char_end": at + a1 if at >= 0 else "",
+            "word_pos": it["wpos"] + len(sent[:a0].split()), "sentence": sent}
+
+def retag(topics):
+    """Rebuild the outputs from the tags already in topic_tags.csv, without the model: a sentence's tags depend on its
+    text only, so each sentence of the current corpus gets the tags its text had in the last full run."""
+    by_no = {t["no"]: t for t in topics}
+    old_meta = json.loads((OUT / "topic_tags_meta.json").read_text())
+    rows, words, sents_n, n_items = [], collections.Counter(), collections.Counter(), 0
+    for cats in PARTS:
+        # where each sentence of the last run sat (the corpus without the main/subfile rule, as tagged)
+        old_items = corpus(cats, use_parts=False)[0]
+        at = {(it["state"], it["file"], int(it["unit"]), it["sentence_no"]): it["at"] for it in old_items}
+        ws = lambda x: " ".join(x.split())   # the same sentence can differ in white space only (a no-break space)
+        known = {ws(it["sentence"]) for it in old_items}
+        tags = {}   # sentence -> (its text, [(topic, score, method, top_score, a0, a1)]) from its first tagged occurrence
+        first = {}
+        for r in csv.DictReader(open(OUT / "topic_tags.csv", encoding="utf-8")):
+            if r["category"] not in cats: continue
+            occ = (r["state"], r["file"], int(r["unit"]), int(r["sentence_no"]))
+            if first.setdefault(r["sentence"], occ) != occ: continue
+            a = at.get(occ, -1)
+            a0 = int(r["char_start"]) - a if r["char_start"] != "" and a >= 0 else r["sentence"].find(r["matched"])
+            tags.setdefault(ws(r["sentence"]), (r["sentence"], []))[1].append((by_no[int(r["topic_no"])], float(r["score"]), r["method"], float(r["top_score"]), a0, a0 + len(r["matched"])))
+        items, w, sn = corpus(cats)
+        new = [it["sentence"] for it in items if ws(it["sentence"]) not in known]
+        if new: sys.exit(f"{len(new)} sentences were not in the last full run (e.g. {new[0][:80]!r}): run without --retag")
+        words.update(w); sents_n.update(sn); n_items += len(items)
+        for it in items:
+            text, found = tags.get(ws(it["sentence"]), ("", []))
+            for t in found:
+                if len(text) != len(it["sentence"]):   # white space changed length: find the matched words again
+                    m = re.search(r"\s+".join(map(re.escape, text[t[4]:t[5]].split())), it["sentence"])
+                    t = (*t[:4], m.start(), m.end()) if m else t
+                rows.append(tag_row(it, *t))
+        print(f"{'/'.join(cats)}: {len(items):,} sentences (was {len(old_items):,}), {sum(w.values()):,} words")
+    write_outputs(topics, rows, words, sents_n, n_items, {"run": old_meta.get("run"), "retagged": now()})
+
+def now():
+    return datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+
+def write_outputs(topics, rows, words, sents_n, n_items, meta_extra=None):
     OUT.mkdir(parents=True, exist_ok=True)
     with open(OUT / "topics.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["topic_no", "era", "topic", "years", "description", "search_terms"])
@@ -216,7 +267,7 @@ def main():
         "window_words": WINDOW, "window_step": STRIDE,
         "topic_text": "'<topic>: <description> Related terms: <search terms>.'", "score_floor": SCORE_FLOOR, "default_min_score": DEFAULT_MIN_SCORE,
         "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS),
-        "sentences": n_items, "tags": len(rows), "run": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")}, indent=1))
+        "sentences": n_items, "tags": len(rows), "run": now(), **(meta_extra or {})}, indent=1))
     print("wrote", OUT)
 
 if __name__ == "__main__":

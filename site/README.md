@@ -5,8 +5,11 @@ every line of it against the source document.
 
 - **Database**: filter the 785 rows by state, grade and course category, search IDs or the full text, and open a row. Every
   line of a row links to the unit (paragraph, table cell, or spreadsheet row) it was copied from.
-- **Documents**: every collected file by state, with the reason a file was not used.
-- **Side-by-side viewer** (`#/doc/<ST>/<n>`): up to three panes, each can be turned on or off:
+- **Documents**: one row per state that opens to its files, with the reason a file was not used, which file is a main
+  document or a part of one, and "Read all together".
+- **Reader** (`#/doc/<ST>`: all of a state's used documents one after the other; `#/doc/<ST>/<n>`: document n only;
+  `#/doc/<ST>/<n>/u12`: unit 12 of document n). The **Focus** menus narrow every pane, including the Topics pane's
+  tags, to one document and/or one grade (the units in that grade's database rows). Panes, each can be turned on or off:
   1. **Original**: the PDF pages (Word files rendered to PDF with LibreOffice; spreadsheets shown as their sheets), with a
      box over each unit colored by its label (blue standards, amber examples, grey backup).
   2. **Clean text**: the document as numbered units, with each label (category, grades, course, section).
@@ -36,7 +39,11 @@ every line of it against the source document.
   (words starting with it: immigration, immigrant…; `#/topics/kw`, `kw` tags in the viewer) and "migra" (words
   containing it: migration, migrant, emigration, immigration…; `#/topics/kw-migra`, `mg` tags). Listed on their own at
   the top of **Topics**, chosen with **Count** on **Charts**, and kept in step with `KWS` in `site/analysis.js`.
-- **Filters** (`#/filters`): a global topic filter. Unchecked topics (and the keywords) are left out of every tab and the
+- **Main documents and subfiles**: where one document holds the text of others of the same state (Maine), the
+  subfiles count on their own and the main document's copy is not counted again (`scripts/doc_parts.py`, see
+  `data/analysis/README.md`). After the analysis changes, `python3 scripts/build_site.py --topics` refreshes the topic
+  data, each document's tags and the main/subfile marks without re-reading the PDFs.
+- **Topic filter** (`#/filters`): a global topic filter. Unchecked topics (and the keywords) are left out of every tab and the
   viewer; the choice is saved in the browser.
 - In the viewer, the **Clean text** and **Database text** panes each have a find box (Enter / Shift+Enter step through
   matches). Turning off a category (standards, examples, backup) hides it from both panes, and clicking that category's

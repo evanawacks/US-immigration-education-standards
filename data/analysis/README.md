@@ -14,6 +14,12 @@ locally (no LLM, no API).
 2. **One count per sentence per state.** If the same sentence appears twice in a state's documents with the same
    grades and category, it is counted once (at its first occurrence). Text that the database copies into several grade
    rows is counted once.
+   **Main documents and subfiles.** When one document holds the text of other documents of the same state (Maine's
+   full 2019 standards and its separate History and Geography files), the subfiles count on their own and a sentence of
+   the main document that is also in a subfile is left out; text found only in the main document still counts. Main
+   documents are found automatically (`scripts/doc_parts.py`: at least 60% of a file's distinctive standards text is in
+   a larger file of the state); a state's `"parts"` in `state_config.json` overrides that. `python scripts/doc_parts.py`
+   lists what it finds.
 3. **Grades.** Each sentence keeps the grades its document assigns to it (the labels used to build the database). A
    band such as `04-06` stays a band; it is never split into single grades or counted once per grade.
 4. **Windows.** Each sentence is read in overlapping windows of 12 words (one every 6 words); a sentence of 12 words or
@@ -55,6 +61,10 @@ emigration or migration), and "migra", every word containing "migra" (migration,
 Both are case-insensitive, in the same sentences as
 above (same text, same once-per-state rule, same grades). Every match counts, so a sentence with two matches counts
 twice. It needs no model and runs in seconds.
+
+`python scripts/topic_tags.py --retag` rebuilds these files without the model when only the choice of counted
+sentences changed (as with the main-document rule): a sentence's tags depend on its text only, so each sentence gets
+the tags its text had in the last full run. It stops if a sentence was not in that run.
 
 `state`, `file` and `unit` point to the exact place in the source: `data/clean/units/<state>/<file>.units.jsonl`, or
 the website's side-by-side viewer.

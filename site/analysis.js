@@ -52,7 +52,7 @@ async function loadKeywords() { return (await Promise.all(KWS.map(async (k) => (
 const topicHref = (t) => (isKw(t) ? `#/topics/${KW_BY_NO[t].slug}` : `#/topics/${t}`);
 const topicNo = (t) => (isKw(t) ? KW_BY_NO[t].tag : String(t));
 
-// ---------- global topic filter (Filters tab): leaves topics out of every tab and the viewer; remembered ----------
+// ---------- global topic filter (Topic filter tab): leaves topics out of every tab and the viewer; remembered ----------
 const GF = { excluded: new Set(store.get("gfExcluded", [])), kwOff: new Set(store.get("gfKwOff", store.get("gfKw", true) ? [] : ["immigration"])) };
 function saveGF() { store.set("gfExcluded", [...GF.excluded]); store.set("gfKwOff", [...GF.kwOff]); navBadge(); }
 const topicOn = (t) => (isKw(t) ? !GF.kwOff.has(KW_BY_NO[t].id) : !GF.excluded.has(t));
@@ -61,7 +61,7 @@ function navBadge() {
   const a = document.querySelector('.nav a[data-nav="filters"]');
   if (!a) return;
   const n = GF.excluded.size + GF.kwOff.size;
-  a.replaceChildren("Filters", n ? h("span", { class: "nav-badge", title: `${n} topic${n > 1 ? "s" : ""} filtered out` }, String(n)) : "");
+  a.replaceChildren("Topic filter", n ? h("span", { class: "nav-badge", title: `${n} topic${n > 1 ? "s" : ""} filtered out` }, String(n)) : "");
 }
 /** A line saying which topics the global filter leaves out (null when none). */
 function gfNote() {
@@ -443,7 +443,7 @@ async function chartsPage() {
   TD0.stateNames = Object.fromEntries(Object.entries(idx.states).map(([k, s]) => [k, s.name]));
   for (const x of KL0) x.D.stateNames = TD0.stateNames;
   initFilters(TD0);
-  const KL = KL0.filter((x) => kwOn(x.k));   // keywords not switched off on the Filters page
+  const KL = KL0.filter((x) => kwOn(x.k));   // keywords not switched off on the Topic filter page
   // what is counted: the 106 topics, or one of the separate keywords
   let src = store.get("chartSource", "topics");
   if (src === "kw") src = "immigration";
@@ -507,7 +507,7 @@ async function chartsPage() {
       const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : "q0 off"}`, tabindex: "0", "aria-label": s });
       const show = (e) => {
         const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), D.keyword ? "keyword matches" : `${t}. ${D.topicByNo[t].topic}`]);
-        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...kwPer.map(({ k, per: kp }) => [fmt(kp[s] || 0), `${k.word} keyword matches`]), ...tops]
+        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...kwPer.map(({ k, per: kp }) => [fmt(kp[s] || 0), `${k.word} keyword matches`]), ...tops, ["", "Click to see its documents"]]
           : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
       };
       onPoint(p, show); p.addEventListener("pointerleave", tip.hide);
@@ -842,27 +842,30 @@ async function chartsPage() {
         + " Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."
       : "Standards text only. A tag is one sentence matched to one topic. Each sentence is counted once per state, at the grades the state's document assigns it: a 4–6 band is never split into grades, and choosing a single grade leaves bands out."),
     gfNote(), filterBar(D, draw, { topics: !D.keyword, score: !D.keyword, extra: srcField }), stat,
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Where immigration topics appear"),
+    h("nav", { class: "chart-nav", "aria-label": "Charts on this page" }, h("span", { class: "eyebrow" }, "Jump to"),
+      [["c-map", "Map"], ["c-mtx", "Heat map"], ["c-line", "By grade"], ["c-bands", "Grades and bands"], ["c-state", "State summary"]].map(([id, l]) =>
+        h("a", { href: `#/charts`, onclick: (e) => { e.preventDefault(); document.getElementById(id)?.scrollIntoView({ block: "start" }); } }, l))),
+    h("section", { class: "card", id: "c-map" }, h("header", {}, h("h2", {}, "Where immigration topics appear"),
       h("div", { class: "card-tools" }, h("label", { for: "map-m" }, "Measure"), sel("map-m", [["rate", "Tags per 10,000 words"], ["count", "Tags (count)"], ["distinct", "Distinct topics"]], "mapMeasure"),
         h("label", { for: "map-s" }, "Scale"), sel("map-s", [["linear", "Linear"], ["log", "Log"], ["quantile", "Categories (quintiles)"]], "mapScale"), tableBtn(mapTable))),
       mapBox, mapLegend, mapTable),
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Which topics each state emphasizes"),
+    h("section", { class: "card", id: "c-mtx" }, h("header", {}, h("h2", {}, "Which topics each state emphasizes"),
       h("div", { class: "card-tools" }, h("label", { for: "mtx-v" }, "Value"), sel("mtx-v", [["share", "Share of the state's tags"], ["rate", "Tags per 10,000 words"], ["count", "Tags (count)"], ["distinct", "Distinct topics"]], "mtxValue"),
         h("label", { for: "mtx-c" }, "Columns"), sel("mtx-c", [["eras", "Eras"], ["topics", "Topics (selected)"]], "mtxCols"))),
       mtxBox),
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Immigration topics by grade"),
+    h("section", { class: "card", id: "c-line" }, h("header", {}, h("h2", {}, "Immigration topics by grade"),
       h("div", { class: "card-tools" }, h("label", { for: "ln-m" }, "Measure"), sel("ln-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "lineMeasure"),
         h("label", { for: "ln-a" }, "Combine states"), sel("ln-a", [["avg", "Average per state"], ["sum", "Total (raw numbers)"]], "lineAgg"),
         h("label", { for: "ln-b" }, "Lines"), sel("ln-b", [["combined", "All selected states"], ["region", "By region"], ["state", "By state"]], "lineBy"), tableBtn(lineTable))),
       compareWrap, lineLegend, lineBox, lineTable,
       h("p", { class: "muted small" }, "Only text written for a single grade is in these lines. “band only +N”: N of the states wrote that grade only inside a band (for example 3–5), so they are missing from that point; see each state below. The grade filter above does not apply: every grade is shown. A line skips a grade where none of its states has text written for that grade.")),
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "Grades and bands by state"),
+    h("section", { class: "card", id: "c-bands" }, h("header", {}, h("h2", {}, "Grades and bands by state"),
       h("div", { class: "card-tools" }, h("label", { for: "sm-m" }, "Measure"), sel("sm-m", [["count", "Tags (count)"], ["rate", "Tags per 10,000 words"], ["distinct", "Distinct topics"]], "smMeasure"),
         h("label", { for: "sm-r" }, "Rows"), sel("sm-r", [["states", "States"], ["byRegion", "States, grouped by region"], ["regions", "Regions (states added up)"]], "smRows"))),
       h("p", { class: "muted small" }, "A row per selected state (or region), grades across. A dot is text written for a single grade; a band (for example K–2 or 9–12) is a line with a dot at each grade it covers, on its own lane under the row's single grades. Where a state wrote text for single grades and also for a band over them (for example Grade 1 and K–2), both are shown as written, so that grade appears twice; the band's hover says which grades it overlaps, and the state summary gives the share of words involved. Darker dots are higher relative to the row's own highest grade group. Hover a dot for its counts; click a state's name for its summary."),
       h("div", { class: "legend" }, h("span", { class: "lg" }, h("i", { class: "sw q0" }), "no tags"), [1, 3, 5, 7].map((q, i) => h("span", { class: "lg" }, h("i", { class: `sw q${q}` }), ["low", "", "", "highest in the row"][i])), h("span", { class: "lg" }, h("i", { class: "lk band-key" }), "band")),
       smBox),
-    h("section", { class: "card" }, h("header", {}, h("h2", {}, "State summary")), profBox)));
+    h("section", { class: "card", id: "c-state" }, h("header", {}, h("h2", {}, "State summary")), profBox)));
   draw();
 }
 

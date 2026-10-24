@@ -23,6 +23,12 @@ locally (no LLM, no API).
    **Text for every grade at once** (grades `K-12` or `PK-12`: anchor standards, strand overviews) is tagged and shown
    in the website's reader, but left out of `state_summary.csv` and the website's Topics, Charts and Database counts
    (`analysis_exclude_grades` in `topic_tags_meta.json`); its rows stay in `topic_tags.csv` and `text_words.csv`.
+   **Umbrella bands** are left out the same way (`analysis_exclude_bands`, set in `ANALYSIS_EXCLUDE_BANDS` of
+   `scripts/topic_tags.py`): a band such as K-2 or 6-8 over grades that the same document also writes on their own,
+   holding the shared inquiry skills, practices, overview charts and strand headings (e.g. Alaska's K-2, 3-5 and 6-8
+   skills standards next to its grade-by-grade standards). Bands with real course content stay counted (Alabama and
+   West Virginia 9-12, Florida 6-8, Idaho 6-9 and 6-12, Arkansas 7-8, Pennsylvania).
+   `python scripts/topic_tags.py --bands` lists the candidates and whether each is left out.
 3. **Grades.** Each sentence keeps the grades its document assigns to it (the labels used to build the database). A
    band such as `04-06` stays a band; it is never split into single grades or counted once per grade.
 4. **Windows.** Each sentence is read in overlapping windows of 12 words (one every 6 words); a sentence of 12 words or

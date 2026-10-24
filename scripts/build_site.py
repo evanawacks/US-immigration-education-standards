@@ -184,7 +184,8 @@ def load_topic_tags(index):
     fileno = {(s, f["name"]): f["n"] for s, v in index["states"].items() for f in v["files"]}
     acats = set(meta.get("analysis_categories", ["standards"]))
     xgrades = set(meta.get("analysis_exclude_grades", []))   # K-12 text (anchor standards, overviews): viewer only
-    counted = lambda r: r["category"] in acats and r["grades"] not in xgrades
+    xbands = {st: set(g) for st, g in meta.get("analysis_exclude_bands", {}).items()}   # umbrella bands: viewer only
+    counted = lambda r: r["category"] in acats and r["grades"] not in xgrades and r["grades"] not in xbands.get(r["state"], ())
     words = [r for r in csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")) if counted(r)]
     all_tags = list(csv.DictReader(open(tf, encoding="utf-8")))
     tags = [r for r in all_tags if counted(r)]

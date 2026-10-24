@@ -720,18 +720,10 @@
    "12"
   ],
   "files": {
-   "arts_456012.pdf": "skip: not social studies standards",
-   "career_education_and_work_standards_appendix_e-1__a86a77.pdf": "skip: not social studies standards",
-   "civicsandgovernment_125f29.pdf": "use",
-   "e_history_web03_3aa68b.pdf": "use",
-   "economics_standards_appendix_c-1__99ce1c.pdf": "use",
-   "geography_cd6697.pdf": "use",
-   "pa_common_core_-_appendix_c_41d4b5.pdf": "skip: not social studies standards",
-   "pennsylvania_technology_and_engineering_standards_-_grades_6-12_a7e0c9.pdf": "skip: not social studies standards",
-   "personal_finance_standards_d1e49c.pdf": "use"
+   "Pennsylvania_Code_Chapter_4.pdf": "use"
   },
   "issues": [
-   "PA writes standards for grade bands that differ by subject (Civics/History/Geography: end of grades 3, 6, 9, 12 -> K-3, 4-6, 7-9, 10-12; Economics and Personal Finance: K-2, 3-5, 6-8, 9-12). Rows are single grades; each band's text is copied into every grade it covers."
+   "One source: the Pennsylvania Code, Title 22, Chapter 4 (137 pages), which holds all the state's academic standards. Only Appendices C (civics, geography, history), C-1 (economics) and F (personal finance) are social studies; the rest of the file is labeled backup. Civics, geography and history use K-3, 4-6, 7-9, 10-12; economics and personal finance use K-2, 3-5, 6-8, 9-12. Rows are single grades; each band's text is copied into every grade it covers. Economics and personal finance text was read by OCR (pages with no text layer)."
   ]
  },
  "RI": {

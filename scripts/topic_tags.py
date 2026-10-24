@@ -16,7 +16,8 @@ Rules (agreed with the project lead):
     in R) to cut false positives. Tags are stored down to a low floor (SCORE_FLOOR) or when named.
   - All labeled text of used documents is tagged (standards, examples and backup; never running
     headers), so every tag can be seen in the document viewer. The analysis (summaries, the website's
-    Topics and Charts pages) uses the STANDARDS text only (ANALYSIS_CATS).
+    Topics and Charts pages) uses the STANDARDS text only (ANALYSIS_CATS), and leaves out text written for every grade
+    at once (K-12, PK-12: anchor standards and overviews; ANALYSIS_EXCLUDE_GRADES).
     Each sentence is counted once per state: an identical sentence with the same grades and category
     in two places of the same state's documents is kept once (its first occurrence).
   - Main documents and subfiles (scripts/doc_parts.py): when one document holds the text of other documents of the
@@ -53,6 +54,8 @@ DEFAULT_MIN_SCORE = 0.70    # default cut-off for summaries; the website lets yo
 WINDOW, STRIDE = 12, 6      # words per window and step between windows
 PARTS = [("standards", "examples"), ("backup",)]   # tagged in two runs, each with its own similarity cache
 ANALYSIS_CATS = ("standards",)                      # what the summaries and website analysis count
+ANALYSIS_EXCLUDE_GRADES = ("K-12", "PK-12")         # text for every grade at once (anchor standards, overviews): tagged and
+                                                    # shown in the viewer, not counted in the summaries or website analysis
 
 # ---------- sentences ----------
 ABBR = r"\b(?:e\.g|i\.e|etc|v|U\.S|U\.S\.A|U\.K|U\.N|D\.C|St|Mr|Mrs|Ms|Dr|Jr|Sr|vs|No|Gov|Pres|Gen|Rev|ca|c|approx|Ch|Vol|pp|p|Fig|Inc|Co|Corp|Ltd|Mt|Ft|B\.C|A\.D|B\.C\.E|C\.E)\."
@@ -229,6 +232,13 @@ def retag(topics):
             a0 = int(r["char_start"]) - a if r["char_start"] != "" and a >= 0 else r["sentence"].find(r["matched"])
             tags.setdefault(ws(r["sentence"]), (r["sentence"], []))[1].append((by_no[int(r["topic_no"])], float(r["score"]), r["method"], float(r["top_score"]), a0, a0 + len(r["matched"])))
         items, w, sn = corpus(cats)
+        # a state missing from the last run's word counts (its documents were replaced since) is left out until a full run
+        tagged = {r["state"] for r in csv.DictReader(open(OUT / "text_words.csv", encoding="utf-8"))}
+        skip = sorted({it["state"] for it in items} - tagged)
+        if skip:
+            print(f"  not in the last full run, left out until scripts/topic_tags.py runs with the model: {', '.join(skip)}")
+            items = [it for it in items if it["state"] in tagged]
+            w = collections.Counter({k: v for k, v in w.items() if k[0] in tagged}); sn = collections.Counter({k: v for k, v in sn.items() if k[0] in tagged})
         new = [it["sentence"] for it in items if ws(it["sentence"]) not in known]
         if new: sys.exit(f"{len(new)} sentences were not in the last full run (e.g. {new[0][:80]!r}): run without --retag")
         words.update(w); sents_n.update(sn); n_items += len(items)
@@ -257,16 +267,16 @@ def write_outputs(topics, rows, words, sents_n, n_items, meta_extra=None):
         for (st, c, g), n in sorted(words.items()): w.writerow([st, c, g, n, sents_n[(st, c, g)]])
     summ = collections.defaultdict(lambda: [0, 0])
     for (st, c, g), n in words.items():
-        if c in ANALYSIS_CATS: summ[st][0] += n
+        if c in ANALYSIS_CATS and g not in ANALYSIS_EXCLUDE_GRADES: summ[st][0] += n
     for r in rows:
-        if r["category"] in ANALYSIS_CATS and (r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning"): summ[r["state"]][1] += 1
+        if r["category"] in ANALYSIS_CATS and r["grades"] not in ANALYSIS_EXCLUDE_GRADES and (r["score"] >= DEFAULT_MIN_SCORE or r["method"] != "meaning"): summ[r["state"]][1] += 1
     with open(OUT / "state_summary.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["state", "text", "words", "tags", "tags_per_10k_words", "min_score"])
         for st, (n, t) in sorted(summ.items()): w.writerow([st, "+".join(ANALYSIS_CATS), n, t, round(t / n * 1e4, 2) if n else "", DEFAULT_MIN_SCORE])
     (OUT / "topic_tags_meta.json").write_text(json.dumps({"model": MODEL, "score": "cosine similarity of a text window and the topic embedding",
         "window_words": WINDOW, "window_step": STRIDE,
         "topic_text": "'<topic>: <description> Related terms: <search terms>.'", "score_floor": SCORE_FLOOR, "default_min_score": DEFAULT_MIN_SCORE,
-        "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS),
+        "tagged_categories": [c for p in PARTS for c in p], "analysis_categories": list(ANALYSIS_CATS), "analysis_exclude_grades": list(ANALYSIS_EXCLUDE_GRADES),
         "sentences": n_items, "tags": len(rows), "run": now(), **(meta_extra or {})}, indent=1))
     print("wrote", OUT)
 

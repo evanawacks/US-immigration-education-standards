@@ -183,11 +183,13 @@ def load_topic_tags(index):
     sidx = {s: i for i, s in enumerate(states)}
     fileno = {(s, f["name"]): f["n"] for s, v in index["states"].items() for f in v["files"]}
     acats = set(meta.get("analysis_categories", ["standards"]))
-    words = [r for r in csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")) if r["category"] in acats]
+    xgrades = set(meta.get("analysis_exclude_grades", []))   # K-12 text (anchor standards, overviews): viewer only
+    counted = lambda r: r["category"] in acats and r["grades"] not in xgrades
+    words = [r for r in csv.DictReader(open(ANALYSIS / "text_words.csv", encoding="utf-8")) if counted(r)]
     all_tags = list(csv.DictReader(open(tf, encoding="utf-8")))
-    tags = [r for r in all_tags if r["category"] in acats]
+    tags = [r for r in all_tags if counted(r)]
     kf = ANALYSIS / "keyword_tags.csv"   # scripts/keyword_tags.py: the separate keyword counts
-    kw = [r for r in csv.DictReader(open(kf, encoding="utf-8")) if r["category"] in acats] if kf.exists() else []
+    kw = [r for r in csv.DictReader(open(kf, encoding="utf-8")) if counted(r)] if kf.exists() else []
     grades = sorted({r["grades"] for r in words} | {r["grades"] for r in tags} | {r["grades"] for r in kw})
     gidx = {g: i for i, g in enumerate(grades)}
     courses = sorted({r["course"] for r in tags + kw if r["course"]})

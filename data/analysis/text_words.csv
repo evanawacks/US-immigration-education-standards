@@ -690,9 +690,9 @@ NC,standards,07,602,50
 NC,standards,08,814,51
 NC,standards,09-12,3443,214
 NC,standards,K,428,39
-ND,backup,03-05,539,55
+ND,backup,03-05,1093,81
 ND,backup,06-12,3828,193
-ND,backup,K-02,250,24
+ND,backup,K-02,497,41
 ND,backup,K-05,414,30
 ND,backup,K-12,2582,238
 ND,examples,01,83,18
@@ -706,10 +706,10 @@ ND,examples,06-12,3283,189
 ND,examples,K,43,14
 ND,examples,K-05,417,50
 ND,examples,K-12,482,32
-ND,standards,03-05,1041,54
+ND,standards,03-05,495,30
 ND,standards,06-12,2588,205
-ND,standards,K-02,471,37
-ND,standards,K-05,54,12
+ND,standards,K-02,218,19
+ND,standards,K-05,46,10
 NE,backup,06-08,49,2
 NE,backup,K-12,491,42
 NE,examples,01,279,26

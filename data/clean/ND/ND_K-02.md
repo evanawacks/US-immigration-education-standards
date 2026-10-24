@@ -11,37 +11,27 @@ K-5 Civics & Government Standards
 C.K_2.1 Explain reasons for, and purposes of, rules, laws, and positions of authority. C.K_2.2 Explain why people form governments. C.K_2.3 Identify services provided by the local government and how they affect the lives of its citizens/residents. C.K_2.4 Describe the core values represented by symbols of the United States. C.K_2.5 Identify ways citizens/residents participate in community decisions. C.K_2.6 Describe important rights and responsibilities of citizens/residents. C.K_2.7 Explain and/or participate in a project to help or inform others about an issue.
 Origin, Purpose, and Function of Civics
 Grades K-2
-C.K 2.1 Explain reasons for, and purposes of, rules, laws, _ and positions of authority. C.K 2.2 Explain why people form governments. _ C.K 2.3 Identify services provided by the local _ government and how they affect the lives of its citizens/residents. C.K 2.4 Describe the core values represented by symbols _ of the United States.
 Roles and Involvement of United States Citizens and Residents
 Grades K-2
-C.K 2.5 Identify ways citizens/residents participate in _ community decisions. C.K 2.6 Describe important rights and responsibilities of _ citizens/residents. C.K 2.7 Explain and/or participate in a project to help or _ inform others about an issue.
 K-5 Economics Standards
 E.K_2.1 Describe the characteristics of the American economic system. E.K_2.2 Compare and contrast producers and consumers of goods and services. E.K_2.3 Identify consumer decisions and the difference between needs and wants. E.K_2.4 Identify how community helpers impact others. E.K_2.5 Explain how people earn income and save money.
 Exchange and Markets
 Grades K-2
-E.K 2.1 Describe the characteristics of the American _ economic system. E.K 2.2 Compare and contrast producers and consumers _ of goods and services. E.K 2.3 Identify consumer decisions and the difference _ between needs and wants. E.K 2.4 Identify how community helpers impact others. _ E.K. 2.5 Explain how people earn income and save _ money.
-National Economy
 Grades K-2
 K-5 Geography Standards
 G.K_2.1 Construct maps, graphs, and other representations that contain symbols, labels, and legends. G.K_2.2 Describe how the physical environment affects people and how people affect the physical environment.
 Geographic Representation
 Grades K-2
-G.K 2.1 Construct maps, graphs, and other _ representations that contain symbols, labels, and legends.
 Human and Environment Interactions
 Grades K-2
-G.K 2.2 Describe how the physical environment affects _ people and how people affect the physical environment.
-Human Population: Spatial Patterns and Movements
 Grades K-2
 K-5 History Standards H.K_2.1 Compare perspectives of people in the past to those of people in the present. H.K_2.2 Describe national holidays or days of observance in the United States and explain the reason they are celebrated. H.K_2.3 Describe current events. H.K_2.4 Demonstrate chronological thinking by describing changes in the community over time. H.K_2.5 Explain how individuals and groups have made significant historical changes.
 Perspectives
 Grades K-2
-H.K 2.1 Compare perspectives of people in the past to _ those of people in the present.
 Cause, Effect, and Current Events
 Grades K-2
-H.K 2.2 Describe national holidays or days of observance _ in the United States and explain the reason they are celebrated. H.K 2.3 Describe current events. _
 Connections, Contributions, Historical Sources, and Evidence
 Grades K-2
-H.K 2.4 Demonstrate chronological thinking by _ describing changes in the community over time. H.K 2.5 Explain how individuals and groups have made _ significant historical changes.
 
 ## Examples / clarifications
 
@@ -159,6 +149,14 @@ ding Questions
 C.K 2.5 Identify ways citizens/residents participate in _ community decisions.
 C.3 5.5 Describe procedures for making decisions in _ a variety of settings.
 - How can you help others? (e.g., food drive, new student welcoming, charitable giving)
+C.K 2.1 Explain reasons for, and purposes of, rules, laws, _ and positions of authority. C.K 2.2 Explain why people form governments. _ C.K 2.3 Identify services provided by the local _ government and how they affect the lives of its citizens/residents. C.K 2.4 Describe the core values represented by symbols _ of the United States.
+C.K 2.5 Identify ways citizens/residents participate in _ community decisions. C.K 2.6 Describe important rights and responsibilities of _ citizens/residents. C.K 2.7 Explain and/or participate in a project to help or _ inform others about an issue.
+E.K 2.1 Describe the characteristics of the American _ economic system. E.K 2.2 Compare and contrast producers and consumers _ of goods and services. E.K 2.3 Identify consumer decisions and the difference _ between needs and wants. E.K 2.4 Identify how community helpers impact others. _ E.K. 2.5 Explain how people earn income and save _ money.
+G.K 2.1 Construct maps, graphs, and other _ representations that contain symbols, labels, and legends.
+G.K 2.2 Describe how the physical environment affects _ people and how people affect the physical environment.
+H.K 2.1 Compare perspectives of people in the past to _ those of people in the present.
+H.K 2.2 Describe national holidays or days of observance _ in the United States and explain the reason they are celebrated. H.K 2.3 Describe current events. _
+H.K 2.4 Demonstrate chronological thinking by _ describing changes in the community over time. H.K 2.5 Explain how individuals and groups have made _ significant historical changes.
 North Dakota Social Studies Content Standards
 • Civics & Government • Economics • Geography • History
 Kindergarten

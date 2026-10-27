@@ -100,12 +100,17 @@ def load_topics():
     return topics
 
 GENERIC_TAIL = {"migration", "migrations", "movement", "act", "era", "crisis", "decision", "decisions"}
+# Search terms that stay in the topic text (so the scores do not change) but are not matched word for word, since they
+# mostly find unrelated text: "colonists" (American Revolution standards), "Amnesty" (Amnesty International), "St. Louis"
+# (the city; the ship is matched as "MS St. Louis" instead).
+NAME_SKIP = {"colonists", "amnesty", "st. louis"}
+NAME_EXTRA = {"Jewish refugees and the MS St. Louis": ["MS St. Louis", "M.S. St. Louis"]}
 
 def term_patterns(topics):
     pats = []
     for t in topics:
         name = t["topic"].split("(")[0].strip()
-        names = [name] + t["terms"]
+        names = [n for n in [name] + t["terms"] if n.lower() not in NAME_SKIP] + NAME_EXTRA.get(t["topic"], [])
         w = name.split()
         if len(w) >= 3 and w[-1].lower() in GENERIC_TAIL: names.append(" ".join(w[:-1]))   # "Irish Potato Famine migration" -> "Irish Potato Famine"
         alts = sorted({re.escape(n) for n in names if len(n) >= 4}, key=len, reverse=True)

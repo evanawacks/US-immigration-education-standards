@@ -42,7 +42,9 @@ locally (no LLM, no API).
      close to two topics only counts for the closer one. Within a sentence a topic is tagged once, from its best window.
    - *By name*: a sentence also gets every topic whose name or search terms appear in it word for word (a topic name
      ending in a generic word such as "migration" or "Act" also matches without it, e.g. "Irish Potato Famine"), so two
-     topics named in the same sentence are both tagged.
+     topics named in the same sentence are both tagged. A few search terms are not matched word for word because they
+     mostly find unrelated text ("colonists", "Amnesty", "St. Louis"; `NAME_SKIP` in `scripts/topic_tags.py`); they
+     stay in the topic text, so the scores are unchanged, and the ship is matched as "MS St. Louis".
    - `method` says which rule tagged it: `meaning`, `name`, or `both`. `matched` holds the words that triggered the tag
      (the window, or the name found), `char_start`/`char_end` their place in the unit text, and `word_pos` their place
      in the document (words from the start of the document).

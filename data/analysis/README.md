@@ -42,7 +42,10 @@ locally (no LLM, no API).
      close to two topics only counts for the closer one. Within a sentence a topic is tagged once, from its best window.
    - *By name*: a sentence also gets every topic whose name or search terms appear in it word for word (a topic name
      ending in a generic word such as "migration" or "Act" also matches without it, e.g. "Irish Potato Famine"), so two
-     topics named in the same sentence are both tagged.
+     topics named in the same sentence are both tagged. Other forms of a name's last word match too: a plural
+     ("refugees"), and for an -ation or -ism word its people and verb forms ("immigration" also matches immigrant(s),
+     immigrate(d), immigrating; "migration" matches migrant(s), migrate(d); "nativism" matches nativist(s)), so a
+     sentence about "immigrants" names the same topic as one about "immigration".
    - `method` says which rule tagged it: `meaning`, `name`, or `both`. `matched` holds the words that triggered the tag
      (the window, or the name found), `char_start`/`char_end` their place in the unit text, and `word_pos` their place
      in the document (words from the start of the document).
@@ -73,7 +76,11 @@ twice. It needs no model and runs in seconds.
 
 `python scripts/topic_tags.py --retag` rebuilds these files without the model when only the choice of counted
 sentences changed (as with the main-document rule): a sentence's tags depend on its text only, so each sentence gets
-the tags its text had in the last full run. It stops if a sentence was not in that run.
+the tags its text had in the last full run. It stops if a sentence was not in that run. It also applies the current
+name patterns, so a change to the search terms or word forms adds the topics newly named; such a tag has no similarity
+score without the model and is stored with `score` 0 and `method` `name` (counted, since named tags count whatever
+their score, but dropped on the website when "Keep named topics" is off) until the next full run fills in the score
+(`unscored_named` in `topic_tags_meta.json` counts them; 541 after the word forms were added on 24 October 2026).
 
 `state`, `file` and `unit` point to the exact place in the source: `data/clean/units/<state>/<file>.units.jsonl`, or
 the website's side-by-side viewer.

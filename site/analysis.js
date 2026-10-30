@@ -329,7 +329,6 @@ function bins(values, scale, k = 7) {
 const STATE_NOTE = {
   KS: "Standards name no content: five K-12 concept standards; its grade and course units are suggested, not mandated, so they are not counted",
   MD: "No data: no standards file collected",
-  PA: "No data yet: not tagged while its documents are redone",
 };
 function legendBins(b, fmtv, note, noData) {
   if (!b.edges.length && !b.min) return h("div", { class: "legend" }, h("span", {}, "No tags under these filters"));

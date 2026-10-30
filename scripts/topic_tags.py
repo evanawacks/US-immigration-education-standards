@@ -101,6 +101,20 @@ def load_topics():
 
 GENERIC_TAIL = {"migration", "migrations", "movement", "act", "era", "crisis", "decision", "decisions"}
 
+def word_forms(n):
+    """Regex for a name or search term that also matches the other forms of its last word: a plural ("refugees"),
+    and for an -ation or -ism word its people and verb forms ("immigration" -> immigrant(s), immigrate(d), immigrating;
+    "nativism" -> nativist(s)), so "immigrants" in a sentence names the same topic as "immigration"."""
+    head, last = n.rsplit(" ", 1) if " " in n else ("", n)
+    head = re.escape(head + " ") if head else ""
+    m = re.fullmatch(r"(.*[a-z])(ation|ism)s?", last, re.I)
+    if m and len(m.group(1)) >= 3:
+        stem, suf = re.escape(m.group(1)), m.group(2).lower()
+        return head + stem + (r"(?:ations?|ants?|ated?|ates|ating)" if suf == "ation" else r"(?:isms?|ists?)")
+    if re.fullmatch(r"[a-z]{3,}", last):   # a lower-case word (not a name, acronym or number): its plural too
+        return head + re.escape(last) + ("(?:es)?" if re.search(r"(s|x|z|ch|sh)$", last) else "s?")
+    return re.escape(n)
+
 def term_patterns(topics):
     pats = []
     for t in topics:
@@ -108,7 +122,7 @@ def term_patterns(topics):
         names = [name] + t["terms"]
         w = name.split()
         if len(w) >= 3 and w[-1].lower() in GENERIC_TAIL: names.append(" ".join(w[:-1]))   # "Irish Potato Famine migration" -> "Irish Potato Famine"
-        alts = sorted({re.escape(n) for n in names if len(n) >= 4}, key=len, reverse=True)
+        alts = sorted({word_forms(n) for n in names if len(n) >= 4}, key=len, reverse=True)
         pats.append(re.compile(r"(?<![A-Za-z])(?:" + "|".join(alts) + r")(?![A-Za-z])", re.I) if alts else None)
     return pats
 
@@ -252,6 +266,8 @@ def retag(topics):
     """Rebuild the outputs from the tags already in topic_tags.csv, without the model: a sentence's tags depend on its
     text only, so each sentence of the current corpus gets the tags its text had in the last full run."""
     by_no = {t["no"]: t for t in topics}
+    pats = term_patterns(topics)
+    unscored = 0
     old_meta = json.loads((OUT / "topic_tags_meta.json").read_text())
     rows, words, sents_n, n_items = [], collections.Counter(), collections.Counter(), 0
     for cats in PARTS:
@@ -263,7 +279,7 @@ def retag(topics):
         tags = {}   # sentence -> (its text, [(topic, score, method, top_score, a0, a1)]) from its first tagged occurrence
         first = {}
         for r in csv.DictReader(open(OUT / "topic_tags.csv", encoding="utf-8")):
-            if r["category"] not in cats: continue
+            # any category: a sentence's tags depend on its text only, so text relabeled from one category to another keeps them
             occ = (r["state"], r["file"], int(r["unit"]), int(r["sentence_no"]))
             if first.setdefault(r["sentence"], occ) != occ: continue
             a = at.get(occ, -1)
@@ -282,13 +298,25 @@ def retag(topics):
         words.update(w); sents_n.update(sn); n_items += len(items)
         for it in items:
             text, found = tags.get(ws(it["sentence"]), ("", []))
+            top = max((t[3] for t in found), default=0.0)
+            named = {}   # topic no -> span of its name in the sentence, with the current name patterns
+            for t in topics:
+                m = pats[t["no"] - 1].search(it["sentence"]) if pats[t["no"] - 1] else None
+                if m: named[t["no"]] = (m.start(), m.end())
             for t in found:
                 if len(text) != len(it["sentence"]):   # white space changed length: find the matched words again
                     m = re.search(r"\s+".join(map(re.escape, text[t[4]:t[5]].split())), it["sentence"])
                     t = (*t[:4], m.start(), m.end()) if m else t
+                if t[2] == "meaning" and t[0]["no"] in named: t = (t[0], t[1], "both", *t[3:])
                 rows.append(tag_row(it, *t))
+            # a topic named only under the current patterns (e.g. "immigrants" since word forms count) has no similarity
+            # score without the model: it is kept as a named tag with score 0 until the next full run fills in the score
+            have = {t[0]["no"] for t in found}
+            for no, (a0, a1) in named.items():
+                if no not in have: rows.append(tag_row(it, by_no[no], 0.0, "name", top, a0, a1)); unscored += 1
         print(f"{'/'.join(cats)}: {len(items):,} sentences (was {len(old_items):,}), {sum(w.values()):,} words")
-    write_outputs(topics, rows, words, sents_n, n_items, {"run": old_meta.get("run"), "retagged": now()})
+    print(f"  {unscored:,} named tags without a similarity score (score 0 until the next full run)")
+    write_outputs(topics, rows, words, sents_n, n_items, {"run": old_meta.get("run"), "retagged": now(), "unscored_named": unscored})
 
 def now():
     return datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")

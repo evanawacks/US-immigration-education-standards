@@ -33,7 +33,7 @@ python3 scripts/qa_clean.py
 - **PA** writes civics/history/geography for K-3/4-6/7-9/10-12 but economics/personal finance for K-2/3-5/6-8/9-12, so PA rows are single grades with each band's text copied into every grade it covers. PA's only source is the Pennsylvania Code, Chapter 4 (one 137-page file); its economics (pp. 107-109) and personal finance (pp. 132-136) pages are pictures, so their text was read by OCR and needs checking against the PDF (see `labels/PA/` issues).
 - **MS**: the PDF contains three editions (2022 current, 2021, 2018 with redlines); only the 2022 text plus the 2021 Humanities course (absent in 2022) are in the body; the rest is in backup.
 - **CA**: Appendix C (the 1998 content standards) is `body_standards`; the framework chapters are `body_examples` (narrative), so CA examples columns are large.
-- **NE, ND, AZ** high-school strands are not courses → one 9-12 row. **OK, MT** appendices/sheets that duplicate standards printed elsewhere were moved to backup.
+- **NE, ND, AZ** high-school strands are not courses → one 9-12 row. **OK, MT** appendices/sheets that duplicate standards printed elsewhere were moved to backup. **ND** prints every K-5 standard twice, as a list and again in theme tables; the table copies (u221-u307) are backup, so the list copy is counted once.
 - **GA** is built from the CASE export; metadata columns (item type, sequence, grade code, timestamp) are dropped, keeping "code + statement".
 - **AL** practice names in the skills tables are images in the PDF and are missing from the text (the skills themselves are present).
 
@@ -69,7 +69,7 @@ python3 scripts/qa_clean.py
 | MS | 27 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 17 | 25,378 | 0 | 67,553 |
 | MT | 9 | K, 1, 2, 3, 4, 5, 6-8, 9-12 | 0 | 3,474 | 0 | 2,996 |
 | NC | 14 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 4 | 9,409 | 4,121 | 3,044 |
-| ND | 4 | K-2, 3-5, 6-12 | 0 | 4,705 | 6,409 | 8,866 |
+| ND | 4 | K-2, 3-5, 6-12 | 0 | 3,890 | 6,409 | 9,673 |
 | NE | 11 | K, 1, 2, 3, 4, 5, 6, 7, 8, 9-12 | 0 | 11,775 | 4,897 | 1,119 |
 | NH | 6 | K-2, 3-4, 5-6, 7-8, 9-12 | 0 | 18,719 | 13,745 | 10,328 |
 | NJ | 5 | K-2, 3-5, 6-8, 9-12 | 0 | 22,278 | 6,753 | 4,837 |

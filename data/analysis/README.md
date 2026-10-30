@@ -82,6 +82,11 @@ score without the model and is stored with `score` 0 and `method` `name` (counte
 their score, but dropped on the website when "Keep named topics" is off) until the next full run fills in the score
 (`unscored_named` in `topic_tags_meta.json` counts them; 541 after the word forms were added on 24 October 2026).
 
+`python3 scripts/topic_tags.py --add` is the same, except that the sentences that were not in the last full run (a state
+added or rebuilt since, such as Pennsylvania after its Chapter 4 rebuild) are tagged with the model instead of being left
+out. Only those sentences are embedded, so it takes minutes rather than the two hours of a full run, and their scores
+are the ones a full run would give. `topic_tags_meta.json` lists the states added this way under `added`.
+
 `state`, `file` and `unit` point to the exact place in the source: `data/clean/units/<state>/<file>.units.jsonl`, or
 the website's side-by-side viewer.
 

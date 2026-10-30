@@ -35,10 +35,11 @@ Outputs (data/analysis/):
   text_words.csv        words and sentences counted per state x category x grade group (denominators)
   state_summary.csv     per state (standards text): words, tags and tags per 10,000 words at DEFAULT_MIN_SCORE
   topic_tags_meta.json  model, settings and run date
-Usage: python scripts/topic_tags.py [--reuse] [--count] [--retag]   (needs: pip install fastembed; --reuse skips
+Usage: python scripts/topic_tags.py [--reuse] [--count] [--retag] [--add]   (needs: pip install fastembed; --reuse skips
        re-embedding when only the tagging rules or settings changed; --retag needs no model: it reuses the tags already in
        topic_tags.csv, since a sentence's tags depend on its text only, when only the choice of counted sentences changed,
-       e.g. main documents and subfiles)
+       e.g. main documents and subfiles; --add is --retag that tags with the model the sentences not in the last full run,
+       e.g. a state rebuilt since)
 """
 import csv, json, re, sys, collections, datetime
 from pathlib import Path
@@ -178,28 +179,39 @@ def main():
     topics = load_topics()
     reuse = "--reuse" in sys.argv
     if "--retag" in sys.argv: return retag(topics)
+    if "--add" in sys.argv: return retag(topics, tagger=Tagger(topics))
     if "--bands" in sys.argv: return bands()
     if "--count" in sys.argv:
         for cats in PARTS:
             items, words, _ = corpus(cats); print(cats, f"{len(items):,} unique sentences, {sum(words.values()):,} words")
         return
-    from fastembed import TextEmbedding
-    model = TextEmbedding(MODEL)
-    def embed(texts, bs=64):
-        return np.array(list(model.embed(texts, batch_size=bs)), dtype=np.float32)
+    tagger = Tagger(topics)
     OUT.mkdir(parents=True, exist_ok=True)
-    tvec = embed([f"{t['topic']}: {t['description']} Related terms: {', '.join(t['terms'])}." for t in topics])
-    tvec /= np.linalg.norm(tvec, axis=1, keepdims=True)
-    pats = term_patterns(topics)
     rows, words, sents_n, n_items = [], collections.Counter(), collections.Counter(), 0
     for cats in PARTS:
         items, w, sn = corpus(cats)
         words.update(w); sents_n.update(sn); n_items += len(items)
+        print(f"{'/'.join(cats)}: {sum(w.values()):,} words", flush=True)
+        rows += [r for rs in tagger.tag(items, cache=OUT / f"similarity_cache_{'_'.join(cats)}.npy", reuse=reuse) for r in rs]
+    write_outputs(topics, rows, words, sents_n, n_items)
+
+class Tagger:
+    """The model and the tagging rules: tag(items) gives each corpus item its list of tag rows."""
+    def __init__(self, topics):
+        from fastembed import TextEmbedding
+        self.model, self.topics, self.pats = TextEmbedding(MODEL), topics, term_patterns(topics)
+        self.tvec = self.embed([f"{t['topic']}: {t['description']} Related terms: {', '.join(t['terms'])}." for t in topics])
+        self.tvec /= np.linalg.norm(self.tvec, axis=1, keepdims=True)
+
+    def embed(self, texts, bs=64):
+        return np.array(list(self.model.embed(texts, batch_size=bs)), dtype=np.float32)
+
+    def tag(self, items, cache=None, reuse=False):
+        topics, pats = self.topics, self.pats
         wins = [windows(it["sentence"]) for it in items]
         flat = [(k, j) for k, ws in enumerate(wins) for j in range(len(ws))]
-        print(f"{'/'.join(cats)}: {len(items):,} unique sentences, {len(flat):,} windows, {sum(w.values()):,} words", flush=True)
-        cache = OUT / f"similarity_cache_{'_'.join(cats)}.npy"   # not committed; --reuse skips re-embedding
-        sim_all = np.load(cache) if reuse and cache.exists() else None
+        print(f"  {len(items):,} sentences to tag with the model, {len(flat):,} windows", flush=True)
+        sim_all = np.load(cache) if cache and reuse and cache.exists() else None   # not committed; --reuse skips re-embedding
         if sim_all is not None and sim_all.shape != (len(flat), len(topics)): sim_all = None
         if sim_all is None:
             # embed in order of length (less padding per batch, much faster), keep results in window order
@@ -209,12 +221,12 @@ def main():
             B = 8192
             for b0 in range(0, len(order), B):
                 idx = order[b0:b0 + B]
-                sv = embed([texts[i] for i in idx])
+                sv = self.embed([texts[i] for i in idx])
                 sv /= np.linalg.norm(sv, axis=1, keepdims=True)
-                sim_all[idx] = sv @ tvec.T
+                sim_all[idx] = sv @ self.tvec.T
                 print(f"  embedded {min(b0 + B, len(order)):,}/{len(order):,} windows", flush=True)
-            np.save(cache, sim_all)
-        row0 = 0
+            if cache: np.save(cache, sim_all)
+        out, row0 = [], 0
         for it, ws in zip(items, wins):
             sim = sim_all[row0:row0 + len(ws)]; row0 += len(ws)
             sent = it["sentence"]
@@ -229,9 +241,9 @@ def main():
                 if not m: continue
                 sc = float(sim[:, i].max())
                 found[i] = (sc, m.start(), m.end(), "both" if i in found else "name")
-            for i, (sc, a0, a1, method) in sorted(found.items(), key=lambda x: -x[1][0]):
-                rows.append(tag_row(it, topics[i], round(sc, 4), method, round(top_score, 4), a0, a1))
-    write_outputs(topics, rows, words, sents_n, n_items)
+            out.append([tag_row(it, topics[i], round(sc, 4), method, round(top_score, 4), a0, a1)
+                        for i, (sc, a0, a1, method) in sorted(found.items(), key=lambda x: -x[1][0])])
+        return out
 
 def bands():
     """List candidate umbrella bands: a band of the analysis text whose grades the same document also writes on their own
@@ -262,12 +274,14 @@ def tag_row(it, topic, score, method, top_score, a0, a1):
             "matched": sent[a0:a1], "char_start": at + a0 if at >= 0 else "", "char_end": at + a1 if at >= 0 else "",
             "word_pos": it["wpos"] + len(sent[:a0].split()), "sentence": sent}
 
-def retag(topics):
+def retag(topics, tagger=None):
     """Rebuild the outputs from the tags already in topic_tags.csv, without the model: a sentence's tags depend on its
-    text only, so each sentence of the current corpus gets the tags its text had in the last full run."""
+    text only, so each sentence of the current corpus gets the tags its text had in the last full run.
+    With a tagger (--add), the sentences that were not in the last run (a state added or rebuilt since) are tagged with
+    the model instead of being left out, so only they are embedded (minutes, not the two hours of a full run)."""
     by_no = {t["no"]: t for t in topics}
     pats = term_patterns(topics)
-    unscored = 0
+    unscored, added = 0, set()
     old_meta = json.loads((OUT / "topic_tags_meta.json").read_text())
     rows, words, sents_n, n_items = [], collections.Counter(), collections.Counter(), 0
     for cats in PARTS:
@@ -289,14 +303,21 @@ def retag(topics):
         # a state missing from the last run's word counts (its documents were replaced since) is left out until a full run
         tagged = {r["state"] for r in csv.DictReader(open(OUT / "text_words.csv", encoding="utf-8"))}
         skip = sorted({it["state"] for it in items} - tagged)
-        if skip:
+        if skip and tagger:
+            print(f"  not in the last full run, tagged with the model: {', '.join(skip)}")
+        elif skip:
             print(f"  not in the last full run, left out until scripts/topic_tags.py runs with the model: {', '.join(skip)}")
             items = [it for it in items if it["state"] in tagged]
             w = collections.Counter({k: v for k, v in w.items() if k[0] in tagged}); sn = collections.Counter({k: v for k, v in sn.items() if k[0] in tagged})
-        new = [it["sentence"] for it in items if ws(it["sentence"]) not in known]
+        new = [it for it in items if ws(it["sentence"]) not in known or (tagger and it["state"] in skip)]
+        new_tags = dict(zip(map(id, new), tagger.tag(new))) if tagger and new else {}
+        added |= {it["state"] for it in items if id(it) in new_tags}
+        new = [it["sentence"] for it in new if id(it) not in new_tags]
         if new: sys.exit(f"{len(new)} sentences were not in the last full run (e.g. {new[0][:80]!r}): run without --retag")
         words.update(w); sents_n.update(sn); n_items += len(items)
         for it in items:
+            if id(it) in new_tags:
+                rows += new_tags[id(it)]; continue
             text, found = tags.get(ws(it["sentence"]), ("", []))
             top = max((t[3] for t in found), default=0.0)
             named = {}   # topic no -> span of its name in the sentence, with the current name patterns
@@ -315,8 +336,10 @@ def retag(topics):
             for no, (a0, a1) in named.items():
                 if no not in have: rows.append(tag_row(it, by_no[no], 0.0, "name", top, a0, a1)); unscored += 1
         print(f"{'/'.join(cats)}: {len(items):,} sentences (was {len(old_items):,}), {sum(w.values()):,} words")
+    unscored = sum(1 for r in rows if r["score"] == 0 and r["method"] == "name")   # this run's and those carried over
     print(f"  {unscored:,} named tags without a similarity score (score 0 until the next full run)")
-    write_outputs(topics, rows, words, sents_n, n_items, {"run": old_meta.get("run"), "retagged": now(), "unscored_named": unscored})
+    write_outputs(topics, rows, words, sents_n, n_items, {"run": old_meta.get("run"), "retagged": now(), "unscored_named": unscored,
+                                                          **({"added": old_meta.get("added", []) + [{"states": sorted(added), "date": now()}]} if added else {})})
 
 def now():
     return datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")

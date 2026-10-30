@@ -325,12 +325,19 @@ function bins(values, scale, k = 7) {
   const cls = (x) => { if (!(x > 0)) return "q0"; let i = 0; while (i < edges.length && x >= edges[i]) i++; return `q${map[i]}`; };
   return { edges, cls, steps, map, min: lo0, max: v[v.length - 1] };
 }
-function legendBins(b, fmtv, note) {
+// states whose count needs a word of explanation on the map (see docs/label_reviews/)
+const STATE_NOTE = {
+  KS: "Standards name no content: five K-12 concept standards; its grade and course units are suggested, not mandated, so they are not counted",
+  MD: "No data: no standards file collected",
+  PA: "No data yet: not tagged while its documents are redone",
+};
+function legendBins(b, fmtv, note, noData) {
   if (!b.edges.length && !b.min) return h("div", { class: "legend" }, h("span", {}, "No tags under these filters"));
   const ranges = [];
   const lo = [b.min, ...b.edges], hi = [...b.edges, b.max];
   for (let i = 0; i < lo.length; i++) ranges.push(h("span", { class: "lg" }, h("i", { class: `sw q${b.map[i]}` }), `${fmtv(lo[i])}–${fmtv(hi[i])}`));
-  return h("div", { class: "legend" }, h("span", { class: "lg" }, h("i", { class: "sw q0" }), "0 / not selected"), ranges, note ? h("span", { class: "muted" }, note) : null);
+  return h("div", { class: "legend" }, h("span", { class: "lg" }, h("i", { class: "sw q0" }), "0 / not selected"), ranges,
+    noData ? h("span", { class: "lg" }, h("i", { class: "sw nodata" }), "No data") : null, note ? h("span", { class: "muted" }, note) : null);
 }
 
 function markMatch(sentence, start, len) {
@@ -486,7 +493,7 @@ async function chartsPage() {
     kwPer = D.keyword ? [] : KL.map(({ k, D: K }) => { const per = {}; for (const i of filteredTags(K)) { const s = D.states[K.tags.st[i]]; per[s] = (per[s] || 0) + 1; } return { k, per, n: Object.values(per).reduce((a, b) => a + b, 0) }; });
     stat.replaceChildren(h("span", {}, h("b", {}, fmt(keep.length)), " tags"), h("span", {}, h("b", {}, distinct(D, keep)), " distinct topics"), h("span", {}, h("b", {}, eff.length), " states with text"),
       h("span", {}, h("b", {}, fmt(totW)), " words of standards"), h("span", {}, h("b", {}, totW ? fmt1((keep.length / totW) * 1e4) : "—"), " tags per 10,000 words"),
-      kwPer.map(({ k, n }) => h("a", { href: topicHref(k.no), class: "kw-stat" }, h("b", {}, fmt(n)), ` ${k.word} keyword matches`)));
+      ...kwPer.map(({ k, n }) => h("a", { href: topicHref(k.no), class: "kw-stat" }, h("b", {}, fmt(n)), ` ${k.word} keyword matches`)));
     drawMap(eff, per, words, top);
     drawMatrix(keep, eff, words);
     const all = wordTotals(D, { ignoreGrade: true });
@@ -504,13 +511,16 @@ async function chartsPage() {
     const val = (s) => (opt.mapMeasure === "rate" ? (words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0) : opt.mapMeasure === "distinct" ? nTop(s) : per[s] || 0);
     const b = bins(eff.map(val), opt.mapScale);
     const effSet = new Set(eff);
+    const selSet = new Set(D.states.filter((s) => AF.states.has(s)).concat(Object.keys(STATE_NOTE).filter((s) => !D.states.includes(s))));
+    const picked = (s) => selSet.has(s) && AF.regions.has(REGION_OF[s]);
+    const noData = (s) => !effSet.has(s) && picked(s) && s !== "KS" && !!STATE_NOTE[s];   // selected, but nothing to count
     const paths = features.map((f) => {
       const s = nameToAbbr[f.properties.name];
-      const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : "q0 off"}`, tabindex: "0", "aria-label": s });
+      const p = svg("path", { d: geoPath(f.geometry), class: `st ${effSet.has(s) ? b.cls(val(s)) : noData(s) ? "nodata" : "q0 off"}`, tabindex: "0", "aria-label": s });
       const show = (e) => {
         const tops = Object.entries(top[s] || {}).sort((a, c) => c[1] - a[1]).slice(0, 3).map(([t, n]) => [fmt(n), D.keyword ? "keyword matches" : `${t}. ${D.topicByNo[t].topic}`]);
-        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...kwPer.map(({ k, per: kp }) => [fmt(kp[s] || 0), `${k.word} keyword matches`]), ...tops, ["", "Click to see its documents"]]
-          : [[f.properties.name, s === "MD" ? "no standards file collected" : "not selected"]]);
+        tip.show(e, effSet.has(s) ? [[D.stateNames[s] || f.properties.name, `${REGION_OF[s]}`], [fmt(per[s] || 0), "tags"], [fmt(nTop(s)), "distinct topics"], [fmt1(words[s] ? ((per[s] || 0) / words[s]) * 1e4 : 0), "tags per 10,000 words"], [fmt(words[s] || 0), "words counted"], ...kwPer.map(({ k, per: kp }) => [fmt(kp[s] || 0), `${k.word} keyword matches`]), ...tops, ...(STATE_NOTE[s] ? [["", STATE_NOTE[s]]] : []), ["", "Click to see its documents"]]
+          : [[f.properties.name, picked(s) && STATE_NOTE[s] ? STATE_NOTE[s] : "not selected"]]);
       };
       onPoint(p, show); p.addEventListener("pointerleave", tip.hide);
       p.addEventListener("focus", (e) => { if (!document.activeElement?.matches(":focus-visible")) return; const r = p.getBoundingClientRect(); show({ clientX: r.left + r.width / 2, clientY: r.top + r.height / 2 }); });
@@ -529,9 +539,13 @@ async function chartsPage() {
       m.addEventListener("pointerleave", tip.hide);
       extra.push(svg("line", { x1: c[0], y1: c[1], x2: c[0] + 28, y2: c[1] + 18, class: "leader" }), m, svg("text", { x: c[0] + 38, y: c[1] + 22, class: "map-lab" }, "DC"));
     }
-    mapBox.replaceChildren(svg("svg", { viewBox: "-60 0 1040 620", role: "img", "aria-label": "Map of states colored by immigration-topic tags" }, paths, extra));
+    const hatch = svg("defs", {}, svg("pattern", { id: "nodata-hatch", width: "6", height: "6", patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" },
+      svg("rect", { width: "6", height: "6", class: "hatch-bg" }), svg("line", { x1: "0", y1: "0", x2: "0", y2: "6", class: "hatch-ln" })));
+    mapBox.replaceChildren(svg("svg", { viewBox: "-60 0 1040 620", role: "img", "aria-label": "Map of states colored by immigration-topic tags" }, hatch, paths, extra));
     const f = opt.mapMeasure === "rate" ? fmt1 : (x) => fmt(Math.round(x));
-    mapLegend.replaceChildren(legendBins(b, f, opt.mapScale === "quantile" ? "Five equal-size groups of states" : opt.mapScale === "log" ? "Log scale" : ""));
+    const kNote = effSet.has("KS") && !(val("KS") > 0) ? "Kansas: 0 because its standards name no content (suggested units not counted)" : "";
+    const scaleNote = opt.mapScale === "quantile" ? "Five equal-size groups of states" : opt.mapScale === "log" ? "Log scale" : "";
+    mapLegend.replaceChildren(legendBins(b, f, [scaleNote, kNote].filter(Boolean).join(" · "), [...selSet].some(noData)));
     mapTable.replaceChildren(h("table", { class: "ledger" }, h("thead", {}, h("tr", {}, ["State", "Region", "Tags", "Distinct topics", "Words", "Per 10,000 words", ...kwPer.map(({ k }) => `${k.word} words`)].map((x, i) => h("th", { class: i > 1 ? "num" : null }, x)))),
       h("tbody", {}, eff.slice().sort((a, c) => val(c) - val(a)).map((s) => h("tr", {}, h("td", {}, `${s} · ${D.stateNames[s]}`), h("td", {}, REGION_OF[s]), h("td", { class: "num" }, fmt(per[s] || 0)), h("td", { class: "num" }, fmt(nTop(s))), h("td", { class: "num" }, fmt(words[s])), h("td", { class: "num" }, fmt1(((per[s] || 0) / words[s]) * 1e4)), kwPer.map(({ per: kp }) => h("td", { class: "num" }, fmt(kp[s] || 0))))))));
   }
